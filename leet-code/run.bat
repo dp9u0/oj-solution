@@ -1,1 +1,1 @@
-node ./problems/662/solution.js
+node ./problems/15/solution.js

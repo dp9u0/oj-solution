@@ -663,7 +663,7 @@
 | 659 | [todo](./problems/659/README.md)                                         |                    |        |                   |        |
 | 660 | [todo](./problems/660/README.md)                                         |                    |        |                   |        |
 | 661 | [todo](./problems/661/README.md)                                         |                    |        |                   |        |
-| 662 | [Maximum Width of Binary Tree](./problems/662/README.md)                 | :o:                | Medium | [tree]            |        |
+| 662 | [Maximum Width of Binary Tree](./problems/662/README.md)                 | :o:                | Medium | [tree],[dfs]      |        |
 | 663 | [todo](./problems/663/README.md)                                         |                    |        |                   |        |
 | 664 | [todo](./problems/664/README.md)                                         |                    |        |                   |        |
 | 665 | [todo](./problems/665/README.md)                                         |                    |        |                   |        |

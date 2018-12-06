@@ -71,4 +71,6 @@ Explanation:The maximum width existing in the fourth level with the length 8 (6,
 
 ## Solution
 
+通过深度优先遍历所有节点,每一个深度最左边的节点位置,然后计算每个节点与最左边节点的差值,即为当前宽度,然后更新最优值即可.
+
 [SourceCode](./solution.js)

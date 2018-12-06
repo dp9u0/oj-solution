@@ -8,7 +8,7 @@ var threeSum = function (nums) {
   let length = nums.length;
   for (let index = 0; index < length; index++) {
     var first = nums[index];
-    // 跳过相同的数字,因为之前肯定已经计算过了 相同数字意味着计算结果肯定也相同
+    // 跳过相同的数字 因为之前肯定已经计算过了 相同数字意味着计算结果肯定也相同
     if (index && nums[index] === nums[index - 1]) {
       continue;
     }

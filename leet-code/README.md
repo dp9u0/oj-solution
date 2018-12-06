@@ -14,7 +14,7 @@
 | 11  | [Container With Most Water](./problems/11/README.md)                     | :heavy_check_mark: | Medium | [array],[tp]      |           |
 | 15  | [3Sum](./problems/15/README.md)                                          | :heavy_check_mark: | Medium | [array],[tp]      |           |
 | 16  | [3Sum Closest](./problems/16/README.md)                                  | :heavy_check_mark: | Medium | [array],[tp]      |           |
-| 18  | [4Sum](./problems/18/README.md)                                          | :0:                | Medium | [array]           |           |
+| 18  | [4Sum](./problems/18/README.md)                                          | :heavy_check_mark: | Medium | [array],[tp]      |           |
 | 35  | [Search Insert Position](./problems/35/README.md)                        | :0:                | Easy   | [array]           |           |
 | 36  | [Valid Sudoku](./problems/36/README.md)                                  | :heavy_check_mark: | Medium | [array]           |           |
 | 37  | [Sudoku Solver](./problems/37/README.md)                                 | :heavy_check_mark: | Hard   | [dfs],[bt]        | [TooSlow] |

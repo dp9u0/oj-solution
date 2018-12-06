@@ -13,4 +13,6 @@ The sum that is closest to the target is 2. (-1 + 2 + 1 = 2).
 
 ## Solution
 
+tow points 与 #15 3 sum 解法类似
+
 [SourceCode](./solution.js)

@@ -12,8 +12,8 @@
 | 8   | [String to Integer (atoi)](./problems/8/README.md)                       | :heavy_check_mark: | Medium | [string]          | [TooSlow] |
 | 9   | [Palindrome Number](./problems/9/README.md)                              | :heavy_check_mark: | Easy   | [other]           | [TooSlow] |
 | 11  | [Container With Most Water](./problems/11/README.md)                     | :heavy_check_mark: | Medium | [array],[tp]      |           |
-| 15  | [3Sum](./problems/15/README.md)                                  | :0:                | Medium | [array]           |           |
-| 16  | [3Sum Closest](./problems/16/README.md)                                  | :0:                | Medium | [array]           |           |
+| 15  | [3Sum](./problems/15/README.md)                                          | :heavy_check_mark: | Medium | [array],[tp]      |           |
+| 16  | [3Sum Closest](./problems/16/README.md)                                  | :heavy_check_mark: | Medium | [array],[tp]      |           |
 | 18  | [4Sum](./problems/18/README.md)                                          | :0:                | Medium | [array]           |           |
 | 35  | [Search Insert Position](./problems/35/README.md)                        | :0:                | Easy   | [array]           |           |
 | 36  | [Valid Sudoku](./problems/36/README.md)                                  | :heavy_check_mark: | Medium | [array]           |           |

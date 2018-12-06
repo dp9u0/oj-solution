@@ -1,1 +1,0 @@
-node ./problems/15/solution.js

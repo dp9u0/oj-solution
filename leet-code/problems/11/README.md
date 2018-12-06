@@ -15,4 +15,6 @@ Output: 49
 
 ## Solution
 
+可以考虑从最左侧和最右侧的两个点开始,向中间聚拢,首先需要明确的是,越向里 r - l 越小,也就需要 a[l] 或者 a[r] 比之前更大能得到更大的面积
+
 [SourceCode](./solution.js)

@@ -9,20 +9,19 @@ var threeSum = function (nums) {
   for (let index = 0; index < length; index++) {
     var first = nums[index];
     // 跳过相同的数字 因为之前肯定已经计算过了 相同数字意味着计算结果肯定也相同
-    if (index && nums[index] === nums[index - 1]) {
+    if (index && first === nums[index - 1]) {
       continue;
     }
-    let target = -nums[index];
+    let target = -first;
     let [start, end] = [index + 1, length - 1];
     while (start < end) {
       var second = nums[start];
       var third = nums[end];
-
-      let tar = second + third;
-      if (tar > target) {
+      let sum = second + third;
+      if (sum > target) {
         end--;
       } else
-      if (tar < target) {
+      if (sum < target) {
         start++;
       } else {
         solutions.push([first, second, third]);

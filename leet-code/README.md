@@ -15,22 +15,22 @@
 | 15  | [3Sum](./problems/15/README.md)                                          | :heavy_check_mark: | Medium | [array],[tp]      |           |
 | 16  | [3Sum Closest](./problems/16/README.md)                                  | :heavy_check_mark: | Medium | [array],[tp]      |           |
 | 18  | [4Sum](./problems/18/README.md)                                          | :heavy_check_mark: | Medium | [array],[tp]      |           |
-| 35  | [Search Insert Position](./problems/35/README.md)                        | :0:                | Easy   | [array]           |           |
+| 35  | [Search Insert Position](./problems/35/README.md)                        | :o:                | Easy   | [array]           |           |
 | 36  | [Valid Sudoku](./problems/36/README.md)                                  | :heavy_check_mark: | Medium | [array]           |           |
 | 37  | [Sudoku Solver](./problems/37/README.md)                                 | :heavy_check_mark: | Hard   | [dfs],[bt]        | [TooSlow] |
 | 38  | [Count and Say](./problems/38/README.md)                                 | :heavy_check_mark: | Easy   | [string]          |           |
-| 41  | [First Missing Positive](./problems/41/README.md)                        | :0:                | Hard   | [array]           |           |
+| 41  | [First Missing Positive](./problems/41/README.md)                        | :o:                | Hard   | [array]           |           |
 | 42  | [Trapping Rain Water](./problems/42/README.md)                           | :heavy_check_mark: | Hard   | [tp]              |           |
-| 45  | [Jump Game II](./problems/45/README.md)                                  | :0:                | Hard   | [array]           |           |
+| 45  | [Jump Game II](./problems/45/README.md)                                  | :o:                | Hard   | [array]           |           |
 | 50  | [Pow(x, n)](./problems/50/README.md)                                     | :heavy_check_mark: | Medium | [bs],[dc]         |           |
-| 55  | [Jump Game](./problems/55/README.md)                                     | :0:                | Medium | [array]           |           |
+| 55  | [Jump Game](./problems/55/README.md)                                     | :o:                | Medium | [array]           |           |
 | 56  | [Merge Intervals](./problems/56/README.md)                               | :heavy_check_mark: | Medium | [array]           |           |
-| 59  | [Spiral Matrix II](./problems/59/README.md)                              | :0:                | Medium | [array]           |           |
+| 59  | [Spiral Matrix II](./problems/59/README.md)                              | :o:                | Medium | [array]           |           |
 | 65  | [Valid Number](./problems/65/README.md)                                  | :x:                | Hard   | [other]           | :-1:      |
 | 226 | [Invert Binary Tree](./problems/226/README.md)                           | :heavy_check_mark: | Easy   | [tree],[dc]       |           |
 | 442 | [Find All Duplicates in an Array](./problems/442/README.md)              | :heavy_check_mark: | Medium | [array]           |           |
 | 662 | [Maximum Width of Binary Tree](./problems/662/README.md)                 | :heavy_check_mark: | Medium | [tree],[dfs]      |           |
-| 999 | [Template](./problems/999/README.md)                                     | :0:                |        |                   |           |
+| 999 | [Template](./problems/999/README.md)                                     | :o:                |        |                   |           |
 
 ## 分类
 

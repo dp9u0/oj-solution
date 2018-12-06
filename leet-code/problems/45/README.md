@@ -1,14 +1,22 @@
-# 16. 3Sum Closest
+# 45. Jump Game II
 
 ## Description
 
-Given an array nums of n integers and an integer target, find three integers in nums such that the sum is closest to target. Return the sum of the three integers. You may assume that each input would have exactly one solution.
+Given an array of non-negative integers, you are initially positioned at the first index of the array.
+
+Each element in the array represents your maximum jump length at that position.
+
+Your goal is to reach the last index in the minimum number of jumps.
+
+Note: You can assume that you can always reach the last index.
 
 ## Example
 
 ```javascript
-Given array nums = [-1, 2, 1, -4], and target = 1.
-The sum that is closest to the target is 2. (-1 + 2 + 1 = 2).
+Input: [2,3,1,1,4]
+Output: 2
+Explanation: The minimum number of jumps to reach the last index is 2.
+    Jump 1 step from index 0 to 1, then 3 steps to the last index.
 ```
 
 ## Solution

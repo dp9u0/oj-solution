@@ -1,0 +1,1 @@
+node ./problems/662/solution.js

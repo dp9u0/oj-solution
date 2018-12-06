@@ -11,19 +11,23 @@
 | 7   | [Reverse Integer](./problems/7/README.md)                                | :heavy_check_mark: | Easy   | [other]           | [TooSlow] |
 | 8   | [String to Integer (atoi)](./problems/8/README.md)                       | :heavy_check_mark: | Medium | [string]          | [TooSlow] |
 | 9   | [Palindrome Number](./problems/9/README.md)                              | :heavy_check_mark: | Easy   | [other]           | [TooSlow] |
-| 10  | [Regular Expression Matching](./problems/10/README.md)                   | :0:                | Hard   | [string]          |           |
-| 11  | [Container With Most Water](./problems/11/README.md)                     | :0:                | Medium | [array],[tp]      |           |
+| 11  | [Container With Most Water](./problems/11/README.md)                     | :heavy_check_mark: | Medium | [array],[tp]      |           |
+| 15  | [3Sum](./problems/15/README.md)                                  | :0:                | Medium | [array]           |           |
+| 16  | [3Sum Closest](./problems/16/README.md)                                  | :0:                | Medium | [array]           |           |
+| 18  | [4Sum](./problems/18/README.md)                                          | :0:                | Medium | [array]           |           |
+| 35  | [Search Insert Position](./problems/35/README.md)                        | :0:                | Easy   | [array]           |           |
 | 36  | [Valid Sudoku](./problems/36/README.md)                                  | :heavy_check_mark: | Medium | [array]           |           |
 | 37  | [Sudoku Solver](./problems/37/README.md)                                 | :heavy_check_mark: | Hard   | [dfs],[bt]        | [TooSlow] |
 | 38  | [Count and Say](./problems/38/README.md)                                 | :heavy_check_mark: | Easy   | [string]          |           |
+| 41  | [First Missing Positive](./problems/41/README.md)                        | :0:                | Hard   | [array]           |           |
 | 42  | [Trapping Rain Water](./problems/42/README.md)                           | :heavy_check_mark: | Hard   | [tp]              |           |
+| 45  | [Jump Game II](./problems/45/README.md)                                  | :0:                | Hard   | [array]           |           |
 | 50  | [Pow(x, n)](./problems/50/README.md)                                     | :heavy_check_mark: | Medium | [bs],[dc]         |           |
+| 55  | [Jump Game](./problems/55/README.md)                                     | :0:                | Medium | [array]           |           |
 | 56  | [Merge Intervals](./problems/56/README.md)                               | :heavy_check_mark: | Medium | [array]           |           |
+| 59  | [Spiral Matrix II](./problems/59/README.md)                              | :0:                | Medium | [array]           |           |
 | 65  | [Valid Number](./problems/65/README.md)                                  | :x:                | Hard   | [other]           | :-1:      |
-| 73  | [Set Matrix Zeroes](./problems/73/README.md)                             | :0:                |        | [array]           |           |
 | 226 | [Invert Binary Tree](./problems/226/README.md)                           | :heavy_check_mark: | Easy   | [tree],[dc]       |           |
-| 238 | [Product of Array Except Self](./problems/238/README.md)                 | :0:                |        | [array]           |           |
-| 414 | [Third Maximum Number](./problems/414/README.md)                         | :0:                |        | [array]           |           |
 | 442 | [Find All Duplicates in an Array](./problems/442/README.md)              | :heavy_check_mark: | Medium | [array]           |           |
 | 662 | [Maximum Width of Binary Tree](./problems/662/README.md)                 | :heavy_check_mark: | Medium | [tree],[dfs]      |           |
 | 999 | [Template](./problems/999/README.md)                                     | :0:                |        |                   |           |

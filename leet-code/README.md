@@ -23,7 +23,6 @@
 
 ## Solving
 
-* [27](./solving/27/README.md) : [array]
 * [31](./solving/31/README.md) : [array]
 * [33](./solving/33/README.md) : [array]
 * [34](./solving/34/README.md) : [array]
@@ -82,7 +81,7 @@
 | 24  | [Swap Nodes in Pairs](./solving/24/README.md)                                          | :o:                | Medium |                   |        |
 | 25  | [Reverse Nodes in k-Group](./solving/25/README.md)                                     | :o:                | Hard   |                   |        |
 | 26  | [Remove Duplicates from Sorted Array](./solving/26/README.md)                          | :heavy_check_mark: | Easy   | [array],[tp]      |        |
-| 27  | [Remove Element](./solving/27/README.md)                                               | :o:                | Easy   |                   |        |
+| 27  | [Remove Element](./solving/27/README.md)                                               | :heavy_check_mark: | Easy   | [array],[tp]      |        |
 | 28  | [Implement strStr()](./solving/28/README.md)                                           | :o:                | Easy   |                   |        |
 | 29  | [Divide Two Integers](./solving/29/README.md)                                          | :o:                | Medium |                   |        |
 | 30  | [Substring with Concatenation of All Words](./solving/30/README.md)                    | :o:                | Hard   |                   |        |

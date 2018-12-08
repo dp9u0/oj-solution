@@ -27,6 +27,7 @@
 | 56  | [Merge Intervals](./problems/56/README.md)                               | :heavy_check_mark: | Medium | [array]           |           |
 | 59  | [Spiral Matrix II](./problems/59/README.md)                              | :o:                | Medium | [array]           |           |
 | 65  | [Valid Number](./problems/65/README.md)                                  | :x:                | Hard   | [other]           | :-1:      |
+| 70  | [Climbing Stairs](./problems/70/README.md)                               | :heavy_check_mark: | Easy   | [array],[dp]      |           |
 | 226 | [Invert Binary Tree](./problems/226/README.md)                           | :heavy_check_mark: | Easy   | [tree],[dc]       |           |
 | 442 | [Find All Duplicates in an Array](./problems/442/README.md)              | :heavy_check_mark: | Medium | [array]           |           |
 | 662 | [Maximum Width of Binary Tree](./problems/662/README.md)                 | :heavy_check_mark: | Medium | [tree],[dfs]      |           |

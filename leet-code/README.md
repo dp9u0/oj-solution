@@ -23,52 +23,17 @@
 
 ## Solving
 
-### array
-
-| Seq | Title                                             | Status | Level  | Tags    | Remark |
-| --- | ------------------------------------------------- | ------ | ------ | ------- | ------ |
-| 999 | [Template](./solving/999/README.md)              | :o:    |        |         |        |
-| 45  | [Jump Game II](./solving/45/README.md)           | :o:    | Hard   | [array] |        |
-| 55  | [Jump Game](./solving/55/README.md)              | :o:    | Medium | [array] |        |
-| 59  | [Spiral Matrix II](./solving/59/README.md)       | :o:    | Medium | [array] |        |
-
-### backtracking
-
-| Seq | Title                                             | Status | Level  | Tags    | Remark |
-| --- | ------------------------------------------------- | ------ | ------ | ------- | ------ |
-| 999 | [Template](./solving/999/README.md)              | :o:    |        |         |        |
-
-### divide_and_conquer
-
-| Seq | Title                                             | Status | Level  | Tags    | Remark |
-| --- | ------------------------------------------------- | ------ | ------ | ------- | ------ |
-| 999 | [Template](./solving/999/README.md)              | :o:    |        |         |        |
-
-### dynamic_programming
-
-| Seq | Title                                             | Status | Level  | Tags    | Remark |
-| --- | ------------------------------------------------- | ------ | ------ | ------- | ------ |
-| 999 | [Template](./solving/999/README.md)              | :o:    |        |         |        |
-
-### greedy
-
-| Seq | Title                                             | Status | Level  | Tags    | Remark |
-| --- | ------------------------------------------------- | ------ | ------ | ------- | ------ |
-| 999 | [Template](./solving/999/README.md)              | :o:    |        |         |        |
-
-### dfs or bfs
-
-| Seq | Title                                             | Status | Level  | Tags    | Remark |
-| --- | ------------------------------------------------- | ------ | ------ | ------- | ------ |
-| 999 | [Template](./solving/999/README.md)              | :o:    |        |         |        |
+* 45 [Jump Game II](./solving/45/README.md) : Hard [array],[greed]
+* 55 [Jump Game](./solving/55/README.md) : Medium [array],[greed]
+* 59 [Spiral Matrix II](./solving/59/README.md) : Medium [array]
 
 ## Problems
 
 | Seq | Title                                                                                  | Status             | Level  | Tags              | Remark |
 | --- | -------------------------------------------------------------------------------------- | ------------------ | ------ | ----------------- | ------ |
 | 1   | [Two Sum](./problems/1/README.md)                                                      | :heavy_check_mark: | Easy   | [array],[hashing] |        |
-| 2   | [Add Two Numbers](./problems/2/README.md) | :heavy_check_mark: | Medium | [ll]              | Slow   |
-| 3   | [Longest Substring Without Repeating](./problems/3/README.md) | :heavy_check_mark: | Medium | [tp]              | Slow   |
+| 2   | [Add Two Numbers](./problems/2/README.md)                                              | :heavy_check_mark: | Medium | [ll]              | Slow   |
+| 3   | [Longest Substring Without Repeating](./problems/3/README.md)                          | :heavy_check_mark: | Medium | [tp]              | Slow   |
 | 4   | [Median of Two Sorted Arrays](./problems/4/README.md)                                  | :heavy_check_mark: | Hard   | [bs]              |        |
 | 5   | [Longest Palindromic Substring](./problems/5/README.md)                                | :heavy_check_mark: | Medium | [dp]              | Slow   |
 | 6   | [ZigZag Conversion](./problems/6/README.md)                                            | :heavy_check_mark: | Medium | [string]          |        |
@@ -106,8 +71,8 @@
 | 38  | [Count and Say](./problems/38/README.md)                                               | :heavy_check_mark: | Easy   | [string]          |        |
 | 39  | [Combination Sum](./solving/39/README.md)                                              | :o:                | Medium |                   |        |
 | 40  | [Combination Sum II](./solving/40/README.md)                                           | :o:                | Medium |                   |        |
-| 41  | [First Missing Positive](./solving/41/README.md) | :heavy_check_mark:    | Hard   | [array] |        |
-| 42  | [Trapping Rain Water](./problems/42/README.md)                                         | :heavy_check_mark: | Hard   | [tp]              |        |
+| 41  | [First Missing Positive](./solving/41/README.md)                                       | :heavy_check_mark: | Hard   | [array]           |        |
+| 42  | [Trapping Rain Water](./problems/42/README.md)                                         | :heavy_check_mark: | Hard   | [array],[tp]      |        |
 | 43  | [Multiply Strings](./solving/43/README.md)                                             | :o:                | Medium |                   |        |
 | 44  | [Wildcard Matching](./solving/44/README.md)                                            | :o:                | Hard   |                   |        |
 | 45  | [Jump Game II](./solving/45/README.md)                                                 | :o:                | Hard   |                   |        |

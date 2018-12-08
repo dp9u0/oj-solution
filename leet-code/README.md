@@ -23,9 +23,35 @@
 
 ## Solving
 
-* 45 [Jump Game II](./solving/45/README.md) : Hard [array],[greed]
-* 55 [Jump Game](./solving/55/README.md) : Medium [array],[greed]
-* 59 [Spiral Matrix II](./solving/59/README.md) : Medium [array]
+* [26](./solving/26/README.md) : [array]
+* [27](./solving/27/README.md) : [array]
+* [31](./solving/31/README.md) : [array]
+* [33](./solving/33/README.md) : [array]
+* [34](./solving/34/README.md) : [array]
+* [39](./solving/39/README.md) : [array]
+* [40](./solving/40/README.md) : [array]
+* [45](./solving/45/README.md) : [array],[greed]
+* [48](./solving/48/README.md) : [array]
+* [53](./solving/53/README.md) : [array]
+* [54](./solving/54/README.md) : [array]
+* [55](./solving/55/README.md) : [array],[greed]
+* [57](./solving/57/README.md) : [array]
+* [59](./solving/59/README.md) : [array]
+* [62](./solving/62/README.md) : [array]
+* [63](./solving/63/README.md) : [array]
+* [64](./solving/64/README.md) : [array]
+* [66](./solving/66/README.md) : [array]
+* [73](./solving/73/README.md) : [array]
+* [74](./solving/74/README.md) : [array]
+* [75](./solving/75/README.md) : [array]
+* [78](./solving/78/README.md) : [array]
+* [79](./solving/79/README.md) : [array]
+* [80](./solving/80/README.md) : [array]
+* [81](./solving/81/README.md) : [array]
+* [84](./solving/84/README.md) : [array]
+* [85](./solving/85/README.md) : [array]
+* [88](./solving/88/README.md) : [array]
+* [90](./solving/90/README.md) : [array]
 
 ## Problems
 

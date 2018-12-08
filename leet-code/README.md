@@ -23,6 +23,8 @@
 
 ## Solving
 
+### array
+
 | Seq | Title                                             | Status | Level  | Tags    | Remark |
 | --- | ------------------------------------------------- | ------ | ------ | ------- | ------ |
 | 999 | [Template](./problems/999/README.md)              | :o:    |        |         |        |
@@ -30,6 +32,37 @@
 | 45  | [Jump Game II](./problems/45/README.md)           | :o:    | Hard   | [array] |        |
 | 55  | [Jump Game](./problems/55/README.md)              | :o:    | Medium | [array] |        |
 | 59  | [Spiral Matrix II](./problems/59/README.md)       | :o:    | Medium | [array] |        |
+
+### backtracking
+
+| Seq | Title                                             | Status | Level  | Tags    | Remark |
+| --- | ------------------------------------------------- | ------ | ------ | ------- | ------ |
+| 999 | [Template](./problems/999/README.md)              | :o:    |        |         |        |
+
+### divide_and_conquer
+
+| Seq | Title                                             | Status | Level  | Tags    | Remark |
+| --- | ------------------------------------------------- | ------ | ------ | ------- | ------ |
+| 999 | [Template](./problems/999/README.md)              | :o:    |        |         |        |
+
+### dynamic_programming
+
+| Seq | Title                                             | Status | Level  | Tags    | Remark |
+| --- | ------------------------------------------------- | ------ | ------ | ------- | ------ |
+| 999 | [Template](./problems/999/README.md)              | :o:    |        |         |        |
+
+### greedy
+
+| Seq | Title                                             | Status | Level  | Tags    | Remark |
+| --- | ------------------------------------------------- | ------ | ------ | ------- | ------ |
+| 999 | [Template](./problems/999/README.md)              | :o:    |        |         |        |
+
+### dfs or bfs
+
+| Seq | Title                                             | Status | Level  | Tags    | Remark |
+| --- | ------------------------------------------------- | ------ | ------ | ------- | ------ |
+| 999 | [Template](./problems/999/README.md)              | :o:    |        |         |        |
+
 
 ## Problems 
 
@@ -56,7 +89,7 @@
 | 50  | [Pow(x, n)](./problems/50/README.md)                          | :heavy_check_mark: | Medium | [bs],[dc]         |        |
 | 56  | [Merge Intervals](./problems/56/README.md)                    | :heavy_check_mark: | Medium | [array]           |        |
 | 65  | [Valid Number](./problems/65/README.md)                       | :x:                | Hard   | [other]           | :-1:   |
-| 70  | [Climbing Stairs](./problems/70/README.md)                    | :heavy_check_mark: | Easy   | [array],[dp]      |        |
+| 70  | [Climbing Stairs](./problems/70/README.md)                    | :heavy_check_mark: | Easy   | [dp]      |        |
 | 226 | [Invert Binary Tree](./problems/226/README.md)                | :heavy_check_mark: | Easy   | [tree],[dc]       |        |
 | 442 | [Find All Duplicates in an Array](./problems/442/README.md)   | :heavy_check_mark: | Medium | [array]           |        |
 | 662 | [Maximum Width of Binary Tree](./problems/662/README.md)      | :heavy_check_mark: | Medium | [tree],[dfs]      |        |

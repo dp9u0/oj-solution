@@ -818,7 +818,7 @@
 | 768 | [Max Chunks To Make Sorted II](./solving/768/README.md)                                | :o:                | Hard   |                   |        |
 | 769 | [Max Chunks To Make Sorted](./solving/769/README.md)                                   | :o:                | Medium |                   |        |
 | 770 | [Basic Calculator IV](./solving/770/README.md)                                         | :o:                | Hard   |                   |        |
-| 771 | [Jewels and Stones](./solving/771/README.md)                                           | :o:                | Easy   |                   |        |
+| 771 | [Jewels and Stones](./solving/771/README.md)                                           | :heavy_check_mark: | Easy   | [hasing]          |        |
 | 772 | [Basic Calculator III](./solving/772/README.md)                                        | :o:                | Hard   |                   |        |
 | 773 | [Sliding Puzzle](./solving/773/README.md)                                              | :o:                | Hard   |                   |        |
 | 774 | [Minimize Max Distance to Gas Station](./solving/774/README.md)                        | :o:                | Hard   |                   |        |

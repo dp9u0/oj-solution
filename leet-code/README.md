@@ -23,7 +23,6 @@
 
 ## Solving
 
-* [31](./solving/31/README.md) : [array]
 * [33](./solving/33/README.md) : [array]
 * [34](./solving/34/README.md) : [array]
 * [39](./solving/39/README.md) : [array]
@@ -85,7 +84,7 @@
 | 28  | [Implement strStr()](./solving/28/README.md)                                           | :o:                | Easy   |                   |        |
 | 29  | [Divide Two Integers](./solving/29/README.md)                                          | :o:                | Medium |                   |        |
 | 30  | [Substring with Concatenation of All Words](./solving/30/README.md)                    | :o:                | Hard   |                   |        |
-| 31  | [Next Permutation](./solving/31/README.md)                                             | :o:                | Medium |                   |        |
+| 31  | [Next Permutation](./solving/31/README.md)                                             | :heavy_check_mark: | Medium | [array],[tp]      |        |
 | 32  | [Longest Valid Parentheses](./solving/32/README.md)                                    | :o:                | Hard   |                   |        |
 | 33  | [Search in Rotated Sorted Array](./solving/33/README.md)                               | :o:                | Medium |                   |        |
 | 34  | [Find First and Last Position of Element in Sorted Array](./solving/34/README.md)      | :o:                | Medium |                   |        |

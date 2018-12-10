@@ -38,7 +38,6 @@
 * [62](./solving/62/README.md) : [array]
 * [63](./solving/63/README.md) : [array]
 * [64](./solving/64/README.md) : [array]
-* [66](./solving/66/README.md) : [array]
 * [73](./solving/73/README.md) : [array]
 * [74](./solving/74/README.md) : [array]
 * [75](./solving/75/README.md) : [array]
@@ -120,7 +119,7 @@
 | 63  | [Unique Paths II](./solving/63/README.md)                                              | :o:                | Medium |                   |        |
 | 64  | [Minimum Path Sum](./solving/64/README.md)                                             | :o:                | Medium |                   |        |
 | 65  | [Valid Number](./problems/65/README.md)                                                | :x:                | Hard   | [other]           | :-1:   |
-| 66  | [Plus One](./solving/66/README.md)                                                     | :o:                | Easy   |                   |        |
+| 66  | [Plus One](./solving/66/README.md)                                                     | :heavy_check_mark: | Easy   | [array],[math]    |        |
 | 67  | [Add Binary](./solving/67/README.md)                                                   | :o:                | Easy   |                   |        |
 | 68  | [Text Justification](./solving/68/README.md)                                           | :o:                | Hard   |                   |        |
 | 69  | [Sqrt(x)](./solving/69/README.md)                                                      | :o:                | Easy   |                   |        |

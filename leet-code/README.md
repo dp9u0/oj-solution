@@ -51,26 +51,26 @@
 
 ## Problems
 
-| Seq | Title                                                                                  | Status             | Level  | Tags              | Remark |
-| --- | -------------------------------------------------------------------------------------- | ------------------ | ------ | ----------------- | ------ |
-| 1   | [Two Sum](./problems/1/README.md)                                                      | :heavy_check_mark: | Easy   | [array],[hashing] |        |
-| 2   | [Add Two Numbers](./problems/2/README.md)                                              | :heavy_check_mark: | Medium | [ll]              | Slow   |
-| 3   | [Longest Substring Without Repeating](./problems/3/README.md)                          | :heavy_check_mark: | Medium | [tp]              | Slow   |
-| 4   | [Median of Two Sorted Arrays](./problems/4/README.md)                                  | :heavy_check_mark: | Hard   | [bs]              |        |
-| 5   | [Longest Palindromic Substring](./problems/5/README.md)                                | :heavy_check_mark: | Medium | [dp]              | Slow   |
-| 6   | [ZigZag Conversion](./problems/6/README.md)                                            | :heavy_check_mark: | Medium | [string]          |        |
-| 7   | [Reverse Integer](./problems/7/README.md)                                              | :heavy_check_mark: | Easy   | [other]           | Slow   |
-| 8   | [String to Integer (atoi)](./problems/8/README.md)                                     | :heavy_check_mark: | Medium | [string]          | Slow   |
-| 9   | [Palindrome Number](./problems/9/README.md)                                            | :heavy_check_mark: | Easy   | [other]           | Slow   |
+| Seq | Title                                                                                   | Status             | Level  | Tags              | Remark |
+| --- | --------------------------------------------------------------------------------------- | ------------------ | ------ | ----------------- | ------ |
+| 1   | [Two Sum](./problems/1/README.md)                                                       | :heavy_check_mark: | Easy   | [array],[hashing] |        |
+| 2   | [Add Two Numbers](./problems/2/README.md)                                               | :heavy_check_mark: | Medium | [ll]              | Slow   |
+| 3   | [Longest Substring Without Repeating](./problems/3/README.md)                           | :heavy_check_mark: | Medium | [tp]              | Slow   |
+| 4   | [Median of Two Sorted Arrays](./problems/4/README.md)                                   | :heavy_check_mark: | Hard   | [bs]              |        |
+| 5   | [Longest Palindromic Substring](./problems/5/README.md)                                 | :heavy_check_mark: | Medium | [dp]              | Slow   |
+| 6   | [ZigZag Conversion](./problems/6/README.md)                                             | :heavy_check_mark: | Medium | [string]          |        |
+| 7   | [Reverse Integer](./problems/7/README.md)                                               | :heavy_check_mark: | Easy   | [other]           | Slow   |
+| 8   | [String to Integer (atoi)](./problems/8/README.md)                                      | :heavy_check_mark: | Medium | [string]          | Slow   |
+| 9   | [Palindrome Number](./problems/9/README.md)                                             | :heavy_check_mark: | Easy   | [other]           | Slow   |
 | 10  | [Regular Expression Matching](./problems/10/README.md)                                  | :o:                | Hard   |                   |        |
-| 11  | [Container With Most Water](./problems/11/README.md)                                   | :heavy_check_mark: | Medium | [array],[tp]      |        |
+| 11  | [Container With Most Water](./problems/11/README.md)                                    | :heavy_check_mark: | Medium | [array],[tp]      |        |
 | 12  | [Integer to Roman](./problems/12/README.md)                                             | :o:                | Medium |                   |        |
 | 13  | [Roman to Integer](./problems/13/README.md)                                             | :o:                | Easy   |                   |        |
 | 14  | [Longest Common Prefix](./problems/14/README.md)                                        | :o:                | Easy   |                   |        |
-| 15  | [3Sum](./problems/15/README.md)                                                        | :heavy_check_mark: | Medium | [array],[tp]      |        |
-| 16  | [3Sum Closest](./problems/16/README.md)                                                | :heavy_check_mark: | Medium | [array],[tp]      |        |
+| 15  | [3Sum](./problems/15/README.md)                                                         | :heavy_check_mark: | Medium | [array],[tp]      |        |
+| 16  | [3Sum Closest](./problems/16/README.md)                                                 | :heavy_check_mark: | Medium | [array],[tp]      |        |
 | 17  | [Letter Combinations of a Phone Number](./problems/17/README.md)                        | :o:                | Medium |                   |        |
-| 18  | [4Sum](./problems/18/README.md)                                                        | :heavy_check_mark: | Medium | [array],[tp]      |        |
+| 18  | [4Sum](./problems/18/README.md)                                                         | :heavy_check_mark: | Medium | [array],[tp]      |        |
 | 19  | [Remove Nth Node From End of List](./problems/19/README.md)                             | :o:                | Medium |                   |        |
 | 20  | [Valid Parentheses](./problems/20/README.md)                                            | :o:                | Easy   |                   |        |
 | 21  | [Merge Two Sorted Lists](./problems/21/README.md)                                       | :o:                | Easy   |                   |        |
@@ -87,14 +87,14 @@
 | 32  | [Longest Valid Parentheses](./problems/32/README.md)                                    | :o:                | Hard   |                   |        |
 | 33  | [Search in Rotated Sorted Array](./problems/33/README.md)                               | :o:                | Medium |                   |        |
 | 34  | [Find First and Last Position of Element in Sorted Array](./problems/34/README.md)      | :o:                | Medium |                   |        |
-| 35  | [Search Insert Position](./problems/35/README.md)                                      | :heavy_check_mark: | Easy   | [array],[bs]      |        |
-| 36  | [Valid Sudoku](./problems/36/README.md)                                                | :heavy_check_mark: | Medium | [array]           |        |
-| 37  | [Sudoku Solver](./problems/37/README.md)                                               | :heavy_check_mark: | Hard   | [dfs],[bt]        | Slow   |
-| 38  | [Count and Say](./problems/38/README.md)                                               | :heavy_check_mark: | Easy   | [string]          |        |
+| 35  | [Search Insert Position](./problems/35/README.md)                                       | :heavy_check_mark: | Easy   | [array],[bs]      |        |
+| 36  | [Valid Sudoku](./problems/36/README.md)                                                 | :heavy_check_mark: | Medium | [array]           |        |
+| 37  | [Sudoku Solver](./problems/37/README.md)                                                | :heavy_check_mark: | Hard   | [dfs],[bt]        | Slow   |
+| 38  | [Count and Say](./problems/38/README.md)                                                | :heavy_check_mark: | Easy   | [string]          |        |
 | 39  | [Combination Sum](./problems/39/README.md)                                              | :o:                | Medium |                   |        |
 | 40  | [Combination Sum II](./problems/40/README.md)                                           | :o:                | Medium |                   |        |
 | 41  | [First Missing Positive](./problems/41/README.md)                                       | :heavy_check_mark: | Hard   | [array]           |        |
-| 42  | [Trapping Rain Water](./problems/42/README.md)                                         | :heavy_check_mark: | Hard   | [array],[tp]      |        |
+| 42  | [Trapping Rain Water](./problems/42/README.md)                                          | :heavy_check_mark: | Hard   | [array],[tp]      |        |
 | 43  | [Multiply Strings](./problems/43/README.md)                                             | :o:                | Medium |                   |        |
 | 44  | [Wildcard Matching](./problems/44/README.md)                                            | :o:                | Hard   |                   |        |
 | 45  | [Jump Game II](./problems/45/README.md)                                                 | :o:                | Hard   |                   |        |
@@ -102,13 +102,13 @@
 | 47  | [Permutations II](./problems/47/README.md)                                              | :o:                | Medium |                   |        |
 | 48  | [Rotate Image](./problems/48/README.md)                                                 | :o:                | Medium |                   |        |
 | 49  | [Group Anagrams](./problems/49/README.md)                                               | :o:                | Medium |                   |        |
-| 50  | [Pow(x, n)](./problems/50/README.md)                                                   | :heavy_check_mark: | Medium | [bs],[dc]         |        |
-| 51  | [N-Queens](./problems/51/README.md)                                                     | :o:                | Hard   |                   |        |
-| 52  | [N-Queens II](./problems/52/README.md)                                                  | :o:                | Hard   |                   |        |
+| 50  | [Pow(x, n)](./problems/50/README.md)                                                    | :heavy_check_mark: | Medium | [bs],[dc]         |        |
+| 51  | [N-Queens](./problems/51/README.md)                                                     | :heavy_check_mark: | Hard   | [bt]              |        |
+| 52  | [N-Queens II](./problems/52/README.md)                                                  | :heavy_check_mark: | Hard   | [bt]              |        |
 | 53  | [Maximum Subarray](./problems/53/README.md)                                             | :o:                | Easy   |                   |        |
 | 54  | [Spiral Matrix](./problems/54/README.md)                                                | :o:                | Medium |                   |        |
 | 55  | [Jump Game](./problems/55/README.md)                                                    | :o:                | Medium |                   |        |
-| 56  | [Merge Intervals](./problems/56/README.md)                                             | :heavy_check_mark: | Medium | [array]           |        |
+| 56  | [Merge Intervals](./problems/56/README.md)                                              | :heavy_check_mark: | Medium | [array]           |        |
 | 57  | [Insert Interval](./problems/57/README.md)                                              | :o:                | Hard   |                   |        |
 | 58  | [Length of Last Word](./problems/58/README.md)                                          | :o:                | Easy   |                   |        |
 | 59  | [Spiral Matrix II](./problems/59/README.md)                                             | :o:                | Medium |                   |        |
@@ -117,12 +117,12 @@
 | 62  | [Unique Paths](./problems/62/README.md)                                                 | :o:                | Medium |                   |        |
 | 63  | [Unique Paths II](./problems/63/README.md)                                              | :o:                | Medium |                   |        |
 | 64  | [Minimum Path Sum](./problems/64/README.md)                                             | :o:                | Medium |                   |        |
-| 65  | [Valid Number](./problems/65/README.md)                                                | :x:                | Hard   | [other]           | :-1:   |
-| 66  | [Plus One](./solving/66/README.md)                                                     | :heavy_check_mark: | Easy   | [array],[math]    |        |
-| 67  | [Add Binary](./solving/67/README.md)                                                   | :o:                | Easy   |                   |        |
-| 68  | [Text Justification](./solving/68/README.md)                                           | :o:                | Hard   |                   |        |
-| 69  | [Sqrt(x)](./solving/69/README.md)                                                      | :o:                | Easy   |                   |        |
-| 70  | [Climbing Stairs](./problems/70/README.md)                                             | :heavy_check_mark: | Easy   | [dp]              |        |
+| 65  | [Valid Number](./problems/65/README.md)                                                 | :x:                | Hard   | [other]           | :-1:   |
+| 66  | [Plus One](./solving/66/README.md)                                                      | :heavy_check_mark: | Easy   | [array],[math]    |        |
+| 67  | [Add Binary](./solving/67/README.md)                                                    | :o:                | Easy   |                   |        |
+| 68  | [Text Justification](./solving/68/README.md)                                            | :o:                | Hard   |                   |        |
+| 69  | [Sqrt(x)](./solving/69/README.md)                                                       | :o:                | Easy   |                   |        |
+| 70  | [Climbing Stairs](./problems/70/README.md)                                              | :heavy_check_mark: | Easy   | [dp]              |        |
 | 71  | [Simplify Path](./problems/71/README.md)                                                | :o:                | Medium |                   |        |
 | 72  | [Edit Distance](./problems/72/README.md)                                                | :o:                | Hard   |                   |        |
 | 73  | [Set Matrix Zeroes](./problems/73/README.md)                                            | :o:                | Medium |                   |        |
@@ -278,7 +278,7 @@
 | 223 | [Rectangle Area](./problems/223/README.md)                                              | :o:                | Medium |                   |        |
 | 224 | [Basic Calculator](./problems/224/README.md)                                            | :o:                | Hard   |                   |        |
 | 225 | [Implement Stack using Queues](./problems/225/README.md)                                | :o:                | Easy   |                   |        |
-| 226 | [Invert Binary Tree](./problems/226/README.md)                                         | :heavy_check_mark: | Easy   | [tree],[dc]       |        |
+| 226 | [Invert Binary Tree](./problems/226/README.md)                                          | :heavy_check_mark: | Easy   | [tree],[dc]       |        |
 | 227 | [Basic Calculator II](./problems/227/README.md)                                         | :o:                | Medium |                   |        |
 | 228 | [Summary Ranges](./problems/228/README.md)                                              | :o:                | Medium |                   |        |
 | 229 | [Majority Element II](./problems/229/README.md)                                         | :o:                | Medium |                   |        |
@@ -494,7 +494,7 @@
 | 439 | [Ternary Expression Parser](./problems/439/README.md)                                   | :o:                | Medium |                   |        |
 | 440 | [K-th Smallest in Lexicographical Order](./problems/440/README.md)                      | :o:                | Hard   |                   |        |
 | 441 | [Arranging Coins](./problems/441/README.md)                                             | :o:                | Easy   |                   |        |
-| 442 | [Find All Duplicates in an Array](./problems/442/README.md)                            | :heavy_check_mark: | Medium | [array]           |        |
+| 442 | [Find All Duplicates in an Array](./problems/442/README.md)                             | :heavy_check_mark: | Medium | [array]           |        |
 | 443 | [String Compression](./problems/443/README.md)                                          | :o:                | Easy   |                   |        |
 | 444 | [Sequence Reconstruction](./problems/444/README.md)                                     | :o:                | Medium |                   |        |
 | 445 | [Add Two Numbers II](./problems/445/README.md)                                          | :o:                | Medium |                   |        |
@@ -708,7 +708,7 @@
 | 659 | [Split Array into Consecutive Subsequences](./problems/659/README.md)                   | :o:                | Medium |                   |        |
 | 660 | [Remove 9](./problems/660/README.md)                                                    | :o:                | Hard   |                   |        |
 | 661 | [Image Smoother](./problems/661/README.md)                                              | :o:                | Easy   |                   |        |
-| 662 | [Maximum Width of Binary Tree](./problems/662/README.md)                               | :heavy_check_mark: | Medium | [tree],[dfs]      |        |
+| 662 | [Maximum Width of Binary Tree](./problems/662/README.md)                                | :heavy_check_mark: | Medium | [tree],[dfs]      |        |
 | 663 | [Equal Tree Partition](./problems/663/README.md)                                        | :o:                | Medium |                   |        |
 | 664 | [Strange Printer](./problems/664/README.md)                                             | :o:                | Hard   |                   |        |
 | 665 | [Non-decreasing Array](./problems/665/README.md)                                        | :o:                | Easy   |                   |        |

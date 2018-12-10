@@ -582,7 +582,7 @@
 | 531 | [Lonely Pixel I](./problems/531/README.md)                                              | :o:                | Medium |                   |        |
 | 532 | [K-diff Pairs in an Array](./problems/532/README.md)                                    | :o:                | Easy   |                   |        |
 | 533 | [Lonely Pixel II](./problems/533/README.md)                                             | :o:                | Medium |                   |        |
-| 535 | [Encode and Decode TinyURL](./problems/535/README.md)                                   | :o:                | Medium |                   |        |
+| 535 | [Encode and Decode TinyURL](./problems/535/README.md)                                   | :heavy_check_mark: | Medium | [hashing]         |        |
 | 536 | [Construct Binary Tree from String](./problems/536/README.md)                           | :o:                | Medium |                   |        |
 | 537 | [Complex Number Multiplication](./problems/537/README.md)                               | :o:                | Medium |                   |        |
 | 538 | [Convert BST to Greater Tree](./problems/538/README.md)                                 | :o:                | Easy   |                   |        |

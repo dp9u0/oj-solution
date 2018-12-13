@@ -62,7 +62,7 @@
 | 7   | [Reverse Integer](./problems/7/README.md)                                               | :heavy_check_mark: | Easy   | [other]           | Slow   |
 | 8   | [String to Integer (atoi)](./problems/8/README.md)                                      | :heavy_check_mark: | Medium | [string]          | Slow   |
 | 9   | [Palindrome Number](./problems/9/README.md)                                             | :heavy_check_mark: | Easy   | [other]           | Slow   |
-| 10  | [Regular Expression Matching](./problems/10/README.md)                                  | :o:                | Hard   |                   |        |
+| 10  | [Regular Expression Matching](./problems/10/README.md)                                  | :heavy_check_mark: | Hard   | [dp]              |        |
 | 11  | [Container With Most Water](./problems/11/README.md)                                    | :heavy_check_mark: | Medium | [array],[tp]      |        |
 | 12  | [Integer to Roman](./problems/12/README.md)                                             | :o:                | Medium |                   |        |
 | 13  | [Roman to Integer](./problems/13/README.md)                                             | :o:                | Easy   |                   |        |

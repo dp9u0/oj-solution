@@ -30,4 +30,8 @@ Explanation: The billboard cannot be supported, so we return 0.
 
 ## Solution
 
+使用`f[diff]` ,表示diff 已经存在的sum 与 当前输入x 的值差值或者sum,`f[diff]`记录 能达到这一个值diff,sum的最大累计是多少.
+
+f[0] 即为该问题的解
+
 [SourceCode](./solution.js)

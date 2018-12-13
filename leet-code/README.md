@@ -998,3 +998,4 @@
 | 950 | [Reveal Cards In Increasing Order](./problems/950/README.md)                            | :o:                | Medium |                   |        |
 | 951 | [Flip Equivalent Binary Trees](./problems/951/README.md)                                | :o:                | Medium |                   |        |
 | 952 | [Largest Component Size by Common Factor](./problems/952/README.md)                     | :o:                | Hard   |                   |        |
+| 956 | [956. Tallest Billboard](./problems/956/README.md)                                      | :heavy_check_mark: | Hard   | [dp],[hashing]    |        |

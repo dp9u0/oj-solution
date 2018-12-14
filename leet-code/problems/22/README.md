@@ -21,4 +21,6 @@ For example, given n = 3, a solution set is:
 
 ## Solution
 
+backtrace 即可 需要注意的是 当 left === 0 的时候 不应该继续 left - 1 这一个分支了
+
 [SourceCode](./solution.js)

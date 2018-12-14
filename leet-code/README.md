@@ -75,7 +75,7 @@
 | 20  | [Valid Parentheses](./problems/20/README.md)                                            | :heavy_check_mark: | Easy   | [stack]           |        |
 | 21  | [Merge Two Sorted Lists](./problems/21/README.md)                                       | :heavy_check_mark: | Easy   | [ll]              |        |
 | 22  | [Generate Parentheses](./problems/22/README.md)                                         | :heavy_check_mark: | Medium | [bt]              |        |
-| 23  | [Merge k Sorted Lists](./problems/23/README.md)                                         | :o                 | Hard   |                   |        |
+| 23  | [Merge k Sorted Lists](./problems/23/README.md)                                         | :heavy_check_mark: | Hard   | [dc],[ll]         |        |
 | 24  | [Swap Nodes in Pairs](./problems/24/README.md)                                          | :o                 | Medium |                   |        |
 | 25  | [Reverse Nodes in k-Group](./problems/25/README.md)                                     | :o                 | Hard   |                   |        |
 | 26  | [Remove Duplicates from Sorted Array](./problems/26/README.md)                          | :heavy_check_mark: | Easy   | [array],[tp]      |        |

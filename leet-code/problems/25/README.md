@@ -23,4 +23,6 @@ For k = 3, you should return: 3->2->1->4->5
 
 ## Solution
 
+双指针
+
 [SourceCode](./solution.js)

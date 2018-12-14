@@ -22,4 +22,6 @@ Output: -1
 
 ## Solution
 
+偷懒
+
 [SourceCode](./solution.js)

@@ -31,4 +31,6 @@ Output: -2
 
 ## Solution
 
+`-2147483648 / -1 = 2147483648` 在 32机器上溢出,输出 2147483647
+
 [SourceCode](./solution.js)

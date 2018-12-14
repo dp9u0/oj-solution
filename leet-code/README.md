@@ -80,8 +80,8 @@
 | 25  | [Reverse Nodes in k-Group](./problems/25/README.md)                                     | :heavy_check_mark: | Hard   | [ll],[tp]         |        |
 | 26  | [Remove Duplicates from Sorted Array](./problems/26/README.md)                          | :heavy_check_mark: | Easy   | [array],[tp]      |        |
 | 27  | [Remove Element](./problems/27/README.md)                                               | :heavy_check_mark: | Easy   | [array],[tp]      |        |
-| 28  | [Implement strStr()](./problems/28/README.md)                                           | :o:                | Easy   |                   |        |
-| 29  | [Divide Two Integers](./problems/29/README.md)                                          | :o:                | Medium |                   |        |
+| 28  | [Implement strStr()](./problems/28/README.md)                                           | :heavy_check_mark: | Easy   | [string]          |        |
+| 29  | [Divide Two Integers](./problems/29/README.md)                                          | :heavy_check_mark: | Medium | [math]            |        |
 | 30  | [Substring with Concatenation of All Words](./problems/30/README.md)                    | :o:                | Hard   |                   |        |
 | 31  | [Next Permutation](./problems/31/README.md)                                             | :heavy_check_mark: | Medium | [array],[tp]      |        |
 | 32  | [Longest Valid Parentheses](./problems/32/README.md)                                    | :o:                | Hard   |                   |        |

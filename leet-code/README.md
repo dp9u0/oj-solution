@@ -82,7 +82,7 @@
 | 27  | [Remove Element](./problems/27/README.md)                                               | :heavy_check_mark: | Easy   | [array],[tp]      |        |
 | 28  | [Implement strStr()](./problems/28/README.md)                                           | :heavy_check_mark: | Easy   | [string]          |        |
 | 29  | [Divide Two Integers](./problems/29/README.md)                                          | :heavy_check_mark: | Medium | [math]            |        |
-| 30  | [Substring with Concatenation of All Words](./problems/30/README.md)                    | :o:                | Hard   |                   |        |
+| 30  | [Substring with Concatenation of All Words](./problems/30/README.md)                    | :heavy_check_mark: | Hard   | [string]      |        |
 | 31  | [Next Permutation](./problems/31/README.md)                                             | :heavy_check_mark: | Medium | [array],[tp]      |        |
 | 32  | [Longest Valid Parentheses](./problems/32/README.md)                                    | :o:                | Hard   |                   |        |
 | 33  | [Search in Rotated Sorted Array](./problems/33/README.md)                               | :o:                | Medium |                   |        |

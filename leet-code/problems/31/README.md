@@ -1,4 +1,4 @@
-31. Next Permutation
+# 31. Next Permutation
 
 ## Description
 
@@ -19,5 +19,7 @@ Here are some examples. Inputs are in the left-hand column and its corresponding
 ```
 
 ## Solution
+
+排列组合已经有 `124[653]`  这样的形式, `[653]` 是已经排列过的元素,: 先恢复顺序[356],然后将这些元素中大于左边元素的且最小的`[5]`与这些元素左边的一个元素`[4]`交换.
 
 [SourceCode](./solution.js)

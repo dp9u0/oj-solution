@@ -20,7 +20,7 @@ var nextPermutation = function (nums) {
     nums.reverse();
     return;
   }
-
+  // 恢复已经排列过的序列的顺序
   let start = reverseIndex;
   let end = lastIndex;
   while (start <= end) {
@@ -30,7 +30,7 @@ var nextPermutation = function (nums) {
     start++;
     end--;
   }
-
+  // 交换数字
   let swapIndex = reverseIndex - 1;
   let swap = nums[swapIndex];
   let swapTargetIndex = lastIndex;

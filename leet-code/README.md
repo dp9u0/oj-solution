@@ -64,23 +64,23 @@
 | 9   | [Palindrome Number](./problems/9/README.md)                                             | :heavy_check_mark: | Easy   | [other]           | Slow   |
 | 10  | [Regular Expression Matching](./problems/10/README.md)                                  | :heavy_check_mark: | Hard   | [dp]              |        |
 | 11  | [Container With Most Water](./problems/11/README.md)                                    | :heavy_check_mark: | Medium | [array],[tp]      |        |
-| 12  | [Integer to Roman](./problems/12/README.md)                                             | :o:                | Medium |                   |        |
-| 13  | [Roman to Integer](./problems/13/README.md)                                             | :o:                | Easy   |                   |        |
-| 14  | [Longest Common Prefix](./problems/14/README.md)                                        | :o:                | Easy   |                   |        |
+| 12  | [Integer to Roman](./problems/12/README.md)                                             | :heavy_check_mark: | Medium | [string],[hasing] |        |
+| 13  | [Roman to Integer](./problems/13/README.md)                                             | :heavy_check_mark: | Easy   | [string],[hasing] |        |
+| 14  | [Longest Common Prefix](./problems/14/README.md)                                        | :heavy_check_mark: | Easy   | [string]          |        |
 | 15  | [3Sum](./problems/15/README.md)                                                         | :heavy_check_mark: | Medium | [array],[tp]      |        |
 | 16  | [3Sum Closest](./problems/16/README.md)                                                 | :heavy_check_mark: | Medium | [array],[tp]      |        |
-| 17  | [Letter Combinations of a Phone Number](./problems/17/README.md)                        | :o:                | Medium |                   |        |
+| 17  | [Letter Combinations of a Phone Number](./problems/17/README.md)                        | :heavy_check_mark: | Medium | [string]          |        |
 | 18  | [4Sum](./problems/18/README.md)                                                         | :heavy_check_mark: | Medium | [array],[tp]      |        |
-| 19  | [Remove Nth Node From End of List](./problems/19/README.md)                             | :o:                | Medium |                   |        |
-| 20  | [Valid Parentheses](./problems/20/README.md)                                            | :o:                | Easy   |                   |        |
-| 21  | [Merge Two Sorted Lists](./problems/21/README.md)                                       | :o:                | Easy   |                   |        |
-| 22  | [Generate Parentheses](./problems/22/README.md)                                         | :o:                | Medium |                   |        |
-| 23  | [Merge k Sorted Lists](./problems/23/README.md)                                         | :o:                | Hard   |                   |        |
-| 24  | [Swap Nodes in Pairs](./problems/24/README.md)                                          | :o:                | Medium |                   |        |
-| 25  | [Reverse Nodes in k-Group](./problems/25/README.md)                                     | :o:                | Hard   |                   |        |
+| 19  | [Remove Nth Node From End of List](./problems/19/README.md)                             | :heavy_check_mark: | Medium | [ll],[tp]         |        |
+| 20  | [Valid Parentheses](./problems/20/README.md)                                            | :heavy_check_mark: | Easy   | [stack]           |        |
+| 21  | [Merge Two Sorted Lists](./problems/21/README.md)                                       | :heavy_check_mark: | Easy   | [ll]              |        |
+| 22  | [Generate Parentheses](./problems/22/README.md)                                         | :o                 | Medium |                   |        |
+| 23  | [Merge k Sorted Lists](./problems/23/README.md)                                         | :o                 | Hard   |                   |        |
+| 24  | [Swap Nodes in Pairs](./problems/24/README.md)                                          | :o                 | Medium |                   |        |
+| 25  | [Reverse Nodes in k-Group](./problems/25/README.md)                                     | :o                 | Hard   |                   |        |
 | 26  | [Remove Duplicates from Sorted Array](./problems/26/README.md)                          | :heavy_check_mark: | Easy   | [array],[tp]      |        |
 | 27  | [Remove Element](./problems/27/README.md)                                               | :heavy_check_mark: | Easy   | [array],[tp]      |        |
-| 28  | [Implement strStr()](./problems/28/README.md)                                           | :o:                | Easy   |                   |        |
+| 28  | [Implement strStr()](./problems/28/README.md)                                           | :o                 | Easy   |                   |        |
 | 29  | [Divide Two Integers](./problems/29/README.md)                                          | :o:                | Medium |                   |        |
 | 30  | [Substring with Concatenation of All Words](./problems/30/README.md)                    | :o:                | Hard   |                   |        |
 | 31  | [Next Permutation](./problems/31/README.md)                                             | :heavy_check_mark: | Medium | [array],[tp]      |        |

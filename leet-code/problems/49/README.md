@@ -26,4 +26,6 @@ Output:
 
 ## Solution
 
+hashing 存储相同key值.重点在于如何计算相同的key值,由于只有26个字母 因此可以mapping 到prime,然后计算乘积的方式
+
 [SourceCode](./solution.js)

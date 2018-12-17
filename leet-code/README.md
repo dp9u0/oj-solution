@@ -79,7 +79,7 @@
 | 50  | [Pow(x, n)](./problems/50/README.md)                                                    | :heavy_check_mark: | Medium | [bs],[dc]         |        |
 | 51  | [N-Queens](./problems/51/README.md)                                                     | :heavy_check_mark: | Hard   | [bt]              |        |
 | 52  | [N-Queens II](./problems/52/README.md)                                                  | :heavy_check_mark: | Hard   | [bt]              |        |
-| 53  | [Maximum Subarray](./problems/53/README.md)                                             | :o:                | Easy   |                   |        |
+| 53  | [Maximum Subarray](./problems/53/README.md)                                             | :heavy_check_mark: | Easy   | [dp]              |        |
 | 54  | [Spiral Matrix](./problems/54/README.md)                                                | :o:                | Medium |                   |        |
 | 55  | [Jump Game](./problems/55/README.md)                                                    | :o:                | Medium |                   |        |
 | 56  | [Merge Intervals](./problems/56/README.md)                                              | :heavy_check_mark: | Medium | [array]           |        |

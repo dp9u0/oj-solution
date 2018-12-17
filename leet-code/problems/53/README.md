@@ -20,4 +20,6 @@ Explanation: [4,-1,2,1] has the largest sum = 6.
 
 ## Solution
 
+dp 问题,  `f[i] = nums[i] + (f[i - 1] > 0 ? f[i - 1] : 0);`
+
 [SourceCode](./solution.js)

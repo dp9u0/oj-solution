@@ -65,8 +65,8 @@
 | 36  | [Valid Sudoku](./problems/36/README.md)                                                 | :heavy_check_mark: | Medium | [array]           |        |
 | 37  | [Sudoku Solver](./problems/37/README.md)                                                | :heavy_check_mark: | Hard   | [dfs],[bt]        | Slow   |
 | 38  | [Count and Say](./problems/38/README.md)                                                | :heavy_check_mark: | Easy   | [string]          |        |
-| 39  | [Combination Sum](./problems/39/README.md)                                              | :o:                | Medium |                   |        |
-| 40  | [Combination Sum II](./problems/40/README.md)                                           | :o:                | Medium |                   |        |
+| 39  | [Combination Sum](./problems/39/README.md)                                              | :heavy_check_mark: | Medium | [bt]              | Slow   |
+| 40  | [Combination Sum II](./problems/40/README.md)                                           | :heavy_check_mark: | Medium | [bt]              | Slow   |
 | 41  | [First Missing Positive](./problems/41/README.md)                                       | :heavy_check_mark: | Hard   | [array]           |        |
 | 42  | [Trapping Rain Water](./problems/42/README.md)                                          | :heavy_check_mark: | Hard   | [array],[tp]      |        |
 | 43  | [Multiply Strings](./problems/43/README.md)                                             | :o:                | Medium |                   |        |

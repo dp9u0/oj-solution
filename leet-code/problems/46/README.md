@@ -23,4 +23,6 @@ Output:
 
 ## Solution
 
+backtrace 即可
+
 [SourceCode](./solution.js)

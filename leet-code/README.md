@@ -69,11 +69,11 @@
 | 40  | [Combination Sum II](./problems/40/README.md)                                           | :heavy_check_mark: | Medium | [bt]              | Slow   |
 | 41  | [First Missing Positive](./problems/41/README.md)                                       | :heavy_check_mark: | Hard   | [array]           |        |
 | 42  | [Trapping Rain Water](./problems/42/README.md)                                          | :heavy_check_mark: | Hard   | [array],[tp]      |        |
-| 43  | [Multiply Strings](./problems/43/README.md)                                             | :o:                | Medium |                   |        |
+| 43  | [Multiply Strings](./problems/43/README.md)                                             | :heavy_check_mark: | Medium | [array],[math]    |        |
 | 44  | [Wildcard Matching](./problems/44/README.md)                                            | :o:                | Hard   |                   |        |
 | 45  | [Jump Game II](./problems/45/README.md)                                                 | :o:                | Hard   |                   |        |
-| 46  | [Permutations](./problems/46/README.md)                                                 | :o:                | Medium |                   |        |
-| 47  | [Permutations II](./problems/47/README.md)                                              | :o:                | Medium |                   |        |
+| 46  | [Permutations](./problems/46/README.md)                                                 | :heavy_check_mark: | Medium | [bt]              |        |
+| 47  | [Permutations II](./problems/47/README.md)                                              | :heavy_check_mark: | Medium | [bt]              |        |
 | 48  | [Rotate Image](./problems/48/README.md)                                                 | :o:                | Medium |                   |        |
 | 49  | [Group Anagrams](./problems/49/README.md)                                               | :o:                | Medium |                   |        |
 | 50  | [Pow(x, n)](./problems/50/README.md)                                                    | :heavy_check_mark: | Medium | [bs],[dc]         |        |

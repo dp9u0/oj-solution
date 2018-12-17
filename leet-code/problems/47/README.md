@@ -20,4 +20,6 @@ Output:
 
 ## Solution
 
+batcktrace 并且需要注意 需要跳过相同的元素
+
 [SourceCode](./solution.js)

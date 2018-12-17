@@ -60,4 +60,4 @@ typings/
 .vscode
 run.bat
 
-./solving/solution.js
+solving/solution.js

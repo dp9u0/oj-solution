@@ -23,4 +23,6 @@ Output: [-1,-1]
 
 ## Solution
 
+array 遍历.其实更好的方式是通过 二分搜索找到start,
+
 [SourceCode](./solution.js)

@@ -56,11 +56,11 @@
 | 27  | [Remove Element](./problems/27/README.md)                                               | :heavy_check_mark: | Easy   | [array],[tp]      |        |
 | 28  | [Implement strStr()](./problems/28/README.md)                                           | :heavy_check_mark: | Easy   | [string]          |        |
 | 29  | [Divide Two Integers](./problems/29/README.md)                                          | :heavy_check_mark: | Medium | [math]            |        |
-| 30  | [Substring with Concatenation of All Words](./problems/30/README.md)                    | :heavy_check_mark: | Hard   | [string]      |        |
+| 30  | [Substring with Concatenation of All Words](./problems/30/README.md)                    | :heavy_check_mark: | Hard   | [string]          |        |
 | 31  | [Next Permutation](./problems/31/README.md)                                             | :heavy_check_mark: | Medium | [array],[tp]      |        |
-| 32  | [Longest Valid Parentheses](./problems/32/README.md)                                    | :o:                | Hard   |                   |        |
-| 33  | [Search in Rotated Sorted Array](./problems/33/README.md)                               | :o:                | Medium |                   |        |
-| 34  | [Find First and Last Position of Element in Sorted Array](./problems/34/README.md)      | :o:                | Medium |                   |        |
+| 32  | [Longest Valid Parentheses](./problems/32/README.md)                                    | :heavy_check_mark: | Hard   | [stack]           | [dp]?  |
+| 33  | [Search in Rotated Sorted Array](./problems/33/README.md)                               | :heavy_check_mark: | Medium | [array],[bs]      |        |
+| 34  | [Find First and Last Position of Element in Sorted Array](./problems/34/README.md)      | :heavy_check_mark: | Medium | [array],[bs]      |        |
 | 35  | [Search Insert Position](./problems/35/README.md)                                       | :heavy_check_mark: | Easy   | [array],[bs]      |        |
 | 36  | [Valid Sudoku](./problems/36/README.md)                                                 | :heavy_check_mark: | Medium | [array]           |        |
 | 37  | [Sudoku Solver](./problems/37/README.md)                                                | :heavy_check_mark: | Hard   | [dfs],[bt]        | Slow   |

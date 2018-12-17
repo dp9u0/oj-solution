@@ -27,4 +27,8 @@ Output: -1
 
 ## Solution
 
+可通过 `nums[length-1]` 找到 rotated 的位置. 要求是 logn 因此可以用二分查找.找到后 再使用二分查找`target`
+
+需要考虑 : rotatedAt === 0 的情况
+
 [SourceCode](./solution.js)

@@ -1,36 +1,37 @@
 /**
- * @param {number[]} nums
+ * @param {number[]} candidates
  * @param {number} target
- * @return {number[]}
+ * @return {number[][]}
  */
-var searchRange = function (nums, target) {
-  let
-    length = nums.length;
-  let start = 0,
-    end = length - 1,
-    mid = Math.floor((start + end) / 2);
-  while ((start < end) && !(nums[mid] === target && (mid === 0 || target > nums[mid - 1]))) {
-    if (nums[mid] < target || (mid === 0 || target > nums[mid - 1])) {
-      start = mid + 1;
-    } else {
-      end = mid - 1;
-    }
-    mid = Math.floor((start + end) / 2);
-  }
-  let begin = -1,
-    stop = -1;
-  if (nums[mid] === target) {
-    begin = stop = mid;
-    while (nums[stop++] === target) {
-    }
-    return [begin, stop];
-  }
-  return [-1,-1]
+var combinationSum = function (candidates, target) {
+  results = [];
+  backtrace(results, candidates, target);
+  return results;
 };
-let nums, target;
 
-nums = [5, 7, 7, 8, 8, 10], target = 8
-console.log(searchRange(nums, target));
+function backtrace(results, candidates, target, current = 0, result = [], sum = 0, flag = false) {
+  if (sum > target || current > candidates.length - 1) {
+    return;
+  }
+  if (!flag) {
+    // not take current, go next
+    backtrace(results, candidates, target, current + 1, [...result], sum);
+  }
+  let currentValue = candidates[current];
+  let sumWithCurrent = sum + currentValue;
+  if (sumWithCurrent === target) {
+    results.push([...result, currentValue]);
+    return;
+  }
+  // take current, go next
+  backtrace(results, candidates, target, current + 1, [...result, currentValue], sumWithCurrent);
+  // take current, go current again
+  backtrace(results, candidates, target, current, [...result, currentValue], sumWithCurrent, true);
+}
 
-nums = [5, 7, 7, 8, 8, 10], target = 6
-console.log(searchRange(nums, target));
+let candidates, target;
+candidates = [2, 3, 6, 7], target = 7
+console.log(combinationSum(candidates, target));
+
+candidates = [2, 3, 5], target = 8
+console.log(combinationSum(candidates, target));

@@ -10,28 +10,18 @@ var combinationSum2 = function (candidates, target) {
   return results;
 };
 
-function backtrace(results, candidates, target, current = 0, result = [], sum = 0, exist = {}) {
-  if (sum > target || current > candidates.length - 1) {
-    return;
-  }
-  // not take current, go next
-  backtrace(results, candidates, target, current + 1, [...result], sum, exist);
-  let currentValue = candidates[current];
-  let sumWithCurrent = sum + currentValue;
-  if (sumWithCurrent === target) {
-    let toadd = [...result, currentValue];
-    let key;
-    for (var i = 0; i < toadd.length; i++) {
-      key += toadd[i] + "_";
+function backtrace(results, candidates, target, result = [], start = 0) {
+  if (target === 0) {
+    results.push([...result]);
+  } else if (target > 0) {
+    for (let i = start; i < candidates.length; i++) {
+      if (i > start && candidates[i] == candidates[i-1]) continue; // 去重 当前位置不需要重复的内容
+      const element = candidates[i];
+      result.push(element);
+      backtrace(results, candidates, target - element, result, i + 1);
+      result.pop();
     }
-    if (!exist[key]) {
-      results.push([...result, currentValue]);
-      exist[key] = true;
-    }
-    return;
   }
-  // take current, go next
-  backtrace(results, candidates, target, current + 1, [...result, currentValue], sumWithCurrent, exist);
 }
 
 let candidates, target;

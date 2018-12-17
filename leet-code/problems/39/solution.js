@@ -9,24 +9,17 @@ var combinationSum = function (candidates, target) {
   return results;
 };
 
-function backtrace(results, candidates, target, current = 0, result = [], sum = 0, flag = false) {
-  if (sum > target || current > candidates.length - 1) {
-    return;
+function backtrace(results, candidates, target, result = [], start = 0) {
+  if (target === 0) {
+    results.push([...result]);
+  } else if (target > 0) {
+    for (let index = start; index < candidates.length; index++) {
+      const element = candidates[index];
+      result.push(element);
+      backtrace(results, candidates, target - element, result, index);
+      result.pop();
+    }
   }
-  if (!flag) {
-    // not take current, go next
-    backtrace(results, candidates, target, current + 1, [...result], sum);
-  }
-  let currentValue = candidates[current];
-  let sumWithCurrent = sum + currentValue;
-  if (sumWithCurrent === target) {
-    results.push([...result, currentValue]);
-    return;
-  }
-  // take current, go next
-  backtrace(results, candidates, target, current + 1, [...result, currentValue], sumWithCurrent);
-  // take current, go current again
-  backtrace(results, candidates, target, current, [...result, currentValue], sumWithCurrent, true);
 }
 
 // TEST:

@@ -18,4 +18,6 @@ Output:
 
 ## Solution
 
+可以使用方向变量 `[di, dj] = [0, 1]` ,当需要变向时 : `[di, dj] = [dj, -di];`
+
 [SourceCode](./solution.js)

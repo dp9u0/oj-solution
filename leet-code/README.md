@@ -85,7 +85,7 @@
 | 56  | [Merge Intervals](./problems/56/README.md)                                              | :heavy_check_mark: | Medium | [array]           |        |
 | 57  | [Insert Interval](./problems/57/README.md)                                              | :o:                | Hard   |                   |        |
 | 58  | [Length of Last Word](./problems/58/README.md)                                          | :heavy_check_mark: | Easy   | [array]           |        |
-| 59  | [Spiral Matrix II](./problems/59/README.md)                                             | :o:                | Medium |                   |        |
+| 59  | [Spiral Matrix II](./problems/59/README.md)                                             | :heavy_check_mark: | Medium | [array]           |        |
 | 60  | [Permutation Sequence](./problems/60/README.md)                                         | :o:                | Medium |                   |        |
 | 61  | [Rotate List](./problems/61/README.md)                                                  | :o:                | Medium |                   |        |
 | 62  | [Unique Paths](./problems/62/README.md)                                                 | :o:                | Medium |                   |        |

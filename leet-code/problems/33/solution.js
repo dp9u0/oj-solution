@@ -17,14 +17,14 @@ var search = function (nums, target) {
   if (last === target) {
     return end;
   }
-  let rotatedAt = Math.floor((start + end + 1) / 2);
+  let rotatedAt = ~~((start + end + 1) / 2);
   while (!(nums[rotatedAt] < last && nums[rotatedAt - 1] > last) && rotatedAt !== 0 && start < end) {
     if (nums[rotatedAt] < last) {
       end = rotatedAt - 1;
     } else {
       start = rotatedAt;
     }
-    rotatedAt = Math.floor((start + end + 1) / 2);
+    rotatedAt = ~~((start + end + 1) / 2);
   }
   rotatedAt = start < end ? rotatedAt : 0;
   // DEBUG:
@@ -39,14 +39,14 @@ var search = function (nums, target) {
   }
   // console.log(start);
   // console.log(end);
-  let mid = Math.floor((start + end) / 2);
+  let mid = ~~((start + end) / 2);
   while (start < end && nums[mid] !== target) {
     if (target > nums[mid]) {
       start = mid +1;
     } else {
       end = mid;
     }
-    mid = Math.floor((start + end) / 2);
+    mid = ~~((start + end) / 2);
     // console.log(start);
     // console.log(end);
   }

@@ -16,7 +16,7 @@ var searchInsert = function (nums, target) {
 };
 
 var bs = function (nums, left, right, target, maxIndex) {
-  let first = Math.floor((left + right) / 2);
+  let first = ~~((left + right) / 2);
   let second = first + 1;
   console.log(`${left} ${right}`);
   console.log(`${first} ${second}`);

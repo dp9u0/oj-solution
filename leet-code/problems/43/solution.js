@@ -23,7 +23,7 @@ var multiply = function (num1, num2) {
       const multiplier = first[j];
       let product = multiplier * multiplicand + inc;
       if (product > 9) {
-        inc = Math.floor(product / 10);
+        inc = ~~(product / 10);
         product = product % 10;
       } else {
         inc = 0;
@@ -48,7 +48,7 @@ var multiply = function (num1, num2) {
       const bit = line[j];
       let add = bit + (result[j] || 0) + inc;
       if (add > 9) {
-        inc = Math.floor(add / 10);
+        inc = ~~(add / 10);
         add = add % 10;
       } else {
         inc = 0;

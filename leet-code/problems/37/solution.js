@@ -58,8 +58,8 @@ var solveSudokuInner = function(board, prePosition) {
 var findNextEmptyPisition = function(board, prePosition) {
     let emptyPisition = new position();
     for (var index = prePosition.index; index < BOARD_SIZE; index++) {
-        let indexX = Math.floor(index / BOARD_LENGTH);
-        let indexY = Math.floor(index % BOARD_LENGTH);
+        let indexX = ~~(index / BOARD_LENGTH);
+        let indexY = ~~(index % BOARD_LENGTH);
         if (board[indexX][indexY] === '.') {
             emptyPisition.index = index;
             emptyPisition.indexX = indexX;
@@ -86,10 +86,10 @@ var setSuggestChars = function(board, position) {
         if (board[indexX][index] !== '.') {
             position.suggestChars[board[indexX][index]] = '';
         }
-        let areaX = Math.floor(indexX / BOARD_AREA_LENGTH);
-        let areaY = Math.floor(indexY / BOARD_AREA_LENGTH);
-        let posX = areaX * 3 + Math.floor(index / BOARD_AREA_LENGTH);
-        let posY = areaY * 3 + Math.floor(index % BOARD_AREA_LENGTH);
+        let areaX = ~~(indexX / BOARD_AREA_LENGTH);
+        let areaY = ~~(indexY / BOARD_AREA_LENGTH);
+        let posX = areaX * 3 + ~~(index / BOARD_AREA_LENGTH);
+        let posY = areaY * 3 + ~~(index % BOARD_AREA_LENGTH);
         if (board[posX][posY] !== '.') {
             position.suggestChars[board[posX][posY]] = '';
         }

@@ -6,7 +6,7 @@
 var findMedianSortedArrays = function(nums1, nums2) {
     let total = nums1.length + nums2.length;
     let totalEven = total % 2 === 0;
-    let medianIndex = Math.floor(total / 2);
+    let medianIndex = ~~(total / 2);
     let currentIndex = 0,
         index1 = 0,
         index2 = 0,

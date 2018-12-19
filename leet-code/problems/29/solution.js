@@ -10,5 +10,5 @@ var divide = function (dividend, divisor) {
   if ((dividend > 0 && divisor < 0) || (dividend < 0 && divisor > 0)) {
     return Math.ceil(dividend / divisor);
   }
-  return Math.floor(dividend / divisor)
+  return ~~(dividend / divisor)
 };

@@ -19,8 +19,8 @@ var isValidSudoku = function(board) {
             return false;
         }
 
-        let areaX = Math.floor(index / 3);
-        let areaY = Math.floor(index % 3);
+        let areaX = ~~(index / 3);
+        let areaY = ~~(index % 3);
 
         if (!validNineChar(
                 board[0 + areaX * 3][0 + areaY * 3], board[0 + areaX * 3][1 + areaY * 3], board[0 + areaX * 3][2 + areaY * 3],

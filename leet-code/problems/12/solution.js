@@ -8,12 +8,12 @@ var intToRoman = function (num) {
   const map3 = ['', 'C', 'CC', 'CCC', 'CD', 'D', 'DC', 'DCC', 'DCCC', 'CM'];
   const map4 = ['', 'M', 'MM', 'MMM'];
   let result = '';
-  result += map4[Math.floor(num / 1000)];
+  result += map4[~~(num / 1000)];
   num %= 1000;
-  result += map3[Math.floor(num / 100)];
+  result += map3[~~(num / 100)];
   num %= 100;
-  result += map2[Math.floor(num / 10)];
+  result += map2[~~(num / 10)];
   num %= 10;
-  result += map1[Math.floor(num / 1)];
+  result += map1[~~(num / 1)];
   return result;
 };

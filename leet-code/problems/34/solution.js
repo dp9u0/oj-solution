@@ -8,14 +8,14 @@ var searchRange = function (nums, target) {
     length = nums.length;
   let start = 0,
     end = length - 1,
-    mid = Math.floor((start + end) / 2);
+    mid = ~~((start + end) / 2);
   while ((start < end) && !(nums[mid] === target && (mid === 0 || target > nums[mid - 1]))) {
     if (nums[mid] < target || (mid === 0 || target > nums[mid - 1])) {
       start = mid + 1;
     } else {
       end = mid - 1;
     }
-    mid = Math.floor((start + end) / 2);
+    mid = ~~((start + end) / 2);
   }
   let begin = -1,
     stop = -1;

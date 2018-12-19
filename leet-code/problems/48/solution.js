@@ -4,7 +4,7 @@
  */
 var rotate = function (matrix) {
   let length = matrix.length;
-  let halfLength = Math.floor(length / 2);
+  let halfLength = ~~(length / 2);
   for (let i = 0; i < length; i++) {
     for (let j = i; j < length; j++) {
       let temp = 0;

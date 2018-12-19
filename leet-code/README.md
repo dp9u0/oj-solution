@@ -181,7 +181,7 @@
 | 152 | [Maximum Product Subarray](./problems/100-199/152/README.md)                                    | :o:                | Medium |                   |        |
 | 153 | [Find Minimum in Rotated Sorted Array](./problems/100-199/153/README.md)                        | :o:                | Medium |                   |        |
 | 154 | [Find Minimum in Rotated Sorted Array II](./problems/100-199/154/README.md)                     | :o:                | Hard   |                   |        |
-| 155 | [Min Stack](./problems/100-199/155/README.md)                                                   | :o:                | Easy   |                   |        |
+| 155 | [Min Stack](./problems/100-199/155/README.md)                                                   | :heavy_check_mark: | Easy   | [stack],[design]  |        |
 | 156 | [Binary Tree Upside Down](./problems/100-199/156/README.md)                                     | :o:                | Medium |                   |        |
 | 157 | [Read N Characters Given Read4](./problems/100-199/157/README.md)                               | :o:                | Easy   |                   |        |
 | 158 | [Read N Characters Given Read4 II - Call multiple times](./problems/100-199/158/README.md)      | :o:                | Hard   |                   |        |

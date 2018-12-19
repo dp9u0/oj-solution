@@ -25,4 +25,6 @@ Explanation: You will always arrive at index 3 no matter what. Its maximum
 
 ## Solution
 
+贪心,`canReach` 设置为当前能到达最远的位置,当 `index > canReach` 时,说明无法到达当前节点.
+
 [SourceCode](./solution.js)

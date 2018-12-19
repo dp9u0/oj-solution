@@ -80,7 +80,7 @@
 | 51  | [N-Queens](./problems/001-099/51/README.md)                                                     | :heavy_check_mark: | Hard   | [bt]              |        |
 | 52  | [N-Queens II](./problems/001-099/52/README.md)                                                  | :heavy_check_mark: | Hard   | [bt]              |        |
 | 53  | [Maximum Subarray](./problems/001-099/53/README.md)                                             | :heavy_check_mark: | Easy   | [dp]              |        |
-| 54  | [Spiral Matrix](./problems/001-099/54/README.md)                                                | :o:                | Medium |                   |        |
+| 54  | [Spiral Matrix](./problems/001-099/54/README.md)                                                | :heavy_check_mark: | Medium | [array]           |        |
 | 55  | [Jump Game](./problems/001-099/55/README.md)                                                    | :o:                | Medium |                   |        |
 | 56  | [Merge Intervals](./problems/001-099/56/README.md)                                              | :heavy_check_mark: | Medium | [array]           |        |
 | 57  | [Insert Interval](./problems/001-099/57/README.md)                                              | :o:                | Hard   |                   |        |

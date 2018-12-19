@@ -182,14 +182,14 @@
 | 153 | [Find Minimum in Rotated Sorted Array](./problems/100-199/153/README.md)                        | :o:                | Medium |                   |        |
 | 154 | [Find Minimum in Rotated Sorted Array II](./problems/100-199/154/README.md)                     | :o:                | Hard   |                   |        |
 | 155 | [Min Stack](./problems/100-199/155/README.md)                                                   | :heavy_check_mark: | Easy   | [stack],[design]  |        |
-| 156 | [Binary Tree Upside Down](./problems/100-199/156/README.md)                                     | :o:                | Medium |                   |        |
-| 157 | [Read N Characters Given Read4](./problems/100-199/157/README.md)                               | :o:                | Easy   |                   |        |
-| 158 | [Read N Characters Given Read4 II - Call multiple times](./problems/100-199/158/README.md)      | :o:                | Hard   |                   |        |
-| 159 | [Longest Substring with At Most Two Distinct Characters](./problems/100-199/159/README.md)      | :o:                | Hard   |                   |        |
+| 156 | [Binary Tree Upside Down](./problems/100-199/156/README.md)                                     | :moneybag:         | Medium |                   |        |
+| 157 | [Read N Characters Given Read4](./problems/100-199/157/README.md)                               | :moneybag:         | Easy   |                   |        |
+| 158 | [Read N Characters Given Read4 II - Call multiple times](./problems/100-199/158/README.md)      | :moneybag:         | Hard   |                   |        |
+| 159 | [Longest Substring with At Most Two Distinct Characters](./problems/100-199/159/README.md)      | :moneybag:         | Hard   |                   |        |
 | 160 | [Intersection of Two Linked Lists](./problems/100-199/160/README.md)                            | :o:                | Easy   |                   |        |
-| 161 | [One Edit Distance](./problems/100-199/161/README.md)                                           | :o:                | Medium |                   |        |
-| 162 | [Find Peak Element](./problems/100-199/162/README.md)                                           | :o:                | Medium |                   |        |
-| 163 | [Missing Ranges](./problems/100-199/163/README.md)                                              | :o:                | Medium |                   |        |
+| 161 | [One Edit Distance](./problems/100-199/161/README.md)                                           | :moneybag:          | Medium |                   |        |
+| 162 | [Find Peak Element](./problems/100-199/162/README.md)                                           | :moneybag:         | Medium |                   |        |
+| 163 | [Missing Ranges](./problems/100-199/163/README.md)                                              | :moneybag:         | Medium |                   |        |
 | 164 | [Maximum Gap](./problems/100-199/164/README.md)                                                 | :o:                | Hard   |                   |        |
 | 165 | [Compare Version Numbers](./problems/100-199/165/README.md)                                     | :o:                | Medium |                   |        |
 | 166 | [Fraction to Recurring Decimal](./problems/100-199/166/README.md)                               | :o:                | Medium |                   |        |

@@ -92,10 +92,10 @@
 | 63  | [Unique Paths II](./problems/63/README.md)                                              | :o:                | Medium |                   |        |
 | 64  | [Minimum Path Sum](./problems/64/README.md)                                             | :o:                | Medium |                   |        |
 | 65  | [Valid Number](./problems/65/README.md)                                                 | :x:                | Hard   | [other]           | :-1:   |
-| 66  | [Plus One](./problems/66/README.md)                                                      | :heavy_check_mark: | Easy   | [array],[math]    |        |
-| 67  | [Add Binary](./problems/67/README.md)                                                    | :o:                | Easy   |                   |        |
-| 68  | [Text Justification](./problems/68/README.md)                                            | :o:                | Hard   |                   |        |
-| 69  | [Sqrt(x)](./problems/69/README.md)                                                       | :o:                | Easy   |                   |        |
+| 66  | [Plus One](./problems/66/README.md)                                                     | :heavy_check_mark: | Easy   | [array],[math]    |        |
+| 67  | [Add Binary](./problems/67/README.md)                                                   | :o:                | Easy   |                   |        |
+| 68  | [Text Justification](./problems/68/README.md)                                           | :o:                | Hard   |                   |        |
+| 69  | [Sqrt(x)](./problems/69/README.md)                                                      | :o:                | Easy   |                   |        |
 | 70  | [Climbing Stairs](./problems/70/README.md)                                              | :heavy_check_mark: | Easy   | [dp]              |        |
 | 71  | [Simplify Path](./problems/71/README.md)                                                | :o:                | Medium |                   |        |
 | 72  | [Edit Distance](./problems/72/README.md)                                                | :o:                | Hard   |                   |        |

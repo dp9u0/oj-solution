@@ -23,4 +23,10 @@ In this case, you should ignore redundant slashes and return "/home/foo".
 
 ## Solution
 
+Stack:
+
+* `..` : pop
+* `.` : do nothing
+* default : push
+
 [SourceCode](./solution.js)

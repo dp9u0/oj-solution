@@ -86,18 +86,18 @@
 | 57  | [Insert Interval](./problems/001-099/57/README.md)                                              | :o:                | Hard   |                   |        |
 | 58  | [Length of Last Word](./problems/001-099/58/README.md)                                          | :heavy_check_mark: | Easy   | [array]           |        |
 | 59  | [Spiral Matrix II](./problems/001-099/59/README.md)                                             | :heavy_check_mark: | Medium | [array]           |        |
-| 60  | [Permutation Sequence](./problems/001-099/60/README.md)                                         | :o:                | Medium |                   |        |
-| 61  | [Rotate List](./problems/001-099/61/README.md)                                                  | :o:                | Medium |                   |        |
-| 62  | [Unique Paths](./problems/001-099/62/README.md)                                                 | :o:                | Medium |                   |        |
-| 63  | [Unique Paths II](./problems/001-099/63/README.md)                                              | :o:                | Medium |                   |        |
-| 64  | [Minimum Path Sum](./problems/001-099/64/README.md)                                             | :o:                | Medium |                   |        |
+| 60  | [Permutation Sequence](./problems/001-099/60/README.md)                                         | :heavy_check_mark: | Medium | [bt],[math]       |        |
+| 61  | [Rotate List](./problems/001-099/61/README.md)                                                  | :heavy_check_mark: | Medium | [ll]              |        |
+| 62  | [Unique Paths](./problems/001-099/62/README.md)                                                 | :heavy_check_mark: | Medium | [dp]              |        |
+| 63  | [Unique Paths II](./problems/001-099/63/README.md)                                              | :heavy_check_mark: | Medium | [dp]              |        |
+| 64  | [Minimum Path Sum](./problems/001-099/64/README.md)                                             | :heavy_check_mark: | Medium | [dp]              |        |
 | 65  | [Valid Number](./problems/001-099/65/README.md)                                                 | :x:                | Hard   | [other]           | :-1:   |
 | 66  | [Plus One](./problems/001-099/66/README.md)                                                     | :heavy_check_mark: | Easy   | [array],[math]    |        |
-| 67  | [Add Binary](./problems/001-099/67/README.md)                                                   | :o:                | Easy   |                   |        |
+| 67  | [Add Binary](./problems/001-099/67/README.md)                                                   | :heavy_check_mark: | Easy   | [math]            |        |
 | 68  | [Text Justification](./problems/001-099/68/README.md)                                           | :o:                | Hard   |                   |        |
-| 69  | [Sqrt(x)](./problems/001-099/69/README.md)                                                      | :o:                | Easy   |                   |        |
+| 69  | [Sqrt(x)](./problems/001-099/69/README.md)                                                      | :heavy_check_mark: | Easy   | [math]            |        |
 | 70  | [Climbing Stairs](./problems/001-099/70/README.md)                                              | :heavy_check_mark: | Easy   | [dp]              |        |
-| 71  | [Simplify Path](./problems/001-099/71/README.md)                                                | :o:                | Medium |                   |        |
+| 71  | [Simplify Path](./problems/001-099/71/README.md)                                                | :heavy_check_mark: | Medium | [stack]           |        |
 | 72  | [Edit Distance](./problems/001-099/72/README.md)                                                | :o:                | Hard   |                   |        |
 | 73  | [Set Matrix Zeroes](./problems/001-099/73/README.md)                                            | :o:                | Medium |                   |        |
 | 74  | [Search a 2D Matrix](./problems/001-099/74/README.md)                                           | :o:                | Medium |                   |        |

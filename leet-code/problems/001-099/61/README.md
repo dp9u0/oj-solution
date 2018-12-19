@@ -25,4 +25,6 @@ rotate 4 steps to the right: 2->0->1->NULL
 
 ## Solution
 
+重点是找`ROTATEAT`
+
 [SourceCode](./solution.js)

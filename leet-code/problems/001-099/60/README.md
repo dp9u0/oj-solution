@@ -31,4 +31,7 @@ Output: "2314"
 
 ## Solution
 
+* 方法一是 backtrace
+* 另一种取巧的方法时 观察排列的规律.详见源码
+
 [SourceCode](./solution.js)

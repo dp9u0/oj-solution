@@ -23,4 +23,7 @@ Explanation: The square root of 8 is 2.82842..., and since
 
 ## Solution
 
+* Newton-Raphson method
+* magic number : 0x5f375a86- (i>>1);
+
 [SourceCode](./solution.js)

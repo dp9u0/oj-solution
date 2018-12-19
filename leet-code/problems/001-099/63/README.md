@@ -33,4 +33,6 @@ There are two ways to reach the bottom-right corner:
 
 ## Solution
 
+DP 问题 `f[i][j] = f[i - 1][j] + f[i][j - 1];`
+
 [SourceCode](./solution.js)

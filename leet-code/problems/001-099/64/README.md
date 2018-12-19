@@ -21,4 +21,6 @@ Explanation: Because the path 1→3→1→1→1 minimizes the sum.
 
 ## Solution
 
+DP `f[i][j] = Math.min(f[i - 1][j], f[i][j - 1]) + grid[i][j];`
+
 [SourceCode](./solution.js)

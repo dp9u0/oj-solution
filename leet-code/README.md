@@ -105,7 +105,7 @@
 | 76  | [Minimum Window Substring](./problems/000-099/76/README.md)                                     | :o:                | Hard   |                   |        |
 | 77  | [Combinations](./problems/000-099/77/README.md)                                                 | :heavy_check_mark: | Medium | [bt]              |        |
 | 78  | [Subsets](./problems/000-099/78/README.md)                                                      | :heavy_check_mark: | Medium | [bt]              |        |
-| 79  | [Word Search](./problems/000-099/79/README.md)                                                  | :o:                | Medium |                   |        |
+| 79  | [Word Search](./problems/000-099/79/README.md)                                                  | :heavy_check_mark: | Medium | [bt]              |        |
 | 80  | [Remove Duplicates from Sorted Array II](./problems/000-099/80/README.md)                       | :o:                | Medium |                   |        |
 | 81  | [Search in Rotated Sorted Array II](./problems/000-099/81/README.md)                            | :o:                | Medium |                   |        |
 | 82  | [Remove Duplicates from Sorted List II](./problems/000-099/82/README.md)                        | :o:                | Medium |                   |        |

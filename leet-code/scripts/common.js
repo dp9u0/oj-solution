@@ -4,10 +4,18 @@ SOLUTION_JS_PATH = `./solving/solution.js`;
 
 module.exports.SOLUTION_JS_PATH = SOLUTION_JS_PATH;
 
+module.exports.setCurrent = function (problem) {
+  fs.writeFileSync('./solving/current', problem)
+}
+
+module.exports.getCurrent = function () {
+  return fs.readFileSync('./solving/current', 'utf-8')
+}
+
 module.exports.save = function (problem) {
   let jsPath = `./solving/${problem}.js`;
   let lines = fs.readFileSync(SOLUTION_JS_PATH, 'utf-8');
-  if (lines.indexOf("\/\/ TEST:")!==-1) {
+  if (lines.indexOf("\/\/ TEST:") !== -1) {
     lines = lines.replace("\/\/ TEST:", "\/**\n\/\/ TEST:");
     lines += '\n*/'
   }

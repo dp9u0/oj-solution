@@ -1,7 +1,7 @@
 let fs = require('fs');
 let common = require('./common');
 
-let problem = process.argv[2] || '1';
+let problem  = common.getCurrent();
 common.save(problem)
 
 let jsPath = common.getJsPath(problem);

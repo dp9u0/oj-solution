@@ -1,3 +1,3 @@
-let save = require('./common').save
-let problem = process.argv[2] || '1';
-save(problem)
+let common = require('./common')
+let problem = common.getCurrent();
+common.save(problem)

@@ -24,5 +24,6 @@ exec(cmdStr, function (err, stdout, stderr) {
     let markdown = common.markdown(data);
     // console.log(markdown);
     fs.writeFileSync(markdownPath, markdown);
+    common.setCurrent(problem);
   }
 });

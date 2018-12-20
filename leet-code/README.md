@@ -100,8 +100,8 @@
 | 71  | [Simplify Path](./problems/000-099/71/README.md)                                                | :heavy_check_mark: | Medium | [stack]           |        |
 | 72  | [Edit Distance](./problems/000-099/72/README.md)                                                | :o:                | Hard   |                   |        |
 | 73  | [Set Matrix Zeroes](./problems/000-099/73/README.md)                                            | :heavy_check_mark: | Medium | [array]           |        |
-| 74  | [Search a 2D Matrix](./problems/000-099/74/README.md)                                           | :o:                | Medium |                   |        |
-| 75  | [Sort Colors](./problems/000-099/75/README.md)                                                  | :o:                | Medium |                   |        |
+| 74  | [Search a 2D Matrix](./problems/000-099/74/README.md)                                           | :heavy_check_mark: | Medium | [array],[bs]      |        |
+| 75  | [Sort Colors](./problems/000-099/75/README.md)                                                  | :heavy_check_mark: | Medium | [array],[tp]      |        |
 | 76  | [Minimum Window Substring](./problems/000-099/76/README.md)                                     | :o:                | Hard   |                   |        |
 | 77  | [Combinations](./problems/000-099/77/README.md)                                                 | :o:                | Medium |                   |        |
 | 78  | [Subsets](./problems/000-099/78/README.md)                                                      | :o:                | Medium |                   |        |

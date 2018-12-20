@@ -60,5 +60,5 @@ typings/
 .vscode
 run.bat
 
-solving/solution.js
+solving/*
 package-lock.json

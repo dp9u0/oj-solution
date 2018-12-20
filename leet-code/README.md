@@ -27,105 +27,105 @@
 
 | Seq | Title                                                                                   | Status             | Level  | Tags              | Remark |
 | --- | --------------------------------------------------------------------------------------- | ------------------ | ------ | ----------------- | ------ |
-| 1   | [Two Sum](./problems/001-099/1/README.md)                                                       | :heavy_check_mark: | Easy   | [array],[hashing] |        |
-| 2   | [Add Two Numbers](./problems/001-099/2/README.md)                                               | :heavy_check_mark: | Medium | [ll]              | Slow   |
-| 3   | [Longest Substring Without Repeating](./problems/001-099/3/README.md)                           | :heavy_check_mark: | Medium | [tp]              | Slow   |
-| 4   | [Median of Two Sorted Arrays](./problems/001-099/4/README.md)                                   | :heavy_check_mark: | Hard   | [bs]              |        |
-| 5   | [Longest Palindromic Substring](./problems/001-099/5/README.md)                                 | :heavy_check_mark: | Medium | [dp]              | Slow   |
-| 6   | [ZigZag Conversion](./problems/001-099/6/README.md)                                             | :heavy_check_mark: | Medium | [string]          |        |
-| 7   | [Reverse Integer](./problems/001-099/7/README.md)                                               | :heavy_check_mark: | Easy   | [other]           | Slow   |
-| 8   | [String to Integer (atoi)](./problems/001-099/8/README.md)                                      | :heavy_check_mark: | Medium | [string]          | Slow   |
-| 9   | [Palindrome Number](./problems/001-099/9/README.md)                                             | :heavy_check_mark: | Easy   | [other]           | Slow   |
-| 10  | [Regular Expression Matching](./problems/001-099/10/README.md)                                  | :heavy_check_mark: | Hard   | [dp]              |        |
-| 11  | [Container With Most Water](./problems/001-099/11/README.md)                                    | :heavy_check_mark: | Medium | [array],[tp]      |        |
-| 12  | [Integer to Roman](./problems/001-099/12/README.md)                                             | :heavy_check_mark: | Medium | [string],[hasing] |        |
-| 13  | [Roman to Integer](./problems/001-099/13/README.md)                                             | :heavy_check_mark: | Easy   | [string],[hasing] |        |
-| 14  | [Longest Common Prefix](./problems/001-099/14/README.md)                                        | :heavy_check_mark: | Easy   | [string]          |        |
-| 15  | [3Sum](./problems/001-099/15/README.md)                                                         | :heavy_check_mark: | Medium | [array],[tp]      |        |
-| 16  | [3Sum Closest](./problems/001-099/16/README.md)                                                 | :heavy_check_mark: | Medium | [array],[tp]      |        |
-| 17  | [Letter Combinations of a Phone Number](./problems/001-099/17/README.md)                        | :heavy_check_mark: | Medium | [string]          |        |
-| 18  | [4Sum](./problems/001-099/18/README.md)                                                         | :heavy_check_mark: | Medium | [array],[tp]      |        |
-| 19  | [Remove Nth Node From End of List](./problems/001-099/19/README.md)                             | :heavy_check_mark: | Medium | [ll],[tp]         |        |
-| 20  | [Valid Parentheses](./problems/001-099/20/README.md)                                            | :heavy_check_mark: | Easy   | [stack]           |        |
-| 21  | [Merge Two Sorted Lists](./problems/001-099/21/README.md)                                       | :heavy_check_mark: | Easy   | [ll]              |        |
-| 22  | [Generate Parentheses](./problems/001-099/22/README.md)                                         | :heavy_check_mark: | Medium | [bt]              |        |
-| 23  | [Merge k Sorted Lists](./problems/001-099/23/README.md)                                         | :heavy_check_mark: | Hard   | [dc],[ll]         |        |
-| 24  | [Swap Nodes in Pairs](./problems/001-099/24/README.md)                                          | :heavy_check_mark: | Medium | [ll],[tp]         |        |
-| 25  | [Reverse Nodes in k-Group](./problems/001-099/25/README.md)                                     | :heavy_check_mark: | Hard   | [ll],[tp]         |        |
-| 26  | [Remove Duplicates from Sorted Array](./problems/001-099/26/README.md)                          | :heavy_check_mark: | Easy   | [array],[tp]      |        |
-| 27  | [Remove Element](./problems/001-099/27/README.md)                                               | :heavy_check_mark: | Easy   | [array],[tp]      |        |
-| 28  | [Implement strStr()](./problems/001-099/28/README.md)                                           | :heavy_check_mark: | Easy   | [string]          |        |
-| 29  | [Divide Two Integers](./problems/001-099/29/README.md)                                          | :heavy_check_mark: | Medium | [math]            |        |
-| 30  | [Substring with Concatenation of All Words](./problems/001-099/30/README.md)                    | :heavy_check_mark: | Hard   | [string]          |        |
-| 31  | [Next Permutation](./problems/001-099/31/README.md)                                             | :heavy_check_mark: | Medium | [array],[tp]      |        |
-| 32  | [Longest Valid Parentheses](./problems/001-099/32/README.md)                                    | :heavy_check_mark: | Hard   | [stack]           | [dp]?  |
-| 33  | [Search in Rotated Sorted Array](./problems/001-099/33/README.md)                               | :heavy_check_mark: | Medium | [array],[bs]      |        |
-| 34  | [Find First and Last Position of Element in Sorted Array](./problems/001-099/34/README.md)      | :heavy_check_mark: | Medium | [array],[bs]      |        |
-| 35  | [Search Insert Position](./problems/001-099/35/README.md)                                       | :heavy_check_mark: | Easy   | [array],[bs]      |        |
-| 36  | [Valid Sudoku](./problems/001-099/36/README.md)                                                 | :heavy_check_mark: | Medium | [array]           |        |
-| 37  | [Sudoku Solver](./problems/001-099/37/README.md)                                                | :heavy_check_mark: | Hard   | [dfs],[bt]        | Slow   |
-| 38  | [Count and Say](./problems/001-099/38/README.md)                                                | :heavy_check_mark: | Easy   | [string]          |        |
-| 39  | [Combination Sum](./problems/001-099/39/README.md)                                              | :heavy_check_mark: | Medium | [bt]              | Slow   |
-| 40  | [Combination Sum II](./problems/001-099/40/README.md)                                           | :heavy_check_mark: | Medium | [bt]              | Slow   |
-| 41  | [First Missing Positive](./problems/001-099/41/README.md)                                       | :heavy_check_mark: | Hard   | [array]           |        |
-| 42  | [Trapping Rain Water](./problems/001-099/42/README.md)                                          | :heavy_check_mark: | Hard   | [array],[tp]      |        |
-| 43  | [Multiply Strings](./problems/001-099/43/README.md)                                             | :heavy_check_mark: | Medium | [array],[math]    |        |
-| 44  | [Wildcard Matching](./problems/001-099/44/README.md)                                            | :o:                | Hard   |                   |        |
-| 45  | [Jump Game II](./problems/001-099/45/README.md)                                                 | :o:                | Hard   |                   |        |
-| 46  | [Permutations](./problems/001-099/46/README.md)                                                 | :heavy_check_mark: | Medium | [bt]              |        |
-| 47  | [Permutations II](./problems/001-099/47/README.md)                                              | :heavy_check_mark: | Medium | [bt]              |        |
-| 48  | [Rotate Image](./problems/001-099/48/README.md)                                                 | :heavy_check_mark: | Medium | [array]           |        |
-| 49  | [Group Anagrams](./problems/001-099/49/README.md)                                               | :heavy_check_mark: | Medium | [hasing],[math]   |        |
-| 50  | [Pow(x, n)](./problems/001-099/50/README.md)                                                    | :heavy_check_mark: | Medium | [bs],[dc]         |        |
-| 51  | [N-Queens](./problems/001-099/51/README.md)                                                     | :heavy_check_mark: | Hard   | [bt]              |        |
-| 52  | [N-Queens II](./problems/001-099/52/README.md)                                                  | :heavy_check_mark: | Hard   | [bt]              |        |
-| 53  | [Maximum Subarray](./problems/001-099/53/README.md)                                             | :heavy_check_mark: | Easy   | [dp]              |        |
-| 54  | [Spiral Matrix](./problems/001-099/54/README.md)                                                | :heavy_check_mark: | Medium | [array]           |        |
-| 55  | [Jump Game](./problems/001-099/55/README.md)                                                    | :heavy_check_mark: | Medium | [greedy]          | :+1:   |
-| 56  | [Merge Intervals](./problems/001-099/56/README.md)                                              | :heavy_check_mark: | Medium | [array]           |        |
-| 57  | [Insert Interval](./problems/001-099/57/README.md)                                              | :o:                | Hard   |                   |        |
-| 58  | [Length of Last Word](./problems/001-099/58/README.md)                                          | :heavy_check_mark: | Easy   | [array]           |        |
-| 59  | [Spiral Matrix II](./problems/001-099/59/README.md)                                             | :heavy_check_mark: | Medium | [array]           |        |
-| 60  | [Permutation Sequence](./problems/001-099/60/README.md)                                         | :heavy_check_mark: | Medium | [bt],[math]       |        |
-| 61  | [Rotate List](./problems/001-099/61/README.md)                                                  | :heavy_check_mark: | Medium | [ll]              |        |
-| 62  | [Unique Paths](./problems/001-099/62/README.md)                                                 | :heavy_check_mark: | Medium | [dp]              |        |
-| 63  | [Unique Paths II](./problems/001-099/63/README.md)                                              | :heavy_check_mark: | Medium | [dp]              |        |
-| 64  | [Minimum Path Sum](./problems/001-099/64/README.md)                                             | :heavy_check_mark: | Medium | [dp]              |        |
-| 65  | [Valid Number](./problems/001-099/65/README.md)                                                 | :x:                | Hard   | [other]           | :-1:   |
-| 66  | [Plus One](./problems/001-099/66/README.md)                                                     | :heavy_check_mark: | Easy   | [array],[math]    |        |
-| 67  | [Add Binary](./problems/001-099/67/README.md)                                                   | :heavy_check_mark: | Easy   | [math]            |        |
-| 68  | [Text Justification](./problems/001-099/68/README.md)                                           | :o:                | Hard   |                   |        |
-| 69  | [Sqrt(x)](./problems/001-099/69/README.md)                                                      | :heavy_check_mark: | Easy   | [math]            |        |
-| 70  | [Climbing Stairs](./problems/001-099/70/README.md)                                              | :heavy_check_mark: | Easy   | [dp]              |        |
-| 71  | [Simplify Path](./problems/001-099/71/README.md)                                                | :heavy_check_mark: | Medium | [stack]           |        |
-| 72  | [Edit Distance](./problems/001-099/72/README.md)                                                | :o:                | Hard   |                   |        |
-| 73  | [Set Matrix Zeroes](./problems/001-099/73/README.md)                                            | :o:                | Medium |                   |        |
-| 74  | [Search a 2D Matrix](./problems/001-099/74/README.md)                                           | :o:                | Medium |                   |        |
-| 75  | [Sort Colors](./problems/001-099/75/README.md)                                                  | :o:                | Medium |                   |        |
-| 76  | [Minimum Window Substring](./problems/001-099/76/README.md)                                     | :o:                | Hard   |                   |        |
-| 77  | [Combinations](./problems/001-099/77/README.md)                                                 | :o:                | Medium |                   |        |
-| 78  | [Subsets](./problems/001-099/78/README.md)                                                      | :o:                | Medium |                   |        |
-| 79  | [Word Search](./problems/001-099/79/README.md)                                                  | :o:                | Medium |                   |        |
-| 80  | [Remove Duplicates from Sorted Array II](./problems/001-099/80/README.md)                       | :o:                | Medium |                   |        |
-| 81  | [Search in Rotated Sorted Array II](./problems/001-099/81/README.md)                            | :o:                | Medium |                   |        |
-| 82  | [Remove Duplicates from Sorted List II](./problems/001-099/82/README.md)                        | :o:                | Medium |                   |        |
-| 83  | [Remove Duplicates from Sorted List](./problems/001-099/83/README.md)                           | :o:                | Easy   |                   |        |
-| 84  | [Largest Rectangle in Histogram](./problems/001-099/84/README.md)                               | :o:                | Hard   |                   |        |
-| 85  | [Maximal Rectangle](./problems/001-099/85/README.md)                                            | :o:                | Hard   |                   |        |
-| 86  | [Partition List](./problems/001-099/86/README.md)                                               | :o:                | Medium |                   |        |
-| 87  | [Scramble String](./problems/001-099/87/README.md)                                              | :o:                | Hard   |                   |        |
-| 88  | [Merge Sorted Array](./problems/001-099/88/README.md)                                           | :o:                | Easy   |                   |        |
-| 89  | [Gray Code](./problems/001-099/89/README.md)                                                    | :o:                | Medium |                   |        |
-| 90  | [Subsets II](./problems/001-099/90/README.md)                                                   | :o:                | Medium |                   |        |
-| 91  | [Decode Ways](./problems/001-099/91/README.md)                                                  | :o:                | Medium |                   |        |
-| 92  | [Reverse Linked List II](./problems/001-099/92/README.md)                                       | :o:                | Medium |                   |        |
-| 93  | [Restore IP Addresses](./problems/001-099/93/README.md)                                         | :o:                | Medium |                   |        |
-| 94  | [Binary Tree Inorder Traversal](./problems/001-099/94/README.md)                                | :o:                | Medium |                   |        |
-| 95  | [Unique Binary Search Trees II](./problems/001-099/95/README.md)                                | :o:                | Medium |                   |        |
-| 96  | [Unique Binary Search Trees](./problems/001-099/96/README.md)                                   | :o:                | Medium |                   |        |
-| 97  | [Interleaving String](./problems/001-099/97/README.md)                                          | :o:                | Hard   |                   |        |
-| 98  | [Validate Binary Search Tree](./problems/001-099/98/README.md)                                  | :o:                | Medium |                   |        |
-| 99  | [Recover Binary Search Tree](./problems/001-099/99/README.md)                                   | :o:                | Hard   |                   |        |
+| 1   | [Two Sum](./problems/000-099/1/README.md)                                                       | :heavy_check_mark: | Easy   | [array],[hashing] |        |
+| 2   | [Add Two Numbers](./problems/000-099/2/README.md)                                               | :heavy_check_mark: | Medium | [ll]              | Slow   |
+| 3   | [Longest Substring Without Repeating](./problems/000-099/3/README.md)                           | :heavy_check_mark: | Medium | [tp]              | Slow   |
+| 4   | [Median of Two Sorted Arrays](./problems/000-099/4/README.md)                                   | :heavy_check_mark: | Hard   | [bs]              |        |
+| 5   | [Longest Palindromic Substring](./problems/000-099/5/README.md)                                 | :heavy_check_mark: | Medium | [dp]              | Slow   |
+| 6   | [ZigZag Conversion](./problems/000-099/6/README.md)                                             | :heavy_check_mark: | Medium | [string]          |        |
+| 7   | [Reverse Integer](./problems/000-099/7/README.md)                                               | :heavy_check_mark: | Easy   | [other]           | Slow   |
+| 8   | [String to Integer (atoi)](./problems/000-099/8/README.md)                                      | :heavy_check_mark: | Medium | [string]          | Slow   |
+| 9   | [Palindrome Number](./problems/000-099/9/README.md)                                             | :heavy_check_mark: | Easy   | [other]           | Slow   |
+| 10  | [Regular Expression Matching](./problems/000-099/10/README.md)                                  | :heavy_check_mark: | Hard   | [dp]              |        |
+| 11  | [Container With Most Water](./problems/000-099/11/README.md)                                    | :heavy_check_mark: | Medium | [array],[tp]      |        |
+| 12  | [Integer to Roman](./problems/000-099/12/README.md)                                             | :heavy_check_mark: | Medium | [string],[hasing] |        |
+| 13  | [Roman to Integer](./problems/000-099/13/README.md)                                             | :heavy_check_mark: | Easy   | [string],[hasing] |        |
+| 14  | [Longest Common Prefix](./problems/000-099/14/README.md)                                        | :heavy_check_mark: | Easy   | [string]          |        |
+| 15  | [3Sum](./problems/000-099/15/README.md)                                                         | :heavy_check_mark: | Medium | [array],[tp]      |        |
+| 16  | [3Sum Closest](./problems/000-099/16/README.md)                                                 | :heavy_check_mark: | Medium | [array],[tp]      |        |
+| 17  | [Letter Combinations of a Phone Number](./problems/000-099/17/README.md)                        | :heavy_check_mark: | Medium | [string]          |        |
+| 18  | [4Sum](./problems/000-099/18/README.md)                                                         | :heavy_check_mark: | Medium | [array],[tp]      |        |
+| 19  | [Remove Nth Node From End of List](./problems/000-099/19/README.md)                             | :heavy_check_mark: | Medium | [ll],[tp]         |        |
+| 20  | [Valid Parentheses](./problems/000-099/20/README.md)                                            | :heavy_check_mark: | Easy   | [stack]           |        |
+| 21  | [Merge Two Sorted Lists](./problems/000-099/21/README.md)                                       | :heavy_check_mark: | Easy   | [ll]              |        |
+| 22  | [Generate Parentheses](./problems/000-099/22/README.md)                                         | :heavy_check_mark: | Medium | [bt]              |        |
+| 23  | [Merge k Sorted Lists](./problems/000-099/23/README.md)                                         | :heavy_check_mark: | Hard   | [dc],[ll]         |        |
+| 24  | [Swap Nodes in Pairs](./problems/000-099/24/README.md)                                          | :heavy_check_mark: | Medium | [ll],[tp]         |        |
+| 25  | [Reverse Nodes in k-Group](./problems/000-099/25/README.md)                                     | :heavy_check_mark: | Hard   | [ll],[tp]         |        |
+| 26  | [Remove Duplicates from Sorted Array](./problems/000-099/26/README.md)                          | :heavy_check_mark: | Easy   | [array],[tp]      |        |
+| 27  | [Remove Element](./problems/000-099/27/README.md)                                               | :heavy_check_mark: | Easy   | [array],[tp]      |        |
+| 28  | [Implement strStr()](./problems/000-099/28/README.md)                                           | :heavy_check_mark: | Easy   | [string]          |        |
+| 29  | [Divide Two Integers](./problems/000-099/29/README.md)                                          | :heavy_check_mark: | Medium | [math]            |        |
+| 30  | [Substring with Concatenation of All Words](./problems/000-099/30/README.md)                    | :heavy_check_mark: | Hard   | [string]          |        |
+| 31  | [Next Permutation](./problems/000-099/31/README.md)                                             | :heavy_check_mark: | Medium | [array],[tp]      |        |
+| 32  | [Longest Valid Parentheses](./problems/000-099/32/README.md)                                    | :heavy_check_mark: | Hard   | [stack]           | [dp]?  |
+| 33  | [Search in Rotated Sorted Array](./problems/000-099/33/README.md)                               | :heavy_check_mark: | Medium | [array],[bs]      |        |
+| 34  | [Find First and Last Position of Element in Sorted Array](./problems/000-099/34/README.md)      | :heavy_check_mark: | Medium | [array],[bs]      |        |
+| 35  | [Search Insert Position](./problems/000-099/35/README.md)                                       | :heavy_check_mark: | Easy   | [array],[bs]      |        |
+| 36  | [Valid Sudoku](./problems/000-099/36/README.md)                                                 | :heavy_check_mark: | Medium | [array]           |        |
+| 37  | [Sudoku Solver](./problems/000-099/37/README.md)                                                | :heavy_check_mark: | Hard   | [dfs],[bt]        | Slow   |
+| 38  | [Count and Say](./problems/000-099/38/README.md)                                                | :heavy_check_mark: | Easy   | [string]          |        |
+| 39  | [Combination Sum](./problems/000-099/39/README.md)                                              | :heavy_check_mark: | Medium | [bt]              | Slow   |
+| 40  | [Combination Sum II](./problems/000-099/40/README.md)                                           | :heavy_check_mark: | Medium | [bt]              | Slow   |
+| 41  | [First Missing Positive](./problems/000-099/41/README.md)                                       | :heavy_check_mark: | Hard   | [array]           |        |
+| 42  | [Trapping Rain Water](./problems/000-099/42/README.md)                                          | :heavy_check_mark: | Hard   | [array],[tp]      |        |
+| 43  | [Multiply Strings](./problems/000-099/43/README.md)                                             | :heavy_check_mark: | Medium | [array],[math]    |        |
+| 44  | [Wildcard Matching](./problems/000-099/44/README.md)                                            | :o:                | Hard   |                   |        |
+| 45  | [Jump Game II](./problems/000-099/45/README.md)                                                 | :o:                | Hard   |                   |        |
+| 46  | [Permutations](./problems/000-099/46/README.md)                                                 | :heavy_check_mark: | Medium | [bt]              |        |
+| 47  | [Permutations II](./problems/000-099/47/README.md)                                              | :heavy_check_mark: | Medium | [bt]              |        |
+| 48  | [Rotate Image](./problems/000-099/48/README.md)                                                 | :heavy_check_mark: | Medium | [array]           |        |
+| 49  | [Group Anagrams](./problems/000-099/49/README.md)                                               | :heavy_check_mark: | Medium | [hasing],[math]   |        |
+| 50  | [Pow(x, n)](./problems/000-099/50/README.md)                                                    | :heavy_check_mark: | Medium | [bs],[dc]         |        |
+| 51  | [N-Queens](./problems/000-099/51/README.md)                                                     | :heavy_check_mark: | Hard   | [bt]              |        |
+| 52  | [N-Queens II](./problems/000-099/52/README.md)                                                  | :heavy_check_mark: | Hard   | [bt]              |        |
+| 53  | [Maximum Subarray](./problems/000-099/53/README.md)                                             | :heavy_check_mark: | Easy   | [dp]              |        |
+| 54  | [Spiral Matrix](./problems/000-099/54/README.md)                                                | :heavy_check_mark: | Medium | [array]           |        |
+| 55  | [Jump Game](./problems/000-099/55/README.md)                                                    | :heavy_check_mark: | Medium | [greedy]          | :+1:   |
+| 56  | [Merge Intervals](./problems/000-099/56/README.md)                                              | :heavy_check_mark: | Medium | [array]           |        |
+| 57  | [Insert Interval](./problems/000-099/57/README.md)                                              | :o:                | Hard   |                   |        |
+| 58  | [Length of Last Word](./problems/000-099/58/README.md)                                          | :heavy_check_mark: | Easy   | [array]           |        |
+| 59  | [Spiral Matrix II](./problems/000-099/59/README.md)                                             | :heavy_check_mark: | Medium | [array]           |        |
+| 60  | [Permutation Sequence](./problems/000-099/60/README.md)                                         | :heavy_check_mark: | Medium | [bt],[math]       |        |
+| 61  | [Rotate List](./problems/000-099/61/README.md)                                                  | :heavy_check_mark: | Medium | [ll]              |        |
+| 62  | [Unique Paths](./problems/000-099/62/README.md)                                                 | :heavy_check_mark: | Medium | [dp]              |        |
+| 63  | [Unique Paths II](./problems/000-099/63/README.md)                                              | :heavy_check_mark: | Medium | [dp]              |        |
+| 64  | [Minimum Path Sum](./problems/000-099/64/README.md)                                             | :heavy_check_mark: | Medium | [dp]              |        |
+| 65  | [Valid Number](./problems/000-099/65/README.md)                                                 | :x:                | Hard   | [other]           | :-1:   |
+| 66  | [Plus One](./problems/000-099/66/README.md)                                                     | :heavy_check_mark: | Easy   | [array],[math]    |        |
+| 67  | [Add Binary](./problems/000-099/67/README.md)                                                   | :heavy_check_mark: | Easy   | [math]            |        |
+| 68  | [Text Justification](./problems/000-099/68/README.md)                                           | :o:                | Hard   |                   |        |
+| 69  | [Sqrt(x)](./problems/000-099/69/README.md)                                                      | :heavy_check_mark: | Easy   | [math]            |        |
+| 70  | [Climbing Stairs](./problems/000-099/70/README.md)                                              | :heavy_check_mark: | Easy   | [dp]              |        |
+| 71  | [Simplify Path](./problems/000-099/71/README.md)                                                | :heavy_check_mark: | Medium | [stack]           |        |
+| 72  | [Edit Distance](./problems/000-099/72/README.md)                                                | :o:                | Hard   |                   |        |
+| 73  | [Set Matrix Zeroes](./problems/000-099/73/README.md)                                            | :o:                | Medium |                   |        |
+| 74  | [Search a 2D Matrix](./problems/000-099/74/README.md)                                           | :o:                | Medium |                   |        |
+| 75  | [Sort Colors](./problems/000-099/75/README.md)                                                  | :o:                | Medium |                   |        |
+| 76  | [Minimum Window Substring](./problems/000-099/76/README.md)                                     | :o:                | Hard   |                   |        |
+| 77  | [Combinations](./problems/000-099/77/README.md)                                                 | :o:                | Medium |                   |        |
+| 78  | [Subsets](./problems/000-099/78/README.md)                                                      | :o:                | Medium |                   |        |
+| 79  | [Word Search](./problems/000-099/79/README.md)                                                  | :o:                | Medium |                   |        |
+| 80  | [Remove Duplicates from Sorted Array II](./problems/000-099/80/README.md)                       | :o:                | Medium |                   |        |
+| 81  | [Search in Rotated Sorted Array II](./problems/000-099/81/README.md)                            | :o:                | Medium |                   |        |
+| 82  | [Remove Duplicates from Sorted List II](./problems/000-099/82/README.md)                        | :o:                | Medium |                   |        |
+| 83  | [Remove Duplicates from Sorted List](./problems/000-099/83/README.md)                           | :o:                | Easy   |                   |        |
+| 84  | [Largest Rectangle in Histogram](./problems/000-099/84/README.md)                               | :o:                | Hard   |                   |        |
+| 85  | [Maximal Rectangle](./problems/000-099/85/README.md)                                            | :o:                | Hard   |                   |        |
+| 86  | [Partition List](./problems/000-099/86/README.md)                                               | :o:                | Medium |                   |        |
+| 87  | [Scramble String](./problems/000-099/87/README.md)                                              | :o:                | Hard   |                   |        |
+| 88  | [Merge Sorted Array](./problems/000-099/88/README.md)                                           | :o:                | Easy   |                   |        |
+| 89  | [Gray Code](./problems/000-099/89/README.md)                                                    | :o:                | Medium |                   |        |
+| 90  | [Subsets II](./problems/000-099/90/README.md)                                                   | :o:                | Medium |                   |        |
+| 91  | [Decode Ways](./problems/000-099/91/README.md)                                                  | :o:                | Medium |                   |        |
+| 92  | [Reverse Linked List II](./problems/000-099/92/README.md)                                       | :o:                | Medium |                   |        |
+| 93  | [Restore IP Addresses](./problems/000-099/93/README.md)                                         | :o:                | Medium |                   |        |
+| 94  | [Binary Tree Inorder Traversal](./problems/000-099/94/README.md)                                | :o:                | Medium |                   |        |
+| 95  | [Unique Binary Search Trees II](./problems/000-099/95/README.md)                                | :o:                | Medium |                   |        |
+| 96  | [Unique Binary Search Trees](./problems/000-099/96/README.md)                                   | :o:                | Medium |                   |        |
+| 97  | [Interleaving String](./problems/000-099/97/README.md)                                          | :o:                | Hard   |                   |        |
+| 98  | [Validate Binary Search Tree](./problems/000-099/98/README.md)                                  | :o:                | Medium |                   |        |
+| 99  | [Recover Binary Search Tree](./problems/000-099/99/README.md)                                   | :o:                | Hard   |                   |        |
 | 100 | [Same Tree](./problems/100-199/100/README.md)                                                   | :o:                | Easy   |                   |        |
 | 101 | [Symmetric Tree](./problems/100-199/101/README.md)                                              | :o:                | Easy   |                   |        |
 | 102 | [Binary Tree Level Order Traversal](./problems/100-199/102/README.md)                           | :o:                | Medium |                   |        |

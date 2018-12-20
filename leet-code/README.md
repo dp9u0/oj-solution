@@ -103,7 +103,7 @@
 | 74  | [Search a 2D Matrix](./problems/000-099/74/README.md)                                           | :heavy_check_mark: | Medium | [array],[bs]      |        |
 | 75  | [Sort Colors](./problems/000-099/75/README.md)                                                  | :heavy_check_mark: | Medium | [array],[tp]      |        |
 | 76  | [Minimum Window Substring](./problems/000-099/76/README.md)                                     | :o:                | Hard   |                   |        |
-| 77  | [Combinations](./problems/000-099/77/README.md)                                                 | :o:                | Medium |                   |        |
+| 77  | [Combinations](./problems/000-099/77/README.md)                                                 | :heavy_check_mark: | Medium | [bt]              |        |
 | 78  | [Subsets](./problems/000-099/78/README.md)                                                      | :o:                | Medium |                   |        |
 | 79  | [Word Search](./problems/000-099/79/README.md)                                                  | :o:                | Medium |                   |        |
 | 80  | [Remove Duplicates from Sorted Array II](./problems/000-099/80/README.md)                       | :o:                | Medium |                   |        |

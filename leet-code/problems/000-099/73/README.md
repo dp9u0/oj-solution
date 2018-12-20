@@ -44,4 +44,11 @@ Could you devise a constant space solution?
 
 ## Solution
 
+O(m + n) 使用两个数组,用来记录哪一行或者哪一列需要被设置为 0,可以考虑使用:
+
+```js
+matrix[0][j] = 0;
+matrix[i][0] = 0;
+```
+
 [SourceCode](./solution.js)

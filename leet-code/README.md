@@ -25,8 +25,8 @@
 
 ## Problems
 
-| Seq | Title                                                                                   | Status             | Level  | Tags              | Remark |
-| --- | --------------------------------------------------------------------------------------- | ------------------ | ------ | ----------------- | ------ |
+| Seq | Title                                                                                           | Status             | Level  | Tags              | Remark |
+| --- | ----------------------------------------------------------------------------------------------- | ------------------ | ------ | ----------------- | ------ |
 | 1   | [Two Sum](./problems/000-099/1/README.md)                                                       | :heavy_check_mark: | Easy   | [array],[hashing] |        |
 | 2   | [Add Two Numbers](./problems/000-099/2/README.md)                                               | :heavy_check_mark: | Medium | [ll]              | Slow   |
 | 3   | [Longest Substring Without Repeating](./problems/000-099/3/README.md)                           | :heavy_check_mark: | Medium | [tp]              | Slow   |
@@ -99,7 +99,7 @@
 | 70  | [Climbing Stairs](./problems/000-099/70/README.md)                                              | :heavy_check_mark: | Easy   | [dp]              |        |
 | 71  | [Simplify Path](./problems/000-099/71/README.md)                                                | :heavy_check_mark: | Medium | [stack]           |        |
 | 72  | [Edit Distance](./problems/000-099/72/README.md)                                                | :o:                | Hard   |                   |        |
-| 73  | [Set Matrix Zeroes](./problems/000-099/73/README.md)                                            | :o:                | Medium |                   |        |
+| 73  | [Set Matrix Zeroes](./problems/000-099/73/README.md)                                            | :heavy_check_mark: | Medium | [array]           |        |
 | 74  | [Search a 2D Matrix](./problems/000-099/74/README.md)                                           | :o:                | Medium |                   |        |
 | 75  | [Sort Colors](./problems/000-099/75/README.md)                                                  | :o:                | Medium |                   |        |
 | 76  | [Minimum Window Substring](./problems/000-099/76/README.md)                                     | :o:                | Hard   |                   |        |
@@ -187,7 +187,7 @@
 | 158 | [Read N Characters Given Read4 II - Call multiple times](./problems/100-199/158/README.md)      | :moneybag:         | Hard   |                   |        |
 | 159 | [Longest Substring with At Most Two Distinct Characters](./problems/100-199/159/README.md)      | :moneybag:         | Hard   |                   |        |
 | 160 | [Intersection of Two Linked Lists](./problems/100-199/160/README.md)                            | :o:                | Easy   |                   |        |
-| 161 | [One Edit Distance](./problems/100-199/161/README.md)                                           | :moneybag:          | Medium |                   |        |
+| 161 | [One Edit Distance](./problems/100-199/161/README.md)                                           | :moneybag:         | Medium |                   |        |
 | 162 | [Find Peak Element](./problems/100-199/162/README.md)                                           | :moneybag:         | Medium |                   |        |
 | 163 | [Missing Ranges](./problems/100-199/163/README.md)                                              | :moneybag:         | Medium |                   |        |
 | 164 | [Maximum Gap](./problems/100-199/164/README.md)                                                 | :o:                | Hard   |                   |        |

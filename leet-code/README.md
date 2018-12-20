@@ -108,7 +108,7 @@
 | 79  | [Word Search](./problems/000-099/79/README.md)                                                  | :heavy_check_mark: | Medium | [bt]              |        |
 | 80  | [Remove Duplicates from Sorted Array II](./problems/000-099/80/README.md)                       | :o:                | Medium |                   |        |
 | 81  | [Search in Rotated Sorted Array II](./problems/000-099/81/README.md)                            | :o:                | Medium |                   |        |
-| 82  | [Remove Duplicates from Sorted List II](./problems/000-099/82/README.md)                        | :o:                | Medium |                   |        |
+| 82  | [Remove Duplicates from Sorted List II](./problems/000-099/82/README.md)                        | :heavy_check_mark: | Medium | [ll]              |        |
 | 83  | [Remove Duplicates from Sorted List](./problems/000-099/83/README.md)                           | :heavy_check_mark: | Easy   | [ll]              |        |
 | 84  | [Largest Rectangle in Histogram](./problems/000-099/84/README.md)                               | :o:                | Hard   |                   |        |
 | 85  | [Maximal Rectangle](./problems/000-099/85/README.md)                                            | :o:                | Hard   |                   |        |

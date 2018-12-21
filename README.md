@@ -2,4 +2,4 @@
 
 Solutions :
 
-* [Leet Code In Javascript](./leet-code/README.md)
+* [LeetCode In Javascript](./leetcode/README.md)

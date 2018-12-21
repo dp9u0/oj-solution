@@ -4,12 +4,19 @@ SOLUTION_JS_PATH = `./solution.js`;
 
 module.exports.SOLUTION_JS_PATH = SOLUTION_JS_PATH;
 
+module.exports.started = function () {
+  return fs.existsSync('./solving/current');
+}
+
 module.exports.setCurrent = function (problem) {
   fs.writeFileSync('./solving/current', problem)
 }
 
 module.exports.getCurrent = function () {
   return fs.readFileSync('./solving/current', 'utf-8')
+}
+module.exports.removeCurrent = function () {
+  fs.unlinkSync('./solving/current')
 }
 
 module.exports.save = function (problem) {

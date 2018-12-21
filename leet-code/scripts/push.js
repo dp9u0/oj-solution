@@ -1,13 +1,17 @@
 let common = require('./common')
 let execSync = require('child_process').execSync;
 
-let problem = common.getCurrent();
-common.save(problem)
+if (!common.started()) {
+  console.error('not started a problem,use npm run start {problem no} first.');
+} else {
+  let problem = common.getCurrent();
+  let jsPath = common.getJsPath(problem);
+  let cmdStr = `leetcode push ${jsPath}`;
 
-let jsPath = common.getJsPath(problem);
+  // Save first
+  common.save(problem);
 
-let cmdStr = `leetcode push ${jsPath}`;
-
-execSync(cmdStr, {
-  stdio: 'inherit'
-});
+  execSync(cmdStr, {
+    stdio: 'inherit'
+  });
+}

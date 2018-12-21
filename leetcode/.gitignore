@@ -62,4 +62,4 @@ run.bat
 
 solving/*
 package-lock.json
-./solution.js
+solving.js

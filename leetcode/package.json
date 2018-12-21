@@ -8,7 +8,7 @@
     "test": "node scripts/test.js",
     "publish": "node scripts/push.js",
     "finish": "node scripts/finish.js",
-    "run": "node solution.js"
+    "run": "node solving.js"
   },
   "author": "",
   "license": "MIT"

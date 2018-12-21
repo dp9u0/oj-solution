@@ -133,19 +133,19 @@
 | 104 | [Maximum Depth of Binary Tree](./problems/100-199/104/README.md)                                | :o:                | Easy   |                   |        |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./problems/100-199/105/README.md)   | :o:                | Medium |                   |        |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](./problems/100-199/106/README.md)  | :o:                | Medium |                   |        |
-| 107 | [Binary Tree Level Order Traversal II](./problems/100-199/107/README.md)                        | :o:                | Easy   | [tree],[stack]    |        |
-| 108 | [Convert Sorted Array to Binary Search Tree](./problems/100-199/108/README.md)                  | :o:                | Easy   | [tree]            |        |
+| 107 | [Binary Tree Level Order Traversal II](./problems/100-199/107/README.md)                        | :heavy_check_mark: | Easy   | [tree],[stack]    |        |
+| 108 | [Convert Sorted Array to Binary Search Tree](./problems/100-199/108/README.md)                  | :heavy_check_mark: | Easy   | [tree]            |        |
 | 109 | [Convert Sorted List to Binary Search Tree](./problems/100-199/109/README.md)                   | :o:                | Medium |                   |        |
-| 110 | [Balanced Binary Tree](./problems/100-199/110/README.md)                                        | :o:                | Easy   |                   |        |
-| 111 | [Minimum Depth of Binary Tree](./problems/100-199/111/README.md)                                | :o:                | Easy   |                   |        |
-| 112 | [Path Sum](./problems/100-199/112/README.md)                                                    | :o:                | Easy   |                   |        |
+| 110 | [Balanced Binary Tree](./problems/100-199/110/README.md)                                        | :heavy_check_mark: | Easy   | [tree]            |        |
+| 111 | [Minimum Depth of Binary Tree](./problems/100-199/111/README.md)                                | :heavy_check_mark: | Easy   | [tree]            |        |
+| 112 | [Path Sum](./problems/100-199/112/README.md)                                                    | :heavy_check_mark: | Easy   | [tree]            |        |
 | 113 | [Path Sum II](./problems/100-199/113/README.md)                                                 | :o:                | Medium |                   |        |
 | 114 | [Flatten Binary Tree to Linked List](./problems/100-199/114/README.md)                          | :o:                | Medium |                   |        |
 | 115 | [Distinct Subsequences](./problems/100-199/115/README.md)                                       | :o:                | Hard   |                   |        |
 | 116 | [Populating Next Right Pointers in Each Node](./problems/100-199/116/README.md)                 | :o:                | Medium |                   |        |
 | 117 | [Populating Next Right Pointers in Each Node II](./problems/100-199/117/README.md)              | :o:                | Medium |                   |        |
-| 118 | [Pascal's Triangle](./problems/100-199/118/README.md)                                           | :o:                | Easy   |                   |        |
-| 119 | [Pascal's Triangle II](./problems/100-199/119/README.md)                                        | :o:                | Easy   |                   |        |
+| 118 | [Pascal's Triangle](./problems/100-199/118/README.md)                                           | :heavy_check_mark: | Easy   | [array]           |        |
+| 119 | [Pascal's Triangle II](./problems/100-199/119/README.md)                                        | :heavy_check_mark: | Easy   | [array]           |        |
 | 120 | [Triangle](./problems/100-199/120/README.md)                                                    | :o:                | Medium |                   |        |
 | 121 | [Best Time to Buy and Sell Stock](./problems/100-199/121/README.md)                             | :o:                | Easy   |                   |        |
 | 122 | [Best Time to Buy and Sell Stock II](./problems/100-199/122/README.md)                          | :o:                | Easy   |                   |        |

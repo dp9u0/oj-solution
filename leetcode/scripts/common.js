@@ -1,6 +1,6 @@
 let fs = require('fs');
 
-SOLUTION_JS_PATH = `./solution.js`;
+SOLUTION_JS_PATH = `./solving.js`;
 
 module.exports.SOLUTION_JS_PATH = SOLUTION_JS_PATH;
 

@@ -147,11 +147,11 @@
 | 118 | [Pascal's Triangle](./problems/100-199/118/README.md)                                           | :heavy_check_mark: | Easy   | [array]           |        |
 | 119 | [Pascal's Triangle II](./problems/100-199/119/README.md)                                        | :heavy_check_mark: | Easy   | [array]           |        |
 | 120 | [Triangle](./problems/100-199/120/README.md)                                                    | :o:                | Medium |                   |        |
-| 121 | [Best Time to Buy and Sell Stock](./problems/100-199/121/README.md)                             | :o:                | Easy   |                   |        |
-| 122 | [Best Time to Buy and Sell Stock II](./problems/100-199/122/README.md)                          | :o:                | Easy   |                   |        |
+| 121 | [Best Time to Buy and Sell Stock](./problems/100-199/121/README.md)                             | :heavy_check_mark: | Easy   | [array]           |        |
+| 122 | [Best Time to Buy and Sell Stock II](./problems/100-199/122/README.md)                          | :heavy_check_mark: | Easy   | [array]           |        |
 | 123 | [Best Time to Buy and Sell Stock III](./problems/100-199/123/README.md)                         | :o:                | Hard   |                   |        |
 | 124 | [Binary Tree Maximum Path Sum](./problems/100-199/124/README.md)                                | :o:                | Hard   |                   |        |
-| 125 | [Valid Palindrome](./problems/100-199/125/README.md)                                            | :o:                | Easy   |                   |        |
+| 125 | [Valid Palindrome](./problems/100-199/125/README.md)                                            | :heavy_check_mark: | Easy   | [string]          |        |
 | 126 | [Word Ladder II](./problems/100-199/126/README.md)                                              | :o:                | Hard   |                   |        |
 | 127 | [Word Ladder](./problems/100-199/127/README.md)                                                 | :o:                | Medium |                   |        |
 | 128 | [Longest Consecutive Sequence](./problems/100-199/128/README.md)                                | :o:                | Hard   |                   |        |

@@ -5,11 +5,10 @@
   "main": "index.js",
   "scripts": {
     "start": "node scripts/start.js",
-    "save": "node scripts/save.js",
     "test": "node scripts/test.js",
-    "push": "node scripts/push.js",
-    "yes": "node scripts/yes.js",
-    "run" :"node solving/solution.js"
+    "publish": "node scripts/push.js",
+    "finish": "node scripts/finish.js",
+    "run": "node solution.js"
   },
   "author": "",
   "license": "MIT"

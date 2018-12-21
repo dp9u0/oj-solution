@@ -114,7 +114,7 @@
 | 85  | [Maximal Rectangle](./problems/000-099/85/README.md)                                            | :o:                | Hard   |                   |        |
 | 86  | [Partition List](./problems/000-099/86/README.md)                                               | :o:                | Medium |                   |        |
 | 87  | [Scramble String](./problems/000-099/87/README.md)                                              | :o:                | Hard   |                   |        |
-| 88  | [Merge Sorted Array](./problems/000-099/88/README.md)                                           | :o:                | Easy   |                   |        |
+| 88  | [Merge Sorted Array](./problems/000-099/88/README.md)                                           | :heavy_check_mark: | Easy   | [array],[tp]      |        |
 | 89  | [Gray Code](./problems/000-099/89/README.md)                                                    | :o:                | Medium |                   |        |
 | 90  | [Subsets II](./problems/000-099/90/README.md)                                                   | :o:                | Medium |                   |        |
 | 91  | [Decode Ways](./problems/000-099/91/README.md)                                                  | :o:                | Medium |                   |        |
@@ -126,8 +126,8 @@
 | 97  | [Interleaving String](./problems/000-099/97/README.md)                                          | :o:                | Hard   |                   |        |
 | 98  | [Validate Binary Search Tree](./problems/000-099/98/README.md)                                  | :o:                | Medium |                   |        |
 | 99  | [Recover Binary Search Tree](./problems/000-099/99/README.md)                                   | :o:                | Hard   |                   |        |
-| 100 | [Same Tree](./problems/100-199/100/README.md)                                                   | :o:                | Easy   |                   |        |
-| 101 | [Symmetric Tree](./problems/100-199/101/README.md)                                              | :o:                | Easy   |                   |        |
+| 100 | [Same Tree](./problems/100-199/100/README.md)                                                   | :heavy_check_mark: | Easy   | [tree]            |        |
+| 101 | [Symmetric Tree](./problems/100-199/101/README.md)                                              | :heavy_check_mark: | Easy   | [tree],[bfs]      |        |
 | 102 | [Binary Tree Level Order Traversal](./problems/100-199/102/README.md)                           | :o:                | Medium |                   |        |
 | 103 | [Binary Tree Zigzag Level Order Traversal](./problems/100-199/103/README.md)                    | :o:                | Medium |                   |        |
 | 104 | [Maximum Depth of Binary Tree](./problems/100-199/104/README.md)                                | :o:                | Easy   |                   |        |

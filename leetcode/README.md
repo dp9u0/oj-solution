@@ -162,7 +162,7 @@
 | 133 | [Clone Graph](./problems/100-199/133/README.md)                                                 | :o:                | Medium |                   |        |
 | 134 | [Gas Station](./problems/100-199/134/README.md)                                                 | :o:                | Medium |                   |        |
 | 135 | [Candy](./problems/100-199/135/README.md)                                                       | :o:                | Hard   |                   |        |
-| 136 | [Single Number](./problems/100-199/136/README.md)                                               | :o:                | Easy   |                   |        |
+| 136 | [Single Number](./problems/100-199/136/README.md)                                               | :heavy_check_mark: | Easy   | [bit]             | :+1:   |
 | 137 | [Single Number II](./problems/100-199/137/README.md)                                            | :o:                | Medium |                   |        |
 | 138 | [Copy List with Random Pointer](./problems/100-199/138/README.md)                               | :o:                | Medium |                   |        |
 | 139 | [Word Break](./problems/100-199/139/README.md)                                                  | :o:                | Medium |                   |        |

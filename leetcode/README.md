@@ -186,15 +186,15 @@
 | 157 | [Read N Characters Given Read4](./problems/100-199/157/README.md)                               | :moneybag:         | Easy   |                   |        |
 | 158 | [Read N Characters Given Read4 II - Call multiple times](./problems/100-199/158/README.md)      | :moneybag:         | Hard   |                   |        |
 | 159 | [Longest Substring with At Most Two Distinct Characters](./problems/100-199/159/README.md)      | :moneybag:         | Hard   |                   |        |
-| 160 | [Intersection of Two Linked Lists](./problems/100-199/160/README.md)                            | :o:                | Easy   |                   |        |
+| 160 | [Intersection of Two Linked Lists](./problems/100-199/160/README.md)                            | :heavy_check_mark: | Easy   | [ll]              |        |
 | 161 | [One Edit Distance](./problems/100-199/161/README.md)                                           | :moneybag:         | Medium |                   |        |
 | 162 | [Find Peak Element](./problems/100-199/162/README.md)                                           | :moneybag:         | Medium |                   |        |
 | 163 | [Missing Ranges](./problems/100-199/163/README.md)                                              | :moneybag:         | Medium |                   |        |
 | 164 | [Maximum Gap](./problems/100-199/164/README.md)                                                 | :o:                | Hard   |                   |        |
 | 165 | [Compare Version Numbers](./problems/100-199/165/README.md)                                     | :o:                | Medium |                   |        |
 | 166 | [Fraction to Recurring Decimal](./problems/100-199/166/README.md)                               | :o:                | Medium |                   |        |
-| 167 | [Two Sum II - Input array is sorted](./problems/100-199/167/README.md)                          | :o:                | Easy   |                   |        |
-| 168 | [Excel Sheet Column Title](./problems/100-199/168/README.md)                                    | :o:                | Easy   |                   |        |
+| 167 | [Two Sum II - Input array is sorted](./problems/100-199/167/README.md)                          | :heavy_check_mark: | Easy   | [array],[tp]      |        |
+| 168 | [Excel Sheet Column Title](./problems/100-199/168/README.md)                                    | :heavy_check_mark: | Easy   | [array]           |        |
 | 169 | [Majority Element](./problems/100-199/169/README.md)                                            | :o:                | Easy   |                   |        |
 | 170 | [Two Sum III - Data structure design](./problems/100-199/170/README.md)                         | :o:                | Easy   |                   |        |
 | 171 | [Excel Sheet Column Number](./problems/100-199/171/README.md)                                   | :o:                | Easy   |                   |        |

@@ -195,7 +195,7 @@
 | 166 | [Fraction to Recurring Decimal](./problems/100-199/166/README.md)                               | :o:                | Medium |                   |        |
 | 167 | [Two Sum II - Input array is sorted](./problems/100-199/167/README.md)                          | :heavy_check_mark: | Easy   | [array],[tp]      |        |
 | 168 | [Excel Sheet Column Title](./problems/100-199/168/README.md)                                    | :heavy_check_mark: | Easy   | [array]           |        |
-| 169 | [Majority Element](./problems/100-199/169/README.md)                                            | :o:                | Easy   |                   |        |
+| 169 | [Majority Element](./problems/100-199/169/README.md)                                            | :heavy_check_mark: | Easy   | [array]           |        |
 | 170 | [Two Sum III - Data structure design](./problems/100-199/170/README.md)                         | :o:                | Easy   |                   |        |
 | 171 | [Excel Sheet Column Number](./problems/100-199/171/README.md)                                   | :o:                | Easy   |                   |        |
 | 172 | [Factorial Trailing Zeroes](./problems/100-199/172/README.md)                                   | :o:                | Easy   |                   |        |

@@ -264,7 +264,7 @@
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](./problems/200-299/235/README.md)              | :o:                | Easy   |                   |        |
 | 236 | [Lowest Common Ancestor of a Binary Tree](./problems/200-299/236/README.md)                     | :o:                | Medium |                   |        |
 | 237 | [Delete Node in a Linked List](./problems/200-299/237/README.md)                                | :o:                | Easy   |                   |        |
-| 238 | [Product of Array Except Self](./problems/200-299/238/README.md)                                | :o:                | Medium |                   |        |
+| 238 | [Product of Array Except Self](./problems/200-299/238/README.md)                                | :heavy_check_mark: | Medium | [array]           |        |
 | 239 | [Sliding Window Maximum](./problems/200-299/239/README.md)                                      | :o:                | Hard   |                   |        |
 | 240 | [Search a 2D Matrix II](./problems/200-299/240/README.md)                                       | :o:                | Medium |                   |        |
 | 241 | [Different Ways to Add Parentheses](./problems/200-299/241/README.md)                           | :o:                | Medium |                   |        |

@@ -216,8 +216,8 @@
 | 187 | [Repeated DNA Sequences](./problems/100-199/187/README.md)                                      | :o:                | Medium |                   |        |
 | 188 | [Best Time to Buy and Sell Stock IV](./problems/100-199/188/README.md)                          | :o:                | Hard   |                   |        |
 | 189 | [Rotate Array](./problems/100-199/189/README.md)                                                | :heavy_check_mark: | Easy   | [array]           | :+1:   |
-| 190 | [Reverse Bits](./problems/100-199/190/README.md)                                                | :o:                | Easy   |                   |        |
-| 191 | [Number of 1 Bits](./problems/100-199/191/README.md)                                            | :o:                | Easy   |                   |        |
+| 190 | [Reverse Bits](./problems/100-199/190/README.md)                                                | :heavy_check_mark: | Easy   | [bit]             | :+1:   |
+| 191 | [Number of 1 Bits](./problems/100-199/191/README.md)                                            | :heavy_check_mark: | Easy   | [bit]             |        |
 | 192 | [Word Frequency](./problems/100-199/192/README.md)                                              | :o:                | Medium |                   |        |
 | 193 | [Valid Phone Numbers](./problems/100-199/193/README.md)                                         | :o:                | Easy   |                   |        |
 | 194 | [Transpose File](./problems/100-199/194/README.md)                                              | :o:                | Medium |                   |        |

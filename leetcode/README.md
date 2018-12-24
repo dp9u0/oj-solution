@@ -196,34 +196,34 @@
 | 167 | [Two Sum II - Input array is sorted](./problems/100-199/167/README.md)                          | :heavy_check_mark: | Easy   | [array],[tp]      |        |
 | 168 | [Excel Sheet Column Title](./problems/100-199/168/README.md)                                    | :heavy_check_mark: | Easy   | [array]           |        |
 | 169 | [Majority Element](./problems/100-199/169/README.md)                                            | :heavy_check_mark: | Easy   | [array]           |        |
-| 170 | [Two Sum III - Data structure design](./problems/100-199/170/README.md)                         | :o:                | Easy   |                   |        |
-| 171 | [Excel Sheet Column Number](./problems/100-199/171/README.md)                                   | :o:                | Easy   |                   |        |
-| 172 | [Factorial Trailing Zeroes](./problems/100-199/172/README.md)                                   | :o:                | Easy   |                   |        |
+| 170 | [Two Sum III - Data structure design](./problems/100-199/170/README.md)                         | :moneybag:         | Easy   |                   |        |
+| 171 | [Excel Sheet Column Number](./problems/100-199/171/README.md)                                   | :heavy_check_mark: | Easy   | [array]           |        |
+| 172 | [Factorial Trailing Zeroes](./problems/100-199/172/README.md)                                   | :heavy_check_mark: | Easy   | [math]            | :+1:   |
 | 173 | [Binary Search Tree Iterator](./problems/100-199/173/README.md)                                 | :o:                | Medium |                   |        |
 | 174 | [Dungeon Game](./problems/100-199/174/README.md)                                                | :o:                | Hard   |                   |        |
-| 175 | [Combine Two Tables](./problems/100-199/175/README.md)                                          | :o:                | Easy   |                   |        |
-| 176 | [Second Highest Salary](./problems/100-199/176/README.md)                                       | :o:                | Easy   |                   |        |
-| 177 | [Nth Highest Salary](./problems/100-199/177/README.md)                                          | :o:                | Medium |                   |        |
-| 178 | [Rank Scores](./problems/100-199/178/README.md)                                                 | :o:                | Medium |                   |        |
+| 175 | [Combine Two Tables](./problems/100-199/175/README.md)                                          | :o:                | Easy   | [sql]             |        |
+| 176 | [Second Highest Salary](./problems/100-199/176/README.md)                                       | :o:                | Easy   | [sql]             |        |
+| 177 | [Nth Highest Salary](./problems/100-199/177/README.md)                                          | :o:                | Medium | [sql]             |        |
+| 178 | [Rank Scores](./problems/100-199/178/README.md)                                                 | :o:                | Medium | [sql]             |        |
 | 179 | [Largest Number](./problems/100-199/179/README.md)                                              | :o:                | Medium |                   |        |
 | 180 | [Consecutive Numbers](./problems/100-199/180/README.md)                                         | :o:                | Medium |                   |        |
-| 181 | [Employees Earning More Than Their Managers](./problems/100-199/181/README.md)                  | :o:                | Easy   |                   |        |
-| 182 | [Duplicate Emails](./problems/100-199/182/README.md)                                            | :o:                | Easy   |                   |        |
-| 183 | [Customers Who Never Order](./problems/100-199/183/README.md)                                   | :o:                | Easy   |                   |        |
-| 184 | [Department Highest Salary](./problems/100-199/184/README.md)                                   | :o:                | Medium |                   |        |
-| 185 | [Department Top Three Salaries](./problems/100-199/185/README.md)                               | :o:                | Hard   |                   |        |
+| 181 | [Employees Earning More Than Their Managers](./problems/100-199/181/README.md)                  | :o:                | Easy   | [sql]             |        |
+| 182 | [Duplicate Emails](./problems/100-199/182/README.md)                                            | :o:                | Easy   | [sql]             |        |
+| 183 | [Customers Who Never Order](./problems/100-199/183/README.md)                                   | :o:                | Easy   | [sql]             |        |
+| 184 | [Department Highest Salary](./problems/100-199/184/README.md)                                   | :o:                | Medium | [sql]             |        |
+| 185 | [Department Top Three Salaries](./problems/100-199/185/README.md)                               | :o:                | Hard   | [sql]             |        |
 | 186 | [Reverse Words in a String II](./problems/100-199/186/README.md)                                | :o:                | Medium |                   |        |
 | 187 | [Repeated DNA Sequences](./problems/100-199/187/README.md)                                      | :o:                | Medium |                   |        |
 | 188 | [Best Time to Buy and Sell Stock IV](./problems/100-199/188/README.md)                          | :o:                | Hard   |                   |        |
-| 189 | [Rotate Array](./problems/100-199/189/README.md)                                                | :o:                | Easy   |                   |        |
+| 189 | [Rotate Array](./problems/100-199/189/README.md)                                                | :heavy_check_mark: | Easy   | [array]           | :+1:   |
 | 190 | [Reverse Bits](./problems/100-199/190/README.md)                                                | :o:                | Easy   |                   |        |
 | 191 | [Number of 1 Bits](./problems/100-199/191/README.md)                                            | :o:                | Easy   |                   |        |
 | 192 | [Word Frequency](./problems/100-199/192/README.md)                                              | :o:                | Medium |                   |        |
 | 193 | [Valid Phone Numbers](./problems/100-199/193/README.md)                                         | :o:                | Easy   |                   |        |
 | 194 | [Transpose File](./problems/100-199/194/README.md)                                              | :o:                | Medium |                   |        |
 | 195 | [Tenth Line](./problems/100-199/195/README.md)                                                  | :o:                | Easy   |                   |        |
-| 196 | [Delete Duplicate Emails](./problems/100-199/196/README.md)                                     | :o:                | Easy   |                   |        |
-| 197 | [Rising Temperature](./problems/100-199/197/README.md)                                          | :o:                | Easy   |                   |        |
+| 196 | [Delete Duplicate Emails](./problems/100-199/196/README.md)                                     | :o:                | Easy   | [sql]             |        |
+| 197 | [Rising Temperature](./problems/100-199/197/README.md)                                          | :o:                | Easy   | [sql]             |        |
 | 198 | [House Robber](./problems/100-199/198/README.md)                                                | :o:                | Easy   |                   |        |
 | 199 | [Binary Tree Right Side View](./problems/100-199/199/README.md)                                 | :o:                | Medium |                   |        |
 | 200 | [Number of Islands](./problems/200-299/200/README.md)                                           | :o:                | Medium |                   |        |
@@ -288,7 +288,7 @@
 | 259 | [3Sum Smaller](./problems/200-299/259/README.md)                                                | :o:                | Medium |                   |        |
 | 260 | [Single Number III](./problems/200-299/260/README.md)                                           | :o:                | Medium |                   |        |
 | 261 | [Graph Valid Tree](./problems/200-299/261/README.md)                                            | :o:                | Medium |                   |        |
-| 262 | [Trips and Users](./problems/200-299/262/README.md)                                             | :o:                | Hard   |                   |        |
+| 262 | [Trips and Users](./problems/200-299/262/README.md)                                             | :o:                | Hard   | [sql]             |        |
 | 263 | [Ugly Number](./problems/200-299/263/README.md)                                                 | :o:                | Easy   |                   |        |
 | 264 | [Ugly Number II](./problems/200-299/264/README.md)                                              | :o:                | Medium |                   |        |
 | 265 | [Paint House II](./problems/200-299/265/README.md)                                              | :o:                | Hard   |                   |        |
@@ -589,12 +589,12 @@
 | 566 | [Reshape the Matrix](./problems/500-599/566/README.md)                                          | :o:                | Easy   |                   |        |
 | 567 | [Permutation in String](./problems/500-599/567/README.md)                                       | :o:                | Medium |                   |        |
 | 568 | [Maximum Vacation Days](./problems/500-599/568/README.md)                                       | :o:                | Hard   |                   |        |
-| 569 | [Median Employee Salary](./problems/500-599/569/README.md)                                      | :o:                | Hard   |                   |        |
-| 570 | [Managers with at Least 5 Direct Reports](./problems/500-599/570/README.md)                     | :o:                | Medium |                   |        |
+| 569 | [Median Employee Salary](./problems/500-599/569/README.md)                                      | :o:                | Hard   | [sql]             |        |
+| 570 | [Managers with at Least 5 Direct Reports](./problems/500-599/570/README.md)                     | :o:                | Medium | [sql]             |        |
 | 571 | [Find Median Given Frequency of Numbers](./problems/500-599/571/README.md)                      | :o:                | Hard   |                   |        |
 | 572 | [Subtree of Another Tree](./problems/500-599/572/README.md)                                     | :o:                | Easy   |                   |        |
 | 573 | [Squirrel Simulation](./problems/500-599/573/README.md)                                         | :o:                | Medium |                   |        |
-| 574 | [Winning Candidate](./problems/500-599/574/README.md)                                           | :o:                | Medium |                   |        |
+| 574 | [Winning Candidate](./problems/500-599/574/README.md)                                           | :o:                | Medium | [sql]             |        |
 | 575 | [Distribute Candies](./problems/500-599/575/README.md)                                          | :o:                | Easy   |                   |        |
 | 576 | [Out of Boundary Paths](./problems/500-599/576/README.md)                                       | :o:                | Medium |                   |        |
 | 577 | [Employee Bonus](./problems/500-599/577/README.md)                                              | :o:                | Easy   |                   |        |

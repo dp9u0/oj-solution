@@ -319,7 +319,7 @@
 | 289 | [Game of Life](./problems/200-299/289/README.md)                                                | :o:                | Medium |                   |        |
 | 290 | [Word Pattern](./problems/200-299/290/README.md)                                                | :heavy_check_mark: | Easy   | [hash]            |        |
 | 291 | [Word Pattern II](./problems/200-299/291/README.md)                                             | :o:                | Hard   |                   |        |
-| 292 | [Nim Game](./problems/200-299/292/README.md)                                                    | :o:                | Easy   |                   |        |
+| 292 | [Nim Game](./problems/200-299/292/README.md)                                                    | :heavy_check_mark: | Easy   | [math]            |        |
 | 293 | [Flip Game](./problems/200-299/293/README.md)                                                   | :moneybag:         | Easy   |                   |        |
 | 294 | [Flip Game II](./problems/200-299/294/README.md)                                                | :o:                | Medium |                   |        |
 | 295 | [Find Median from Data Stream](./problems/200-299/295/README.md)                                | :o:                | Hard   |                   |        |

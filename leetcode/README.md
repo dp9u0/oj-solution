@@ -305,19 +305,19 @@
 | 275 | [H-Index II](./problems/200-299/275/README.md)                                                  | :o:                | Medium |                   |        |
 | 276 | [Paint Fence](./problems/200-299/276/README.md)                                                 | :moneybag:         | Easy   |                   |        |
 | 277 | [Find the Celebrity](./problems/200-299/277/README.md)                                          | :o:                | Medium |                   |        |
-| 278 | [First Bad Version](./problems/200-299/278/README.md) | :heavy_check_mark: | Easy | [bs] |   |
+| 278 | [First Bad Version](./problems/200-299/278/README.md)                                           | :heavy_check_mark: | Easy   | [bs]              |        |
 | 279 | [Perfect Squares](./problems/200-299/279/README.md)                                             | :o:                | Medium |                   |        |
 | 280 | [Wiggle Sort](./problems/200-299/280/README.md)                                                 | :o:                | Medium |                   |        |
 | 281 | [Zigzag Iterator](./problems/200-299/281/README.md)                                             | :o:                | Medium |                   |        |
 | 282 | [Expression Add Operators](./problems/200-299/282/README.md)                                    | :o:                | Hard   |                   |        |
-| 283 | [Move Zeroes](./problems/200-299/283/README.md) | :heavy_check_mark: | Easy | [array] |   |
+| 283 | [Move Zeroes](./problems/200-299/283/README.md)                                                 | :heavy_check_mark: | Easy   | [array]           |        |
 | 284 | [Peeking Iterator](./problems/200-299/284/README.md)                                            | :o:                | Medium |                   |        |
 | 285 | [Inorder Successor in BST](./problems/200-299/285/README.md)                                    | :o:                | Medium |                   |        |
 | 286 | [Walls and Gates](./problems/200-299/286/README.md)                                             | :o:                | Medium |                   |        |
 | 287 | [Find the Duplicate Number](./problems/200-299/287/README.md)                                   | :o:                | Medium |                   |        |
 | 288 | [Unique Word Abbreviation](./problems/200-299/288/README.md)                                    | :o:                | Medium |                   |        |
 | 289 | [Game of Life](./problems/200-299/289/README.md)                                                | :o:                | Medium |                   |        |
-| 290 | [Word Pattern](./problems/200-299/290/README.md)                                                | :o:                | Easy   |                   |        |
+| 290 | [Word Pattern](./problems/200-299/290/README.md)                                                | :heavy_check_mark: | Easy   | [hash]            |        |
 | 291 | [Word Pattern II](./problems/200-299/291/README.md)                                             | :o:                | Hard   |                   |        |
 | 292 | [Nim Game](./problems/200-299/292/README.md)                                                    | :o:                | Easy   |                   |        |
 | 293 | [Flip Game](./problems/200-299/293/README.md)                                                   | :moneybag:         | Easy   |                   |        |

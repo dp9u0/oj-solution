@@ -92,7 +92,7 @@ module.exports.readme = function (problem, topics) {
   let readme = fs.readFileSync(README_PATH, 'utf-8');
   let lines = readme.split(/[\n]+/);
   let data = '';
-  let reg = new RegExp('\\|\\s+' + problem + '\\s+\\|');
+  let reg = new RegExp('^\\|\\s+' + problem + '\\s+\\|');
   for (let index = 0; index < lines.length; index++) {
     let line = lines[index];
     if (reg.test(line)) {

@@ -268,7 +268,7 @@
 | 239 | [Sliding Window Maximum](./problems/200-299/239/README.md)                                      | :o:                | Hard   |                   |        |
 | 240 | [Search a 2D Matrix II](./problems/200-299/240/README.md)                                       | :o:                | Medium |                   |        |
 | 241 | [Different Ways to Add Parentheses](./problems/200-299/241/README.md)                           | :o:                | Medium |                   |        |
-| 242 | [Valid Anagram](./problems/200-299/242/README.md)                                               | :o:                | Easy   |                   |        |
+| 242 | [Valid Anagram](./problems/200-299/242/README.md)                                               | :heavy_check_mark: | Easy   | [hash]            |        |
 | 243 | [Shortest Word Distance](./problems/200-299/243/README.md)                                      | :o:                | Easy   |                   |        |
 | 244 | [Shortest Word Distance II](./problems/200-299/244/README.md)                                   | :o:                | Medium |                   |        |
 | 245 | [Shortest Word Distance III](./problems/200-299/245/README.md)                                  | :o:                | Medium |                   |        |

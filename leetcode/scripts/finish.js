@@ -1,5 +1,6 @@
 let fs = require('fs');
 let common = require('./common');
+let execSync = require('child_process').execSync;
 
 if (!common.started()) {
   console.error('not started a problem,use npm run start {problem no} first.');
@@ -27,4 +28,10 @@ if (!common.started()) {
   fs.unlinkSync(jsPath);
   fs.unlinkSync(markdownPath);
   common.removeCurrent();
+  execSync('git add .', {
+    stdio: 'inherit'
+  });
+  execSync('git commit -m ' + `"#${problem}"`, {
+    stdio: 'inherit'
+  });
 }

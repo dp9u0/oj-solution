@@ -7,7 +7,7 @@
     "start": "node scripts/start.js",
     "test": "node scripts/test.js",
     "publish": "node scripts/push.js",
-    "finish": "node scripts/finish.js",
+    "finish": "node scripts/finish.js && git add . && git commit -m 'update'",
     "run": "node solving.js"
   },
   "author": "",

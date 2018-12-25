@@ -15,11 +15,13 @@ Example:
 Input: [0,1,0,3,12]
 Output: [1,3,12,0,0]
 Note:
-	You must do this in-place without making a copy of the array.
-	Minimize the total number of operations.
+You must do this in-place without making a copy of the array.
+Minimize the total number of operations.
 
 ```
 
 ## Solution
+
+TP 先把非0元素移动到前面,移动完后填充0
 
 [SourceCode](./solution.js)

@@ -91,7 +91,6 @@ module.exports.markdown = function (data) {
 module.exports.readme = function (problem, topics) {
   let readme = fs.readFileSync(README_PATH, 'utf-8');
   let lines = readme.split(/[\n]+/);
-  console.log(lines.length)
   let data = '';
   let reg = new RegExp('\\|\\s+' + problem + '\\s+\\|');
   for (let index = 0; index < lines.length; index++) {

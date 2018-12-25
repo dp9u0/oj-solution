@@ -269,20 +269,20 @@
 | 240 | [Search a 2D Matrix II](./problems/200-299/240/README.md)                                       | :o:                | Medium |                   |        |
 | 241 | [Different Ways to Add Parentheses](./problems/200-299/241/README.md)                           | :o:                | Medium |                   |        |
 | 242 | [Valid Anagram](./problems/200-299/242/README.md)                                               | :heavy_check_mark: | Easy   | [hash]            |        |
-| 243 | [Shortest Word Distance](./problems/200-299/243/README.md)                                      | :o:                | Easy   |                   |        |
+| 243 | [Shortest Word Distance](./problems/200-299/243/README.md)                                      | :moneybag:         | Easy   |                   |        |
 | 244 | [Shortest Word Distance II](./problems/200-299/244/README.md)                                   | :o:                | Medium |                   |        |
 | 245 | [Shortest Word Distance III](./problems/200-299/245/README.md)                                  | :o:                | Medium |                   |        |
-| 246 | [Strobogrammatic Number](./problems/200-299/246/README.md)                                      | :o:                | Easy   |                   |        |
+| 246 | [Strobogrammatic Number](./problems/200-299/246/README.md)                                      | :moneybag:         | Easy   |                   |        |
 | 247 | [Strobogrammatic Number II](./problems/200-299/247/README.md)                                   | :o:                | Medium |                   |        |
 | 248 | [Strobogrammatic Number III](./problems/200-299/248/README.md)                                  | :o:                | Hard   |                   |        |
 | 249 | [Group Shifted Strings](./problems/200-299/249/README.md)                                       | :o:                | Medium |                   |        |
 | 250 | [Count Univalue Subtrees](./problems/200-299/250/README.md)                                     | :o:                | Medium |                   |        |
 | 251 | [Flatten 2D Vector](./problems/200-299/251/README.md)                                           | :o:                | Medium |                   |        |
-| 252 | [Meeting Rooms](./problems/200-299/252/README.md)                                               | :o:                | Easy   |                   |        |
+| 252 | [Meeting Rooms](./problems/200-299/252/README.md)                                               | :moneybag:         | Easy   |                   |        |
 | 253 | [Meeting Rooms II](./problems/200-299/253/README.md)                                            | :o:                | Medium |                   |        |
 | 254 | [Factor Combinations](./problems/200-299/254/README.md)                                         | :o:                | Medium |                   |        |
 | 255 | [Verify Preorder Sequence in Binary Search Tree](./problems/200-299/255/README.md)              | :o:                | Medium |                   |        |
-| 256 | [Paint House](./problems/200-299/256/README.md)                                                 | :o:                | Easy   |                   |        |
+| 256 | [Paint House](./problems/200-299/256/README.md)                                                 | :moneybag:         | Easy   |                   |        |
 | 257 | [Binary Tree Paths](./problems/200-299/257/README.md)                                           | :o:                | Easy   |                   |        |
 | 258 | [Add Digits](./problems/200-299/258/README.md)                                                  | :o:                | Easy   |                   |        |
 | 259 | [3Sum Smaller](./problems/200-299/259/README.md)                                                | :o:                | Medium |                   |        |
@@ -292,17 +292,17 @@
 | 263 | [Ugly Number](./problems/200-299/263/README.md)                                                 | :o:                | Easy   |                   |        |
 | 264 | [Ugly Number II](./problems/200-299/264/README.md)                                              | :o:                | Medium |                   |        |
 | 265 | [Paint House II](./problems/200-299/265/README.md)                                              | :o:                | Hard   |                   |        |
-| 266 | [Palindrome Permutation](./problems/200-299/266/README.md)                                      | :o:                | Easy   |                   |        |
+| 266 | [Palindrome Permutation](./problems/200-299/266/README.md)                                      | :moneybag:         | Easy   |                   |        |
 | 267 | [Palindrome Permutation II](./problems/200-299/267/README.md)                                   | :o:                | Medium |                   |        |
 | 268 | [Missing Number](./problems/200-299/268/README.md)                                              | :o:                | Easy   |                   |        |
 | 269 | [Alien Dictionary](./problems/200-299/269/README.md)                                            | :o:                | Hard   |                   |        |
-| 270 | [Closest Binary Search Tree Value](./problems/200-299/270/README.md)                            | :o:                | Easy   |                   |        |
+| 270 | [Closest Binary Search Tree Value](./problems/200-299/270/README.md)                            | :moneybag:         | Easy   |                   |        |
 | 271 | [Encode and Decode Strings](./problems/200-299/271/README.md)                                   | :o:                | Medium |                   |        |
 | 272 | [Closest Binary Search Tree Value II](./problems/200-299/272/README.md)                         | :o:                | Hard   |                   |        |
 | 273 | [Integer to English Words](./problems/200-299/273/README.md)                                    | :o:                | Hard   |                   |        |
 | 274 | [H-Index](./problems/200-299/274/README.md)                                                     | :o:                | Medium |                   |        |
 | 275 | [H-Index II](./problems/200-299/275/README.md)                                                  | :o:                | Medium |                   |        |
-| 276 | [Paint Fence](./problems/200-299/276/README.md)                                                 | :o:                | Easy   |                   |        |
+| 276 | [Paint Fence](./problems/200-299/276/README.md)                                                 | :moneybag:         | Easy   |                   |        |
 | 277 | [Find the Celebrity](./problems/200-299/277/README.md)                                          | :o:                | Medium |                   |        |
 | 278 | [First Bad Version](./problems/200-299/278/README.md)                                           | :o:                | Easy   |                   |        |
 | 279 | [Perfect Squares](./problems/200-299/279/README.md)                                             | :o:                | Medium |                   |        |
@@ -319,7 +319,7 @@
 | 290 | [Word Pattern](./problems/200-299/290/README.md)                                                | :o:                | Easy   |                   |        |
 | 291 | [Word Pattern II](./problems/200-299/291/README.md)                                             | :o:                | Hard   |                   |        |
 | 292 | [Nim Game](./problems/200-299/292/README.md)                                                    | :o:                | Easy   |                   |        |
-| 293 | [Flip Game](./problems/200-299/293/README.md)                                                   | :o:                | Easy   |                   |        |
+| 293 | [Flip Game](./problems/200-299/293/README.md)                                                   | :moneybag:         | Easy   |                   |        |
 | 294 | [Flip Game II](./problems/200-299/294/README.md)                                                | :o:                | Medium |                   |        |
 | 295 | [Find Median from Data Stream](./problems/200-299/295/README.md)                                | :o:                | Hard   |                   |        |
 | 296 | [Best Meeting Point](./problems/200-299/296/README.md)                                          | :o:                | Hard   |                   |        |
@@ -365,7 +365,7 @@
 | 336 | [Palindrome Pairs](./problems/300-399/336/README.md)                                            | :o:                | Hard   |                   |        |
 | 337 | [House Robber III](./problems/300-399/337/README.md)                                            | :o:                | Medium |                   |        |
 | 338 | [Counting Bits](./problems/300-399/338/README.md)                                               | :o:                | Medium |                   |        |
-| 339 | [Nested List Weight Sum](./problems/300-399/339/README.md)                                      | :o:                | Easy   |                   |        |
+| 339 | [Nested List Weight Sum](./problems/300-399/339/README.md)                                      | :moneybag:         | Easy   |                   |        |
 | 340 | [Longest Substring with At Most K Distinct Characters](./problems/300-399/340/README.md)        | :o:                | Hard   |                   |        |
 | 341 | [Flatten Nested List Iterator](./problems/300-399/341/README.md)                                | :o:                | Medium |                   |        |
 | 342 | [Power of Four](./problems/300-399/342/README.md)                                               | :o:                | Easy   |                   |        |

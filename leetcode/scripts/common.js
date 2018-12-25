@@ -1,7 +1,7 @@
 let fs = require('fs');
 
-SOLUTION_JS_PATH = `./solving.js`;
-
+const SOLUTION_JS_PATH = `./solving.js`;
+const README_PATH = `./README.md`;
 module.exports.SOLUTION_JS_PATH = SOLUTION_JS_PATH;
 
 module.exports.started = function () {
@@ -86,4 +86,23 @@ module.exports.markdown = function (data) {
   markdown += '```\n\n';
   markdown += `## Solution\n\n[SourceCode](./solution.js)`;
   return markdown;
+}
+
+module.exports.readme = function (problem, topics) {
+  let readme = fs.readFileSync(README_PATH, 'utf-8');
+  let lines = readme.split(/[\n]+/);
+  console.log(lines.length)
+  let data = '';
+  let reg = new RegExp('\\|\\s+' + problem + '\\s+\\|');
+  for (let index = 0; index < lines.length; index++) {
+    let line = lines[index];
+    if (reg.test(line)) {
+      let blocks = line.split(/\s*\|\s*/);
+      let newLine = `| ${problem} | ${blocks[2]} | :heavy_check_mark: | ${blocks[4]} | ${topics} |   |\n`;
+      data += newLine
+    } else {
+      data += line;
+    }
+  }
+  fs.writeFileSync('./README.md', data);
 }

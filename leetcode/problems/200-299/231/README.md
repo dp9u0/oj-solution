@@ -28,4 +28,6 @@ Output: false
 
 位运算 如果是 `pow(2,x)` 则满足 `n & (n - 1) === 0`
 
+另一种方案是 `1073741824 % n === 0`
+
 [SourceCode](./solution.js)

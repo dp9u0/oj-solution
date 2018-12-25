@@ -260,10 +260,10 @@
 | 231 | [Power of Two](./problems/200-299/231/README.md)                                                | :heavy_check_mark: | Easy   | [bit]             |        |
 | 232 | [Implement Queue using Stacks](./problems/200-299/232/README.md)                                | :heavy_check_mark: | Easy   | [design]          |        |
 | 233 | [Number of Digit One](./problems/200-299/233/README.md)                                         | :o:                | Hard   |                   |        |
-| 234 | [Palindrome Linked List](./problems/200-299/234/README.md)                                      | :o:                | Easy   |                   |        |
-| 235 | [Lowest Common Ancestor of a Binary Search Tree](./problems/200-299/235/README.md)              | :o:                | Easy   |                   |        |
+| 234 | [Palindrome Linked List](./problems/200-299/234/README.md)                                      | :heavy_check_mark: | Easy   | [ll],[tp]         |        |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](./problems/200-299/235/README.md)              | :heavy_check_mark: | Easy   | [tree]            |        |
 | 236 | [Lowest Common Ancestor of a Binary Tree](./problems/200-299/236/README.md)                     | :o:                | Medium |                   |        |
-| 237 | [Delete Node in a Linked List](./problems/200-299/237/README.md)                                | :o:                | Easy   |                   |        |
+| 237 | [Delete Node in a Linked List](./problems/200-299/237/README.md)                                | :heavy_check_mark: | Easy   | [ll]              | :-1:   |
 | 238 | [Product of Array Except Self](./problems/200-299/238/README.md)                                | :heavy_check_mark: | Medium | [array]           |        |
 | 239 | [Sliding Window Maximum](./problems/200-299/239/README.md)                                      | :o:                | Hard   |                   |        |
 | 240 | [Search a 2D Matrix II](./problems/200-299/240/README.md)                                       | :o:                | Medium |                   |        |

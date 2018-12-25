@@ -305,7 +305,7 @@
 | 275 | [H-Index II](./problems/200-299/275/README.md)                                                  | :o:                | Medium |                   |        |
 | 276 | [Paint Fence](./problems/200-299/276/README.md)                                                 | :moneybag:         | Easy   |                   |        |
 | 277 | [Find the Celebrity](./problems/200-299/277/README.md)                                          | :o:                | Medium |                   |        |
-| 278 | [First Bad Version](./problems/200-299/278/README.md)                                           | :o:                | Easy   |                   |        |
+| 278 | [First Bad Version](./problems/200-299/278/README.md) | :heavy_check_mark: | Easy | [bs] |   |
 | 279 | [Perfect Squares](./problems/200-299/279/README.md)                                             | :o:                | Medium |                   |        |
 | 280 | [Wiggle Sort](./problems/200-299/280/README.md)                                                 | :o:                | Medium |                   |        |
 | 281 | [Zigzag Iterator](./problems/200-299/281/README.md)                                             | :o:                | Medium |                   |        |

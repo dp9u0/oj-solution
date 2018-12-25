@@ -30,13 +30,13 @@ if (!common.started()) {
   fs.unlinkSync(markdownPath);
   common.removeCurrent();
   common.readme(problem, topics);
-  // execSync('git add .', {
-  //   stdio: 'inherit'
-  // });
-  // execSync('git commit -m ' + `"#${problem}"`, {
-  //   stdio: 'inherit'
-  // });
-  // execSync('git push ', {
-  //   stdio: 'inherit'
-  // });
+  execSync('git add .', {
+    stdio: 'inherit'
+  });
+  execSync('git commit -m ' + `"#${problem}"`, {
+    stdio: 'inherit'
+  });
+  execSync('git push ', {
+    stdio: 'inherit'
+  });
 }

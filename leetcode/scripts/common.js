@@ -98,7 +98,7 @@ module.exports.readme = function (problem, topics) {
     if (reg.test(line)) {
       let blocks = line.split(/\s*\|\s*/);
       let newLine = `| ${problem} | ${blocks[2]} | :heavy_check_mark: | ${blocks[4]} | ${topics} |   |\n`;
-      data += newLine
+      data += newLine;
     } else {
       data += line;
     }

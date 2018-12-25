@@ -295,7 +295,7 @@
 | 265 | [Paint House II](./problems/200-299/265/README.md)                                              | :o:                | Hard   |                   |        |
 | 266 | [Palindrome Permutation](./problems/200-299/266/README.md)                                      | :moneybag:         | Easy   |                   |        |
 | 267 | [Palindrome Permutation II](./problems/200-299/267/README.md)                                   | :o:                | Medium |                   |        |
-| 268 | [Missing Number](./problems/200-299/268/README.md)                                              | :o:                | Easy   |                   |        |
+| 268 | [Missing Number](./problems/200-299/268/README.md)                                              | :heavy_check_mark: | Easy   | [math]            |        |
 | 269 | [Alien Dictionary](./problems/200-299/269/README.md)                                            | :o:                | Hard   |                   |        |
 | 270 | [Closest Binary Search Tree Value](./problems/200-299/270/README.md)                            | :moneybag:         | Easy   |                   |        |
 | 271 | [Encode and Decode Strings](./problems/200-299/271/README.md)                                   | :o:                | Medium |                   |        |

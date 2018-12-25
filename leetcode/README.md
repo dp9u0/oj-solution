@@ -369,7 +369,7 @@
 | 339 | [Nested List Weight Sum](./problems/300-399/339/README.md)                                      | :moneybag:         | Easy   |                   |        |
 | 340 | [Longest Substring with At Most K Distinct Characters](./problems/300-399/340/README.md)        | :o:                | Hard   |                   |        |
 | 341 | [Flatten Nested List Iterator](./problems/300-399/341/README.md)                                | :o:                | Medium |                   |        |
-| 342 | [Power of Four](./problems/300-399/342/README.md)                                               | :o:                | Easy   |                   |        |
+| 342 | [Power of Four](./problems/300-399/342/README.md)                                               | :heavy_check_mark: | Easy   | [bit]             |        |
 | 343 | [Integer Break](./problems/300-399/343/README.md)                                               | :o:                | Medium |                   |        |
 | 344 | [Reverse String](./problems/300-399/344/README.md)                                              | :o:                | Easy   |                   |        |
 | 345 | [Reverse Vowels of a String](./problems/300-399/345/README.md)                                  | :o:                | Easy   |                   |        |

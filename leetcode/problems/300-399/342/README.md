@@ -3,10 +3,10 @@
 ## Description
 
 * algorithms
-* Easy (39.77%)
+* Easy (39.78%)
 * Source Code:       solving\342.js
-* Total Accepted:    100.9K
-* Total Submissions: 253.6K
+* Total Accepted:    101.1K
+* Total Submissions: 254.1K
 * Testcase Example:  '16'
 
 ```md
@@ -22,5 +22,7 @@ Follow up: Could you solve it without loops/recursion?
 ```
 
 ## Solution
+
+与 isPowOfTow 类似,但是需要排除 PowOfTwo的情况,使用 `(num & 0x55555555)`
 
 [SourceCode](./solution.js)

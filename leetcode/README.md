@@ -219,20 +219,20 @@
 | 190 | [Reverse Bits](./problems/100-199/190/README.md)                                                | :heavy_check_mark: | Easy   | [bit]             | :+1:   |
 | 191 | [Number of 1 Bits](./problems/100-199/191/README.md)                                            | :heavy_check_mark: | Easy   | [bit]             |        |
 | 192 | [Word Frequency](./problems/100-199/192/README.md)                                              | :o:                | Medium |                   |        |
-| 193 | [Valid Phone Numbers](./problems/100-199/193/README.md)                                         | :o:                | Easy   |                   |        |
+| 193 | [Valid Phone Numbers](./problems/100-199/193/README.md)                                         | :o:                | Easy   | [bash]            |        |
 | 194 | [Transpose File](./problems/100-199/194/README.md)                                              | :o:                | Medium |                   |        |
 | 195 | [Tenth Line](./problems/100-199/195/README.md)                                                  | :o:                | Easy   |                   |        |
 | 196 | [Delete Duplicate Emails](./problems/100-199/196/README.md)                                     | :o:                | Easy   | [sql]             |        |
 | 197 | [Rising Temperature](./problems/100-199/197/README.md)                                          | :o:                | Easy   | [sql]             |        |
-| 198 | [House Robber](./problems/100-199/198/README.md)                                                | :o:                | Easy   |                   |        |
+| 198 | [House Robber](./problems/100-199/198/README.md)                                                | :heavy_check_mark: | Easy   | [dp]              |        |
 | 199 | [Binary Tree Right Side View](./problems/100-199/199/README.md)                                 | :o:                | Medium |                   |        |
 | 200 | [Number of Islands](./problems/200-299/200/README.md)                                           | :o:                | Medium |                   |        |
 | 201 | [Bitwise AND of Numbers Range](./problems/200-299/201/README.md)                                | :o:                | Medium |                   |        |
-| 202 | [Happy Number](./problems/200-299/202/README.md)                                                | :o:                | Easy   |                   |        |
-| 203 | [Remove Linked List Elements](./problems/200-299/203/README.md)                                 | :o:                | Easy   |                   |        |
-| 204 | [Count Primes](./problems/200-299/204/README.md)                                                | :o:                | Easy   |                   |        |
-| 205 | [Isomorphic Strings](./problems/200-299/205/README.md)                                          | :o:                | Easy   |                   |        |
-| 206 | [Reverse Linked List](./problems/200-299/206/README.md)                                         | :o:                | Easy   |                   |        |
+| 202 | [Happy Number](./problems/200-299/202/README.md)                                                | :heavy_check_mark: | Easy   | [math]            |        |
+| 203 | [Remove Linked List Elements](./problems/200-299/203/README.md)                                 | :heavy_check_mark: | Easy   | [ll]              |        |
+| 204 | [Count Primes](./problems/200-299/204/README.md)                                                | :heavy_check_mark: | Easy   | [math]            |        |
+| 205 | [Isomorphic Strings](./problems/200-299/205/README.md)                                          | :heavy_check_mark: | Easy   | [hash]            |        |
+| 206 | [Reverse Linked List](./problems/200-299/206/README.md)                                         | :heavy_check_mark: | Easy   | [ll]              |        |
 | 207 | [Course Schedule](./problems/200-299/207/README.md)                                             | :o:                | Medium |                   |        |
 | 208 | [Implement Trie (Prefix Tree)](./problems/200-299/208/README.md)                                | :o:                | Medium |                   |        |
 | 209 | [Minimum Size Subarray Sum](./problems/200-299/209/README.md)                                   | :o:                | Medium |                   |        |
@@ -243,22 +243,22 @@
 | 214 | [Shortest Palindrome](./problems/200-299/214/README.md)                                         | :o:                | Hard   |                   |        |
 | 215 | [Kth Largest Element in an Array](./problems/200-299/215/README.md)                             | :o:                | Medium |                   |        |
 | 216 | [Combination Sum III](./problems/200-299/216/README.md)                                         | :o:                | Medium |                   |        |
-| 217 | [Contains Duplicate](./problems/200-299/217/README.md)                                          | :o:                | Easy   |                   |        |
+| 217 | [Contains Duplicate](./problems/200-299/217/README.md)                                          | :heavy_check_mark: | Easy   | [hash]            |        |
 | 218 | [The Skyline Problem](./problems/200-299/218/README.md)                                         | :o:                | Hard   |                   |        |
-| 219 | [Contains Duplicate II](./problems/200-299/219/README.md)                                       | :o:                | Easy   |                   |        |
+| 219 | [Contains Duplicate II](./problems/200-299/219/README.md)                                       | :heavy_check_mark: | Easy   | [hash]            |        |
 | 220 | [Contains Duplicate III](./problems/200-299/220/README.md)                                      | :o:                | Medium |                   |        |
 | 221 | [Maximal Square](./problems/200-299/221/README.md)                                              | :o:                | Medium |                   |        |
 | 222 | [Count Complete Tree Nodes](./problems/200-299/222/README.md)                                   | :o:                | Medium |                   |        |
 | 223 | [Rectangle Area](./problems/200-299/223/README.md)                                              | :o:                | Medium |                   |        |
 | 224 | [Basic Calculator](./problems/200-299/224/README.md)                                            | :o:                | Hard   |                   |        |
-| 225 | [Implement Stack using Queues](./problems/200-299/225/README.md)                                | :o:                | Easy   |                   |        |
+| 225 | [Implement Stack using Queues](./problems/200-299/225/README.md)                                | :heavy_check_mark: | Easy   | [design]          |        |
 | 226 | [Invert Binary Tree](./problems/200-299/226/README.md)                                          | :heavy_check_mark: | Easy   | [tree],[dc]       |        |
 | 227 | [Basic Calculator II](./problems/200-299/227/README.md)                                         | :o:                | Medium |                   |        |
 | 228 | [Summary Ranges](./problems/200-299/228/README.md)                                              | :o:                | Medium |                   |        |
 | 229 | [Majority Element II](./problems/200-299/229/README.md)                                         | :o:                | Medium |                   |        |
 | 230 | [Kth Smallest Element in a BST](./problems/200-299/230/README.md)                               | :o:                | Medium |                   |        |
-| 231 | [Power of Two](./problems/200-299/231/README.md)                                                | :o:                | Easy   |                   |        |
-| 232 | [Implement Queue using Stacks](./problems/200-299/232/README.md)                                | :o:                | Easy   |                   |        |
+| 231 | [Power of Two](./problems/200-299/231/README.md)                                                | :heavy_check_mark: | Easy   | [bit]             |        |
+| 232 | [Implement Queue using Stacks](./problems/200-299/232/README.md)                                | :heavy_check_mark: | Easy   | [design]          |        |
 | 233 | [Number of Digit One](./problems/200-299/233/README.md)                                         | :o:                | Hard   |                   |        |
 | 234 | [Palindrome Linked List](./problems/200-299/234/README.md)                                      | :o:                | Easy   |                   |        |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](./problems/200-299/235/README.md)              | :o:                | Easy   |                   |        |

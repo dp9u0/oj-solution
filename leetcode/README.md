@@ -330,7 +330,7 @@
 | 300 | [Longest Increasing Subsequence](./problems/300-399/300/README.md)                              | :o:                | Medium |                   |        |
 | 301 | [Remove Invalid Parentheses](./problems/300-399/301/README.md)                                  | :o:                | Hard   |                   |        |
 | 302 | [Smallest Rectangle Enclosing Black Pixels](./problems/300-399/302/README.md)                   | :o:                | Hard   |                   |        |
-| 303 | [Range Sum Query - Immutable](./problems/300-399/303/README.md)                                 | :o:                | Easy   |                   |        |
+| 303 | [Range Sum Query - Immutable](./problems/300-399/303/README.md)                                 | :heavy_check_mark: | Easy   | [dp]              |        |
 | 304 | [Range Sum Query 2D - Immutable](./problems/300-399/304/README.md)                              | :o:                | Medium |                   |        |
 | 305 | [Number of Islands II](./problems/300-399/305/README.md)                                        | :o:                | Hard   |                   |        |
 | 306 | [Additive Number](./problems/300-399/306/README.md)                                             | :o:                | Medium |                   |        |

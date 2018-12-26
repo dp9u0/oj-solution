@@ -2,8 +2,10 @@ let fs = require('fs');
 let common = require('./common');
 let execSync = require('child_process').execSync;
 let topics = process.argv[2] || '[topic]';
-let remark = process.argv[3] || '';
-
+let remark = process.argv[3];
+if (remark === '+1') {
+  remark = ':+1:'
+}
 if (!common.started()) {
   console.error('not started a problem,use npm run start {problem no} first.');
 } else {
@@ -30,7 +32,7 @@ if (!common.started()) {
   fs.unlinkSync(jsPath);
   fs.unlinkSync(markdownPath);
   common.removeCurrent();
-  common.readme(problem, topics, remark);
+  common.readme(problem, topics, ':o:', remark);
   execSync('git add .', {
     stdio: 'inherit'
   });
@@ -40,4 +42,9 @@ if (!common.started()) {
   execSync('git push ', {
     stdio: 'inherit'
   });
+  if (remark === ':+1:') {
+    execSync(`leetcode star ${problem}`, {
+      stdio: 'inherit'
+    });
+  }
 }

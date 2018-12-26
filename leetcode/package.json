@@ -8,7 +8,9 @@
     "test": "node scripts/test.js",
     "publish": "node scripts/push.js",
     "finish": "node scripts/finish.js",
-    "run": "node solving.js"
+    "run": "node solving.js",
+    "todo" : "node scripts/todo.js",
+    "lock" : "node scripts/lock.js"
   },
   "author": "",
   "license": "MIT"

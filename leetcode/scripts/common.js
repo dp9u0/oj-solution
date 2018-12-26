@@ -91,7 +91,7 @@ module.exports.markdown = function (data) {
   return markdown;
 }
 
-module.exports.readme = function (problem, topics, remark) {
+module.exports.readme = function (problem, topics = '', status = '', remark = '') {
   const MarkdownBakName = README_PATH + '.bak.md';
   fs.copyFileSync(README_PATH, MarkdownBakName);
   fs.unlinkSync(README_PATH);
@@ -105,7 +105,7 @@ module.exports.readme = function (problem, topics, remark) {
     let lineOutput;
     if (reg.test(line)) {
       let blocks = line.split(/\s*\|\s*/);
-      let newLine = `| ${problem} | ${blocks[2]} | :o: | ${blocks[4]} | ${topics} | ${remark||''}  |`;
+      let newLine = `| ${problem} | ${blocks[2]} | ${status} | ${blocks[4]} | ${topics} | ${remark}  |`;
       lineOutput = newLine;
     } else {
       lineOutput = line;

@@ -92,9 +92,11 @@ module.exports.markdown = function (data) {
 }
 
 module.exports.readme = function (problem, topics, remark) {
-  let reader = fs.createReadStream(README_PATH);
   const MarkdownBakName = README_PATH + '.bak.md';
-  let writer = fs.createWriteStream(MarkdownBakName);
+  fs.copyFileSync(README_PATH, MarkdownBakName);
+  fs.unlinkSync(README_PATH);
+  let reader = fs.createReadStream(MarkdownBakName);
+  let writer = fs.createWriteStream(README_PATH);
   let rl = readline.createInterface({
     input: reader
   });
@@ -103,15 +105,11 @@ module.exports.readme = function (problem, topics, remark) {
     let lineOutput;
     if (reg.test(line)) {
       let blocks = line.split(/\s*\|\s*/);
-      let newLine = `| ${problem} | ${blocks[2]} | :heavy_check_mark: | ${blocks[4]} | ${topics} | ${remark||''}  |`;
+      let newLine = `| ${problem} | ${blocks[2]} | :o: | ${blocks[4]} | ${topics} | ${remark||''}  |`;
       lineOutput = newLine;
     } else {
       lineOutput = line;
     }
     writer.write(lineOutput + os.EOL); // 下一行
   });
-  rl.on('close', () => {
-    fs.copyFileSync(MarkdownBakName, README_PATH);
-    fs.unlinkSync(MarkdownBakName);
-  })
 }

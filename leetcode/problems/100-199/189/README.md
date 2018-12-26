@@ -1,9 +1,10 @@
-# [189] Rotate Array
+# [189] Rotate Array ♥
 
 ## Description
 
 * algorithms
 * Easy (27.91%)
+* Source Code:       solving\189.js
 * Total Accepted:    242.3K
 * Total Submissions: 868.2K
 * Testcase Example:  '[1,2,3,4,5,6,7]\n3'
@@ -30,7 +31,5 @@ Could you do it in-place with O(1) extra space?
 ```
 
 ## Solution
-
-以 `k` 将 `nums` 分割为 `left 和 right`,先对 `nums` 进行 `reverse`,然后再对  `left和right` 分别 `reverse`
 
 [SourceCode](./solution.js)

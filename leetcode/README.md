@@ -392,14 +392,14 @@
 | 364 | [Nested List Weight Sum II](./problems/300-399/364/README.md)                                   | :lock: | Medium |             |        |
 | 365 | [Water and Jug Problem](./problems/300-399/365/README.md)                                       |        | Medium |             |        |
 | 366 | [Find Leaves of Binary Tree](./problems/300-399/366/README.md)                                  | :lock: | Medium |             |        |
-| 367 | [Valid Perfect Square](./problems/300-399/367/README.md) | :o: | Easy | [math] |   |
+| 367 | [Valid Perfect Square](./problems/300-399/367/README.md)                                        | :o:    | Easy   | [math]      |        |
 | 368 | [Largest Divisible Subset](./problems/300-399/368/README.md)                                    |        | Medium |             |        |
 | 369 | [Plus One Linked List](./problems/300-399/369/README.md)                                        | :lock: | Medium |             |        |
 | 370 | [Range Addition](./problems/300-399/370/README.md)                                              | :lock: | Medium |             |        |
-| 371 | [Sum of Two Integers](./problems/300-399/371/README.md)                                         |        | Easy   |             |        |
+| 371 | [Sum of Two Integers](./problems/300-399/371/README.md)                                         | :o:    | Easy   | [bit]       |        |
 | 372 | [Super Pow](./problems/300-399/372/README.md)                                                   |        | Medium |             |        |
 | 373 | [Find K Pairs with Smallest Sums](./problems/300-399/373/README.md)                             |        | Medium |             |        |
-| 374 | [Guess Number Higher or Lower](./problems/300-399/374/README.md)                                |        | Easy   |             |        |
+| 374 | [Guess Number Higher or Lower](./problems/300-399/374/README.md)                                | :soon: | Easy   | [cpp]       |        |
 | 375 | [Guess Number Higher or Lower II](./problems/300-399/375/README.md)                             |        | Medium |             |        |
 | 376 | [Wiggle Subsequence](./problems/300-399/376/README.md)                                          |        | Medium |             |        |
 | 377 | [Combination Sum IV](./problems/300-399/377/README.md)                                          |        | Medium |             |        |
@@ -408,13 +408,13 @@
 | 380 | [Insert Delete GetRandom O(1)](./problems/300-399/380/README.md)                                |        | Medium |             |        |
 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](./problems/300-399/381/README.md)           |        | Hard   |             |        |
 | 382 | [Linked List Random Node](./problems/300-399/382/README.md)                                     |        | Medium |             |        |
-| 383 | [Ransom Note](./problems/300-399/383/README.md)                                                 |        | Easy   |             |        |
+| 383 | [Ransom Note](./problems/300-399/383/README.md)                                                 | :o:    | Easy   | [hash]      |        |
 | 384 | [Shuffle an Array](./problems/300-399/384/README.md)                                            |        | Medium |             |        |
 | 385 | [Mini Parser](./problems/300-399/385/README.md)                                                 |        | Medium |             |        |
 | 386 | [Lexicographical Numbers](./problems/300-399/386/README.md)                                     |        | Medium |             |        |
-| 387 | [First Unique Character in a String](./problems/300-399/387/README.md)                          |        | Easy   |             |        |
+| 387 | [First Unique Character in a String](./problems/300-399/387/README.md)                          | :o:    | Easy   | [hash]      |        |
 | 388 | [Longest Absolute File Path](./problems/300-399/388/README.md)                                  |        | Medium |             |        |
-| 389 | [Find the Difference](./problems/300-399/389/README.md)                                         |        | Easy   |             |        |
+| 389 | [Find the Difference](./problems/300-399/389/README.md)                                         | :o:    | Easy   | [hash]      |        |
 | 390 | [Elimination Game](./problems/300-399/390/README.md)                                            |        | Medium |             |        |
 | 391 | [Perfect Rectangle](./problems/300-399/391/README.md)                                           |        | Hard   |             |        |
 | 392 | [Is Subsequence](./problems/300-399/392/README.md)                                              |        | Medium |             |        |
@@ -425,7 +425,7 @@
 | 397 | [Integer Replacement](./problems/300-399/397/README.md)                                         |        | Medium |             |        |
 | 398 | [Random Pick Index](./problems/300-399/398/README.md)                                           |        | Medium |             |        |
 | 399 | [Evaluate Division](./problems/300-399/399/README.md)                                           |        | Medium |             |        |
-| 400 | [Nth Digit](./problems/400-499/400/README.md)                                                   |        | Easy   |             |        |
+| 400 | [Nth Digit](./problems/400-499/400/README.md)                                                   | :o:    | Easy   | [math]      |        |
 | 401 | [Binary Watch](./problems/400-499/401/README.md)                                                |        | Easy   |             |        |
 | 402 | [Remove K Digits](./problems/400-499/402/README.md)                                             |        | Medium |             |        |
 | 403 | [Frog Jump](./problems/400-499/403/README.md)                                                   |        | Hard   |             |        |

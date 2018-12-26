@@ -430,17 +430,17 @@
 | 402 | [Remove K Digits](./problems/400-499/402/README.md)                                             |        | Medium |             |        |
 | 403 | [Frog Jump](./problems/400-499/403/README.md)                                                   |        | Hard   |             |        |
 | 404 | [Sum of Left Leaves](./problems/400-499/404/README.md) | :o: | Easy | [tree] |   |
-| 405 | [Convert a Number to Hexadecimal](./problems/400-499/405/README.md)                             |        | Easy   |             |        |
+| 405 | [Convert a Number to Hexadecimal](./problems/400-499/405/README.md) | :o: | Easy | [bit] |   |
 | 406 | [Queue Reconstruction by Height](./problems/400-499/406/README.md)                              |        | Medium |             |        |
 | 407 | [Trapping Rain Water II](./problems/400-499/407/README.md)                                      |        | Hard   |             |        |
 | 408 | [Valid Word Abbreviation](./problems/400-499/408/README.md)                                     | :lock: | Easy   |             |        |
-| 409 | [Longest Palindrome](./problems/400-499/409/README.md)                                          |        | Easy   |             |        |
+| 409 | [Longest Palindrome](./problems/400-499/409/README.md) | :o: | Easy | [hash] |   |
 | 410 | [Split Array Largest Sum](./problems/400-499/410/README.md)                                     |        | Hard   |             |        |
 | 411 | [Minimum Unique Word Abbreviation](./problems/400-499/411/README.md)                            | :lock: | Hard   |             |        |
-| 412 | [Fizz Buzz](./problems/400-499/412/README.md)                                                   |        | Easy   |             |        |
+| 412 | [Fizz Buzz](./problems/400-499/412/README.md) | :o: | Easy | [math] |   |
 | 413 | [Arithmetic Slices](./problems/400-499/413/README.md)                                           |        | Medium |             |        |
-| 414 | [Third Maximum Number](./problems/400-499/414/README.md)                                        |        | Easy   |             |        |
-| 415 | [Add Strings](./problems/400-499/415/README.md)                                                 |        | Easy   |             |        |
+| 414 | [Third Maximum Number](./problems/400-499/414/README.md) | :o: | Easy | [array] |   |
+| 415 | [Add Strings](./problems/400-499/415/README.md) | :o: | Easy | [math] |   |
 | 416 | [Partition Equal Subset Sum](./problems/400-499/416/README.md)                                  |        | Medium |             |        |
 | 417 | [Pacific Atlantic Water Flow](./problems/400-499/417/README.md)                                 |        | Medium |             |        |
 | 418 | [Sentence Screen Fitting](./problems/400-499/418/README.md)                                     | :lock: | Medium |             |        |
@@ -452,7 +452,7 @@
 | 424 | [Longest Repeating Character Replacement](./problems/400-499/424/README.md)                     |        | Medium |             |        |
 | 425 | [Word Squares](./problems/400-499/425/README.md)                                                | :lock: | Hard   |             |        |
 | 426 | [Convert Binary Search Tree to Sorted Doubly Linked List](./problems/400-499/426/README.md)     | :lock: | Medium |             |        |
-| 427 | [Construct Quad Tree](./problems/400-499/427/README.md)                                         |        | Easy   |             |        |
+| 427 | [Construct Quad Tree](./problems/400-499/427/README.md) | :o: | Easy | [tree] |   |
 | 428 | [Serialize and Deserialize N-ary Tree](./problems/400-499/428/README.md)                        | :lock: | Hard   |             |        |
 | 429 | [N-ary Tree Level Order Traversal](./problems/400-499/429/README.md)                            |        | Easy   |             |        |
 | 430 | [Flatten a Multilevel Doubly Linked List](./problems/400-499/430/README.md)                     |        | Medium |             |        |

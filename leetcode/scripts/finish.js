@@ -1,12 +1,13 @@
 let fs = require('fs');
 let common = require('./common');
 let execSync = require('child_process').execSync;
+let topics = process.argv[2] || '[topic]';
+let remark = process.argv[3] || '';
 
 if (!common.started()) {
   console.error('not started a problem,use npm run start {problem no} first.');
 } else {
   let problem = common.getCurrent();
-  let topics = process.argv[2] || '[topic]';
   let jsPath = common.getJsPath(problem);
   let markdownPath = common.getMdPath(problem);
   let targetDir = common.getTargetDir(problem);
@@ -29,14 +30,14 @@ if (!common.started()) {
   fs.unlinkSync(jsPath);
   fs.unlinkSync(markdownPath);
   common.removeCurrent();
-  // common.readme(problem, topics);
-  // execSync('git add .', {
-  //   stdio: 'inherit'
-  // });
-  // execSync('git commit -m ' + `"#${problem}"`, {
-  //   stdio: 'inherit'
-  // });
-  // execSync('git push ', {
-  //   stdio: 'inherit'
-  // });
+  common.readme(problem, topics, remark);
+  execSync('git add .', {
+    stdio: 'inherit'
+  });
+  execSync('git commit -m ' + `"#${problem}"`, {
+    stdio: 'inherit'
+  });
+  execSync('git push ', {
+    stdio: 'inherit'
+  });
 }

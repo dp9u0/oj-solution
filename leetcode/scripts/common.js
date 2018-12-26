@@ -1,7 +1,10 @@
-let fs = require('fs');
+const fs = require('fs');
+const readline = require('readline');
+const os = require('os');
 
 const SOLUTION_JS_PATH = `./solving.js`;
 const README_PATH = `./README.md`;
+
 module.exports.SOLUTION_JS_PATH = SOLUTION_JS_PATH;
 
 module.exports.started = function () {
@@ -88,20 +91,27 @@ module.exports.markdown = function (data) {
   return markdown;
 }
 
-module.exports.readme = function (problem, topics) {
-  let readme = fs.readFileSync(README_PATH, 'utf-8');
-  let lines = readme.split(/[\n]+/);
-  let data = '';
+module.exports.readme = function (problem, topics, remark) {
+  let reader = fs.createReadStream(README_PATH);
+  const MarkdownBakName = README_PATH + '.bak.md';
+  let writer = fs.createWriteStream(MarkdownBakName);
+  let rl = readline.createInterface({
+    input: reader
+  });
   let reg = new RegExp('^\\|\\s+' + problem + '\\s+\\|');
-  for (let index = 0; index < lines.length; index++) {
-    let line = lines[index];
+  rl.on('line', (line) => {
+    let lineOutput;
     if (reg.test(line)) {
       let blocks = line.split(/\s*\|\s*/);
-      let newLine = `| ${problem} | ${blocks[2]} | :heavy_check_mark: | ${blocks[4]} | ${topics} |   |\n`;
-      data += newLine;
+      let newLine = `| ${problem} | ${blocks[2]} | :heavy_check_mark: | ${blocks[4]} | ${topics} | ${remark||''}  |`;
+      lineOutput = newLine;
     } else {
-      data += line;
+      lineOutput = line;
     }
-  }
-  fs.writeFileSync('./README.md', data);
+    writer.write(lineOutput + os.EOL); // 下一行
+  });
+  rl.on('close', () => {
+    fs.copyFileSync(MarkdownBakName, README_PATH);
+    fs.unlinkSync(MarkdownBakName);
+  })
 }

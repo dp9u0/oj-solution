@@ -205,7 +205,7 @@
 | 177 | [Nth Highest Salary](./problems/100-199/177/README.md)                                          | :soon: | Medium | [sql]       |        |
 | 178 | [Rank Scores](./problems/100-199/178/README.md)                                                 | :soon: | Medium | [sql]       |        |
 | 179 | [Largest Number](./problems/100-199/179/README.md)                                              |        | Medium |             |        |
-| 180 | [Consecutive Numbers](./problems/100-199/180/README.md)                                         |        | Medium |             |        |
+| 180 | [Consecutive Numbers](./problems/100-199/180/README.md)                                         | :soon: | Medium | [sql]       |        |
 | 181 | [Employees Earning More Than Their Managers](./problems/100-199/181/README.md)                  | :soon: | Easy   | [sql]       |        |
 | 182 | [Duplicate Emails](./problems/100-199/182/README.md)                                            | :soon: | Easy   | [sql]       |        |
 | 183 | [Customers Who Never Order](./problems/100-199/183/README.md)                                   | :soon: | Easy   | [sql]       |        |
@@ -217,10 +217,10 @@
 | 189 | [Rotate Array](./problems/100-199/189/README.md)                                                | :o:    | Easy   | [ll]        |        |
 | 190 | [Reverse Bits](./problems/100-199/190/README.md)                                                | :o:    | Easy   | [bit]       | :+1:   |
 | 191 | [Number of 1 Bits](./problems/100-199/191/README.md)                                            | :o:    | Easy   | [bit]       |        |
-| 192 | [Word Frequency](./problems/100-199/192/README.md)                                              |        | Medium |             |        |
-| 193 | [Valid Phone Numbers](./problems/100-199/193/README.md)                                         | :soon: | Easy   | [bash]      |        |
-| 194 | [Transpose File](./problems/100-199/194/README.md)                                              |        | Medium |             |        |
-| 195 | [Tenth Line](./problems/100-199/195/README.md)                                                  | :soon: | Easy   | [bash]      |        |
+| 192 | [Word Frequency](./problems/100-199/192/README.md)                                              | :soon: | Medium | [shell]     |        |
+| 193 | [Valid Phone Numbers](./problems/100-199/193/README.md)                                         | :soon: | Easy   | [shell]     |        |
+| 194 | [Transpose File](./problems/100-199/194/README.md)                                              | :soon: | Medium | [shell]     |        |
+| 195 | [Tenth Line](./problems/100-199/195/README.md)                                                  | :soon: | Easy   | [shell]     |        |
 | 196 | [Delete Duplicate Emails](./problems/100-199/196/README.md)                                     | :soon: | Easy   | [sql]       |        |
 | 197 | [Rising Temperature](./problems/100-199/197/README.md)                                          | :soon: | Easy   | [sql]       |        |
 | 198 | [House Robber](./problems/100-199/198/README.md)                                                | :o:    | Easy   | [dp]        |        |
@@ -614,13 +614,13 @@
 | 592 | [Fraction Addition and Subtraction](./problems/500-599/592/README.md)                           |        | Medium |             |        |
 | 593 | [Valid Square](./problems/500-599/593/README.md)                                                |        | Medium |             |        |
 | 594 | [Longest Harmonious Subsequence](./problems/500-599/594/README.md)                              |        | Easy   |             |        |
-| 595 | [Big Countries](./problems/500-599/595/README.md)                                               |        | Easy   |             |        |
-| 596 | [Classes More Than 5 Students](./problems/500-599/596/README.md)                                |        | Easy   |             |        |
+| 595 | [Big Countries](./problems/500-599/595/README.md)                                               | :soon: | Easy   | [sql]       |        |
+| 596 | [Classes More Than 5 Students](./problems/500-599/596/README.md)                                | :soon: | Easy   | [sql]       |        |
 | 597 | [Friend Requests I: Overall Acceptance Rate](./problems/500-599/597/README.md)                  | :lock: | Easy   |             |        |
 | 598 | [Range Addition II](./problems/500-599/598/README.md)                                           |        | Easy   |             |        |
 | 599 | [Minimum Index Sum of Two Lists](./problems/500-599/599/README.md)                              |        | Easy   |             |        |
 | 600 | [Non-negative Integers without Consecutive Ones](./problems/600-699/600/README.md)              |        | Hard   |             |        |
-| 601 | [Human Traffic of Stadium](./problems/600-699/601/README.md)                                    |        | Hard   |             |        |
+| 601 | [Human Traffic of Stadium](./problems/600-699/601/README.md)                                    | :soon: | Hard   | [sql]       |        |
 | 602 | [Friend Requests II: Who Has the Most Friends](./problems/600-699/602/README.md)                | :lock: | Medium |             |        |
 | 603 | [Consecutive Available Seats](./problems/600-699/603/README.md)                                 | :lock: | Easy   |             |        |
 | 604 | [Design Compressed String Iterator](./problems/600-699/604/README.md)                           | :lock: | Easy   |             |        |
@@ -639,14 +639,14 @@
 | 617 | [Merge Two Binary Trees](./problems/600-699/617/README.md)                                      |        | Easy   |             |        |
 | 618 | [Students Report By Geography](./problems/600-699/618/README.md)                                | :lock: | Hard   |             |        |
 | 619 | [Biggest Single Number](./problems/600-699/619/README.md)                                       | :lock: | Easy   |             |        |
-| 620 | [Not Boring Movies](./problems/600-699/620/README.md)                                           |        | Easy   |             |        |
+| 620 | [Not Boring Movies](./problems/600-699/620/README.md)                                           | :soon: | Easy   | [sql]       |        |
 | 621 | [Task Scheduler](./problems/600-699/621/README.md)                                              |        | Medium |             |        |
 | 622 | [Design Circular Queue](./problems/600-699/622/README.md)                                       |        | Medium |             |        |
 | 623 | [Add One Row to Tree](./problems/600-699/623/README.md)                                         |        | Medium |             |        |
 | 624 | [Maximum Distance in Arrays](./problems/600-699/624/README.md)                                  | :lock: | Easy   |             |        |
 | 625 | [Minimum Factorization](./problems/600-699/625/README.md)                                       | :lock: | Medium |             |        |
-| 626 | [Exchange Seats](./problems/600-699/626/README.md)                                              |        | Medium |             |        |
-| 627 | [Swap Salary](./problems/600-699/627/README.md)                                                 |        | Easy   |             |        |
+| 626 | [Exchange Seats](./problems/600-699/626/README.md)                                              | :soon: | Medium | [sql]       |        |
+| 627 | [Swap Salary](./problems/600-699/627/README.md)                                                 | :soon: | Easy   | [sql]       |        |
 | 628 | [Maximum Product of Three Numbers](./problems/600-699/628/README.md)                            |        | Easy   |             |        |
 | 629 | [K Inverse Pairs Array](./problems/600-699/629/README.md)                                       |        | Hard   |             |        |
 | 630 | [Course Schedule III](./problems/600-699/630/README.md)                                         |        | Hard   |             |        |

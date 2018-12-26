@@ -129,7 +129,7 @@
 | 101 | [Symmetric Tree](./problems/100-199/101/README.md)                                              | :o:    | Easy   | [bfs]       |        |
 | 102 | [Binary Tree Level Order Traversal](./problems/100-199/102/README.md)                           |        | Medium |             |        |
 | 103 | [Binary Tree Zigzag Level Order Traversal](./problems/100-199/103/README.md)                    |        | Medium |             |        |
-| 104 | [Maximum Depth of Binary Tree](./problems/100-199/104/README.md)                                |        | Easy   |             |        |
+| 104 | [Maximum Depth of Binary Tree](./problems/100-199/104/README.md)                                | :o:    | Easy   | [tree]      |        |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./problems/100-199/105/README.md)   |        | Medium |             |        |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](./problems/100-199/106/README.md)  |        | Medium |             |        |
 | 107 | [Binary Tree Level Order Traversal II](./problems/100-199/107/README.md)                        | :o:    | Easy   | [tree]      |        |
@@ -166,7 +166,7 @@
 | 138 | [Copy List with Random Pointer](./problems/100-199/138/README.md)                               |        | Medium |             |        |
 | 139 | [Word Break](./problems/100-199/139/README.md)                                                  |        | Medium |             |        |
 | 140 | [Word Break II](./problems/100-199/140/README.md)                                               |        | Hard   |             |        |
-| 141 | [Linked List Cycle](./problems/100-199/141/README.md)                                           |        | Easy   |             |        |
+| 141 | [Linked List Cycle](./problems/100-199/141/README.md)                                           | :o:    | Easy   | [tp]        | :+1:   |
 | 142 | [Linked List Cycle II](./problems/100-199/142/README.md)                                        |        | Medium |             |        |
 | 143 | [Reorder List](./problems/100-199/143/README.md)                                                |        | Medium |             |        |
 | 144 | [Binary Tree Preorder Traversal](./problems/100-199/144/README.md)                              |        | Medium |             |        |
@@ -218,9 +218,9 @@
 | 190 | [Reverse Bits](./problems/100-199/190/README.md)                                                | :o:    | Easy   | [bit]       | :+1:   |
 | 191 | [Number of 1 Bits](./problems/100-199/191/README.md)                                            | :o:    | Easy   | [bit]       |        |
 | 192 | [Word Frequency](./problems/100-199/192/README.md)                                              |        | Medium |             |        |
-| 193 | [Valid Phone Numbers](./problems/100-199/193/README.md)                                         |        | Easy   | [bash]      |        |
+| 193 | [Valid Phone Numbers](./problems/100-199/193/README.md)                                         | :soon: | Easy   | [bash]      |        |
 | 194 | [Transpose File](./problems/100-199/194/README.md)                                              |        | Medium |             |        |
-| 195 | [Tenth Line](./problems/100-199/195/README.md)                                                  |        | Easy   |             |        |
+| 195 | [Tenth Line](./problems/100-199/195/README.md)                                                  | :soon: | Easy   | [bash]      |        |
 | 196 | [Delete Duplicate Emails](./problems/100-199/196/README.md)                                     | :soon: | Easy   | [sql]       |        |
 | 197 | [Rising Temperature](./problems/100-199/197/README.md)                                          | :soon: | Easy   | [sql]       |        |
 | 198 | [House Robber](./problems/100-199/198/README.md)                                                | :o:    | Easy   | [dp]        |        |

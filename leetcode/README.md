@@ -211,7 +211,7 @@
 | 183 | [Customers Who Never Order](./problems/100-199/183/README.md)                                   | :soon: | Easy   | [sql]       |        |
 | 184 | [Department Highest Salary](./problems/100-199/184/README.md)                                   | :soon: | Medium | [sql]       |        |
 | 185 | [Department Top Three Salaries](./problems/100-199/185/README.md)                               | :soon: | Hard   | [sql]       |        |
-| 186 | [Reverse Words in a String II](./problems/100-199/186/README.md)                                |        | Medium |             |        |
+| 186 | [Reverse Words in a String II](./problems/100-199/186/README.md)                                | :lock: | Medium |             |        |
 | 187 | [Repeated DNA Sequences](./problems/100-199/187/README.md)                                      |        | Medium |             |        |
 | 188 | [Best Time to Buy and Sell Stock IV](./problems/100-199/188/README.md)                          |        | Hard   |             |        |
 | 189 | [Rotate Array](./problems/100-199/189/README.md)                                                | :o:    | Easy   | [ll]        |        |
@@ -269,88 +269,88 @@
 | 241 | [Different Ways to Add Parentheses](./problems/200-299/241/README.md)                           |        | Medium |             |        |
 | 242 | [Valid Anagram](./problems/200-299/242/README.md)                                               | :o:    | Easy   | [hash]      |        |
 | 243 | [Shortest Word Distance](./problems/200-299/243/README.md)                                      | :lock: | Easy   |             |        |
-| 244 | [Shortest Word Distance II](./problems/200-299/244/README.md)                                   |        | Medium |             |        |
-| 245 | [Shortest Word Distance III](./problems/200-299/245/README.md)                                  |        | Medium |             |        |
+| 244 | [Shortest Word Distance II](./problems/200-299/244/README.md)                                   | :lock: | Medium |             |        |
+| 245 | [Shortest Word Distance III](./problems/200-299/245/README.md)                                  | :lock: | Medium |             |        |
 | 246 | [Strobogrammatic Number](./problems/200-299/246/README.md)                                      | :lock: | Easy   |             |        |
-| 247 | [Strobogrammatic Number II](./problems/200-299/247/README.md)                                   |        | Medium |             |        |
-| 248 | [Strobogrammatic Number III](./problems/200-299/248/README.md)                                  |        | Hard   |             |        |
-| 249 | [Group Shifted Strings](./problems/200-299/249/README.md)                                       |        | Medium |             |        |
-| 250 | [Count Univalue Subtrees](./problems/200-299/250/README.md)                                     |        | Medium |             |        |
-| 251 | [Flatten 2D Vector](./problems/200-299/251/README.md)                                           |        | Medium |             |        |
+| 247 | [Strobogrammatic Number II](./problems/200-299/247/README.md)                                   | :lock: | Medium |             |        |
+| 248 | [Strobogrammatic Number III](./problems/200-299/248/README.md)                                  | :lock: | Hard   |             |        |
+| 249 | [Group Shifted Strings](./problems/200-299/249/README.md)                                       | :lock: | Medium |             |        |
+| 250 | [Count Univalue Subtrees](./problems/200-299/250/README.md)                                     | :lock: | Medium |             |        |
+| 251 | [Flatten 2D Vector](./problems/200-299/251/README.md)                                           | :lock: | Medium |             |        |
 | 252 | [Meeting Rooms](./problems/200-299/252/README.md)                                               | :lock: | Easy   |             |        |
-| 253 | [Meeting Rooms II](./problems/200-299/253/README.md)                                            |        | Medium |             |        |
-| 254 | [Factor Combinations](./problems/200-299/254/README.md)                                         |        | Medium |             |        |
-| 255 | [Verify Preorder Sequence in Binary Search Tree](./problems/200-299/255/README.md)              |        | Medium |             |        |
+| 253 | [Meeting Rooms II](./problems/200-299/253/README.md)                                            | :lock: | Medium |             |        |
+| 254 | [Factor Combinations](./problems/200-299/254/README.md)                                         | :lock: | Medium |             |        |
+| 255 | [Verify Preorder Sequence in Binary Search Tree](./problems/200-299/255/README.md)              | :lock: | Medium |             |        |
 | 256 | [Paint House](./problems/200-299/256/README.md)                                                 | :lock: | Easy   |             |        |
 | 257 | [Binary Tree Paths](./problems/200-299/257/README.md)                                           | :o:    | Easy   | [tree]      |        |
 | 258 | [Add Digits](./problems/200-299/258/README.md)                                                  | :o:    | Easy   | [math]      |        |
-| 259 | [3Sum Smaller](./problems/200-299/259/README.md)                                                |        | Medium |             |        |
+| 259 | [3Sum Smaller](./problems/200-299/259/README.md)                                                | :lock: | Medium |             |        |
 | 260 | [Single Number III](./problems/200-299/260/README.md)                                           |        | Medium |             |        |
-| 261 | [Graph Valid Tree](./problems/200-299/261/README.md)                                            |        | Medium |             |        |
+| 261 | [Graph Valid Tree](./problems/200-299/261/README.md)                                            | :lock: | Medium |             |        |
 | 262 | [Trips and Users](./problems/200-299/262/README.md)                                             | :soon: | Hard   | [sql]       |        |
 | 263 | [Ugly Number](./problems/200-299/263/README.md)                                                 | :o:    | Easy   | [math]      |        |
 | 264 | [Ugly Number II](./problems/200-299/264/README.md)                                              |        | Medium |             |        |
-| 265 | [Paint House II](./problems/200-299/265/README.md)                                              |        | Hard   |             |        |
+| 265 | [Paint House II](./problems/200-299/265/README.md)                                              | :lock: | Hard   |             |        |
 | 266 | [Palindrome Permutation](./problems/200-299/266/README.md)                                      | :lock: | Easy   |             |        |
-| 267 | [Palindrome Permutation II](./problems/200-299/267/README.md)                                   |        | Medium |             |        |
+| 267 | [Palindrome Permutation II](./problems/200-299/267/README.md)                                   | :lock: | Medium |             |        |
 | 268 | [Missing Number](./problems/200-299/268/README.md)                                              | :o:    | Easy   | [math]      |        |
-| 269 | [Alien Dictionary](./problems/200-299/269/README.md)                                            |        | Hard   |             |        |
+| 269 | [Alien Dictionary](./problems/200-299/269/README.md)                                            | :lock: | Hard   |             |        |
 | 270 | [Closest Binary Search Tree Value](./problems/200-299/270/README.md)                            | :lock: | Easy   |             |        |
-| 271 | [Encode and Decode Strings](./problems/200-299/271/README.md)                                   |        | Medium |             |        |
-| 272 | [Closest Binary Search Tree Value II](./problems/200-299/272/README.md)                         |        | Hard   |             |        |
+| 271 | [Encode and Decode Strings](./problems/200-299/271/README.md)                                   | :lock: | Medium |             |        |
+| 272 | [Closest Binary Search Tree Value II](./problems/200-299/272/README.md)                         | :lock: | Hard   |             |        |
 | 273 | [Integer to English Words](./problems/200-299/273/README.md)                                    |        | Hard   |             |        |
 | 274 | [H-Index](./problems/200-299/274/README.md)                                                     |        | Medium |             |        |
 | 275 | [H-Index II](./problems/200-299/275/README.md)                                                  |        | Medium |             |        |
 | 276 | [Paint Fence](./problems/200-299/276/README.md)                                                 | :lock: | Easy   |             |        |
-| 277 | [Find the Celebrity](./problems/200-299/277/README.md)                                          |        | Medium |             |        |
+| 277 | [Find the Celebrity](./problems/200-299/277/README.md)                                          | :lock: | Medium |             |        |
 | 278 | [First Bad Version](./problems/200-299/278/README.md)                                           | :o:    | Easy   | [bs]        |        |
 | 279 | [Perfect Squares](./problems/200-299/279/README.md)                                             |        | Medium |             |        |
-| 280 | [Wiggle Sort](./problems/200-299/280/README.md)                                                 |        | Medium |             |        |
-| 281 | [Zigzag Iterator](./problems/200-299/281/README.md)                                             |        | Medium |             |        |
+| 280 | [Wiggle Sort](./problems/200-299/280/README.md)                                                 | :lock: | Medium |             |        |
+| 281 | [Zigzag Iterator](./problems/200-299/281/README.md)                                             | :lock: | Medium |             |        |
 | 282 | [Expression Add Operators](./problems/200-299/282/README.md)                                    |        | Hard   |             |        |
 | 283 | [Move Zeroes](./problems/200-299/283/README.md)                                                 | :o:    | Easy   | [array]     |        |
 | 284 | [Peeking Iterator](./problems/200-299/284/README.md)                                            |        | Medium |             |        |
-| 285 | [Inorder Successor in BST](./problems/200-299/285/README.md)                                    |        | Medium |             |        |
-| 286 | [Walls and Gates](./problems/200-299/286/README.md)                                             |        | Medium |             |        |
+| 285 | [Inorder Successor in BST](./problems/200-299/285/README.md)                                    | :lock: | Medium |             |        |
+| 286 | [Walls and Gates](./problems/200-299/286/README.md)                                             | :lock: | Medium |             |        |
 | 287 | [Find the Duplicate Number](./problems/200-299/287/README.md)                                   |        | Medium |             |        |
-| 288 | [Unique Word Abbreviation](./problems/200-299/288/README.md)                                    |        | Medium |             |        |
+| 288 | [Unique Word Abbreviation](./problems/200-299/288/README.md)                                    | :lock: | Medium |             |        |
 | 289 | [Game of Life](./problems/200-299/289/README.md)                                                |        | Medium |             |        |
 | 290 | [Word Pattern](./problems/200-299/290/README.md)                                                | :o:    | Easy   | [hash]      |        |
-| 291 | [Word Pattern II](./problems/200-299/291/README.md)                                             |        | Hard   |             |        |
+| 291 | [Word Pattern II](./problems/200-299/291/README.md)                                             | :lock: | Hard   |             |        |
 | 292 | [Nim Game](./problems/200-299/292/README.md)                                                    | :o:    | Easy   | [math]      |        |
 | 293 | [Flip Game](./problems/200-299/293/README.md)                                                   | :lock: | Easy   |             |        |
-| 294 | [Flip Game II](./problems/200-299/294/README.md)                                                |        | Medium |             |        |
+| 294 | [Flip Game II](./problems/200-299/294/README.md)                                                | :lock: | Medium |             |        |
 | 295 | [Find Median from Data Stream](./problems/200-299/295/README.md)                                |        | Hard   |             |        |
-| 296 | [Best Meeting Point](./problems/200-299/296/README.md)                                          |        | Hard   |             |        |
+| 296 | [Best Meeting Point](./problems/200-299/296/README.md)                                          | :lock: | Hard   |             |        |
 | 297 | [Serialize and Deserialize Binary Tree](./problems/200-299/297/README.md)                       |        | Hard   |             |        |
-| 298 | [Binary Tree Longest Consecutive Sequence](./problems/200-299/298/README.md)                    |        | Medium |             |        |
+| 298 | [Binary Tree Longest Consecutive Sequence](./problems/200-299/298/README.md)                    | :lock: | Medium |             |        |
 | 299 | [Bulls and Cows](./problems/200-299/299/README.md)                                              |        | Medium |             |        |
 | 300 | [Longest Increasing Subsequence](./problems/300-399/300/README.md)                              |        | Medium |             |        |
 | 301 | [Remove Invalid Parentheses](./problems/300-399/301/README.md)                                  |        | Hard   |             |        |
-| 302 | [Smallest Rectangle Enclosing Black Pixels](./problems/300-399/302/README.md)                   |        | Hard   |             |        |
+| 302 | [Smallest Rectangle Enclosing Black Pixels](./problems/300-399/302/README.md)                   | :lock: | Hard   |             |        |
 | 303 | [Range Sum Query - Immutable](./problems/300-399/303/README.md)                                 | :o:    | Easy   | [dp]        | :+1:   |
 | 304 | [Range Sum Query 2D - Immutable](./problems/300-399/304/README.md)                              |        | Medium |             |        |
-| 305 | [Number of Islands II](./problems/300-399/305/README.md)                                        |        | Hard   |             |        |
+| 305 | [Number of Islands II](./problems/300-399/305/README.md)                                        | :lock: | Hard   |             |        |
 | 306 | [Additive Number](./problems/300-399/306/README.md)                                             |        | Medium |             |        |
 | 307 | [Range Sum Query - Mutable](./problems/300-399/307/README.md)                                   |        | Medium |             |        |
-| 308 | [Range Sum Query 2D - Mutable](./problems/300-399/308/README.md)                                |        | Hard   |             |        |
+| 308 | [Range Sum Query 2D - Mutable](./problems/300-399/308/README.md)                                | :lock: | Hard   |             |        |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](./problems/300-399/309/README.md)               |        | Medium |             |        |
 | 310 | [Minimum Height Trees](./problems/300-399/310/README.md)                                        |        | Medium |             |        |
-| 311 | [Sparse Matrix Multiplication](./problems/300-399/311/README.md)                                |        | Medium |             |        |
+| 311 | [Sparse Matrix Multiplication](./problems/300-399/311/README.md)                                | :lock: | Medium |             |        |
 | 312 | [Burst Balloons](./problems/300-399/312/README.md)                                              |        | Hard   |             |        |
 | 313 | [Super Ugly Number](./problems/300-399/313/README.md)                                           |        | Medium |             |        |
-| 314 | [Binary Tree Vertical Order Traversal](./problems/300-399/314/README.md)                        |        | Medium |             |        |
+| 314 | [Binary Tree Vertical Order Traversal](./problems/300-399/314/README.md)                        | :lock: | Medium |             |        |
 | 315 | [Count of Smaller Numbers After Self](./problems/300-399/315/README.md)                         |        | Hard   |             |        |
 | 316 | [Remove Duplicate Letters](./problems/300-399/316/README.md)                                    |        | Hard   |             |        |
-| 317 | [Shortest Distance from All Buildings](./problems/300-399/317/README.md)                        |        | Hard   |             |        |
+| 317 | [Shortest Distance from All Buildings](./problems/300-399/317/README.md)                        | :lock: | Hard   |             |        |
 | 318 | [Maximum Product of Word Lengths](./problems/300-399/318/README.md)                             |        | Medium |             |        |
 | 319 | [Bulb Switcher](./problems/300-399/319/README.md)                                               |        | Medium |             |        |
-| 320 | [Generalized Abbreviation](./problems/300-399/320/README.md)                                    |        | Medium |             |        |
+| 320 | [Generalized Abbreviation](./problems/300-399/320/README.md)                                    | :lock: | Medium |             |        |
 | 321 | [Create Maximum Number](./problems/300-399/321/README.md)                                       |        | Hard   |             |        |
 | 322 | [Coin Change](./problems/300-399/322/README.md)                                                 |        | Medium |             |        |
-| 323 | [Number of Connected Components in an Undirected Graph](./problems/300-399/323/README.md)       |        | Medium |             |        |
+| 323 | [Number of Connected Components in an Undirected Graph](./problems/300-399/323/README.md)       | :lock: | Medium |             |        |
 | 324 | [Wiggle Sort II](./problems/300-399/324/README.md)                                              |        | Medium |             |        |
-| 325 | [Maximum Size Subarray Sum Equals k](./problems/300-399/325/README.md)                          |        | Medium |             |        |
+| 325 | [Maximum Size Subarray Sum Equals k](./problems/300-399/325/README.md)                          | :lock: | Medium |             |        |
 | 326 | [Power of Three](./problems/300-399/326/README.md)                                              | :o:    | Easy   | [math]      |        |
 | 327 | [Count of Range Sum](./problems/300-399/327/README.md)                                          |        | Hard   |             |        |
 | 328 | [Odd Even Linked List](./problems/300-399/328/README.md)                                        |        | Medium |             |        |
@@ -358,44 +358,44 @@
 | 330 | [Patching Array](./problems/300-399/330/README.md)                                              |        | Hard   |             |        |
 | 331 | [Verify Preorder Serialization of a Binary Tree](./problems/300-399/331/README.md)              |        | Medium |             |        |
 | 332 | [Reconstruct Itinerary](./problems/300-399/332/README.md)                                       |        | Medium |             |        |
-| 333 | [Largest BST Subtree](./problems/300-399/333/README.md)                                         |        | Medium |             |        |
+| 333 | [Largest BST Subtree](./problems/300-399/333/README.md)                                         | :lock: | Medium |             |        |
 | 334 | [Increasing Triplet Subsequence](./problems/300-399/334/README.md)                              |        | Medium |             |        |
 | 335 | [Self Crossing](./problems/300-399/335/README.md)                                               |        | Hard   |             |        |
 | 336 | [Palindrome Pairs](./problems/300-399/336/README.md)                                            |        | Hard   |             |        |
 | 337 | [House Robber III](./problems/300-399/337/README.md)                                            |        | Medium |             |        |
 | 338 | [Counting Bits](./problems/300-399/338/README.md)                                               |        | Medium |             |        |
 | 339 | [Nested List Weight Sum](./problems/300-399/339/README.md)                                      | :lock: | Easy   |             |        |
-| 340 | [Longest Substring with At Most K Distinct Characters](./problems/300-399/340/README.md)        |        | Hard   |             |        |
+| 340 | [Longest Substring with At Most K Distinct Characters](./problems/300-399/340/README.md)        | :lock: | Hard   |             |        |
 | 341 | [Flatten Nested List Iterator](./problems/300-399/341/README.md)                                |        | Medium |             |        |
 | 342 | [Power of Four](./problems/300-399/342/README.md)                                               | :o:    | Easy   | [bit]       | :+1:   |
 | 343 | [Integer Break](./problems/300-399/343/README.md)                                               |        | Medium |             |        |
 | 344 | [Reverse String](./problems/300-399/344/README.md)                                              | :o:    | Easy   | [str]       |        |
-| 345 | [Reverse Vowels of a String](./problems/300-399/345/README.md)                                  |        | Easy   |             |        |
-| 346 | [Moving Average from Data Stream](./problems/300-399/346/README.md)                             |        | Easy   |             |        |
+| 345 | [Reverse Vowels of a String](./problems/300-399/345/README.md)                                  | :o:    | Easy   | [tp]        |        |
+| 346 | [Moving Average from Data Stream](./problems/300-399/346/README.md)                             | :lock: | Easy   |             |        |
 | 347 | [Top K Frequent Elements](./problems/300-399/347/README.md)                                     |        | Medium |             |        |
-| 348 | [Design Tic-Tac-Toe](./problems/300-399/348/README.md)                                          |        | Medium |             |        |
+| 348 | [Design Tic-Tac-Toe](./problems/300-399/348/README.md)                                          | :lock: | Medium |             |        |
 | 349 | [Intersection of Two Arrays](./problems/300-399/349/README.md)                                  |        | Easy   |             |        |
 | 350 | [Intersection of Two Arrays II](./problems/300-399/350/README.md)                               |        | Easy   |             |        |
-| 351 | [Android Unlock Patterns](./problems/300-399/351/README.md)                                     |        | Medium |             |        |
+| 351 | [Android Unlock Patterns](./problems/300-399/351/README.md)                                     | :lock: | Medium |             |        |
 | 352 | [Data Stream as Disjoint Intervals](./problems/300-399/352/README.md)                           |        | Hard   |             |        |
-| 353 | [Design Snake Game](./problems/300-399/353/README.md)                                           |        | Medium |             |        |
+| 353 | [Design Snake Game](./problems/300-399/353/README.md)                                           | :lock: | Medium |             |        |
 | 354 | [Russian Doll Envelopes](./problems/300-399/354/README.md)                                      |        | Hard   |             |        |
 | 355 | [Design Twitter](./problems/300-399/355/README.md)                                              |        | Medium |             |        |
-| 356 | [Line Reflection](./problems/300-399/356/README.md)                                             |        | Medium |             |        |
+| 356 | [Line Reflection](./problems/300-399/356/README.md)                                             | :lock: | Medium |             |        |
 | 357 | [Count Numbers with Unique Digits](./problems/300-399/357/README.md)                            |        | Medium |             |        |
-| 358 | [Rearrange String k Distance Apart](./problems/300-399/358/README.md)                           |        | Hard   |             |        |
-| 359 | [Logger Rate Limiter](./problems/300-399/359/README.md)                                         |        | Easy   |             |        |
-| 360 | [Sort Transformed Array](./problems/300-399/360/README.md)                                      |        | Medium |             |        |
-| 361 | [Bomb Enemy](./problems/300-399/361/README.md)                                                  |        | Medium |             |        |
-| 362 | [Design Hit Counter](./problems/300-399/362/README.md)                                          |        | Medium |             |        |
+| 358 | [Rearrange String k Distance Apart](./problems/300-399/358/README.md)                           | :lock: | Hard   |             |        |
+| 359 | [Logger Rate Limiter](./problems/300-399/359/README.md)                                         | :lock: | Easy   |             |        |
+| 360 | [Sort Transformed Array](./problems/300-399/360/README.md)                                      | :lock: | Medium |             |        |
+| 361 | [Bomb Enemy](./problems/300-399/361/README.md)                                                  | :lock: | Medium |             |        |
+| 362 | [Design Hit Counter](./problems/300-399/362/README.md)                                          | :lock: | Medium |             |        |
 | 363 | [Max Sum of Rectangle No Larger Than K](./problems/300-399/363/README.md)                       |        | Hard   |             |        |
-| 364 | [Nested List Weight Sum II](./problems/300-399/364/README.md)                                   |        | Medium |             |        |
+| 364 | [Nested List Weight Sum II](./problems/300-399/364/README.md)                                   | :lock: | Medium |             |        |
 | 365 | [Water and Jug Problem](./problems/300-399/365/README.md)                                       |        | Medium |             |        |
-| 366 | [Find Leaves of Binary Tree](./problems/300-399/366/README.md)                                  |        | Medium |             |        |
+| 366 | [Find Leaves of Binary Tree](./problems/300-399/366/README.md)                                  | :lock: | Medium |             |        |
 | 367 | [Valid Perfect Square](./problems/300-399/367/README.md)                                        |        | Easy   |             |        |
 | 368 | [Largest Divisible Subset](./problems/300-399/368/README.md)                                    |        | Medium |             |        |
-| 369 | [Plus One Linked List](./problems/300-399/369/README.md)                                        |        | Medium |             |        |
-| 370 | [Range Addition](./problems/300-399/370/README.md)                                              |        | Medium |             |        |
+| 369 | [Plus One Linked List](./problems/300-399/369/README.md)                                        | :lock: | Medium |             |        |
+| 370 | [Range Addition](./problems/300-399/370/README.md)                                              | :lock: | Medium |             |        |
 | 371 | [Sum of Two Integers](./problems/300-399/371/README.md)                                         |        | Easy   |             |        |
 | 372 | [Super Pow](./problems/300-399/372/README.md)                                                   |        | Medium |             |        |
 | 373 | [Find K Pairs with Smallest Sums](./problems/300-399/373/README.md)                             |        | Medium |             |        |
@@ -404,7 +404,7 @@
 | 376 | [Wiggle Subsequence](./problems/300-399/376/README.md)                                          |        | Medium |             |        |
 | 377 | [Combination Sum IV](./problems/300-399/377/README.md)                                          |        | Medium |             |        |
 | 378 | [Kth Smallest Element in a Sorted Matrix](./problems/300-399/378/README.md)                     |        | Medium |             |        |
-| 379 | [Design Phone Directory](./problems/300-399/379/README.md)                                      |        | Medium |             |        |
+| 379 | [Design Phone Directory](./problems/300-399/379/README.md)                                      | :lock: | Medium |             |        |
 | 380 | [Insert Delete GetRandom O(1)](./problems/300-399/380/README.md)                                |        | Medium |             |        |
 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](./problems/300-399/381/README.md)           |        | Hard   |             |        |
 | 382 | [Linked List Random Node](./problems/300-399/382/README.md)                                     |        | Medium |             |        |
@@ -433,30 +433,30 @@
 | 405 | [Convert a Number to Hexadecimal](./problems/400-499/405/README.md)                             |        | Easy   |             |        |
 | 406 | [Queue Reconstruction by Height](./problems/400-499/406/README.md)                              |        | Medium |             |        |
 | 407 | [Trapping Rain Water II](./problems/400-499/407/README.md)                                      |        | Hard   |             |        |
-| 408 | [Valid Word Abbreviation](./problems/400-499/408/README.md)                                     |        | Easy   |             |        |
+| 408 | [Valid Word Abbreviation](./problems/400-499/408/README.md)                                     | :lock: | Easy   |             |        |
 | 409 | [Longest Palindrome](./problems/400-499/409/README.md)                                          |        | Easy   |             |        |
 | 410 | [Split Array Largest Sum](./problems/400-499/410/README.md)                                     |        | Hard   |             |        |
-| 411 | [Minimum Unique Word Abbreviation](./problems/400-499/411/README.md)                            |        | Hard   |             |        |
+| 411 | [Minimum Unique Word Abbreviation](./problems/400-499/411/README.md)                            | :lock: | Hard   |             |        |
 | 412 | [Fizz Buzz](./problems/400-499/412/README.md)                                                   |        | Easy   |             |        |
 | 413 | [Arithmetic Slices](./problems/400-499/413/README.md)                                           |        | Medium |             |        |
 | 414 | [Third Maximum Number](./problems/400-499/414/README.md)                                        |        | Easy   |             |        |
 | 415 | [Add Strings](./problems/400-499/415/README.md)                                                 |        | Easy   |             |        |
 | 416 | [Partition Equal Subset Sum](./problems/400-499/416/README.md)                                  |        | Medium |             |        |
 | 417 | [Pacific Atlantic Water Flow](./problems/400-499/417/README.md)                                 |        | Medium |             |        |
-| 418 | [Sentence Screen Fitting](./problems/400-499/418/README.md)                                     |        | Medium |             |        |
+| 418 | [Sentence Screen Fitting](./problems/400-499/418/README.md)                                     | :lock: | Medium |             |        |
 | 419 | [Battleships in a Board](./problems/400-499/419/README.md)                                      |        | Medium |             |        |
 | 420 | [Strong Password Checker](./problems/400-499/420/README.md)                                     |        | Hard   |             |        |
 | 421 | [Maximum XOR of Two Numbers in an Array](./problems/400-499/421/README.md)                      |        | Medium |             |        |
-| 422 | [Valid Word Square](./problems/400-499/422/README.md)                                           |        | Easy   |             |        |
+| 422 | [Valid Word Square](./problems/400-499/422/README.md)                                           | :lock: | Easy   |             |        |
 | 423 | [Reconstruct Original Digits from English](./problems/400-499/423/README.md)                    |        | Medium |             |        |
 | 424 | [Longest Repeating Character Replacement](./problems/400-499/424/README.md)                     |        | Medium |             |        |
-| 425 | [Word Squares](./problems/400-499/425/README.md)                                                |        | Hard   |             |        |
-| 426 | [Convert Binary Search Tree to Sorted Doubly Linked List](./problems/400-499/426/README.md)     |        | Medium |             |        |
+| 425 | [Word Squares](./problems/400-499/425/README.md)                                                | :lock: | Hard   |             |        |
+| 426 | [Convert Binary Search Tree to Sorted Doubly Linked List](./problems/400-499/426/README.md)     | :lock: | Medium |             |        |
 | 427 | [Construct Quad Tree](./problems/400-499/427/README.md)                                         |        | Easy   |             |        |
-| 428 | [Serialize and Deserialize N-ary Tree](./problems/400-499/428/README.md)                        |        | Hard   |             |        |
+| 428 | [Serialize and Deserialize N-ary Tree](./problems/400-499/428/README.md)                        | :lock: | Hard   |             |        |
 | 429 | [N-ary Tree Level Order Traversal](./problems/400-499/429/README.md)                            |        | Easy   |             |        |
 | 430 | [Flatten a Multilevel Doubly Linked List](./problems/400-499/430/README.md)                     |        | Medium |             |        |
-| 431 | [Encode N-ary Tree to Binary Tree](./problems/400-499/431/README.md)                            |        | Hard   |             |        |
+| 431 | [Encode N-ary Tree to Binary Tree](./problems/400-499/431/README.md)                            | :lock: | Hard   |             |        |
 | 432 | [All O`one Data Structure](./problems/400-499/432/README.md)                                    |        | Hard   |             |        |
 | 433 | [Minimum Genetic Mutation](./problems/400-499/433/README.md)                                    |        | Medium |             |        |
 | 434 | [Number of Segments in a String](./problems/400-499/434/README.md)                              |        | Easy   |             |        |
@@ -464,12 +464,12 @@
 | 436 | [Find Right Interval](./problems/400-499/436/README.md)                                         |        | Medium |             |        |
 | 437 | [Path Sum III](./problems/400-499/437/README.md)                                                |        | Easy   |             |        |
 | 438 | [Find All Anagrams in a String](./problems/400-499/438/README.md)                               |        | Easy   |             |        |
-| 439 | [Ternary Expression Parser](./problems/400-499/439/README.md)                                   |        | Medium |             |        |
+| 439 | [Ternary Expression Parser](./problems/400-499/439/README.md)                                   | :lock: | Medium |             |        |
 | 440 | [K-th Smallest in Lexicographical Order](./problems/400-499/440/README.md)                      |        | Hard   |             |        |
 | 441 | [Arranging Coins](./problems/400-499/441/README.md)                                             |        | Easy   |             |        |
 | 442 | [Find All Duplicates in an Array](./problems/400-499/442/README.md)                             | :o:    | Medium | [array]     |        |
 | 443 | [String Compression](./problems/400-499/443/README.md)                                          |        | Easy   |             |        |
-| 444 | [Sequence Reconstruction](./problems/400-499/444/README.md)                                     |        | Medium |             |        |
+| 444 | [Sequence Reconstruction](./problems/400-499/444/README.md)                                     | :lock: | Medium |             |        |
 | 445 | [Add Two Numbers II](./problems/400-499/445/README.md)                                          |        | Medium |             |        |
 | 446 | [Arithmetic Slices II - Subsequence](./problems/400-499/446/README.md)                          |        | Hard   |             |        |
 | 447 | [Number of Boomerangs](./problems/400-499/447/README.md)                                        |        | Easy   |             |        |
@@ -490,13 +490,13 @@
 | 462 | [Minimum Moves to Equal Array Elements II](./problems/400-499/462/README.md)                    |        | Medium |             |        |
 | 463 | [Island Perimeter](./problems/400-499/463/README.md)                                            |        | Easy   |             |        |
 | 464 | [Can I Win](./problems/400-499/464/README.md)                                                   |        | Medium |             |        |
-| 465 | [Optimal Account Balancing](./problems/400-499/465/README.md)                                   |        | Hard   |             |        |
+| 465 | [Optimal Account Balancing](./problems/400-499/465/README.md)                                   | :lock: | Hard   |             |        |
 | 466 | [Count The Repetitions](./problems/400-499/466/README.md)                                       |        | Hard   |             |        |
 | 467 | [Unique Substrings in Wraparound String](./problems/400-499/467/README.md)                      |        | Medium |             |        |
 | 468 | [Validate IP Address](./problems/400-499/468/README.md)                                         |        | Medium |             |        |
-| 469 | [Convex Polygon](./problems/400-499/469/README.md)                                              |        | Medium |             |        |
+| 469 | [Convex Polygon](./problems/400-499/469/README.md)                                              | :lock: | Medium |             |        |
 | 470 | [Implement Rand10() Using Rand7()](./problems/400-499/470/README.md)                            |        | Medium |             |        |
-| 471 | [Encode String with Shortest Length](./problems/400-499/471/README.md)                          |        | Hard   |             |        |
+| 471 | [Encode String with Shortest Length](./problems/400-499/471/README.md)                          | :lock: | Hard   |             |        |
 | 472 | [Concatenated Words](./problems/400-499/472/README.md)                                          |        | Hard   |             |        |
 | 473 | [Matchsticks to Square](./problems/400-499/473/README.md)                                       |        | Medium |             |        |
 | 474 | [Ones and Zeroes](./problems/400-499/474/README.md)                                             |        | Medium |             |        |
@@ -509,13 +509,13 @@
 | 481 | [Magical String](./problems/400-499/481/README.md)                                              |        | Medium |             |        |
 | 482 | [License Key Formatting](./problems/400-499/482/README.md)                                      |        | Easy   |             |        |
 | 483 | [Smallest Good Base](./problems/400-499/483/README.md)                                          |        | Hard   |             |        |
-| 484 | [Find Permutation](./problems/400-499/484/README.md)                                            |        | Medium |             |        |
+| 484 | [Find Permutation](./problems/400-499/484/README.md)                                            | :lock: | Medium |             |        |
 | 485 | [Max Consecutive Ones](./problems/400-499/485/README.md)                                        |        | Easy   |             |        |
 | 486 | [Predict the Winner](./problems/400-499/486/README.md)                                          |        | Medium |             |        |
-| 487 | [Max Consecutive Ones II](./problems/400-499/487/README.md)                                     |        | Medium |             |        |
+| 487 | [Max Consecutive Ones II](./problems/400-499/487/README.md)                                     | :lock: | Medium |             |        |
 | 488 | [Zuma Game](./problems/400-499/488/README.md)                                                   |        | Hard   |             |        |
-| 489 | [Robot Room Cleaner](./problems/400-499/489/README.md)                                          |        | Hard   |             |        |
-| 490 | [The Maze](./problems/400-499/490/README.md)                                                    |        | Medium |             |        |
+| 489 | [Robot Room Cleaner](./problems/400-499/489/README.md)                                          | :lock: | Hard   |             |        |
+| 490 | [The Maze](./problems/400-499/490/README.md)                                                    | :lock: | Medium |             |        |
 | 491 | [Increasing Subsequences](./problems/400-499/491/README.md)                                     |        | Medium |             |        |
 | 492 | [Construct the Rectangle](./problems/400-499/492/README.md)                                     |        | Easy   |             |        |
 | 493 | [Reverse Pairs](./problems/400-499/493/README.md)                                               |        | Hard   |             |        |
@@ -524,13 +524,13 @@
 | 496 | [Next Greater Element I](./problems/400-499/496/README.md)                                      |        | Easy   |             |        |
 | 497 | [Random Point in Non-overlapping Rectangles](./problems/400-499/497/README.md)                  |        | Medium |             |        |
 | 498 | [Diagonal Traverse](./problems/400-499/498/README.md)                                           |        | Medium |             |        |
-| 499 | [The Maze III](./problems/400-499/499/README.md)                                                |        | Hard   |             |        |
+| 499 | [The Maze III](./problems/400-499/499/README.md)                                                | :lock: | Hard   |             |        |
 | 500 | [Keyboard Row](./problems/500-599/500/README.md)                                                |        | Easy   |             |        |
 | 501 | [Find Mode in Binary Search Tree](./problems/500-599/501/README.md)                             |        | Easy   |             |        |
 | 502 | [IPO](./problems/500-599/502/README.md)                                                         |        | Hard   |             |        |
 | 503 | [Next Greater Element II](./problems/500-599/503/README.md)                                     |        | Medium |             |        |
 | 504 | [Base 7](./problems/500-599/504/README.md)                                                      |        | Easy   |             |        |
-| 505 | [The Maze II](./problems/500-599/505/README.md)                                                 |        | Medium |             |        |
+| 505 | [The Maze II](./problems/500-599/505/README.md)                                                 | :lock: | Medium |             |        |
 | 506 | [Relative Ranks](./problems/500-599/506/README.md)                                              |        | Easy   |             |        |
 | 507 | [Perfect Number](./problems/500-599/507/README.md)                                              |        | Easy   |             |        |
 | 508 | [Most Frequent Subtree Sum](./problems/500-599/508/README.md)                                   |        | Medium |             |        |
@@ -548,15 +548,15 @@
 | 524 | [Longest Word in Dictionary through Deleting](./problems/500-599/524/README.md)                 |        | Medium |             |        |
 | 525 | [Contiguous Array](./problems/500-599/525/README.md)                                            |        | Medium |             |        |
 | 526 | [Beautiful Arrangement](./problems/500-599/526/README.md)                                       |        | Medium |             |        |
-| 527 | [Word Abbreviation](./problems/500-599/527/README.md)                                           |        | Hard   |             |        |
+| 527 | [Word Abbreviation](./problems/500-599/527/README.md)                                           | :lock: | Hard   |             |        |
 | 528 | [Random Pick with Weight](./problems/500-599/528/README.md)                                     |        | Medium |             |        |
 | 529 | [Minesweeper](./problems/500-599/529/README.md)                                                 |        | Medium |             |        |
 | 530 | [Minimum Absolute Difference in BST](./problems/500-599/530/README.md)                          |        | Easy   |             |        |
-| 531 | [Lonely Pixel I](./problems/500-599/531/README.md)                                              |        | Medium |             |        |
+| 531 | [Lonely Pixel I](./problems/500-599/531/README.md)                                              | :lock: | Medium |             |        |
 | 532 | [K-diff Pairs in an Array](./problems/500-599/532/README.md)                                    |        | Easy   |             |        |
-| 533 | [Lonely Pixel II](./problems/500-599/533/README.md)                                             |        | Medium |             |        |
+| 533 | [Lonely Pixel II](./problems/500-599/533/README.md)                                             | :lock: | Medium |             |        |
 | 535 | [Encode and Decode TinyURL](./problems/500-599/535/README.md)                                   | :o:    | Medium | [hash]      |        |
-| 536 | [Construct Binary Tree from String](./problems/500-599/536/README.md)                           |        | Medium |             |        |
+| 536 | [Construct Binary Tree from String](./problems/500-599/536/README.md)                           | :lock: | Medium |             |        |
 | 537 | [Complex Number Multiplication](./problems/500-599/537/README.md)                               |        | Medium |             |        |
 | 538 | [Convert BST to Greater Tree](./problems/500-599/538/README.md)                                 |        | Easy   |             |        |
 | 539 | [Minimum Time Difference](./problems/500-599/539/README.md)                                     |        | Medium |             |        |
@@ -564,50 +564,50 @@
 | 541 | [Reverse String II](./problems/500-599/541/README.md)                                           |        | Easy   |             |        |
 | 542 | [01 Matrix](./problems/500-599/542/README.md)                                                   |        | Medium |             |        |
 | 543 | [Diameter of Binary Tree](./problems/500-599/543/README.md)                                     |        | Easy   |             |        |
-| 544 | [Output Contest Matches](./problems/500-599/544/README.md)                                      |        | Medium |             |        |
-| 545 | [Boundary of Binary Tree](./problems/500-599/545/README.md)                                     |        | Medium |             |        |
+| 544 | [Output Contest Matches](./problems/500-599/544/README.md)                                      | :lock: | Medium |             |        |
+| 545 | [Boundary of Binary Tree](./problems/500-599/545/README.md)                                     | :lock: | Medium |             |        |
 | 546 | [Remove Boxes](./problems/500-599/546/README.md)                                                |        | Hard   |             |        |
 | 547 | [Friend Circles](./problems/500-599/547/README.md)                                              |        | Medium |             |        |
-| 548 | [Split Array with Equal Sum](./problems/500-599/548/README.md)                                  |        | Medium |             |        |
-| 549 | [Binary Tree Longest Consecutive Sequence II](./problems/500-599/549/README.md)                 |        | Medium |             |        |
+| 548 | [Split Array with Equal Sum](./problems/500-599/548/README.md)                                  | :lock: | Medium |             |        |
+| 549 | [Binary Tree Longest Consecutive Sequence II](./problems/500-599/549/README.md)                 | :lock: | Medium |             |        |
 | 551 | [Student Attendance Record I](./problems/500-599/551/README.md)                                 |        | Easy   |             |        |
 | 552 | [Student Attendance Record II](./problems/500-599/552/README.md)                                |        | Hard   |             |        |
 | 553 | [Optimal Division](./problems/500-599/553/README.md)                                            |        | Medium |             |        |
 | 554 | [Brick Wall](./problems/500-599/554/README.md)                                                  |        | Medium |             |        |
-| 555 | [Split Concatenated Strings](./problems/500-599/555/README.md)                                  |        | Medium |             |        |
+| 555 | [Split Concatenated Strings](./problems/500-599/555/README.md)                                  | :lock: | Medium |             |        |
 | 556 | [Next Greater Element III](./problems/500-599/556/README.md)                                    |        | Medium |             |        |
 | 557 | [Reverse Words in a String III](./problems/500-599/557/README.md)                               |        | Easy   |             |        |
 | 558 | [Quad Tree Intersection](./problems/500-599/558/README.md)                                      |        | Easy   |             |        |
 | 559 | [Maximum Depth of N-ary Tree](./problems/500-599/559/README.md)                                 |        | Easy   |             |        |
 | 560 | [Subarray Sum Equals K](./problems/500-599/560/README.md)                                       |        | Medium |             |        |
 | 561 | [Array Partition I](./problems/500-599/561/README.md)                                           |        | Easy   |             |        |
-| 562 | [Longest Line of Consecutive One in Matrix](./problems/500-599/562/README.md)                   |        | Medium |             |        |
+| 562 | [Longest Line of Consecutive One in Matrix](./problems/500-599/562/README.md)                   | :lock: | Medium |             |        |
 | 563 | [Binary Tree Tilt](./problems/500-599/563/README.md)                                            |        | Easy   |             |        |
 | 564 | [Find the Closest Palindrome](./problems/500-599/564/README.md)                                 |        | Hard   |             |        |
 | 565 | [Array Nesting](./problems/500-599/565/README.md)                                               |        | Medium |             |        |
 | 566 | [Reshape the Matrix](./problems/500-599/566/README.md)                                          |        | Easy   |             |        |
 | 567 | [Permutation in String](./problems/500-599/567/README.md)                                       |        | Medium |             |        |
-| 568 | [Maximum Vacation Days](./problems/500-599/568/README.md)                                       |        | Hard   |             |        |
-| 569 | [Median Employee Salary](./problems/500-599/569/README.md)                                      | :soon: | Hard   | [sql]       |        |
-| 570 | [Managers with at Least 5 Direct Reports](./problems/500-599/570/README.md)                     | :soon: | Medium | [sql]       |        |
-| 571 | [Find Median Given Frequency of Numbers](./problems/500-599/571/README.md)                      |        | Hard   |             |        |
+| 568 | [Maximum Vacation Days](./problems/500-599/568/README.md)                                       | :lock: | Hard   |             |        |
+| 569 | [Median Employee Salary](./problems/500-599/569/README.md)                                      | :lock: | Hard   |             |        |
+| 570 | [Managers with at Least 5 Direct Reports](./problems/500-599/570/README.md)                     | :lock: | Medium |             |        |
+| 571 | [Find Median Given Frequency of Numbers](./problems/500-599/571/README.md)                      | :lock: | Hard   |             |        |
 | 572 | [Subtree of Another Tree](./problems/500-599/572/README.md)                                     |        | Easy   |             |        |
-| 573 | [Squirrel Simulation](./problems/500-599/573/README.md)                                         |        | Medium |             |        |
-| 574 | [Winning Candidate](./problems/500-599/574/README.md)                                           | :soon: | Medium | [sql]       |        |
+| 573 | [Squirrel Simulation](./problems/500-599/573/README.md)                                         | :lock: | Medium |             |        |
+| 574 | [Winning Candidate](./problems/500-599/574/README.md)                                           | :lock: | Medium |             |        |
 | 575 | [Distribute Candies](./problems/500-599/575/README.md)                                          |        | Easy   |             |        |
 | 576 | [Out of Boundary Paths](./problems/500-599/576/README.md)                                       |        | Medium |             |        |
-| 577 | [Employee Bonus](./problems/500-599/577/README.md)                                              |        | Easy   |             |        |
-| 578 | [Get Highest Answer Rate Question](./problems/500-599/578/README.md)                            |        | Medium |             |        |
-| 579 | [Find Cumulative Salary of an Employee](./problems/500-599/579/README.md)                       |        | Hard   |             |        |
-| 580 | [Count Student Number in Departments](./problems/500-599/580/README.md)                         |        | Medium |             |        |
+| 577 | [Employee Bonus](./problems/500-599/577/README.md)                                              | :lock: | Easy   |             |        |
+| 578 | [Get Highest Answer Rate Question](./problems/500-599/578/README.md)                            | :lock: | Medium |             |        |
+| 579 | [Find Cumulative Salary of an Employee](./problems/500-599/579/README.md)                       | :lock: | Hard   |             |        |
+| 580 | [Count Student Number in Departments](./problems/500-599/580/README.md)                         | :lock: | Medium |             |        |
 | 581 | [Shortest Unsorted Continuous Subarray](./problems/500-599/581/README.md)                       |        | Easy   |             |        |
-| 582 | [Kill Process](./problems/500-599/582/README.md)                                                |        | Medium |             |        |
+| 582 | [Kill Process](./problems/500-599/582/README.md)                                                | :lock: | Medium |             |        |
 | 583 | [Delete Operation for Two Strings](./problems/500-599/583/README.md)                            |        | Medium |             |        |
-| 584 | [Find Customer Referee](./problems/500-599/584/README.md)                                       |        | Easy   |             |        |
-| 585 | [Investments in 2016](./problems/500-599/585/README.md)                                         |        | Medium |             |        |
-| 586 | [Customer Placing the Largest Number of Orders](./problems/500-599/586/README.md)               |        | Easy   |             |        |
+| 584 | [Find Customer Referee](./problems/500-599/584/README.md)                                       | :lock: | Easy   |             |        |
+| 585 | [Investments in 2016](./problems/500-599/585/README.md)                                         | :lock: | Medium |             |        |
+| 586 | [Customer Placing the Largest Number of Orders](./problems/500-599/586/README.md)               | :lock: | Easy   |             |        |
 | 587 | [Erect the Fence](./problems/500-599/587/README.md)                                             |        | Hard   |             |        |
-| 588 | [Design In-Memory File System](./problems/500-599/588/README.md)                                |        | Hard   |             |        |
+| 588 | [Design In-Memory File System](./problems/500-599/588/README.md)                                | :lock: | Hard   |             |        |
 | 589 | [N-ary Tree Preorder Traversal](./problems/500-599/589/README.md)                               |        | Easy   |             |        |
 | 590 | [N-ary Tree Postorder Traversal](./problems/500-599/590/README.md)                              |        | Easy   |             |        |
 | 591 | [Tag Validator](./problems/500-599/591/README.md)                                               |        | Hard   |             |        |
@@ -616,76 +616,76 @@
 | 594 | [Longest Harmonious Subsequence](./problems/500-599/594/README.md)                              |        | Easy   |             |        |
 | 595 | [Big Countries](./problems/500-599/595/README.md)                                               |        | Easy   |             |        |
 | 596 | [Classes More Than 5 Students](./problems/500-599/596/README.md)                                |        | Easy   |             |        |
-| 597 | [Friend Requests I: Overall Acceptance Rate](./problems/500-599/597/README.md)                  |        | Easy   |             |        |
+| 597 | [Friend Requests I: Overall Acceptance Rate](./problems/500-599/597/README.md)                  | :lock: | Easy   |             |        |
 | 598 | [Range Addition II](./problems/500-599/598/README.md)                                           |        | Easy   |             |        |
 | 599 | [Minimum Index Sum of Two Lists](./problems/500-599/599/README.md)                              |        | Easy   |             |        |
 | 600 | [Non-negative Integers without Consecutive Ones](./problems/600-699/600/README.md)              |        | Hard   |             |        |
 | 601 | [Human Traffic of Stadium](./problems/600-699/601/README.md)                                    |        | Hard   |             |        |
-| 602 | [Friend Requests II: Who Has the Most Friends](./problems/600-699/602/README.md)                |        | Medium |             |        |
-| 603 | [Consecutive Available Seats](./problems/600-699/603/README.md)                                 |        | Easy   |             |        |
-| 604 | [Design Compressed String Iterator](./problems/600-699/604/README.md)                           |        | Easy   |             |        |
+| 602 | [Friend Requests II: Who Has the Most Friends](./problems/600-699/602/README.md)                | :lock: | Medium |             |        |
+| 603 | [Consecutive Available Seats](./problems/600-699/603/README.md)                                 | :lock: | Easy   |             |        |
+| 604 | [Design Compressed String Iterator](./problems/600-699/604/README.md)                           | :lock: | Easy   |             |        |
 | 605 | [Can Place Flowers](./problems/600-699/605/README.md)                                           |        | Easy   |             |        |
 | 606 | [Construct String from Binary Tree](./problems/600-699/606/README.md)                           |        | Easy   |             |        |
-| 607 | [Sales Person](./problems/600-699/607/README.md)                                                |        | Easy   |             |        |
-| 608 | [Tree Node](./problems/600-699/608/README.md)                                                   |        | Medium |             |        |
+| 607 | [Sales Person](./problems/600-699/607/README.md)                                                | :lock: | Easy   |             |        |
+| 608 | [Tree Node](./problems/600-699/608/README.md)                                                   | :lock: | Medium |             |        |
 | 609 | [Find Duplicate File in System](./problems/600-699/609/README.md)                               |        | Medium |             |        |
-| 610 | [Triangle Judgement](./problems/600-699/610/README.md)                                          |        | Easy   |             |        |
+| 610 | [Triangle Judgement](./problems/600-699/610/README.md)                                          | :lock: | Easy   |             |        |
 | 611 | [Valid Triangle Number](./problems/600-699/611/README.md)                                       |        | Medium |             |        |
-| 612 | [Shortest Distance in a Plane](./problems/600-699/612/README.md)                                |        | Medium |             |        |
-| 613 | [Shortest Distance in a Line](./problems/600-699/613/README.md)                                 |        | Easy   |             |        |
-| 614 | [Second Degree Follower](./problems/600-699/614/README.md)                                      |        | Medium |             |        |
-| 615 | [Average Salary: Departments VS Company](./problems/600-699/615/README.md)                      |        | Hard   |             |        |
-| 616 | [Add Bold Tag in String](./problems/600-699/616/README.md)                                      |        | Medium |             |        |
+| 612 | [Shortest Distance in a Plane](./problems/600-699/612/README.md)                                | :lock: | Medium |             |        |
+| 613 | [Shortest Distance in a Line](./problems/600-699/613/README.md)                                 | :lock: | Easy   |             |        |
+| 614 | [Second Degree Follower](./problems/600-699/614/README.md)                                      | :lock: | Medium |             |        |
+| 615 | [Average Salary: Departments VS Company](./problems/600-699/615/README.md)                      | :lock: | Hard   |             |        |
+| 616 | [Add Bold Tag in String](./problems/600-699/616/README.md)                                      | :lock: | Medium |             |        |
 | 617 | [Merge Two Binary Trees](./problems/600-699/617/README.md)                                      |        | Easy   |             |        |
-| 618 | [Students Report By Geography](./problems/600-699/618/README.md)                                |        | Hard   |             |        |
-| 619 | [Biggest Single Number](./problems/600-699/619/README.md)                                       |        | Easy   |             |        |
+| 618 | [Students Report By Geography](./problems/600-699/618/README.md)                                | :lock: | Hard   |             |        |
+| 619 | [Biggest Single Number](./problems/600-699/619/README.md)                                       | :lock: | Easy   |             |        |
 | 620 | [Not Boring Movies](./problems/600-699/620/README.md)                                           |        | Easy   |             |        |
 | 621 | [Task Scheduler](./problems/600-699/621/README.md)                                              |        | Medium |             |        |
 | 622 | [Design Circular Queue](./problems/600-699/622/README.md)                                       |        | Medium |             |        |
 | 623 | [Add One Row to Tree](./problems/600-699/623/README.md)                                         |        | Medium |             |        |
-| 624 | [Maximum Distance in Arrays](./problems/600-699/624/README.md)                                  |        | Easy   |             |        |
-| 625 | [Minimum Factorization](./problems/600-699/625/README.md)                                       |        | Medium |             |        |
+| 624 | [Maximum Distance in Arrays](./problems/600-699/624/README.md)                                  | :lock: | Easy   |             |        |
+| 625 | [Minimum Factorization](./problems/600-699/625/README.md)                                       | :lock: | Medium |             |        |
 | 626 | [Exchange Seats](./problems/600-699/626/README.md)                                              |        | Medium |             |        |
 | 627 | [Swap Salary](./problems/600-699/627/README.md)                                                 |        | Easy   |             |        |
 | 628 | [Maximum Product of Three Numbers](./problems/600-699/628/README.md)                            |        | Easy   |             |        |
 | 629 | [K Inverse Pairs Array](./problems/600-699/629/README.md)                                       |        | Hard   |             |        |
 | 630 | [Course Schedule III](./problems/600-699/630/README.md)                                         |        | Hard   |             |        |
-| 631 | [Design Excel Sum Formula](./problems/600-699/631/README.md)                                    |        | Hard   |             |        |
+| 631 | [Design Excel Sum Formula](./problems/600-699/631/README.md)                                    | :lock: | Hard   |             |        |
 | 632 | [Smallest Range](./problems/600-699/632/README.md)                                              |        | Hard   |             |        |
 | 633 | [Sum of Square Numbers](./problems/600-699/633/README.md)                                       |        | Easy   |             |        |
-| 634 | [Find the Derangement of An Array](./problems/600-699/634/README.md)                            |        | Medium |             |        |
-| 635 | [Design Log Storage System](./problems/600-699/635/README.md)                                   |        | Medium |             |        |
+| 634 | [Find the Derangement of An Array](./problems/600-699/634/README.md)                            | :lock: | Medium |             |        |
+| 635 | [Design Log Storage System](./problems/600-699/635/README.md)                                   | :lock: | Medium |             |        |
 | 636 | [Exclusive Time of Functions](./problems/600-699/636/README.md)                                 |        | Medium |             |        |
 | 637 | [Average of Levels in Binary Tree](./problems/600-699/637/README.md)                            |        | Easy   |             |        |
 | 638 | [Shopping Offers](./problems/600-699/638/README.md)                                             |        | Medium |             |        |
 | 639 | [Decode Ways II](./problems/600-699/639/README.md)                                              |        | Hard   |             |        |
 | 640 | [Solve the Equation](./problems/600-699/640/README.md)                                          |        | Medium |             |        |
 | 641 | [Design Circular Deque](./problems/600-699/641/README.md)                                       |        | Medium |             |        |
-| 642 | [Design Search Autocomplete System](./problems/600-699/642/README.md)                           |        | Hard   |             |        |
+| 642 | [Design Search Autocomplete System](./problems/600-699/642/README.md)                           | :lock: | Hard   |             |        |
 | 643 | [Maximum Average Subarray I](./problems/600-699/643/README.md)                                  |        | Easy   |             |        |
-| 644 | [Maximum Average Subarray II](./problems/600-699/644/README.md)                                 |        | Hard   |             |        |
+| 644 | [Maximum Average Subarray II](./problems/600-699/644/README.md)                                 | :lock: | Hard   |             |        |
 | 645 | [Set Mismatch](./problems/600-699/645/README.md)                                                |        | Easy   |             |        |
 | 646 | [Maximum Length of Pair Chain](./problems/600-699/646/README.md)                                |        | Medium |             |        |
 | 647 | [Palindromic Substrings](./problems/600-699/647/README.md)                                      |        | Medium |             |        |
 | 648 | [Replace Words](./problems/600-699/648/README.md)                                               |        | Medium |             |        |
 | 649 | [Dota2 Senate](./problems/600-699/649/README.md)                                                |        | Medium |             |        |
 | 650 | [2 Keys Keyboard](./problems/600-699/650/README.md)                                             |        | Medium |             |        |
-| 651 | [4 Keys Keyboard](./problems/600-699/651/README.md)                                             |        | Medium |             |        |
+| 651 | [4 Keys Keyboard](./problems/600-699/651/README.md)                                             | :lock: | Medium |             |        |
 | 652 | [Find Duplicate Subtrees](./problems/600-699/652/README.md)                                     |        | Medium |             |        |
 | 653 | [Two Sum IV - Input is a BST](./problems/600-699/653/README.md)                                 |        | Easy   |             |        |
 | 654 | [Maximum Binary Tree](./problems/600-699/654/README.md)                                         |        | Medium |             |        |
 | 655 | [Print Binary Tree](./problems/600-699/655/README.md)                                           |        | Medium |             |        |
-| 656 | [Coin Path](./problems/600-699/656/README.md)                                                   |        | Hard   |             |        |
+| 656 | [Coin Path](./problems/600-699/656/README.md)                                                   | :lock: | Hard   |             |        |
 | 657 | [Robot Return to Origin](./problems/600-699/657/README.md)                                      |        | Easy   |             |        |
 | 658 | [Find K Closest Elements](./problems/600-699/658/README.md)                                     |        | Medium |             |        |
 | 659 | [Split Array into Consecutive Subsequences](./problems/600-699/659/README.md)                   |        | Medium |             |        |
-| 660 | [Remove 9](./problems/600-699/660/README.md)                                                    |        | Hard   |             |        |
+| 660 | [Remove 9](./problems/600-699/660/README.md)                                                    | :lock: | Hard   |             |        |
 | 661 | [Image Smoother](./problems/600-699/661/README.md)                                              |        | Easy   |             |        |
 | 662 | [Maximum Width of Binary Tree](./problems/600-699/662/README.md)                                | :o:    | Medium | [dfs]       |        |
-| 663 | [Equal Tree Partition](./problems/600-699/663/README.md)                                        |        | Medium |             |        |
+| 663 | [Equal Tree Partition](./problems/600-699/663/README.md)                                        | :lock: | Medium |             |        |
 | 664 | [Strange Printer](./problems/600-699/664/README.md)                                             |        | Hard   |             |        |
 | 665 | [Non-decreasing Array](./problems/600-699/665/README.md)                                        |        | Easy   |             |        |
-| 666 | [Path Sum IV](./problems/600-699/666/README.md)                                                 |        | Medium |             |        |
+| 666 | [Path Sum IV](./problems/600-699/666/README.md)                                                 | :lock: | Medium |             |        |
 | 667 | [Beautiful Arrangement II](./problems/600-699/667/README.md)                                    |        | Medium |             |        |
 | 668 | [Kth Smallest Number in Multiplication Table](./problems/600-699/668/README.md)                 |        | Hard   |             |        |
 | 669 | [Trim a Binary Search Tree](./problems/600-699/669/README.md)                                   |        | Easy   |             |        |
@@ -700,9 +700,9 @@
 | 678 | [Valid Parenthesis String](./problems/600-699/678/README.md)                                    |        | Medium |             |        |
 | 679 | [24 Game](./problems/600-699/679/README.md)                                                     |        | Hard   |             |        |
 | 680 | [Valid Palindrome II](./problems/600-699/680/README.md)                                         |        | Easy   |             |        |
-| 681 | [Next Closest Time](./problems/600-699/681/README.md)                                           |        | Medium |             |        |
+| 681 | [Next Closest Time](./problems/600-699/681/README.md)                                           | :lock: | Medium |             |        |
 | 682 | [Baseball Game](./problems/600-699/682/README.md)                                               |        | Easy   |             |        |
-| 683 | [K Empty Slots](./problems/600-699/683/README.md)                                               |        | Hard   |             |        |
+| 683 | [K Empty Slots](./problems/600-699/683/README.md)                                               | :lock: | Hard   |             |        |
 | 684 | [Redundant Connection](./problems/600-699/684/README.md)                                        |        | Medium |             |        |
 | 685 | [Redundant Connection II](./problems/600-699/685/README.md)                                     |        | Hard   |             |        |
 | 686 | [Repeated String Match](./problems/600-699/686/README.md)                                       |        | Easy   |             |        |
@@ -713,7 +713,7 @@
 | 691 | [Stickers to Spell Word](./problems/600-699/691/README.md)                                      |        | Hard   |             |        |
 | 692 | [Top K Frequent Words](./problems/600-699/692/README.md)                                        |        | Medium |             |        |
 | 693 | [Binary Number with Alternating Bits](./problems/600-699/693/README.md)                         |        | Easy   |             |        |
-| 694 | [Number of Distinct Islands](./problems/600-699/694/README.md)                                  |        | Medium |             |        |
+| 694 | [Number of Distinct Islands](./problems/600-699/694/README.md)                                  | :lock: | Medium |             |        |
 | 695 | [Max Area of Island](./problems/600-699/695/README.md)                                          |        | Medium |             |        |
 | 696 | [Count Binary Substrings](./problems/600-699/696/README.md)                                     |        | Easy   |             |        |
 | 697 | [Degree of an Array](./problems/600-699/697/README.md)                                          |        | Easy   |             |        |
@@ -721,47 +721,47 @@
 | 699 | [Falling Squares](./problems/600-699/699/README.md)                                             |        | Hard   |             |        |
 | 700 | [Search in a Binary Search Tree](./problems/700-799/700/README.md)                              |        | Easy   |             |        |
 | 701 | [Insert into a Binary Search Tree](./problems/700-799/701/README.md)                            |        | Medium |             |        |
-| 702 | [Search in a Sorted Array of Unknown Size](./problems/700-799/702/README.md)                    |        | Medium |             |        |
+| 702 | [Search in a Sorted Array of Unknown Size](./problems/700-799/702/README.md)                    | :lock: | Medium |             |        |
 | 703 | [Kth Largest Element in a Stream](./problems/700-799/703/README.md)                             |        | Easy   |             |        |
 | 704 | [Binary Search](./problems/700-799/704/README.md)                                               |        | Easy   |             |        |
 | 705 | [Design HashSet](./problems/700-799/705/README.md)                                              |        | Easy   |             |        |
 | 706 | [Design HashMap](./problems/700-799/706/README.md)                                              |        | Easy   |             |        |
 | 707 | [Design Linked List](./problems/700-799/707/README.md)                                          |        | Easy   |             |        |
-| 708 | [Insert into a Cyclic Sorted List](./problems/700-799/708/README.md)                            |        | Medium |             |        |
+| 708 | [Insert into a Cyclic Sorted List](./problems/700-799/708/README.md)                            | :lock: | Medium |             |        |
 | 709 | [To Lower Case](./problems/700-799/709/README.md)                                               | :o:    | Easy   | [str]       |        |
 | 710 | [Random Pick with Blacklist](./problems/700-799/710/README.md)                                  |        | Hard   |             |        |
-| 711 | [Number of Distinct Islands II](./problems/700-799/711/README.md)                               |        | Hard   |             |        |
+| 711 | [Number of Distinct Islands II](./problems/700-799/711/README.md)                               | :lock: | Hard   |             |        |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./problems/700-799/712/README.md)                    |        | Medium |             |        |
 | 713 | [Subarray Product Less Than K](./problems/700-799/713/README.md)                                |        | Medium |             |        |
 | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](./problems/700-799/714/README.md)        |        | Medium |             |        |
 | 715 | [Range Module](./problems/700-799/715/README.md)                                                |        | Hard   |             |        |
-| 716 | [Max Stack](./problems/700-799/716/README.md)                                                   |        | Easy   |             |        |
+| 716 | [Max Stack](./problems/700-799/716/README.md)                                                   | :lock: | Easy   |             |        |
 | 717 | [1-bit and 2-bit Characters](./problems/700-799/717/README.md)                                  |        | Easy   |             |        |
 | 718 | [Maximum Length of Repeated Subarray](./problems/700-799/718/README.md)                         |        | Medium |             |        |
 | 719 | [Find K-th Smallest Pair Distance](./problems/700-799/719/README.md)                            |        | Hard   |             |        |
 | 720 | [Longest Word in Dictionary](./problems/700-799/720/README.md)                                  |        | Easy   |             |        |
 | 721 | [Accounts Merge](./problems/700-799/721/README.md)                                              |        | Medium |             |        |
 | 722 | [Remove Comments](./problems/700-799/722/README.md)                                             |        | Medium |             |        |
-| 723 | [Candy Crush](./problems/700-799/723/README.md)                                                 |        | Medium |             |        |
+| 723 | [Candy Crush](./problems/700-799/723/README.md)                                                 | :lock: | Medium |             |        |
 | 724 | [Find Pivot Index](./problems/700-799/724/README.md)                                            |        | Easy   |             |        |
 | 725 | [Split Linked List in Parts](./problems/700-799/725/README.md)                                  |        | Medium |             |        |
 | 726 | [Number of Atoms](./problems/700-799/726/README.md)                                             |        | Hard   |             |        |
-| 727 | [Minimum Window Subsequence](./problems/700-799/727/README.md)                                  |        | Hard   |             |        |
+| 727 | [Minimum Window Subsequence](./problems/700-799/727/README.md)                                  | :lock: | Hard   |             |        |
 | 728 | [Self Dividing Numbers](./problems/700-799/728/README.md)                                       |        | Easy   |             |        |
 | 729 | [My Calendar I](./problems/700-799/729/README.md)                                               |        | Medium |             |        |
 | 730 | [Count Different Palindromic Subsequences](./problems/700-799/730/README.md)                    |        | Hard   |             |        |
 | 731 | [My Calendar II](./problems/700-799/731/README.md)                                              |        | Medium |             |        |
 | 732 | [My Calendar III](./problems/700-799/732/README.md)                                             |        | Hard   |             |        |
 | 733 | [Flood Fill](./problems/700-799/733/README.md)                                                  |        | Easy   |             |        |
-| 734 | [Sentence Similarity](./problems/700-799/734/README.md)                                         |        | Easy   |             |        |
+| 734 | [Sentence Similarity](./problems/700-799/734/README.md)                                         | :lock: | Easy   |             |        |
 | 735 | [Asteroid Collision](./problems/700-799/735/README.md)                                          |        | Medium |             |        |
 | 736 | [Parse Lisp Expression](./problems/700-799/736/README.md)                                       |        | Hard   |             |        |
-| 737 | [Sentence Similarity II](./problems/700-799/737/README.md)                                      |        | Medium |             |        |
+| 737 | [Sentence Similarity II](./problems/700-799/737/README.md)                                      | :lock: | Medium |             |        |
 | 738 | [Monotone Increasing Digits](./problems/700-799/738/README.md)                                  |        | Medium |             |        |
 | 739 | [Daily Temperatures](./problems/700-799/739/README.md)                                          |        | Medium |             |        |
 | 740 | [Delete and Earn](./problems/700-799/740/README.md)                                             |        | Medium |             |        |
 | 741 | [Cherry Pickup](./problems/700-799/741/README.md)                                               |        | Hard   |             |        |
-| 742 | [Closest Leaf in a Binary Tree](./problems/700-799/742/README.md)                               |        | Medium |             |        |
+| 742 | [Closest Leaf in a Binary Tree](./problems/700-799/742/README.md)                               | :lock: | Medium |             |        |
 | 743 | [Network Delay Time](./problems/700-799/743/README.md)                                          |        | Easy   |             |        |
 | 744 | [Find Smallest Letter Greater Than Target](./problems/700-799/744/README.md)                    |        | Easy   |             |        |
 | 745 | [Prefix and Suffix Search](./problems/700-799/745/README.md)                                    |        | Hard   |             |        |
@@ -769,17 +769,17 @@
 | 747 | [Largest Number At Least Twice of Others](./problems/700-799/747/README.md)                     |        | Easy   |             |        |
 | 748 | [Shortest Completing Word](./problems/700-799/748/README.md)                                    |        | Easy   |             |        |
 | 749 | [Contain Virus](./problems/700-799/749/README.md)                                               |        | Hard   |             |        |
-| 750 | [Number Of Corner Rectangles](./problems/700-799/750/README.md)                                 |        | Medium |             |        |
-| 751 | [IP to CIDR](./problems/700-799/751/README.md)                                                  |        | Easy   |             |        |
+| 750 | [Number Of Corner Rectangles](./problems/700-799/750/README.md)                                 | :lock: | Medium |             |        |
+| 751 | [IP to CIDR](./problems/700-799/751/README.md)                                                  | :lock: | Easy   |             |        |
 | 752 | [Open the Lock](./problems/700-799/752/README.md)                                               |        | Medium |             |        |
 | 753 | [Cracking the Safe](./problems/700-799/753/README.md)                                           |        | Hard   |             |        |
 | 754 | [Reach a Number](./problems/700-799/754/README.md)                                              |        | Easy   |             |        |
-| 755 | [Pour Water](./problems/700-799/755/README.md)                                                  |        | Medium |             |        |
+| 755 | [Pour Water](./problems/700-799/755/README.md)                                                  | :lock: | Medium |             |        |
 | 756 | [Pyramid Transition Matrix](./problems/700-799/756/README.md)                                   |        | Medium |             |        |
 | 757 | [Set Intersection Size At Least Two](./problems/700-799/757/README.md)                          |        | Hard   |             |        |
-| 758 | [Bold Words in String](./problems/700-799/758/README.md)                                        |        | Easy   |             |        |
-| 759 | [Employee Free Time](./problems/700-799/759/README.md)                                          |        | Hard   |             |        |
-| 760 | [Find Anagram Mappings](./problems/700-799/760/README.md)                                       |        | Easy   |             |        |
+| 758 | [Bold Words in String](./problems/700-799/758/README.md)                                        | :lock: | Easy   |             |        |
+| 759 | [Employee Free Time](./problems/700-799/759/README.md)                                          | :lock: | Hard   |             |        |
+| 760 | [Find Anagram Mappings](./problems/700-799/760/README.md)                                       | :lock: | Easy   |             |        |
 | 761 | [Special Binary String](./problems/700-799/761/README.md)                                       |        | Hard   |             |        |
 | 762 | [Prime Number of Set Bits in Binary Representation](./problems/700-799/762/README.md)           |        | Easy   |             |        |
 | 763 | [Partition Labels](./problems/700-799/763/README.md)                                            |        | Medium |             |        |
@@ -791,11 +791,11 @@
 | 769 | [Max Chunks To Make Sorted](./problems/700-799/769/README.md)                                   |        | Medium |             |        |
 | 770 | [Basic Calculator IV](./problems/700-799/770/README.md)                                         |        | Hard   |             |        |
 | 771 | [Jewels and Stones](./problems/700-799/771/README.md)                                           | :o:    | Easy   | [hash]      |        |
-| 772 | [Basic Calculator III](./problems/700-799/772/README.md)                                        |        | Hard   |             |        |
+| 772 | [Basic Calculator III](./problems/700-799/772/README.md)                                        | :lock: | Hard   |             |        |
 | 773 | [Sliding Puzzle](./problems/700-799/773/README.md)                                              |        | Hard   |             |        |
-| 774 | [Minimize Max Distance to Gas Station](./problems/700-799/774/README.md)                        |        | Hard   |             |        |
+| 774 | [Minimize Max Distance to Gas Station](./problems/700-799/774/README.md)                        | :lock: | Hard   |             |        |
 | 775 | [Global and Local Inversions](./problems/700-799/775/README.md)                                 |        | Medium |             |        |
-| 776 | [Split BST](./problems/700-799/776/README.md)                                                   |        | Medium |             |        |
+| 776 | [Split BST](./problems/700-799/776/README.md)                                                   | :lock: | Medium |             |        |
 | 777 | [Swap Adjacent in LR String](./problems/700-799/777/README.md)                                  |        | Medium |             |        |
 | 778 | [Swim in Rising Water](./problems/700-799/778/README.md)                                        |        | Hard   |             |        |
 | 779 | [K-th Symbol in Grammar](./problems/700-799/779/README.md)                                      |        | Medium |             |        |
@@ -819,7 +819,7 @@
 | 797 | [All Paths From Source to Target](./problems/700-799/797/README.md)                             |        | Medium |             |        |
 | 798 | [Smallest Rotation with Highest Score](./problems/700-799/798/README.md)                        |        | Hard   |             |        |
 | 799 | [Champagne Tower](./problems/700-799/799/README.md)                                             |        | Medium |             |        |
-| 800 | [Similar RGB Color](./problems/800-899/800/README.md)                                           |        | Easy   |             |        |
+| 800 | [Similar RGB Color](./problems/800-899/800/README.md)                                           | :lock: | Easy   |             |        |
 | 801 | [Minimum Swaps To Make Sequences Increasing](./problems/800-899/801/README.md)                  |        | Medium |             |        |
 | 802 | [Find Eventual Safe States](./problems/800-899/802/README.md)                                   |        | Medium |             |        |
 | 803 | [Bricks Falling When Hit](./problems/800-899/803/README.md)                                     |        | Hard   |             |        |

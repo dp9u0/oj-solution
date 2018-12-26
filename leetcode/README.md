@@ -426,10 +426,10 @@
 | 398 | [Random Pick Index](./problems/300-399/398/README.md)                                           |        | Medium |             |        |
 | 399 | [Evaluate Division](./problems/300-399/399/README.md)                                           |        | Medium |             |        |
 | 400 | [Nth Digit](./problems/400-499/400/README.md)                                                   | :o:    | Easy   | [math]      |        |
-| 401 | [Binary Watch](./problems/400-499/401/README.md)                                                |        | Easy   |             |        |
+| 401 | [Binary Watch](./problems/400-499/401/README.md) | :o: | Easy | [math] |   |
 | 402 | [Remove K Digits](./problems/400-499/402/README.md)                                             |        | Medium |             |        |
 | 403 | [Frog Jump](./problems/400-499/403/README.md)                                                   |        | Hard   |             |        |
-| 404 | [Sum of Left Leaves](./problems/400-499/404/README.md)                                          |        | Easy   |             |        |
+| 404 | [Sum of Left Leaves](./problems/400-499/404/README.md) | :o: | Easy | [tree] |   |
 | 405 | [Convert a Number to Hexadecimal](./problems/400-499/405/README.md)                             |        | Easy   |             |        |
 | 406 | [Queue Reconstruction by Height](./problems/400-499/406/README.md)                              |        | Medium |             |        |
 | 407 | [Trapping Rain Water II](./problems/400-499/407/README.md)                                      |        | Hard   |             |        |
@@ -971,4 +971,4 @@
 | 950 | [Reveal Cards In Increasing Order](./problems/900-999/950/README.md)                            |        | Medium |             |        |
 | 951 | [Flip Equivalent Binary Trees](./problems/900-999/951/README.md)                                |        | Medium |             |        |
 | 952 | [Largest Component Size by Common Factor](./problems/900-999/952/README.md)                     |        | Hard   |             |        |
-| 956 | [956. Tallest Billboard](./problems/900-999/956/README.md)                                      | :o:    | Hard   | [hash]      |        |
+| 956 | [Tallest Billboard](./problems/900-999/956/README.md)                                           | :o:    | Hard   | [hash]      |        |

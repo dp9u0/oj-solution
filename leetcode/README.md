@@ -468,12 +468,12 @@
 | 440 | [K-th Smallest in Lexicographical Order](./problems/400-499/440/README.md)                      |        | Hard   |              |        |
 | 441 | [Arranging Coins](./problems/400-499/441/README.md) | :o: | Easy | [math] |   |
 | 442 | [Find All Duplicates in an Array](./problems/400-499/442/README.md)                             | :o:    | Medium | [array]      |        |
-| 443 | [String Compression](./problems/400-499/443/README.md)                                          |        | Easy   |              |        |
+| 443 | [String Compression](./problems/400-499/443/README.md) | :o: | Easy | [array] |   |
 | 444 | [Sequence Reconstruction](./problems/400-499/444/README.md)                                     | :lock: | Medium |              |        |
 | 445 | [Add Two Numbers II](./problems/400-499/445/README.md)                                          |        | Medium |              |        |
 | 446 | [Arithmetic Slices II - Subsequence](./problems/400-499/446/README.md)                          |        | Hard   |              |        |
-| 447 | [Number of Boomerangs](./problems/400-499/447/README.md)                                        |        | Easy   |              |        |
-| 448 | [Find All Numbers Disappeared in an Array](./problems/400-499/448/README.md)                    |        | Easy   |              |        |
+| 447 | [Number of Boomerangs](./problems/400-499/447/README.md) | :o: | Easy | [hash] |   |
+| 448 | [Find All Numbers Disappeared in an Array](./problems/400-499/448/README.md) | :o: | Easy | [array] |   |
 | 449 | [Serialize and Deserialize BST](./problems/400-499/449/README.md)                               |        | Medium |              |        |
 | 450 | [Delete Node in a BST](./problems/400-499/450/README.md)                                        |        | Medium |              |        |
 | 451 | [Sort Characters By Frequency](./problems/400-499/451/README.md)                                |        | Medium |              |        |

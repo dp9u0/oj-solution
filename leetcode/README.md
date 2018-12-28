@@ -483,7 +483,7 @@
 | 455 | [Assign Cookies](./problems/400-499/455/README.md)                                              | :o:    | Easy   | [greedy]     | :+1:   |
 | 456 | [132 Pattern](./problems/400-499/456/README.md)                                                 |        | Medium |              |        |
 | 457 | [Circular Array Loop](./problems/400-499/457/README.md)                                         |        | Medium |              |        |
-| 458 | [Poor Pigs](./problems/400-499/458/README.md)                                                   |        | Easy   |              |        |
+| 458 | [Poor Pigs](./problems/400-499/458/README.md) | :o: | Easy | [math] | :+1:  |
 | 459 | [Repeated Substring Pattern](./problems/400-499/459/README.md)                                  |        | Easy   |              |        |
 | 460 | [LFU Cache](./problems/400-499/460/README.md)                                                   |        | Hard   |              |        |
 | 461 | [Hamming Distance](./problems/400-499/461/README.md)                                            |        | Easy   |              |        |

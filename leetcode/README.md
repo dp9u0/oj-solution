@@ -466,19 +466,19 @@
 | 438 | [Find All Anagrams in a String](./problems/400-499/438/README.md)                               | :o:    | Easy   | [hash]       | :+1:   |
 | 439 | [Ternary Expression Parser](./problems/400-499/439/README.md)                                   | :lock: | Medium |              |        |
 | 440 | [K-th Smallest in Lexicographical Order](./problems/400-499/440/README.md)                      |        | Hard   |              |        |
-| 441 | [Arranging Coins](./problems/400-499/441/README.md) | :o: | Easy | [math] |   |
+| 441 | [Arranging Coins](./problems/400-499/441/README.md)                                             | :o:    | Easy   | [math]       |        |
 | 442 | [Find All Duplicates in an Array](./problems/400-499/442/README.md)                             | :o:    | Medium | [array]      |        |
-| 443 | [String Compression](./problems/400-499/443/README.md) | :o: | Easy | [array] |   |
+| 443 | [String Compression](./problems/400-499/443/README.md)                                          | :o:    | Easy   | [array]      |        |
 | 444 | [Sequence Reconstruction](./problems/400-499/444/README.md)                                     | :lock: | Medium |              |        |
 | 445 | [Add Two Numbers II](./problems/400-499/445/README.md)                                          |        | Medium |              |        |
 | 446 | [Arithmetic Slices II - Subsequence](./problems/400-499/446/README.md)                          |        | Hard   |              |        |
-| 447 | [Number of Boomerangs](./problems/400-499/447/README.md) | :o: | Easy | [hash] |   |
-| 448 | [Find All Numbers Disappeared in an Array](./problems/400-499/448/README.md) | :o: | Easy | [array] |   |
+| 447 | [Number of Boomerangs](./problems/400-499/447/README.md)                                        | :o:    | Easy   | [hash]       |        |
+| 448 | [Find All Numbers Disappeared in an Array](./problems/400-499/448/README.md)                    | :o:    | Easy   | [array]      |        |
 | 449 | [Serialize and Deserialize BST](./problems/400-499/449/README.md)                               |        | Medium |              |        |
 | 450 | [Delete Node in a BST](./problems/400-499/450/README.md)                                        |        | Medium |              |        |
 | 451 | [Sort Characters By Frequency](./problems/400-499/451/README.md)                                |        | Medium |              |        |
 | 452 | [Minimum Number of Arrows to Burst Balloons](./problems/400-499/452/README.md)                  |        | Medium |              |        |
-| 453 | [Minimum Moves to Equal Array Elements](./problems/400-499/453/README.md)                       |        | Easy   |              |        |
+| 453 | [Minimum Moves to Equal Array Elements](./problems/400-499/453/README.md)                       | :o:    | Easy   | [math]       |        |
 | 454 | [4Sum II](./problems/400-499/454/README.md)                                                     |        | Medium |              |        |
 | 455 | [Assign Cookies](./problems/400-499/455/README.md)                                              |        | Easy   |              |        |
 | 456 | [132 Pattern](./problems/400-499/456/README.md)                                                 |        | Medium |              |        |
@@ -971,4 +971,7 @@
 | 950 | [Reveal Cards In Increasing Order](./problems/900-999/950/README.md)                            |        | Medium |              |        |
 | 951 | [Flip Equivalent Binary Trees](./problems/900-999/951/README.md)                                |        | Medium |              |        |
 | 952 | [Largest Component Size by Common Factor](./problems/900-999/952/README.md)                     |        | Hard   |              |        |
+| 953 | [Verifying an Alien Dictionary](./problems/900-999/953/README.md)                               | :o:    | Easy   | [hash]       |        |
+| 954 | [Array of Doubled Pairs](./problems/900-999/954/README.md)                                      |        | Medium |              |        |
+| 955 | [Delete Columns to Make Sorted II](./problems/900-999/955/README.md)                            |        | Medium |              |        |
 | 956 | [Tallest Billboard](./problems/900-999/956/README.md)                                           | :o:    | Hard   | [hash]       |        |

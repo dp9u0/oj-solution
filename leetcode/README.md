@@ -466,7 +466,7 @@
 | 438 | [Find All Anagrams in a String](./problems/400-499/438/README.md)                               | :o:    | Easy   | [hash]       | :+1:   |
 | 439 | [Ternary Expression Parser](./problems/400-499/439/README.md)                                   | :lock: | Medium |              |        |
 | 440 | [K-th Smallest in Lexicographical Order](./problems/400-499/440/README.md)                      |        | Hard   |              |        |
-| 441 | [Arranging Coins](./problems/400-499/441/README.md)                                             |        | Easy   |              |        |
+| 441 | [Arranging Coins](./problems/400-499/441/README.md) | :o: | Easy | [math] |   |
 | 442 | [Find All Duplicates in an Array](./problems/400-499/442/README.md)                             | :o:    | Medium | [array]      |        |
 | 443 | [String Compression](./problems/400-499/443/README.md)                                          |        | Easy   |              |        |
 | 444 | [Sequence Reconstruction](./problems/400-499/444/README.md)                                     | :lock: | Medium |              |        |

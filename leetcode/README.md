@@ -480,7 +480,7 @@
 | 452 | [Minimum Number of Arrows to Burst Balloons](./problems/400-499/452/README.md)                  |        | Medium |              |        |
 | 453 | [Minimum Moves to Equal Array Elements](./problems/400-499/453/README.md)                       | :o:    | Easy   | [math]       |        |
 | 454 | [4Sum II](./problems/400-499/454/README.md)                                                     |        | Medium |              |        |
-| 455 | [Assign Cookies](./problems/400-499/455/README.md)                                              |        | Easy   |              |        |
+| 455 | [Assign Cookies](./problems/400-499/455/README.md)                                              | :o:    | Easy   | [greedy]     | :+1:   |
 | 456 | [132 Pattern](./problems/400-499/456/README.md)                                                 |        | Medium |              |        |
 | 457 | [Circular Array Loop](./problems/400-499/457/README.md)                                         |        | Medium |              |        |
 | 458 | [Poor Pigs](./problems/400-499/458/README.md)                                                   |        | Easy   |              |        |

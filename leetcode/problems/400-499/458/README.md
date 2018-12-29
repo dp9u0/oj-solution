@@ -28,6 +28,6 @@ If there are n buckets and a pig drinking poison will die within m minutes, how 
 
 ... ... 依次
 
-最终到 sn -1 轮，只剩下一个数字 0 没有尝试，活下去的猪对应的位上即为0 
+最终到 sn -1 轮，只剩下一个数字 0 没有尝试，活下去的猪对应的位上即为0
 
 [SourceCode](./solution.js)

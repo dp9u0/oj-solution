@@ -532,7 +532,7 @@
 | 504 | [Base 7](./problems/500-599/504/README.md)                                                      | :o:    | Easy   | [math]         |        |
 | 505 | [The Maze II](./problems/500-599/505/README.md)                                                 | :lock: | Medium |                |        |
 | 506 | [Relative Ranks](./problems/500-599/506/README.md)                                              | :o:    | Easy   | [map]          |        |
-| 507 | [Perfect Number](./problems/500-599/507/README.md)                                              |        | Easy   |                |        |
+| 507 | [Perfect Number](./problems/500-599/507/README.md)                                              | :o:    | Easy   | [math]         |        |
 | 508 | [Most Frequent Subtree Sum](./problems/500-599/508/README.md)                                   |        | Medium |                |        |
 | 513 | [Find Bottom Left Tree Value](./problems/500-599/513/README.md)                                 |        | Medium |                |        |
 | 514 | [Freedom Trail](./problems/500-599/514/README.md)                                               |        | Hard   |                |        |
@@ -541,7 +541,7 @@
 | 517 | [Super Washing Machines](./problems/500-599/517/README.md)                                      |        | Hard   |                |        |
 | 518 | [Coin Change 2](./problems/500-599/518/README.md)                                               |        | Medium |                |        |
 | 519 | [Random Flip Matrix](./problems/500-599/519/README.md)                                          |        | Medium |                |        |
-| 520 | [Detect Capital](./problems/500-599/520/README.md)                                              |        | Easy   |                |        |
+| 520 | [Detect Capital](./problems/500-599/520/README.md)                                              | :o:    | Easy   | [str]          |        |
 | 521 | [Longest Uncommon Subsequence I](./problems/500-599/521/README.md)                              |        | Easy   |                |        |
 | 522 | [Longest Uncommon Subsequence II](./problems/500-599/522/README.md)                             |        | Medium |                |        |
 | 523 | [Continuous Subarray Sum](./problems/500-599/523/README.md)                                     |        | Medium |                |        |

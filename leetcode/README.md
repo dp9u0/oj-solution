@@ -500,8 +500,8 @@
 | 472 | [Concatenated Words](./problems/400-499/472/README.md)                                          |        | Hard   |              |        |
 | 473 | [Matchsticks to Square](./problems/400-499/473/README.md)                                       |        | Medium |              |        |
 | 474 | [Ones and Zeroes](./problems/400-499/474/README.md)                                             |        | Medium |              |        |
-| 475 | [Heaters](./problems/400-499/475/README.md)                                                     |        | Easy   |              |        |
-| 476 | [Number Complement](./problems/400-499/476/README.md)                                           |        | Easy   |              |        |
+| 475 | [Heaters](./problems/400-499/475/README.md) | :o: | Easy | [array] |   |
+| 476 | [Number Complement](./problems/400-499/476/README.md) | :o: | Easy | [bit] |   |
 | 477 | [Total Hamming Distance](./problems/400-499/477/README.md)                                      |        | Medium |              |        |
 | 478 | [Generate Random Point in a Circle](./problems/400-499/478/README.md)                           |        | Medium |              |        |
 | 479 | [Largest Palindrome Product](./problems/400-499/479/README.md)                                  |        | Easy   |              |        |

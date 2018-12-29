@@ -47,15 +47,19 @@ module.exports.getTargetDir = function (problem) {
   return `./problems/${pre}00-${pre}99/${problem}`;
 }
 
-module.exports.getTargetJsPath = function (problem) {
+const getTargetJsPath = function (problem) {
   let pre = ~~(Number(problem) / 100);
   return `./problems/${pre}00-${pre}99/${problem}/solution.js`;
 }
 
-module.exports.getTargetMdPath = function (problem) {
+module.exports.getTargetJsPath = getTargetJsPath;
+
+const getTargetMdPath = function (problem) {
   let pre = ~~(Number(problem) / 100);
   return `./problems/${pre}00-${pre}99/${problem}/README.md`;
 }
+
+module.exports.getTargetMdPath = getTargetMdPath;
 
 module.exports.exists = function (problem) {
   let jsPath = `./solving/${problem}.js`;
@@ -101,15 +105,25 @@ module.exports.readme = function (problem, topics = '', status = '', remark = ''
     input: reader
   });
   let reg = new RegExp('^\\|\\s+' + problem + '\\s+\\|');
+  let found = false;
   rl.on('line', (line) => {
     let lineOutput;
     if (reg.test(line)) {
       let blocks = line.split(/\s*\|\s*/);
       let newLine = `| ${problem} | ${blocks[2]} | ${status} | ${blocks[4]} | ${topics} | ${remark}  |`;
       lineOutput = newLine;
+      found = true;
     } else {
       lineOutput = line;
     }
     writer.write(lineOutput + os.EOL); // 下一行
+  });
+
+  rl.on('close', () => {
+    if (!found) {
+      let md = getTargetMdPath(problem);
+      let newLine = `| ${problem} | [${problem}](${md}) | ${status} | Level | ${topics} | ${remark}  |`;
+      writer.write(newLine + os.EOL); // 下一行
+    }
   });
 }

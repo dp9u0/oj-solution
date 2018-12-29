@@ -27,4 +27,8 @@ Explanation: It's the substring "abc" four times. (And the substring "abcabc" tw
 
 ## Solution
 
+方法一,构造KMP部分匹配表,例如 ababab 匹配表形式 为 [0,0,1,2,3,4],验证是否是该种形式即可
+
+方法二,`(s + s).slice(1, 2 * s.length - 1).indexOf(s) !== -1;`
+
 [SourceCode](./solution.js)

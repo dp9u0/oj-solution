@@ -486,9 +486,9 @@
 | 458 | [Poor Pigs](./problems/400-499/458/README.md)                                                   | :o:    | Easy   | [math]       | :+1:   |
 | 459 | [Repeated Substring Pattern](./problems/400-499/459/README.md)                                  | :o:    | Easy   | [string]     | :+1:   |
 | 460 | [LFU Cache](./problems/400-499/460/README.md)                                                   |        | Hard   |              |        |
-| 461 | [Hamming Distance](./problems/400-499/461/README.md)                                            |        | Easy   |              |        |
+| 461 | [Hamming Distance](./problems/400-499/461/README.md)                                            | :o:    | Easy   | [bit]        |        |
 | 462 | [Minimum Moves to Equal Array Elements II](./problems/400-499/462/README.md)                    |        | Medium |              |        |
-| 463 | [Island Perimeter](./problems/400-499/463/README.md)                                            |        | Easy   |              |        |
+| 463 | [Island Perimeter](./problems/400-499/463/README.md)                                            | :o:    | Easy   | [array]      | slow   |
 | 464 | [Can I Win](./problems/400-499/464/README.md)                                                   |        | Medium |              |        |
 | 465 | [Optimal Account Balancing](./problems/400-499/465/README.md)                                   | :lock: | Hard   |              |        |
 | 466 | [Count The Repetitions](./problems/400-499/466/README.md)                                       |        | Hard   |              |        |

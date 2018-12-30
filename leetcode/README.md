@@ -553,7 +553,7 @@
 | 529 | [Minesweeper](./problems/500-599/529/README.md)                                                 |        | Medium |                |        |
 | 530 | [Minimum Absolute Difference in BST](./problems/500-599/530/README.md)                          | :o:    | Easy   | [tree]         |        |
 | 531 | [Lonely Pixel I](./problems/500-599/531/README.md)                                              | :lock: | Medium |                |        |
-| 532 | [K-diff Pairs in an Array](./problems/500-599/532/README.md)                                    |        | Easy   |                |        |
+| 532 | [K-diff Pairs in an Array](./problems/500-599/532/README.md)                                    | :o:    | Easy   | [hash]         |        |
 | 533 | [Lonely Pixel II](./problems/500-599/533/README.md)                                             | :lock: | Medium |                |        |
 | 535 | [Encode and Decode TinyURL](./problems/500-599/535/README.md)                                   | :o:    | Medium | [hash]         |        |
 | 536 | [Construct Binary Tree from String](./problems/500-599/536/README.md)                           | :lock: | Medium |                |        |

@@ -95,7 +95,7 @@ module.exports.markdown = function (data) {
   return markdown;
 }
 
-module.exports.readme = function (problem, topics = '', status = '', remark = '') {
+module.exports.readme = function (problem, topics = '', status = '', remark = '',callback) {
   const MarkdownBakName = README_PATH + '.bak.md';
   fs.copyFileSync(README_PATH, MarkdownBakName);
   fs.unlinkSync(README_PATH);
@@ -124,6 +124,9 @@ module.exports.readme = function (problem, topics = '', status = '', remark = ''
       let md = getTargetMdPath(problem);
       let newLine = `| ${problem} | [${problem}](${md}) | ${status} | Level | ${topics} | ${remark}  |`;
       writer.write(newLine + os.EOL); // 下一行
+    }
+    if(callback){
+      callback()
     }
   });
 }

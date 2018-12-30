@@ -542,7 +542,7 @@
 | 518 | [Coin Change 2](./problems/500-599/518/README.md)                                               |        | Medium |                |        |
 | 519 | [Random Flip Matrix](./problems/500-599/519/README.md)                                          |        | Medium |                |        |
 | 520 | [Detect Capital](./problems/500-599/520/README.md)                                              | :o:    | Easy   | [str]          |        |
-| 521 | [Longest Uncommon Subsequence I](./problems/500-599/521/README.md)                              |        | Easy   |                |        |
+| 521 | [Longest Uncommon Subsequence I](./problems/500-599/521/README.md)                              | :o:    | Easy   | [str]          | :-1:   |
 | 522 | [Longest Uncommon Subsequence II](./problems/500-599/522/README.md)                             |        | Medium |                |        |
 | 523 | [Continuous Subarray Sum](./problems/500-599/523/README.md)                                     |        | Medium |                |        |
 | 524 | [Longest Word in Dictionary through Deleting](./problems/500-599/524/README.md)                 |        | Medium |                |        |

@@ -563,7 +563,7 @@
 | 540 | [Single Element in a Sorted Array](./problems/500-599/540/README.md)                            |        | Medium |                |        |
 | 541 | [Reverse String II](./problems/500-599/541/README.md)                                           | :o:    | Easy   | [str]          |        |
 | 542 | [01 Matrix](./problems/500-599/542/README.md)                                                   |        | Medium |                |        |
-| 543 | [Diameter of Binary Tree](./problems/500-599/543/README.md)                                     |        | Easy   |                |        |
+| 543 | [Diameter of Binary Tree](./problems/500-599/543/README.md)                                     | :o:    | Easy   | [tree]         |        |
 | 544 | [Output Contest Matches](./problems/500-599/544/README.md)                                      | :lock: | Medium |                |        |
 | 545 | [Boundary of Binary Tree](./problems/500-599/545/README.md)                                     | :lock: | Medium |                |        |
 | 546 | [Remove Boxes](./problems/500-599/546/README.md)                                                |        | Hard   |                |        |

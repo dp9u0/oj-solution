@@ -570,7 +570,7 @@
 | 547 | [Friend Circles](./problems/500-599/547/README.md)                                              |        | Medium |                |        |
 | 548 | [Split Array with Equal Sum](./problems/500-599/548/README.md)                                  | :lock: | Medium |                |        |
 | 549 | [Binary Tree Longest Consecutive Sequence II](./problems/500-599/549/README.md)                 | :lock: | Medium |                |        |
-| 551 | [Student Attendance Record I](./problems/500-599/551/README.md)                                 |        | Easy   |                |        |
+| 551 | [Student Attendance Record I](./problems/500-599/551/README.md)                                 | :o:    | Easy   | [str]          | :-1:   |
 | 552 | [Student Attendance Record II](./problems/500-599/552/README.md)                                |        | Hard   |                |        |
 | 553 | [Optimal Division](./problems/500-599/553/README.md)                                            |        | Medium |                |        |
 | 554 | [Brick Wall](./problems/500-599/554/README.md)                                                  |        | Medium |                |        |

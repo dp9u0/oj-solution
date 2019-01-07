@@ -582,7 +582,7 @@
 | 560 | [Subarray Sum Equals K](./problems/500-599/560/README.md)                                       |        | Medium |                |        |
 | 561 | [Array Partition I](./problems/500-599/561/README.md)                                           | :o:    | Easy   | [array]        |        |
 | 562 | [Longest Line of Consecutive One in Matrix](./problems/500-599/562/README.md)                   | :lock: | Medium |                |        |
-| 563 | [Binary Tree Tilt](./problems/500-599/563/README.md)                                            |        | Easy   |                |        |
+| 563 | [Binary Tree Tilt](./problems/500-599/563/README.md)                                            | :o:    | Easy   | [tree]         |        |
 | 564 | [Find the Closest Palindrome](./problems/500-599/564/README.md)                                 |        | Hard   |                |        |
 | 565 | [Array Nesting](./problems/500-599/565/README.md)                                               |        | Medium |                |        |
 | 566 | [Reshape the Matrix](./problems/500-599/566/README.md)                                          |        | Easy   |                |        |

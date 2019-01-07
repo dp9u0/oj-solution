@@ -577,7 +577,7 @@
 | 555 | [Split Concatenated Strings](./problems/500-599/555/README.md)                                  | :lock: | Medium |                |        |
 | 556 | [Next Greater Element III](./problems/500-599/556/README.md)                                    |        | Medium |                |        |
 | 557 | [Reverse Words in a String III](./problems/500-599/557/README.md)                               | :o:    | Easy   | [str]          |        |
-| 558 | [Quad Tree Intersection](./problems/500-599/558/README.md)                                      |        | Easy   |                |        |
+| 558 | [Quad Tree Intersection](./problems/500-599/558/README.md)                                      | :o:    | Easy   | [tree]         |        |
 | 559 | [Maximum Depth of N-ary Tree](./problems/500-599/559/README.md)                                 |        | Easy   |                |        |
 | 560 | [Subarray Sum Equals K](./problems/500-599/560/README.md)                                       |        | Medium |                |        |
 | 561 | [Array Partition I](./problems/500-599/561/README.md)                                           |        | Easy   |                |        |

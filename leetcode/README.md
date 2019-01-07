@@ -580,7 +580,7 @@
 | 558 | [Quad Tree Intersection](./problems/500-599/558/README.md)                                      | :o:    | Easy   | [tree]         |        |
 | 559 | [Maximum Depth of N-ary Tree](./problems/500-599/559/README.md)                                 |        | Easy   |                |        |
 | 560 | [Subarray Sum Equals K](./problems/500-599/560/README.md)                                       |        | Medium |                |        |
-| 561 | [Array Partition I](./problems/500-599/561/README.md)                                           |        | Easy   |                |        |
+| 561 | [Array Partition I](./problems/500-599/561/README.md)                                           | :o:    | Easy   | [array]        |        |
 | 562 | [Longest Line of Consecutive One in Matrix](./problems/500-599/562/README.md)                   | :lock: | Medium |                |        |
 | 563 | [Binary Tree Tilt](./problems/500-599/563/README.md)                                            |        | Easy   |                |        |
 | 564 | [Find the Closest Palindrome](./problems/500-599/564/README.md)                                 |        | Hard   |                |        |

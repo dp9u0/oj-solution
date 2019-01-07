@@ -591,7 +591,7 @@
 | 569 | [Median Employee Salary](./problems/500-599/569/README.md)                                      | :lock: | Hard   |                |        |
 | 570 | [Managers with at Least 5 Direct Reports](./problems/500-599/570/README.md)                     | :lock: | Medium |                |        |
 | 571 | [Find Median Given Frequency of Numbers](./problems/500-599/571/README.md)                      | :lock: | Hard   |                |        |
-| 572 | [Subtree of Another Tree](./problems/500-599/572/README.md)                                     |        | Easy   |                |        |
+| 572 | [Subtree of Another Tree](./problems/500-599/572/README.md)                                     | :o:    | Easy   | [tree]         |        |
 | 573 | [Squirrel Simulation](./problems/500-599/573/README.md)                                         | :lock: | Medium |                |        |
 | 574 | [Winning Candidate](./problems/500-599/574/README.md)                                           | :lock: | Medium |                |        |
 | 575 | [Distribute Candies](./problems/500-599/575/README.md)                                          |        | Easy   |                |        |

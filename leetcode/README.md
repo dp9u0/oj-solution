@@ -585,7 +585,7 @@
 | 563 | [Binary Tree Tilt](./problems/500-599/563/README.md)                                            | :o:    | Easy   | [tree]         |        |
 | 564 | [Find the Closest Palindrome](./problems/500-599/564/README.md)                                 |        | Hard   |                |        |
 | 565 | [Array Nesting](./problems/500-599/565/README.md)                                               |        | Medium |                |        |
-| 566 | [Reshape the Matrix](./problems/500-599/566/README.md)                                          |        | Easy   |                |        |
+| 566 | [Reshape the Matrix](./problems/500-599/566/README.md)                                          | :o:    | Easy   | [array]        | :+1:   |
 | 567 | [Permutation in String](./problems/500-599/567/README.md)                                       |        | Medium |                |        |
 | 568 | [Maximum Vacation Days](./problems/500-599/568/README.md)                                       | :lock: | Hard   |                |        |
 | 569 | [Median Employee Salary](./problems/500-599/569/README.md)                                      | :lock: | Hard   |                |        |

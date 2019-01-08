@@ -600,7 +600,7 @@
 | 578 | [Get Highest Answer Rate Question](./problems/500-599/578/README.md)                            | :lock: | Medium |                |        |
 | 579 | [Find Cumulative Salary of an Employee](./problems/500-599/579/README.md)                       | :lock: | Hard   |                |        |
 | 580 | [Count Student Number in Departments](./problems/500-599/580/README.md)                         | :lock: | Medium |                |        |
-| 581 | [Shortest Unsorted Continuous Subarray](./problems/500-599/581/README.md)                       |        | Easy   |                |        |
+| 581 | [Shortest Unsorted Continuous Subarray](./problems/500-599/581/README.md)                       | :o:    | Easy   | [array]        |        |
 | 582 | [Kill Process](./problems/500-599/582/README.md)                                                | :lock: | Medium |                |        |
 | 583 | [Delete Operation for Two Strings](./problems/500-599/583/README.md)                            |        | Medium |                |        |
 | 584 | [Find Customer Referee](./problems/500-599/584/README.md)                                       | :lock: | Easy   |                |        |

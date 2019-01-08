@@ -594,7 +594,7 @@
 | 572 | [Subtree of Another Tree](./problems/500-599/572/README.md)                                     | :o:    | Easy   | [tree]         |        |
 | 573 | [Squirrel Simulation](./problems/500-599/573/README.md)                                         | :lock: | Medium |                |        |
 | 574 | [Winning Candidate](./problems/500-599/574/README.md)                                           | :lock: | Medium |                |        |
-| 575 | [Distribute Candies](./problems/500-599/575/README.md)                                          |        | Easy   |                |        |
+| 575 | [Distribute Candies](./problems/500-599/575/README.md)                                          | :o:    | Easy   | [hash]         |        |
 | 576 | [Out of Boundary Paths](./problems/500-599/576/README.md)                                       |        | Medium |                |        |
 | 577 | [Employee Bonus](./problems/500-599/577/README.md)                                              | :lock: | Easy   |                |        |
 | 578 | [Get Highest Answer Rate Question](./problems/500-599/578/README.md)                            | :lock: | Medium |                |        |

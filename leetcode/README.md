@@ -614,7 +614,7 @@
 | 591 | [Tag Validator](./problems/500-599/591/README.md)                                               |        | Hard   |                |        |
 | 592 | [Fraction Addition and Subtraction](./problems/500-599/592/README.md)                           |        | Medium |                |        |
 | 593 | [Valid Square](./problems/500-599/593/README.md)                                                |        | Medium |                |        |
-| 594 | [Longest Harmonious Subsequence](./problems/500-599/594/README.md)                              |        | Easy   |                |        |
+| 594 | [Longest Harmonious Subsequence](./problems/500-599/594/README.md)                              | :o:    | Easy   | [hash]         |        |
 | 595 | [Big Countries](./problems/500-599/595/README.md)                                               | :soon: | Easy   | [sql]          |        |
 | 596 | [Classes More Than 5 Students](./problems/500-599/596/README.md)                                | :soon: | Easy   | [sql]          |        |
 | 597 | [Friend Requests I: Overall Acceptance Rate](./problems/500-599/597/README.md)                  | :lock: | Easy   |                |        |

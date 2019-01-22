@@ -625,7 +625,7 @@
 | 602 | [Friend Requests II: Who Has the Most Friends](./problems/600-699/602/README.md)                | :lock: | Medium |                |        |
 | 603 | [Consecutive Available Seats](./problems/600-699/603/README.md)                                 | :lock: | Easy   |                |        |
 | 604 | [Design Compressed String Iterator](./problems/600-699/604/README.md)                           | :lock: | Easy   |                |        |
-| 605 | [Can Place Flowers](./problems/600-699/605/README.md)                                           |        | Easy   |                |        |
+| 605 | [Can Place Flowers](./problems/600-699/605/README.md)                                           | :o:    | Easy   | [array]        |        |
 | 606 | [Construct String from Binary Tree](./problems/600-699/606/README.md)                           |        | Easy   |                |        |
 | 607 | [Sales Person](./problems/600-699/607/README.md)                                                | :lock: | Easy   |                |        |
 | 608 | [Tree Node](./problems/600-699/608/README.md)                                                   | :lock: | Medium |                |        |

@@ -608,8 +608,8 @@
 | 586 | [Customer Placing the Largest Number of Orders](./problems/500-599/586/README.md)               | :lock: | Easy   |                |        |
 | 587 | [Erect the Fence](./problems/500-599/587/README.md)                                             |        | Hard   |                |        |
 | 588 | [Design In-Memory File System](./problems/500-599/588/README.md)                                | :lock: | Hard   |                |        |
-| 589 | [N-ary Tree Preorder Traversal](./problems/500-599/589/README.md)                               |        | Easy   |                |        |
-| 590 | [N-ary Tree Postorder Traversal](./problems/500-599/590/README.md)                              |        | Easy   |                |        |
+| 589 | [N-ary Tree Preorder Traversal](./problems/500-599/589/README.md)                               | :o:    | Easy   | [tree]         |        |
+| 590 | [N-ary Tree Postorder Traversal](./problems/500-599/590/README.md) | :o: | Easy | [tree] |   |
 | 591 | [Tag Validator](./problems/500-599/591/README.md)                                               |        | Hard   |                |        |
 | 592 | [Fraction Addition and Subtraction](./problems/500-599/592/README.md)                           |        | Medium |                |        |
 | 593 | [Valid Square](./problems/500-599/593/README.md)                                                |        | Medium |                |        |

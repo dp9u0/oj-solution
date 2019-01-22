@@ -618,7 +618,7 @@
 | 595 | [Big Countries](./problems/500-599/595/README.md)                                               | :soon: | Easy   | [sql]          |        |
 | 596 | [Classes More Than 5 Students](./problems/500-599/596/README.md)                                | :soon: | Easy   | [sql]          |        |
 | 597 | [Friend Requests I: Overall Acceptance Rate](./problems/500-599/597/README.md)                  | :lock: | Easy   |                |        |
-| 598 | [Range Addition II](./problems/500-599/598/README.md)                                           |        | Easy   |                |        |
+| 598 | [Range Addition II](./problems/500-599/598/README.md)                                           | :o:    | Easy   | [math]         | :-1:   |
 | 599 | [Minimum Index Sum of Two Lists](./problems/500-599/599/README.md)                              |        | Easy   |                |        |
 | 600 | [Non-negative Integers without Consecutive Ones](./problems/600-699/600/README.md)              |        | Hard   |                |        |
 | 601 | [Human Traffic of Stadium](./problems/600-699/601/README.md)                                    | :soon: | Hard   | [sql]          |        |

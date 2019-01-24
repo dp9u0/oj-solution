@@ -626,7 +626,7 @@
 | 603 | [Consecutive Available Seats](./problems/600-699/603/README.md)                                 | :lock: | Easy   |                |        |
 | 604 | [Design Compressed String Iterator](./problems/600-699/604/README.md)                           | :lock: | Easy   |                |        |
 | 605 | [Can Place Flowers](./problems/600-699/605/README.md)                                           | :o:    | Easy   | [array]        |        |
-| 606 | [Construct String from Binary Tree](./problems/600-699/606/README.md)                           |        | Easy   |                |        |
+| 606 | [Construct String from Binary Tree](./problems/600-699/606/README.md)                           | :o:    | Easy   | [tree]         |        |
 | 607 | [Sales Person](./problems/600-699/607/README.md)                                                | :lock: | Easy   |                |        |
 | 608 | [Tree Node](./problems/600-699/608/README.md)                                                   | :lock: | Medium |                |        |
 | 609 | [Find Duplicate File in System](./problems/600-699/609/README.md)                               |        | Medium |                |        |

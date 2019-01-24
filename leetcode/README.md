@@ -637,7 +637,7 @@
 | 614 | [Second Degree Follower](./problems/600-699/614/README.md)                                      | :lock: | Medium |                |        |
 | 615 | [Average Salary: Departments VS Company](./problems/600-699/615/README.md)                      | :lock: | Hard   |                |        |
 | 616 | [Add Bold Tag in String](./problems/600-699/616/README.md)                                      | :lock: | Medium |                |        |
-| 617 | [Merge Two Binary Trees](./problems/600-699/617/README.md)                                      |        | Easy   |                |        |
+| 617 | [Merge Two Binary Trees](./problems/600-699/617/README.md)                                      | :o:    | Easy   | [tree]         |        |
 | 618 | [Students Report By Geography](./problems/600-699/618/README.md)                                | :lock: | Hard   |                |        |
 | 619 | [Biggest Single Number](./problems/600-699/619/README.md)                                       | :lock: | Easy   |                |        |
 | 620 | [Not Boring Movies](./problems/600-699/620/README.md)                                           | :soon: | Easy   | [sql]          |        |

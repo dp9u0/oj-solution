@@ -665,7 +665,7 @@
 | 642 | [Design Search Autocomplete System](./problems/600-699/642/README.md)                           | :lock: | Hard   |                |        |
 | 643 | [Maximum Average Subarray I](./problems/600-699/643/README.md)                                  | :o:    | Easy   | [array]        |        |
 | 644 | [Maximum Average Subarray II](./problems/600-699/644/README.md)                                 | :lock: | Hard   |                |        |
-| 645 | [Set Mismatch](./problems/600-699/645/README.md)                                                |        | Easy   |                |        |
+| 645 | [Set Mismatch](./problems/600-699/645/README.md)                                                | :o:    | Easy   | [array]        |        |
 | 646 | [Maximum Length of Pair Chain](./problems/600-699/646/README.md)                                |        | Medium |                |        |
 | 647 | [Palindromic Substrings](./problems/600-699/647/README.md)                                      |        | Medium |                |        |
 | 648 | [Replace Words](./problems/600-699/648/README.md)                                               |        | Medium |                |        |

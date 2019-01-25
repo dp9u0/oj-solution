@@ -702,7 +702,7 @@
 | 679 | [24 Game](./problems/600-699/679/README.md)                                                     |        | Hard   |                |        |
 | 680 | [Valid Palindrome II](./problems/600-699/680/README.md)                                         | :o:    | Easy   | [array]        |        |
 | 681 | [Next Closest Time](./problems/600-699/681/README.md)                                           | :lock: | Medium |                |        |
-| 682 | [Baseball Game](./problems/600-699/682/README.md)                                               |        | Easy   |                |        |
+| 682 | [Baseball Game](./problems/600-699/682/README.md)                                               | :o:    | Easy   | [stack]        |        |
 | 683 | [K Empty Slots](./problems/600-699/683/README.md)                                               | :lock: | Hard   |                |        |
 | 684 | [Redundant Connection](./problems/600-699/684/README.md)                                        |        | Medium |                |        |
 | 685 | [Redundant Connection II](./problems/600-699/685/README.md)                                     |        | Hard   |                |        |

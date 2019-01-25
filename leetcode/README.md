@@ -194,7 +194,7 @@
 | 166 | [Fraction to Recurring Decimal](./problems/100-199/166/README.md)                               |        | Medium |                |        |
 | 167 | [Two Sum II - Input array is sorted](./problems/100-199/167/README.md)                          | :o:    | Easy   | [tp]           |        |
 | 168 | [Excel Sheet Column Title](./problems/100-199/168/README.md)                                    | :o:    | Easy   | [array]        |        |
-| 169 | [Majority Element](./problems/100-199/169/README.md)                                            | :o:    | Easy   | [array]        |        |
+| 169 | [Majority Element](./problems/100-199/169/README.md)                                            | :o:    | Easy   | [array]        | :+1:   |
 | 170 | [Two Sum III - Data structure design](./problems/100-199/170/README.md)                         | :lock: | Easy   |                |        |
 | 171 | [Excel Sheet Column Number](./problems/100-199/171/README.md)                                   | :o:    | Easy   | [array]        |        |
 | 172 | [Factorial Trailing Zeroes](./problems/100-199/172/README.md)                                   | :o:    | Easy   | [math]         | :+1:   |
@@ -677,7 +677,7 @@
 | 654 | [Maximum Binary Tree](./problems/600-699/654/README.md)                                         |        | Medium |                |        |
 | 655 | [Print Binary Tree](./problems/600-699/655/README.md)                                           |        | Medium |                |        |
 | 656 | [Coin Path](./problems/600-699/656/README.md)                                                   | :lock: | Hard   |                |        |
-| 657 | [Robot Return to Origin](./problems/600-699/657/README.md)                                      |        | Easy   |                |        |
+| 657 | [Robot Return to Origin](./problems/600-699/657/README.md)                                      | :o:    | Easy   | [array]        |        |
 | 658 | [Find K Closest Elements](./problems/600-699/658/README.md)                                     |        | Medium |                |        |
 | 659 | [Split Array into Consecutive Subsequences](./problems/600-699/659/README.md)                   |        | Medium |                |        |
 | 660 | [Remove 9](./problems/600-699/660/README.md)                                                    | :lock: | Hard   |                |        |

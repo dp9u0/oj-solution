@@ -663,7 +663,7 @@
 | 640 | [Solve the Equation](./problems/600-699/640/README.md)                                          |        | Medium |                |        |
 | 641 | [Design Circular Deque](./problems/600-699/641/README.md)                                       |        | Medium |                |        |
 | 642 | [Design Search Autocomplete System](./problems/600-699/642/README.md)                           | :lock: | Hard   |                |        |
-| 643 | [Maximum Average Subarray I](./problems/600-699/643/README.md)                                  |        | Easy   |                |        |
+| 643 | [Maximum Average Subarray I](./problems/600-699/643/README.md)                                  | :o:    | Easy   | [array]        |        |
 | 644 | [Maximum Average Subarray II](./problems/600-699/644/README.md)                                 | :lock: | Hard   |                |        |
 | 645 | [Set Mismatch](./problems/600-699/645/README.md)                                                |        | Easy   |                |        |
 | 646 | [Maximum Length of Pair Chain](./problems/600-699/646/README.md)                                |        | Medium |                |        |

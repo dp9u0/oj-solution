@@ -691,7 +691,7 @@
 | 668 | [Kth Smallest Number in Multiplication Table](./problems/600-699/668/README.md)                 |        | Hard   |                |        |
 | 669 | [Trim a Binary Search Tree](./problems/600-699/669/README.md)                                   | :o:    | Easy   | [tree]         |        |
 | 670 | [Maximum Swap](./problems/600-699/670/README.md)                                                |        | Medium |                |        |
-| 671 | [Second Minimum Node In a Binary Tree](./problems/600-699/671/README.md)                        |        | Easy   |                |        |
+| 671 | [Second Minimum Node In a Binary Tree](./problems/600-699/671/README.md)                        | :o:    | Easy   | [tree]         |        |
 | 672 | [Bulb Switcher II](./problems/600-699/672/README.md)                                            |        | Medium |                |        |
 | 673 | [Number of Longest Increasing Subsequence](./problems/600-699/673/README.md)                    |        | Medium |                |        |
 | 674 | [Longest Continuous Increasing Subsequence](./problems/600-699/674/README.md)                   |        | Easy   |                |        |

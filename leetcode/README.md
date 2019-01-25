@@ -689,7 +689,7 @@
 | 666 | [Path Sum IV](./problems/600-699/666/README.md)                                                 | :lock: | Medium |                |        |
 | 667 | [Beautiful Arrangement II](./problems/600-699/667/README.md)                                    |        | Medium |                |        |
 | 668 | [Kth Smallest Number in Multiplication Table](./problems/600-699/668/README.md)                 |        | Hard   |                |        |
-| 669 | [Trim a Binary Search Tree](./problems/600-699/669/README.md)                                   |        | Easy   |                |        |
+| 669 | [Trim a Binary Search Tree](./problems/600-699/669/README.md)                                   | :o:    | Easy   | [tree]         |        |
 | 670 | [Maximum Swap](./problems/600-699/670/README.md)                                                |        | Medium |                |        |
 | 671 | [Second Minimum Node In a Binary Tree](./problems/600-699/671/README.md)                        |        | Easy   |                |        |
 | 672 | [Bulb Switcher II](./problems/600-699/672/README.md)                                            |        | Medium |                |        |

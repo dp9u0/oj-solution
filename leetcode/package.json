@@ -1,7 +1,7 @@
 {
-  "name": "leet-code",
+  "name": "leetcode",
   "version": "1.0.0",
-  "description": "leetcode problems",
+  "description": "leetcode problems and solutions",
   "main": "index.js",
   "scripts": {
     "start": "node scripts/start.js",

@@ -694,7 +694,7 @@
 | 671 | [Second Minimum Node In a Binary Tree](./problems/600-699/671/README.md)                        | :o:    | Easy   | [tree]         |        |
 | 672 | [Bulb Switcher II](./problems/600-699/672/README.md)                                            |        | Medium |                |        |
 | 673 | [Number of Longest Increasing Subsequence](./problems/600-699/673/README.md)                    |        | Medium |                |        |
-| 674 | [Longest Continuous Increasing Subsequence](./problems/600-699/674/README.md)                   |        | Easy   |                |        |
+| 674 | [Longest Continuous Increasing Subsequence](./problems/600-699/674/README.md)                   | :o:    | Easy   | [array]        |        |
 | 675 | [Cut Off Trees for Golf Event](./problems/600-699/675/README.md)                                |        | Hard   |                |        |
 | 676 | [Implement Magic Dictionary](./problems/600-699/676/README.md)                                  |        | Medium |                |        |
 | 677 | [Map Sum Pairs](./problems/600-699/677/README.md)                                               |        | Medium |                |        |

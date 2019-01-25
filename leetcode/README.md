@@ -681,7 +681,7 @@
 | 658 | [Find K Closest Elements](./problems/600-699/658/README.md)                                     |        | Medium |                |        |
 | 659 | [Split Array into Consecutive Subsequences](./problems/600-699/659/README.md)                   |        | Medium |                |        |
 | 660 | [Remove 9](./problems/600-699/660/README.md)                                                    | :lock: | Hard   |                |        |
-| 661 | [Image Smoother](./problems/600-699/661/README.md)                                              |        | Easy   |                |        |
+| 661 | [Image Smoother](./problems/600-699/661/README.md)                                              | :o:    | Easy   | [array]        |        |
 | 662 | [Maximum Width of Binary Tree](./problems/600-699/662/README.md)                                | :o:    | Medium | [dfs]          |        |
 | 663 | [Equal Tree Partition](./problems/600-699/663/README.md)                                        | :lock: | Medium |                |        |
 | 664 | [Strange Printer](./problems/600-699/664/README.md)                                             |        | Hard   |                |        |

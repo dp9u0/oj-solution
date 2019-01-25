@@ -653,7 +653,7 @@
 | 630 | [Course Schedule III](./problems/600-699/630/README.md)                                         |        | Hard   |                |        |
 | 631 | [Design Excel Sum Formula](./problems/600-699/631/README.md)                                    | :lock: | Hard   |                |        |
 | 632 | [Smallest Range](./problems/600-699/632/README.md)                                              |        | Hard   |                |        |
-| 633 | [Sum of Square Numbers](./problems/600-699/633/README.md)                                       |        | Easy   |                |        |
+| 633 | [Sum of Square Numbers](./problems/600-699/633/README.md)                                       | :o:    | Easy   | [math]         |        |
 | 634 | [Find the Derangement of An Array](./problems/600-699/634/README.md)                            | :lock: | Medium |                |        |
 | 635 | [Design Log Storage System](./problems/600-699/635/README.md)                                   | :lock: | Medium |                |        |
 | 636 | [Exclusive Time of Functions](./problems/600-699/636/README.md)                                 |        | Medium |                |        |

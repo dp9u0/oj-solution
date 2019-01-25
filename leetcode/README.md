@@ -657,7 +657,7 @@
 | 634 | [Find the Derangement of An Array](./problems/600-699/634/README.md)                            | :lock: | Medium |                |        |
 | 635 | [Design Log Storage System](./problems/600-699/635/README.md)                                   | :lock: | Medium |                |        |
 | 636 | [Exclusive Time of Functions](./problems/600-699/636/README.md)                                 |        | Medium |                |        |
-| 637 | [Average of Levels in Binary Tree](./problems/600-699/637/README.md)                            |        | Easy   |                |        |
+| 637 | [Average of Levels in Binary Tree](./problems/600-699/637/README.md)                            | :o:    | Easy   | [tree]         |        |
 | 638 | [Shopping Offers](./problems/600-699/638/README.md)                                             |        | Medium |                |        |
 | 639 | [Decode Ways II](./problems/600-699/639/README.md)                                              |        | Hard   |                |        |
 | 640 | [Solve the Equation](./problems/600-699/640/README.md)                                          |        | Medium |                |        |

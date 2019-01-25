@@ -685,7 +685,7 @@
 | 662 | [Maximum Width of Binary Tree](./problems/600-699/662/README.md)                                | :o:    | Medium | [dfs]          |        |
 | 663 | [Equal Tree Partition](./problems/600-699/663/README.md)                                        | :lock: | Medium |                |        |
 | 664 | [Strange Printer](./problems/600-699/664/README.md)                                             |        | Hard   |                |        |
-| 665 | [Non-decreasing Array](./problems/600-699/665/README.md)                                        |        | Easy   |                |        |
+| 665 | [Non-decreasing Array](./problems/600-699/665/README.md)                                        | :o:    | Easy   | [array]        |        |
 | 666 | [Path Sum IV](./problems/600-699/666/README.md)                                                 | :lock: | Medium |                |        |
 | 667 | [Beautiful Arrangement II](./problems/600-699/667/README.md)                                    |        | Medium |                |        |
 | 668 | [Kth Smallest Number in Multiplication Table](./problems/600-699/668/README.md)                 |        | Hard   |                |        |

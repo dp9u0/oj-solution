@@ -81,7 +81,7 @@ module.exports.markdown = function (data) {
         break;
       }
     } else if (line && line[0] === '*') {
-      if (line.indexOf("* Source Code:") === -1) {
+      if (line.indexOf("* Source Code:") === -1&&line.indexOf("* Total Accepted:") === -1&&line.indexOf("* Total Submissions:") === -1) {
         markdown += `${line}\n`
       }
     } else if (/^https:\/\/leetcode.com\/problems.+/.test(line)) {

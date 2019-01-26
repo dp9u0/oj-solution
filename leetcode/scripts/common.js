@@ -81,8 +81,12 @@ module.exports.markdown = function (data) {
         break;
       }
     } else if (line && line[0] === '*') {
-      markdown += `${line}\n`
-    } else if (!/^https:\/\/leetcode.com\/problems.+/.test(line)) {
+      if (line.indexOf("* Source Code:") === -1) {
+        markdown += `${line}\n`
+      }
+    } else if (/^https:\/\/leetcode.com\/problems.+/.test(line)) {
+      markdown += `[LeetCode Problem Description](${line})\n\n`;
+    } else {
       if (!startCode) {
         markdown += "\n```md\n";
         startCode = true;
@@ -95,7 +99,7 @@ module.exports.markdown = function (data) {
   return markdown;
 }
 
-module.exports.readme = function (problem, topics = '', status = '', remark = '',callback) {
+module.exports.readme = function (problem, topics = '', status = '', remark = '', callback) {
   const MarkdownBakName = README_PATH + '.bak.md';
   fs.copyFileSync(README_PATH, MarkdownBakName);
   fs.unlinkSync(README_PATH);
@@ -125,7 +129,7 @@ module.exports.readme = function (problem, topics = '', status = '', remark = ''
       let newLine = `| ${problem} | [${problem}](${md}) | ${status} | Level | ${topics} | ${remark}  |`;
       writer.write(newLine + os.EOL); // 下一行
     }
-    if(callback){
+    if (callback) {
       callback()
     }
   });

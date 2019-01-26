@@ -706,7 +706,7 @@
 | 683 | [K Empty Slots](./problems/600-699/683/README.md)                                               | :lock: | Hard   |                |        |
 | 684 | [Redundant Connection](./problems/600-699/684/README.md)                                        |        | Medium |                |        |
 | 685 | [Redundant Connection II](./problems/600-699/685/README.md)                                     |        | Hard   |                |        |
-| 686 | [Repeated String Match](./problems/600-699/686/README.md)                                       |        | Easy   |                |        |
+| 686 | [Repeated String Match](./problems/600-699/686/README.md)                                       | :o:    | Easy   | [str]          |        |
 | 687 | [Longest Univalue Path](./problems/600-699/687/README.md)                                       |        | Easy   |                |        |
 | 688 | [Knight Probability in Chessboard](./problems/600-699/688/README.md)                            |        | Medium |                |        |
 | 689 | [Maximum Sum of 3 Non-Overlapping Subarrays](./problems/600-699/689/README.md)                  |        | Hard   |                |        |

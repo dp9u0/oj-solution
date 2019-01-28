@@ -720,7 +720,7 @@
 | 697 | [Degree of an Array](./problems/600-699/697/README.md)                                          | :o:    | Easy   | [hash]         |        |
 | 698 | [Partition to K Equal Sum Subsets](./problems/600-699/698/README.md)                            |        | Medium |                |        |
 | 699 | [Falling Squares](./problems/600-699/699/README.md)                                             |        | Hard   |                |        |
-| 700 | [Search in a Binary Search Tree](./problems/700-799/700/README.md)                              |        | Easy   |                |        |
+| 700 | [Search in a Binary Search Tree](./problems/700-799/700/README.md)                              | :o:    | Easy   | [tree]         |        |
 | 701 | [Insert into a Binary Search Tree](./problems/700-799/701/README.md)                            |        | Medium |                |        |
 | 702 | [Search in a Sorted Array of Unknown Size](./problems/700-799/702/README.md)                    | :lock: | Medium |                |        |
 | 703 | [Kth Largest Element in a Stream](./problems/700-799/703/README.md)                             |        | Easy   |                |        |

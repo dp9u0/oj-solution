@@ -723,7 +723,7 @@
 | 700 | [Search in a Binary Search Tree](./problems/700-799/700/README.md)                              | :o:    | Easy   | [tree]         |        |
 | 701 | [Insert into a Binary Search Tree](./problems/700-799/701/README.md)                            |        | Medium |                |        |
 | 702 | [Search in a Sorted Array of Unknown Size](./problems/700-799/702/README.md)                    | :lock: | Medium |                |        |
-| 703 | [Kth Largest Element in a Stream](./problems/700-799/703/README.md)                             |        | Easy   |                |        |
+| 703 | [Kth Largest Element in a Stream](./problems/700-799/703/README.md)                             | :o:    | Easy   | [design]       |        |
 | 704 | [Binary Search](./problems/700-799/704/README.md)                                               |        | Easy   |                |        |
 | 705 | [Design HashSet](./problems/700-799/705/README.md)                                              |        | Easy   |                |        |
 | 706 | [Design HashMap](./problems/700-799/706/README.md)                                              |        | Easy   |                |        |

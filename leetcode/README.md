@@ -13,6 +13,7 @@
 * dc : divide_and_conquer 分治
 * dp : dynamic_programming
 * greedy : 贪心
+* graph : 图算法
 * hash
 * heap
 * ll : linked_list
@@ -727,7 +728,7 @@
 | 704 | [Binary Search](./problems/700-799/704/README.md)                                               | :o:    | Easy   | [bs]           |        |
 | 705 | [Design HashSet](./problems/700-799/705/README.md)                                              | :o:    | Easy   | [hash]         |        |
 | 706 | [Design HashMap](./problems/700-799/706/README.md)                                              | :o:    | Easy   | [hash]         |        |
-| 707 | [Design Linked List](./problems/700-799/707/README.md)                                          |        | Easy   |                |        |
+| 707 | [Design Linked List](./problems/700-799/707/README.md)                                          | :o:    | Easy   | [ll]           |        |
 | 708 | [Insert into a Cyclic Sorted List](./problems/700-799/708/README.md)                            | :lock: | Medium |                |        |
 | 709 | [To Lower Case](./problems/700-799/709/README.md)                                               | :o:    | Easy   | [str]          |        |
 | 710 | [Random Pick with Blacklist](./problems/700-799/710/README.md)                                  |        | Hard   |                |        |
@@ -744,7 +745,7 @@
 | 721 | [Accounts Merge](./problems/700-799/721/README.md)                                              |        | Medium |                |        |
 | 722 | [Remove Comments](./problems/700-799/722/README.md)                                             |        | Medium |                |        |
 | 723 | [Candy Crush](./problems/700-799/723/README.md)                                                 | :lock: | Medium |                |        |
-| 724 | [Find Pivot Index](./problems/700-799/724/README.md)                                            |        | Easy   |                |        |
+| 724 | [Find Pivot Index](./problems/700-799/724/README.md)                                            | :o:    | Easy   | [array]        |        |
 | 725 | [Split Linked List in Parts](./problems/700-799/725/README.md)                                  |        | Medium |                |        |
 | 726 | [Number of Atoms](./problems/700-799/726/README.md)                                             |        | Hard   |                |        |
 | 727 | [Minimum Window Subsequence](./problems/700-799/727/README.md)                                  | :lock: | Hard   |                |        |
@@ -753,7 +754,7 @@
 | 730 | [Count Different Palindromic Subsequences](./problems/700-799/730/README.md)                    |        | Hard   |                |        |
 | 731 | [My Calendar II](./problems/700-799/731/README.md)                                              |        | Medium |                |        |
 | 732 | [My Calendar III](./problems/700-799/732/README.md)                                             |        | Hard   |                |        |
-| 733 | [Flood Fill](./problems/700-799/733/README.md)                                                  |        | Easy   |                |        |
+| 733 | [Flood Fill](./problems/700-799/733/README.md)                                                  | :o:    | Easy   | [bfs]          |        |
 | 734 | [Sentence Similarity](./problems/700-799/734/README.md)                                         | :lock: | Easy   |                |        |
 | 735 | [Asteroid Collision](./problems/700-799/735/README.md)                                          |        | Medium |                |        |
 | 736 | [Parse Lisp Expression](./problems/700-799/736/README.md)                                       |        | Hard   |                |        |
@@ -763,7 +764,7 @@
 | 740 | [Delete and Earn](./problems/700-799/740/README.md)                                             |        | Medium |                |        |
 | 741 | [Cherry Pickup](./problems/700-799/741/README.md)                                               |        | Hard   |                |        |
 | 742 | [Closest Leaf in a Binary Tree](./problems/700-799/742/README.md)                               | :lock: | Medium |                |        |
-| 743 | [Network Delay Time](./problems/700-799/743/README.md)                                          |        | Easy   |                |        |
+| 743 | [Network Delay Time](./problems/700-799/743/README.md)                                          | :o:    | Easy   | [graph]        |        |
 | 744 | [Find Smallest Letter Greater Than Target](./problems/700-799/744/README.md)                    |        | Easy   |                |        |
 | 745 | [Prefix and Suffix Search](./problems/700-799/745/README.md)                                    |        | Hard   |                |        |
 | 746 | [Min Cost Climbing Stairs](./problems/700-799/746/README.md)                                    |        | Easy   |                |        |

@@ -34,12 +34,12 @@ if (!common.started()) {
   common.removeCurrent();
   common.readme(problem, topics, ':o:', remark);
   setTimeout(() => {
-    execSync('git add .', {
-      stdio: 'inherit'
-    });
-    execSync('git commit -m ' + `"#${problem}"`, {
-      stdio: 'inherit'
-    });
+    // execSync('git add .', {
+    //   stdio: 'inherit'
+    // });
+    // execSync('git commit -m ' + `"#${problem}"`, {
+    //   stdio: 'inherit'
+    // });
     // execSync('git push ', {
     //   stdio: 'inherit'
     // });

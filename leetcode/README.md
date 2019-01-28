@@ -737,10 +737,10 @@
 | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](./problems/700-799/714/README.md)        |        | Medium |                |        |
 | 715 | [Range Module](./problems/700-799/715/README.md)                                                |        | Hard   |                |        |
 | 716 | [Max Stack](./problems/700-799/716/README.md)                                                   | :lock: | Easy   |                |        |
-| 717 | [1-bit and 2-bit Characters](./problems/700-799/717/README.md) | :o: | Easy | [str] |   |
+| 717 | [1-bit and 2-bit Characters](./problems/700-799/717/README.md)                                  | :o:    | Easy   | [str]          |        |
 | 718 | [Maximum Length of Repeated Subarray](./problems/700-799/718/README.md)                         |        | Medium |                |        |
 | 719 | [Find K-th Smallest Pair Distance](./problems/700-799/719/README.md)                            |        | Hard   |                |        |
-| 720 | [Longest Word in Dictionary](./problems/700-799/720/README.md)                                  |        | Easy   |                |        |
+| 720 | [Longest Word in Dictionary](./problems/700-799/720/README.md) | :o: | Easy | [hash] |   |
 | 721 | [Accounts Merge](./problems/700-799/721/README.md)                                              |        | Medium |                |        |
 | 722 | [Remove Comments](./problems/700-799/722/README.md)                                             |        | Medium |                |        |
 | 723 | [Candy Crush](./problems/700-799/723/README.md)                                                 | :lock: | Medium |                |        |

@@ -32,9 +32,7 @@ if (!common.started()) {
   fs.unlinkSync(jsPath);
   fs.unlinkSync(markdownPath);
   common.removeCurrent();
-  common.readme(problem, topics, ':o:', remark, () => {
-
-  });
+  common.readme(problem, topics, ':o:', remark);
   setTimeout(() => {
     execSync('git add .', {
       stdio: 'inherit'
@@ -45,10 +43,11 @@ if (!common.started()) {
     execSync('git push ', {
       stdio: 'inherit'
     });
-  }, 1000);
+  }, 3000);
   if (remark === ':+1:') {
     execSync(`leetcode star ${problem}`, {
       stdio: 'inherit'
     });
   }
+
 }

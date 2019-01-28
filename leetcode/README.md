@@ -713,7 +713,7 @@
 | 690 | [Employee Importance](./problems/600-699/690/README.md)                                         | :o:    | Easy   | [hash]         |        |
 | 691 | [Stickers to Spell Word](./problems/600-699/691/README.md)                                      |        | Hard   |                |        |
 | 692 | [Top K Frequent Words](./problems/600-699/692/README.md)                                        |        | Medium |                |        |
-| 693 | [Binary Number with Alternating Bits](./problems/600-699/693/README.md)                         |        | Easy   |                |        |
+| 693 | [Binary Number with Alternating Bits](./problems/600-699/693/README.md)                         | :o:    | Easy   | [bit]          |        |
 | 694 | [Number of Distinct Islands](./problems/600-699/694/README.md)                                  | :lock: | Medium |                |        |
 | 695 | [Max Area of Island](./problems/600-699/695/README.md)                                          |        | Medium |                |        |
 | 696 | [Count Binary Substrings](./problems/600-699/696/README.md)                                     |        | Easy   |                |        |

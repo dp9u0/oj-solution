@@ -12,7 +12,7 @@
     "todo": "node scripts/todo.js",
     "lock": "node scripts/lock.js",
     "list": "leetcode list -t algorithms -q LDe",
-    "stat": "leetcode stat --no-lock -t algorithms -g && leetcode stat --no-lock -t algorithms && leetcode stat -c"
+    "stat": "leetcode stat --no-lock -t algorithms -g && leetcode stat --no-lock -t algorithms"
   },
   "author": "",
   "license": "MIT"

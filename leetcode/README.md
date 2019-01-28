@@ -710,7 +710,7 @@
 | 687 | [Longest Univalue Path](./problems/600-699/687/README.md)                                       | :o:    | Easy   | [tree]         |        |
 | 688 | [Knight Probability in Chessboard](./problems/600-699/688/README.md)                            |        | Medium |                |        |
 | 689 | [Maximum Sum of 3 Non-Overlapping Subarrays](./problems/600-699/689/README.md)                  |        | Hard   |                |        |
-| 690 | [Employee Importance](./problems/600-699/690/README.md)                                         |        | Easy   |                |        |
+| 690 | [Employee Importance](./problems/600-699/690/README.md)                                         | :o:    | Easy   | [hash]         |        |
 | 691 | [Stickers to Spell Word](./problems/600-699/691/README.md)                                      |        | Hard   |                |        |
 | 692 | [Top K Frequent Words](./problems/600-699/692/README.md)                                        |        | Medium |                |        |
 | 693 | [Binary Number with Alternating Bits](./problems/600-699/693/README.md)                         |        | Easy   |                |        |

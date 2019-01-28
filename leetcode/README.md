@@ -717,7 +717,7 @@
 | 694 | [Number of Distinct Islands](./problems/600-699/694/README.md)                                  | :lock: | Medium |                |        |
 | 695 | [Max Area of Island](./problems/600-699/695/README.md)                                          |        | Medium |                |        |
 | 696 | [Count Binary Substrings](./problems/600-699/696/README.md)                                     | :o:    | Easy   | [array]        | :+1:   |
-| 697 | [Degree of an Array](./problems/600-699/697/README.md)                                          |        | Easy   |                |        |
+| 697 | [Degree of an Array](./problems/600-699/697/README.md)                                          | :o:    | Easy   | [hash]         |        |
 | 698 | [Partition to K Equal Sum Subsets](./problems/600-699/698/README.md)                            |        | Medium |                |        |
 | 699 | [Falling Squares](./problems/600-699/699/README.md)                                             |        | Hard   |                |        |
 | 700 | [Search in a Binary Search Tree](./problems/700-799/700/README.md)                              |        | Easy   |                |        |

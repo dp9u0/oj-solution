@@ -725,7 +725,7 @@
 | 702 | [Search in a Sorted Array of Unknown Size](./problems/700-799/702/README.md)                    | :lock: | Medium |                |        |
 | 703 | [Kth Largest Element in a Stream](./problems/700-799/703/README.md)                             | :o:    | Easy   | [design]       |        |
 | 704 | [Binary Search](./problems/700-799/704/README.md)                                               | :o:    | Easy   | [bs]           |        |
-| 705 | [Design HashSet](./problems/700-799/705/README.md)                                              |        | Easy   |                |        |
+| 705 | [Design HashSet](./problems/700-799/705/README.md) | :o: | Easy | [hash] |   |
 | 706 | [Design HashMap](./problems/700-799/706/README.md)                                              |        | Easy   |                |        |
 | 707 | [Design Linked List](./problems/700-799/707/README.md)                                          |        | Easy   |                |        |
 | 708 | [Insert into a Cyclic Sorted List](./problems/700-799/708/README.md)                            | :lock: | Medium |                |        |

@@ -43,7 +43,7 @@ if (!common.started()) {
     execSync('git push ', {
       stdio: 'inherit'
     });
-  }, 3000);
+  }, 1000);
   if (remark === ':+1:') {
     execSync(`leetcode star ${problem}`, {
       stdio: 'inherit'

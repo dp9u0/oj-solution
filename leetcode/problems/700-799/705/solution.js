@@ -5,7 +5,7 @@ var MyHashSet = function () {
   this.payload = Array.from({
     length: 1000
   }, x => []);
-  this.map = function (num) {
+  this.f = function (num) {
     return num % 1000;
   }
 };
@@ -15,8 +15,7 @@ var MyHashSet = function () {
  * @return {void}
  */
 MyHashSet.prototype.add = function (key) {
-  let bucketIndex = this.map(key);
-  let bucket = this.payload[bucketIndex],
+  let bucket = this.payload[this.f(key)],
     index = bucket.indexOf(key);
   if (index === -1) bucket.push(key);
 };
@@ -26,8 +25,7 @@ MyHashSet.prototype.add = function (key) {
  * @return {void}
  */
 MyHashSet.prototype.remove = function (key) {
-  let bucketIndex = this.map(key);
-  let bucket = this.payload[bucketIndex],
+  let bucket = this.payload[this.f(key)],
     index = bucket.indexOf(key);
   if (index !== -1) bucket.splice(index, 1);
 };
@@ -38,8 +36,7 @@ MyHashSet.prototype.remove = function (key) {
  * @return {boolean}
  */
 MyHashSet.prototype.contains = function (key) {
-  let bucketIndex = this.map(key);
-  let array = this.payload[bucketIndex],
+  let array = this.payload[this.f(key)],
     index = array.indexOf(key);
   return index !== -1;
 };

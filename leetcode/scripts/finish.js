@@ -33,16 +33,19 @@ if (!common.started()) {
   fs.unlinkSync(markdownPath);
   common.removeCurrent();
   common.readme(problem, topics, ':o:', remark, () => {
-    // execSync('git add .', {
-    //   stdio: 'inherit'
-    // });
-    // execSync('git commit -m ' + `"#${problem}"`, {
-    //   stdio: 'inherit'
-    // });
-    // execSync('git push ', {
-    //   stdio: 'inherit'
-    // });
+
   });
+  setTimeout(() => {
+    execSync('git add .', {
+      stdio: 'inherit'
+    });
+    execSync('git commit -m ' + `"#${problem}"`, {
+      stdio: 'inherit'
+    });
+    execSync('git push ', {
+      stdio: 'inherit'
+    });
+  }, 1000);
   if (remark === ':+1:') {
     execSync(`leetcode star ${problem}`, {
       stdio: 'inherit'

@@ -725,8 +725,8 @@
 | 702 | [Search in a Sorted Array of Unknown Size](./problems/700-799/702/README.md)                    | :lock: | Medium |                |        |
 | 703 | [Kth Largest Element in a Stream](./problems/700-799/703/README.md)                             | :o:    | Easy   | [design]       |        |
 | 704 | [Binary Search](./problems/700-799/704/README.md)                                               | :o:    | Easy   | [bs]           |        |
-| 705 | [Design HashSet](./problems/700-799/705/README.md) | :o: | Easy | [hash] |   |
-| 706 | [Design HashMap](./problems/700-799/706/README.md) | :o: | Easy | [hash] |   |
+| 705 | [Design HashSet](./problems/700-799/705/README.md)                                              | :o:    | Easy   | [hash]         |        |
+| 706 | [Design HashMap](./problems/700-799/706/README.md)                                              | :o:    | Easy   | [hash]         |        |
 | 707 | [Design Linked List](./problems/700-799/707/README.md)                                          |        | Easy   |                |        |
 | 708 | [Insert into a Cyclic Sorted List](./problems/700-799/708/README.md)                            | :lock: | Medium |                |        |
 | 709 | [To Lower Case](./problems/700-799/709/README.md)                                               | :o:    | Easy   | [str]          |        |
@@ -740,7 +740,7 @@
 | 717 | [1-bit and 2-bit Characters](./problems/700-799/717/README.md)                                  | :o:    | Easy   | [str]          |        |
 | 718 | [Maximum Length of Repeated Subarray](./problems/700-799/718/README.md)                         |        | Medium |                |        |
 | 719 | [Find K-th Smallest Pair Distance](./problems/700-799/719/README.md)                            |        | Hard   |                |        |
-| 720 | [Longest Word in Dictionary](./problems/700-799/720/README.md) | :o: | Easy | [hash] |   |
+| 720 | [Longest Word in Dictionary](./problems/700-799/720/README.md)                                  | :o:    | Easy   | [hash]         |        |
 | 721 | [Accounts Merge](./problems/700-799/721/README.md)                                              |        | Medium |                |        |
 | 722 | [Remove Comments](./problems/700-799/722/README.md)                                             |        | Medium |                |        |
 | 723 | [Candy Crush](./problems/700-799/723/README.md)                                                 | :lock: | Medium |                |        |

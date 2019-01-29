@@ -775,7 +775,7 @@
 | 751 | [IP to CIDR](./problems/700-799/751/README.md)                                                  | :lock: | Easy   |                |        |
 | 752 | [Open the Lock](./problems/700-799/752/README.md)                                               |        | Medium |                |        |
 | 753 | [Cracking the Safe](./problems/700-799/753/README.md)                                           |        | Hard   |                |        |
-| 754 | [Reach a Number](./problems/700-799/754/README.md)                                              |        | Easy   |                |        |
+| 754 | [Reach a Number](./problems/700-799/754/README.md)                                              | :o:    | Easy   | [math]         |        |
 | 755 | [Pour Water](./problems/700-799/755/README.md)                                                  | :lock: | Medium |                |        |
 | 756 | [Pyramid Transition Matrix](./problems/700-799/756/README.md)                                   |        | Medium |                |        |
 | 757 | [Set Intersection Size At Least Two](./problems/700-799/757/README.md)                          |        | Hard   |                |        |

@@ -817,7 +817,7 @@
 | 793 | [Preimage Size of Factorial Zeroes Function](./problems/700-799/793/README.md)                  |        | Hard   |                |        |
 | 794 | [Valid Tic-Tac-Toe State](./problems/700-799/794/README.md)                                     |        | Medium |                |        |
 | 795 | [Number of Subarrays with Bounded Maximum](./problems/700-799/795/README.md)                    |        | Medium |                |        |
-| 796 | [Rotate String](./problems/700-799/796/README.md)                                               |        | Easy   |                |        |
+| 796 | [Rotate String](./problems/700-799/796/README.md)                                               | :o:    | Easy   | [str]          | :+1:   |
 | 797 | [All Paths From Source to Target](./problems/700-799/797/README.md)                             |        | Medium |                |        |
 | 798 | [Smallest Rotation with Highest Score](./problems/700-799/798/README.md)                        |        | Hard   |                |        |
 | 799 | [Champagne Tower](./problems/700-799/799/README.md)                                             |        | Medium |                |        |

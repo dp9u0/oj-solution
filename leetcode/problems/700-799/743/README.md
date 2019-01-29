@@ -22,6 +22,4 @@ All edges times[i] = (u, v, w) will have 1  and 1 .
 
 ## Solution
 
-dijkstra
-
 [SourceCode](./solution.js)

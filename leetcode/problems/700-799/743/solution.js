@@ -21,15 +21,29 @@ var networkDelayTime = function (times, N, K) {
   nodes[K].time = 0;
   let maxTime = 0;
   do {
-    unvisited.sort((a, b) => a.time - b.time);
-    const node = unvisited.shift();
+    // Just find min time.
+    let time = Infinity;
+    let visit = -1;
+    unvisited.forEach((element, index) => {
+      if (element.time < time) {
+        visit = index;
+        time = element.time;
+      }
+    });
+    const node = unvisited.splice(visit, 1)[0];
     maxTime = node.time;
     node.next.forEach(([next, weight]) => {
       if ((node.time + weight) < next.time) {
         next.time = node.time + weight;
       }
     });
-  } while (unvisited.length);
-  // if the max time is Infinity it means that node wasn't visited at all from the source
+  } while (unvisited.length && maxTime !== Infinity);
   return maxTime === Infinity ? -1 : maxTime;
 };
+
+
+networkDelayTime([
+  [2, 1, 1],
+  [2, 3, 1],
+  [3, 4, 1]
+], 4, 2);

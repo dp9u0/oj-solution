@@ -768,7 +768,7 @@
 | 744 | [Find Smallest Letter Greater Than Target](./problems/700-799/744/README.md)                    | :o:    | Easy   | [array]        |        |
 | 745 | [Prefix and Suffix Search](./problems/700-799/745/README.md)                                    |        | Hard   |                |        |
 | 746 | [Min Cost Climbing Stairs](./problems/700-799/746/README.md)                                    | :o:    | Easy   | [dp]           | :+1:   |
-| 747 | [Largest Number At Least Twice of Others](./problems/700-799/747/README.md)                     |        | Easy   |                |        |
+| 747 | [Largest Number At Least Twice of Others](./problems/700-799/747/README.md)                     | :o:    | Easy   | [tp]           |        |
 | 748 | [Shortest Completing Word](./problems/700-799/748/README.md)                                    |        | Easy   |                |        |
 | 749 | [Contain Virus](./problems/700-799/749/README.md)                                               |        | Hard   |                |        |
 | 750 | [Number Of Corner Rectangles](./problems/700-799/750/README.md)                                 | :lock: | Medium |                |        |

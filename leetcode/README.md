@@ -769,7 +769,7 @@
 | 745 | [Prefix and Suffix Search](./problems/700-799/745/README.md)                                    |        | Hard   |                |        |
 | 746 | [Min Cost Climbing Stairs](./problems/700-799/746/README.md)                                    | :o:    | Easy   | [dp]           | :+1:   |
 | 747 | [Largest Number At Least Twice of Others](./problems/700-799/747/README.md)                     | :o:    | Easy   | [tp]           |        |
-| 748 | [Shortest Completing Word](./problems/700-799/748/README.md)                                    |        | Easy   |                |        |
+| 748 | [Shortest Completing Word](./problems/700-799/748/README.md)                                    | :o:    | Easy   | [str]          | :+1:   |
 | 749 | [Contain Virus](./problems/700-799/749/README.md)                                               |        | Hard   |                |        |
 | 750 | [Number Of Corner Rectangles](./problems/700-799/750/README.md)                                 | :lock: | Medium |                |        |
 | 751 | [IP to CIDR](./problems/700-799/751/README.md)                                                  | :lock: | Easy   |                |        |

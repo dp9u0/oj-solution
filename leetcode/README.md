@@ -765,7 +765,7 @@
 | 741 | [Cherry Pickup](./problems/700-799/741/README.md)                                               |        | Hard   |                |        |
 | 742 | [Closest Leaf in a Binary Tree](./problems/700-799/742/README.md)                               | :lock: | Medium |                |        |
 | 743 | [Network Delay Time](./problems/700-799/743/README.md)                                          | :o:    | Easy   | [graph]        |        |
-| 744 | [Find Smallest Letter Greater Than Target](./problems/700-799/744/README.md)                    |        | Easy   |                |        |
+| 744 | [Find Smallest Letter Greater Than Target](./problems/700-799/744/README.md)                    | :o:    | Easy   | [array]        |        |
 | 745 | [Prefix and Suffix Search](./problems/700-799/745/README.md)                                    |        | Hard   |                |        |
 | 746 | [Min Cost Climbing Stairs](./problems/700-799/746/README.md)                                    |        | Easy   |                |        |
 | 747 | [Largest Number At Least Twice of Others](./problems/700-799/747/README.md)                     |        | Easy   |                |        |

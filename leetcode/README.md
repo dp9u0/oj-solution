@@ -804,7 +804,7 @@
 | 780 | [Reaching Points](./problems/700-799/780/README.md)                                             |        | Hard   |                |        |
 | 781 | [Rabbits in Forest](./problems/700-799/781/README.md)                                           |        | Medium |                |        |
 | 782 | [Transform to Chessboard](./problems/700-799/782/README.md)                                     |        | Hard   |                |        |
-| 783 | [Minimum Distance Between BST Nodes](./problems/700-799/783/README.md)                          |        | Easy   |                |        |
+| 783 | [Minimum Distance Between BST Nodes](./problems/700-799/783/README.md)                          | :o:    | Easy   | [tree]         | 530    |
 | 784 | [Letter Case Permutation](./problems/700-799/784/README.md)                                     |        | Easy   |                |        |
 | 785 | [Is Graph Bipartite?](./problems/700-799/785/README.md)                                         |        | Medium |                |        |
 | 786 | [K-th Smallest Prime Fraction](./problems/700-799/786/README.md)                                |        | Hard   |                |        |

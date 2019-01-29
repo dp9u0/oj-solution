@@ -809,7 +809,7 @@
 | 785 | [Is Graph Bipartite?](./problems/700-799/785/README.md)                                         |        | Medium |                |        |
 | 786 | [K-th Smallest Prime Fraction](./problems/700-799/786/README.md)                                |        | Hard   |                |        |
 | 787 | [Cheapest Flights Within K Stops](./problems/700-799/787/README.md)                             |        | Medium |                |        |
-| 788 | [Rotated Digits](./problems/700-799/788/README.md)                                              |        | Easy   |                |        |
+| 788 | [Rotated Digits](./problems/700-799/788/README.md)                                              | :o:    | Easy   | [dp]           | :+1:   |
 | 789 | [Escape The Ghosts](./problems/700-799/789/README.md)                                           |        | Medium |                |        |
 | 790 | [Domino and Tromino Tiling](./problems/700-799/790/README.md)                                   |        | Medium |                |        |
 | 791 | [Custom Sort String](./problems/700-799/791/README.md)                                          |        | Medium |                |        |

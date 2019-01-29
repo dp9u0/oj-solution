@@ -787,7 +787,7 @@
 | 763 | [Partition Labels](./problems/700-799/763/README.md)                                            |        | Medium |                |        |
 | 764 | [Largest Plus Sign](./problems/700-799/764/README.md)                                           |        | Medium |                |        |
 | 765 | [Couples Holding Hands](./problems/700-799/765/README.md)                                       |        | Hard   |                |        |
-| 766 | [Toeplitz Matrix](./problems/700-799/766/README.md)                                             |        | Easy   |                |        |
+| 766 | [Toeplitz Matrix](./problems/700-799/766/README.md)                                             | :o:    | Easy   | [array]        |        |
 | 767 | [Reorganize String](./problems/700-799/767/README.md)                                           |        | Medium |                |        |
 | 768 | [Max Chunks To Make Sorted II](./problems/700-799/768/README.md)                                |        | Hard   |                |        |
 | 769 | [Max Chunks To Make Sorted](./problems/700-799/769/README.md)                                   |        | Medium |                |        |

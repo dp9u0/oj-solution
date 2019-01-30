@@ -851,7 +851,7 @@
 | 827 | [Making A Large Island](./problems/800-899/827/README.md)                                       |        | Hard   |                |        |
 | 828 | [Unique Letter String](./problems/800-899/828/README.md)                                        |        | Hard   |                |        |
 | 829 | [Consecutive Numbers Sum](./problems/800-899/829/README.md)                                     |        | Hard   |                |        |
-| 830 | [Positions of Large Groups](./problems/800-899/830/README.md)                                   |        | Easy   |                |        |
+| 830 | [Positions of Large Groups](./problems/800-899/830/README.md)                                   | :o:    | Easy   | [array]        |        |
 | 831 | [Masking Personal Information](./problems/800-899/831/README.md)                                |        | Medium |                |        |
 | 832 | [Flipping an Image](./problems/800-899/832/README.md)                                           |        | Easy   |                |        |
 | 833 | [Find And Replace in String](./problems/800-899/833/README.md)                                  |        | Medium |                |        |

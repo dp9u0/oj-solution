@@ -833,7 +833,7 @@
 | 809 | [Expressive Words](./problems/800-899/809/README.md)                                            |        | Medium |                |        |
 | 810 | [Chalkboard XOR Game](./problems/800-899/810/README.md)                                         |        | Hard   |                |        |
 | 811 | [Subdomain Visit Count](./problems/800-899/811/README.md)                                       | :o:    | Easy   | [str]          |        |
-| 812 | [Largest Triangle Area](./problems/800-899/812/README.md)                                       |        | Easy   |                |        |
+| 812 | [Largest Triangle Area](./problems/800-899/812/README.md)                                       | :o:    | Easy   | [math]         | :-1:   |
 | 813 | [Largest Sum of Averages](./problems/800-899/813/README.md)                                     |        | Medium |                |        |
 | 814 | [Binary Tree Pruning](./problems/800-899/814/README.md)                                         |        | Medium |                |        |
 | 815 | [Bus Routes](./problems/800-899/815/README.md)                                                  |        | Hard   |                |        |

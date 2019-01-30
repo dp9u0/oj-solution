@@ -825,7 +825,7 @@
 | 801 | [Minimum Swaps To Make Sequences Increasing](./problems/800-899/801/README.md)                  |        | Medium |                |        |
 | 802 | [Find Eventual Safe States](./problems/800-899/802/README.md)                                   |        | Medium |                |        |
 | 803 | [Bricks Falling When Hit](./problems/800-899/803/README.md)                                     |        | Hard   |                |        |
-| 804 | [Unique Morse Code Words](./problems/800-899/804/README.md)                                     |        | Easy   |                |        |
+| 804 | [Unique Morse Code Words](./problems/800-899/804/README.md)                                     | :o:    | Easy   | [str]          |        |
 | 805 | [Split Array With Same Average](./problems/800-899/805/README.md)                               |        | Hard   |                |        |
 | 806 | [Number of Lines To Write String](./problems/800-899/806/README.md)                             |        | Easy   |                |        |
 | 807 | [Max Increase to Keep City Skyline](./problems/800-899/807/README.md)                           |        | Medium |                |        |

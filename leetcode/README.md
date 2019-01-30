@@ -865,7 +865,7 @@
 | 841 | [Keys and Rooms](./problems/800-899/841/README.md)                                              |        | Medium |                |        |
 | 842 | [Split Array into Fibonacci Sequence](./problems/800-899/842/README.md)                         |        | Medium |                |        |
 | 843 | [Guess the Word](./problems/800-899/843/README.md)                                              |        | Hard   |                |        |
-| 844 | [Backspace String Compare](./problems/800-899/844/README.md)                                    |        | Easy   |                |        |
+| 844 | [Backspace String Compare](./problems/800-899/844/README.md)                                    | :o:    | Easy   | [str]          |        |
 | 845 | [Longest Mountain in Array](./problems/800-899/845/README.md)                                   |        | Medium |                |        |
 | 846 | [Hand of Straights](./problems/800-899/846/README.md)                                           |        | Medium |                |        |
 | 847 | [Shortest Path Visiting All Nodes](./problems/800-899/847/README.md)                            |        | Hard   |                |        |

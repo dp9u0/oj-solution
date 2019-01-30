@@ -840,7 +840,7 @@
 | 816 | [Ambiguous Coordinates](./problems/800-899/816/README.md)                                       |        | Medium |                |        |
 | 817 | [Linked List Components](./problems/800-899/817/README.md)                                      |        | Medium |                |        |
 | 818 | [Race Car](./problems/800-899/818/README.md)                                                    |        | Hard   |                |        |
-| 819 | [Most Common Word](./problems/800-899/819/README.md)                                            |        | Easy   |                |        |
+| 819 | [Most Common Word](./problems/800-899/819/README.md)                                            | :o:    | Easy   | [str]          |        |
 | 820 | [Short Encoding of Words](./problems/800-899/820/README.md)                                     |        | Medium |                |        |
 | 821 | [Shortest Distance to a Character](./problems/800-899/821/README.md)                            |        | Easy   |                |        |
 | 822 | [Card Flipping Game](./problems/800-899/822/README.md)                                          |        | Medium |                |        |

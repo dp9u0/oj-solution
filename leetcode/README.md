@@ -853,7 +853,7 @@
 | 829 | [Consecutive Numbers Sum](./problems/800-899/829/README.md)                                     |        | Hard   |                |        |
 | 830 | [Positions of Large Groups](./problems/800-899/830/README.md)                                   | :o:    | Easy   | [array]        |        |
 | 831 | [Masking Personal Information](./problems/800-899/831/README.md)                                |        | Medium |                |        |
-| 832 | [Flipping an Image](./problems/800-899/832/README.md)                                           |        | Easy   |                |        |
+| 832 | [Flipping an Image](./problems/800-899/832/README.md)                                           | :o:    | Easy   | [array]        |        |
 | 833 | [Find And Replace in String](./problems/800-899/833/README.md)                                  |        | Medium |                |        |
 | 834 | [Sum of Distances in Tree](./problems/800-899/834/README.md)                                    |        | Hard   |                |        |
 | 835 | [Image Overlap](./problems/800-899/835/README.md)                                               |        | Medium |                |        |

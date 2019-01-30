@@ -870,7 +870,7 @@
 | 846 | [Hand of Straights](./problems/800-899/846/README.md)                                           |        | Medium |                |        |
 | 847 | [Shortest Path Visiting All Nodes](./problems/800-899/847/README.md)                            |        | Hard   |                |        |
 | 848 | [Shifting Letters](./problems/800-899/848/README.md)                                            |        | Medium |                |        |
-| 849 | [Maximize Distance to Closest Person](./problems/800-899/849/README.md)                         |        | Easy   |                |        |
+| 849 | [Maximize Distance to Closest Person](./problems/800-899/849/README.md)                         | :o:    | Easy   | [array]        |        |
 | 850 | [Rectangle Area II](./problems/800-899/850/README.md)                                           |        | Hard   |                |        |
 | 851 | [Loud and Rich](./problems/800-899/851/README.md)                                               |        | Medium |                |        |
 | 852 | [Peak Index in a Mountain Array](./problems/800-899/852/README.md)                              |        | Easy   |                |        |

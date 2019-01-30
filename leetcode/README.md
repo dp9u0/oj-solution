@@ -842,10 +842,10 @@
 | 818 | [Race Car](./problems/800-899/818/README.md)                                                    |        | Hard   |                |        |
 | 819 | [Most Common Word](./problems/800-899/819/README.md)                                            | :o:    | Easy   | [str]          |        |
 | 820 | [Short Encoding of Words](./problems/800-899/820/README.md)                                     |        | Medium |                |        |
-| 821 | [Shortest Distance to a Character](./problems/800-899/821/README.md) | :o: | Easy | [array] |   |
+| 821 | [Shortest Distance to a Character](./problems/800-899/821/README.md)                            | :o:    | Easy   | [array]        |        |
 | 822 | [Card Flipping Game](./problems/800-899/822/README.md)                                          |        | Medium |                |        |
 | 823 | [Binary Trees With Factors](./problems/800-899/823/README.md)                                   |        | Medium |                |        |
-| 824 | [Goat Latin](./problems/800-899/824/README.md)                                                  |        | Easy   |                |        |
+| 824 | [Goat Latin](./problems/800-899/824/README.md)                                                  | :o:    | Easy   | [str]          |        |
 | 825 | [Friends Of Appropriate Ages](./problems/800-899/825/README.md)                                 |        | Medium |                |        |
 | 826 | [Most Profit Assigning Work](./problems/800-899/826/README.md)                                  |        | Medium |                |        |
 | 827 | [Making A Large Island](./problems/800-899/827/README.md)                                       |        | Hard   |                |        |

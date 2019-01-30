@@ -861,7 +861,7 @@
 | 837 | [New 21 Game](./problems/800-899/837/README.md)                                                 |        | Medium |                |        |
 | 838 | [Push Dominoes](./problems/800-899/838/README.md)                                               |        | Medium |                |        |
 | 839 | [Similar String Groups](./problems/800-899/839/README.md)                                       |        | Hard   |                |        |
-| 840 | [Magic Squares In Grid](./problems/800-899/840/README.md)                                       |        | Easy   |                |        |
+| 840 | [Magic Squares In Grid](./problems/800-899/840/README.md)                                       | :o:    | Easy   | [array]        |        |
 | 841 | [Keys and Rooms](./problems/800-899/841/README.md)                                              |        | Medium |                |        |
 | 842 | [Split Array into Fibonacci Sequence](./problems/800-899/842/README.md)                         |        | Medium |                |        |
 | 843 | [Guess the Word](./problems/800-899/843/README.md)                                              |        | Hard   |                |        |

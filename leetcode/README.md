@@ -889,7 +889,7 @@
 | 865 | [Smallest Subtree with all the Deepest Nodes](./problems/800-899/865/README.md)                 |        | Medium |                |        |
 | 866 | [Prime Palindrome](./problems/800-899/866/README.md)                                            |        | Medium |                |        |
 | 867 | [Transpose Matrix](./problems/800-899/867/README.md)                                            | :o:    | Easy   | [array]        |        |
-| 868 | [Binary Gap](./problems/800-899/868/README.md)                                                  |        | Easy   |                |        |
+| 868 | [Binary Gap](./problems/800-899/868/README.md)                                                  | :o:    | Easy   | [bit]          |        |
 | 869 | [Reordered Power of 2](./problems/800-899/869/README.md)                                        |        | Medium |                |        |
 | 870 | [Advantage Shuffle](./problems/800-899/870/README.md)                                           |        | Medium |                |        |
 | 871 | [Minimum Number of Refueling Stops](./problems/800-899/871/README.md)                           |        | Hard   |                |        |

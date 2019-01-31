@@ -82,16 +82,16 @@ module.exports.markdown = function (data) {
       }
     } else if (line && line[0] === '*') {
       if (line.indexOf("* Source Code:") === -1&&line.indexOf("* Total Accepted:") === -1&&line.indexOf("* Total Submissions:") === -1) {
-        markdown += `${line}\n`
+        markdown += `${line.trim()}\n`
       }
     } else if (/^https:\/\/leetcode.com\/problems.+/.test(line)) {
-      markdown += `[LeetCode Problem Description](${line})\n\n`;
+      markdown += `[LeetCode Problem Description](${line.trim()})\n\n`;
     } else {
       if (!startCode) {
         markdown += "\n```md\n";
         startCode = true;
       }
-      markdown += line + '\n';
+      markdown += line.trim() + '\n';
     }
   }
   markdown += '```\n\n';

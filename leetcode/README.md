@@ -893,7 +893,7 @@
 | 869 | [Reordered Power of 2](./problems/800-899/869/README.md)                                        |        | Medium |                |        |
 | 870 | [Advantage Shuffle](./problems/800-899/870/README.md)                                           |        | Medium |                |        |
 | 871 | [Minimum Number of Refueling Stops](./problems/800-899/871/README.md)                           |        | Hard   |                |        |
-| 872 | [Leaf-Similar Trees](./problems/800-899/872/README.md)                                          |        | Easy   |                |        |
+| 872 | [Leaf-Similar Trees](./problems/800-899/872/README.md)                                          | :o:    | Easy   | [tree]         |        |
 | 873 | [Length of Longest Fibonacci Subsequence](./problems/800-899/873/README.md)                     |        | Medium |                |        |
 | 874 | [Walking Robot Simulation](./problems/800-899/874/README.md)                                    |        | Easy   |                |        |
 | 875 | [Koko Eating Bananas](./problems/800-899/875/README.md)                                         |        | Medium |                |        |

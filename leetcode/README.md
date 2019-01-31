@@ -881,7 +881,7 @@
 | 857 | [Minimum Cost to Hire K Workers](./problems/800-899/857/README.md)                              |        | Hard   |                |        |
 | 858 | [Mirror Reflection](./problems/800-899/858/README.md)                                           |        | Medium |                |        |
 | 859 | [Buddy Strings](./problems/800-899/859/README.md)                                               | :o:    | Easy   | [str]          |        |
-| 860 | [Lemonade Change](./problems/800-899/860/README.md)                                             |        | Easy   |                |        |
+| 860 | [Lemonade Change](./problems/800-899/860/README.md)                                             | :o:    | Easy   | [array]        |        |
 | 861 | [Score After Flipping Matrix](./problems/800-899/861/README.md)                                 |        | Medium |                |        |
 | 862 | [Shortest Subarray with Sum at Least K](./problems/800-899/862/README.md)                       |        | Hard   |                |        |
 | 863 | [All Nodes Distance K in Binary Tree](./problems/800-899/863/README.md)                         |        | Medium |                |        |

@@ -905,7 +905,7 @@
 | 881 | [Boats to Save People](./problems/800-899/881/README.md)                                        |        | Medium |                |        |
 | 882 | [Reachable Nodes In Subdivided Graph](./problems/800-899/882/README.md)                         |        | Hard   |                |        |
 | 883 | [Projection Area of 3D Shapes](./problems/800-899/883/README.md)                                | :o:    | Easy   | [array]        |        |
-| 884 | [Uncommon Words from Two Sentences](./problems/800-899/884/README.md)                           |        | Easy   |                |        |
+| 884 | [Uncommon Words from Two Sentences](./problems/800-899/884/README.md)                           | :o:    | Easy   | [hash]         |        |
 | 885 | [Spiral Matrix III](./problems/800-899/885/README.md)                                           |        | Medium |                |        |
 | 886 | [Possible Bipartition](./problems/800-899/886/README.md)                                        |        | Medium |                |        |
 | 887 | [Super Egg Drop](./problems/800-899/887/README.md)                                              |        | Hard   |                |        |

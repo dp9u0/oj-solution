@@ -909,7 +909,7 @@
 | 885 | [Spiral Matrix III](./problems/800-899/885/README.md)                                           |        | Medium |                |        |
 | 886 | [Possible Bipartition](./problems/800-899/886/README.md)                                        |        | Medium |                |        |
 | 887 | [Super Egg Drop](./problems/800-899/887/README.md)                                              |        | Hard   |                |        |
-| 888 | [Fair Candy Swap](./problems/800-899/888/README.md)                                             |        | Easy   |                |        |
+| 888 | [Fair Candy Swap](./problems/800-899/888/README.md)                                             | :o:    | Easy   | [hash]         |        |
 | 889 | [Construct Binary Tree from Preorder and Postorder Traversal](./problems/800-899/889/README.md) |        | Medium |                |        |
 | 890 | [Find and Replace Pattern](./problems/800-899/890/README.md)                                    |        | Medium |                |        |
 | 891 | [Sum of Subsequence Widths](./problems/800-899/891/README.md)                                   |        | Hard   |                |        |

@@ -918,7 +918,7 @@
 | 894 | [All Possible Full Binary Trees](./problems/800-899/894/README.md)                              |        | Medium |                |        |
 | 895 | [Maximum Frequency Stack](./problems/800-899/895/README.md)                                     |        | Hard   |                |        |
 | 896 | [Monotonic Array](./problems/800-899/896/README.md)                                             | :o:    | Easy   | [array]        |        |
-| 897 | [Increasing Order Search Tree](./problems/800-899/897/README.md)                                |        | Easy   |                |        |
+| 897 | [Increasing Order Search Tree](./problems/800-899/897/README.md)                                | :o:    | Easy   | [tree]         |        |
 | 898 | [Bitwise ORs of Subarrays](./problems/800-899/898/README.md)                                    |        | Medium |                |        |
 | 899 | [Orderly Queue](./problems/800-899/899/README.md)                                               |        | Hard   |                |        |
 | 900 | [RLE Iterator](./problems/900-999/900/README.md)                                                |        | Medium |                |        |

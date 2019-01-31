@@ -913,7 +913,7 @@
 | 889 | [Construct Binary Tree from Preorder and Postorder Traversal](./problems/800-899/889/README.md) |        | Medium |                |        |
 | 890 | [Find and Replace Pattern](./problems/800-899/890/README.md)                                    |        | Medium |                |        |
 | 891 | [Sum of Subsequence Widths](./problems/800-899/891/README.md)                                   |        | Hard   |                |        |
-| 892 | [Surface Area of 3D Shapes](./problems/800-899/892/README.md)                                   |        | Easy   |                |        |
+| 892 | [Surface Area of 3D Shapes](./problems/800-899/892/README.md)                                   | :o:    | Easy   | [array]        |        |
 | 893 | [Groups of Special-Equivalent Strings](./problems/800-899/893/README.md)                        |        | Easy   |                |        |
 | 894 | [All Possible Full Binary Trees](./problems/800-899/894/README.md)                              |        | Medium |                |        |
 | 895 | [Maximum Frequency Stack](./problems/800-899/895/README.md)                                     |        | Hard   |                |        |

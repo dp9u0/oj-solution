@@ -926,7 +926,7 @@
 | 902 | [Numbers At Most N Given Digit Set](./problems/900-999/902/README.md)                           |        | Hard   |                |        |
 | 903 | [Valid Permutations for DI Sequence](./problems/900-999/903/README.md)                          |        | Hard   |                |        |
 | 904 | [Fruit Into Baskets](./problems/900-999/904/README.md)                                          |        | Medium |                |        |
-| 905 | [Sort Array By Parity](./problems/900-999/905/README.md)                                        |        | Easy   |                |        |
+| 905 | [Sort Array By Parity](./problems/900-999/905/README.md)                                        | :o:    | Easy   | [tp],[array]   |        |
 | 906 | [Super Palindromes](./problems/900-999/906/README.md)                                           |        | Hard   |                |        |
 | 907 | [Sum of Subarray Minimums](./problems/900-999/907/README.md)                                    |        | Medium |                |        |
 | 908 | [Smallest Range I](./problems/900-999/908/README.md)                                            |        | Easy   |                |        |

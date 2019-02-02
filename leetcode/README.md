@@ -929,7 +929,7 @@
 | 905 | [Sort Array By Parity](./problems/900-999/905/README.md)                                        | :o:    | Easy   | [tp],[array]   |        |
 | 906 | [Super Palindromes](./problems/900-999/906/README.md)                                           |        | Hard   |                |        |
 | 907 | [Sum of Subarray Minimums](./problems/900-999/907/README.md)                                    |        | Medium |                |        |
-| 908 | [Smallest Range I](./problems/900-999/908/README.md)                                            |        | Easy   |                |        |
+| 908 | [Smallest Range I](./problems/900-999/908/README.md)                                            | :o:    | Easy   | [math]         | :-1:   |
 | 909 | [Snakes and Ladders](./problems/900-999/909/README.md)                                          |        | Medium |                |        |
 | 910 | [Smallest Range II](./problems/900-999/910/README.md)                                           |        | Medium |                |        |
 | 911 | [Online Election](./problems/900-999/911/README.md)                                             |        | Medium |                |        |

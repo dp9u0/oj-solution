@@ -934,10 +934,10 @@
 | 910 | [Smallest Range II](./problems/900-999/910/README.md)                                           |        | Medium |                |        |
 | 911 | [Online Election](./problems/900-999/911/README.md)                                             |        | Medium |                |        |
 | 913 | [Cat and Mouse](./problems/900-999/913/README.md)                                               |        | Hard   |                |        |
-| 914 | [X of a Kind in a Deck of Cards](./problems/900-999/914/README.md)                              |        | Easy   |                |        |
+| 914 | [X of a Kind in a Deck of Cards](./problems/900-999/914/README.md)                              | :o:    | Easy   | [hash]         | :+1:   |
 | 915 | [Partition Array into Disjoint Intervals](./problems/900-999/915/README.md)                     |        | Medium |                |        |
 | 916 | [Word Subsets](./problems/900-999/916/README.md)                                                |        | Medium |                |        |
-| 917 | [Reverse Only Letters](./problems/900-999/917/README.md)                                        |        | Easy   |                |        |
+| 917 | [Reverse Only Letters](./problems/900-999/917/README.md)                                        | :o:    | Easy   | [tp]           |        |
 | 918 | [Maximum Sum Circular Subarray](./problems/900-999/918/README.md)                               |        | Medium |                |        |
 | 919 | [Complete Binary Tree Inserter](./problems/900-999/919/README.md)                               |        | Medium |                |        |
 | 920 | [Number of Music Playlists](./problems/900-999/920/README.md)                                   |        | Hard   |                |        |

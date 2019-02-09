@@ -949,7 +949,7 @@
 | 926 | [Flip String to Monotone Increasing](./problems/900-999/926/README.md)                          |        | Medium |                |        |
 | 927 | [Three Equal Parts](./problems/900-999/927/README.md)                                           |        | Hard   |                |        |
 | 928 | [Minimize Malware Spread II](./problems/900-999/928/README.md)                                  |        | Hard   |                |        |
-| 929 | [Unique Email Addresses](./problems/900-999/929/README.md)                                      |        | Easy   |                |        |
+| 929 | [Unique Email Addresses](./problems/900-999/929/README.md)                                      | :o:    | Easy   | [str]          |        |
 | 930 | [Binary Subarrays With Sum](./problems/900-999/930/README.md)                                   |        | Medium |                |        |
 | 931 | [Minimum Falling Path Sum](./problems/900-999/931/README.md)                                    |        | Medium |                |        |
 | 932 | [Beautiful Array](./problems/900-999/932/README.md)                                             |        | Medium |                |        |
@@ -961,7 +961,7 @@
 | 938 | [Range Sum of BST](./problems/900-999/938/README.md)                                            |        | Medium |                |        |
 | 939 | [Minimum Area Rectangle](./problems/900-999/939/README.md)                                      |        | Medium |                |        |
 | 940 | [Distinct Subsequences II](./problems/900-999/940/README.md)                                    |        | Hard   |                |        |
-| 941 | [Valid Mountain Array](./problems/900-999/941/README.md)                                        | :o:    | Easy   | [topic]        |        |
+| 941 | [Valid Mountain Array](./problems/900-999/941/README.md)                                        | :o:    | Easy   | [tp]           |        |
 | 942 | [DI String Match](./problems/900-999/942/README.md)                                             |        | Easy   |                |        |
 | 943 | [Find the Shortest Superstring](./problems/900-999/943/README.md)                               |        | Hard   |                |        |
 | 944 | [Delete Columns to Make Sorted](./problems/900-999/944/README.md)                               |        | Easy   |                |        |

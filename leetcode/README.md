@@ -953,7 +953,7 @@
 | 930 | [Binary Subarrays With Sum](./problems/900-999/930/README.md)                                   |        | Medium |                |        |
 | 931 | [Minimum Falling Path Sum](./problems/900-999/931/README.md)                                    |        | Medium |                |        |
 | 932 | [Beautiful Array](./problems/900-999/932/README.md)                                             |        | Medium |                |        |
-| 933 | [Number of Recent Calls](./problems/900-999/933/README.md)                                      |        | Easy   |                |        |
+| 933 | [Number of Recent Calls](./problems/900-999/933/README.md)                                      | :o:    | Easy   | [design]       |        |
 | 934 | [Shortest Bridge](./problems/900-999/934/README.md)                                             |        | Medium |                |        |
 | 935 | [Knight Dialer](./problems/900-999/935/README.md)                                               |        | Medium |                |        |
 | 936 | [Stamping The Sequence](./problems/900-999/936/README.md)                                       |        | Hard   |                |        |

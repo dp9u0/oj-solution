@@ -962,7 +962,7 @@
 | 939 | [Minimum Area Rectangle](./problems/900-999/939/README.md)                                      |        | Medium |                |        |
 | 940 | [Distinct Subsequences II](./problems/900-999/940/README.md)                                    |        | Hard   |                |        |
 | 941 | [Valid Mountain Array](./problems/900-999/941/README.md)                                        | :o:    | Easy   | [tp]           |        |
-| 942 | [DI String Match](./problems/900-999/942/README.md)                                             |        | Easy   |                |        |
+| 942 | [DI String Match](./problems/900-999/942/README.md)                                             | :o:    | Easy   | [tp]           |        |
 | 943 | [Find the Shortest Superstring](./problems/900-999/943/README.md)                               |        | Hard   |                |        |
 | 944 | [Delete Columns to Make Sorted](./problems/900-999/944/README.md)                               |        | Easy   |                |        |
 | 945 | [Minimum Increment to Make Array Unique](./problems/900-999/945/README.md)                      |        | Medium |                |        |

@@ -982,7 +982,7 @@
 | 958 | [Check Completeness of a Binary Tree](./problems/900-999/958/README.md)                         |        | Medium |                |        |
 | 959 | [Regions Cut By Slashes](./problems/900-999/959/README.md)                                      |        | Medium |                |        |
 | 960 | [Delete Columns to Make Sorted III](./problems/900-999/960/README.md)                           |        | Hard   |                |        |
-| 961 | [N-Repeated Element in Size 2N Array](./problems/900-999/961/README.md)                         |        | Easy   |                |        |
+| 961 | [N-Repeated Element in Size 2N Array](./problems/900-999/961/README.md)                         | :o:    | Easy   | [hash]         |        |
 | 962 | [Maximum Width Ramp](./problems/900-999/962/README.md)                                          |        | Medium |                |        |
 | 963 | [Minimum Area Rectangle II](./problems/900-999/963/README.md)                                   |        | Medium |                |        |
 | 964 | [Least Operators to Express Number](./problems/900-999/964/README.md)                           |        | Hard   |                |        |
@@ -1013,7 +1013,7 @@
 | 989 | [Add to Array-Form of Integer](./problems/900-999/989/README.md)                                |        | Easy   |                |        |
 | 990 | [Satisfiability of Equality Equations](./problems/900-999/990/README.md)                        |        | Medium |                |        |
 | 991 | [Broken Calculator](./problems/900-999/991/README.md)                                           |        | Medium |                |        |
-| 992 | [992](./problems/900-999/992/README.md)                                                         |        | Medium |                |        |
+| 992 | [Subarrays with K Different Integers](./problems/900-999/992/README.md)                         |        | Medium |                |        |
 | 993 | [993](./problems/900-999/993/README.md)                                                         |        | Medium |                |        |
 | 994 | [994](./problems/900-999/994/README.md)                                                         |        | Medium |                |        |
 | 995 | [995](./problems/900-999/995/README.md)                                                         |        | Medium |                |        |

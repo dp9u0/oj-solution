@@ -991,7 +991,7 @@
 | 967 | [Numbers With Same Consecutive Differences](./problems/900-999/967/README.md)                   |        | Medium |                |        |
 | 968 | [Binary Tree Cameras](./problems/900-999/968/README.md)                                         |        | Hard   |                |        |
 | 969 | [Pancake Sorting](./problems/900-999/969/README.md)                                             |        | Medium |                |        |
-| 970 | [Powerful Integers](./problems/900-999/970/README.md)                                           |        | Easy   |                |        |
+| 970 | [Powerful Integers](./problems/900-999/970/README.md) | :o: | Easy | [math] |   |
 | 971 | [Flip Binary Tree To Match Preorder Traversal](./problems/900-999/971/README.md)                |        | Medium |                |        |
 | 972 | [Equal Rational Numbers](./problems/900-999/972/README.md)                                      |        | Hard   |                |        |
 | 973 | [K Closest Points to Origin](./problems/900-999/973/README.md)                                  |        | Easy   |                |        |

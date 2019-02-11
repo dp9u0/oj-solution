@@ -986,7 +986,7 @@
 | 962 | [Maximum Width Ramp](./problems/900-999/962/README.md)                                          |        | Medium |                |        |
 | 963 | [Minimum Area Rectangle II](./problems/900-999/963/README.md)                                   |        | Medium |                |        |
 | 964 | [Least Operators to Express Number](./problems/900-999/964/README.md)                           |        | Hard   |                |        |
-| 965 | [Univalued Binary Tree](./problems/900-999/965/README.md)                                       |        | Easy   |                |        |
+| 965 | [Univalued Binary Tree](./problems/900-999/965/README.md)                                       | :o:    | Easy   | [tree]         |        |
 | 966 | [Vowel Spellchecker](./problems/900-999/966/README.md)                                          |        | Medium |                |        |
 | 967 | [Numbers With Same Consecutive Differences](./problems/900-999/967/README.md)                   |        | Medium |                |        |
 | 968 | [Binary Tree Cameras](./problems/900-999/968/README.md)                                         |        | Hard   |                |        |

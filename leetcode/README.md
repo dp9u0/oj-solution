@@ -978,3 +978,46 @@
 | 954 | [Array of Doubled Pairs](./problems/900-999/954/README.md)                                      |        | Medium |                |        |
 | 955 | [Delete Columns to Make Sorted II](./problems/900-999/955/README.md)                            |        | Medium |                |        |
 | 956 | [Tallest Billboard](./problems/900-999/956/README.md)                                           | :o:    | Hard   | [hash]         |        |
+| 957 | [Prison Cells After N Days](./problems/900-999/957/README.md)                                   |        | Medium |                |        |
+| 958 | [Check Completeness of a Binary Tree](./problems/900-999/958/README.md)                         |        | Medium |                |        |
+| 959 | [Regions Cut By Slashes](./problems/900-999/959/README.md)                                      |        | Medium |                |        |
+| 960 | [Delete Columns to Make Sorted III](./problems/900-999/960/README.md)                           |        | Hard   |                |        |
+| 961 | [N-Repeated Element in Size 2N Array](./problems/900-999/961/README.md)                         |        | Easy   |                |        |
+| 962 | [Maximum Width Ramp](./problems/900-999/962/README.md)                                          |        | Medium |                |        |
+| 963 | [Minimum Area Rectangle II](./problems/900-999/963/README.md)                                   |        | Medium |                |        |
+| 964 | [Least Operators to Express Number](./problems/900-999/964/README.md)                           |        | Hard   |                |        |
+| 965 | [Univalued Binary Tree](./problems/900-999/965/README.md)                                       |        | Easy   |                |        |
+| 966 | [Vowel Spellchecker](./problems/900-999/966/README.md)                                          |        | Medium |                |        |
+| 967 | [Numbers With Same Consecutive Differences](./problems/900-999/967/README.md)                   |        | Medium |                |        |
+| 968 | [Binary Tree Cameras](./problems/900-999/968/README.md)                                         |        | Hard   |                |        |
+| 969 | [Pancake Sorting](./problems/900-999/969/README.md)                                             |        | Medium |                |        |
+| 970 | [Powerful Integers](./problems/900-999/970/README.md)                                           |        | Easy   |                |        |
+| 971 | [Flip Binary Tree To Match Preorder Traversal](./problems/900-999/971/README.md)                |        | Medium |                |        |
+| 972 | [Equal Rational Numbers](./problems/900-999/972/README.md)                                      |        | Hard   |                |        |
+| 973 | [K Closest Points to Origin](./problems/900-999/973/README.md)                                  |        | Easy   |                |        |
+| 974 | [Subarray Sums Divisible by K](./problems/900-999/974/README.md)                                |        | Medium |                |        |
+| 975 | [Odd Even Jump](./problems/900-999/975/README.md)                                               |        | Hard   |                |        |
+| 976 | [Largest Perimeter Triangle](./problems/900-999/976/README.md)                                  |        | Easy   |                |        |
+| 977 | [Squares of a Sorted Array](./problems/900-999/977/README.md)                                   |        | Easy   |                |        |
+| 978 | [Longest Turbulent Subarray](./problems/900-999/978/README.md)                                  |        | Medium |                |        |
+| 979 | [Distribute Coins in Binary Tree](./problems/900-999/979/README.md)                             |        | Medium |                |        |
+| 980 | [Unique Paths III](./problems/900-999/980/README.md)                                            |        | Hard   |                |        |
+| 981 | [Time Based Key-Value Store](./problems/900-999/981/README.md)                                  |        | Medium |                |        |
+| 982 | [Triples with Bitwise AND Equal To Zero](./problems/900-999/982/README.md)                      |        | Hard   |                |        |
+| 983 | [Minimum Cost For Tickets](./problems/900-999/983/README.md)                                    |        | Medium |                |        |
+| 984 | [String Without AAA or BBB](./problems/900-999/984/README.md)                                   |        | Easy   |                |        |
+| 985 | [Sum of Even Numbers After Queries](./problems/900-999/985/README.md)                           |        | Easy   |                |        |
+| 986 | [Interval List Intersections](./problems/900-999/986/README.md)                                 |        | Medium |                |        |
+| 987 | [Vertical Order Traversal of a Binary Tree](./problems/900-999/987/README.md)                   |        | Medium |                |        |
+| 988 | [Smallest String Starting From Leaf](./problems/900-999/988/README.md)                          |        | Medium |                |        |
+| 989 | [Add to Array-Form of Integer](./problems/900-999/989/README.md)                                |        | Easy   |                |        |
+| 990 | [Satisfiability of Equality Equations](./problems/900-999/990/README.md)                        |        | Medium |                |        |
+| 991 | [Broken Calculator](./problems/900-999/991/README.md)                                           |        | Medium |                |        |
+| 992 | [992](./problems/900-999/992/README.md)                                                         |        | Medium |                |        |
+| 993 | [993](./problems/900-999/993/README.md)                                                         |        | Medium |                |        |
+| 994 | [994](./problems/900-999/994/README.md)                                                         |        | Medium |                |        |
+| 995 | [995](./problems/900-999/995/README.md)                                                         |        | Medium |                |        |
+| 996 | [996](./problems/900-999/996/README.md)                                                         |        | Medium |                |        |
+| 997 | [997](./problems/900-999/997/README.md)                                                         |        | Medium |                |        |
+| 998 | [998](./problems/900-999/998/README.md)                                                         |        | Medium |                |        |
+| 999 | [999](./problems/900-999/999/README.md)                                                         |        | Medium |                |        |

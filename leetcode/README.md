@@ -3,25 +3,26 @@
 
 ## 分类
 
-* array : 数组
-* bt : backtracking,回溯
+* array
+* bt : backtracking
 * bs : binary_search
-* bit : bit_manipulation 位运算
+* bit : bit_manipulation
 * bfs : breadth_first_search
 * dfs : depth_first_search
-* design : 设计
-* dc : divide_and_conquer 分治
+* design
+* dc : divide_and_conquer
 * dp : dynamic_programming
-* greedy : 贪心
-* graph : 图算法
+* greedy
+* graph
 * hash
 * heap
 * ll : linked_list
+* logic : if else switch
 * math
 * stack
 * str : string
 * tree
-* tp : two_pointers,双指针
+* tp : two_pointers
 
 ## Problems
 
@@ -969,7 +970,7 @@
 | 946 | [Validate Stack Sequences](./problems/900-999/946/README.md)                                    |        | Medium |                |        |
 | 947 | [Most Stones Removed with Same Row or Column](./problems/900-999/947/README.md)                 |        | Medium |                |        |
 | 948 | [Bag of Tokens](./problems/900-999/948/README.md)                                               |        | Medium |                |        |
-| 949 | [Largest Time for Given Digits](./problems/900-999/949/README.md)                               |        | Easy   |                |        |
+| 949 | [Largest Time for Given Digits](./problems/900-999/949/README.md)                               | :o:    | Easy   | [logic]        | :-1:   |
 | 950 | [Reveal Cards In Increasing Order](./problems/900-999/950/README.md)                            |        | Medium |                |        |
 | 951 | [Flip Equivalent Binary Trees](./problems/900-999/951/README.md)                                |        | Medium |                |        |
 | 952 | [Largest Component Size by Common Factor](./problems/900-999/952/README.md)                     |        | Hard   |                |        |

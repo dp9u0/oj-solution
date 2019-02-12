@@ -998,7 +998,7 @@
 | 974 | [Subarray Sums Divisible by K](./problems/900-999/974/README.md)                                |        | Medium |                |        |
 | 975 | [Odd Even Jump](./problems/900-999/975/README.md)                                               |        | Hard   |                |        |
 | 976 | [Largest Perimeter Triangle](./problems/900-999/976/README.md)                                  | :o:    | Easy   | [math]         |        |
-| 977 | [Squares of a Sorted Array](./problems/900-999/977/README.md)                                   |        | Easy   |                |        |
+| 977 | [Squares of a Sorted Array](./problems/900-999/977/README.md)                                   | :o:    | Easy   | [tp]           |        |
 | 978 | [Longest Turbulent Subarray](./problems/900-999/978/README.md)                                  |        | Medium |                |        |
 | 979 | [Distribute Coins in Binary Tree](./problems/900-999/979/README.md)                             |        | Medium |                |        |
 | 980 | [Unique Paths III](./problems/900-999/980/README.md)                                            |        | Hard   |                |        |

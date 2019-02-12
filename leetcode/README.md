@@ -1010,7 +1010,7 @@
 | 986 | [Interval List Intersections](./problems/900-999/986/README.md)                                 |        | Medium |                |        |
 | 987 | [Vertical Order Traversal of a Binary Tree](./problems/900-999/987/README.md)                   |        | Medium |                |        |
 | 988 | [Smallest String Starting From Leaf](./problems/900-999/988/README.md)                          |        | Medium |                |        |
-| 989 | [Add to Array-Form of Integer](./problems/900-999/989/README.md)                                |        | Easy   |                |        |
+| 989 | [Add to Array-Form of Integer](./problems/900-999/989/README.md)                                | :o:    | Easy   | [math]         |        |
 | 990 | [Satisfiability of Equality Equations](./problems/900-999/990/README.md)                        |        | Medium |                |        |
 | 991 | [Broken Calculator](./problems/900-999/991/README.md)                                           |        | Medium |                |        |
 | 992 | [Subarrays with K Different Integers](./problems/900-999/992/README.md)                         |        | Medium |                |        |

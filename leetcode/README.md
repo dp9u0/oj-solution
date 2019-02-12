@@ -72,7 +72,7 @@
 | 42  | [Trapping Rain Water](./problems/000-099/42/README.md)                                          | :o:    | Hard   | [tp]           |        |
 | 43  | [Multiply Strings](./problems/000-099/43/README.md)                                             | :o:    | Medium | [math]         | :+1:   |
 | 44  | [Wildcard Matching](./problems/000-099/44/README.md)                                            | :o:    | Hard   | [dp]           | slow   |
-| 45  | [Jump Game II](./problems/000-099/45/README.md)                                                 |        | Hard   |                |        |
+| 45  | [Jump Game II](./problems/000-099/45/README.md)                                                 | :o:    | Hard   | [greedy]       | :+1:   |
 | 46  | [Permutations](./problems/000-099/46/README.md)                                                 | :o:    | Medium | [bt]           |        |
 | 47  | [Permutations II](./problems/000-099/47/README.md)                                              | :o:    | Medium | [bt]           |        |
 | 48  | [Rotate Image](./problems/000-099/48/README.md)                                                 | :o:    | Medium | [array]        |        |

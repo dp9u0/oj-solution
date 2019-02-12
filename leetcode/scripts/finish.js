@@ -34,15 +34,15 @@ if (!common.started()) {
   common.removeCurrent();
   common.readme(problem, topics, ':o:', remark);
   setTimeout(() => {
-    // execSync('git add .', {
-    //   stdio: 'inherit'
-    // });
-    // execSync('git commit -m ' + `"#${problem}"`, {
-    //   stdio: 'inherit'
-    // });
-    // execSync('git push ', {
-    //   stdio: 'inherit'
-    // });
+    execSync('git add .', {
+      stdio: 'inherit'
+    });
+    execSync('git commit -m ' + `"#${problem}"`, {
+      stdio: 'inherit'
+    });
+    execSync('git push ', {
+      stdio: 'inherit'
+    });
   }, 1000);
   if (remark === ':+1:') {
     execSync(`leetcode star ${problem}`, {

@@ -84,7 +84,7 @@
 | 54  | [Spiral Matrix](./problems/000-099/54/README.md)                                                | :o:    | Medium | [array]        |        |
 | 55  | [Jump Game](./problems/000-099/55/README.md)                                                    | :o:    | Medium | [greedy]       | :+1:   |
 | 56  | [Merge Intervals](./problems/000-099/56/README.md)                                              | :o:    | Medium | [array]        |        |
-| 57  | [Insert Interval](./problems/000-099/57/README.md)                                              |        | Hard   |                |        |
+| 57  | [Insert Interval](./problems/000-099/57/README.md)                                              | :o:    | Hard   | [array]        |        |
 | 58  | [Length of Last Word](./problems/000-099/58/README.md)                                          | :o:    | Easy   | [array]        |        |
 | 59  | [Spiral Matrix II](./problems/000-099/59/README.md)                                             | :o:    | Medium | [array]        |        |
 | 60  | [Permutation Sequence](./problems/000-099/60/README.md)                                         | :o:    | Medium | [bt]           |        |

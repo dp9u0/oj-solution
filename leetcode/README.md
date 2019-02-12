@@ -92,7 +92,7 @@
 | 62  | [Unique Paths](./problems/000-099/62/README.md)                                                 | :o:    | Medium | [dp]           |        |
 | 63  | [Unique Paths II](./problems/000-099/63/README.md)                                              | :o:    | Medium | [dp]           |        |
 | 64  | [Minimum Path Sum](./problems/000-099/64/README.md)                                             | :o:    | Medium | [dp]           |        |
-| 65  | [Valid Number](./problems/000-099/65/README.md)                                                 | :x:    | Hard   | [other]        | :-1:   |
+| 65  | [Valid Number](./problems/000-099/65/README.md)                                                 | :o:    | Hard   | [str]          | :-1:   |
 | 66  | [Plus One](./problems/000-099/66/README.md)                                                     | :o:    | Easy   | [math]         |        |
 | 67  | [Add Binary](./problems/000-099/67/README.md)                                                   | :o:    | Easy   | [math]         |        |
 | 68  | [Text Justification](./problems/000-099/68/README.md)                                           |        | Hard   |                |        |

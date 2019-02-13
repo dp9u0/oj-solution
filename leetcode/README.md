@@ -95,7 +95,7 @@
 | 65  | [Valid Number](./problems/000-099/65/README.md)                                                 | :o:    | Hard   | [str]          | :-1:   |
 | 66  | [Plus One](./problems/000-099/66/README.md)                                                     | :o:    | Easy   | [math]         |        |
 | 67  | [Add Binary](./problems/000-099/67/README.md)                                                   | :o:    | Easy   | [math]         |        |
-| 68  | [Text Justification](./problems/000-099/68/README.md)                                           |        | Hard   |                |        |
+| 68  | [Text Justification](./problems/000-099/68/README.md)                                           | :o:    | Hard   | [array]        | :+1:   |
 | 69  | [Sqrt(x)](./problems/000-099/69/README.md)                                                      | :o:    | Easy   | [math]         |        |
 | 70  | [Climbing Stairs](./problems/000-099/70/README.md)                                              | :o:    | Easy   | [dp]           | :+1:   |
 | 71  | [Simplify Path](./problems/000-099/71/README.md)                                                | :o:    | Medium | [stack]        |        |

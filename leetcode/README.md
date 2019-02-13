@@ -113,7 +113,7 @@
 | 83  | [Remove Duplicates from Sorted List](./problems/000-099/83/README.md)                           | :o:    | Easy   | [ll]           |        |
 | 84  | [Largest Rectangle in Histogram](./problems/000-099/84/README.md)                               |        | Hard   |                |        |
 | 85  | [Maximal Rectangle](./problems/000-099/85/README.md)                                            |        | Hard   |                |        |
-| 86  | [Partition List](./problems/000-099/86/README.md)                                               |        | Medium |                |        |
+| 86  | [Partition List](./problems/000-099/86/README.md)                                               | :o:    | Medium | [ll]           | :+1:   |
 | 87  | [Scramble String](./problems/000-099/87/README.md)                                              |        | Hard   |                |        |
 | 88  | [Merge Sorted Array](./problems/000-099/88/README.md)                                           | :o:    | Easy   | [tp]           |        |
 | 89  | [Gray Code](./problems/000-099/89/README.md)                                                    |        | Medium |                |        |

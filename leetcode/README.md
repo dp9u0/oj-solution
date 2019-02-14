@@ -1008,7 +1008,7 @@
 | 984 | [String Without AAA or BBB](./problems/900-999/984/README.md)                                   | :o:    | Easy   | [greedy]       | :+1:   |
 | 985 | [Sum of Even Numbers After Queries](./problems/900-999/985/README.md)                           | :o:    | Easy   | [math]         |        |
 | 986 | [Interval List Intersections](./problems/900-999/986/README.md)                                 |        | Medium |                |        |
-| 987 | [Vertical Order Traversal of a Binary Tree](./problems/900-999/987/README.md)                   |        | Medium |                |        |
+| 987 | [Vertical Order Traversal of a Binary Tree](./problems/900-999/987/README.md)                   | :o:    | Medium | [tree]         |        |
 | 988 | [Smallest String Starting From Leaf](./problems/900-999/988/README.md)                          | :o:    | Medium | [tree]         |        |
 | 989 | [Add to Array-Form of Integer](./problems/900-999/989/README.md)                                | :o:    | Easy   | [math]         |        |
 | 990 | [Satisfiability of Equality Equations](./problems/900-999/990/README.md)                        | :o:    | Medium | [hash]         |        |

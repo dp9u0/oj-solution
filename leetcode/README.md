@@ -1004,7 +1004,7 @@
 | 980 | [Unique Paths III](./problems/900-999/980/README.md)                                            |        | Hard   |                |        |
 | 981 | [Time Based Key-Value Store](./problems/900-999/981/README.md)                                  |        | Medium |                |        |
 | 982 | [Triples with Bitwise AND Equal To Zero](./problems/900-999/982/README.md)                      |        | Hard   |                |        |
-| 983 | [Minimum Cost For Tickets](./problems/900-999/983/README.md)                                    |        | Medium |                |        |
+| 983 | [Minimum Cost For Tickets](./problems/900-999/983/README.md)                                    | :o:    | Medium | [dp]           |        |
 | 984 | [String Without AAA or BBB](./problems/900-999/984/README.md)                                   | :o:    | Easy   | [greedy]       | :+1:   |
 | 985 | [Sum of Even Numbers After Queries](./problems/900-999/985/README.md)                           | :o:    | Easy   | [math]         |        |
 | 986 | [Interval List Intersections](./problems/900-999/986/README.md)                                 | :o:    | Medium | [tp]           |        |

@@ -992,7 +992,7 @@
 | 968 | [Binary Tree Cameras](./problems/900-999/968/README.md)                                         |        | Hard   |                |        |
 | 969 | [Pancake Sorting](./problems/900-999/969/README.md)                                             |        | Medium |                |        |
 | 970 | [Powerful Integers](./problems/900-999/970/README.md)                                           | :o:    | Easy   | [math]         |        |
-| 971 | [Flip Binary Tree To Match Preorder Traversal](./problems/900-999/971/README.md)                |        | Medium |                |        |
+| 971 | [Flip Binary Tree To Match Preorder Traversal](./problems/900-999/971/README.md)                | :o:    | Medium | [tree]         | :+1:   |
 | 972 | [Equal Rational Numbers](./problems/900-999/972/README.md)                                      |        | Hard   |                |        |
 | 973 | [K Closest Points to Origin](./problems/900-999/973/README.md)                                  | :o:    | Easy   | [sort]         |        |
 | 974 | [Subarray Sums Divisible by K](./problems/900-999/974/README.md)                                | :o:    | Medium | [array]        | :+1:   |

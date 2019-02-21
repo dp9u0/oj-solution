@@ -169,7 +169,7 @@
 | 139 | [Word Break](./problems/100-199/139/README.md)                                                  |        | Medium |                |        |
 | 140 | [Word Break II](./problems/100-199/140/README.md)                                               |        | Hard   |                |        |
 | 141 | [Linked List Cycle](./problems/100-199/141/README.md)                                           | :o:    | Easy   | [tp]           | :+1:   |
-| 142 | [Linked List Cycle II](./problems/100-199/142/README.md)                                        |        | Medium |                |        |
+| 142 | [Linked List Cycle II](./problems/100-199/142/README.md)                                        | :o:    | Medium | [tp]           | :+1:   |
 | 143 | [Reorder List](./problems/100-199/143/README.md)                                                |        | Medium |                |        |
 | 144 | [Binary Tree Preorder Traversal](./problems/100-199/144/README.md)                              |        | Medium |                |        |
 | 145 | [Binary Tree Postorder Traversal](./problems/100-199/145/README.md)                             |        | Hard   |                |        |

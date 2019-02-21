@@ -988,7 +988,7 @@
 | 964 | [Least Operators to Express Number](./problems/900-999/964/README.md)                           |        | Hard   |                |        |
 | 965 | [Univalued Binary Tree](./problems/900-999/965/README.md)                                       | :o:    | Easy   | [tree]         |        |
 | 966 | [Vowel Spellchecker](./problems/900-999/966/README.md)                                          |        | Medium |                |        |
-| 967 | [Numbers With Same Consecutive Differences](./problems/900-999/967/README.md)                   |        | Medium |                |        |
+| 967 | [Numbers With Same Consecutive Differences](./problems/900-999/967/README.md)                   | :o:    | Medium | [bt]           |        |
 | 968 | [Binary Tree Cameras](./problems/900-999/968/README.md)                                         |        | Hard   |                |        |
 | 969 | [Pancake Sorting](./problems/900-999/969/README.md)                                             | :o:    | Medium | [array]        |        |
 | 970 | [Powerful Integers](./problems/900-999/970/README.md)                                           | :o:    | Easy   | [math]         |        |

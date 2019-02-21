@@ -959,7 +959,7 @@
 | 935 | [Knight Dialer](./problems/900-999/935/README.md)                                               |        | Medium |                |        |
 | 936 | [Stamping The Sequence](./problems/900-999/936/README.md)                                       |        | Hard   |                |        |
 | 937 | [Reorder Log Files](./problems/900-999/937/README.md)                                           | :o:    | Easy   | [str]          | :-1:   |
-| 938 | [Range Sum of BST](./problems/900-999/938/README.md)                                            |        | Medium |                |        |
+| 938 | [Range Sum of BST](./problems/900-999/938/README.md)                                            | :o:    | Medium | [tree]         |        |
 | 939 | [Minimum Area Rectangle](./problems/900-999/939/README.md)                                      |        | Medium |                |        |
 | 940 | [Distinct Subsequences II](./problems/900-999/940/README.md)                                    |        | Hard   |                |        |
 | 941 | [Valid Mountain Array](./problems/900-999/941/README.md)                                        | :o:    | Easy   | [tp]           |        |

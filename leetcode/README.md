@@ -116,7 +116,7 @@
 | 86  | [Partition List](./problems/000-099/86/README.md)                                               | :o:    | Medium | [ll]           | :+1:   |
 | 87  | [Scramble String](./problems/000-099/87/README.md)                                              |        | Hard   |                |        |
 | 88  | [Merge Sorted Array](./problems/000-099/88/README.md)                                           | :o:    | Easy   | [tp]           |        |
-| 89  | [Gray Code](./problems/000-099/89/README.md)                                                    |        | Medium |                |        |
+| 89  | [Gray Code](./problems/000-099/89/README.md)                                                    | :o:    | Medium | [bit]          | :+1:   |
 | 90  | [Subsets II](./problems/000-099/90/README.md)                                                   |        | Medium |                |        |
 | 91  | [Decode Ways](./problems/000-099/91/README.md)                                                  |        | Medium |                |        |
 | 92  | [Reverse Linked List II](./problems/000-099/92/README.md)                                       |        | Medium |                |        |

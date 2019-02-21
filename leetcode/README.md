@@ -257,7 +257,7 @@
 | 227 | [Basic Calculator II](./problems/200-299/227/README.md)                                         |        | Medium |                |        |
 | 228 | [Summary Ranges](./problems/200-299/228/README.md)                                              | :o:    | Medium | [array]        |        |
 | 229 | [Majority Element II](./problems/200-299/229/README.md)                                         |        | Medium |                |        |
-| 230 | [Kth Smallest Element in a BST](./problems/200-299/230/README.md)                               |        | Medium |                |        |
+| 230 | [Kth Smallest Element in a BST](./problems/200-299/230/README.md)                               | :o:    | Medium | [tree]         |        |
 | 231 | [Power of Two](./problems/200-299/231/README.md)                                                | :o:    | Easy   | [bit]          |        |
 | 232 | [Implement Queue using Stacks](./problems/200-299/232/README.md)                                | :o:    | Easy   | [design]       |        |
 | 233 | [Number of Digit One](./problems/200-299/233/README.md)                                         |        | Hard   |                |        |

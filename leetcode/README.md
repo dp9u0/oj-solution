@@ -263,7 +263,7 @@
 | 233 | [Number of Digit One](./problems/200-299/233/README.md)                                         |        | Hard   |                |        |
 | 234 | [Palindrome Linked List](./problems/200-299/234/README.md)                                      | :o:    | Easy   | [ll],[tp]      |        |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](./problems/200-299/235/README.md)              | :o:    | Easy   | [tree]         |        |
-| 236 | [Lowest Common Ancestor of a Binary Tree](./problems/200-299/236/README.md)                     |        | Medium |                |        |
+| 236 | [Lowest Common Ancestor of a Binary Tree](./problems/200-299/236/README.md)                     | :o:    | Medium | [tree]         |        |
 | 237 | [Delete Node in a Linked List](./problems/200-299/237/README.md)                                | :o:    | Easy   | [ll]           | :-1:   |
 | 238 | [Product of Array Except Self](./problems/200-299/238/README.md)                                | :o:    | Medium | [array]        |        |
 | 239 | [Sliding Window Maximum](./problems/200-299/239/README.md)                                      |        | Hard   |                |        |

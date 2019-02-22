@@ -40,4 +40,6 @@ TOP-K 问题,这类问题可以使用`BFPRT算法`(*Blum,Floyd,Pratt,Rivest,Tarj
 2. 递归调用1获取唯一的中位数.
 3. 选取中位数作为 `pivot`
 
+另外一个取中位数的方式是逼近法,`(min + max) / 2`
+
 [SourceCode](./solution.js)

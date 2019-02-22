@@ -3,7 +3,7 @@
  * @param {number} k
  * @return {number}
  */
-var findKthLargest = function (nums, k) {
+var findKthLargestv2 = function (nums, k) {
 
   /**
    * @param {number[]} nums
@@ -28,4 +28,30 @@ var findKthLargest = function (nums, k) {
     return count > kth ? quickSelect(nums, i + 1, end, kth) : quickSelect(nums, start, i - 1, kth - count);
   }
   return quickSelect(nums, 0, nums.length - 1, k);
+};
+
+/**
+ * @param {number[]} nums
+ * @param {number} k
+ * @return {number}
+ */
+var findKthLargest = function (nums, k) {
+  const count = (target, nums) => {
+    let count = 0;
+    for (let i = 0; i < nums.length; i++) {
+      if (nums[i] > target) count++
+    }
+    return count;
+  }
+  let min = Math.min(...nums);
+  let max = Math.max(...nums);
+  while (min < max) {
+    let mid = Math.floor((min + max) / 2);
+    if (count(mid, nums) >= k) {
+      min = mid + 1;
+    } else {
+      max = mid;
+    }
+  }
+  return min;
 };

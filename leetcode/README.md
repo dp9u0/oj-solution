@@ -242,7 +242,7 @@
 | 212 | [Word Search II](./problems/200-299/212/README.md)                                              |        | Hard   |                |        |
 | 213 | [House Robber II](./problems/200-299/213/README.md)                                             |        | Medium |                |        |
 | 214 | [Shortest Palindrome](./problems/200-299/214/README.md)                                         |        | Hard   |                |        |
-| 215 | [Kth Largest Element in an Array](./problems/200-299/215/README.md)                             | :o:    | Medium | [sort]         | :+1:   |
+| 215 | [Kth Largest Element in an Array](./problems/200-299/215/README.md) | :o: | Medium | [array] | :+1:  |
 | 216 | [Combination Sum III](./problems/200-299/216/README.md)                                         |        | Medium |                |        |
 | 217 | [Contains Duplicate](./problems/200-299/217/README.md)                                          | :o:    | Easy   | [hash]         |        |
 | 218 | [The Skyline Problem](./problems/200-299/218/README.md)                                         |        | Hard   |                |        |

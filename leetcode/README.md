@@ -118,7 +118,7 @@
 | 88  | [Merge Sorted Array](./problems/000-099/88/README.md)                                           | :o:    | Easy   | [tp]           |        |
 | 89  | [Gray Code](./problems/000-099/89/README.md)                                                    | :o:    | Medium | [bit]          | :+1:   |
 | 90  | [Subsets II](./problems/000-099/90/README.md)                                                   | :o:    | Medium | [hash]         |        |
-| 91  | [Decode Ways](./problems/000-099/91/README.md)                                                  |        | Medium |                |        |
+| 91  | [Decode Ways](./problems/000-099/91/README.md)                                                  | :o:    | Medium | [dp]           | :+1:   |
 | 92  | [Reverse Linked List II](./problems/000-099/92/README.md)                                       |        | Medium |                |        |
 | 93  | [Restore IP Addresses](./problems/000-099/93/README.md)                                         |        | Medium |                |        |
 | 94  | [Binary Tree Inorder Traversal](./problems/000-099/94/README.md)                                |        | Medium |                |        |

@@ -117,7 +117,7 @@
 | 87  | [Scramble String](./problems/000-099/87/README.md)                                              |        | Hard   |                |        |
 | 88  | [Merge Sorted Array](./problems/000-099/88/README.md)                                           | :o:    | Easy   | [tp]           |        |
 | 89  | [Gray Code](./problems/000-099/89/README.md)                                                    | :o:    | Medium | [bit]          | :+1:   |
-| 90  | [Subsets II](./problems/000-099/90/README.md)                                                   |        | Medium |                |        |
+| 90  | [Subsets II](./problems/000-099/90/README.md)                                                   | :o:    | Medium | [hash]         |        |
 | 91  | [Decode Ways](./problems/000-099/91/README.md)                                                  |        | Medium |                |        |
 | 92  | [Reverse Linked List II](./problems/000-099/92/README.md)                                       |        | Medium |                |        |
 | 93  | [Restore IP Addresses](./problems/000-099/93/README.md)                                         |        | Medium |                |        |
@@ -151,7 +151,7 @@
 | 121 | [Best Time to Buy and Sell Stock](./problems/100-199/121/README.md)                             | :o:    | Easy   | [array]        |        |
 | 122 | [Best Time to Buy and Sell Stock II](./problems/100-199/122/README.md)                          | :o:    | Easy   | [array]        |        |
 | 123 | [Best Time to Buy and Sell Stock III](./problems/100-199/123/README.md)                         |        | Hard   |                |        |
-| 124 | [Binary Tree Maximum Path Sum](./problems/100-199/124/README.md) | :o: | Hard | [tree] |   |
+| 124 | [Binary Tree Maximum Path Sum](./problems/100-199/124/README.md)                                | :o:    | Hard   | [tree]         |        |
 | 125 | [Valid Palindrome](./problems/100-199/125/README.md)                                            | :o:    | Easy   | [str]          |        |
 | 126 | [Word Ladder II](./problems/100-199/126/README.md)                                              |        | Hard   |                |        |
 | 127 | [Word Ladder](./problems/100-199/127/README.md)                                                 |        | Medium |                |        |
@@ -242,7 +242,7 @@
 | 212 | [Word Search II](./problems/200-299/212/README.md)                                              |        | Hard   |                |        |
 | 213 | [House Robber II](./problems/200-299/213/README.md)                                             |        | Medium |                |        |
 | 214 | [Shortest Palindrome](./problems/200-299/214/README.md)                                         |        | Hard   |                |        |
-| 215 | [Kth Largest Element in an Array](./problems/200-299/215/README.md) | :o: | Medium | [array] | :+1:  |
+| 215 | [Kth Largest Element in an Array](./problems/200-299/215/README.md)                             | :o:    | Medium | [array]        | :+1:   |
 | 216 | [Combination Sum III](./problems/200-299/216/README.md)                                         |        | Medium |                |        |
 | 217 | [Contains Duplicate](./problems/200-299/217/README.md)                                          | :o:    | Easy   | [hash]         |        |
 | 218 | [The Skyline Problem](./problems/200-299/218/README.md)                                         |        | Hard   |                |        |

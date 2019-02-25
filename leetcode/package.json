@@ -11,7 +11,7 @@
     "run": "node solving.js",
     "todo": "node scripts/todo.js",
     "lock": "node scripts/lock.js",
-    "list": "leetcode list -t algorithms -q LDm -s | head -n 30",
+    "list": "leetcode list -t algorithms -q LDm -s | tail -n 30",
     "stat": "leetcode stat --no-lock -t algorithms -g && leetcode stat --no-lock -t algorithms"
   },
   "author": "",

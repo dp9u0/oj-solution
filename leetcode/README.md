@@ -156,7 +156,7 @@
 | 126 | [Word Ladder II](./problems/100-199/126/README.md)                                              |        | Hard   |                |        |
 | 127 | [Word Ladder](./problems/100-199/127/README.md)                                                 | :o:    | Medium | [str]          |        |
 | 128 | [Longest Consecutive Sequence](./problems/100-199/128/README.md)                                |        | Hard   |                |        |
-| 129 | [Sum Root to Leaf Numbers](./problems/100-199/129/README.md)                                    |        | Medium |                |        |
+| 129 | [Sum Root to Leaf Numbers](./problems/100-199/129/README.md)                                    | :o:    | Medium | [tree]         |        |
 | 130 | [Surrounded Regions](./problems/100-199/130/README.md)                                          |        | Medium |                |        |
 | 131 | [Palindrome Partitioning](./problems/100-199/131/README.md)                                     |        | Medium |                |        |
 | 132 | [Palindrome Partitioning II](./problems/100-199/132/README.md)                                  |        | Hard   |                |        |

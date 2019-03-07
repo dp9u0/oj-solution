@@ -130,7 +130,7 @@
 | 100 | [Same Tree](./problems/100-199/100/README.md)                                                   | :o:    | Easy   | [tree]         |        |
 | 101 | [Symmetric Tree](./problems/100-199/101/README.md)                                              | :o:    | Easy   | [bfs]          |        |
 | 102 | [Binary Tree Level Order Traversal](./problems/100-199/102/README.md)                           | :o:    | Medium | [tree]         |        |
-| 103 | [Binary Tree Zigzag Level Order Traversal](./problems/100-199/103/README.md)                    |        | Medium |                |        |
+| 103 | [Binary Tree Zigzag Level Order Traversal](./problems/100-199/103/README.md)                    | :o:    | Medium | [tree]         |        |
 | 104 | [Maximum Depth of Binary Tree](./problems/100-199/104/README.md)                                | :o:    | Easy   | [tree]         |        |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./problems/100-199/105/README.md)   |        | Medium |                |        |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](./problems/100-199/106/README.md)  |        | Medium |                |        |

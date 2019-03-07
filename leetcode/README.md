@@ -144,7 +144,7 @@
 | 114 | [Flatten Binary Tree to Linked List](./problems/100-199/114/README.md)                          | :o:    | Medium | [tree]         | :+1:   |
 | 115 | [Distinct Subsequences](./problems/100-199/115/README.md)                                       |        | Hard   |                |        |
 | 116 | [Populating Next Right Pointers in Each Node](./problems/100-199/116/README.md)                 | :o:    | Medium | [tree]         |        |
-| 117 | [Populating Next Right Pointers in Each Node II](./problems/100-199/117/README.md)              |        | Medium |                |        |
+| 117 | [Populating Next Right Pointers in Each Node II](./problems/100-199/117/README.md)              | :o:    | Medium | [tree]         |        |
 | 118 | [Pascal's Triangle](./problems/100-199/118/README.md)                                           | :o:    | Easy   | [array]        |        |
 | 119 | [Pascal's Triangle II](./problems/100-199/119/README.md)                                        | :o:    | Easy   | [array]        |        |
 | 120 | [Triangle](./problems/100-199/120/README.md)                                                    |        | Medium |                |        |

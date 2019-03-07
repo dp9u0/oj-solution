@@ -120,7 +120,7 @@
 | 90  | [Subsets II](./problems/000-099/90/README.md)                                                   | :o:    | Medium | [hash]         |        |
 | 91  | [Decode Ways](./problems/000-099/91/README.md)                                                  | :o:    | Medium | [dp]           | :+1:   |
 | 92  | [Reverse Linked List II](./problems/000-099/92/README.md)                                       | :o:    | Medium | [ll]           | :+1:   |
-| 93  | [Restore IP Addresses](./problems/000-099/93/README.md)                                         |        | Medium |                |        |
+| 93  | [Restore IP Addresses](./problems/000-099/93/README.md)                                         | :o:    | Medium | [bt]           |        |
 | 94  | [Binary Tree Inorder Traversal](./problems/000-099/94/README.md)                                |        | Medium |                |        |
 | 95  | [Unique Binary Search Trees II](./problems/000-099/95/README.md)                                |        | Medium |                |        |
 | 96  | [Unique Binary Search Trees](./problems/000-099/96/README.md)                                   |        | Medium |                |        |

@@ -125,7 +125,7 @@
 | 95  | [Unique Binary Search Trees II](./problems/000-099/95/README.md)                                |        | Medium |                |        |
 | 96  | [Unique Binary Search Trees](./problems/000-099/96/README.md)                                   |        | Medium |                |        |
 | 97  | [Interleaving String](./problems/000-099/97/README.md)                                          |        | Hard   |                |        |
-| 98  | [Validate Binary Search Tree](./problems/000-099/98/README.md)                                  |        | Medium |                |        |
+| 98  | [Validate Binary Search Tree](./problems/000-099/98/README.md)                                  | :o:    | Medium | [tree]         | :+1:   |
 | 99  | [Recover Binary Search Tree](./problems/000-099/99/README.md)                                   |        | Hard   |                |        |
 | 100 | [Same Tree](./problems/100-199/100/README.md)                                                   | :o:    | Easy   | [tree]         |        |
 | 101 | [Symmetric Tree](./problems/100-199/101/README.md)                                              | :o:    | Easy   | [bfs]          |        |

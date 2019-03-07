@@ -129,7 +129,7 @@
 | 99  | [Recover Binary Search Tree](./problems/000-099/99/README.md)                                   |        | Hard   |                |        |
 | 100 | [Same Tree](./problems/100-199/100/README.md)                                                   | :o:    | Easy   | [tree]         |        |
 | 101 | [Symmetric Tree](./problems/100-199/101/README.md)                                              | :o:    | Easy   | [bfs]          |        |
-| 102 | [Binary Tree Level Order Traversal](./problems/100-199/102/README.md)                           |        | Medium |                |        |
+| 102 | [Binary Tree Level Order Traversal](./problems/100-199/102/README.md)                           | :o:    | Medium | [tree]         |        |
 | 103 | [Binary Tree Zigzag Level Order Traversal](./problems/100-199/103/README.md)                    |        | Medium |                |        |
 | 104 | [Maximum Depth of Binary Tree](./problems/100-199/104/README.md)                                | :o:    | Easy   | [tree]         |        |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./problems/100-199/105/README.md)   |        | Medium |                |        |

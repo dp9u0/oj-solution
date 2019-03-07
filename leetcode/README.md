@@ -132,8 +132,8 @@
 | 102 | [Binary Tree Level Order Traversal](./problems/100-199/102/README.md)                           | :o:    | Medium | [tree]         |        |
 | 103 | [Binary Tree Zigzag Level Order Traversal](./problems/100-199/103/README.md)                    | :o:    | Medium | [tree]         |        |
 | 104 | [Maximum Depth of Binary Tree](./problems/100-199/104/README.md)                                | :o:    | Easy   | [tree]         |        |
-| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./problems/100-199/105/README.md) | :o: | Medium | [tree] |   |
-| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](./problems/100-199/106/README.md)  |        | Medium |                |        |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./problems/100-199/105/README.md)   | :o:    | Medium | [tree]         |        |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](./problems/100-199/106/README.md)  | :o:    | Medium | [tree]         |        |
 | 107 | [Binary Tree Level Order Traversal II](./problems/100-199/107/README.md)                        | :o:    | Easy   | [tree]         |        |
 | 108 | [Convert Sorted Array to Binary Search Tree](./problems/100-199/108/README.md)                  | :o:    | Easy   | [tree]         |        |
 | 109 | [Convert Sorted List to Binary Search Tree](./problems/100-199/109/README.md)                   |        | Medium |                |        |

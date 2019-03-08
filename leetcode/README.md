@@ -1,6 +1,42 @@
 
 # [LeetCode](https://leetcode.com/problemset/all) Solutions With Javascript
 
+## How To Use
+
+安装 leetcode-cli并配置
+
+```bash
+npm install -g leetcode-cli
+
+vim ~/.lc/config.json
+{
+  "autologin": {
+        "enable": true
+    },
+    "code": {
+        "editor": "vscode",
+        "lang": "javascript"
+    },
+    "color": {
+        "enable": true,
+        "theme": "default"
+    },
+    "file": {
+        "show": "${fid}",
+        "submission": "${fid}"
+    }
+}
+```
+
+使用命令行开始提交保存题目!!
+
+```bash
+npm run start 18 # start problem 18
+npm run test # test by testcase
+npm run push # push for all test
+npm run finish [tree] # finished and set topic 'tree'
+```
+
 ## 分类
 
 * array

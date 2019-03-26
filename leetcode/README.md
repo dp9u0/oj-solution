@@ -135,7 +135,7 @@ npm run finish [tree] # finished and set topic 'tree'
 | 69  | [Sqrt(x)](./problems/000-099/69/README.md)                                                      | :o:    | Easy   | [math]         |        |
 | 70  | [Climbing Stairs](./problems/000-099/70/README.md)                                              | :o:    | Easy   | [dp]           | :+1:   |
 | 71  | [Simplify Path](./problems/000-099/71/README.md)                                                | :o:    | Medium | [stack]        |        |
-| 72  | [Edit Distance](./problems/000-099/72/README.md)                                                |        | Hard   |                |        |
+| 72  | [Edit Distance](./problems/000-099/72/README.md)                                                | :o:    | Hard   | [dp]           |        |
 | 73  | [Set Matrix Zeroes](./problems/000-099/73/README.md)                                            | :o:    | Medium | [array]        |        |
 | 74  | [Search a 2D Matrix](./problems/000-099/74/README.md)                                           | :o:    | Medium | [bs]           |        |
 | 75  | [Sort Colors](./problems/000-099/75/README.md)                                                  | :o:    | Medium | [tp]           |        |

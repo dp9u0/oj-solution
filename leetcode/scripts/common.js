@@ -96,6 +96,7 @@ module.exports.markdown = function (data) {
   }
   markdown += '```\n\n';
   markdown += `## Solution\n\n[SourceCode](./solution.js)`;
+  markdown += '\n';
   return markdown;
 }
 

@@ -362,7 +362,7 @@ npm run finish [tree] # finished and set topic 'tree'
 | 296 | [Best Meeting Point](./problems/200-299/296/README.md)                                          | :lock: | Hard   |                |        |
 | 297 | [Serialize and Deserialize Binary Tree](./problems/200-299/297/README.md)                       |        | Hard   |                |        |
 | 298 | [Binary Tree Longest Consecutive Sequence](./problems/200-299/298/README.md)                    | :lock: | Medium |                |        |
-| 299 | [Bulls and Cows](./problems/200-299/299/README.md)                                              | :o:    | Medium | [hash]         |        |
+| 299 | [Bulls and Cows](./problems/200-299/299/README.md)                                              | :o:    | Easy   | [hash]         |        |
 | 300 | [Longest Increasing Subsequence](./problems/300-399/300/README.md)                              |        | Medium |                |        |
 | 301 | [Remove Invalid Parentheses](./problems/300-399/301/README.md)                                  |        | Hard   |                |        |
 | 302 | [Smallest Rectangle Enclosing Black Pixels](./problems/300-399/302/README.md)                   | :lock: | Hard   |                |        |
@@ -455,7 +455,7 @@ npm run finish [tree] # finished and set topic 'tree'
 | 389 | [Find the Difference](./problems/300-399/389/README.md)                                         | :o:    | Easy   | [hash]         |        |
 | 390 | [Elimination Game](./problems/300-399/390/README.md)                                            |        | Medium |                |        |
 | 391 | [Perfect Rectangle](./problems/300-399/391/README.md)                                           |        | Hard   |                |        |
-| 392 | [Is Subsequence](./problems/300-399/392/README.md)                                              |        | Medium |                |        |
+| 392 | [Is Subsequence](./problems/300-399/392/README.md)                                              | :o:    | Easy   | [tp]           |        |
 | 393 | [UTF-8 Validation](./problems/300-399/393/README.md)                                            |        | Medium |                |        |
 | 394 | [Decode String](./problems/300-399/394/README.md)                                               |        | Medium |                |        |
 | 395 | [Longest Substring with At Least K Repeating Characters](./problems/300-399/395/README.md)      |        | Medium |                |        |

@@ -1050,10 +1050,3 @@ npm run finish [tree] # finished and set topic 'tree'
 | 990 | [Satisfiability of Equality Equations](./problems/900-999/990/README.md)                        | :o:    | Medium | [hash]         |        |
 | 991 | [Broken Calculator](./problems/900-999/991/README.md)                                           | :o:    | Medium | [math]         |        |
 | 992 | [Subarrays with K Different Integers](./problems/900-999/992/README.md)                         |        | Medium |                |        |
-| 993 | [993](./problems/900-999/993/README.md)                                                         |        | Medium |                |        |
-| 994 | [994](./problems/900-999/994/README.md)                                                         |        | Medium |                |        |
-| 995 | [995](./problems/900-999/995/README.md)                                                         |        | Medium |                |        |
-| 996 | [996](./problems/900-999/996/README.md)                                                         |        | Medium |                |        |
-| 997 | [997](./problems/900-999/997/README.md)                                                         |        | Medium |                |        |
-| 998 | [998](./problems/900-999/998/README.md)                                                         |        | Medium |                |        |
-| 999 | [999](./problems/900-999/999/README.md)                                                         |        | Medium |                |        |

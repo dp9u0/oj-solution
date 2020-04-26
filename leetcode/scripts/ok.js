@@ -6,7 +6,7 @@ let remark = process.argv[3];
 if (remark === '+1') {
   remark = ':+1:'
 }
-if (!common.started()) {
+if (!common.checkStarted()) {
   console.error('not started a problem,use npm run start {problem no} first.');
 } else {
   let problem = common.getCurrent();
@@ -16,13 +16,18 @@ if (!common.started()) {
   let jsPathTarget = common.getTargetJsPath(problem);
   let markdownPathTarget = common.getTargetMdPath(problem);
 
-  // save first
-  common.save(problem);
+  // 获取题目信息
+  const { title, level } = common.parseCurrent();
 
-  // mkdir 
-  fs.mkdirSync(targetDir, {
-    recursive: true
-  });
+  // save first
+  common.saveCurrent(problem);
+
+  if (!fs.existsSync(targetDir)) {
+    // mkdir 
+    fs.mkdirSync(targetDir, {
+      recursive: true
+    });
+  }
 
   // copy file
   fs.copyFileSync(jsPath, jsPathTarget);
@@ -32,7 +37,9 @@ if (!common.started()) {
   fs.unlinkSync(jsPath);
   fs.unlinkSync(markdownPath);
   common.removeCurrent();
-  common.readme(problem, topics, ':o:', remark);
+
+  // update readme
+  common.updateReadme({ problem, title, level, topics, status: ':o:', remark });
   setTimeout(() => {
     // execSync('git add .', {
     //   stdio: 'inherit'

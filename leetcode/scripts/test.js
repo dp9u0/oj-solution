@@ -6,11 +6,10 @@ if (!common.started()) {
 } else {
   let problem = common.getCurrent();
   let jsPath = common.getJsPath(problem);
-  let cmdStr = `leetcode test ${jsPath}`;
-
   // save first
-  common.save(problem);
-
+  common.saveCurrent(problem);
+  // test
+  let cmdStr = `leetcode test ${jsPath}`;
   execSync(cmdStr, {
     stdio: 'inherit'
   });

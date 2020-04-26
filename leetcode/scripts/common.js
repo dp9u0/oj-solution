@@ -9,7 +9,7 @@ const README_PATH = `./README.md`;
 module.exports.SOLUTION_JS_PATH = SOLUTION_JS_PATH;
 module.exports.SOLUTION_MD_PATH = SOLUTION_MD_PATH;
 
-module.exports.started = function () {
+module.exports.checkStarted = function () {
   return fs.existsSync('./solving/current');
 }
 
@@ -20,18 +20,34 @@ module.exports.setCurrent = function (problem) {
 module.exports.getCurrent = function () {
   return fs.readFileSync('./solving/current', 'utf-8')
 }
+
 module.exports.removeCurrent = function () {
   fs.unlinkSync('./solving/current')
 }
 
-module.exports.save = function (problem) {
+module.exports.parseCurrent = function () {
+  // 保存 markdown
+  let contentOfMd = fs.readFileSync(SOLUTION_MD_PATH, 'utf-8');
+  let lineOfMd = contentOfMd.split("\n");
+  let title = lineOfMd[0].replace(/# \[[0-9]+\] /, "");
+  let lineLevel = lineOfMd[7];
+  let level = lineLevel.indexOf("Easy") !== -1 ? "Easy" : lineLevel.indexOf("Medium") !== -1 ? "Medium" : "Hard";
+  return { title, level };
+}
+
+module.exports.saveCurrent = function (problem) {
   let jsPath = `./solving/${problem}.js`;
-  let lines = fs.readFileSync(SOLUTION_JS_PATH, 'utf-8');
-  if (lines.indexOf("\/\/ TEST:") !== -1) {
-    lines = lines.replace("\/\/ TEST:", "\/**\n\/\/ TEST:");
-    lines += '\n*/'
+  let mdPath = `./solving/${problem}.md`;
+  let linesOfJs = fs.readFileSync(SOLUTION_JS_PATH, 'utf-8');
+  // 保存 js 解决方案
+  if (linesOfJs.indexOf("\/\/ TEST:") !== -1) {
+    linesOfJs = linesOfJs.replace("\/\/ TEST:", "\/**\n\/\/ TEST:");
+    linesOfJs += '\n*/'
   }
-  fs.writeFileSync(jsPath, lines);
+  fs.writeFileSync(jsPath, linesOfJs);
+  // 保存 markdown
+  let contentOfMd = fs.readFileSync(SOLUTION_MD_PATH, 'utf-8');
+  fs.writeFileSync(mdPath, contentOfMd);
 }
 
 module.exports.getJsPath = function (problem) {
@@ -63,12 +79,12 @@ const getTargetMdPath = function (problem) {
 
 module.exports.getTargetMdPath = getTargetMdPath;
 
-module.exports.exists = function (problem) {
+module.exports.checkProblemExists = function (problem) {
   let jsPath = `./solving/${problem}.js`;
   return fs.existsSync(jsPath);
 }
 
-module.exports.markdown = function (data) {
+module.exports.creteMarkdown = function (data) {
   let lines = data.split(/[\n|\r]+/);
   // 生成 ${problem}.md
   let markdown = '';
@@ -83,7 +99,7 @@ module.exports.markdown = function (data) {
         break;
       }
     } else if (line && line[0] === '*') {
-      if (line.indexOf("* Source Code:") === -1&&line.indexOf("* Total Accepted:") === -1&&line.indexOf("* Total Submissions:") === -1) {
+      if (line.indexOf("* Source Code:") === -1 && line.indexOf("* Total Accepted:") === -1 && line.indexOf("* Total Submissions:") === -1) {
         markdown += `${line.trim()}\n`
       }
     } else if (/^https:\/\/leetcode.com\/problems.+/.test(line)) {
@@ -102,8 +118,8 @@ module.exports.markdown = function (data) {
   return markdown;
 }
 
-module.exports.readme = function (problem, topics = '', status = '', remark = '', callback) {
-  const MarkdownBakName = README_PATH + '.bak.md';
+module.exports.updateReadme = function ({ problem, title, level, topics = '', status = '', remark = '', callback }) {
+  const MarkdownBakName = README_PATH + '.bak';
   fs.copyFileSync(README_PATH, MarkdownBakName);
   fs.unlinkSync(README_PATH);
   let reader = fs.createReadStream(MarkdownBakName);
@@ -117,7 +133,9 @@ module.exports.readme = function (problem, topics = '', status = '', remark = ''
     let lineOutput;
     if (reg.test(line)) {
       let blocks = line.split(/\s*\|\s*/);
-      let newLine = `| ${problem} | ${blocks[2]} | ${status} | ${blocks[4]} | ${topics} | ${remark}  |`;
+      let oldTitle = blocks[2];
+      let oldLevel = blocks[4];
+      let newLine = `| ${problem} | ${title || oldTitle} | ${status} | ${level || oldLevel} | ${topics} | ${remark}  |`;
       lineOutput = newLine;
       found = true;
     } else {
@@ -129,11 +147,12 @@ module.exports.readme = function (problem, topics = '', status = '', remark = ''
   rl.on('close', () => {
     if (!found) {
       let md = getTargetMdPath(problem);
-      let newLine = `| ${problem} | [${problem}](${md}) | ${status} | Level | ${topics} | ${remark}  |`;
+      let newLine = `| ${problem} | [${title || problem}](${md}) | ${status} | ${level || "Easy"} | ${topics} | ${remark}  |`;
       writer.write(newLine + os.EOL); // 下一行
     }
     if (callback) {
       callback()
     }
+    fs.unlinkSync(MarkdownBakName);
   });
 }

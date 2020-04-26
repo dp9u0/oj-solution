@@ -6,10 +6,10 @@ let solutionjsPath = common.SOLUTION_JS_PATH;
 let solutionmdPath = common.SOLUTION_MD_PATH;
 let jsPath = common.getJsPath(problem);
 let markdownPath = common.getMdPath(problem);
-
+let existed = false;
 let cmdStr = `leetcode show -g ${problem} -o solving`;
 
-if (common.exists(problem)) {
+if (common.checkProblemExists(problem)) {
   cmdStr = `leetcode show ${problem}`;
   existed = true;
 }
@@ -20,12 +20,13 @@ exec(cmdStr, function (err, stdout, stderr) {
     console.error('error:' + stderr);
   } else {
     let data = stdout;
-    console.log(data);
     // 复制文件
     fs.copyFileSync(jsPath, solutionjsPath);
-    let markdown = common.markdown(data);
-    fs.writeFileSync(markdownPath, markdown);
-    fs.writeFileSync(solutionmdPath, markdown);
+    if (!existed) {
+      let markdown = common.creteMarkdown(data);
+      fs.writeFileSync(markdownPath, markdown);
+    }
+    fs.copyFileSync(markdownPath, solutionmdPath);
     common.setCurrent(problem);
   }
 });

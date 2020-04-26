@@ -5,13 +5,11 @@
   "main": "index.js",
   "scripts": {
     "start": "node scripts/start.js",
+    "run": "node solving.js",
     "test": "node scripts/test.js",
     "push": "node scripts/push.js",
-    "finish": "node scripts/finish.js",
-    "run": "node solving.js",
-    "todo": "node scripts/todo.js",
-    "lock": "node scripts/lock.js",
-    "list": "leetcode list -t algorithms -q LDe -s",
+    "ok": "node scripts/ok.js",
+    "list": "leetcode list -t algorithms -q LD -s | tail -20",
     "stat": "leetcode stat --no-lock -t algorithms -g && leetcode stat --no-lock -t algorithms"
   },
   "author": "",

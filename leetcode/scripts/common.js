@@ -3,9 +3,11 @@ const readline = require('readline');
 const os = require('os');
 
 const SOLUTION_JS_PATH = `./solving.js`;
+const SOLUTION_MD_PATH = `./solving.md`;
 const README_PATH = `./README.md`;
 
 module.exports.SOLUTION_JS_PATH = SOLUTION_JS_PATH;
+module.exports.SOLUTION_MD_PATH = SOLUTION_MD_PATH;
 
 module.exports.started = function () {
   return fs.existsSync('./solving/current');

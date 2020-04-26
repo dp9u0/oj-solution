@@ -139,7 +139,7 @@ npm run finish [tree] # finished and set topic 'tree'
 | 73  | [Set Matrix Zeroes](./problems/000-099/73/README.md)                                            | :o:    | Medium | [array]        |        |
 | 74  | [Search a 2D Matrix](./problems/000-099/74/README.md)                                           | :o:    | Medium | [bs]           |        |
 | 75  | [Sort Colors](./problems/000-099/75/README.md)                                                  | :o:    | Medium | [tp]           |        |
-| 76  | [Minimum Window Substring](./problems/000-099/76/README.md)                                     |        | Hard   |                |        |
+| 76  | [Minimum Window Substring](./problems/000-099/76/README.md)                                     | :o:    | Hard   | [tp],[hash]    |        |
 | 77  | [Combinations](./problems/000-099/77/README.md)                                                 | :o:    | Medium | [bt]           |        |
 | 78  | [Subsets](./problems/000-099/78/README.md)                                                      | :o:    | Medium | [bt]           |        |
 | 79  | [Word Search](./problems/000-099/79/README.md)                                                  | :o:    | Medium | [bt]           | :+1:   |
@@ -1049,4 +1049,3 @@ npm run finish [tree] # finished and set topic 'tree'
 | 989 | [Add to Array-Form of Integer](./problems/900-999/989/README.md)                                | :o:    | Easy   | [math]         |        |
 | 990 | [Satisfiability of Equality Equations](./problems/900-999/990/README.md)                        | :o:    | Medium | [hash]         |        |
 | 991 | [Broken Calculator](./problems/900-999/991/README.md)                                           | :o:    | Medium | [math]         |        |
-| 992 | [Subarrays with K Different Integers](./problems/900-999/992/README.md)                         |        | Medium |                |        |

@@ -8,49 +8,48 @@ if (remark === '+1') {
 }
 if (!common.checkStarted()) {
   console.error('not started a problem,use npm run start {problem no} first.');
-} else {
-  let problem = common.getCurrent();
-  let jsPath = common.getJsPath(problem);
-  let markdownPath = common.getMdPath(problem);
-  let targetDir = common.getTargetDir(problem);
-  let jsPathTarget = common.getTargetJsPath(problem);
-  let markdownPathTarget = common.getTargetMdPath(problem);
+  return;
+}
 
-  // 获取题目信息
-  const { title, level } = common.parseCurrent();
+let problem = common.getCurrent();
+let jsPath = common.getJsPath(problem);
+let markdownPath = common.getMdPath(problem);
+let targetDir = common.getTargetDir(problem);
+let jsPathTarget = common.getTargetJsPath(problem);
+let markdownPathTarget = common.getTargetMdPath(problem);
 
-  // save first
-  common.saveCurrent(problem);
+if (!fs.existsSync(targetDir)) {
+  // mkdir 
+  fs.mkdirSync(targetDir, {
+    recursive: true
+  });
+}
 
-  if (!fs.existsSync(targetDir)) {
-    // mkdir 
-    fs.mkdirSync(targetDir, {
-      recursive: true
-    });
-  }
+// 获取题目信息
+const { title, level } = common.parseCurrent();
 
-  // copy file
-  fs.copyFileSync(jsPath, jsPathTarget);
-  fs.copyFileSync(markdownPath, markdownPathTarget);
+// copy file
+fs.copyFileSync(common.SOLUTION_JS_PATH, jsPathTarget);
+fs.copyFileSync(common.SOLUTION_MD_PATH, markdownPathTarget);
 
-  // clean up
-  fs.unlinkSync(jsPath);
-  fs.unlinkSync(markdownPath);
-  common.removeCurrent();
+// clean up
+common.removeCurrent();
+fs.unlinkSync(jsPath);
+fs.unlinkSync(markdownPath);
 
-  // update readme
-  common.updateReadme({ problem, title, level, topics, status: ':o:', remark });
-  setTimeout(() => {
-    // execSync('git add .', {
-    //   stdio: 'inherit'
-    // });
-    // execSync('git commit -m ' + `"#${problem}"`, {
-    //   stdio: 'inherit'
-    // });
-  }, 1000);
-  if (remark === ':+1:') {
-    execSync(`leetcode star ${problem}`, {
-      stdio: 'inherit'
-    });
-  }
+// update readme
+common.updateReadme({ problem, title, level, topics, status: ':o:', remark });
+setTimeout(() => {
+  // execSync('git add .', {
+  //   stdio: 'inherit'
+  // });
+  // execSync('git commit -m ' + `"#${problem}"`, {
+  //   stdio: 'inherit'
+  // });
+}, 1000);
+
+if (remark === ':+1:') {
+  execSync(`leetcode star ${problem}`, {
+    stdio: 'inherit'
+  });
 }

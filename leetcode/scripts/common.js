@@ -35,14 +35,16 @@ module.exports.parseCurrent = function () {
   return { title, level };
 }
 
-module.exports.saveCurrent = function (problem) {
+module.exports.saveCurrent = function (problem, commentTestCode = true) {
   let jsPath = `./solving/${problem}.js`;
   let mdPath = `./solving/${problem}.md`;
   let linesOfJs = fs.readFileSync(SOLUTION_JS_PATH, 'utf-8');
-  // 保存 js 解决方案
-  if (linesOfJs.indexOf("\/\/ TEST:") !== -1) {
-    linesOfJs = linesOfJs.replace("\/\/ TEST:", "\/**\n\/\/ TEST:");
-    linesOfJs += '\n*/'
+  if (commentTestCode) {
+    // 保存 js 解决方案
+    if (linesOfJs.indexOf("\/\/ TEST:") !== -1) {
+      linesOfJs = linesOfJs.replace("\/\/ TEST:", "\/**\n\/\/ TEST:");
+      linesOfJs += '\n*/'
+    }
   }
   fs.writeFileSync(jsPath, linesOfJs);
   // 保存 markdown

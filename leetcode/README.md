@@ -147,7 +147,7 @@ npm run finish [tree] # finished and set topic 'tree'
 | 81  | [Search in Rotated Sorted Array II](./problems/000-099/81/README.md)                            | :o:    | Medium | [bs]           |        |
 | 82  | [Remove Duplicates from Sorted List II](./problems/000-099/82/README.md)                        | :o:    | Medium | [ll]           |        |
 | 83  | [Remove Duplicates from Sorted List](./problems/000-099/83/README.md)                           | :o:    | Easy   | [ll]           |        |
-| 84  | [Largest Rectangle in Histogram](./problems/000-099/84/README.md)                               |        | Hard   |                |        |
+| 84  | [Largest Rectangle in Histogram](./problems/000-099/84/README.md)                               | :o:    | Hard   | [stack]        | :+1:   |
 | 85  | [Maximal Rectangle](./problems/000-099/85/README.md)                                            |        | Hard   |                |        |
 | 86  | [Partition List](./problems/000-099/86/README.md)                                               | :o:    | Medium | [ll]           | :+1:   |
 | 87  | [Scramble String](./problems/000-099/87/README.md)                                              |        | Hard   |                |        |

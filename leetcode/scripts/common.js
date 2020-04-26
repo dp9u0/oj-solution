@@ -135,7 +135,7 @@ module.exports.updateReadme = function ({ problem, title, level, topics = '', st
       let blocks = line.split(/\s*\|\s*/);
       let oldTitle = blocks[2];
       let oldLevel = blocks[4];
-      let newLine = `| ${problem} | ${title || oldTitle} | ${status} | ${level || oldLevel} | ${topics} | ${remark}  |`;
+      let newLine = `| ${problem} | ${oldTitle} | ${status} | ${level || oldLevel} | ${topics} | ${remark}  |`;
       lineOutput = newLine;
       found = true;
     } else {

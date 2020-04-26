@@ -1,7 +1,7 @@
 let common = require('./common')
 let execSync = require('child_process').execSync;
 
-if (!common.started()) {
+if (!common.checkStarted()) {
   console.error('not started a problem,use npm run start {problem no} first.');
 } else {
   let problem = common.getCurrent();

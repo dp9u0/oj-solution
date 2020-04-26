@@ -41,12 +41,12 @@ if (!common.checkStarted()) {
   // update readme
   common.updateReadme({ problem, title, level, topics, status: ':o:', remark });
   setTimeout(() => {
-    execSync('git add .', {
-      stdio: 'inherit'
-    });
-    execSync('git commit -m ' + `"#${problem}"`, {
-      stdio: 'inherit'
-    });
+    // execSync('git add .', {
+    //   stdio: 'inherit'
+    // });
+    // execSync('git commit -m ' + `"#${problem}"`, {
+    //   stdio: 'inherit'
+    // });
   }, 1000);
   if (remark === ':+1:') {
     execSync(`leetcode star ${problem}`, {

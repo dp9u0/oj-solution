@@ -3,17 +3,17 @@ let common = require('./common');
 let execSync = require('child_process').execSync;
 let topics = process.argv[2] || '[none]';
 let remark = process.argv[3];
+
 if (remark === '+1') {
   remark = ':+1:'
 }
+
 if (!common.checkStarted()) {
   console.error('not started a problem,use npm run start {problem no} first.');
   return;
 }
 
 let problem = common.getCurrent();
-let jsPath = common.getJsPath(problem);
-let markdownPath = common.getMdPath(problem);
 let targetDir = common.getTargetDir(problem);
 let jsPathTarget = common.getTargetJsPath(problem);
 let markdownPathTarget = common.getTargetMdPath(problem);
@@ -34,8 +34,8 @@ fs.copyFileSync(common.SOLUTION_MD_PATH, markdownPathTarget);
 
 // clean up
 common.removeCurrent();
-fs.unlinkSync(jsPath);
-fs.unlinkSync(markdownPath);
+fs.unlinkSync(common.SOLUTION_JS_PATH);
+fs.unlinkSync(common.SOLUTION_MD_PATH);
 
 // update readme
 common.updateReadme({ problem, title, level, topics, status: ':o:', remark });

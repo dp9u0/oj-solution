@@ -10,19 +10,19 @@ module.exports.SOLUTION_JS_PATH = SOLUTION_JS_PATH;
 module.exports.SOLUTION_MD_PATH = SOLUTION_MD_PATH;
 
 module.exports.checkStarted = function () {
-  return fs.existsSync('./solving/current');
+  return fs.existsSync('./current');
 }
 
 module.exports.setCurrent = function (problem) {
-  fs.writeFileSync('./solving/current', problem)
+  fs.writeFileSync('./current', problem)
 }
 
 module.exports.getCurrent = function () {
-  return fs.readFileSync('./solving/current', 'utf-8')
+  return fs.readFileSync('./current', 'utf-8')
 }
 
 module.exports.removeCurrent = function () {
-  fs.unlinkSync('./solving/current')
+  fs.unlinkSync('./current')
 }
 
 module.exports.parseCurrent = function () {

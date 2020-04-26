@@ -59,9 +59,6 @@ typings/
 
 .vscode
 run.bat
-
 solving/*
 package-lock.json
-solving.js
-solving.md
 README.md.bak

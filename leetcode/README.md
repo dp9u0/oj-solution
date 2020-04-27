@@ -160,7 +160,7 @@ npm run finish [tree] # finished and set topic 'tree'
 | 94  | [Binary Tree Inorder Traversal](./problems/000-099/94/README.md)                                | :o:    | Medium | [tree]         | :+1:   |
 | 95  | [Unique Binary Search Trees II](./problems/000-099/95/README.md)                                | :o:    | Medium | [dp]           |        |
 | 96  | [Unique Binary Search Trees](./problems/000-099/96/README.md)                                   | :o:    | Medium | [dp]           |        |
-| 97  | [Interleaving String](./problems/000-099/97/README.md)                                          |        | Hard   |                |        |
+| 97  | [Interleaving String](./problems/000-099/97/README.md)                                          | :o:    | Hard   | [dp]           |        |
 | 98  | [Validate Binary Search Tree](./problems/000-099/98/README.md)                                  | :o:    | Medium | [tree]         | :+1:   |
 | 99  | [Recover Binary Search Tree](./problems/000-099/99/README.md)                                   |        | Hard   |                |        |
 | 100 | [Same Tree](./problems/100-199/100/README.md)                                                   | :o:    | Easy   | [tree]         |        |

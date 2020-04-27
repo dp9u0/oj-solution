@@ -5,24 +5,25 @@ const os = require('os');
 const SOLUTION_JS_PATH = `./solving.js`;
 const SOLUTION_MD_PATH = `./solving.md`;
 const README_PATH = `./README.md`;
+const CURRENT_FILE = `./current`;
 
 module.exports.SOLUTION_JS_PATH = SOLUTION_JS_PATH;
 module.exports.SOLUTION_MD_PATH = SOLUTION_MD_PATH;
 
 module.exports.checkStarted = function () {
-  return fs.existsSync('./current');
+  return fs.existsSync(CURRENT_FILE);
 }
 
 module.exports.setCurrent = function (problem) {
-  fs.writeFileSync('./current', problem)
+  fs.writeFileSync(CURRENT_FILE, problem);
 }
 
 module.exports.getCurrent = function () {
-  return fs.readFileSync('./current', 'utf-8')
+  return fs.readFileSync(CURRENT_FILE, 'utf-8');
 }
 
 module.exports.removeCurrent = function () {
-  fs.unlinkSync('./current')
+  fs.unlinkSync(CURRENT_FILE);
 }
 
 module.exports.parseCurrent = function () {

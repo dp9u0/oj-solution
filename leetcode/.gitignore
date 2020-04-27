@@ -57,8 +57,9 @@ typings/
 # dotenv environment variables file
 .env
 
-.vscode
-run.bat
+current
+solving.js
+solving.md
 solving/*
 package-lock.json
 README.md.bak

@@ -14,6 +14,8 @@ if (!common.checkStarted()) {
 }
 
 let problem = common.getCurrent();
+let jsPathSolving = common.getJsPath(problem);
+let markdownPathSolving = common.getMdPath(problem);
 let targetDir = common.getTargetDir(problem);
 let jsPathTarget = common.getTargetJsPath(problem);
 let markdownPathTarget = common.getTargetMdPath(problem);
@@ -34,8 +36,10 @@ fs.copyFileSync(common.SOLUTION_MD_PATH, markdownPathTarget);
 
 // clean up
 common.removeCurrent();
-fs.unlinkSync(common.SOLUTION_JS_PATH);
-fs.unlinkSync(common.SOLUTION_MD_PATH);
+if (fs.existsSync(jsPathSolving)) { fs.unlinkSync(jsPathSolving); }
+if (fs.existsSync(markdownPathSolving)) { fs.unlinkSync(markdownPathSolving); }
+if (fs.existsSync(common.SOLUTION_JS_PATH)) { fs.unlinkSync(common.SOLUTION_JS_PATH); }
+if (fs.existsSync(common.SOLUTION_MD_PATH)) { fs.unlinkSync(common.SOLUTION_MD_PATH); }
 
 // update readme
 common.updateReadme({ problem, title, level, topics, status: ':o:', remark });

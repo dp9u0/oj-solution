@@ -58,8 +58,6 @@ typings/
 .env
 
 current
-solution.js
-solving.md
 solving/*
 package-lock.json
 README.md.bak

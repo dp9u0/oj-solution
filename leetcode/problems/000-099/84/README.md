@@ -5,7 +5,7 @@
 [LeetCode Problem Description](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
 
 * algorithms
-* Hard (33.92%)
+* Hard (33.93%)
 * Testcase Example:  '[2,1,5,6,2,3]'
 
 ```md

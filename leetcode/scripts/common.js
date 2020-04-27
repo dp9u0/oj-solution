@@ -2,7 +2,7 @@ const fs = require('fs');
 const readline = require('readline');
 const os = require('os');
 
-const SOLUTION_JS_PATH = `./solving.js`;
+const SOLUTION_JS_PATH = `./solution.js`;
 const SOLUTION_MD_PATH = `./solving.md`;
 const README_PATH = `./README.md`;
 const CURRENT_FILE = `./current`;

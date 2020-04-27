@@ -58,7 +58,7 @@ typings/
 .env
 
 current
-solving.js
+solution.js
 solving.md
 solving/*
 package-lock.json

@@ -150,7 +150,7 @@ npm run finish [tree] # finished and set topic 'tree'
 | 84  | [Largest Rectangle in Histogram](./problems/000-099/84/README.md)                               | :o:    | Hard   | [stack]        |        |
 | 85  | [Maximal Rectangle](./problems/000-099/85/README.md)                                            | :o:    | Hard   | [stack]        |        |
 | 86  | [Partition List](./problems/000-099/86/README.md)                                               | :o:    | Medium | [ll]           | :+1:   |
-| 87  | [Scramble String](./problems/000-099/87/README.md)                                              |        | Hard   |                |        |
+| 87  | [Scramble String](./problems/000-099/87/README.md)                                              | :o:    | Hard   | [string]       |        |
 | 88  | [Merge Sorted Array](./problems/000-099/88/README.md)                                           | :o:    | Easy   | [tp]           |        |
 | 89  | [Gray Code](./problems/000-099/89/README.md)                                                    | :o:    | Medium | [bit]          | :+1:   |
 | 90  | [Subsets II](./problems/000-099/90/README.md)                                                   | :o:    | Medium | [hash]         |        |

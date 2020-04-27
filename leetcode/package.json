@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node scripts/start.js",
-    "debug": "node solving.js",
+    "debug": "node solution.js",
     "test": "node scripts/test.js",
     "push": "node scripts/push.js",
     "ok": "node scripts/ok.js",

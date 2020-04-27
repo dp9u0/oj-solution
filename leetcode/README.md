@@ -162,7 +162,7 @@ npm run finish [tree] # finished and set topic 'tree'
 | 96  | [Unique Binary Search Trees](./problems/000-099/96/README.md)                                   | :o:    | Medium | [dp]           |        |
 | 97  | [Interleaving String](./problems/000-099/97/README.md)                                          | :o:    | Hard   | [dp]           |        |
 | 98  | [Validate Binary Search Tree](./problems/000-099/98/README.md)                                  | :o:    | Medium | [tree]         | :+1:   |
-| 99  | [Recover Binary Search Tree](./problems/000-099/99/README.md)                                   |        | Hard   |                |        |
+| 99  | [Recover Binary Search Tree](./problems/000-099/99/README.md)                                   | :o:    | Hard   | [tree]         | :+1:   |
 | 100 | [Same Tree](./problems/100-199/100/README.md)                                                   | :o:    | Easy   | [tree]         |        |
 | 101 | [Symmetric Tree](./problems/100-199/101/README.md)                                              | :o:    | Easy   | [bfs]          |        |
 | 102 | [Binary Tree Level Order Traversal](./problems/100-199/102/README.md)                           | :o:    | Medium | [tree]         |        |

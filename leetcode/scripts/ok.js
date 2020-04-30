@@ -36,10 +36,10 @@ fs.copyFileSync(common.SOLUTION_MD_PATH, markdownPathTarget);
 
 // clean up
 common.removeCurrent();
-if (fs.existsSync(jsPathSolving)) { fs.unlinkSync(jsPathSolving); }
-if (fs.existsSync(markdownPathSolving)) { fs.unlinkSync(markdownPathSolving); }
-if (fs.existsSync(common.SOLUTION_JS_PATH)) { fs.unlinkSync(common.SOLUTION_JS_PATH); }
-if (fs.existsSync(common.SOLUTION_MD_PATH)) { fs.unlinkSync(common.SOLUTION_MD_PATH); }
+// if (fs.existsSync(jsPathSolving)) { fs.unlinkSync(jsPathSolving); }
+// if (fs.existsSync(markdownPathSolving)) { fs.unlinkSync(markdownPathSolving); }
+// if (fs.existsSync(common.SOLUTION_JS_PATH)) { fs.unlinkSync(common.SOLUTION_JS_PATH); }
+// if (fs.existsSync(common.SOLUTION_MD_PATH)) { fs.unlinkSync(common.SOLUTION_MD_PATH); }
 
 // update readme
 common.updateReadme({ problem, title, level, topics, status: ':o:', remark });

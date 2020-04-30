@@ -207,7 +207,7 @@ npm run finish [tree] # finished and set topic 'tree'
 | 141 | [Linked List Cycle](./problems/100-199/141/README.md)                                           | :o:    | Easy   | [tp]           | :+1:   |
 | 142 | [Linked List Cycle II](./problems/100-199/142/README.md)                                        | :o:    | Medium | [tp]           | :+1:   |
 | 143 | [Reorder List](./problems/100-199/143/README.md)                                                |        | Medium |                |        |
-| 144 | [Binary Tree Preorder Traversal](./problems/100-199/144/README.md)                              |        | Medium |                |        |
+| 144 | [Binary Tree Preorder Traversal](./problems/100-199/144/README.md)                              | :o:    | Medium | [tree],[stack] |        |
 | 145 | [Binary Tree Postorder Traversal](./problems/100-199/145/README.md)                             |        | Hard   |                |        |
 | 146 | [LRU Cache](./problems/100-199/146/README.md)                                                   | :o:    | Hard   | [ll]           | :+1:   |
 | 147 | [Insertion Sort List](./problems/100-199/147/README.md)                                         |        | Medium |                |        |

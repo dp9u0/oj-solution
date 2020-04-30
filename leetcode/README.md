@@ -236,7 +236,7 @@ npm run finish [tree] # finished and set topic 'tree'
 | 170 | [Two Sum III - Data structure design](./problems/100-199/170/README.md)                         | :lock: | Easy   |                |        |
 | 171 | [Excel Sheet Column Number](./problems/100-199/171/README.md)                                   | :o:    | Easy   | [array]        |        |
 | 172 | [Factorial Trailing Zeroes](./problems/100-199/172/README.md)                                   | :o:    | Easy   | [math]         | :+1:   |
-| 173 | [Binary Search Tree Iterator](./problems/100-199/173/README.md)                                 |        | Medium |                |        |
+| 173 | [Binary Search Tree Iterator](./problems/100-199/173/README.md)                                 | :o:    | Medium | [tree]         | :+1:   |
 | 174 | [Dungeon Game](./problems/100-199/174/README.md)                                                |        | Hard   |                |        |
 | 175 | [Combine Two Tables](./problems/100-199/175/README.md)                                          | :soon: | Easy   | [sql]          |        |
 | 176 | [Second Highest Salary](./problems/100-199/176/README.md)                                       | :soon: | Easy   | [sql]          |        |

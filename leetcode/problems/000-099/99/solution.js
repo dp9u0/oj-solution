@@ -11,25 +11,28 @@
  */
 var recoverTree = function (root) {
     const stack = [];
-    let wrong1, wrong2, pre;
-    while (stack.length || root) {
-        while (root) {
-            stack.push(root);
-            root = root.left;
+    let w1, w2; // 记录错误的节点
+    let pre; // 中序遍历时的前继节点
+    let node = root;
+    while (stack.length || node) {
+        // 中序遍历
+        while (node) {
+            stack.push(node);
+            node = node.left;
         }
-        root = stack.pop();
-        if (pre && root.val < pre.val) {
-            wrong2 = root;
-            if (!wrong1) {
-                wrong1 = pre;
+        node = stack.pop();
+        if (pre && node.val < pre.val) {
+            w2 = node;
+            if (!w1) {
+                w1 = pre;
             } else {
                 break;
             }
         }
-        pre = root;
-        root = root.right;
+        pre = node;
+        node = node.right;
     }
-    [wrong1.val, wrong2.val] = [wrong2.val, wrong1.val]
+    [w1.val, w2.val] = [w2.val, w1.val]
 };
 
 // TEST:

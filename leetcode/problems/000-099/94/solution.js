@@ -10,32 +10,24 @@
  * @return {number[]}
  */
 var inorderTraversal = function (root) {
-  let traverse = [];
-  if (root) {
-    let nodes = [];
-    let p = root;
-    while (p || nodes.length) {
-      while (p) {
-        nodes.push(p);
-        p = p.left;
-      }
-      if (nodes.length) {
-        p = nodes.pop();
-        traverse.push(p.val);
-        p = p.right;
-      }
+    let result = [];
+    let stack = [];
+    let node = root;
+    while (node || stack.length) {
+        while (node) {
+            stack.push(node);
+            node = node.left;
+        }
+        node = stack.pop();
+        result.push(node.val);
+        node = node.right;
     }
-  }
-  return traverse;
+    return result;
 };
 
-/**
-// TEST:
 
-let {
-  arrayToTree
-} = require("./utils/arrayToTree")
+// TEST:
+let { arrayToTree } = require("./utils/arrayToTree")
 let array = [1, null, 2, 3]
 let root = arrayToTree(array);
 console.log(inorderTraversal(root));
-*/

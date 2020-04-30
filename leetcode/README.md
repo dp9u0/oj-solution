@@ -178,7 +178,7 @@ npm run finish [tree] # finished and set topic 'tree'
 | 112 | [Path Sum](./problems/100-199/112/README.md)                                                    | :o:    | Easy   | [tree]         |        |
 | 113 | [Path Sum II](./problems/100-199/113/README.md)                                                 | :o:    | Medium | [bt]           |        |
 | 114 | [Flatten Binary Tree to Linked List](./problems/100-199/114/README.md)                          | :o:    | Medium | [tree]         | :+1:   |
-| 115 | [Distinct Subsequences](./problems/100-199/115/README.md)                                       |        | Hard   |                |        |
+| 115 | [Distinct Subsequences](./problems/100-199/115/README.md)                                       | :o:    | Hard   | [dp]           |        |
 | 116 | [Populating Next Right Pointers in Each Node](./problems/100-199/116/README.md)                 | :o:    | Medium | [tree]         |        |
 | 117 | [Populating Next Right Pointers in Each Node II](./problems/100-199/117/README.md)              | :o:    | Medium | [tree]         |        |
 | 118 | [Pascal's Triangle](./problems/100-199/118/README.md)                                           | :o:    | Easy   | [array]        |        |

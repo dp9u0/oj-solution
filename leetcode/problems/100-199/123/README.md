@@ -32,4 +32,6 @@ Explanation: In this case, no transaction is done, i.e. max profit = 0.
 
 ## Solution
 
+与题目 121 类似
+
 [SourceCode](./solution.js)

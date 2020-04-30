@@ -596,7 +596,7 @@ npm run finish [tree] # finished and set topic 'tree'
 | 533 | [Lonely Pixel II](./problems/500-599/533/README.md)                                             | :lock: | Medium |                |        |
 | 535 | [Encode and Decode TinyURL](./problems/500-599/535/README.md)                                   | :o:    | Medium | [hash]         |        |
 | 536 | [Construct Binary Tree from String](./problems/500-599/536/README.md)                           | :lock: | Medium |                |        |
-| 537 | [Complex Number Multiplication](./problems/500-599/537/README.md)                               |        | Medium |                |        |
+| 537 | [Complex Number Multiplication](./problems/500-599/537/README.md)                               | :o:    | Medium | [string]       |        |
 | 538 | [Convert BST to Greater Tree](./problems/500-599/538/README.md)                                 | :o:    | Easy   | [tree]         |        |
 | 539 | [Minimum Time Difference](./problems/500-599/539/README.md)                                     |        | Medium |                |        |
 | 540 | [Single Element in a Sorted Array](./problems/500-599/540/README.md)                            |        | Medium |                |        |

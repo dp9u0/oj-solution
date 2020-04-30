@@ -3,18 +3,16 @@
  * @return {number}
  */
 var maxProfit = function (prices) {
-  if (prices.length == 0) {
-    return 0;
+  let hold = Number.POSITIVE_INFINITY; // 一次持仓成本
+  let profit = 0;  // 一次持仓盈利
+  for (let i = 0; i < prices.length; i++) {
+    const p = prices[i];
+    hold = Math.min(hold, p);
+    profit = Math.max(profit, p - hold);
   }
-  let max = 0;
-  let bustBuy = prices[0];
-  for (let i = 0; i < prices.length; ++i) {
-    let price = prices[i];
-    if (price > bustBuy) {
-      max = Math.max(max, price - bustBuy);
-    } else {
-      bustBuy = price;
-    }
-  }
-  return max;
+  return profit;
 };
+
+// TEST:
+console.log(maxProfit([7, 1, 5, 3, 6, 4]))
+console.log(maxProfit([7, 6, 4, 3, 1]))

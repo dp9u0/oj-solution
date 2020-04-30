@@ -210,7 +210,7 @@ npm run finish [tree] # finished and set topic 'tree'
 | 144 | [Binary Tree Preorder Traversal](./problems/100-199/144/README.md)                              | :o:    | Medium | [tree],[stack] |        |
 | 145 | [Binary Tree Postorder Traversal](./problems/100-199/145/README.md)                             | :o:    | Hard   | [tree],[stack] | :+1:   |
 | 146 | [LRU Cache](./problems/100-199/146/README.md)                                                   | :o:    | Hard   | [ll]           | :+1:   |
-| 147 | [Insertion Sort List](./problems/100-199/147/README.md)                                         |        | Medium |                |        |
+| 147 | [Insertion Sort List](./problems/100-199/147/README.md)                                         | :o:    | Medium | [ll]           |        |
 | 148 | [Sort List](./problems/100-199/148/README.md)                                                   | :o:    | Medium | [sort]         | :+1:   |
 | 149 | [Max Points on a Line](./problems/100-199/149/README.md)                                        |        | Hard   |                |        |
 | 150 | [Evaluate Reverse Polish Notation](./problems/100-199/150/README.md)                            |        | Medium |                |        |

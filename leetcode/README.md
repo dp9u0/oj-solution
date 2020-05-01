@@ -189,7 +189,7 @@ npm run finish [tree] # finished and set topic 'tree'
 | 123 | [Best Time to Buy and Sell Stock III](./problems/100-199/123/README.md)                         | :o:    | Hard   | [dp]           |        |
 | 124 | [Binary Tree Maximum Path Sum](./problems/100-199/124/README.md)                                | :o:    | Hard   | [tree]         |        |
 | 125 | [Valid Palindrome](./problems/100-199/125/README.md)                                            | :o:    | Easy   | [str]          |        |
-| 126 | [Word Ladder II](./problems/100-199/126/README.md)                                              |        | Hard   |                |        |
+| 126 | [Word Ladder II](./problems/100-199/126/README.md)                                              | :o:    | Hard   | [bt],[graph]   |        |
 | 127 | [Word Ladder](./problems/100-199/127/README.md)                                                 | :o:    | Medium | [str]          |        |
 | 128 | [Longest Consecutive Sequence](./problems/100-199/128/README.md)                                |        | Hard   |                |        |
 | 129 | [Sum Root to Leaf Numbers](./problems/100-199/129/README.md)                                    | :o:    | Medium | [tree]         |        |

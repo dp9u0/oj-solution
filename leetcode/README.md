@@ -194,7 +194,7 @@ npm run finish [tree] # finished and set topic 'tree'
 | 128 | [Longest Consecutive Sequence](./problems/100-199/128/README.md)                                | :o:    | Hard   | [array],[dp]   |        |
 | 129 | [Sum Root to Leaf Numbers](./problems/100-199/129/README.md)                                    | :o:    | Medium | [tree]         |        |
 | 130 | [Surrounded Regions](./problems/100-199/130/README.md)                                          | :o:    | Medium | [array]        |        |
-| 131 | [Palindrome Partitioning](./problems/100-199/131/README.md)                                     |        | Medium |                |        |
+| 131 | [Palindrome Partitioning](./problems/100-199/131/README.md)                                     | :o:    | Medium | [bt]           |        |
 | 132 | [Palindrome Partitioning II](./problems/100-199/132/README.md)                                  |        | Hard   |                |        |
 | 133 | [Clone Graph](./problems/100-199/133/README.md)                                                 | :o:    | Medium | [hash]         |        |
 | 134 | [Gas Station](./problems/100-199/134/README.md)                                                 |        | Medium |                |        |

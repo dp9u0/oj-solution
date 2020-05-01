@@ -191,7 +191,7 @@ npm run finish [tree] # finished and set topic 'tree'
 | 125 | [Valid Palindrome](./problems/100-199/125/README.md)                                            | :o:    | Easy   | [str]          |        |
 | 126 | [Word Ladder II](./problems/100-199/126/README.md)                                              | :o:    | Hard   | [bt],[graph]   |        |
 | 127 | [Word Ladder](./problems/100-199/127/README.md)                                                 | :o:    | Medium | [str]          |        |
-| 128 | [Longest Consecutive Sequence](./problems/100-199/128/README.md)                                |        | Hard   |                |        |
+| 128 | [Longest Consecutive Sequence](./problems/100-199/128/README.md)                                | :o:    | Hard   | [array],[dp]   |        |
 | 129 | [Sum Root to Leaf Numbers](./problems/100-199/129/README.md)                                    | :o:    | Medium | [tree]         |        |
 | 130 | [Surrounded Regions](./problems/100-199/130/README.md)                                          | :o:    | Medium | [array]        |        |
 | 131 | [Palindrome Partitioning](./problems/100-199/131/README.md)                                     |        | Medium |                |        |

@@ -51,8 +51,9 @@ setTimeout(() => {
     stdio: 'inherit'
   });
 }, 1000);
-if (remark === ':+1:') {
-  execSync(`leetcode star ${problem}`, {
-    stdio: 'inherit'
-  });
-}
+
+// if (remark === ':+1:') {
+//   execSync(`leetcode star ${problem}`, {
+//     stdio: 'inherit'
+//   });
+// }

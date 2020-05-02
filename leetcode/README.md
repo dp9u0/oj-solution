@@ -203,7 +203,7 @@ npm run finish [tree] # finished and set topic 'tree'
 | 137 | [Single Number II](./problems/100-199/137/README.md)                                            | :o:    | Medium | [bit]          | :+1:   |
 | 138 | [Copy List with Random Pointer](./problems/100-199/138/README.md)                               | :o:    | Medium | [ll]           |        |
 | 139 | [Word Break](./problems/100-199/139/README.md) | :o: | Medium | [dp] |   |
-| 140 | [Word Break II](./problems/100-199/140/README.md)                                               |        | Hard   |                |        |
+| 140 | [Word Break II](./problems/100-199/140/README.md) | :o: | Hard | [bt] |   |
 | 141 | [Linked List Cycle](./problems/100-199/141/README.md)                                           | :o:    | Easy   | [tp]           | :+1:   |
 | 142 | [Linked List Cycle II](./problems/100-199/142/README.md)                                        | :o:    | Medium | [tp]           | :+1:   |
 | 143 | [Reorder List](./problems/100-199/143/README.md)                                                |        | Medium |                |        |

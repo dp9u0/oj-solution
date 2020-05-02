@@ -213,7 +213,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 147 | [Insertion Sort List](./problems/100-199/147/README.md)                                         | :o:    | Medium | [ll]        |      |
 | 148 | [Sort List](./problems/100-199/148/README.md)                                                   | :o:    | Medium | [sort]      | :+1: |
 | 149 | [Max Points on a Line](./problems/100-199/149/README.md) | :o: | Hard | [math] |   |
-| 150 | [Evaluate Reverse Polish Notation](./problems/100-199/150/README.md)                            |        | Medium |             |      |
+| 150 | [Evaluate Reverse Polish Notation](./problems/100-199/150/README.md) | :o: | Medium | [stack] | :+1:  |
 | 151 | [Reverse Words in a String](./problems/100-199/151/README.md)                                   |        | Medium |             |      |
 | 152 | [Maximum Product Subarray](./problems/100-199/152/README.md)                                    |        | Medium |             |      |
 | 153 | [Find Minimum in Rotated Sorted Array](./problems/100-199/153/README.md)                        |        | Medium |             |      |

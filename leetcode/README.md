@@ -215,7 +215,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 149 | [Max Points on a Line](./problems/100-199/149/README.md)                                        | :o:    | Hard   | [math]      |      |
 | 150 | [Evaluate Reverse Polish Notation](./problems/100-199/150/README.md)                            | :o:    | Medium | [stack]     | :+1: |
 | 151 | [Reverse Words in a String](./problems/100-199/151/README.md) | :o: | Medium | [str] |   |
-| 152 | [Maximum Product Subarray](./problems/100-199/152/README.md)                                    |        | Medium |             |      |
+| 152 | [Maximum Product Subarray](./problems/100-199/152/README.md) | :o: | Medium | [dp] |   |
 | 153 | [Find Minimum in Rotated Sorted Array](./problems/100-199/153/README.md)                        |        | Medium |             |      |
 | 154 | [Find Minimum in Rotated Sorted Array II](./problems/100-199/154/README.md)                     |        | Hard   |             |      |
 | 155 | [Min Stack](./problems/100-199/155/README.md)                                                   | :o:    | Easy   | [des]       |      |

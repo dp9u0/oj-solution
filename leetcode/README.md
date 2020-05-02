@@ -198,7 +198,7 @@ npm run finish [tree] # finished and set topic 'tree'
 | 132 | [Palindrome Partitioning II](./problems/100-199/132/README.md)                                  | :o:    | Hard   | [dp]           |        |
 | 133 | [Clone Graph](./problems/100-199/133/README.md)                                                 | :o:    | Medium | [hash]         |        |
 | 134 | [Gas Station](./problems/100-199/134/README.md)                                                 | :o:    | Medium | [array]        |        |
-| 135 | [Candy](./problems/100-199/135/README.md)                                                       |        | Hard   |                |        |
+| 135 | [Candy](./problems/100-199/135/README.md)                                                       | :o:    | Hard   | [greed]        |        |
 | 136 | [Single Number](./problems/100-199/136/README.md)                                               | :o:    | Easy   | [bit]          | :+1:   |
 | 137 | [Single Number II](./problems/100-199/137/README.md)                                            | :o:    | Medium | [bit]          | :+1:   |
 | 138 | [Copy List with Random Pointer](./problems/100-199/138/README.md)                               |        | Medium |                |        |

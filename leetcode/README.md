@@ -242,7 +242,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 176 | [Second Highest Salary](./problems/100-199/176/README.md)                                       | :soon: | Easy   | [sql]       |      |
 | 177 | [Nth Highest Salary](./problems/100-199/177/README.md)                                          | :soon: | Medium | [sql]       |      |
 | 178 | [Rank Scores](./problems/100-199/178/README.md)                                                 | :soon: | Medium | [sql]       |      |
-| 179 | [Largest Number](./problems/100-199/179/README.md)                                              |        | Medium |             |      |
+| 179 | [Largest Number](./problems/100-199/179/README.md) | :o: | Medium | [sort] |   |
 | 180 | [Consecutive Numbers](./problems/100-199/180/README.md)                                         | :soon: | Medium | [sql]       |      |
 | 181 | [Employees Earning More Than Their Managers](./problems/100-199/181/README.md)                  | :soon: | Easy   | [sql]       |      |
 | 182 | [Duplicate Emails](./problems/100-199/182/README.md)                                            | :soon: | Easy   | [sql]       |      |

@@ -217,7 +217,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 151 | [Reverse Words in a String](./problems/100-199/151/README.md)                                   | :o:    | Medium | [str]       |      |
 | 152 | [Maximum Product Subarray](./problems/100-199/152/README.md)                                    | :o:    | Medium | [dp]        |      |
 | 153 | [Find Minimum in Rotated Sorted Array](./problems/100-199/153/README.md)                        | :o:    | Medium | [bs]        | :+1: |
-| 154 | [Find Minimum in Rotated Sorted Array II](./problems/100-199/154/README.md) | :o: | Hard | [bs] | :+1:  |
+| 154 | [Find Minimum in Rotated Sorted Array II](./problems/100-199/154/README.md)                     | :o:    | Hard   | [bs]        | :+1: |
 | 155 | [Min Stack](./problems/100-199/155/README.md)                                                   | :o:    | Easy   | [des]       |      |
 | 156 | [Binary Tree Upside Down](./problems/100-199/156/README.md)                                     | :lock: | Medium |             |      |
 | 157 | [Read N Characters Given Read4](./problems/100-199/157/README.md)                               | :lock: | Easy   |             |      |
@@ -225,7 +225,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 159 | [Longest Substring with At Most Two Distinct Characters](./problems/100-199/159/README.md)      | :lock: | Hard   |             |      |
 | 160 | [Intersection of Two Linked Lists](./problems/100-199/160/README.md)                            | :o:    | Easy   | [ll]        |      |
 | 161 | [One Edit Distance](./problems/100-199/161/README.md)                                           | :lock: | Medium |             |      |
-| 162 | [Find Peak Element](./problems/100-199/162/README.md)                                           | :lock: | Medium |             |      |
+| 162 | [Find Peak Element](./problems/100-199/162/README.md) | :o: | Medium | [bs] | :+1:  |
 | 163 | [Missing Ranges](./problems/100-199/163/README.md)                                              | :lock: | Medium |             |      |
 | 164 | [Maximum Gap](./problems/100-199/164/README.md)                                                 |        | Hard   |             |      |
 | 165 | [Compare Version Numbers](./problems/100-199/165/README.md)                                     |        | Medium |             |      |

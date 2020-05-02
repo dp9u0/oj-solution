@@ -191,7 +191,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 125 | [Valid Palindrome](./problems/100-199/125/README.md)                                            | :o:    | Easy   | [str]       |      |
 | 126 | [Word Ladder II](./problems/100-199/126/README.md)                                              | :o:    | Hard   | [bt],[gph]  |      |
 | 127 | [Word Ladder](./problems/100-199/127/README.md)                                                 | :o:    | Medium | [str]       |      |
-| 128 | [Longest Consecutive Sequence](./problems/100-199/128/README.md)                                | :o:    | Hard   | [arr],[dp]  |      |
+| 128 | [Longest Consecutive Sequence](./problems/100-199/128/README.md)                                | :o:    | Hard   | [arr],[dp]  | :+1: |
 | 129 | [Sum Root to Leaf Numbers](./problems/100-199/129/README.md)                                    | :o:    | Medium | [tr]        |      |
 | 130 | [Surrounded Regions](./problems/100-199/130/README.md)                                          | :o:    | Medium | [arr]       |      |
 | 131 | [Palindrome Partitioning](./problems/100-199/131/README.md)                                     | :o:    | Medium | [bt]        |      |
@@ -225,9 +225,9 @@ npm run ok [tr] # finished and set topic 'tree'
 | 159 | [Longest Substring with At Most Two Distinct Characters](./problems/100-199/159/README.md)      | :lock: | Hard   |             |      |
 | 160 | [Intersection of Two Linked Lists](./problems/100-199/160/README.md)                            | :o:    | Easy   | [ll]        |      |
 | 161 | [One Edit Distance](./problems/100-199/161/README.md)                                           | :lock: | Medium |             |      |
-| 162 | [Find Peak Element](./problems/100-199/162/README.md) | :o: | Medium | [bs] | :+1:  |
+| 162 | [Find Peak Element](./problems/100-199/162/README.md)                                           | :o:    | Medium | [bs]        | :+1: |
 | 163 | [Missing Ranges](./problems/100-199/163/README.md)                                              | :lock: | Medium |             |      |
-| 164 | [Maximum Gap](./problems/100-199/164/README.md)                                                 |        | Hard   |             |      |
+| 164 | [Maximum Gap](./problems/100-199/164/README.md) | :o: | Hard | [arr] |   |
 | 165 | [Compare Version Numbers](./problems/100-199/165/README.md)                                     |        | Medium |             |      |
 | 166 | [Fraction to Recurring Decimal](./problems/100-199/166/README.md)                               |        | Medium |             |      |
 | 167 | [Two Sum II - Input array is sorted](./problems/100-199/167/README.md)                          | :o:    | Easy   | [tp]        |      |

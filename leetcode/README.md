@@ -250,7 +250,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 184 | [Department Highest Salary](./problems/100-199/184/README.md)                                   | :soon: | Medium | [sql]       |      |
 | 185 | [Department Top Three Salaries](./problems/100-199/185/README.md)                               | :soon: | Hard   | [sql]       |      |
 | 186 | [Reverse Words in a String II](./problems/100-199/186/README.md)                                | :lock: | Medium |             |      |
-| 187 | [Repeated DNA Sequences](./problems/100-199/187/README.md)                                      |        | Medium |             |      |
+| 187 | [Repeated DNA Sequences](./problems/100-199/187/README.md) | :o: | Medium | [hash] |   |
 | 188 | [Best Time to Buy and Sell Stock IV](./problems/100-199/188/README.md)                          |        | Hard   |             |      |
 | 189 | [Rotate Array](./problems/100-199/189/README.md)                                                | :o:    | Easy   | [ll]        |      |
 | 190 | [Reverse Bits](./problems/100-199/190/README.md)                                                | :o:    | Easy   | [bit]       | :+1: |

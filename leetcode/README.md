@@ -228,7 +228,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 162 | [Find Peak Element](./problems/100-199/162/README.md)                                           | :o:    | Medium | [bs]        | :+1: |
 | 163 | [Missing Ranges](./problems/100-199/163/README.md)                                              | :lock: | Medium |             |      |
 | 164 | [Maximum Gap](./problems/100-199/164/README.md) | :o: | Hard | [arr] |   |
-| 165 | [Compare Version Numbers](./problems/100-199/165/README.md)                                     |        | Medium |             |      |
+| 165 | [Compare Version Numbers](./problems/100-199/165/README.md) | :o: | Medium | [str] |   |
 | 166 | [Fraction to Recurring Decimal](./problems/100-199/166/README.md)                               |        | Medium |             |      |
 | 167 | [Two Sum II - Input array is sorted](./problems/100-199/167/README.md)                          | :o:    | Easy   | [tp]        |      |
 | 168 | [Excel Sheet Column Title](./problems/100-199/168/README.md)                                    | :o:    | Easy   | [arr]       |      |

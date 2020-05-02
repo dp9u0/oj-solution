@@ -201,7 +201,7 @@ npm run finish [tree] # finished and set topic 'tree'
 | 135 | [Candy](./problems/100-199/135/README.md)                                                       | :o:    | Hard   | [greed]        |        |
 | 136 | [Single Number](./problems/100-199/136/README.md)                                               | :o:    | Easy   | [bit]          | :+1:   |
 | 137 | [Single Number II](./problems/100-199/137/README.md)                                            | :o:    | Medium | [bit]          | :+1:   |
-| 138 | [Copy List with Random Pointer](./problems/100-199/138/README.md)                               |        | Medium |                |        |
+| 138 | [Copy List with Random Pointer](./problems/100-199/138/README.md)                               | :o:    | Medium | [ll]           |        |
 | 139 | [Word Break](./problems/100-199/139/README.md)                                                  |        | Medium |                |        |
 | 140 | [Word Break II](./problems/100-199/140/README.md)                                               |        | Hard   |                |        |
 | 141 | [Linked List Cycle](./problems/100-199/141/README.md)                                           | :o:    | Easy   | [tp]           | :+1:   |

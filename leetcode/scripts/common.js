@@ -124,7 +124,7 @@ module.exports.creteMarkdown = function (data) {
 module.exports.updateReadme = function ({ problem, title, level, topics = '', status = '', remark = '', callback }) {
   const MarkdownBakName = README_PATH + '.bak';
   fs.copyFileSync(README_PATH, MarkdownBakName);
-  fs.unlinkSync(README_PATH);
+  // fs.unlinkSync(README_PATH);
   let reader = fs.createReadStream(MarkdownBakName);
   let writer = fs.createWriteStream(README_PATH);
   let rl = readline.createInterface({
@@ -150,12 +150,12 @@ module.exports.updateReadme = function ({ problem, title, level, topics = '', st
   rl.on('close', () => {
     if (!found) {
       let md = getTargetMdPath(problem);
-      let newLine = `| ${problem} | [${title || problem}](${md}) | ${status} | ${level || "Easy"} | ${topics} | ${remark}  |`;
+      let newLine = `| ${problem} | [${title || problem}](${md}) | ${status} | ${level} | ${topics} | ${remark}  |`;
       writer.write(newLine + os.EOL); // 下一行
     }
+    fs.unlinkSync(MarkdownBakName);
     if (callback) {
       callback()
     }
-    fs.unlinkSync(MarkdownBakName);
   });
 }

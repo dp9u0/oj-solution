@@ -263,7 +263,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 197  | [Rising Temperature](./problems/100-199/197/README.md)                                                                 | :soon: | Easy   | [sql]       |      |
 | 198  | [House Robber](./problems/100-199/198/README.md)                                                                       | :o:    | Easy   | [dp]        |      |
 | 199  | [Binary Tree Right Side View](./problems/100-199/199/README.md)                                                        | :o:    | Medium | [tr]        |      |
-| 200  | [Number of Islands](./problems/200-299/200/README.md)                                                                  |        | Medium |             |      |
+| 200 | [Number of Islands](./problems/200-299/200/README.md) | :o: | Medium | [dfs] |   |
 | 201  | [Bitwise AND of Numbers Range](./problems/200-299/201/README.md)                                                       |        | Medium |             |      |
 | 202  | [Happy Number](./problems/200-299/202/README.md)                                                                       | :o:    | Easy   | [math]      |      |
 | 203  | [Remove Linked List Elements](./problems/200-299/203/README.md)                                                        | :o:    | Easy   | [ll]        |      |

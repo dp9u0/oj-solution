@@ -48,7 +48,7 @@ npm run ok [tr] # finished and set topic 'tree'
 * [des] : design
 * [dc] : divide_and_conquer
 * [dp] : dynamic_programming
-* [gre] : greed
+* [grd] : greed
 * [gph] : graph
 * [hsh] : hash
 * [hp] : heap
@@ -108,7 +108,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 42   | [Trapping Rain Water](./problems/000-099/42/README.md)                                                                 | :o:    | Hard   | [tp]        |      |
 | 43   | [Multiply Strings](./problems/000-099/43/README.md)                                                                    | :o:    | Medium | [math]      | :+1: |
 | 44   | [Wildcard Matching](./problems/000-099/44/README.md)                                                                   | :o:    | Hard   | [dp]        | ~    |
-| 45   | [Jump Game II](./problems/000-099/45/README.md)                                                                        | :o:    | Hard   | [gre]       | :+1: |
+| 45   | [Jump Game II](./problems/000-099/45/README.md)                                                                        | :o:    | Hard   | [grd]       | :+1: |
 | 46   | [Permutations](./problems/000-099/46/README.md)                                                                        | :o:    | Medium | [bt]        |      |
 | 47   | [Permutations II](./problems/000-099/47/README.md)                                                                     | :o:    | Medium | [bt]        |      |
 | 48   | [Rotate Image](./problems/000-099/48/README.md)                                                                        | :o:    | Medium | [arr]       |      |
@@ -118,7 +118,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 52   | [N-Queens II](./problems/000-099/52/README.md)                                                                         | :o:    | Hard   | [bt]        |      |
 | 53   | [Maximum Subarray](./problems/000-099/53/README.md)                                                                    | :o:    | Easy   | [dp]        |      |
 | 54   | [Spiral Matrix](./problems/000-099/54/README.md)                                                                       | :o:    | Medium | [arr]       |      |
-| 55   | [Jump Game](./problems/000-099/55/README.md)                                                                           | :o:    | Medium | [gre]       | :+1: |
+| 55   | [Jump Game](./problems/000-099/55/README.md)                                                                           | :o:    | Medium | [grd]       | :+1: |
 | 56   | [Merge Intervals](./problems/000-099/56/README.md)                                                                     | :o:    | Medium | [arr]       |      |
 | 57   | [Insert Interval](./problems/000-099/57/README.md)                                                                     | :o:    | Hard   | [arr]       |      |
 | 58   | [Length of Last Word](./problems/000-099/58/README.md)                                                                 | :o:    | Easy   | [arr]       |      |
@@ -264,13 +264,13 @@ npm run ok [tr] # finished and set topic 'tree'
 | 198  | [House Robber](./problems/100-199/198/README.md)                                                                       | :o:    | Easy   | [dp]        |      |
 | 199  | [Binary Tree Right Side View](./problems/100-199/199/README.md)                                                        | :o:    | Medium | [tr]        |      |
 | 200  | [Number of Islands](./problems/200-299/200/README.md)                                                                  | :o:    | Medium | [dfs]       |      |
-| 201 | [Bitwise AND of Numbers Range](./problems/200-299/201/README.md) | :o: | Medium | [bit] |   |
+| 201  | [Bitwise AND of Numbers Range](./problems/200-299/201/README.md)                                                       | :o:    | Medium | [bit]       |      |
 | 202  | [Happy Number](./problems/200-299/202/README.md)                                                                       | :o:    | Easy   | [math]      |      |
 | 203  | [Remove Linked List Elements](./problems/200-299/203/README.md)                                                        | :o:    | Easy   | [ll]        |      |
 | 204  | [Count Primes](./problems/200-299/204/README.md)                                                                       | :o:    | Easy   | [math]      | :+1: |
 | 205  | [Isomorphic Strings](./problems/200-299/205/README.md)                                                                 | :o:    | Easy   | [hsh]       |      |
 | 206  | [Reverse Linked List](./problems/200-299/206/README.md)                                                                | :o:    | Easy   | [ll]        |      |
-| 207  | [Course Schedule](./problems/200-299/207/README.md)                                                                    |        | Medium |             |      |
+| 207 | [Course Schedule](./problems/200-299/207/README.md) | :o: | Medium | [gph] |   |
 | 208  | [Implement Trie (Prefix Tree)](./problems/200-299/208/README.md)                                                       |        | Medium |             |      |
 | 209  | [Minimum Size Subarray Sum](./problems/200-299/209/README.md)                                                          |        | Medium |             |      |
 | 210  | [Course Schedule II](./problems/200-299/210/README.md)                                                                 |        | Medium |             |      |
@@ -518,7 +518,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 452  | [Minimum Number of Arrows to Burst Balloons](./problems/400-499/452/README.md)                                         |        | Medium |             |      |
 | 453  | [Minimum Moves to Equal Array Elements](./problems/400-499/453/README.md)                                              | :o:    | Easy   | [math]      |      |
 | 454  | [4Sum II](./problems/400-499/454/README.md)                                                                            |        | Medium |             |      |
-| 455  | [Assign Cookies](./problems/400-499/455/README.md)                                                                     | :o:    | Easy   | [gre]       | :+1: |
+| 455  | [Assign Cookies](./problems/400-499/455/README.md)                                                                     | :o:    | Easy   | [grd]       | :+1: |
 | 456  | [132 Pattern](./problems/400-499/456/README.md)                                                                        |        | Medium |             |      |
 | 457  | [Circular Array Loop](./problems/400-499/457/README.md)                                                                |        | Medium |             |      |
 | 458  | [Poor Pigs](./problems/400-499/458/README.md)                                                                          | :o:    | Easy   | [math]      | :+1: |
@@ -1041,7 +1041,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 981  | [Time Based Key-Value Store](./problems/900-999/981/README.md)                                                         | :o:    | Medium | [des]       |      |
 | 982  | [Triples with Bitwise AND Equal To Zero](./problems/900-999/982/README.md)                                             |        | Hard   |             |      |
 | 983  | [Minimum Cost For Tickets](./problems/900-999/983/README.md)                                                           | :o:    | Medium | [dp]        |      |
-| 984  | [String Without AAA or BBB](./problems/900-999/984/README.md)                                                          | :o:    | Easy   | [gre]       | :+1: |
+| 984  | [String Without AAA or BBB](./problems/900-999/984/README.md)                                                          | :o:    | Easy   | [grd]       | :+1: |
 | 985  | [Sum of Even Numbers After Queries](./problems/900-999/985/README.md)                                                  | :o:    | Easy   | [math]      |      |
 | 986  | [Interval List Intersections](./problems/900-999/986/README.md)                                                        | :o:    | Medium | [tp]        |      |
 | 987  | [Vertical Order Traversal of a Binary Tree](./problems/900-999/987/README.md)                                          | :o:    | Medium | [tr]        |      |

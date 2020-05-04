@@ -270,9 +270,9 @@ npm run ok [tr] # finished and set topic 'tree'
 | 204  | [Count Primes](./problems/200-299/204/README.md)                                                                       | :o:    | Easy   | [math]      | :+1: |
 | 205  | [Isomorphic Strings](./problems/200-299/205/README.md)                                                                 | :o:    | Easy   | [hsh]       |      |
 | 206  | [Reverse Linked List](./problems/200-299/206/README.md)                                                                | :o:    | Easy   | [ll]        |      |
-| 207 | [Course Schedule](./problems/200-299/207/README.md) | :o: | Medium | [gph] |   |
-| 208 | [Implement Trie (Prefix Tree)](./problems/200-299/208/README.md) | :o: | Medium | [tr] |   |
-| 209 | [Minimum Size Subarray Sum](./problems/200-299/209/README.md) | :o: | Medium | [tp] |   |
+| 207  | [Course Schedule](./problems/200-299/207/README.md)                                                                    | :o:    | Medium | [gph]       |      |
+| 208  | [Implement Trie (Prefix Tree)](./problems/200-299/208/README.md)                                                       | :o:    | Medium | [tr]        |      |
+| 209  | [Minimum Size Subarray Sum](./problems/200-299/209/README.md)                                                          | :o:    | Medium | [tp]        |      |
 | 210  | [Course Schedule II](./problems/200-299/210/README.md)                                                                 |        | Medium |             |      |
 | 211  | [Add and Search Word - Data structure design](./problems/200-299/211/README.md)                                        |        | Medium |             |      |
 | 212  | [Word Search II](./problems/200-299/212/README.md)                                                                     |        | Hard   |             |      |

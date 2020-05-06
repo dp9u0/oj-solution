@@ -323,7 +323,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 257  | [Binary Tree Paths](./problems/200-299/257/README.md)                                                                  | :o:    | Easy   | [tr]        |      |
 | 258  | [Add Digits](./problems/200-299/258/README.md)                                                                         | :o:    | Easy   | [math]      |      |
 | 259  | [3Sum Smaller](./problems/200-299/259/README.md)                                                                       | :lock: | Medium |             |      |
-| 260  | [Single Number III](./problems/200-299/260/README.md)                                                                  |        | Medium |             |      |
+| 260  | [Single Number III](./problems/200-299/260/README.md)                                                                  | :o:    | Medium | [bit]       |      |
 | 261  | [Graph Valid Tree](./problems/200-299/261/README.md)                                                                   | :lock: | Medium |             |      |
 | 262  | [Trips and Users](./problems/200-299/262/README.md)                                                                    | :soon: | Hard   | [sql]       |      |
 | 263  | [Ugly Number](./problems/200-299/263/README.md)                                                                        | :o:    | Easy   | [math]      |      |

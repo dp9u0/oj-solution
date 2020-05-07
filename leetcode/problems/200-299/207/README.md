@@ -5,7 +5,7 @@
 [LeetCode Problem Description](https://leetcode.com/problems/course-schedule/description/)
 
 * algorithms
-* Medium (41.40%)
+* Medium (41.43%)
 * Testcase Example:  '2\n[[1,0]]'
 
 ```md
@@ -29,10 +29,9 @@ Constraints:
 The input prerequisites is a graph represented by a list of edges, not adjacency matrices. Read more about how a graph is represented.
 You may assume that there are no duplicate edges in the input prerequisites.
 1 <= numCourses <= 10^5
+
 ```
 
 ## Solution
-
-检测有向图中的环
 
 [SourceCode](./solution.js)

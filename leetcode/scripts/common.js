@@ -124,15 +124,14 @@ module.exports.creteMarkdown = function (data) {
 module.exports.updateReadme = function ({ problem, title, level, topics = '', status = '', remark = '', callback }) {
   const MarkdownBakName = README_PATH + '.bak';
   fs.copyFileSync(README_PATH, MarkdownBakName);
-  // fs.unlinkSync(README_PATH);
   let reader = fs.createReadStream(MarkdownBakName);
   let writer = fs.createWriteStream(README_PATH);
-  let rl = readline.createInterface({
+  let lineReader = readline.createInterface({
     input: reader
   });
   let reg = new RegExp('^\\|\\s+' + problem + '\\s+\\|');
   let found = false;
-  rl.on('line', (line) => {
+  lineReader.on('line', (line) => {
     let lineOutput;
     if (reg.test(line)) {
       let blocks = line.split(/\s*\|\s*/);
@@ -147,12 +146,13 @@ module.exports.updateReadme = function ({ problem, title, level, topics = '', st
     writer.write(lineOutput + os.EOL); // 下一行
   });
 
-  rl.on('close', () => {
+  lineReader.on('close', () => {
     if (!found) {
       let md = getTargetMdPath(problem);
       let newLine = `| ${problem} | [${title || problem}](${md}) | ${status} | ${level} | ${topics} | ${remark}  |`;
       writer.write(newLine + os.EOL); // 下一行
     }
+    writer.close();
     fs.unlinkSync(MarkdownBakName);
     if (callback) {
       callback()

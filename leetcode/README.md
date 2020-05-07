@@ -274,8 +274,8 @@ npm run ok [tr] # finished and set topic 'tree'
 | 208  | [Implement Trie (Prefix Tree)](./problems/200-299/208/README.md)                                                       | :o:    | Medium | [tr]        |      |
 | 209  | [Minimum Size Subarray Sum](./problems/200-299/209/README.md)                                                          | :o:    | Medium | [tp]        |      |
 | 210  | [Course Schedule II](./problems/200-299/210/README.md)                                                                 | :o:    | Medium | [grf]       |      |
-| 211 | [Add and Search Word - Data structure design](./problems/200-299/211/README.md) | :o: | Medium | [tr] |   |
-| 212  | [Word Search II](./problems/200-299/212/README.md)                                                                     |        | Hard   |             |      |
+| 211  | [Add and Search Word - Data structure design](./problems/200-299/211/README.md)                                        | :o:    | Medium | [tr]        |      |
+| 212 | [Word Search II](./problems/200-299/212/README.md) | :o: | Hard | [dfs] |   |
 | 213  | [House Robber II](./problems/200-299/213/README.md)                                                                    |        | Medium |             |      |
 | 214  | [Shortest Palindrome](./problems/200-299/214/README.md)                                                                |        | Hard   |             |      |
 | 215  | [Kth Largest Element in an Array](./problems/200-299/215/README.md)                                                    | :o:    | Medium | [arr]       | :+1: |

@@ -152,7 +152,7 @@ module.exports.updateReadme = function ({ problem, title, level, topics = '', st
       let newLine = `| ${problem} | [${title || problem}](${md}) | ${status} | ${level} | ${topics} | ${remark}  |`;
       writer.write(newLine + os.EOL); // 下一行
     }
-    writer.close();
+    writer.end();
     fs.unlinkSync(MarkdownBakName);
     if (callback) {
       callback()

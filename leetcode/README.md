@@ -286,7 +286,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 220  | [Contains Duplicate III](./problems/200-299/220/README.md)                                                             | :o:    | Medium | [tp]        |      |
 | 221  | [Maximal Square](./problems/200-299/221/README.md)                                                                     | :o:    | Medium | [ar]        |      |
 | 222  | [Count Complete Tree Nodes](./problems/200-299/222/README.md)                                                          | :o:    | Medium | [tr]        |      |
-| 223  | [Rectangle Area](./problems/200-299/223/README.md)                                                                     |        | Medium |             |      |
+| 223  | [Rectangle Area](./problems/200-299/223/README.md)                                                                     | :o:    | Medium | [math]      |      |
 | 224  | [Basic Calculator](./problems/200-299/224/README.md)                                                                   |        | Hard   |             |      |
 | 225  | [Implement Stack using Queues](./problems/200-299/225/README.md)                                                       | :o:    | Easy   | [des]       |      |
 | 226  | [Invert Binary Tree](./problems/200-299/226/README.md)                                                                 | :o:    | Easy   | [tr],[dc]   |      |

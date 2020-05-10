@@ -292,7 +292,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 226  | [Invert Binary Tree](./problems/200-299/226/README.md)                                                                 | :o:    | Easy   | [tr],[dc]   |      |
 | 227  | [Basic Calculator II](./problems/200-299/227/README.md)                                                                | :o:    | Medium | [stk]       |      |
 | 228  | [Summary Ranges](./problems/200-299/228/README.md)                                                                     | :o:    | Medium | [arr]       |      |
-| 229  | [Majority Element II](./problems/200-299/229/README.md)                                                                |        | Medium |             |      |
+| 229  | [Majority Element II](./problems/200-299/229/README.md)                                                                | :o:    | Medium | [arr] [hsh] |      |
 | 230  | [Kth Smallest Element in a BST](./problems/200-299/230/README.md)                                                      | :o:    | Medium | [tr]        |      |
 | 231  | [Power of Two](./problems/200-299/231/README.md)                                                                       | :o:    | Easy   | [bit]       |      |
 | 232  | [Implement Queue using Stacks](./problems/200-299/232/README.md)                                                       | :o:    | Easy   | [des]       |      |

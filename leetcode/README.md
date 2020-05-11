@@ -296,7 +296,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 230  | [Kth Smallest Element in a BST](./problems/200-299/230/README.md)                                                      | :o:    | Medium | [tr]        |      |
 | 231  | [Power of Two](./problems/200-299/231/README.md)                                                                       | :o:    | Easy   | [bit]       |      |
 | 232  | [Implement Queue using Stacks](./problems/200-299/232/README.md)                                                       | :o:    | Easy   | [des]       |      |
-| 233  | [Number of Digit One](./problems/200-299/233/README.md)                                                                |        | Hard   |             |      |
+| 233  | [Number of Digit One](./problems/200-299/233/README.md)                                                                | :o:    | Hard   | [math]      | :-1: |
 | 234  | [Palindrome Linked List](./problems/200-299/234/README.md)                                                             | :o:    | Easy   | [ll],[tp]   |      |
 | 235  | [Lowest Common Ancestor of a Binary Search Tree](./problems/200-299/235/README.md)                                     | :o:    | Easy   | [tr]        |      |
 | 236  | [Lowest Common Ancestor of a Binary Tree](./problems/200-299/236/README.md)                                            | :o:    | Medium | [tr]        |      |

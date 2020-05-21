@@ -304,7 +304,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 238  | [Product of Array Except Self](./problems/200-299/238/README.md)                                                       | :o:    | Medium | [arr]       |      |
 | 239  | [Sliding Window Maximum](./problems/200-299/239/README.md)                                                             |        | Hard   |             |      |
 | 240  | [Search a 2D Matrix II](./problems/200-299/240/README.md)                                                              |        | Medium |             |      |
-| 241 | [Different Ways to Add Parentheses](./problems/200-299/241/README.md) | :o: | Medium | [dc] |   |
+| 241  | [Different Ways to Add Parentheses](./problems/200-299/241/README.md)                                                  | :o:    | Medium | [dc]        |      |
 | 242  | [Valid Anagram](./problems/200-299/242/README.md)                                                                      | :o:    | Easy   | [hsh]       |      |
 | 243  | [Shortest Word Distance](./problems/200-299/243/README.md)                                                             | :lock: | Easy   |             |      |
 | 244  | [Shortest Word Distance II](./problems/200-299/244/README.md)                                                          | :lock: | Medium |             |      |

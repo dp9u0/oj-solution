@@ -1538,7 +1538,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](./problems/1400-1499/1467/README.md)             |        | Hard   |             |      |
 | 1468 | [Calculate Salaries](./problems/1400-1499/1468/README.md)                                                              | :lock: | Medium |             |      |
 | 1469 | [Find All The Lonely Nodes](./problems/1400-1499/1469/README.md)                                                       | :lock: | Easy   |             |      |
-| 1470 | [Shuffle the Array](./problems/1400-1499/1470/README.md)                                                               |        | Easy   |             |      |
+| 1470 | [Shuffle the Array](./problems/1400-1499/1470/README.md)                                                               | :o:    | Easy   | [arr]       |      |
 | 1471 | [The k Strongest Values in an Array](./problems/1400-1499/1471/README.md)                                              |        | Medium |             |      |
 | 1472 | [Design Browser History](./problems/1400-1499/1472/README.md)                                                          |        | Medium |             |      |
 | 1473 | [Paint House III](./problems/1400-1499/1473/README.md)                                                                 |        | Hard   |             |      |

@@ -37,6 +37,19 @@ npm run push # push for all test
 npm run ok [tr] # finished and set topic 'tree'
 ```
 
+### Tips
+
+如果碰到leetcode 登录失败 可以创建文件 `~/.lc/leetcode/user.json` ,填入内容:
+
+```js
+{
+  "login": "[username]",
+  "loginCSRF": "",
+  "sessionCSRF": "[copied from csrftoken]",
+  "sessionId": "[copied from LEETCODE_SESSION]"
+}
+```
+
 ## 分类
 
 * [arr] : array

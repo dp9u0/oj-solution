@@ -1602,7 +1602,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1531 | [String Compression II](./problems/1500-1599/1531/README.md)                                                           |        | Hard   |             |      |
 | 1532 | [The Most Recent Three Orders](./problems/1500-1599/1532/README.md)                                                    | :lock: | Medium |             |      |
 | 1533 | [Find the Index of the Large Integer](./problems/1500-1599/1533/README.md)                                             | :lock: | Medium |             |      |
-| 1534 | [Count Good Triplets](./problems/1500-1599/1534/README.md)                                                             |        | Easy   |             |      |
+| 1534 | [Count Good Triplets](./problems/1500-1599/1534/README.md)                                                             | :o:    | Easy   | [arr]       |      |
 | 1535 | [Find the Winner of an Array Game](./problems/1500-1599/1535/README.md)                                                |        | Medium |             |      |
 | 1536 | [Minimum Swaps to Arrange a Binary Grid](./problems/1500-1599/1536/README.md)                                          |        | Medium |             |      |
 | 1537 | [Get the Maximum Score](./problems/1500-1599/1537/README.md)                                                           |        | Hard   |             |      |

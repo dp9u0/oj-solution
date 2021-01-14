@@ -1194,7 +1194,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1134 | [Armstrong Number](./problems/1100-1199/1134/README.md)                                                                | :lock: | Easy   |             |      |
 | 1135 | [Connecting Cities With Minimum Cost](./problems/1100-1199/1135/README.md)                                             | :lock: | Medium |             |      |
 | 1136 | [Parallel Courses](./problems/1100-1199/1136/README.md)                                                                | :lock: | Hard   |             |      |
-| 1137 | [N-th Tribonacci Number](./problems/1100-1199/1137/README.md)                                                          |        | Easy   |             |      |
+| 1137 | [N-th Tribonacci Number](./problems/1100-1199/1137/README.md)                                                          | :o:    | Easy   | [math]      |      |
 | 1138 | [Alphabet Board Path](./problems/1100-1199/1138/README.md)                                                             |        | Medium |             |      |
 | 1139 | [Largest 1-Bordered Square](./problems/1100-1199/1139/README.md)                                                       |        | Medium |             |      |
 | 1140 | [Stone Game II](./problems/1100-1199/1140/README.md)                                                                   |        | Medium |             |      |

@@ -22,9 +22,7 @@ let markdownPathTarget = common.getTargetMdPath(problem);
 
 if (!fs.existsSync(targetDir)) {
   // mkdir 
-  fs.mkdirSync(targetDir, {
-    recursive: true
-  });
+  fs.mkdirSync(targetDir);
 }
 
 // 获取题目信息

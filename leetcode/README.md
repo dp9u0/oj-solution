@@ -1300,7 +1300,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1229 | [Meeting Scheduler](./problems/1200-1299/1229/README.md)                                                               | :lock: | Medium |             |      |
 | 1230 | [Toss Strange Coins](./problems/1200-1299/1230/README.md)                                                              | :lock: | Medium |             |      |
 | 1231 | [Divide Chocolate](./problems/1200-1299/1231/README.md)                                                                | :lock: | Hard   |             |      |
-| 1232 | [Check If It Is a Straight Line](./problems/1200-1299/1232/README.md) | :o: | Easy | [math] |   |
+| 1232 | [Check If It Is a Straight Line](./problems/1200-1299/1232/README.md)                                                  | :o:    | Easy   | [math]      |      |
 | 1233 | [Remove Sub-Folders from the Filesystem](./problems/1200-1299/1233/README.md)                                          |        | Medium |             |      |
 | 1234 | [Replace the Substring for Balanced String](./problems/1200-1299/1234/README.md)                                       |        | Medium |             |      |
 | 1235 | [Maximum Profit in Job Scheduling](./problems/1200-1299/1235/README.md)                                                |        | Hard   |             |      |
@@ -1381,7 +1381,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1310 | [XOR Queries of a Subarray](./problems/1300-1399/1310/README.md)                                                       |        | Medium |             |      |
 | 1311 | [Get Watched Videos by Your Friends](./problems/1300-1399/1311/README.md)                                              |        | Medium |             |      |
 | 1312 | [Minimum Insertion Steps to Make a String Palindrome](./problems/1300-1399/1312/README.md)                             |        | Hard   |             |      |
-| 1313 | [Decompress Run-Length Encoded List](./problems/1300-1399/1313/README.md)                                              |        | Easy   |             |      |
+| 1313 | [Decompress Run-Length Encoded List](./problems/1300-1399/1313/README.md)                                              | :o:    | Easy   | [arr]       |      |
 | 1314 | [Matrix Block Sum](./problems/1300-1399/1314/README.md)                                                                |        | Medium |             |      |
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](./problems/1300-1399/1315/README.md)                                       |        | Medium |             |      |
 | 1316 | [Distinct Echo Substrings](./problems/1300-1399/1316/README.md)                                                        |        | Hard   |             |      |
@@ -1788,7 +1788,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1717 | [Maximum Score From Removing Substrings](./problems/1700-1799/1717/README.md)                                          |        | Medium |             |      |
 | 1718 | [Construct the Lexicographically Largest Valid Sequence](./problems/1700-1799/1718/README.md)                          |        | Medium |             |      |
 | 1719 | [Number Of Ways To Reconstruct A Tree](./problems/1700-1799/1719/README.md)                                            |        | Hard   |             |      |
-| 1720 | [Decode XORed Array](./problems/1700-1799/1720/README.md) | :o: | Easy | [math] | :+1:  |
+| 1720 | [Decode XORed Array](./problems/1700-1799/1720/README.md)                                                              | :o:    | Easy   | [math]      | :+1: |
 | 1721 | [1721](./problems/1700-1799/1721/README.md)                                                                            |        | Easy   |             |      |
 | 1722 | [Minimize Hamming Distance After Swap Operations](./problems/1700-1799/1722/README.md)                                 |        | Medium |             |      |
 | 1723 | [Find Minimum Time to Finish All Jobs](./problems/1700-1799/1723/README.md)                                            |        | Hard   |             |      |

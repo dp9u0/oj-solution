@@ -1064,7 +1064,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 991  | [Broken Calculator](./problems/900-999/991/README.md)                                                                  | :o:    | Medium | [math]      |      |
 | 992  | [Subarrays with K Different Integers](./problems/900-999/992/README.md)                                                |        | Hard   |             |      |
 | 993  | [Cousins in Binary Tree](./problems/900-999/993/README.md)                                                             |        | Easy   |             |      |
-| 994  | [Rotting Oranges](./problems/900-999/994/README.md)                                                                    |        | Medium |             |      |
+| 994  | [Rotting Oranges](./problems/900-999/994/README.md)                                                                    | :o:    | Medium | [arr]       |      |
 | 995  | [Minimum Number of K Consecutive Bit Flips](./problems/900-999/995/README.md)                                          |        | Hard   |             |      |
 | 996  | [Number of Squareful Arrays](./problems/900-999/996/README.md)                                                         |        | Hard   |             |      |
 | 997  | [Find the Town Judge](./problems/900-999/997/README.md)                                                                |        | Easy   |             |      |

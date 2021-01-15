@@ -1746,7 +1746,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1675 | [Minimize Deviation in Array](./problems/1600-1699/1675/README.md)                                                     |        | Hard   |             |      |
 | 1676 | [Lowest Common Ancestor of a Binary Tree IV](./problems/1600-1699/1676/README.md)                                      | :lock: | Medium |             |      |
 | 1677 | [Product's Worth Over Invoices](./problems/1600-1699/1677/README.md)                                                   | :lock: | Easy   |             |      |
-| 1678 | [Goal Parser Interpretation](./problems/1600-1699/1678/README.md)                                                      |        | Easy   |             |      |
+| 1678 | [Goal Parser Interpretation](./problems/1600-1699/1678/README.md)                                                      | :o:    | Easy   | [str]       |      |
 | 1679 | [Max Number of K-Sum Pairs](./problems/1600-1699/1679/README.md)                                                       |        | Medium |             |      |
 | 1680 | [Concatenation of Consecutive Binary Numbers](./problems/1600-1699/1680/README.md)                                     |        | Medium |             |      |
 | 1681 | [Minimum Incompatibility](./problems/1600-1699/1681/README.md)                                                         |        | Hard   |             |      |

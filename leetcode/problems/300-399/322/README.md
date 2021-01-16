@@ -39,6 +39,8 @@ Constraints:
 ## Solution
 
 1. 动态规划 `dp[i] = Math.min(dp[i], dp[i-coin] + 1);`
-2. backtrace
+2. greed
+   1. coins 排序,先选择大硬币,当总面额超过amount时,回溯
+   2. 乘法加速,没必要一个个的,可以直接丢加速
 
 [SourceCode](./solution.js)

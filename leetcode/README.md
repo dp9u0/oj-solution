@@ -398,7 +398,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 319  | [Bulb Switcher](./problems/300-399/319/README.md)                                                                      |        | Medium |             |      |
 | 320  | [Generalized Abbreviation](./problems/300-399/320/README.md)                                                           | :lock: | Medium |             |      |
 | 321  | [Create Maximum Number](./problems/300-399/321/README.md)                                                              |        | Hard   |             |      |
-| 322  | [Coin Change](./problems/300-399/322/README.md)                                                                        |        | Medium |             |      |
+| 322  | [Coin Change](./problems/300-399/322/README.md)                                                                        | :o:    | Medium | [dp]        | :+1: |
 | 323  | [Number of Connected Components in an Undirected Graph](./problems/300-399/323/README.md)                              | :lock: | Medium |             |      |
 | 324  | [Wiggle Sort II](./problems/300-399/324/README.md)                                                                     |        | Medium |             |      |
 | 325  | [Maximum Size Subarray Sum Equals k](./problems/300-399/325/README.md)                                                 | :lock: | Medium |             |      |

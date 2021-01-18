@@ -811,7 +811,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 736  | [Parse Lisp Expression](./problems/700-799/736/README.md)                                                              |        | Hard   |             |      |
 | 737  | [Sentence Similarity II](./problems/700-799/737/README.md)                                                             | :lock: | Medium |             |      |
 | 738  | [Monotone Increasing Digits](./problems/700-799/738/README.md)                                                         |        | Medium |             |      |
-| 739  | [Daily Temperatures](./problems/700-799/739/README.md)                                                                 |        | Medium |             |      |
+| 739  | [Daily Temperatures](./problems/700-799/739/README.md)                                                                 | :o:    | Medium | [stack]     | :+1: |
 | 740  | [Delete and Earn](./problems/700-799/740/README.md)                                                                    |        | Medium |             |      |
 | 741  | [Cherry Pickup](./problems/700-799/741/README.md)                                                                      |        | Hard   |             |      |
 | 742  | [Closest Leaf in a Binary Tree](./problems/700-799/742/README.md)                                                      | :lock: | Medium |             |      |

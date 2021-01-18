@@ -1173,7 +1173,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1100 | [Find K-Length Substrings With No Repeated Characters](./problems/1100-1199/1100/README.md)                            | :lock: | Medium |             |      |
 | 1101 | [The Earliest Moment When Everyone Become Friends](./problems/1100-1199/1101/README.md)                                | :lock: | Medium |             |      |
 | 1102 | [Path With Maximum Minimum Value](./problems/1100-1199/1102/README.md)                                                 | :lock: | Medium |             |      |
-| 1103 | [Distribute Candies to People](./problems/1100-1199/1103/README.md)                                                    |        | Easy   |             |      |
+| 1103 | [Distribute Candies to People](./problems/1100-1199/1103/README.md)                                                    | :o:    | Easy   | [math]      |      |
 | 1104 | [Path In Zigzag Labelled Binary Tree](./problems/1100-1199/1104/README.md)                                             |        | Medium |             |      |
 | 1105 | [Filling Bookcase Shelves](./problems/1100-1199/1105/README.md)                                                        |        | Medium |             |      |
 | 1106 | [Parsing A Boolean Expression](./problems/1100-1199/1106/README.md)                                                    |        | Hard   |             |      |

@@ -471,7 +471,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 391  | [Perfect Rectangle](./problems/300-399/391/README.md)                                                                  |        | Hard   |             |      |
 | 392  | [Is Subsequence](./problems/300-399/392/README.md)                                                                     | :o:    | Easy   | [tp]        |      |
 | 393  | [UTF-8 Validation](./problems/300-399/393/README.md)                                                                   |        | Medium |             |      |
-| 394  | [Decode String](./problems/300-399/394/README.md)                                                                      |        | Medium |             |      |
+| 394  | [Decode String](./problems/300-399/394/README.md)                                                                      | :o:    | Medium | [stk]       | :+1: |
 | 395  | [Longest Substring with At Least K Repeating Characters](./problems/300-399/395/README.md)                             |        | Medium |             |      |
 | 396  | [Rotate Function](./problems/300-399/396/README.md)                                                                    |        | Medium |             |      |
 | 397  | [Integer Replacement](./problems/300-399/397/README.md)                                                                |        | Medium |             |      |

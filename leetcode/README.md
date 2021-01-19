@@ -1500,7 +1500,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1428 | [Leftmost Column with at Least a One](./problems/1400-1499/1428/README.md)                                             | :lock: | Medium |             |      |
 | 1429 | [First Unique Number](./problems/1400-1499/1429/README.md)                                                             | :lock: | Medium |             |      |
 | 1430 | [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](./problems/1400-1499/1430/README.md) | :lock: | Medium |             |      |
-| 1431 | [Kids With the Greatest Number of Candies](./problems/1400-1499/1431/README.md)                                        |        | Easy   |             |      |
+| 1431 | [Kids With the Greatest Number of Candies](./problems/1400-1499/1431/README.md)                                        | :o:    | Easy   | [math]      |      |
 | 1432 | [Max Difference You Can Get From Changing an Integer](./problems/1400-1499/1432/README.md)                             |        | Medium |             |      |
 | 1433 | [Check If a String Can Break Another String](./problems/1400-1499/1433/README.md)                                      |        | Medium |             |      |
 | 1434 | [Number of Ways to Wear Different Hats to Each Other](./problems/1400-1499/1434/README.md)                             |        | Hard   |             |      |

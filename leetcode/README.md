@@ -424,7 +424,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 344  | [Reverse String](./problems/300-399/344/README.md)                                                                     | :o:    | Easy   | [str]       |      |
 | 345  | [Reverse Vowels of a String](./problems/300-399/345/README.md)                                                         | :o:    | Easy   | [tp]        |      |
 | 346  | [Moving Average from Data Stream](./problems/300-399/346/README.md)                                                    | :lock: | Easy   |             |      |
-| 347  | [Top K Frequent Elements](./problems/300-399/347/README.md)                                                            |        | Medium |             |      |
+| 347  | [Top K Frequent Elements](./problems/300-399/347/README.md)                                                            | :o:    | Medium | [hp]        | :+1: |
 | 348  | [Design Tic-Tac-Toe](./problems/300-399/348/README.md)                                                                 | :lock: | Medium |             |      |
 | 349  | [Intersection of Two Arrays](./problems/300-399/349/README.md)                                                         | :o:    | Easy   | [hsh]       |      |
 | 350  | [Intersection of Two Arrays II](./problems/300-399/350/README.md)                                                      | :o:    | Easy   | [hsh]       |      |

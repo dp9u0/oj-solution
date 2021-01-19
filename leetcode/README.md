@@ -69,6 +69,7 @@ npm run ok [tr] # finished and set topic 'tree'
 * [ll] : linked_list
 * [lgc] : if else switch
 * [math] : math
+* [q] : quque
 * [stk] : stack
 * [str] : string
 * [tr] : tree
@@ -316,7 +317,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 236  | [Lowest Common Ancestor of a Binary Tree](./problems/200-299/236/README.md)                                            | :o:    | Medium | [tr]        |      |
 | 237  | [Delete Node in a Linked List](./problems/200-299/237/README.md)                                                       | :o:    | Easy   | [ll]        | :-1: |
 | 238  | [Product of Array Except Self](./problems/200-299/238/README.md)                                                       | :o:    | Medium | [arr]       |      |
-| 239  | [Sliding Window Maximum](./problems/200-299/239/README.md)                                                             |        | Hard   |             |      |
+| 239  | [Sliding Window Maximum](./problems/200-299/239/README.md)                                                             | :o:    | Hard   | [queue]     | :+1: |
 | 240  | [Search a 2D Matrix II](./problems/200-299/240/README.md)                                                              |        | Medium |             |      |
 | 241  | [Different Ways to Add Parentheses](./problems/200-299/241/README.md)                                                  | :o:    | Medium | [dc]        |      |
 | 242  | [Valid Anagram](./problems/200-299/242/README.md)                                                                      | :o:    | Easy   | [hsh]       |      |

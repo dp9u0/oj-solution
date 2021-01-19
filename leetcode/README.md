@@ -1084,7 +1084,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1010 | [Pairs of Songs With Total Durations Divisible by 60](./problems/1000-1099/1010/README.md)                             |        | Easy   |             |      |
 | 1011 | [Capacity To Ship Packages Within D Days](./problems/1000-1099/1011/README.md)                                         |        | Medium |             |      |
 | 1012 | [Numbers With Repeated Digits](./problems/1000-1099/1012/README.md)                                                    |        | Hard   |             |      |
-| 1013 | [Partition Array Into Three Parts With Equal Sum](./problems/1000-1099/1013/README.md)                                 |        | Easy   |             |      |
+| 1013 | [Partition Array Into Three Parts With Equal Sum](./problems/1000-1099/1013/README.md)                                 | :o:    | Easy   | [math]      |      |
 | 1014 | [Best Sightseeing Pair](./problems/1000-1099/1014/README.md)                                                           |        | Medium |             |      |
 | 1015 | [Smallest Integer Divisible by K](./problems/1000-1099/1015/README.md)                                                 |        | Medium |             |      |
 | 1016 | [Binary String With Substrings Representing 1 To N](./problems/1000-1099/1016/README.md)                               |        | Medium |             |      |

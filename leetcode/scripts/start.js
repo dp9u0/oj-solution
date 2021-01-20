@@ -32,6 +32,7 @@ exec(cmdStr, function (err, stdout, stderr) {
     }
     fs.copyFileSync(markdownPath, common.SOLUTION_MD_PATH);
     console.log(fs.readFileSync(common.SOLUTION_MD_PATH, 'utf-8'));
+    console.log(`Problem Started ${problem}`);
     common.setCurrent(problem);
   }
 });

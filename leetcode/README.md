@@ -621,7 +621,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 544  | [Output Contest Matches](./problems/500-599/544/README.md)                                                             | :lock: | Medium |             |      |
 | 545  | [Boundary of Binary Tree](./problems/500-599/545/README.md)                                                            | :lock: | Medium |             |      |
 | 546  | [Remove Boxes](./problems/500-599/546/README.md)                                                                       |        | Hard   |             |      |
-| 547  | [Friend Circles](./problems/500-599/547/README.md)                                                                     |        | Medium |             |      |
+| 547 | [Friend Circles](./problems/500-599/547/README.md) | :o: | Medium | [ds] |   |
 | 548  | [Split Array with Equal Sum](./problems/500-599/548/README.md)                                                         | :lock: | Medium |             |      |
 | 549  | [Binary Tree Longest Consecutive Sequence II](./problems/500-599/549/README.md)                                        | :lock: | Medium |             |      |
 | 551  | [Student Attendance Record I](./problems/500-599/551/README.md)                                                        | :o:    | Easy   | [str]       | :-1: |

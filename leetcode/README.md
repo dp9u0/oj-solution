@@ -265,7 +265,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 184  | [Department Highest Salary](./problems/100-199/184/README.md)                                                          | :soon: | Medium | [sql]       |      |
 | 185  | [Department Top Three Salaries](./problems/100-199/185/README.md)                                                      | :soon: | Hard   | [sql]       |      |
 | 186  | [Reverse Words in a String II](./problems/100-199/186/README.md)                                                       | :lock: | Medium |             |      |
-| 187  | [Repeated DNA Sequences](./problems/100-199/187/README.md)                                                             | :o:    | Medium | [hash]      |      |
+| 187  | [Repeated DNA Sequences](./problems/100-199/187/README.md)                                                             | :o:    | Medium | [hsh]       |      |
 | 188  | [Best Time to Buy and Sell Stock IV](./problems/100-199/188/README.md)                                                 | :o:    | Hard   | [dp]        | :+1: |
 | 189  | [Rotate Array](./problems/100-199/189/README.md)                                                                       | :o:    | Easy   | [ll]        |      |
 | 190  | [Reverse Bits](./problems/100-199/190/README.md)                                                                       | :o:    | Easy   | [bit]       | :+1: |
@@ -1232,7 +1232,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1157 | [Online Majority Element In Subarray](./problems/1100-1199/1157/README.md)                                             |        | Hard   |             |      |
 | 1158 | [Market Analysis I](./problems/1100-1199/1158/README.md)                                                               | :lock: | Medium |             |      |
 | 1159 | [Market Analysis II](./problems/1100-1199/1159/README.md)                                                              | :lock: | Hard   |             |      |
-| 1160 | [Find Words That Can Be Formed by Characters](./problems/1100-1199/1160/README.md)                                     |        | Easy   |             |      |
+| 1160 | [Find Words That Can Be Formed by Characters](./problems/1100-1199/1160/README.md)                                     | :o:    | Easy   | [hsh]       | :+1: |
 | 1161 | [Maximum Level Sum of a Binary Tree](./problems/1100-1199/1161/README.md)                                              |        | Medium |             |      |
 | 1162 | [As Far from Land as Possible](./problems/1100-1199/1162/README.md)                                                    |        | Medium |             |      |
 | 1163 | [Last Substring in Lexicographical Order](./problems/1100-1199/1163/README.md)                                         |        | Hard   |             |      |

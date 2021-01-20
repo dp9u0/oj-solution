@@ -701,7 +701,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 625  | [Minimum Factorization](./problems/600-699/625/README.md)                                                              | :lock: | Medium |             |      |
 | 626  | [Exchange Seats](./problems/600-699/626/README.md)                                                                     | :soon: | Medium | [sql]       |      |
 | 627  | [Swap Salary](./problems/600-699/627/README.md)                                                                        | :soon: | Easy   | [sql]       |      |
-| 628  | [Maximum Product of Three Numbers](./problems/600-699/628/README.md)                                                   | :o:    | Easy   | [math]      |      |
+| 628 | [Maximum Product of Three Numbers](./problems/600-699/628/README.md) | :o: | Easy | [math] |   |
 | 629  | [K Inverse Pairs Array](./problems/600-699/629/README.md)                                                              |        | Hard   |             |      |
 | 630  | [Course Schedule III](./problems/600-699/630/README.md)                                                                |        | Hard   |             |      |
 | 631  | [Design Excel Sum Formula](./problems/600-699/631/README.md)                                                           | :lock: | Hard   |             |      |

@@ -1118,7 +1118,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1043 | [Partition Array for Maximum Sum](./problems/1000-1099/1043/README.md)                                                 |        | Medium |             |      |
 | 1044 | [Longest Duplicate Substring](./problems/1000-1099/1044/README.md)                                                     |        | Hard   |             |      |
 | 1045 | [Customers Who Bought All Products](./problems/1000-1099/1045/README.md)                                               | :lock: | Medium |             |      |
-| 1046 | [Last Stone Weight](./problems/1000-1099/1046/README.md)                                                               |        | Easy   |             |      |
+| 1046 | [Last Stone Weight](./problems/1000-1099/1046/README.md) | :o: | Easy | [hp] |   |
 | 1047 | [Remove All Adjacent Duplicates In String](./problems/1000-1099/1047/README.md)                                        |        | Easy   |             |      |
 | 1048 | [Longest String Chain](./problems/1000-1099/1048/README.md)                                                            |        | Medium |             |      |
 | 1049 | [Last Stone Weight II](./problems/1000-1099/1049/README.md)                                                            |        | Medium |             |      |

@@ -375,7 +375,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 294  | [Flip Game II](./problems/200-299/294/README.md)                                                                       | :lock: | Medium |             |      |
 | 295  | [Find Median from Data Stream](./problems/200-299/295/README.md)                                                       |        | Hard   |             |      |
 | 296  | [Best Meeting Point](./problems/200-299/296/README.md)                                                                 | :lock: | Hard   |             |      |
-| 297  | [Serialize and Deserialize Binary Tree](./problems/200-299/297/README.md)                                              |        | Hard   |             |      |
+| 297 | [Serialize and Deserialize Binary Tree](./problems/200-299/297/README.md) | :o: | Hard | [tr] | :+1:  |
 | 298  | [Binary Tree Longest Consecutive Sequence](./problems/200-299/298/README.md)                                           | :lock: | Medium |             |      |
 | 299  | [Bulls and Cows](./problems/200-299/299/README.md)                                                                     | :o:    | Easy   | [hsh]       |      |
 | 300  | [Longest Increasing Subsequence](./problems/300-399/300/README.md)                                                     | :o:    | Medium | [dp]        | :+1: |

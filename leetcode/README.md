@@ -452,7 +452,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 371  | [Sum of Two Integers](./problems/300-399/371/README.md)                                                                | :o:    | Easy   | [bit]       |      |
 | 372  | [Super Pow](./problems/300-399/372/README.md)                                                                          |        | Medium |             |      |
 | 373  | [Find K Pairs with Smallest Sums](./problems/300-399/373/README.md)                                                    |        | Medium |             |      |
-| 374  | [Guess Number Higher or Lower](./problems/300-399/374/README.md)                                                       | :soon: | Easy   | [cpp]       |      |
+| 374  | [Guess Number Higher or Lower](./problems/300-399/374/README.md)                                                       | :o:    | Easy   | [bs]        |      |
 | 375  | [Guess Number Higher or Lower II](./problems/300-399/375/README.md)                                                    |        | Medium |             |      |
 | 376  | [Wiggle Subsequence](./problems/300-399/376/README.md)                                                                 |        | Medium |             |      |
 | 377  | [Combination Sum IV](./problems/300-399/377/README.md)                                                                 |        | Medium |             |      |
@@ -701,7 +701,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 625  | [Minimum Factorization](./problems/600-699/625/README.md)                                                              | :lock: | Medium |             |      |
 | 626  | [Exchange Seats](./problems/600-699/626/README.md)                                                                     | :soon: | Medium | [sql]       |      |
 | 627  | [Swap Salary](./problems/600-699/627/README.md)                                                                        | :soon: | Easy   | [sql]       |      |
-| 628 | [Maximum Product of Three Numbers](./problems/600-699/628/README.md) | :o: | Easy | [math] |   |
+| 628  | [Maximum Product of Three Numbers](./problems/600-699/628/README.md)                                                   | :o:    | Easy   | [math]      |      |
 | 629  | [K Inverse Pairs Array](./problems/600-699/629/README.md)                                                              |        | Hard   |             |      |
 | 630  | [Course Schedule III](./problems/600-699/630/README.md)                                                                |        | Hard   |             |      |
 | 631  | [Design Excel Sum Formula](./problems/600-699/631/README.md)                                                           | :lock: | Hard   |             |      |
@@ -768,7 +768,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 692  | [Top K Frequent Words](./problems/600-699/692/README.md)                                                               |        | Medium |             |      |
 | 693  | [Binary Number with Alternating Bits](./problems/600-699/693/README.md)                                                | :o:    | Easy   | [bit]       |      |
 | 694  | [Number of Distinct Islands](./problems/600-699/694/README.md)                                                         | :lock: | Medium |             |      |
-| 695 | [Max Area of Island](./problems/600-699/695/README.md) | :o: | Medium | [dfs] |   |
+| 695  | [Max Area of Island](./problems/600-699/695/README.md)                                                                 | :o:    | Medium | [dfs]       |      |
 | 696  | [Count Binary Substrings](./problems/600-699/696/README.md)                                                            | :o:    | Easy   | [arr]       | :+1: |
 | 697  | [Degree of an Array](./problems/600-699/697/README.md)                                                                 | :o:    | Easy   | [hsh]       |      |
 | 698  | [Partition to K Equal Sum Subsets](./problems/600-699/698/README.md)                                                   |        | Medium |             |      |

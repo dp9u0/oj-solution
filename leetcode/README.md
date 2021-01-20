@@ -365,7 +365,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 284  | [Peeking Iterator](./problems/200-299/284/README.md)                                                                   |        | Medium |             |      |
 | 285  | [Inorder Successor in BST](./problems/200-299/285/README.md)                                                           | :lock: | Medium |             |      |
 | 286  | [Walls and Gates](./problems/200-299/286/README.md)                                                                    | :lock: | Medium |             |      |
-| 287  | [Find the Duplicate Number](./problems/200-299/287/README.md)                                                          |        | Medium |             |      |
+| 287 | [Find the Duplicate Number](./problems/200-299/287/README.md) | :o: | Medium | [tp] | :+1:  |
 | 288  | [Unique Word Abbreviation](./problems/200-299/288/README.md)                                                           | :lock: | Medium |             |      |
 | 289  | [Game of Life](./problems/200-299/289/README.md)                                                                       |        | Medium |             |      |
 | 290  | [Word Pattern](./problems/200-299/290/README.md)                                                                       | :o:    | Easy   | [hsh]       |      |

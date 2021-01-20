@@ -365,7 +365,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 284  | [Peeking Iterator](./problems/200-299/284/README.md)                                                                   |        | Medium |             |      |
 | 285  | [Inorder Successor in BST](./problems/200-299/285/README.md)                                                           | :lock: | Medium |             |      |
 | 286  | [Walls and Gates](./problems/200-299/286/README.md)                                                                    | :lock: | Medium |             |      |
-| 287 | [Find the Duplicate Number](./problems/200-299/287/README.md) | :o: | Medium | [tp] | :+1:  |
+| 287  | [Find the Duplicate Number](./problems/200-299/287/README.md)                                                          | :o:    | Medium | [tp]        | :+1: |
 | 288  | [Unique Word Abbreviation](./problems/200-299/288/README.md)                                                           | :lock: | Medium |             |      |
 | 289  | [Game of Life](./problems/200-299/289/README.md)                                                                       |        | Medium |             |      |
 | 290  | [Word Pattern](./problems/200-299/290/README.md)                                                                       | :o:    | Easy   | [hsh]       |      |
@@ -375,7 +375,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 294  | [Flip Game II](./problems/200-299/294/README.md)                                                                       | :lock: | Medium |             |      |
 | 295  | [Find Median from Data Stream](./problems/200-299/295/README.md)                                                       |        | Hard   |             |      |
 | 296  | [Best Meeting Point](./problems/200-299/296/README.md)                                                                 | :lock: | Hard   |             |      |
-| 297 | [Serialize and Deserialize Binary Tree](./problems/200-299/297/README.md) | :o: | Hard | [tr] | :+1:  |
+| 297  | [Serialize and Deserialize Binary Tree](./problems/200-299/297/README.md)                                              | :o:    | Hard   | [tr]        | :+1: |
 | 298  | [Binary Tree Longest Consecutive Sequence](./problems/200-299/298/README.md)                                           | :lock: | Medium |             |      |
 | 299  | [Bulls and Cows](./problems/200-299/299/README.md)                                                                     | :o:    | Easy   | [hsh]       |      |
 | 300  | [Longest Increasing Subsequence](./problems/300-399/300/README.md)                                                     | :o:    | Medium | [dp]        | :+1: |
@@ -406,7 +406,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 325  | [Maximum Size Subarray Sum Equals k](./problems/300-399/325/README.md)                                                 | :lock: | Medium |             |      |
 | 326  | [Power of Three](./problems/300-399/326/README.md)                                                                     | :o:    | Easy   | [math]      |      |
 | 327  | [Count of Range Sum](./problems/300-399/327/README.md)                                                                 |        | Hard   |             |      |
-| 328 | [Odd Even Linked List](./problems/300-399/328/README.md) | :o: | Medium | [ll] |   |
+| 328  | [Odd Even Linked List](./problems/300-399/328/README.md)                                                               | :o:    | Medium | [ll]        |      |
 | 329  | [Longest Increasing Path in a Matrix](./problems/300-399/329/README.md)                                                |        | Hard   |             |      |
 | 330  | [Patching Array](./problems/300-399/330/README.md)                                                                     |        | Hard   |             |      |
 | 331  | [Verify Preorder Serialization of a Binary Tree](./problems/300-399/331/README.md)                                     |        | Medium |             |      |
@@ -621,7 +621,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 544  | [Output Contest Matches](./problems/500-599/544/README.md)                                                             | :lock: | Medium |             |      |
 | 545  | [Boundary of Binary Tree](./problems/500-599/545/README.md)                                                            | :lock: | Medium |             |      |
 | 546  | [Remove Boxes](./problems/500-599/546/README.md)                                                                       |        | Hard   |             |      |
-| 547 | [Friend Circles](./problems/500-599/547/README.md) | :o: | Medium | [ds] |   |
+| 547  | [Friend Circles](./problems/500-599/547/README.md)                                                                     | :o:    | Medium | [ds]        |      |
 | 548  | [Split Array with Equal Sum](./problems/500-599/548/README.md)                                                         | :lock: | Medium |             |      |
 | 549  | [Binary Tree Longest Consecutive Sequence II](./problems/500-599/549/README.md)                                        | :lock: | Medium |             |      |
 | 551  | [Student Attendance Record I](./problems/500-599/551/README.md)                                                        | :o:    | Easy   | [str]       | :-1: |
@@ -1118,7 +1118,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1043 | [Partition Array for Maximum Sum](./problems/1000-1099/1043/README.md)                                                 |        | Medium |             |      |
 | 1044 | [Longest Duplicate Substring](./problems/1000-1099/1044/README.md)                                                     |        | Hard   |             |      |
 | 1045 | [Customers Who Bought All Products](./problems/1000-1099/1045/README.md)                                               | :lock: | Medium |             |      |
-| 1046 | [Last Stone Weight](./problems/1000-1099/1046/README.md) | :o: | Easy | [hp] |   |
+| 1046 | [Last Stone Weight](./problems/1000-1099/1046/README.md)                                                               | :o:    | Easy   | [hp]        |      |
 | 1047 | [Remove All Adjacent Duplicates In String](./problems/1000-1099/1047/README.md)                                        |        | Easy   |             |      |
 | 1048 | [Longest String Chain](./problems/1000-1099/1048/README.md)                                                            |        | Medium |             |      |
 | 1049 | [Last Stone Weight II](./problems/1000-1099/1049/README.md)                                                            |        | Medium |             |      |

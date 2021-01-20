@@ -523,7 +523,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 442  | [Find All Duplicates in an Array](./problems/400-499/442/README.md)                                                    | :o:    | Medium | [arr]       |      |
 | 443  | [String Compression](./problems/400-499/443/README.md)                                                                 | :o:    | Easy   | [arr]       |      |
 | 444  | [Sequence Reconstruction](./problems/400-499/444/README.md)                                                            | :lock: | Medium |             |      |
-| 445  | [Add Two Numbers II](./problems/400-499/445/README.md)                                                                 |        | Medium |             |      |
+| 445 | [Add Two Numbers II](./problems/400-499/445/README.md) | :o: | Medium | [ll] |   |
 | 446  | [Arithmetic Slices II - Subsequence](./problems/400-499/446/README.md)                                                 |        | Hard   |             |      |
 | 447  | [Number of Boomerangs](./problems/400-499/447/README.md)                                                               | :o:    | Easy   | [hsh]       |      |
 | 448  | [Find All Numbers Disappeared in an Array](./problems/400-499/448/README.md)                                           | :o:    | Easy   | [arr]       |      |

@@ -1100,7 +1100,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1025 | [Divisor Game](./problems/1000-1099/1025/README.md)                                                                    |        | Easy   |             |      |
 | 1026 | [Maximum Difference Between Node and Ancestor](./problems/1000-1099/1026/README.md)                                    |        | Medium |             |      |
 | 1027 | [Longest Arithmetic Sequence](./problems/1000-1099/1027/README.md)                                                     |        | Medium |             |      |
-| 1028 | [Recover a Tree From Preorder Traversal](./problems/1000-1099/1028/README.md)                                          |        | Hard   |             |      |
+| 1028 | [Recover a Tree From Preorder Traversal](./problems/1000-1099/1028/README.md) | :o: | Hard | [tr] |   |
 | 1029 | [Two City Scheduling](./problems/1000-1099/1029/README.md)                                                             |        | Easy   |             |      |
 | 1030 | [Matrix Cells in Distance Order](./problems/1000-1099/1030/README.md)                                                  |        | Easy   |             |      |
 | 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](./problems/1000-1099/1031/README.md)                                    |        | Medium |             |      |

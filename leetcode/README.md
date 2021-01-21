@@ -393,7 +393,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 312  | [Burst Balloons](./problems/300-399/312/README.md)                                                                     |        | Hard   |             |      |
 | 313  | [Super Ugly Number](./problems/300-399/313/README.md)                                                                  |        | Medium |             |      |
 | 314  | [Binary Tree Vertical Order Traversal](./problems/300-399/314/README.md)                                               | :lock: | Medium |             |      |
-| 315  | [Count of Smaller Numbers After Self](./problems/300-399/315/README.md)                                                |        | Hard   |             |      |
+| 315  | [Count of Smaller Numbers After Self](./problems/300-399/315/README.md)                                                | :o:    | Hard   | [tr],[arr]  | :+1: |
 | 316  | [Remove Duplicate Letters](./problems/300-399/316/README.md)                                                           |        | Hard   |             |      |
 | 317  | [Shortest Distance from All Buildings](./problems/300-399/317/README.md)                                               | :lock: | Hard   |             |      |
 | 318  | [Maximum Product of Word Lengths](./problems/300-399/318/README.md)                                                    |        | Medium |             |      |
@@ -523,7 +523,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 442  | [Find All Duplicates in an Array](./problems/400-499/442/README.md)                                                    | :o:    | Medium | [arr]       |      |
 | 443  | [String Compression](./problems/400-499/443/README.md)                                                                 | :o:    | Easy   | [arr]       |      |
 | 444  | [Sequence Reconstruction](./problems/400-499/444/README.md)                                                            | :lock: | Medium |             |      |
-| 445 | [Add Two Numbers II](./problems/400-499/445/README.md) | :o: | Medium | [ll] |   |
+| 445  | [Add Two Numbers II](./problems/400-499/445/README.md)                                                                 | :o:    | Medium | [ll]        |      |
 | 446  | [Arithmetic Slices II - Subsequence](./problems/400-499/446/README.md)                                                 |        | Hard   |             |      |
 | 447  | [Number of Boomerangs](./problems/400-499/447/README.md)                                                               | :o:    | Easy   | [hsh]       |      |
 | 448  | [Find All Numbers Disappeared in an Array](./problems/400-499/448/README.md)                                           | :o:    | Easy   | [arr]       |      |
@@ -1277,7 +1277,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1204 | [Last Person to Fit in the Elevator](./problems/1200-1299/1204/README.md)                                              | :lock: | Medium |             |      |
 | 1205 | [Monthly Transactions II](./problems/1200-1299/1205/README.md)                                                         | :lock: | Medium |             |      |
 | 1206 | [Design Skiplist](./problems/1200-1299/1206/README.md)                                                                 |        | Hard   |             |      |
-| 1207 | [Unique Number of Occurrences](./problems/1200-1299/1207/README.md) | :o: | Easy | [hsh] |   |
+| 1207 | [Unique Number of Occurrences](./problems/1200-1299/1207/README.md)                                                    | :o:    | Easy   | [hsh]       |      |
 | 1208 | [Get Equal Substrings Within Budget](./problems/1200-1299/1208/README.md)                                              |        | Medium |             |      |
 | 1209 | [Remove All Adjacent Duplicates in String II](./problems/1200-1299/1209/README.md)                                     |        | Medium |             |      |
 | 1210 | [Minimum Moves to Reach Target with Rotations](./problems/1200-1299/1210/README.md)                                    |        | Hard   |             |      |
@@ -1550,7 +1550,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](./problems/1400-1499/1477/README.md)                        |        | Medium |             |      |
 | 1478 | [Allocate Mailboxes](./problems/1400-1499/1478/README.md)                                                              |        | Hard   |             |      |
 | 1479 | [Sales by Day of the Week](./problems/1400-1499/1479/README.md)                                                        | :lock: | Hard   |             |      |
-| 1480 | [Running Sum of 1d Array](./problems/1400-1499/1480/README.md) | :o: | Easy | [arr] |   |
+| 1480 | [Running Sum of 1d Array](./problems/1400-1499/1480/README.md)                                                         | :o:    | Easy   | [arr]       |      |
 | 1481 | [Least Number of Unique Integers after K Removals](./problems/1400-1499/1481/README.md)                                |        | Medium |             |      |
 | 1482 | [Minimum Number of Days to Make m Bouquets](./problems/1400-1499/1482/README.md)                                       |        | Medium |             |      |
 | 1483 | [1483](./problems/1400-1499/1483/README.md)                                                                            |        | Easy   |             |      |

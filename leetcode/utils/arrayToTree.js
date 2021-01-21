@@ -1,5 +1,5 @@
 /** 
- * @param {number[]} voyage 
+ * @param {number[]}  array
  * @return {TreeNode}
  */
 function arrayToTree(array) {
@@ -23,4 +23,34 @@ function arrayToTree(array) {
   }
   return root;
 }
+
+/** 
+ * @param {TreeNode} node 
+ * @return {number[]}
+ */
+function treeToArray(node) {
+  if (!node) return [null];
+  const nodes = [node];
+  let end = false;
+  let i = 0;
+  while (!end) {
+    end = true;
+    let lastIndex = nodes.length - 1;
+    while (i <= lastIndex) {
+      const node = nodes[i];
+      if (node) {
+        end = false;
+        nodes.push(node.left);
+        nodes.push(node.right);
+      }
+      i++;
+    }
+  }
+  while (!nodes[nodes.length - 1]) {
+    nodes.pop();
+  }
+  return nodes.map(n => !n ? null : n.val)
+}
+
 exports.arrayToTree = arrayToTree;
+exports.treeToArray = treeToArray;

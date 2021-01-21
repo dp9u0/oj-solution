@@ -1,7 +1,8 @@
 let fs = require('fs');
 let common = require('./common');
 let execSync = require('child_process').execSync;
-let topics = process.argv[2] || '[none]';
+let topics = process.argv[2] || 'none';
+topics = '[' + topics.split(',').join('],[') + ']'
 let remark = process.argv[3];
 
 if (remark === '+1') {
@@ -45,8 +46,7 @@ common.updateReadme({
     setTimeout(() => {
       execSync('git add .', { stdio: 'inherit' });
       execSync('git commit -m ' + `"#${problem}"`, { stdio: 'inherit' });
-    }, 10000)
+      console.log(`Problem Finished ${problem} [${level}] (${topics}) :${title}`);
+    }, 10000);
   }
 });
-
-console.log(`Problem Finished ${problem} : [${level}] ${title}`);

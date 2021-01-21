@@ -1472,7 +1472,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1399 | [Count Largest Group](./problems/1300-1399/1399/README.md)                                                             |        | Easy   |             |      |
 | 1400 | [Construct K Palindrome Strings](./problems/1400-1499/1400/README.md)                                                  |        | Medium |             |      |
 | 1401 | [Circle and Rectangle Overlapping](./problems/1400-1499/1401/README.md)                                                |        | Medium |             |      |
-| 1402 | [Reducing Dishes](./problems/1400-1499/1402/README.md)                                                                 |        | Hard   |             |      |
+| 1402 | [Reducing Dishes](./problems/1400-1499/1402/README.md) | :o: | Hard | [math] |   |
 | 1403 | [Minimum Subsequence in Non-Increasing Order](./problems/1400-1499/1403/README.md)                                     |        | Easy   |             |      |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](./problems/1400-1499/1404/README.md)              |        | Medium |             |      |
 | 1405 | [Longest Happy String](./problems/1400-1499/1405/README.md)                                                            |        | Medium |             |      |

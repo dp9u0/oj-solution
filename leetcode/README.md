@@ -1167,7 +1167,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1092 | [Shortest Common Supersequence](./problems/1000-1099/1092/README.md)                                                   |        | Hard   |             |      |
 | 1093 | [Statistics from a Large Sample](./problems/1000-1099/1093/README.md)                                                  |        | Medium |             |      |
 | 1094 | [Car Pooling](./problems/1000-1099/1094/README.md)                                                                     |        | Medium |             |      |
-| 1095 | [Find in Mountain Array](./problems/1000-1099/1095/README.md)                                                          |        | Hard   |             |      |
+| 1095 | [Find in Mountain Array](./problems/1000-1099/1095/README.md) | :o: | Hard | [bs] | :+1:  |
 | 1096 | [Brace Expansion II](./problems/1000-1099/1096/README.md)                                                              |        | Hard   |             |      |
 | 1097 | [Game Play Analysis V](./problems/1000-1099/1097/README.md)                                                            | :lock: | Hard   |             |      |
 | 1098 | [Unpopular Books](./problems/1000-1099/1098/README.md)                                                                 | :lock: | Medium |             |      |

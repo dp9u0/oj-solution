@@ -1040,7 +1040,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 965  | [Univalued Binary Tree](./problems/900-999/965/README.md)                                                              | :o:    | Easy   | [tr]        |      |
 | 966  | [Vowel Spellchecker](./problems/900-999/966/README.md)                                                                 |        | Medium |             |      |
 | 967  | [Numbers With Same Consecutive Differences](./problems/900-999/967/README.md)                                          | :o:    | Medium | [bt]        |      |
-| 968  | [Binary Tree Cameras](./problems/900-999/968/README.md)                                                                |        | Hard   |             |      |
+| 968 | [Binary Tree Cameras](./problems/900-999/968/README.md) | :o: | Hard | [tr] |   |
 | 969  | [Pancake Sorting](./problems/900-999/969/README.md)                                                                    | :o:    | Medium | [arr]       |      |
 | 970  | [Powerful Integers](./problems/900-999/970/README.md)                                                                  | :o:    | Easy   | [math]      |      |
 | 971  | [Flip Binary Tree To Match Preorder Traversal](./problems/900-999/971/README.md)                                       | :o:    | Medium | [tr]        | :+1: |

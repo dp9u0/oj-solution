@@ -1194,7 +1194,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1119 | [Remove Vowels from a String](./problems/1100-1199/1119/README.md)                                                     | :lock: | Easy   |             |      |
 | 1120 | [Maximum Average Subtree](./problems/1100-1199/1120/README.md)                                                         | :lock: | Medium |             |      |
 | 1121 | [Divide Array Into Increasing Sequences](./problems/1100-1199/1121/README.md)                                          | :lock: | Hard   |             |      |
-| 1122 | [Relative Sort Array](./problems/1100-1199/1122/README.md)                                                             |        | Easy   |             |      |
+| 1122 | [Relative Sort Array](./problems/1100-1199/1122/README.md) | :o: | Easy | [arr] |   |
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](./problems/1100-1199/1123/README.md)                                        |        | Medium |             |      |
 | 1124 | [Longest Well-Performing Interval](./problems/1100-1199/1124/README.md)                                                |        | Medium |             |      |
 | 1125 | [Smallest Sufficient Team](./problems/1100-1199/1125/README.md)                                                        |        | Hard   |             |      |

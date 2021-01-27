@@ -421,7 +421,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 340  | [Longest Substring with At Most K Distinct Characters](./problems/300-399/340/README.md)                               | :lock: | Hard   |             |      |
 | 341  | [Flatten Nested List Iterator](./problems/300-399/341/README.md)                                                       |        | Medium |             |      |
 | 342  | [Power of Four](./problems/300-399/342/README.md)                                                                      | :o:    | Easy   | [bit]       | :+1: |
-| 343  | [Integer Break](./problems/300-399/343/README.md)                                                                      |        | Medium |             |      |
+| 343 | [Integer Break](./problems/300-399/343/README.md) | :o: | Medium | [dp] |   |
 | 344  | [Reverse String](./problems/300-399/344/README.md)                                                                     | :o:    | Easy   | [str]       |      |
 | 345  | [Reverse Vowels of a String](./problems/300-399/345/README.md)                                                         | :o:    | Easy   | [tp]        |      |
 | 346  | [Moving Average from Data Stream](./problems/300-399/346/README.md)                                                    | :lock: | Easy   |             |      |

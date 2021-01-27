@@ -1200,7 +1200,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1125 | [Smallest Sufficient Team](./problems/1100-1199/1125/README.md)                                                        |        | Hard   |             |      |
 | 1126 | [Active Businesses](./problems/1100-1199/1126/README.md)                                                               | :lock: | Medium |             |      |
 | 1127 | [User Purchase Platform](./problems/1100-1199/1127/README.md)                                                          | :lock: | Hard   |             |      |
-| 1128 | [Number of Equivalent Domino Pairs](./problems/1100-1199/1128/README.md)                                               |        | Easy   |             |      |
+| 1128 | [Number of Equivalent Domino Pairs](./problems/1100-1199/1128/README.md) | :o: | Easy | [arr] |   |
 | 1129 | [Shortest Path with Alternating Colors](./problems/1100-1199/1129/README.md)                                           |        | Medium |             |      |
 | 1130 | [Minimum Cost Tree From Leaf Values](./problems/1100-1199/1130/README.md)                                              |        | Medium |             |      |
 | 1131 | [Maximum of Absolute Value Expression](./problems/1100-1199/1131/README.md)                                            |        | Medium |             |      |

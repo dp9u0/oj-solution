@@ -836,7 +836,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 760  | [Find Anagram Mappings](./problems/700-799/760/README.md)                                                              | :lock: | Easy   |             |      |
 | 761  | [Special Binary String](./problems/700-799/761/README.md)                                                              |        | Hard   |             |      |
 | 762  | [Prime Number of Set Bits in Binary Representation](./problems/700-799/762/README.md)                                  | :o:    | Easy   | [bit]       |      |
-| 763  | [Partition Labels](./problems/700-799/763/README.md)                                                                   |        | Medium |             |      |
+| 763 | [Partition Labels](./problems/700-799/763/README.md) | :o: | Medium | [arr] |   |
 | 764  | [Largest Plus Sign](./problems/700-799/764/README.md)                                                                  |        | Medium |             |      |
 | 765  | [Couples Holding Hands](./problems/700-799/765/README.md)                                                              |        | Hard   |             |      |
 | 766  | [Toeplitz Matrix](./problems/700-799/766/README.md)                                                                    | :o:    | Easy   | [arr]       |      |

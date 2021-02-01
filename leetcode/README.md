@@ -407,7 +407,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 326  | [Power of Three](./problems/300-399/326/README.md)                                                                     | :o:    | Easy   | [math]      |      |
 | 327  | [Count of Range Sum](./problems/300-399/327/README.md)                                                                 |        | Hard   |             |      |
 | 328  | [Odd Even Linked List](./problems/300-399/328/README.md)                                                               | :o:    | Medium | [ll]        |      |
-| 329 | [Longest Increasing Path in a Matrix](./problems/300-399/329/README.md) | :o: | Hard | [dfs] | :+1:  |
+| 329  | [Longest Increasing Path in a Matrix](./problems/300-399/329/README.md)                                                | :o:    | Hard   | [dfs]       | :+1: |
 | 330  | [Patching Array](./problems/300-399/330/README.md)                                                                     |        | Hard   |             |      |
 | 331  | [Verify Preorder Serialization of a Binary Tree](./problems/300-399/331/README.md)                                     |        | Medium |             |      |
 | 332  | [Reconstruct Itinerary](./problems/300-399/332/README.md)                                                              |        | Medium |             |      |
@@ -421,7 +421,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 340  | [Longest Substring with At Most K Distinct Characters](./problems/300-399/340/README.md)                               | :lock: | Hard   |             |      |
 | 341  | [Flatten Nested List Iterator](./problems/300-399/341/README.md)                                                       |        | Medium |             |      |
 | 342  | [Power of Four](./problems/300-399/342/README.md)                                                                      | :o:    | Easy   | [bit]       | :+1: |
-| 343 | [Integer Break](./problems/300-399/343/README.md) | :o: | Medium | [dp] |   |
+| 343  | [Integer Break](./problems/300-399/343/README.md)                                                                      | :o:    | Medium | [dp]        |      |
 | 344  | [Reverse String](./problems/300-399/344/README.md)                                                                     | :o:    | Easy   | [str]       |      |
 | 345  | [Reverse Vowels of a String](./problems/300-399/345/README.md)                                                         | :o:    | Easy   | [tp]        |      |
 | 346  | [Moving Average from Data Stream](./problems/300-399/346/README.md)                                                    | :lock: | Easy   |             |      |
@@ -538,7 +538,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 457  | [Circular Array Loop](./problems/400-499/457/README.md)                                                                |        | Medium |             |      |
 | 458  | [Poor Pigs](./problems/400-499/458/README.md)                                                                          | :o:    | Easy   | [math]      | :+1: |
 | 459  | [Repeated Substring Pattern](./problems/400-499/459/README.md)                                                         | :o:    | Easy   | [string]    | :+1: |
-| 460 | [LFU Cache](./problems/400-499/460/README.md) | :o: | Hard | [ll],[hsh] | :+1:  |
+| 460  | [LFU Cache](./problems/400-499/460/README.md)                                                                          | :o:    | Hard   | [ll],[hsh]  | :+1: |
 | 461  | [Hamming Distance](./problems/400-499/461/README.md)                                                                   | :o:    | Easy   | [bit]       |      |
 | 462  | [Minimum Moves to Equal Array Elements II](./problems/400-499/462/README.md)                                           |        | Medium |             |      |
 | 463  | [Island Perimeter](./problems/400-499/463/README.md)                                                                   | :o:    | Easy   | [arr]       | ~    |
@@ -836,7 +836,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 760  | [Find Anagram Mappings](./problems/700-799/760/README.md)                                                              | :lock: | Easy   |             |      |
 | 761  | [Special Binary String](./problems/700-799/761/README.md)                                                              |        | Hard   |             |      |
 | 762  | [Prime Number of Set Bits in Binary Representation](./problems/700-799/762/README.md)                                  | :o:    | Easy   | [bit]       |      |
-| 763 | [Partition Labels](./problems/700-799/763/README.md) | :o: | Medium | [arr] |   |
+| 763  | [Partition Labels](./problems/700-799/763/README.md)                                                                   | :o:    | Medium | [arr]       |      |
 | 764  | [Largest Plus Sign](./problems/700-799/764/README.md)                                                                  |        | Medium |             |      |
 | 765  | [Couples Holding Hands](./problems/700-799/765/README.md)                                                              |        | Hard   |             |      |
 | 766  | [Toeplitz Matrix](./problems/700-799/766/README.md)                                                                    | :o:    | Easy   | [arr]       |      |
@@ -985,6 +985,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 909  | [Snakes and Ladders](./problems/900-999/909/README.md)                                                                 |        | Medium |             |      |
 | 910  | [Smallest Range II](./problems/900-999/910/README.md)                                                                  |        | Medium |             |      |
 | 911  | [Online Election](./problems/900-999/911/README.md)                                                                    |        | Medium |             |      |
+| 912  | [Sort an Array](./problems/900-999/912/README.md)                                                                      | :o:    | Medium | [arr]       |      |
 | 913  | [Cat and Mouse](./problems/900-999/913/README.md)                                                                      |        | Hard   |             |      |
 | 914  | [X of a Kind in a Deck of Cards](./problems/900-999/914/README.md)                                                     | :o:    | Easy   | [hsh]       | :+1: |
 | 915  | [Partition Array into Disjoint Intervals](./problems/900-999/915/README.md)                                            |        | Medium |             |      |
@@ -1040,7 +1041,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 965  | [Univalued Binary Tree](./problems/900-999/965/README.md)                                                              | :o:    | Easy   | [tr]        |      |
 | 966  | [Vowel Spellchecker](./problems/900-999/966/README.md)                                                                 |        | Medium |             |      |
 | 967  | [Numbers With Same Consecutive Differences](./problems/900-999/967/README.md)                                          | :o:    | Medium | [bt]        |      |
-| 968 | [Binary Tree Cameras](./problems/900-999/968/README.md) | :o: | Hard | [tr] |   |
+| 968  | [Binary Tree Cameras](./problems/900-999/968/README.md)                                                                | :o:    | Hard   | [tr]        |      |
 | 969  | [Pancake Sorting](./problems/900-999/969/README.md)                                                                    | :o:    | Medium | [arr]       |      |
 | 970  | [Powerful Integers](./problems/900-999/970/README.md)                                                                  | :o:    | Easy   | [math]      |      |
 | 971  | [Flip Binary Tree To Match Preorder Traversal](./problems/900-999/971/README.md)                                       | :o:    | Medium | [tr]        | :+1: |
@@ -1100,7 +1101,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1025 | [Divisor Game](./problems/1000-1099/1025/README.md)                                                                    |        | Easy   |             |      |
 | 1026 | [Maximum Difference Between Node and Ancestor](./problems/1000-1099/1026/README.md)                                    |        | Medium |             |      |
 | 1027 | [Longest Arithmetic Sequence](./problems/1000-1099/1027/README.md)                                                     |        | Medium |             |      |
-| 1028 | [Recover a Tree From Preorder Traversal](./problems/1000-1099/1028/README.md) | :o: | Hard | [tr] |   |
+| 1028 | [Recover a Tree From Preorder Traversal](./problems/1000-1099/1028/README.md)                                          | :o:    | Hard   | [tr]        |      |
 | 1029 | [Two City Scheduling](./problems/1000-1099/1029/README.md)                                                             |        | Easy   |             |      |
 | 1030 | [Matrix Cells in Distance Order](./problems/1000-1099/1030/README.md)                                                  |        | Easy   |             |      |
 | 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](./problems/1000-1099/1031/README.md)                                    |        | Medium |             |      |
@@ -1167,7 +1168,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1092 | [Shortest Common Supersequence](./problems/1000-1099/1092/README.md)                                                   |        | Hard   |             |      |
 | 1093 | [Statistics from a Large Sample](./problems/1000-1099/1093/README.md)                                                  |        | Medium |             |      |
 | 1094 | [Car Pooling](./problems/1000-1099/1094/README.md)                                                                     |        | Medium |             |      |
-| 1095 | [Find in Mountain Array](./problems/1000-1099/1095/README.md) | :o: | Hard | [bs] | :+1:  |
+| 1095 | [Find in Mountain Array](./problems/1000-1099/1095/README.md)                                                          | :o:    | Hard   | [bs]        | :+1: |
 | 1096 | [Brace Expansion II](./problems/1000-1099/1096/README.md)                                                              |        | Hard   |             |      |
 | 1097 | [Game Play Analysis V](./problems/1000-1099/1097/README.md)                                                            | :lock: | Hard   |             |      |
 | 1098 | [Unpopular Books](./problems/1000-1099/1098/README.md)                                                                 | :lock: | Medium |             |      |
@@ -1194,13 +1195,13 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1119 | [Remove Vowels from a String](./problems/1100-1199/1119/README.md)                                                     | :lock: | Easy   |             |      |
 | 1120 | [Maximum Average Subtree](./problems/1100-1199/1120/README.md)                                                         | :lock: | Medium |             |      |
 | 1121 | [Divide Array Into Increasing Sequences](./problems/1100-1199/1121/README.md)                                          | :lock: | Hard   |             |      |
-| 1122 | [Relative Sort Array](./problems/1100-1199/1122/README.md) | :o: | Easy | [arr] |   |
+| 1122 | [Relative Sort Array](./problems/1100-1199/1122/README.md)                                                             | :o:    | Easy   | [arr]       |      |
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](./problems/1100-1199/1123/README.md)                                        |        | Medium |             |      |
 | 1124 | [Longest Well-Performing Interval](./problems/1100-1199/1124/README.md)                                                |        | Medium |             |      |
 | 1125 | [Smallest Sufficient Team](./problems/1100-1199/1125/README.md)                                                        |        | Hard   |             |      |
 | 1126 | [Active Businesses](./problems/1100-1199/1126/README.md)                                                               | :lock: | Medium |             |      |
 | 1127 | [User Purchase Platform](./problems/1100-1199/1127/README.md)                                                          | :lock: | Hard   |             |      |
-| 1128 | [Number of Equivalent Domino Pairs](./problems/1100-1199/1128/README.md) | :o: | Easy | [arr] |   |
+| 1128 | [Number of Equivalent Domino Pairs](./problems/1100-1199/1128/README.md)                                               | :o:    | Easy   | [arr]       |      |
 | 1129 | [Shortest Path with Alternating Colors](./problems/1100-1199/1129/README.md)                                           |        | Medium |             |      |
 | 1130 | [Minimum Cost Tree From Leaf Values](./problems/1100-1199/1130/README.md)                                              |        | Medium |             |      |
 | 1131 | [Maximum of Absolute Value Expression](./problems/1100-1199/1131/README.md)                                            |        | Medium |             |      |
@@ -1472,7 +1473,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1399 | [Count Largest Group](./problems/1300-1399/1399/README.md)                                                             |        | Easy   |             |      |
 | 1400 | [Construct K Palindrome Strings](./problems/1400-1499/1400/README.md)                                                  |        | Medium |             |      |
 | 1401 | [Circle and Rectangle Overlapping](./problems/1400-1499/1401/README.md)                                                |        | Medium |             |      |
-| 1402 | [Reducing Dishes](./problems/1400-1499/1402/README.md) | :o: | Hard | [math] |   |
+| 1402 | [Reducing Dishes](./problems/1400-1499/1402/README.md)                                                                 | :o:    | Hard   | [math]      |      |
 | 1403 | [Minimum Subsequence in Non-Increasing Order](./problems/1400-1499/1403/README.md)                                     |        | Easy   |             |      |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](./problems/1400-1499/1404/README.md)              |        | Medium |             |      |
 | 1405 | [Longest Happy String](./problems/1400-1499/1405/README.md)                                                            |        | Medium |             |      |

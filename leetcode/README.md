@@ -1583,7 +1583,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](./problems/1500-1599/1509/README.md)            |        | Medium |             |      |
 | 1510 | [Stone Game IV](./problems/1500-1599/1510/README.md)                                                                   |        | Hard   |             |      |
 | 1511 | [Customer Order Frequency](./problems/1500-1599/1511/README.md)                                                        | :lock: | Easy   |             |      |
-| 1512 | [Number of Good Pairs](./problems/1500-1599/1512/README.md)                                                            |        | Easy   |             |      |
+| 1512 | [Number of Good Pairs](./problems/1500-1599/1512/README.md) | :o: | Easy | [arr] |   |
 | 1513 | [Number of Substrings With Only 1s](./problems/1500-1599/1513/README.md)                                               |        | Medium |             |      |
 | 1514 | [1514](./problems/1500-1599/1514/README.md)                                                                            |        | Easy   |             |      |
 | 1515 | [Best Position for a Service Centre](./problems/1500-1599/1515/README.md)                                              |        | Hard   |             |      |

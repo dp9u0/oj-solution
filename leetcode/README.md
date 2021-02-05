@@ -70,6 +70,7 @@ npm run ok [tr] # finished and set topic 'tree'
 * [lgc] : if else switch
 * [math] : math
 * [q] : quque
+* [sd] : slide window
 * [stk] : stack
 * [str] : string
 * [tr] : tree
@@ -367,7 +368,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 286  | [Walls and Gates](./problems/200-299/286/README.md)                                                                    | :lock: | Medium |             |      |
 | 287  | [Find the Duplicate Number](./problems/200-299/287/README.md)                                                          | :o:    | Medium | [tp]        | :+1: |
 | 288  | [Unique Word Abbreviation](./problems/200-299/288/README.md)                                                           | :lock: | Medium |             |      |
-| 289 | [Game of Life](./problems/200-299/289/README.md) | :o: | Medium | [arr] |   |
+| 289  | [Game of Life](./problems/200-299/289/README.md)                                                                       | :o:    | Medium | [arr]       |      |
 | 290  | [Word Pattern](./problems/200-299/290/README.md)                                                                       | :o:    | Easy   | [hsh]       |      |
 | 291  | [Word Pattern II](./problems/200-299/291/README.md)                                                                    | :lock: | Hard   |             |      |
 | 292  | [Nim Game](./problems/200-299/292/README.md)                                                                           | :o:    | Easy   | [math]      |      |
@@ -1072,7 +1073,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 996  | [Number of Squareful Arrays](./problems/900-999/996/README.md)                                                         |        | Hard   |             |      |
 | 997  | [Find the Town Judge](./problems/900-999/997/README.md)                                                                |        | Easy   |             |      |
 | 998  | [Maximum Binary Tree II](./problems/900-999/998/README.md)                                                             |        | Medium |             |      |
-| 999 | [Available Captures for Rook](./problems/900-999/999/README.md) | :o: | Easy | [arr] |   |
+| 999  | [Available Captures for Rook](./problems/900-999/999/README.md)                                                        | :o:    | Easy   | [arr]       |      |
 | 1000 | [Minimum Cost to Merge Stones](./problems/1000-1099/1000/README.md)                                                    |        | Hard   |             |      |
 | 1001 | [Grid Illumination](./problems/1000-1099/1001/README.md)                                                               |        | Hard   |             |      |
 | 1002 | [Find Common Characters](./problems/1000-1099/1002/README.md)                                                          |        | Easy   |             |      |
@@ -1181,7 +1182,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1105 | [Filling Bookcase Shelves](./problems/1100-1199/1105/README.md)                                                        |        | Medium |             |      |
 | 1106 | [Parsing A Boolean Expression](./problems/1100-1199/1106/README.md)                                                    |        | Hard   |             |      |
 | 1107 | [New Users Daily Count](./problems/1100-1199/1107/README.md)                                                           | :lock: | Medium |             |      |
-| 1108 | [Defanging an IP Address](./problems/1100-1199/1108/README.md) | :o: | Easy | [str] |   |
+| 1108 | [Defanging an IP Address](./problems/1100-1199/1108/README.md)                                                         | :o:    | Easy   | [str]       |      |
 | 1109 | [Corporate Flight Bookings](./problems/1100-1199/1109/README.md)                                                       |        | Medium |             |      |
 | 1110 | [Delete Nodes And Return Forest](./problems/1100-1199/1110/README.md)                                                  |        | Medium |             |      |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./problems/1100-1199/1111/README.md)                          |        | Medium |             |      |
@@ -1279,7 +1280,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1205 | [Monthly Transactions II](./problems/1200-1299/1205/README.md)                                                         | :lock: | Medium |             |      |
 | 1206 | [Design Skiplist](./problems/1200-1299/1206/README.md)                                                                 |        | Hard   |             |      |
 | 1207 | [Unique Number of Occurrences](./problems/1200-1299/1207/README.md)                                                    | :o:    | Easy   | [hsh]       |      |
-| 1208 | [Get Equal Substrings Within Budget](./problems/1200-1299/1208/README.md)                                              |        | Medium |             |      |
+| 1208 | [Get Equal Substrings Within Budget](./problems/1200-1299/1208/README.md)                                              | :o:    | Medium | [arr],[sd]  |      |
 | 1209 | [Remove All Adjacent Duplicates in String II](./problems/1200-1299/1209/README.md)                                     |        | Medium |             |      |
 | 1210 | [Minimum Moves to Reach Target with Rotations](./problems/1200-1299/1210/README.md)                                    |        | Hard   |             |      |
 | 1211 | [Queries Quality and Percentage](./problems/1200-1299/1211/README.md)                                                  | :lock: | Easy   |             |      |
@@ -1583,7 +1584,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](./problems/1500-1599/1509/README.md)            |        | Medium |             |      |
 | 1510 | [Stone Game IV](./problems/1500-1599/1510/README.md)                                                                   |        | Hard   |             |      |
 | 1511 | [Customer Order Frequency](./problems/1500-1599/1511/README.md)                                                        | :lock: | Easy   |             |      |
-| 1512 | [Number of Good Pairs](./problems/1500-1599/1512/README.md) | :o: | Easy | [arr] |   |
+| 1512 | [Number of Good Pairs](./problems/1500-1599/1512/README.md)                                                            | :o:    | Easy   | [arr]       |      |
 | 1513 | [Number of Substrings With Only 1s](./problems/1500-1599/1513/README.md)                                               |        | Medium |             |      |
 | 1514 | [1514](./problems/1500-1599/1514/README.md)                                                                            |        | Easy   |             |      |
 | 1515 | [Best Position for a Service Centre](./problems/1500-1599/1515/README.md)                                              |        | Hard   |             |      |

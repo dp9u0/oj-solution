@@ -416,7 +416,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 334  | [Increasing Triplet Subsequence](./problems/300-399/334/README.md)                                                     |        | Medium |             |      |
 | 335  | [Self Crossing](./problems/300-399/335/README.md)                                                                      |        | Hard   |             |      |
 | 336  | [Palindrome Pairs](./problems/300-399/336/README.md)                                                                   |        | Hard   |             |      |
-| 337  | [House Robber III](./problems/300-399/337/README.md)                                                                   |        | Medium |             |      |
+| 337 | [House Robber III](./problems/300-399/337/README.md) | :o: | Medium | [tr] |   |
 | 338  | [Counting Bits](./problems/300-399/338/README.md)                                                                      |        | Medium |             |      |
 | 339  | [Nested List Weight Sum](./problems/300-399/339/README.md)                                                             | :lock: | Easy   |             |      |
 | 340  | [Longest Substring with At Most K Distinct Characters](./problems/300-399/340/README.md)                               | :lock: | Hard   |             |      |

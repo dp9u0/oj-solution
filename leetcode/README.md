@@ -367,7 +367,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 286  | [Walls and Gates](./problems/200-299/286/README.md)                                                                    | :lock: | Medium |             |      |
 | 287  | [Find the Duplicate Number](./problems/200-299/287/README.md)                                                          | :o:    | Medium | [tp]        | :+1: |
 | 288  | [Unique Word Abbreviation](./problems/200-299/288/README.md)                                                           | :lock: | Medium |             |      |
-| 289  | [Game of Life](./problems/200-299/289/README.md)                                                                       |        | Medium |             |      |
+| 289 | [Game of Life](./problems/200-299/289/README.md) | :o: | Medium | [arr] |   |
 | 290  | [Word Pattern](./problems/200-299/290/README.md)                                                                       | :o:    | Easy   | [hsh]       |      |
 | 291  | [Word Pattern II](./problems/200-299/291/README.md)                                                                    | :lock: | Hard   |             |      |
 | 292  | [Nim Game](./problems/200-299/292/README.md)                                                                           | :o:    | Easy   | [math]      |      |

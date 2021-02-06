@@ -721,7 +721,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 644  | [Maximum Average Subarray II](./problems/600-699/644/README.md)                                                        | :lock: | Hard   |             |      |
 | 645  | [Set Mismatch](./problems/600-699/645/README.md)                                                                       | :o:    | Easy   | [arr]       |      |
 | 646  | [Maximum Length of Pair Chain](./problems/600-699/646/README.md)                                                       |        | Medium |             |      |
-| 647  | [Palindromic Substrings](./problems/600-699/647/README.md)                                                             |        | Medium |             |      |
+| 647 | [Palindromic Substrings](./problems/600-699/647/README.md) | :o: | Medium | [arr] |   |
 | 648  | [Replace Words](./problems/600-699/648/README.md)                                                                      |        | Medium |             |      |
 | 649  | [Dota2 Senate](./problems/600-699/649/README.md)                                                                       |        | Medium |             |      |
 | 650  | [2 Keys Keyboard](./problems/600-699/650/README.md)                                                                    |        | Medium |             |      |

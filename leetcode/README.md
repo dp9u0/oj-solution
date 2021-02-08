@@ -358,7 +358,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 276  | [Paint Fence](./problems/200-299/276/README.md)                                                                        | :lock: | Easy   |             |      |
 | 277  | [Find the Celebrity](./problems/200-299/277/README.md)                                                                 | :lock: | Medium |             |      |
 | 278  | [First Bad Version](./problems/200-299/278/README.md)                                                                  | :o:    | Easy   | [bs]        |      |
-| 279  | [Perfect Squares](./problems/200-299/279/README.md)                                                                    |        | Medium |             |      |
+| 279 | [Perfect Squares](./problems/200-299/279/README.md) | :o: | Medium | [math] |   |
 | 280  | [Wiggle Sort](./problems/200-299/280/README.md)                                                                        | :lock: | Medium |             |      |
 | 281  | [Zigzag Iterator](./problems/200-299/281/README.md)                                                                    | :lock: | Medium |             |      |
 | 282  | [Expression Add Operators](./problems/200-299/282/README.md)                                                           |        | Hard   |             |      |

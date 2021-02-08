@@ -319,7 +319,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 237  | [Delete Node in a Linked List](./problems/200-299/237/README.md)                                                       | :o:    | Easy   | [ll]        | :-1: |
 | 238  | [Product of Array Except Self](./problems/200-299/238/README.md)                                                       | :o:    | Medium | [arr]       |      |
 | 239  | [Sliding Window Maximum](./problems/200-299/239/README.md)                                                             | :o:    | Hard   | [queue]     | :+1: |
-| 240  | [Search a 2D Matrix II](./problems/200-299/240/README.md)                                                              |        | Medium |             |      |
+| 240  | [Search a 2D Matrix II](./problems/200-299/240/README.md)                                                              | :o:    | Medium | [arr]       |      |
 | 241  | [Different Ways to Add Parentheses](./problems/200-299/241/README.md)                                                  | :o:    | Medium | [dc]        |      |
 | 242  | [Valid Anagram](./problems/200-299/242/README.md)                                                                      | :o:    | Easy   | [hsh]       |      |
 | 243  | [Shortest Word Distance](./problems/200-299/243/README.md)                                                             | :lock: | Easy   |             |      |
@@ -358,7 +358,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 276  | [Paint Fence](./problems/200-299/276/README.md)                                                                        | :lock: | Easy   |             |      |
 | 277  | [Find the Celebrity](./problems/200-299/277/README.md)                                                                 | :lock: | Medium |             |      |
 | 278  | [First Bad Version](./problems/200-299/278/README.md)                                                                  | :o:    | Easy   | [bs]        |      |
-| 279 | [Perfect Squares](./problems/200-299/279/README.md) | :o: | Medium | [math] |   |
+| 279  | [Perfect Squares](./problems/200-299/279/README.md)                                                                    | :o:    | Medium | [math]      |      |
 | 280  | [Wiggle Sort](./problems/200-299/280/README.md)                                                                        | :lock: | Medium |             |      |
 | 281  | [Zigzag Iterator](./problems/200-299/281/README.md)                                                                    | :lock: | Medium |             |      |
 | 282  | [Expression Add Operators](./problems/200-299/282/README.md)                                                           |        | Hard   |             |      |
@@ -416,7 +416,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 334  | [Increasing Triplet Subsequence](./problems/300-399/334/README.md)                                                     |        | Medium |             |      |
 | 335  | [Self Crossing](./problems/300-399/335/README.md)                                                                      |        | Hard   |             |      |
 | 336  | [Palindrome Pairs](./problems/300-399/336/README.md)                                                                   |        | Hard   |             |      |
-| 337 | [House Robber III](./problems/300-399/337/README.md) | :o: | Medium | [tr] |   |
+| 337  | [House Robber III](./problems/300-399/337/README.md)                                                                   | :o:    | Medium | [tr]        |      |
 | 338  | [Counting Bits](./problems/300-399/338/README.md)                                                                      |        | Medium |             |      |
 | 339  | [Nested List Weight Sum](./problems/300-399/339/README.md)                                                             | :lock: | Easy   |             |      |
 | 340  | [Longest Substring with At Most K Distinct Characters](./problems/300-399/340/README.md)                               | :lock: | Hard   |             |      |
@@ -721,7 +721,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 644  | [Maximum Average Subarray II](./problems/600-699/644/README.md)                                                        | :lock: | Hard   |             |      |
 | 645  | [Set Mismatch](./problems/600-699/645/README.md)                                                                       | :o:    | Easy   | [arr]       |      |
 | 646  | [Maximum Length of Pair Chain](./problems/600-699/646/README.md)                                                       |        | Medium |             |      |
-| 647 | [Palindromic Substrings](./problems/600-699/647/README.md) | :o: | Medium | [arr] |   |
+| 647  | [Palindromic Substrings](./problems/600-699/647/README.md)                                                             | :o:    | Medium | [arr]       |      |
 | 648  | [Replace Words](./problems/600-699/648/README.md)                                                                      |        | Medium |             |      |
 | 649  | [Dota2 Senate](./problems/600-699/649/README.md)                                                                       |        | Medium |             |      |
 | 650  | [2 Keys Keyboard](./problems/600-699/650/README.md)                                                                    |        | Medium |             |      |
@@ -1145,7 +1145,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1068 | [Product Sales Analysis I](./problems/1000-1099/1068/README.md)                                                        | :lock: | Easy   |             |      |
 | 1069 | [Product Sales Analysis II](./problems/1000-1099/1069/README.md)                                                       | :lock: | Easy   |             |      |
 | 1070 | [Product Sales Analysis III](./problems/1000-1099/1070/README.md)                                                      | :lock: | Medium |             |      |
-| 1071 | [Greatest Common Divisor of Strings](./problems/1000-1099/1071/README.md) | :o: | Easy | [str] |   |
+| 1071 | [Greatest Common Divisor of Strings](./problems/1000-1099/1071/README.md)                                              | :o:    | Easy   | [str]       |      |
 | 1072 | [Flip Columns For Maximum Number of Equal Rows](./problems/1000-1099/1072/README.md)                                   |        | Medium |             |      |
 | 1073 | [Adding Two Negabinary Numbers](./problems/1000-1099/1073/README.md)                                                   |        | Medium |             |      |
 | 1074 | [Number of Submatrices That Sum to Target](./problems/1000-1099/1074/README.md)                                        |        | Hard   |             |      |

@@ -961,7 +961,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 884  | [Uncommon Words from Two Sentences](./problems/800-899/884/README.md)                                                  | :o:    | Easy   | [hsh]       |      |
 | 885  | [Spiral Matrix III](./problems/800-899/885/README.md)                                                                  |        | Medium |             |      |
 | 886  | [Possible Bipartition](./problems/800-899/886/README.md)                                                               |        | Medium |             |      |
-| 887  | [Super Egg Drop](./problems/800-899/887/README.md)                                                                     |        | Hard   |             |      |
+| 887 | [Super Egg Drop](./problems/800-899/887/README.md) | :o: | Hard | [dp] |   |
 | 888  | [Fair Candy Swap](./problems/800-899/888/README.md)                                                                    | :o:    | Easy   | [hsh]       |      |
 | 889  | [Construct Binary Tree from Preorder and Postorder Traversal](./problems/800-899/889/README.md)                        |        | Medium |             |      |
 | 890  | [Find and Replace Pattern](./problems/800-899/890/README.md)                                                           |        | Medium |             |      |

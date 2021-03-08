@@ -433,7 +433,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 351  | [Android Unlock Patterns](./problems/300-399/351/README.md)                                                            | :lock: | Medium |             |      |
 | 352  | [Data Stream as Disjoint Intervals](./problems/300-399/352/README.md)                                                  |        | Hard   |             |      |
 | 353  | [Design Snake Game](./problems/300-399/353/README.md)                                                                  | :lock: | Medium |             |      |
-| 354  | [Russian Doll Envelopes](./problems/300-399/354/README.md)                                                             |        | Hard   |             |      |
+| 354 | [Russian Doll Envelopes](./problems/300-399/354/README.md) | :o: | Hard | [dp] |   |
 | 355  | [Design Twitter](./problems/300-399/355/README.md)                                                                     |        | Medium |             |      |
 | 356  | [Line Reflection](./problems/300-399/356/README.md)                                                                    | :lock: | Medium |             |      |
 | 357  | [Count Numbers with Unique Digits](./problems/300-399/357/README.md)                                                   |        | Medium |             |      |

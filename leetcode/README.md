@@ -417,7 +417,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 335  | [Self Crossing](./problems/300-399/335/README.md)                                                                      |        | Hard   |             |      |
 | 336  | [Palindrome Pairs](./problems/300-399/336/README.md)                                                                   |        | Hard   |             |      |
 | 337  | [House Robber III](./problems/300-399/337/README.md)                                                                   | :o:    | Medium | [tr]        |      |
-| 338 | [Counting Bits](./problems/300-399/338/README.md) | :o: | Medium | [bit] |   |
+| 338  | [Counting Bits](./problems/300-399/338/README.md)                                                                      | :o:    | Medium | [bit]       |      |
 | 339  | [Nested List Weight Sum](./problems/300-399/339/README.md)                                                             | :lock: | Easy   |             |      |
 | 340  | [Longest Substring with At Most K Distinct Characters](./problems/300-399/340/README.md)                               | :lock: | Hard   |             |      |
 | 341  | [Flatten Nested List Iterator](./problems/300-399/341/README.md)                                                       |        | Medium |             |      |
@@ -433,7 +433,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 351  | [Android Unlock Patterns](./problems/300-399/351/README.md)                                                            | :lock: | Medium |             |      |
 | 352  | [Data Stream as Disjoint Intervals](./problems/300-399/352/README.md)                                                  |        | Hard   |             |      |
 | 353  | [Design Snake Game](./problems/300-399/353/README.md)                                                                  | :lock: | Medium |             |      |
-| 354 | [Russian Doll Envelopes](./problems/300-399/354/README.md) | :o: | Hard | [dp] |   |
+| 354  | [Russian Doll Envelopes](./problems/300-399/354/README.md)                                                             | :o:    | Hard   | [dp]        |      |
 | 355  | [Design Twitter](./problems/300-399/355/README.md)                                                                     |        | Medium |             |      |
 | 356  | [Line Reflection](./problems/300-399/356/README.md)                                                                    | :lock: | Medium |             |      |
 | 357  | [Count Numbers with Unique Digits](./problems/300-399/357/README.md)                                                   |        | Medium |             |      |
@@ -961,7 +961,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 884  | [Uncommon Words from Two Sentences](./problems/800-899/884/README.md)                                                  | :o:    | Easy   | [hsh]       |      |
 | 885  | [Spiral Matrix III](./problems/800-899/885/README.md)                                                                  |        | Medium |             |      |
 | 886  | [Possible Bipartition](./problems/800-899/886/README.md)                                                               |        | Medium |             |      |
-| 887 | [Super Egg Drop](./problems/800-899/887/README.md) | :o: | Hard | [dp] |   |
+| 887  | [Super Egg Drop](./problems/800-899/887/README.md)                                                                     | :o:    | Hard   | [dp]        |      |
 | 888  | [Fair Candy Swap](./problems/800-899/888/README.md)                                                                    | :o:    | Easy   | [hsh]       |      |
 | 889  | [Construct Binary Tree from Preorder and Postorder Traversal](./problems/800-899/889/README.md)                        |        | Medium |             |      |
 | 890  | [Find and Replace Pattern](./problems/800-899/890/README.md)                                                           |        | Medium |             |      |
@@ -1099,7 +1099,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1022 | [Sum of Root To Leaf Binary Numbers](./problems/1000-1099/1022/README.md)                                              |        | Easy   |             |      |
 | 1023 | [Camelcase Matching](./problems/1000-1099/1023/README.md)                                                              |        | Medium |             |      |
 | 1024 | [Video Stitching](./problems/1000-1099/1024/README.md)                                                                 |        | Medium |             |      |
-| 1025 | [Divisor Game](./problems/1000-1099/1025/README.md) | :o: | Easy | [math] |   |
+| 1025 | [Divisor Game](./problems/1000-1099/1025/README.md)                                                                    | :o:    | Easy   | [math]      |      |
 | 1026 | [Maximum Difference Between Node and Ancestor](./problems/1000-1099/1026/README.md)                                    |        | Medium |             |      |
 | 1027 | [Longest Arithmetic Sequence](./problems/1000-1099/1027/README.md)                                                     |        | Medium |             |      |
 | 1028 | [Recover a Tree From Preorder Traversal](./problems/1000-1099/1028/README.md)                                          | :o:    | Hard   | [tr]        |      |
@@ -1797,5 +1797,303 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1722 | [Minimize Hamming Distance After Swap Operations](./problems/1700-1799/1722/README.md)                                 |        | Medium |             |      |
 | 1723 | [Find Minimum Time to Finish All Jobs](./problems/1700-1799/1723/README.md)                                            |        | Hard   |             |      |
 | 1724 | [Checking Existence of Edge Length Limited Paths II](./problems/1700-1799/1724/README.md)                              | :lock: | Hard   |             |      |
-| 1784 | [Check if Binary String Has at Most One Segment of Ones](./problems/1700-1799/1784/README.md) | :o: | Easy | [arr] |   |
-| 1785 | [Minimum Elements to Add to Form a Given Sum](./problems/1700-1799/1785/README.md) | :o: | Medium | [arr] |   |
+| 1784 | [Check if Binary String Has at Most One Segment of Ones](./problems/1700-1799/1784/README.md)                          | :o:    | Easy   | [arr]       |      |
+| 1785 | [Minimum Elements to Add to Form a Given Sum](./problems/1700-1799/1785/README.md)                                     |        | Medium |             |      |
+| 1786 | [Number of Restricted Paths From First to Last Node](./problems/1700-1799/1786/README.md)                              |        | Medium |             |      |
+| 1787 | [Make the XOR of All Segments Equal to Zero](./problems/1700-1799/1787/README.md)                                      |        | Hard   |             |      |
+| 1788 | [Maximize the Beauty of the Garden](./problems/1700-1799/1788/README.md)                                               | :lock: | Hard   |             |      |
+| 1789 | [Primary Department for Each Employee](./problems/1700-1799/1789/README.md)                                            | :lock: | Easy   |             |      |
+| 1790 | [Check if One String Swap Can Make Strings Equal](./problems/1700-1799/1790/README.md)                                 |        | Easy   |             |      |
+| 1791 | [Find Center of Star Graph](./problems/1700-1799/1791/README.md)                                                       |        | Easy   |             |      |
+| 1792 | [Maximum Average Pass Ratio](./problems/1700-1799/1792/README.md)                                                      |        | Medium |             |      |
+| 1793 | [Maximum Score of a Good Subarray](./problems/1700-1799/1793/README.md)                                                |        | Hard   |             |      |
+| 1794 | [Count Pairs of Equal Substrings With Minimum Difference](./problems/1700-1799/1794/README.md)                         | :lock: | Medium |             |      |
+| 1795 | [Rearrange Products Table](./problems/1700-1799/1795/README.md)                                                        | :lock: | Easy   |             |      |
+| 1796 | [Second Largest Digit in a String](./problems/1700-1799/1796/README.md)                                                |        | Easy   |             |      |
+| 1797 | [Design Authentication Manager](./problems/1700-1799/1797/README.md)                                                   |        | Medium |             |      |
+| 1798 | [Maximum Number of Consecutive Values You Can Make](./problems/1700-1799/1798/README.md)                               |        | Medium |             |      |
+| 1799 | [Maximize Score After N Operations](./problems/1700-1799/1799/README.md)                                               |        | Hard   |             |      |
+| 1800 | [Maximum Ascending Subarray Sum](./problems/1800-1899/1800/README.md)                                                  |        | Easy   |             |      |
+| 1801 | [Number of Orders in the Backlog](./problems/1800-1899/1801/README.md)                                                 |        | Medium |             |      |
+| 1802 | [Maximum Value at a Given Index in a Bounded Array](./problems/1800-1899/1802/README.md)                               |        | Medium |             |      |
+| 1803 | [Count Pairs With XOR in a Range](./problems/1800-1899/1803/README.md)                                                 |        | Hard   |             |      |
+| 1804 | [Implement Trie II (Prefix Tree)](./problems/1800-1899/1804/README.md)                                                 | :lock: | Medium |             |      |
+| 1805 | [Number of Different Integers in a String](./problems/1800-1899/1805/README.md)                                        |        | Easy   |             |      |
+| 1806 | [Minimum Number of Operations to Reinitialize a Permutation](./problems/1800-1899/1806/README.md)                      |        | Medium |             |      |
+| 1807 | [Evaluate the Bracket Pairs of a String](./problems/1800-1899/1807/README.md)                                          |        | Medium |             |      |
+| 1808 | [Maximize Number of Nice Divisors](./problems/1800-1899/1808/README.md)                                                |        | Hard   |             |      |
+| 1809 | [Ad-Free Sessions](./problems/1800-1899/1809/README.md)                                                                | :lock: | Easy   |             |      |
+| 1810 | [Minimum Path Cost in a Hidden Grid](./problems/1800-1899/1810/README.md)                                              | :lock: | Medium |             |      |
+| 1811 | [Find Interview Candidates](./problems/1800-1899/1811/README.md)                                                       | :lock: | Medium |             |      |
+| 1812 | [Determine Color of a Chessboard Square](./problems/1800-1899/1812/README.md)                                          |        | Easy   |             |      |
+| 1813 | [Sentence Similarity III](./problems/1800-1899/1813/README.md)                                                         |        | Medium |             |      |
+| 1814 | [Count Nice Pairs in an Array](./problems/1800-1899/1814/README.md)                                                    |        | Medium |             |      |
+| 1815 | [Maximum Number of Groups Getting Fresh Donuts](./problems/1800-1899/1815/README.md)                                   |        | Hard   |             |      |
+| 1816 | [Truncate Sentence](./problems/1800-1899/1816/README.md)                                                               |        | Easy   |             |      |
+| 1817 | [Finding the Users Active Minutes](./problems/1800-1899/1817/README.md)                                                |        | Medium |             |      |
+| 1818 | [Minimum Absolute Sum Difference](./problems/1800-1899/1818/README.md)                                                 |        | Medium |             |      |
+| 1819 | [Number of Different Subsequences GCDs](./problems/1800-1899/1819/README.md)                                           |        | Hard   |             |      |
+| 1820 | [Maximum Number of Accepted Invitations](./problems/1800-1899/1820/README.md)                                          | :lock: | Medium |             |      |
+| 1821 | [Find Customers With Positive Revenue this Year](./problems/1800-1899/1821/README.md)                                  | :lock: | Easy   |             |      |
+| 1822 | [Sign of the Product of an Array](./problems/1800-1899/1822/README.md)                                                 |        | Easy   |             |      |
+| 1823 | [Find the Winner of the Circular Game](./problems/1800-1899/1823/README.md)                                            |        | Medium |             |      |
+| 1824 | [Minimum Sideway Jumps](./problems/1800-1899/1824/README.md)                                                           |        | Medium |             |      |
+| 1825 | [Finding MK Average](./problems/1800-1899/1825/README.md)                                                              |        | Hard   |             |      |
+| 1826 | [Faulty Sensor](./problems/1800-1899/1826/README.md)                                                                   | :lock: | Easy   |             |      |
+| 1827 | [Minimum Operations to Make the Array Increasing](./problems/1800-1899/1827/README.md)                                 |        | Easy   |             |      |
+| 1828 | [Queries on Number of Points Inside a Circle](./problems/1800-1899/1828/README.md)                                     |        | Medium |             |      |
+| 1829 | [Maximum XOR for Each Query](./problems/1800-1899/1829/README.md)                                                      |        | Medium |             |      |
+| 1830 | [Minimum Number of Operations to Make String Sorted](./problems/1800-1899/1830/README.md)                              |        | Hard   |             |      |
+| 1831 | [Maximum Transaction Each Day](./problems/1800-1899/1831/README.md)                                                    | :lock: | Medium |             |      |
+| 1832 | [Check if the Sentence Is Pangram](./problems/1800-1899/1832/README.md)                                                |        | Easy   |             |      |
+| 1833 | [Maximum Ice Cream Bars](./problems/1800-1899/1833/README.md)                                                          |        | Medium |             |      |
+| 1834 | [Single-Threaded CPU](./problems/1800-1899/1834/README.md)                                                             |        | Medium |             |      |
+| 1835 | [Find XOR Sum of All Pairs Bitwise AND](./problems/1800-1899/1835/README.md)                                           |        | Hard   |             |      |
+| 1836 | [Remove Duplicates From an Unsorted Linked List](./problems/1800-1899/1836/README.md)                                  | :lock: | Medium |             |      |
+| 1837 | [Sum of Digits in Base K](./problems/1800-1899/1837/README.md)                                                         |        | Easy   |             |      |
+| 1838 | [Frequency of the Most Frequent Element](./problems/1800-1899/1838/README.md)                                          |        | Medium |             |      |
+| 1839 | [Longest Substring Of All Vowels in Order](./problems/1800-1899/1839/README.md)                                        |        | Medium |             |      |
+| 1840 | [Maximum Building Height](./problems/1800-1899/1840/README.md)                                                         |        | Hard   |             |      |
+| 1841 | [League Statistics](./problems/1800-1899/1841/README.md)                                                               | :lock: | Medium |             |      |
+| 1842 | [Next Palindrome Using Same Digits](./problems/1800-1899/1842/README.md)                                               | :lock: | Hard   |             |      |
+| 1843 | [Suspicious Bank Accounts](./problems/1800-1899/1843/README.md)                                                        | :lock: | Medium |             |      |
+| 1844 | [Replace All Digits with Characters](./problems/1800-1899/1844/README.md)                                              |        | Easy   |             |      |
+| 1845 | [Seat Reservation Manager](./problems/1800-1899/1845/README.md)                                                        |        | Medium |             |      |
+| 1846 | [Maximum Element After Decreasing and Rearranging](./problems/1800-1899/1846/README.md)                                |        | Medium |             |      |
+| 1847 | [Closest Room](./problems/1800-1899/1847/README.md)                                                                    |        | Hard   |             |      |
+| 1848 | [Minimum Distance to the Target Element](./problems/1800-1899/1848/README.md)                                          |        | Easy   |             |      |
+| 1849 | [Splitting a String Into Descending Consecutive Values](./problems/1800-1899/1849/README.md)                           |        | Medium |             |      |
+| 1850 | [Minimum Adjacent Swaps to Reach the Kth Smallest Number](./problems/1800-1899/1850/README.md)                         |        | Medium |             |      |
+| 1851 | [Minimum Interval to Include Each Query](./problems/1800-1899/1851/README.md)                                          |        | Hard   |             |      |
+| 1852 | [Distinct Numbers in Each Subarray](./problems/1800-1899/1852/README.md)                                               | :lock: | Medium |             |      |
+| 1853 | [Convert Date Format](./problems/1800-1899/1853/README.md)                                                             | :lock: | Easy   |             |      |
+| 1854 | [Maximum Population Year](./problems/1800-1899/1854/README.md)                                                         |        | Easy   |             |      |
+| 1855 | [Maximum Distance Between a Pair of Values](./problems/1800-1899/1855/README.md)                                       |        | Medium |             |      |
+| 1856 | [Maximum Subarray Min-Product](./problems/1800-1899/1856/README.md)                                                    |        | Medium |             |      |
+| 1857 | [Largest Color Value in a Directed Graph](./problems/1800-1899/1857/README.md)                                         |        | Hard   |             |      |
+| 1858 | [Longest Word With All Prefixes](./problems/1800-1899/1858/README.md)                                                  | :lock: | Medium |             |      |
+| 1859 | [Sorting the Sentence](./problems/1800-1899/1859/README.md)                                                            |        | Easy   |             |      |
+| 1860 | [Incremental Memory Leak](./problems/1800-1899/1860/README.md)                                                         |        | Medium |             |      |
+| 1861 | [Rotating the Box](./problems/1800-1899/1861/README.md)                                                                |        | Medium |             |      |
+| 1862 | [1862](./problems/1800-1899/1862/README.md)                                                                            |        | Easy   |             |      |
+| 1863 | [Sum of All Subset XOR Totals](./problems/1800-1899/1863/README.md)                                                    |        | Easy   |             |      |
+| 1864 | [Minimum Number of Swaps to Make the Binary String Alternating](./problems/1800-1899/1864/README.md)                   |        | Medium |             |      |
+| 1865 | [Finding Pairs With a Certain Sum](./problems/1800-1899/1865/README.md)                                                |        | Medium |             |      |
+| 1866 | [Number of Ways to Rearrange Sticks With K Sticks Visible](./problems/1800-1899/1866/README.md)                        |        | Hard   |             |      |
+| 1867 | [Orders With Maximum Quantity Above Average](./problems/1800-1899/1867/README.md)                                      | :lock: | Medium |             |      |
+| 1868 | [Product of Two Run-Length Encoded Arrays](./problems/1800-1899/1868/README.md)                                        | :lock: | Medium |             |      |
+| 1869 | [Longer Contiguous Segments of Ones than Zeros](./problems/1800-1899/1869/README.md)                                   |        | Easy   |             |      |
+| 1870 | [Minimum Speed to Arrive on Time](./problems/1800-1899/1870/README.md)                                                 |        | Medium |             |      |
+| 1871 | [Jump Game VII](./problems/1800-1899/1871/README.md)                                                                   |        | Medium |             |      |
+| 1872 | [Stone Game VIII](./problems/1800-1899/1872/README.md)                                                                 |        | Hard   |             |      |
+| 1873 | [Calculate Special Bonus](./problems/1800-1899/1873/README.md)                                                         | :lock: | Easy   |             |      |
+| 1874 | [Minimize Product Sum of Two Arrays](./problems/1800-1899/1874/README.md)                                              | :lock: | Medium |             |      |
+| 1875 | [Group Employees of the Same Salary](./problems/1800-1899/1875/README.md)                                              | :lock: | Medium |             |      |
+| 1876 | [Substrings of Size Three with Distinct Characters](./problems/1800-1899/1876/README.md)                               |        | Easy   |             |      |
+| 1877 | [Minimize Maximum Pair Sum in Array](./problems/1800-1899/1877/README.md)                                              |        | Medium |             |      |
+| 1878 | [Get Biggest Three Rhombus Sums in a Grid](./problems/1800-1899/1878/README.md)                                        |        | Medium |             |      |
+| 1879 | [Minimum XOR Sum of Two Arrays](./problems/1800-1899/1879/README.md)                                                   |        | Hard   |             |      |
+| 1880 | [Check if Word Equals Summation of Two Words](./problems/1800-1899/1880/README.md)                                     |        | Easy   |             |      |
+| 1881 | [Maximum Value after Insertion](./problems/1800-1899/1881/README.md)                                                   |        | Medium |             |      |
+| 1882 | [Process Tasks Using Servers](./problems/1800-1899/1882/README.md)                                                     |        | Medium |             |      |
+| 1883 | [Minimum Skips to Arrive at Meeting On Time](./problems/1800-1899/1883/README.md)                                      |        | Hard   |             |      |
+| 1884 | [Egg Drop With 2 Eggs and N Floors](./problems/1800-1899/1884/README.md)                                               |        | Medium |             |      |
+| 1885 | [Count Pairs in Two Arrays](./problems/1800-1899/1885/README.md)                                                       | :lock: | Medium |             |      |
+| 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](./problems/1800-1899/1886/README.md)                            |        | Easy   |             |      |
+| 1887 | [Reduction Operations to Make the Array Elements Equal](./problems/1800-1899/1887/README.md)                           |        | Medium |             |      |
+| 1888 | [Minimum Number of Flips to Make the Binary String Alternating](./problems/1800-1899/1888/README.md)                   |        | Medium |             |      |
+| 1889 | [Minimum Space Wasted From Packaging](./problems/1800-1899/1889/README.md)                                             |        | Hard   |             |      |
+| 1890 | [The Latest Login in 2020](./problems/1800-1899/1890/README.md)                                                        | :lock: | Easy   |             |      |
+| 1891 | [Cutting Ribbons](./problems/1800-1899/1891/README.md)                                                                 | :lock: | Medium |             |      |
+| 1892 | [Page Recommendations II](./problems/1800-1899/1892/README.md)                                                         | :lock: | Hard   |             |      |
+| 1893 | [Check if All the Integers in a Range Are Covered](./problems/1800-1899/1893/README.md)                                |        | Easy   |             |      |
+| 1894 | [Find the Student that Will Replace the Chalk](./problems/1800-1899/1894/README.md)                                    |        | Medium |             |      |
+| 1895 | [1895](./problems/1800-1899/1895/README.md)                                                                            |        | Easy   |             |      |
+| 1896 | [Minimum Cost to Change the Final Value of Expression](./problems/1800-1899/1896/README.md)                            |        | Hard   |             |      |
+| 1897 | [Redistribute Characters to Make All Strings Equal](./problems/1800-1899/1897/README.md)                               |        | Easy   |             |      |
+| 1898 | [Maximum Number of Removable Characters](./problems/1800-1899/1898/README.md)                                          |        | Medium |             |      |
+| 1899 | [Merge Triplets to Form Target Triplet](./problems/1800-1899/1899/README.md)                                           |        | Medium |             |      |
+| 1900 | [The Earliest and Latest Rounds Where Players Compete](./problems/1900-1999/1900/README.md)                            |        | Hard   |             |      |
+| 1901 | [Find a Peak Element II](./problems/1900-1999/1901/README.md)                                                          |        | Medium |             |      |
+| 1902 | [Depth of BST Given Insertion Order](./problems/1900-1999/1902/README.md)                                              | :lock: | Medium |             |      |
+| 1903 | [Largest Odd Number in String](./problems/1900-1999/1903/README.md)                                                    |        | Easy   |             |      |
+| 1904 | [The Number of Full Rounds You Have Played](./problems/1900-1999/1904/README.md)                                       |        | Medium |             |      |
+| 1905 | [Count Sub Islands](./problems/1900-1999/1905/README.md)                                                               |        | Medium |             |      |
+| 1906 | [Minimum Absolute Difference Queries](./problems/1900-1999/1906/README.md)                                             |        | Medium |             |      |
+| 1907 | [Count Salary Categories](./problems/1900-1999/1907/README.md)                                                         | :lock: | Medium |             |      |
+| 1908 | [Game of Nim](./problems/1900-1999/1908/README.md)                                                                     | :lock: | Medium |             |      |
+| 1909 | [Remove One Element to Make the Array Strictly Increasing](./problems/1900-1999/1909/README.md)                        |        | Easy   |             |      |
+| 1910 | [Remove All Occurrences of a Substring](./problems/1900-1999/1910/README.md)                                           |        | Medium |             |      |
+| 1911 | [Maximum Alternating Subsequence Sum](./problems/1900-1999/1911/README.md)                                             |        | Medium |             |      |
+| 1912 | [Design Movie Rental System](./problems/1900-1999/1912/README.md)                                                      |        | Hard   |             |      |
+| 1913 | [Maximum Product Difference Between Two Pairs](./problems/1900-1999/1913/README.md)                                    |        | Easy   |             |      |
+| 1914 | [Cyclically Rotating a Grid](./problems/1900-1999/1914/README.md)                                                      |        | Medium |             |      |
+| 1915 | [Number of Wonderful Substrings](./problems/1900-1999/1915/README.md)                                                  |        | Medium |             |      |
+| 1916 | [1916](./problems/1900-1999/1916/README.md)                                                                            |        | Easy   |             |      |
+| 1917 | [Leetcodify Friends Recommendations](./problems/1900-1999/1917/README.md)                                              | :lock: | Hard   |             |      |
+| 1918 | [Kth Smallest Subarray Sum](./problems/1900-1999/1918/README.md)                                                       | :lock: | Medium |             |      |
+| 1919 | [Leetcodify Similar Friends](./problems/1900-1999/1919/README.md)                                                      | :lock: | Hard   |             |      |
+| 1920 | [Build Array from Permutation](./problems/1900-1999/1920/README.md)                                                    |        | Easy   |             |      |
+| 1921 | [Eliminate Maximum Number of Monsters](./problems/1900-1999/1921/README.md)                                            |        | Medium |             |      |
+| 1922 | [Count Good Numbers](./problems/1900-1999/1922/README.md)                                                              |        | Medium |             |      |
+| 1923 | [Longest Common Subpath](./problems/1900-1999/1923/README.md)                                                          |        | Hard   |             |      |
+| 1924 | [Erect the Fence II](./problems/1900-1999/1924/README.md)                                                              | :lock: | Hard   |             |      |
+| 1925 | [Count Square Sum Triples](./problems/1900-1999/1925/README.md)                                                        |        | Easy   |             |      |
+| 1926 | [Nearest Exit from Entrance in Maze](./problems/1900-1999/1926/README.md)                                              |        | Medium |             |      |
+| 1927 | [Sum Game](./problems/1900-1999/1927/README.md)                                                                        |        | Medium |             |      |
+| 1928 | [Minimum Cost to Reach Destination in Time](./problems/1900-1999/1928/README.md)                                       |        | Hard   |             |      |
+| 1929 | [Concatenation of Array](./problems/1900-1999/1929/README.md)                                                          |        | Easy   |             |      |
+| 1930 | [Unique Length-3 Palindromic Subsequences](./problems/1900-1999/1930/README.md)                                        |        | Medium |             |      |
+| 1931 | [Painting a Grid With Three Different Colors](./problems/1900-1999/1931/README.md)                                     |        | Hard   |             |      |
+| 1932 | [Merge BSTs to Create Single BST](./problems/1900-1999/1932/README.md)                                                 |        | Hard   |             |      |
+| 1933 | [Check if String Is Decomposable Into Value-Equal Substrings](./problems/1900-1999/1933/README.md)                     | :lock: | Easy   |             |      |
+| 1934 | [Confirmation Rate](./problems/1900-1999/1934/README.md)                                                               | :lock: | Medium |             |      |
+| 1935 | [1935](./problems/1900-1999/1935/README.md)                                                                            |        | Easy   |             |      |
+| 1936 | [Add Minimum Number of Rungs](./problems/1900-1999/1936/README.md)                                                     |        | Medium |             |      |
+| 1937 | [Maximum Number of Points with Cost](./problems/1900-1999/1937/README.md)                                              |        | Medium |             |      |
+| 1938 | [Maximum Genetic Difference Query](./problems/1900-1999/1938/README.md)                                                |        | Hard   |             |      |
+| 1939 | [Users That Actively Request Confirmation Messages](./problems/1900-1999/1939/README.md)                               | :lock: | Easy   |             |      |
+| 1940 | [Longest Common Subsequence Between Sorted Arrays](./problems/1900-1999/1940/README.md)                                | :lock: | Medium |             |      |
+| 1941 | [Check if All Characters Have Equal Number of Occurrences](./problems/1900-1999/1941/README.md)                        |        | Easy   |             |      |
+| 1942 | [The Number of the Smallest Unoccupied Chair](./problems/1900-1999/1942/README.md)                                     |        | Medium |             |      |
+| 1943 | [Describe the Painting](./problems/1900-1999/1943/README.md)                                                           |        | Medium |             |      |
+| 1944 | [1944](./problems/1900-1999/1944/README.md)                                                                            |        | Easy   |             |      |
+| 1945 | [Sum of Digits of String After Convert](./problems/1900-1999/1945/README.md)                                           |        | Easy   |             |      |
+| 1946 | [Largest Number After Mutating Substring](./problems/1900-1999/1946/README.md)                                         |        | Medium |             |      |
+| 1947 | [Maximum Compatibility Score Sum](./problems/1900-1999/1947/README.md)                                                 |        | Medium |             |      |
+| 1948 | [Delete Duplicate Folders in System](./problems/1900-1999/1948/README.md)                                              |        | Hard   |             |      |
+| 1949 | [Strong Friendship](./problems/1900-1999/1949/README.md)                                                               | :lock: | Medium |             |      |
+| 1950 | [Maximum of Minimum Values in All Subarrays](./problems/1900-1999/1950/README.md)                                      | :lock: | Medium |             |      |
+| 1951 | [All the Pairs With the Maximum Number of Common Followers](./problems/1900-1999/1951/README.md)                       | :lock: | Medium |             |      |
+| 1952 | [Three Divisors](./problems/1900-1999/1952/README.md)                                                                  |        | Easy   |             |      |
+| 1953 | [Maximum Number of Weeks for Which You Can Work](./problems/1900-1999/1953/README.md)                                  |        | Medium |             |      |
+| 1954 | [1954](./problems/1900-1999/1954/README.md)                                                                            |        | Easy   |             |      |
+| 1955 | [Count Number of Special Subsequences](./problems/1900-1999/1955/README.md)                                            |        | Hard   |             |      |
+| 1956 | [Minimum Time For K Virus Variants to Spread](./problems/1900-1999/1956/README.md)                                     | :lock: | Hard   |             |      |
+| 1957 | [1957](./problems/1900-1999/1957/README.md)                                                                            |        | Easy   |             |      |
+| 1958 | [Check if Move is Legal](./problems/1900-1999/1958/README.md)                                                          |        | Medium |             |      |
+| 1959 | [Minimum Total Space Wasted With K Resizing Operations](./problems/1900-1999/1959/README.md)                           |        | Medium |             |      |
+| 1960 | [1960](./problems/1900-1999/1960/README.md)                                                                            |        | Easy   |             |      |
+| 1961 | [Check If String Is a Prefix of Array](./problems/1900-1999/1961/README.md)                                            |        | Easy   |             |      |
+| 1962 | [Remove Stones to Minimize the Total](./problems/1900-1999/1962/README.md)                                             |        | Medium |             |      |
+| 1963 | [Minimum Number of Swaps to Make the String Balanced](./problems/1900-1999/1963/README.md)                             |        | Medium |             |      |
+| 1964 | [Find the Longest Valid Obstacle Course at Each Position](./problems/1900-1999/1964/README.md)                         |        | Hard   |             |      |
+| 1965 | [Employees With Missing Information](./problems/1900-1999/1965/README.md)                                              | :lock: | Easy   |             |      |
+| 1966 | [Binary Searchable Numbers in an Unsorted Array](./problems/1900-1999/1966/README.md)                                  | :lock: | Medium |             |      |
+| 1967 | [Number of Strings That Appear as Substrings in Word](./problems/1900-1999/1967/README.md)                             |        | Easy   |             |      |
+| 1968 | [Array With Elements Not Equal to Average of Neighbors](./problems/1900-1999/1968/README.md)                           |        | Medium |             |      |
+| 1969 | [Minimum Non-Zero Product of the Array Elements](./problems/1900-1999/1969/README.md)                                  |        | Medium |             |      |
+| 1970 | [Last Day Where You Can Still Cross](./problems/1900-1999/1970/README.md)                                              |        | Hard   |             |      |
+| 1971 | [Find if Path Exists in Graph](./problems/1900-1999/1971/README.md)                                                    |        | Easy   |             |      |
+| 1972 | [First and Last Call On the Same Day](./problems/1900-1999/1972/README.md)                                             | :lock: | Hard   |             |      |
+| 1973 | [Count Nodes Equal to Sum of Descendants](./problems/1900-1999/1973/README.md)                                         | :lock: | Medium |             |      |
+| 1974 | [Minimum Time to Type Word Using Special Typewriter](./problems/1900-1999/1974/README.md)                              |        | Easy   |             |      |
+| 1975 | [Maximum Matrix Sum](./problems/1900-1999/1975/README.md)                                                              |        | Medium |             |      |
+| 1976 | [Number of Ways to Arrive at Destination](./problems/1900-1999/1976/README.md)                                         |        | Medium |             |      |
+| 1977 | [Number of Ways to Separate Numbers](./problems/1900-1999/1977/README.md)                                              |        | Hard   |             |      |
+| 1978 | [Employees Whose Manager Left the Company](./problems/1900-1999/1978/README.md)                                        | :lock: | Easy   |             |      |
+| 1979 | [Find Greatest Common Divisor of Array](./problems/1900-1999/1979/README.md)                                           |        | Easy   |             |      |
+| 1980 | [Find Unique Binary String](./problems/1900-1999/1980/README.md)                                                       |        | Medium |             |      |
+| 1981 | [Minimize the Difference Between Target and Chosen Elements](./problems/1900-1999/1981/README.md)                      |        | Medium |             |      |
+| 1982 | [Find Array Given Subset Sums](./problems/1900-1999/1982/README.md)                                                    |        | Hard   |             |      |
+| 1983 | [1983](./problems/1900-1999/1983/README.md)                                                                            |        | Easy   |             |      |
+| 1984 | [Minimum Difference Between Highest and Lowest of K Scores](./problems/1900-1999/1984/README.md)                       |        | Easy   |             |      |
+| 1985 | [Find the Kth Largest Integer in the Array](./problems/1900-1999/1985/README.md)                                       |        | Medium |             |      |
+| 1986 | [Minimum Number of Work Sessions to Finish the Tasks](./problems/1900-1999/1986/README.md)                             |        | Medium |             |      |
+| 1987 | [Number of Unique Good Subsequences](./problems/1900-1999/1987/README.md)                                              |        | Hard   |             |      |
+| 1988 | [Find Cutoff Score for Each School](./problems/1900-1999/1988/README.md)                                               | :lock: | Medium |             |      |
+| 1989 | [Maximum Number of People That Can Be Caught in Tag](./problems/1900-1999/1989/README.md)                              | :lock: | Medium |             |      |
+| 1990 | [Count the Number of Experiments](./problems/1900-1999/1990/README.md)                                                 | :lock: | Medium |             |      |
+| 1991 | [Find the Middle Index in Array](./problems/1900-1999/1991/README.md)                                                  |        | Easy   |             |      |
+| 1992 | [Find All Groups of Farmland](./problems/1900-1999/1992/README.md)                                                     |        | Medium |             |      |
+| 1993 | [Operations on Tree](./problems/1900-1999/1993/README.md)                                                              |        | Medium |             |      |
+| 1994 | [The Number of Good Subsets](./problems/1900-1999/1994/README.md)                                                      |        | Hard   |             |      |
+| 1995 | [Count Special Quadruplets](./problems/1900-1999/1995/README.md)                                                       |        | Easy   |             |      |
+| 1996 | [The Number of Weak Characters in the Game](./problems/1900-1999/1996/README.md)                                       |        | Medium |             |      |
+| 1997 | [First Day Where You Have Been in All the Rooms](./problems/1900-1999/1997/README.md)                                  |        | Medium |             |      |
+| 1998 | [GCD Sort of an Array](./problems/1900-1999/1998/README.md)                                                            |        | Hard   |             |      |
+| 1999 | [Smallest Greater Multiple Made of Two Digits](./problems/1900-1999/1999/README.md)                                    | :lock: | Medium |             |      |
+| 2000 | [Reverse Prefix of Word](./problems/2000-2099/2000/README.md)                                                          |        | Easy   |             |      |
+| 2001 | [Number of Pairs of Interchangeable Rectangles](./problems/2000-2099/2001/README.md)                                   |        | Medium |             |      |
+| 2002 | [Maximum Product of the Length of Two Palindromic Subsequences](./problems/2000-2099/2002/README.md)                   |        | Medium |             |      |
+| 2003 | [Smallest Missing Genetic Value in Each Subtree](./problems/2000-2099/2003/README.md)                                  |        | Hard   |             |      |
+| 2004 | [The Number of Seniors and Juniors to Join the Company](./problems/2000-2099/2004/README.md)                           | :lock: | Hard   |             |      |
+| 2005 | [Subtree Removal Game with Fibonacci Tree](./problems/2000-2099/2005/README.md)                                        | :lock: | Hard   |             |      |
+| 2006 | [Count Number of Pairs With Absolute Difference K](./problems/2000-2099/2006/README.md)                                |        | Easy   |             |      |
+| 2007 | [Find Original Array From Doubled Array](./problems/2000-2099/2007/README.md)                                          |        | Medium |             |      |
+| 2008 | [Maximum Earnings From Taxi](./problems/2000-2099/2008/README.md)                                                      |        | Medium |             |      |
+| 2009 | [Minimum Number of Operations to Make Array Continuous](./problems/2000-2099/2009/README.md)                           |        | Hard   |             |      |
+| 2010 | [The Number of Seniors and Juniors to Join the Company II](./problems/2000-2099/2010/README.md)                        | :lock: | Hard   |             |      |
+| 2011 | [Final Value of Variable After Performing Operations](./problems/2000-2099/2011/README.md)                             |        | Easy   |             |      |
+| 2012 | [Sum of Beauty in the Array](./problems/2000-2099/2012/README.md)                                                      |        | Medium |             |      |
+| 2013 | [Detect Squares](./problems/2000-2099/2013/README.md)                                                                  |        | Medium |             |      |
+| 2014 | [Longest Subsequence Repeated k Times](./problems/2000-2099/2014/README.md)                                            |        | Hard   |             |      |
+| 2015 | [Average Height of Buildings in Each Segment](./problems/2000-2099/2015/README.md)                                     | :lock: | Medium |             |      |
+| 2016 | [Maximum Difference Between Increasing Elements](./problems/2000-2099/2016/README.md)                                  |        | Easy   |             |      |
+| 2017 | [Grid Game](./problems/2000-2099/2017/README.md)                                                                       |        | Medium |             |      |
+| 2018 | [Check if Word Can Be Placed In Crossword](./problems/2000-2099/2018/README.md)                                        |        | Medium |             |      |
+| 2019 | [The Score of Students Solving Math Expression](./problems/2000-2099/2019/README.md)                                   |        | Hard   |             |      |
+| 2020 | [Number of Accounts That Did Not Stream](./problems/2000-2099/2020/README.md)                                          | :lock: | Medium |             |      |
+| 2021 | [Brightest Position on Street](./problems/2000-2099/2021/README.md)                                                    | :lock: | Medium |             |      |
+| 2022 | [Convert 1D Array Into 2D Array](./problems/2000-2099/2022/README.md)                                                  |        | Easy   |             |      |
+| 2023 | [Number of Pairs of Strings With Concatenation Equal to Target](./problems/2000-2099/2023/README.md)                   |        | Medium |             |      |
+| 2024 | [Maximize the Confusion of an Exam](./problems/2000-2099/2024/README.md)                                               |        | Medium |             |      |
+| 2025 | [Maximum Number of Ways to Partition an Array](./problems/2000-2099/2025/README.md)                                    |        | Hard   |             |      |
+| 2026 | [Low-Quality Problems](./problems/2000-2099/2026/README.md)                                                            | :lock: | Easy   |             |      |
+| 2027 | [Minimum Moves to Convert String](./problems/2000-2099/2027/README.md)                                                 |        | Easy   |             |      |
+| 2028 | [Find Missing Observations](./problems/2000-2099/2028/README.md)                                                       |        | Medium |             |      |
+| 2029 | [Stone Game IX](./problems/2000-2099/2029/README.md)                                                                   |        | Medium |             |      |
+| 2030 | [Smallest K-Length Subsequence With Occurrences of a Letter](./problems/2000-2099/2030/README.md)                      |        | Hard   |             |      |
+| 2031 | [2031](./problems/2000-2099/2031/README.md)                                                                            |        | Easy   |             |      |
+| 2032 | [Two Out of Three](./problems/2000-2099/2032/README.md)                                                                |        | Easy   |             |      |
+| 2033 | [Minimum Operations to Make a Uni-Value Grid](./problems/2000-2099/2033/README.md)                                     |        | Medium |             |      |
+| 2034 | [Stock Price Fluctuation](./problems/2000-2099/2034/README.md)                                                         |        | Medium |             |      |
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./problems/2000-2099/2035/README.md)                      |        | Hard   |             |      |
+| 2036 | [2036](./problems/2000-2099/2036/README.md)                                                                            |        | Easy   |             |      |
+| 2037 | [Minimum Number of Moves to Seat Everyone](./problems/2000-2099/2037/README.md)                                        |        | Easy   |             |      |
+| 2038 | [Remove Colored Pieces if Both Neighbors are the Same Color](./problems/2000-2099/2038/README.md)                      |        | Medium |             |      |
+| 2039 | [The Time When the Network Becomes Idle](./problems/2000-2099/2039/README.md)                                          |        | Medium |             |      |
+| 2040 | [Kth Smallest Product of Two Sorted Arrays](./problems/2000-2099/2040/README.md)                                       |        | Hard   |             |      |
+| 2041 | [Accepted Candidates From the Interviews](./problems/2000-2099/2041/README.md)                                         | :lock: | Medium |             |      |
+| 2042 | [Check if Numbers Are Ascending in a Sentence](./problems/2000-2099/2042/README.md)                                    |        | Easy   |             |      |
+| 2043 | [Simple Bank System](./problems/2000-2099/2043/README.md)                                                              |        | Medium |             |      |
+| 2044 | [Count Number of Maximum Bitwise-OR Subsets](./problems/2000-2099/2044/README.md)                                      |        | Medium |             |      |
+| 2045 | [Second Minimum Time to Reach Destination](./problems/2000-2099/2045/README.md)                                        |        | Hard   |             |      |
+| 2046 | [Sort Linked List Already Sorted Using Absolute Values](./problems/2000-2099/2046/README.md)                           | :lock: | Medium |             |      |
+| 2047 | [Number of Valid Words in a Sentence](./problems/2000-2099/2047/README.md)                                             |        | Easy   |             |      |
+| 2048 | [Next Greater Numerically Balanced Number](./problems/2000-2099/2048/README.md)                                        |        | Medium |             |      |
+| 2049 | [Count Nodes With the Highest Score](./problems/2000-2099/2049/README.md)                                              |        | Medium |             |      |
+| 2050 | [Parallel Courses III](./problems/2000-2099/2050/README.md)                                                            |        | Hard   |             |      |
+| 2051 | [The Category of Each Member in the Store](./problems/2000-2099/2051/README.md)                                        | :lock: | Medium |             |      |
+| 2052 | [Minimum Cost to Separate Sentence Into Rows](./problems/2000-2099/2052/README.md)                                     | :lock: | Medium |             |      |
+| 2053 | [Kth Distinct String in an Array](./problems/2000-2099/2053/README.md)                                                 |        | Easy   |             |      |
+| 2054 | [Two Best Non-Overlapping Events](./problems/2000-2099/2054/README.md)                                                 |        | Medium |             |      |
+| 2055 | [Plates Between Candles](./problems/2000-2099/2055/README.md)                                                          |        | Medium |             |      |
+| 2056 | [Number of Valid Move Combinations On Chessboard](./problems/2000-2099/2056/README.md)                                 |        | Hard   |             |      |
+| 2057 | [Smallest Index With Equal Value](./problems/2000-2099/2057/README.md)                                                 |        | Easy   |             |      |
+| 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./problems/2000-2099/2058/README.md)            |        | Medium |             |      |
+| 2059 | [Minimum Operations to Convert Number](./problems/2000-2099/2059/README.md)                                            |        | Medium |             |      |
+| 2060 | [Check if an Original String Exists Given Two Encoded Strings](./problems/2000-2099/2060/README.md)                    |        | Hard   |             |      |
+| 2061 | [Number of Spaces Cleaning Robot Cleaned](./problems/2000-2099/2061/README.md)                                         | :lock: | Medium |             |      |
+| 2062 | [Count Vowel Substrings of a String](./problems/2000-2099/2062/README.md)                                              |        | Easy   |             |      |
+| 2063 | [Vowels of All Substrings](./problems/2000-2099/2063/README.md)                                                        |        | Medium |             |      |
+| 2064 | [Minimized Maximum of Products Distributed to Any Store](./problems/2000-2099/2064/README.md)                          |        | Medium |             |      |
+| 2065 | [Maximum Path Quality of a Graph](./problems/2000-2099/2065/README.md)                                                 |        | Hard   |             |      |
+| 2066 | [Account Balance](./problems/2000-2099/2066/README.md)                                                                 | :lock: | Medium |             |      |
+| 2067 | [Number of Equal Count Substrings](./problems/2000-2099/2067/README.md)                                                | :lock: | Medium |             |      |
+| 2068 | [Check Whether Two Strings are Almost Equivalent](./problems/2000-2099/2068/README.md)                                 |        | Easy   |             |      |
+| 2069 | [Walking Robot Simulation II](./problems/2000-2099/2069/README.md)                                                     |        | Medium |             |      |
+| 2070 | [Most Beautiful Item for Each Query](./problems/2000-2099/2070/README.md)                                              |        | Medium |             |      |
+| 2071 | [Maximum Number of Tasks You Can Assign](./problems/2000-2099/2071/README.md)                                          |        | Hard   |             |      |
+| 2072 | [The Winner University](./problems/2000-2099/2072/README.md)                                                           | :lock: | Easy   |             |      |
+| 2073 | [Time Needed to Buy Tickets](./problems/2000-2099/2073/README.md)                                                      |        | Easy   |             |      |
+| 2074 | [Reverse Nodes in Even Length Groups](./problems/2000-2099/2074/README.md)                                             |        | Medium |             |      |
+| 2075 | [Decode the Slanted Ciphertext](./problems/2000-2099/2075/README.md)                                                   |        | Medium |             |      |
+| 2076 | [Process Restricted Friend Requests](./problems/2000-2099/2076/README.md)                                              |        | Hard   |             |      |
+| 2077 | [Paths in Maze That Lead to Same Room](./problems/2000-2099/2077/README.md)                                            | :lock: | Medium |             |      |
+| 2078 | [Two Furthest Houses With Different Colors](./problems/2000-2099/2078/README.md)                                       |        | Easy   |             |      |
+| 2079 | [2079](./problems/2000-2099/2079/README.md)                                                                            |        | Easy   |             |      |
+| 2080 | [2080](./problems/2000-2099/2080/README.md)                                                                            |        | Easy   |             |      |
+| 2081 | [Sum of k-Mirror Numbers](./problems/2000-2099/2081/README.md)                                                         |        | Hard   |             |      |
+| 2082 | [The Number of Rich Customers](./problems/2000-2099/2082/README.md)                                                    | :lock: | Easy   |             |      |
+| 2083 | [Substrings That Begin and End With the Same Letter](./problems/2000-2099/2083/README.md)                              | :lock: | Medium |             |      |

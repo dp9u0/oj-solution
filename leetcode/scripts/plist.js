@@ -1,8 +1,8 @@
 
 let common = require('./common');
 // NEED MODIFY HERE
-let problems = require("C:/Users/dpguo.Dengpeng/.lc/leetcode/cache/problems.json");
-let start = Number(process.argv[2] || '992');
+let problems = require("/home/ubuntu/.lc/leetcode/cache/problems.json");
+let start = Number(process.argv[2] || '2084');
 problems = problems.filter(p => p.id >= start).sort((a, b) => a.id - b.id);
 let map = new Map();
 problems.forEach(p => { map.set(`${p.fid}`, p) });

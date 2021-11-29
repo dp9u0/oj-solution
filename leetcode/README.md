@@ -574,7 +574,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 492  | [Construct the Rectangle](./problems/400-499/492/README.md)                                                            | :o:    | Easy   | [math]      |      |
 | 493  | [Reverse Pairs](./problems/400-499/493/README.md)                                                                      |        | Hard   |             |      |
 | 494  | [Target Sum](./problems/400-499/494/README.md)                                                                         |        | Medium |             |      |
-| 495 | [Teemo Attacking](./problems/400-499/495/README.md) | :o: | Easy | [arr] |   |
+| 495  | [Teemo Attacking](./problems/400-499/495/README.md)                                                                    | :o:    | Easy   | [arr]       |      |
 | 496  | [Next Greater Element I](./problems/400-499/496/README.md)                                                             | :o:    | Easy   | [stk],[hsh] | :+1: |
 | 497  | [Random Point in Non-overlapping Rectangles](./problems/400-499/497/README.md)                                         |        | Medium |             |      |
 | 498  | [Diagonal Traverse](./problems/400-499/498/README.md)                                                                  |        | Medium |             |      |
@@ -1067,7 +1067,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 990  | [Satisfiability of Equality Equations](./problems/900-999/990/README.md)                                               | :o:    | Medium | [hsh]       |      |
 | 991  | [Broken Calculator](./problems/900-999/991/README.md)                                                                  | :o:    | Medium | [math]      |      |
 | 992  | [Subarrays with K Different Integers](./problems/900-999/992/README.md)                                                |        | Hard   |             |      |
-| 993  | [Cousins in Binary Tree](./problems/900-999/993/README.md)                                                             |        | Easy   |             |      |
+| 993 | [Cousins in Binary Tree](./problems/900-999/993/README.md) | :o: | Easy | [tr] |   |
 | 994  | [Rotting Oranges](./problems/900-999/994/README.md)                                                                    | :o:    | Medium | [arr]       |      |
 | 995  | [Minimum Number of K Consecutive Bit Flips](./problems/900-999/995/README.md)                                          |        | Hard   |             |      |
 | 996  | [Number of Squareful Arrays](./problems/900-999/996/README.md)                                                         |        | Hard   |             |      |

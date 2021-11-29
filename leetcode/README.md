@@ -574,7 +574,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 492  | [Construct the Rectangle](./problems/400-499/492/README.md)                                                            | :o:    | Easy   | [math]      |      |
 | 493  | [Reverse Pairs](./problems/400-499/493/README.md)                                                                      |        | Hard   |             |      |
 | 494  | [Target Sum](./problems/400-499/494/README.md)                                                                         |        | Medium |             |      |
-| 495  | [Teemo Attacking](./problems/400-499/495/README.md)                                                                    |        | Medium |             |      |
+| 495 | [Teemo Attacking](./problems/400-499/495/README.md) | :o: | Easy | [arr] |   |
 | 496  | [Next Greater Element I](./problems/400-499/496/README.md)                                                             | :o:    | Easy   | [stk],[hsh] | :+1: |
 | 497  | [Random Point in Non-overlapping Rectangles](./problems/400-499/497/README.md)                                         |        | Medium |             |      |
 | 498  | [Diagonal Traverse](./problems/400-499/498/README.md)                                                                  |        | Medium |             |      |

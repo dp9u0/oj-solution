@@ -1071,7 +1071,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 994  | [Rotting Oranges](./problems/900-999/994/README.md)                                                                    | :o:    | Medium | [arr]       |      |
 | 995  | [Minimum Number of K Consecutive Bit Flips](./problems/900-999/995/README.md)                                          |        | Hard   |             |      |
 | 996  | [Number of Squareful Arrays](./problems/900-999/996/README.md)                                                         |        | Hard   |             |      |
-| 997  | [Find the Town Judge](./problems/900-999/997/README.md)                                                                |        | Easy   |             |      |
+| 997 | [Find the Town Judge](./problems/900-999/997/README.md) | :o: | Easy | [hsh] |   |
 | 998  | [Maximum Binary Tree II](./problems/900-999/998/README.md)                                                             |        | Medium |             |      |
 | 999  | [Available Captures for Rook](./problems/900-999/999/README.md)                                                        | :o:    | Easy   | [arr]       |      |
 | 1000 | [Minimum Cost to Merge Stones](./problems/1000-1099/1000/README.md)                                                    |        | Hard   |             |      |

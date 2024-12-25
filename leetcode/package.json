@@ -9,6 +9,7 @@
     "test": "node scripts/test.js",
     "push": "node scripts/push.js",
     "finish": "node scripts/ok.js",
+    "ok": "node scripts/ok.js",
     "plist": "node scripts/plist.js",
     "list": "leetcode list -t algorithms -q LD -s",
     "liste": "leetcode list -t algorithms -q LDe -s",

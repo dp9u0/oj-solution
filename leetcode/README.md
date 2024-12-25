@@ -495,7 +495,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 413  | [Arithmetic Slices](./problems/400-499/413/README.md)                                                                  |        | Medium |             |      |
 | 414  | [Third Maximum Number](./problems/400-499/414/README.md)                                                               | :o:    | Easy   | [arr]       |      |
 | 415  | [Add Strings](./problems/400-499/415/README.md)                                                                        | :o:    | Easy   | [math]      |      |
-| 416  | [Partition Equal Subset Sum](./problems/400-499/416/README.md)                                                         |        | Medium |             |      |
+| 416 | [Partition Equal Subset Sum](./problems/400-499/416/README.md) | :o: | Medium | [[dp]] |   |
 | 417  | [Pacific Atlantic Water Flow](./problems/400-499/417/README.md)                                                        |        | Medium |             |      |
 | 418  | [Sentence Screen Fitting](./problems/400-499/418/README.md)                                                            | :lock: | Medium |             |      |
 | 419  | [Battleships in a Board](./problems/400-499/419/README.md)                                                             |        | Medium |             |      |

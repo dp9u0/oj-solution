@@ -5,7 +5,7 @@ let problem = process.argv[2] || ~~(Math.random() * 960);
 let jsPath = common.getJsPath(problem);
 let markdownPath = common.getMdPath(problem);
 let existed = false;
-let cmdStr = `leetcode show -g ${problem} -o solving`;
+let cmdStr = `leetcode show ${problem} -g -o solving`;
 
 if (common.checkStarted()) {
   let problem = common.getCurrent();

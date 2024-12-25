@@ -86,7 +86,11 @@ module.exports.checkProblemExists = function (problem) {
   let jsPath = `./solving/${problem}.js`;
   return fs.existsSync(jsPath);
 }
-
+function customDecodeURIComponent(encodedURI) {
+  return encodedURI.replace(/%([0-9A-F]{2})/gi, (match, hex) => {
+    return String.fromCharCode(parseInt(hex, 16));
+  });
+}
 module.exports.creteMarkdown = function (data) {
   let lines = data.split(/[\n|\r]+/);
   // 生成 ${problem}.md
@@ -112,7 +116,12 @@ module.exports.creteMarkdown = function (data) {
         markdown += "\n```md\n";
         startCode = true;
       }
-      markdown += line.trim() + '\n';
+      line = line.trim();
+      line = line.replace(/<\/?[^>]+(>|$)/g, "");
+      line = decodeURIComponent(line);
+      line = line.replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&nbsp;/g, "");
+      line = line.trim();
+      markdown += line + '\n';
     }
   }
   markdown += '```\n\n';

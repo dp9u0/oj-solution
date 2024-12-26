@@ -495,7 +495,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 413  | [Arithmetic Slices](./problems/400-499/413/README.md)                                                                  |        | Medium |             |      |
 | 414  | [Third Maximum Number](./problems/400-499/414/README.md)                                                               | :o:    | Easy   | [arr]       |      |
 | 415  | [Add Strings](./problems/400-499/415/README.md)                                                                        | :o:    | Easy   | [math]      |      |
-| 416 | [Partition Equal Subset Sum](./problems/400-499/416/README.md) | :o: | Medium | [[dp]] |   |
+| 416  | [Partition Equal Subset Sum](./problems/400-499/416/README.md)                                                         | :o:    | Medium | [[dp]]      |      |
 | 417  | [Pacific Atlantic Water Flow](./problems/400-499/417/README.md)                                                        |        | Medium |             |      |
 | 418  | [Sentence Screen Fitting](./problems/400-499/418/README.md)                                                            | :lock: | Medium |             |      |
 | 419  | [Battleships in a Board](./problems/400-499/419/README.md)                                                             |        | Medium |             |      |
@@ -1067,16 +1067,16 @@ npm run ok [tr] # finished and set topic 'tree'
 | 990  | [Satisfiability of Equality Equations](./problems/900-999/990/README.md)                                               | :o:    | Medium | [hsh]       |      |
 | 991  | [Broken Calculator](./problems/900-999/991/README.md)                                                                  | :o:    | Medium | [math]      |      |
 | 992  | [Subarrays with K Different Integers](./problems/900-999/992/README.md)                                                |        | Hard   |             |      |
-| 993 | [Cousins in Binary Tree](./problems/900-999/993/README.md) | :o: | Easy | [tr] |   |
+| 993  | [Cousins in Binary Tree](./problems/900-999/993/README.md)                                                             | :o:    | Easy   | [tr]        |      |
 | 994  | [Rotting Oranges](./problems/900-999/994/README.md)                                                                    | :o:    | Medium | [arr]       |      |
 | 995  | [Minimum Number of K Consecutive Bit Flips](./problems/900-999/995/README.md)                                          |        | Hard   |             |      |
 | 996  | [Number of Squareful Arrays](./problems/900-999/996/README.md)                                                         |        | Hard   |             |      |
-| 997 | [Find the Town Judge](./problems/900-999/997/README.md) | :o: | Easy | [hsh] |   |
+| 997  | [Find the Town Judge](./problems/900-999/997/README.md)                                                                | :o:    | Easy   | [hsh]       |      |
 | 998  | [Maximum Binary Tree II](./problems/900-999/998/README.md)                                                             |        | Medium |             |      |
 | 999  | [Available Captures for Rook](./problems/900-999/999/README.md)                                                        | :o:    | Easy   | [arr]       |      |
 | 1000 | [Minimum Cost to Merge Stones](./problems/1000-1099/1000/README.md)                                                    |        | Hard   |             |      |
 | 1001 | [Grid Illumination](./problems/1000-1099/1001/README.md)                                                               |        | Hard   |             |      |
-| 1002 | [Find Common Characters](./problems/1000-1099/1002/README.md) | :o: | Easy | [[hsh]] |   |
+| 1002 | [Find Common Characters](./problems/1000-1099/1002/README.md)                                                          | :o:    | Easy   | [[hsh]]     |      |
 | 1003 | [Check If Word Is Valid After Substitutions](./problems/1000-1099/1003/README.md)                                      |        | Medium |             |      |
 | 1004 | [Max Consecutive Ones III](./problems/1000-1099/1004/README.md)                                                        |        | Medium |             |      |
 | 1005 | [Maximize Sum Of Array After K Negations](./problems/1000-1099/1005/README.md)                                         |        | Easy   |             |      |
@@ -1112,7 +1112,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1035 | [Uncrossed Lines](./problems/1000-1099/1035/README.md)                                                                 |        | Medium |             |      |
 | 1036 | [Escape a Large Maze](./problems/1000-1099/1036/README.md)                                                             |        | Hard   |             |      |
 | 1037 | [Valid Boomerang](./problems/1000-1099/1037/README.md)                                                                 |        | Easy   |             |      |
-| 1038 | [Binary Search Tree to Greater Sum Tree](./problems/1000-1099/1038/README.md) | :o: | Medium | [[tr]] |   |
+| 1038 | [Binary Search Tree to Greater Sum Tree](./problems/1000-1099/1038/README.md)                                          | :o:    | Medium | [[tr]]      |      |
 | 1039 | [Minimum Score Triangulation of Polygon](./problems/1000-1099/1039/README.md)                                          |        | Medium |             |      |
 | 1040 | [Moving Stones Until Consecutive II](./problems/1000-1099/1040/README.md)                                              |        | Medium |             |      |
 | 1041 | [Robot Bounded In Circle](./problems/1000-1099/1041/README.md)                                                         |        | Medium |             |      |
@@ -2097,4 +2097,1311 @@ npm run ok [tr] # finished and set topic 'tree'
 | 2081 | [Sum of k-Mirror Numbers](./problems/2000-2099/2081/README.md)                                                         |        | Hard   |             |      |
 | 2082 | [The Number of Rich Customers](./problems/2000-2099/2082/README.md)                                                    | :lock: | Easy   |             |      |
 | 2083 | [Substrings That Begin and End With the Same Letter](./problems/2000-2099/2083/README.md)                              | :lock: | Medium |             |      |
-| 3270 | [Find the Key of the Numbers](./problems/3200-3299/3270/README.md) | :o: | Easy | [[str]] |   |
+| 2084 | [Drop Type 1 Orders for Customers With Type 0 Orders](./problems/2000-2099/2084/README.md)                             | :lock: | Medium |             |      |
+| 2085 | [Count Common Words With One Occurrence](./problems/2000-2099/2085/README.md)                                          |        | Easy   |             |      |
+| 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](./problems/2000-2099/2086/README.md)                             |        | Medium |             |      |
+| 2087 | [Minimum Cost Homecoming of a Robot in a Grid](./problems/2000-2099/2087/README.md)                                    |        | Medium |             |      |
+| 2088 | [Count Fertile Pyramids in a Land](./problems/2000-2099/2088/README.md)                                                |        | Hard   |             |      |
+| 2089 | [Find Target Indices After Sorting Array](./problems/2000-2099/2089/README.md)                                         |        | Easy   |             |      |
+| 2090 | [K Radius Subarray Averages](./problems/2000-2099/2090/README.md)                                                      |        | Medium |             |      |
+| 2091 | [Removing Minimum and Maximum From Array](./problems/2000-2099/2091/README.md)                                         |        | Medium |             |      |
+| 2092 | [Find All People With Secret](./problems/2000-2099/2092/README.md)                                                     |        | Hard   |             |      |
+| 2093 | [Minimum Cost to Reach City With Discounts](./problems/2000-2099/2093/README.md)                                       | :lock: | Medium |             |      |
+| 2094 | [Finding 3-Digit Even Numbers](./problems/2000-2099/2094/README.md)                                                    |        | Easy   |             |      |
+| 2095 | [Delete the Middle Node of a Linked List](./problems/2000-2099/2095/README.md)                                         |        | Medium |             |      |
+| 2096 | [Step-By-Step Directions From a Binary Tree Node to Another](./problems/2000-2099/2096/README.md)                      |        | Medium |             |      |
+| 2097 | [Valid Arrangement of Pairs](./problems/2000-2099/2097/README.md)                                                      |        | Hard   |             |      |
+| 2098 | [Subsequence of Size K With the Largest Even Sum](./problems/2000-2099/2098/README.md)                                 | :lock: | Medium |             |      |
+| 2099 | [Find Subsequence of Length K With the Largest Sum](./problems/2000-2099/2099/README.md)                               |        | Easy   |             |      |
+| 2100 | [Find Good Days to Rob the Bank](./problems/2100-2199/2100/README.md)                                                  |        | Medium |             |      |
+| 2101 | [Detonate the Maximum Bombs](./problems/2100-2199/2101/README.md)                                                      |        | Medium |             |      |
+| 2102 | [Sequentially Ordinal Rank Tracker](./problems/2100-2199/2102/README.md)                                               |        | Hard   |             |      |
+| 2103 | [Rings and Rods](./problems/2100-2199/2103/README.md)                                                                  |        | Easy   |             |      |
+| 2104 | [Sum of Subarray Ranges](./problems/2100-2199/2104/README.md)                                                          |        | Medium |             |      |
+| 2105 | [Watering Plants II](./problems/2100-2199/2105/README.md)                                                              |        | Medium |             |      |
+| 2106 | [Maximum Fruits Harvested After at Most K Steps](./problems/2100-2199/2106/README.md)                                  |        | Hard   |             |      |
+| 2107 | [Number of Unique Flavors After Sharing K Candies](./problems/2100-2199/2107/README.md)                                | :lock: | Medium |             |      |
+| 2108 | [Find First Palindromic String in the Array](./problems/2100-2199/2108/README.md)                                      |        | Easy   |             |      |
+| 2109 | [Adding Spaces to a String](./problems/2100-2199/2109/README.md)                                                       |        | Medium |             |      |
+| 2110 | [Number of Smooth Descent Periods of a Stock](./problems/2100-2199/2110/README.md)                                     |        | Medium |             |      |
+| 2111 | [Minimum Operations to Make the Array K-Increasing](./problems/2100-2199/2111/README.md)                               |        | Hard   |             |      |
+| 2112 | [The Airport With the Most Traffic](./problems/2100-2199/2112/README.md)                                               | :lock: | Medium |             |      |
+| 2113 | [Elements in Array After Removing and Replacing Elements](./problems/2100-2199/2113/README.md)                         | :lock: | Medium |             |      |
+| 2114 | [Maximum Number of Words Found in Sentences](./problems/2100-2199/2114/README.md)                                      |        | Easy   |             |      |
+| 2115 | [Find All Possible Recipes from Given Supplies](./problems/2100-2199/2115/README.md)                                   |        | Medium |             |      |
+| 2116 | [Check if a Parentheses String Can Be Valid](./problems/2100-2199/2116/README.md)                                      |        | Medium |             |      |
+| 2117 | [Abbreviating the Product of a Range](./problems/2100-2199/2117/README.md)                                             |        | Hard   |             |      |
+| 2118 | [Build the Equation](./problems/2100-2199/2118/README.md)                                                              | :lock: | Hard   |             |      |
+| 2119 | [A Number After a Double Reversal](./problems/2100-2199/2119/README.md)                                                |        | Easy   |             |      |
+| 2120 | [Execution of All Suffix Instructions Staying in a Grid](./problems/2100-2199/2120/README.md)                          |        | Medium |             |      |
+| 2121 | [Intervals Between Identical Elements](./problems/2100-2199/2121/README.md)                                            |        | Medium |             |      |
+| 2122 | [Recover the Original Array](./problems/2100-2199/2122/README.md)                                                      |        | Hard   |             |      |
+| 2123 | [Minimum Operations to Remove Adjacent Ones in Matrix](./problems/2100-2199/2123/README.md)                            | :lock: | Hard   |             |      |
+| 2124 | [Check if All A's Appears Before All B's](./problems/2100-2199/2124/README.md)                                         |        | Easy   |             |      |
+| 2125 | [Number of Laser Beams in a Bank](./problems/2100-2199/2125/README.md)                                                 |        | Medium |             |      |
+| 2126 | [Destroying Asteroids](./problems/2100-2199/2126/README.md)                                                            |        | Medium |             |      |
+| 2127 | [Maximum Employees to Be Invited to a Meeting](./problems/2100-2199/2127/README.md)                                    |        | Hard   |             |      |
+| 2128 | [Remove All Ones With Row and Column Flips](./problems/2100-2199/2128/README.md)                                       | :lock: | Medium |             |      |
+| 2129 | [Capitalize the Title](./problems/2100-2199/2129/README.md)                                                            |        | Easy   |             |      |
+| 2130 | [Maximum Twin Sum of a Linked List](./problems/2100-2199/2130/README.md)                                               |        | Medium |             |      |
+| 2131 | [Longest Palindrome by Concatenating Two Letter Words](./problems/2100-2199/2131/README.md)                            |        | Medium |             |      |
+| 2132 | [Stamping the Grid](./problems/2100-2199/2132/README.md)                                                               |        | Hard   |             |      |
+| 2133 | [Check if Every Row and Column Contains All Numbers](./problems/2100-2199/2133/README.md)                              |        | Easy   |             |      |
+| 2134 | [Minimum Swaps to Group All 1's Together II](./problems/2100-2199/2134/README.md)                                      |        | Medium |             |      |
+| 2135 | [Count Words Obtained After Adding a Letter](./problems/2100-2199/2135/README.md)                                      |        | Medium |             |      |
+| 2136 | [Earliest Possible Day of Full Bloom](./problems/2100-2199/2136/README.md)                                             |        | Hard   |             |      |
+| 2137 | [Pour Water Between Buckets to Make Water Levels Equal](./problems/2100-2199/2137/README.md)                           | :lock: | Medium |             |      |
+| 2138 | [Divide a String Into Groups of Size k](./problems/2100-2199/2138/README.md)                                           |        | Easy   |             |      |
+| 2139 | [2139](./problems/2100-2199/2139/README.md)                                                                            |        | Easy   |             |      |
+| 2140 | [Solving Questions With Brainpower](./problems/2100-2199/2140/README.md)                                               |        | Medium |             |      |
+| 2141 | [Maximum Running Time of N Computers](./problems/2100-2199/2141/README.md)                                             |        | Hard   |             |      |
+| 2142 | [The Number of Passengers in Each Bus I](./problems/2100-2199/2142/README.md)                                          | :lock: | Medium |             |      |
+| 2143 | [Choose Numbers From Two Arrays in Range](./problems/2100-2199/2143/README.md)                                         | :lock: | Hard   |             |      |
+| 2144 | [Minimum Cost of Buying Candies With Discount](./problems/2100-2199/2144/README.md)                                    |        | Easy   |             |      |
+| 2145 | [Count the Hidden Sequences](./problems/2100-2199/2145/README.md)                                                      |        | Medium |             |      |
+| 2146 | [K Highest Ranked Items Within a Price Range](./problems/2100-2199/2146/README.md)                                     |        | Medium |             |      |
+| 2147 | [Number of Ways to Divide a Long Corridor](./problems/2100-2199/2147/README.md)                                        |        | Hard   |             |      |
+| 2148 | [Count Elements With Strictly Smaller and Greater Elements ](./problems/2100-2199/2148/README.md)                      |        | Easy   |             |      |
+| 2149 | [Rearrange Array Elements by Sign](./problems/2100-2199/2149/README.md)                                                |        | Medium |             |      |
+| 2150 | [Find All Lonely Numbers in the Array](./problems/2100-2199/2150/README.md)                                            |        | Medium |             |      |
+| 2151 | [Maximum Good People Based on Statements](./problems/2100-2199/2151/README.md)                                         |        | Hard   |             |      |
+| 2152 | [Minimum Number of Lines to Cover Points](./problems/2100-2199/2152/README.md)                                         | :lock: | Medium |             |      |
+| 2153 | [The Number of Passengers in Each Bus II](./problems/2100-2199/2153/README.md)                                         | :lock: | Hard   |             |      |
+| 2154 | [Keep Multiplying Found Values by Two](./problems/2100-2199/2154/README.md)                                            |        | Easy   |             |      |
+| 2155 | [All Divisions With the Highest Score of a Binary Array](./problems/2100-2199/2155/README.md)                          |        | Medium |             |      |
+| 2156 | [Find Substring With Given Hash Value](./problems/2100-2199/2156/README.md)                                            |        | Hard   |             |      |
+| 2157 | [Groups of Strings](./problems/2100-2199/2157/README.md)                                                               |        | Hard   |             |      |
+| 2158 | [Amount of New Area Painted Each Day](./problems/2100-2199/2158/README.md)                                             | :lock: | Hard   |             |      |
+| 2159 | [Order Two Columns Independently](./problems/2100-2199/2159/README.md)                                                 | :lock: | Medium |             |      |
+| 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](./problems/2100-2199/2160/README.md)                         |        | Easy   |             |      |
+| 2161 | [Partition Array According to Given Pivot](./problems/2100-2199/2161/README.md)                                        |        | Medium |             |      |
+| 2162 | [Minimum Cost to Set Cooking Time](./problems/2100-2199/2162/README.md)                                                |        | Medium |             |      |
+| 2163 | [Minimum Difference in Sums After Removal of Elements](./problems/2100-2199/2163/README.md)                            |        | Hard   |             |      |
+| 2164 | [Sort Even and Odd Indices Independently](./problems/2100-2199/2164/README.md)                                         |        | Easy   |             |      |
+| 2165 | [Smallest Value of the Rearranged Number](./problems/2100-2199/2165/README.md)                                         |        | Medium |             |      |
+| 2166 | [Design Bitset](./problems/2100-2199/2166/README.md)                                                                   |        | Medium |             |      |
+| 2167 | [Minimum Time to Remove All Cars Containing Illegal Goods](./problems/2100-2199/2167/README.md)                        |        | Hard   |             |      |
+| 2168 | [Unique Substrings With Equal Digit Frequency](./problems/2100-2199/2168/README.md)                                    | :lock: | Medium |             |      |
+| 2169 | [Count Operations to Obtain Zero](./problems/2100-2199/2169/README.md)                                                 |        | Easy   |             |      |
+| 2170 | [Minimum Operations to Make the Array Alternating](./problems/2100-2199/2170/README.md)                                |        | Medium |             |      |
+| 2171 | [Removing Minimum Number of Magic Beans](./problems/2100-2199/2171/README.md)                                          |        | Medium |             |      |
+| 2172 | [Maximum AND Sum of Array](./problems/2100-2199/2172/README.md)                                                        |        | Hard   |             |      |
+| 2173 | [Longest Winning Streak](./problems/2100-2199/2173/README.md)                                                          | :lock: | Hard   |             |      |
+| 2174 | [Remove All Ones With Row and Column Flips II](./problems/2100-2199/2174/README.md)                                    | :lock: | Medium |             |      |
+| 2175 | [The Change in Global Rankings](./problems/2100-2199/2175/README.md)                                                   | :lock: | Medium |             |      |
+| 2176 | [Count Equal and Divisible Pairs in an Array](./problems/2100-2199/2176/README.md)                                     |        | Easy   |             |      |
+| 2177 | [Find Three Consecutive Integers That Sum to a Given Number](./problems/2100-2199/2177/README.md)                      |        | Medium |             |      |
+| 2178 | [Maximum Split of Positive Even Integers](./problems/2100-2199/2178/README.md)                                         |        | Medium |             |      |
+| 2179 | [Count Good Triplets in an Array](./problems/2100-2199/2179/README.md)                                                 |        | Hard   |             |      |
+| 2180 | [Count Integers With Even Digit Sum](./problems/2100-2199/2180/README.md)                                              |        | Easy   |             |      |
+| 2181 | [Merge Nodes in Between Zeros](./problems/2100-2199/2181/README.md)                                                    |        | Medium |             |      |
+| 2182 | [Construct String With Repeat Limit](./problems/2100-2199/2182/README.md)                                              |        | Medium |             |      |
+| 2183 | [Count Array Pairs Divisible by K](./problems/2100-2199/2183/README.md)                                                |        | Hard   |             |      |
+| 2184 | [Number of Ways to Build Sturdy Brick Wall](./problems/2100-2199/2184/README.md)                                       | :lock: | Medium |             |      |
+| 2185 | [Counting Words With a Given Prefix](./problems/2100-2199/2185/README.md)                                              |        | Easy   |             |      |
+| 2186 | [Minimum Number of Steps to Make Two Strings Anagram II](./problems/2100-2199/2186/README.md)                          |        | Medium |             |      |
+| 2187 | [Minimum Time to Complete Trips](./problems/2100-2199/2187/README.md)                                                  |        | Medium |             |      |
+| 2188 | [Minimum Time to Finish the Race](./problems/2100-2199/2188/README.md)                                                 |        | Hard   |             |      |
+| 2189 | [2189](./problems/2100-2199/2189/README.md)                                                                            |        | Easy   |             |      |
+| 2190 | [Most Frequent Number Following Key In an Array](./problems/2100-2199/2190/README.md)                                  |        | Easy   |             |      |
+| 2191 | [2191](./problems/2100-2199/2191/README.md)                                                                            |        | Easy   |             |      |
+| 2192 | [2192](./problems/2100-2199/2192/README.md)                                                                            |        | Easy   |             |      |
+| 2193 | [2193](./problems/2100-2199/2193/README.md)                                                                            |        | Easy   |             |      |
+| 2194 | [Cells in a Range on an Excel Sheet](./problems/2100-2199/2194/README.md)                                              |        | Easy   |             |      |
+| 2195 | [Append K Integers With Minimal Sum](./problems/2100-2199/2195/README.md)                                              |        | Medium |             |      |
+| 2196 | [Create Binary Tree From Descriptions](./problems/2100-2199/2196/README.md)                                            |        | Medium |             |      |
+| 2197 | [Replace Non-Coprime Numbers in Array](./problems/2100-2199/2197/README.md)                                            |        | Hard   |             |      |
+| 2198 | [2198](./problems/2100-2199/2198/README.md)                                                                            |        | Easy   |             |      |
+| 2199 | [Finding the Topic of Each Post](./problems/2100-2199/2199/README.md)                                                  | :lock: | Hard   |             |      |
+| 2200 | [Find All K-Distant Indices in an Array](./problems/2200-2299/2200/README.md)                                          |        | Easy   |             |      |
+| 2201 | [2201](./problems/2200-2299/2201/README.md)                                                                            |        | Easy   |             |      |
+| 2202 | [2202](./problems/2200-2299/2202/README.md)                                                                            |        | Easy   |             |      |
+| 2203 | [Minimum Weighted Subgraph With the Required Paths](./problems/2200-2299/2203/README.md)                               |        | Hard   |             |      |
+| 2204 | [2204](./problems/2200-2299/2204/README.md)                                                                            |        | Easy   |             |      |
+| 2205 | [The Number of Users That Are Eligible for Discount](./problems/2200-2299/2205/README.md)                              | :lock: | Easy   |             |      |
+| 2206 | [Divide Array Into Equal Pairs](./problems/2200-2299/2206/README.md)                                                   |        | Easy   |             |      |
+| 2207 | [Maximize Number of Subsequences in a String](./problems/2200-2299/2207/README.md)                                     |        | Medium |             |      |
+| 2208 | [Minimum Operations to Halve Array Sum](./problems/2200-2299/2208/README.md)                                           |        | Medium |             |      |
+| 2209 | [Minimum White Tiles After Covering With Carpets](./problems/2200-2299/2209/README.md)                                 |        | Hard   |             |      |
+| 2210 | [Count Hills and Valleys in an Array](./problems/2200-2299/2210/README.md)                                             |        | Easy   |             |      |
+| 2211 | [Count Collisions on a Road](./problems/2200-2299/2211/README.md)                                                      |        | Medium |             |      |
+| 2212 | [Maximum Points in an Archery Competition](./problems/2200-2299/2212/README.md)                                        |        | Medium |             |      |
+| 2213 | [Longest Substring of One Repeating Character](./problems/2200-2299/2213/README.md)                                    |        | Hard   |             |      |
+| 2214 | [Minimum Health to Beat Game](./problems/2200-2299/2214/README.md)                                                     | :lock: | Medium |             |      |
+| 2215 | [2215](./problems/2200-2299/2215/README.md)                                                                            |        | Easy   |             |      |
+| 2216 | [2216](./problems/2200-2299/2216/README.md)                                                                            |        | Easy   |             |      |
+| 2217 | [2217](./problems/2200-2299/2217/README.md)                                                                            |        | Easy   |             |      |
+| 2218 | [2218](./problems/2200-2299/2218/README.md)                                                                            |        | Easy   |             |      |
+| 2219 | [Maximum Sum Score of Array](./problems/2200-2299/2219/README.md)                                                      | :lock: | Medium |             |      |
+| 2220 | [Minimum Bit Flips to Convert Number](./problems/2200-2299/2220/README.md)                                             |        | Easy   |             |      |
+| 2221 | [Find Triangular Sum of an Array](./problems/2200-2299/2221/README.md)                                                 |        | Medium |             |      |
+| 2222 | [Number of Ways to Select Buildings](./problems/2200-2299/2222/README.md)                                              |        | Medium |             |      |
+| 2223 | [Sum of Scores of Built Strings](./problems/2200-2299/2223/README.md)                                                  |        | Hard   |             |      |
+| 2224 | [Minimum Number of Operations to Convert Time](./problems/2200-2299/2224/README.md)                                    |        | Easy   |             |      |
+| 2225 | [2225](./problems/2200-2299/2225/README.md)                                                                            |        | Easy   |             |      |
+| 2226 | [2226](./problems/2200-2299/2226/README.md)                                                                            |        | Easy   |             |      |
+| 2227 | [2227](./problems/2200-2299/2227/README.md)                                                                            |        | Easy   |             |      |
+| 2228 | [Users With Two Purchases Within Seven Days](./problems/2200-2299/2228/README.md)                                      | :lock: | Medium |             |      |
+| 2229 | [2229](./problems/2200-2299/2229/README.md)                                                                            |        | Easy   |             |      |
+| 2230 | [The Users That Are Eligible for Discount](./problems/2200-2299/2230/README.md)                                        | :lock: | Easy   |             |      |
+| 2231 | [Largest Number After Digit Swaps by Parity](./problems/2200-2299/2231/README.md)                                      |        | Easy   |             |      |
+| 2232 | [Minimize Result by Adding Parentheses to Expression](./problems/2200-2299/2232/README.md)                             |        | Medium |             |      |
+| 2233 | [Maximum Product After K Increments](./problems/2200-2299/2233/README.md)                                              |        | Medium |             |      |
+| 2234 | [Maximum Total Beauty of the Gardens](./problems/2200-2299/2234/README.md)                                             |        | Hard   |             |      |
+| 2235 | [Add Two Integers](./problems/2200-2299/2235/README.md)                                                                |        | Easy   |             |      |
+| 2236 | [Root Equals Sum of Children](./problems/2200-2299/2236/README.md)                                                     |        | Easy   |             |      |
+| 2237 | [Count Positions on Street With Required Brightness](./problems/2200-2299/2237/README.md)                              | :lock: | Medium |             |      |
+| 2238 | [Number of Times a Driver Was a Passenger](./problems/2200-2299/2238/README.md)                                        | :lock: | Medium |             |      |
+| 2239 | [Find Closest Number to Zero](./problems/2200-2299/2239/README.md)                                                     |        | Easy   |             |      |
+| 2240 | [Number of Ways to Buy Pens and Pencils](./problems/2200-2299/2240/README.md)                                          |        | Medium |             |      |
+| 2241 | [Design an ATM Machine](./problems/2200-2299/2241/README.md)                                                           |        | Medium |             |      |
+| 2242 | [Maximum Score of a Node Sequence](./problems/2200-2299/2242/README.md)                                                |        | Hard   |             |      |
+| 2243 | [Calculate Digit Sum of a String](./problems/2200-2299/2243/README.md)                                                 |        | Easy   |             |      |
+| 2244 | [Minimum Rounds to Complete All Tasks](./problems/2200-2299/2244/README.md)                                            |        | Medium |             |      |
+| 2245 | [Maximum Trailing Zeros in a Cornered Path](./problems/2200-2299/2245/README.md)                                       |        | Medium |             |      |
+| 2246 | [Longest Path With Different Adjacent Characters](./problems/2200-2299/2246/README.md)                                 |        | Hard   |             |      |
+| 2247 | [2247](./problems/2200-2299/2247/README.md)                                                                            |        | Easy   |             |      |
+| 2248 | [Intersection of Multiple Arrays](./problems/2200-2299/2248/README.md)                                                 |        | Easy   |             |      |
+| 2249 | [Count Lattice Points Inside a Circle](./problems/2200-2299/2249/README.md)                                            |        | Medium |             |      |
+| 2250 | [Count Number of Rectangles Containing Each Point](./problems/2200-2299/2250/README.md)                                |        | Medium |             |      |
+| 2251 | [Number of Flowers in Full Bloom](./problems/2200-2299/2251/README.md)                                                 |        | Hard   |             |      |
+| 2252 | [Dynamic Pivoting of a Table](./problems/2200-2299/2252/README.md)                                                     | :lock: | Hard   |             |      |
+| 2253 | [Dynamic Unpivoting of a Table](./problems/2200-2299/2253/README.md)                                                   | :lock: | Hard   |             |      |
+| 2254 | [Design Video Sharing Platform](./problems/2200-2299/2254/README.md)                                                   | :lock: | Hard   |             |      |
+| 2255 | [Count Prefixes of a Given String](./problems/2200-2299/2255/README.md)                                                |        | Easy   |             |      |
+| 2256 | [Minimum Average Difference](./problems/2200-2299/2256/README.md)                                                      |        | Medium |             |      |
+| 2257 | [Count Unguarded Cells in the Grid](./problems/2200-2299/2257/README.md)                                               |        | Medium |             |      |
+| 2258 | [Escape the Spreading Fire](./problems/2200-2299/2258/README.md)                                                       |        | Hard   |             |      |
+| 2259 | [Remove Digit From Number to Maximize Result](./problems/2200-2299/2259/README.md)                                     |        | Easy   |             |      |
+| 2260 | [Minimum Consecutive Cards to Pick Up](./problems/2200-2299/2260/README.md)                                            |        | Medium |             |      |
+| 2261 | [K Divisible Elements Subarrays](./problems/2200-2299/2261/README.md)                                                  |        | Medium |             |      |
+| 2262 | [Total Appeal of A String](./problems/2200-2299/2262/README.md)                                                        |        | Hard   |             |      |
+| 2263 | [2263](./problems/2200-2299/2263/README.md)                                                                            |        | Easy   |             |      |
+| 2264 | [Largest 3-Same-Digit Number in String](./problems/2200-2299/2264/README.md)                                           |        | Easy   |             |      |
+| 2265 | [Count Nodes Equal to Average of Subtree](./problems/2200-2299/2265/README.md)                                         |        | Medium |             |      |
+| 2266 | [Count Number of Texts](./problems/2200-2299/2266/README.md)                                                           |        | Medium |             |      |
+| 2267 | [ Check if There Is a Valid Parentheses String Path](./problems/2200-2299/2267/README.md)                              |        | Hard   |             |      |
+| 2268 | [Minimum Number of Keypresses](./problems/2200-2299/2268/README.md)                                                    | :lock: | Medium |             |      |
+| 2269 | [2269](./problems/2200-2299/2269/README.md)                                                                            |        | Easy   |             |      |
+| 2270 | [Number of Ways to Split Array](./problems/2200-2299/2270/README.md)                                                   |        | Medium |             |      |
+| 2271 | [Maximum White Tiles Covered by a Carpet](./problems/2200-2299/2271/README.md)                                         |        | Medium |             |      |
+| 2272 | [Substring With Largest Variance](./problems/2200-2299/2272/README.md)                                                 |        | Hard   |             |      |
+| 2273 | [2273](./problems/2200-2299/2273/README.md)                                                                            |        | Easy   |             |      |
+| 2274 | [Maximum Consecutive Floors Without Special Floors](./problems/2200-2299/2274/README.md)                               |        | Medium |             |      |
+| 2275 | [Largest Combination With Bitwise AND Greater Than Zero](./problems/2200-2299/2275/README.md)                          |        | Medium |             |      |
+| 2276 | [Count Integers in Intervals](./problems/2200-2299/2276/README.md)                                                     |        | Hard   |             |      |
+| 2277 | [Closest Node to Path in Tree](./problems/2200-2299/2277/README.md)                                                    | :lock: | Hard   |             |      |
+| 2278 | [Percentage of Letter in String](./problems/2200-2299/2278/README.md)                                                  |        | Easy   |             |      |
+| 2279 | [Maximum Bags With Full Capacity of Rocks](./problems/2200-2299/2279/README.md)                                        |        | Medium |             |      |
+| 2280 | [Minimum Lines to Represent a Line Chart](./problems/2200-2299/2280/README.md)                                         |        | Medium |             |      |
+| 2281 | [Sum of Total Strength of Wizards](./problems/2200-2299/2281/README.md)                                                |        | Hard   |             |      |
+| 2282 | [Number of People That Can Be Seen in a Grid](./problems/2200-2299/2282/README.md)                                     | :lock: | Medium |             |      |
+| 2283 | [Check if Number Has Equal Digit Count and Digit Value](./problems/2200-2299/2283/README.md)                           |        | Easy   |             |      |
+| 2284 | [Sender With Largest Word Count](./problems/2200-2299/2284/README.md)                                                  |        | Medium |             |      |
+| 2285 | [Maximum Total Importance of Roads](./problems/2200-2299/2285/README.md)                                               |        | Medium |             |      |
+| 2286 | [Booking Concert Tickets in Groups](./problems/2200-2299/2286/README.md)                                               |        | Hard   |             |      |
+| 2287 | [Rearrange Characters to Make Target String](./problems/2200-2299/2287/README.md)                                      |        | Easy   |             |      |
+| 2288 | [Apply Discount to Prices](./problems/2200-2299/2288/README.md)                                                        |        | Medium |             |      |
+| 2289 | [Steps to Make Array Non-decreasing](./problems/2200-2299/2289/README.md)                                              |        | Medium |             |      |
+| 2290 | [Minimum Obstacle Removal to Reach Corner](./problems/2200-2299/2290/README.md)                                        |        | Hard   |             |      |
+| 2291 | [Maximum Profit From Trading Stocks](./problems/2200-2299/2291/README.md)                                              | :lock: | Medium |             |      |
+| 2292 | [Products With Three or More Orders in Two Consecutive Years](./problems/2200-2299/2292/README.md)                     | :lock: | Medium |             |      |
+| 2293 | [Min Max Game](./problems/2200-2299/2293/README.md)                                                                    |        | Easy   |             |      |
+| 2294 | [Partition Array Such That Maximum Difference Is K](./problems/2200-2299/2294/README.md)                               |        | Medium |             |      |
+| 2295 | [Replace Elements in an Array](./problems/2200-2299/2295/README.md)                                                    |        | Medium |             |      |
+| 2296 | [Design a Text Editor](./problems/2200-2299/2296/README.md)                                                            |        | Hard   |             |      |
+| 2297 | [2297](./problems/2200-2299/2297/README.md)                                                                            |        | Easy   |             |      |
+| 2298 | [Tasks Count in the Weekend](./problems/2200-2299/2298/README.md)                                                      | :lock: | Medium |             |      |
+| 2299 | [Strong Password Checker II](./problems/2200-2299/2299/README.md)                                                      |        | Easy   |             |      |
+| 2300 | [Successful Pairs of Spells and Potions](./problems/2300-2399/2300/README.md)                                          |        | Medium |             |      |
+| 2301 | [Match Substring After Replacement](./problems/2300-2399/2301/README.md)                                               |        | Hard   |             |      |
+| 2302 | [Count Subarrays With Score Less Than K](./problems/2300-2399/2302/README.md)                                          |        | Hard   |             |      |
+| 2303 | [2303](./problems/2300-2399/2303/README.md)                                                                            |        | Easy   |             |      |
+| 2304 | [2304](./problems/2300-2399/2304/README.md)                                                                            |        | Easy   |             |      |
+| 2305 | [2305](./problems/2300-2399/2305/README.md)                                                                            |        | Easy   |             |      |
+| 2306 | [Naming a Company](./problems/2300-2399/2306/README.md)                                                                |        | Hard   |             |      |
+| 2307 | [2307](./problems/2300-2399/2307/README.md)                                                                            |        | Easy   |             |      |
+| 2308 | [Arrange Table by Gender](./problems/2300-2399/2308/README.md)                                                         | :lock: | Medium |             |      |
+| 2309 | [2309](./problems/2300-2399/2309/README.md)                                                                            |        | Easy   |             |      |
+| 2310 | [2310](./problems/2300-2399/2310/README.md)                                                                            |        | Easy   |             |      |
+| 2311 | [Longest Binary Subsequence Less Than or Equal to K](./problems/2300-2399/2311/README.md)                              |        | Medium |             |      |
+| 2312 | [2312](./problems/2300-2399/2312/README.md)                                                                            |        | Easy   |             |      |
+| 2313 | [Minimum Flips in Binary Tree to Get Result](./problems/2300-2399/2313/README.md)                                      | :lock: | Hard   |             |      |
+| 2314 | [The First Day of the Maximum Recorded Degree in Each City](./problems/2300-2399/2314/README.md)                       | :lock: | Medium |             |      |
+| 2315 | [Count Asterisks](./problems/2300-2399/2315/README.md)                                                                 |        | Easy   |             |      |
+| 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./problems/2300-2399/2316/README.md)                         |        | Medium |             |      |
+| 2317 | [Maximum XOR After Operations ](./problems/2300-2399/2317/README.md)                                                   |        | Medium |             |      |
+| 2318 | [Number of Distinct Roll Sequences](./problems/2300-2399/2318/README.md)                                               |        | Hard   |             |      |
+| 2319 | [Check if Matrix Is X-Matrix](./problems/2300-2399/2319/README.md)                                                     |        | Easy   |             |      |
+| 2320 | [Count Number of Ways to Place Houses](./problems/2300-2399/2320/README.md)                                            |        | Medium |             |      |
+| 2321 | [2321](./problems/2300-2399/2321/README.md)                                                                            |        | Easy   |             |      |
+| 2322 | [Minimum Score After Removals on a Tree](./problems/2300-2399/2322/README.md)                                          |        | Hard   |             |      |
+| 2323 | [Find Minimum Time to Finish All Jobs II](./problems/2300-2399/2323/README.md)                                         | :lock: | Medium |             |      |
+| 2324 | [Product Sales Analysis IV](./problems/2300-2399/2324/README.md)                                                       | :lock: | Medium |             |      |
+| 2325 | [Decode the Message](./problems/2300-2399/2325/README.md)                                                              |        | Easy   |             |      |
+| 2326 | [Spiral Matrix IV](./problems/2300-2399/2326/README.md)                                                                |        | Medium |             |      |
+| 2327 | [Number of People Aware of a Secret](./problems/2300-2399/2327/README.md)                                              |        | Medium |             |      |
+| 2328 | [Number of Increasing Paths in a Grid](./problems/2300-2399/2328/README.md)                                            |        | Hard   |             |      |
+| 2329 | [Product Sales Analysis V](./problems/2300-2399/2329/README.md)                                                        | :lock: | Easy   |             |      |
+| 2330 | [Valid Palindrome IV](./problems/2300-2399/2330/README.md)                                                             | :lock: | Medium |             |      |
+| 2331 | [Evaluate Boolean Binary Tree](./problems/2300-2399/2331/README.md)                                                    |        | Easy   |             |      |
+| 2332 | [The Latest Time to Catch a Bus](./problems/2300-2399/2332/README.md)                                                  |        | Medium |             |      |
+| 2333 | [Minimum Sum of Squared Difference](./problems/2300-2399/2333/README.md)                                               |        | Medium |             |      |
+| 2334 | [Subarray With Elements Greater Than Varying Threshold](./problems/2300-2399/2334/README.md)                           |        | Hard   |             |      |
+| 2335 | [Minimum Amount of Time to Fill Cups](./problems/2300-2399/2335/README.md)                                             |        | Easy   |             |      |
+| 2336 | [Smallest Number in Infinite Set](./problems/2300-2399/2336/README.md)                                                 |        | Medium |             |      |
+| 2337 | [Move Pieces to Obtain a String](./problems/2300-2399/2337/README.md)                                                  |        | Medium |             |      |
+| 2338 | [Count the Number of Ideal Arrays](./problems/2300-2399/2338/README.md)                                                |        | Hard   |             |      |
+| 2339 | [All the Matches of the League](./problems/2300-2399/2339/README.md)                                                   | :lock: | Easy   |             |      |
+| 2340 | [Minimum Adjacent Swaps to Make a Valid Array](./problems/2300-2399/2340/README.md)                                    | :lock: | Medium |             |      |
+| 2341 | [Maximum Number of Pairs in Array](./problems/2300-2399/2341/README.md)                                                |        | Easy   |             |      |
+| 2342 | [Max Sum of a Pair With Equal Sum of Digits](./problems/2300-2399/2342/README.md)                                      |        | Medium |             |      |
+| 2343 | [Query Kth Smallest Trimmed Number](./problems/2300-2399/2343/README.md)                                               |        | Medium |             |      |
+| 2344 | [Minimum Deletions to Make Array Divisible](./problems/2300-2399/2344/README.md)                                       |        | Hard   |             |      |
+| 2345 | [Finding the Number of Visible Mountains](./problems/2300-2399/2345/README.md)                                         | :lock: | Medium |             |      |
+| 2346 | [Compute the Rank as a Percentage](./problems/2300-2399/2346/README.md)                                                | :lock: | Medium |             |      |
+| 2347 | [Best Poker Hand](./problems/2300-2399/2347/README.md)                                                                 |        | Easy   |             |      |
+| 2348 | [Number of Zero-Filled Subarrays](./problems/2300-2399/2348/README.md)                                                 |        | Medium |             |      |
+| 2349 | [Design a Number Container System](./problems/2300-2399/2349/README.md)                                                |        | Medium |             |      |
+| 2350 | [Shortest Impossible Sequence of Rolls](./problems/2300-2399/2350/README.md)                                           |        | Hard   |             |      |
+| 2351 | [First Letter to Appear Twice](./problems/2300-2399/2351/README.md)                                                    |        | Easy   |             |      |
+| 2352 | [Equal Row and Column Pairs](./problems/2300-2399/2352/README.md)                                                      |        | Medium |             |      |
+| 2353 | [Design a Food Rating System](./problems/2300-2399/2353/README.md)                                                     |        | Medium |             |      |
+| 2354 | [Number of Excellent Pairs](./problems/2300-2399/2354/README.md)                                                       |        | Hard   |             |      |
+| 2355 | [Maximum Number of Books You Can Take](./problems/2300-2399/2355/README.md)                                            | :lock: | Hard   |             |      |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](./problems/2300-2399/2356/README.md)                                | :soon: | Easy   |             |      |
+| 2357 | [Make Array Zero by Subtracting Equal Amounts](./problems/2300-2399/2357/README.md)                                    |        | Easy   |             |      |
+| 2358 | [Maximum Number of Groups Entering a Competition](./problems/2300-2399/2358/README.md)                                 |        | Medium |             |      |
+| 2359 | [Find Closest Node to Given Two Nodes](./problems/2300-2399/2359/README.md)                                            |        | Medium |             |      |
+| 2360 | [Longest Cycle in a Graph](./problems/2300-2399/2360/README.md)                                                        |        | Hard   |             |      |
+| 2361 | [Minimum Costs Using the Train Line](./problems/2300-2399/2361/README.md)                                              | :lock: | Hard   |             |      |
+| 2362 | [Generate the Invoice](./problems/2300-2399/2362/README.md)                                                            | :lock: | Hard   |             |      |
+| 2363 | [Merge Similar Items](./problems/2300-2399/2363/README.md)                                                             |        | Easy   |             |      |
+| 2364 | [Count Number of Bad Pairs](./problems/2300-2399/2364/README.md)                                                       |        | Medium |             |      |
+| 2365 | [Task Scheduler II](./problems/2300-2399/2365/README.md)                                                               |        | Medium |             |      |
+| 2366 | [Minimum Replacements to Sort the Array](./problems/2300-2399/2366/README.md)                                          |        | Hard   |             |      |
+| 2367 | [Number of Arithmetic Triplets](./problems/2300-2399/2367/README.md)                                                   |        | Easy   |             |      |
+| 2368 | [Reachable Nodes With Restrictions](./problems/2300-2399/2368/README.md)                                               |        | Medium |             |      |
+| 2369 | [Check if There is a Valid Partition For The Array](./problems/2300-2399/2369/README.md)                               |        | Medium |             |      |
+| 2370 | [Longest Ideal Subsequence](./problems/2300-2399/2370/README.md)                                                       |        | Medium |             |      |
+| 2371 | [Minimize Maximum Value in a Grid](./problems/2300-2399/2371/README.md)                                                | :lock: | Hard   |             |      |
+| 2372 | [Calculate the Influence of Each Salesperson](./problems/2300-2399/2372/README.md)                                     | :lock: | Medium |             |      |
+| 2373 | [Largest Local Values in a Matrix](./problems/2300-2399/2373/README.md)                                                |        | Easy   |             |      |
+| 2374 | [Node With Highest Edge Score](./problems/2300-2399/2374/README.md)                                                    |        | Medium |             |      |
+| 2375 | [Construct Smallest Number From DI String](./problems/2300-2399/2375/README.md)                                        |        | Medium |             |      |
+| 2376 | [Count Special Integers](./problems/2300-2399/2376/README.md)                                                          |        | Hard   |             |      |
+| 2377 | [Sort the Olympic Table](./problems/2300-2399/2377/README.md)                                                          | :lock: | Easy   |             |      |
+| 2378 | [Choose Edges to Maximize Score in a Tree](./problems/2300-2399/2378/README.md)                                        | :lock: | Medium |             |      |
+| 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](./problems/2300-2399/2379/README.md)                              |        | Easy   |             |      |
+| 2380 | [Time Needed to Rearrange a Binary String](./problems/2300-2399/2380/README.md)                                        |        | Medium |             |      |
+| 2381 | [Shifting Letters II](./problems/2300-2399/2381/README.md)                                                             |        | Medium |             |      |
+| 2382 | [Maximum Segment Sum After Removals](./problems/2300-2399/2382/README.md)                                              |        | Hard   |             |      |
+| 2383 | [Minimum Hours of Training to Win a Competition](./problems/2300-2399/2383/README.md)                                  |        | Easy   |             |      |
+| 2384 | [Largest Palindromic Number](./problems/2300-2399/2384/README.md)                                                      |        | Medium |             |      |
+| 2385 | [Amount of Time for Binary Tree to Be Infected](./problems/2300-2399/2385/README.md)                                   |        | Medium |             |      |
+| 2386 | [Find the K-Sum of an Array](./problems/2300-2399/2386/README.md)                                                      |        | Hard   |             |      |
+| 2387 | [Median of a Row Wise Sorted Matrix](./problems/2300-2399/2387/README.md)                                              | :lock: | Medium |             |      |
+| 2388 | [Change Null Values in a Table to the Previous Value](./problems/2300-2399/2388/README.md)                             | :lock: | Medium |             |      |
+| 2389 | [Longest Subsequence With Limited Sum](./problems/2300-2399/2389/README.md)                                            |        | Easy   |             |      |
+| 2390 | [Removing Stars From a String](./problems/2300-2399/2390/README.md)                                                    |        | Medium |             |      |
+| 2391 | [Minimum Amount of Time to Collect Garbage](./problems/2300-2399/2391/README.md)                                       |        | Medium |             |      |
+| 2392 | [Build a Matrix With Conditions](./problems/2300-2399/2392/README.md)                                                  |        | Hard   |             |      |
+| 2393 | [Count Strictly Increasing Subarrays](./problems/2300-2399/2393/README.md)                                             | :lock: | Medium |             |      |
+| 2394 | [Employees With Deductions](./problems/2300-2399/2394/README.md)                                                       | :lock: | Medium |             |      |
+| 2395 | [Find Subarrays With Equal Sum](./problems/2300-2399/2395/README.md)                                                   |        | Easy   |             |      |
+| 2396 | [Strictly Palindromic Number](./problems/2300-2399/2396/README.md)                                                     |        | Medium |             |      |
+| 2397 | [Maximum Rows Covered by Columns](./problems/2300-2399/2397/README.md)                                                 |        | Medium |             |      |
+| 2398 | [Maximum Number of Robots Within Budget](./problems/2300-2399/2398/README.md)                                          |        | Hard   |             |      |
+| 2399 | [Check Distances Between Same Letters](./problems/2300-2399/2399/README.md)                                            |        | Easy   |             |      |
+| 2400 | [Number of Ways to Reach a Position After Exactly k Steps](./problems/2400-2499/2400/README.md)                        |        | Medium |             |      |
+| 2401 | [Longest Nice Subarray](./problems/2400-2499/2401/README.md)                                                           |        | Medium |             |      |
+| 2402 | [Meeting Rooms III](./problems/2400-2499/2402/README.md)                                                               |        | Hard   |             |      |
+| 2403 | [Minimum Time to Kill All Monsters](./problems/2400-2499/2403/README.md)                                               | :lock: | Hard   |             |      |
+| 2404 | [Most Frequent Even Element](./problems/2400-2499/2404/README.md)                                                      |        | Easy   |             |      |
+| 2405 | [Optimal Partition of String](./problems/2400-2499/2405/README.md)                                                     |        | Medium |             |      |
+| 2406 | [Divide Intervals Into Minimum Number of Groups](./problems/2400-2499/2406/README.md)                                  |        | Medium |             |      |
+| 2407 | [Longest Increasing Subsequence II](./problems/2400-2499/2407/README.md)                                               |        | Hard   |             |      |
+| 2408 | [Design SQL](./problems/2400-2499/2408/README.md)                                                                      | :lock: | Medium |             |      |
+| 2409 | [Count Days Spent Together](./problems/2400-2499/2409/README.md)                                                       |        | Easy   |             |      |
+| 2410 | [Maximum Matching of Players With Trainers](./problems/2400-2499/2410/README.md)                                       |        | Medium |             |      |
+| 2411 | [Smallest Subarrays With Maximum Bitwise OR](./problems/2400-2499/2411/README.md)                                      |        | Medium |             |      |
+| 2412 | [Minimum Money Required Before Transactions](./problems/2400-2499/2412/README.md)                                      |        | Hard   |             |      |
+| 2413 | [Smallest Even Multiple](./problems/2400-2499/2413/README.md)                                                          |        | Easy   |             |      |
+| 2414 | [Length of the Longest Alphabetical Continuous Substring](./problems/2400-2499/2414/README.md)                         |        | Medium |             |      |
+| 2415 | [Reverse Odd Levels of Binary Tree](./problems/2400-2499/2415/README.md)                                               |        | Medium |             |      |
+| 2416 | [Sum of Prefix Scores of Strings](./problems/2400-2499/2416/README.md)                                                 |        | Hard   |             |      |
+| 2417 | [Closest Fair Integer](./problems/2400-2499/2417/README.md)                                                            | :lock: | Medium |             |      |
+| 2418 | [Sort the People](./problems/2400-2499/2418/README.md)                                                                 |        | Easy   |             |      |
+| 2419 | [Longest Subarray With Maximum Bitwise AND](./problems/2400-2499/2419/README.md)                                       |        | Medium |             |      |
+| 2420 | [Find All Good Indices](./problems/2400-2499/2420/README.md)                                                           |        | Medium |             |      |
+| 2421 | [Number of Good Paths](./problems/2400-2499/2421/README.md)                                                            |        | Hard   |             |      |
+| 2422 | [Merge Operations to Turn Array Into a Palindrome](./problems/2400-2499/2422/README.md)                                | :lock: | Medium |             |      |
+| 2423 | [Remove Letter To Equalize Frequency](./problems/2400-2499/2423/README.md)                                             |        | Easy   |             |      |
+| 2424 | [Longest Uploaded Prefix](./problems/2400-2499/2424/README.md)                                                         |        | Medium |             |      |
+| 2425 | [Bitwise XOR of All Pairings](./problems/2400-2499/2425/README.md)                                                     |        | Medium |             |      |
+| 2426 | [Number of Pairs Satisfying Inequality](./problems/2400-2499/2426/README.md)                                           |        | Hard   |             |      |
+| 2427 | [Number of Common Factors](./problems/2400-2499/2427/README.md)                                                        |        | Easy   |             |      |
+| 2428 | [Maximum Sum of an Hourglass](./problems/2400-2499/2428/README.md)                                                     |        | Medium |             |      |
+| 2429 | [Minimize XOR](./problems/2400-2499/2429/README.md)                                                                    |        | Medium |             |      |
+| 2430 | [Maximum Deletions on a String](./problems/2400-2499/2430/README.md)                                                   |        | Hard   |             |      |
+| 2431 | [Maximize Total Tastiness of Purchased Fruits](./problems/2400-2499/2431/README.md)                                    | :lock: | Medium |             |      |
+| 2432 | [The Employee That Worked on the Longest Task](./problems/2400-2499/2432/README.md)                                    |        | Easy   |             |      |
+| 2433 | [Find The Original Array of Prefix Xor](./problems/2400-2499/2433/README.md)                                           |        | Medium |             |      |
+| 2434 | [Using a Robot to Print the Lexicographically Smallest String](./problems/2400-2499/2434/README.md)                    |        | Medium |             |      |
+| 2435 | [Paths in Matrix Whose Sum Is Divisible by K](./problems/2400-2499/2435/README.md)                                     |        | Hard   |             |      |
+| 2436 | [Minimum Split Into Subarrays With GCD Greater Than One](./problems/2400-2499/2436/README.md)                          | :lock: | Medium |             |      |
+| 2437 | [Number of Valid Clock Times](./problems/2400-2499/2437/README.md)                                                     |        | Easy   |             |      |
+| 2438 | [Range Product Queries of Powers](./problems/2400-2499/2438/README.md)                                                 |        | Medium |             |      |
+| 2439 | [Minimize Maximum of Array](./problems/2400-2499/2439/README.md)                                                       |        | Medium |             |      |
+| 2440 | [Create Components With Same Value](./problems/2400-2499/2440/README.md)                                               |        | Hard   |             |      |
+| 2441 | [Largest Positive Integer That Exists With Its Negative](./problems/2400-2499/2441/README.md)                          |        | Easy   |             |      |
+| 2442 | [Count Number of Distinct Integers After Reverse Operations](./problems/2400-2499/2442/README.md)                      |        | Medium |             |      |
+| 2443 | [Sum of Number and Its Reverse](./problems/2400-2499/2443/README.md)                                                   |        | Medium |             |      |
+| 2444 | [Count Subarrays With Fixed Bounds](./problems/2400-2499/2444/README.md)                                               |        | Hard   |             |      |
+| 2445 | [Number of Nodes With Value One](./problems/2400-2499/2445/README.md)                                                  | :lock: | Medium |             |      |
+| 2446 | [Determine if Two Events Have Conflict](./problems/2400-2499/2446/README.md)                                           |        | Easy   |             |      |
+| 2447 | [Number of Subarrays With GCD Equal to K](./problems/2400-2499/2447/README.md)                                         |        | Medium |             |      |
+| 2448 | [Minimum Cost to Make Array Equal](./problems/2400-2499/2448/README.md)                                                |        | Hard   |             |      |
+| 2449 | [Minimum Number of Operations to Make Arrays Similar](./problems/2400-2499/2449/README.md)                             |        | Hard   |             |      |
+| 2450 | [Number of Distinct Binary Strings After Applying Operations](./problems/2400-2499/2450/README.md)                     | :lock: | Medium |             |      |
+| 2451 | [Odd String Difference](./problems/2400-2499/2451/README.md)                                                           |        | Easy   |             |      |
+| 2452 | [Words Within Two Edits of Dictionary](./problems/2400-2499/2452/README.md)                                            |        | Medium |             |      |
+| 2453 | [Destroy Sequential Targets](./problems/2400-2499/2453/README.md)                                                      |        | Medium |             |      |
+| 2454 | [Next Greater Element IV](./problems/2400-2499/2454/README.md)                                                         |        | Hard   |             |      |
+| 2455 | [Average Value of Even Numbers That Are Divisible by Three](./problems/2400-2499/2455/README.md)                       |        | Easy   |             |      |
+| 2456 | [Most Popular Video Creator](./problems/2400-2499/2456/README.md)                                                      |        | Medium |             |      |
+| 2457 | [Minimum Addition to Make Integer Beautiful](./problems/2400-2499/2457/README.md)                                      |        | Medium |             |      |
+| 2458 | [Height of Binary Tree After Subtree Removal Queries](./problems/2400-2499/2458/README.md)                             |        | Hard   |             |      |
+| 2459 | [Sort Array by Moving Items to Empty Space](./problems/2400-2499/2459/README.md)                                       | :lock: | Hard   |             |      |
+| 2460 | [Apply Operations to an Array](./problems/2400-2499/2460/README.md)                                                    |        | Easy   |             |      |
+| 2461 | [Maximum Sum of Distinct Subarrays With Length K](./problems/2400-2499/2461/README.md)                                 |        | Medium |             |      |
+| 2462 | [Total Cost to Hire K Workers](./problems/2400-2499/2462/README.md)                                                    |        | Medium |             |      |
+| 2463 | [Minimum Total Distance Traveled](./problems/2400-2499/2463/README.md)                                                 |        | Hard   |             |      |
+| 2464 | [Minimum Subarrays in a Valid Split](./problems/2400-2499/2464/README.md)                                              | :lock: | Medium |             |      |
+| 2465 | [Number of Distinct Averages](./problems/2400-2499/2465/README.md)                                                     |        | Easy   |             |      |
+| 2466 | [Count Ways To Build Good Strings](./problems/2400-2499/2466/README.md)                                                |        | Medium |             |      |
+| 2467 | [Most Profitable Path in a Tree](./problems/2400-2499/2467/README.md)                                                  |        | Medium |             |      |
+| 2468 | [Split Message Based on Limit](./problems/2400-2499/2468/README.md)                                                    |        | Hard   |             |      |
+| 2469 | [Convert the Temperature](./problems/2400-2499/2469/README.md)                                                         |        | Easy   |             |      |
+| 2470 | [Number of Subarrays With LCM Equal to K](./problems/2400-2499/2470/README.md)                                         |        | Medium |             |      |
+| 2471 | [Minimum Number of Operations to Sort a Binary Tree by Level](./problems/2400-2499/2471/README.md)                     |        | Medium |             |      |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./problems/2400-2499/2472/README.md)                         |        | Hard   |             |      |
+| 2473 | [Minimum Cost to Buy Apples](./problems/2400-2499/2473/README.md)                                                      | :lock: | Medium |             |      |
+| 2474 | [Customers With Strictly Increasing Purchases](./problems/2400-2499/2474/README.md)                                    | :lock: | Hard   |             |      |
+| 2475 | [Number of Unequal Triplets in Array](./problems/2400-2499/2475/README.md)                                             |        | Easy   |             |      |
+| 2476 | [Closest Nodes Queries in a Binary Search Tree](./problems/2400-2499/2476/README.md)                                   |        | Medium |             |      |
+| 2477 | [Minimum Fuel Cost to Report to the Capital](./problems/2400-2499/2477/README.md)                                      |        | Medium |             |      |
+| 2478 | [Number of Beautiful Partitions](./problems/2400-2499/2478/README.md)                                                  |        | Hard   |             |      |
+| 2479 | [Maximum XOR of Two Non-Overlapping Subtrees](./problems/2400-2499/2479/README.md)                                     | :lock: | Hard   |             |      |
+| 2480 | [Form a Chemical Bond](./problems/2400-2499/2480/README.md)                                                            | :lock: | Easy   |             |      |
+| 2481 | [Minimum Cuts to Divide a Circle](./problems/2400-2499/2481/README.md)                                                 |        | Easy   |             |      |
+| 2482 | [Difference Between Ones and Zeros in Row and Column](./problems/2400-2499/2482/README.md)                             |        | Medium |             |      |
+| 2483 | [Minimum Penalty for a Shop](./problems/2400-2499/2483/README.md)                                                      |        | Medium |             |      |
+| 2484 | [Count Palindromic Subsequences](./problems/2400-2499/2484/README.md)                                                  |        | Hard   |             |      |
+| 2485 | [Find the Pivot Integer](./problems/2400-2499/2485/README.md)                                                          |        | Easy   |             |      |
+| 2486 | [Append Characters to String to Make Subsequence](./problems/2400-2499/2486/README.md)                                 |        | Medium |             |      |
+| 2487 | [Remove Nodes From Linked List](./problems/2400-2499/2487/README.md)                                                   |        | Medium |             |      |
+| 2488 | [Count Subarrays With Median K](./problems/2400-2499/2488/README.md)                                                   |        | Hard   |             |      |
+| 2489 | [Number of Substrings With Fixed Ratio](./problems/2400-2499/2489/README.md)                                           | :lock: | Medium |             |      |
+| 2490 | [Circular Sentence](./problems/2400-2499/2490/README.md)                                                               |        | Easy   |             |      |
+| 2491 | [Divide Players Into Teams of Equal Skill](./problems/2400-2499/2491/README.md)                                        |        | Medium |             |      |
+| 2492 | [Minimum Score of a Path Between Two Cities](./problems/2400-2499/2492/README.md)                                      |        | Medium |             |      |
+| 2493 | [Divide Nodes Into the Maximum Number of Groups](./problems/2400-2499/2493/README.md)                                  |        | Hard   |             |      |
+| 2494 | [Merge Overlapping Events in the Same Hall](./problems/2400-2499/2494/README.md)                                       | :lock: | Hard   |             |      |
+| 2495 | [Number of Subarrays Having Even Product](./problems/2400-2499/2495/README.md)                                         | :lock: | Medium |             |      |
+| 2496 | [Maximum Value of a String in an Array](./problems/2400-2499/2496/README.md)                                           |        | Easy   |             |      |
+| 2497 | [Maximum Star Sum of a Graph](./problems/2400-2499/2497/README.md)                                                     |        | Medium |             |      |
+| 2498 | [Frog Jump II](./problems/2400-2499/2498/README.md)                                                                    |        | Medium |             |      |
+| 2499 | [Minimum Total Cost to Make Arrays Unequal](./problems/2400-2499/2499/README.md)                                       |        | Hard   |             |      |
+| 2500 | [Delete Greatest Value in Each Row](./problems/2500-2599/2500/README.md)                                               |        | Easy   |             |      |
+| 2501 | [Longest Square Streak in an Array](./problems/2500-2599/2501/README.md)                                               |        | Medium |             |      |
+| 2502 | [Design Memory Allocator](./problems/2500-2599/2502/README.md)                                                         |        | Medium |             |      |
+| 2503 | [Maximum Number of Points From Grid Queries](./problems/2500-2599/2503/README.md)                                      |        | Hard   |             |      |
+| 2504 | [Concatenate the Name and the Profession](./problems/2500-2599/2504/README.md)                                         | :lock: | Easy   |             |      |
+| 2505 | [Bitwise OR of All Subsequence Sums](./problems/2500-2599/2505/README.md)                                              | :lock: | Medium |             |      |
+| 2506 | [Count Pairs Of Similar Strings](./problems/2500-2599/2506/README.md)                                                  |        | Easy   |             |      |
+| 2507 | [Smallest Value After Replacing With Sum of Prime Factors](./problems/2500-2599/2507/README.md)                        |        | Medium |             |      |
+| 2508 | [Add Edges to Make Degrees of All Nodes Even](./problems/2500-2599/2508/README.md)                                     |        | Hard   |             |      |
+| 2509 | [Cycle Length Queries in a Tree](./problems/2500-2599/2509/README.md)                                                  |        | Hard   |             |      |
+| 2510 | [Check if There is a Path With Equal Number of 0's And 1's](./problems/2500-2599/2510/README.md)                       | :lock: | Medium |             |      |
+| 2511 | [Maximum Enemy Forts That Can Be Captured](./problems/2500-2599/2511/README.md)                                        |        | Easy   |             |      |
+| 2512 | [Reward Top K Students](./problems/2500-2599/2512/README.md)                                                           |        | Medium |             |      |
+| 2513 | [Minimize the Maximum of Two Arrays](./problems/2500-2599/2513/README.md)                                              |        | Medium |             |      |
+| 2514 | [Count Anagrams](./problems/2500-2599/2514/README.md)                                                                  |        | Hard   |             |      |
+| 2515 | [Shortest Distance to Target String in a Circular Array](./problems/2500-2599/2515/README.md)                          |        | Easy   |             |      |
+| 2516 | [Take K of Each Character From Left and Right](./problems/2500-2599/2516/README.md)                                    |        | Medium |             |      |
+| 2517 | [Maximum Tastiness of Candy Basket](./problems/2500-2599/2517/README.md)                                               |        | Medium |             |      |
+| 2518 | [Number of Great Partitions](./problems/2500-2599/2518/README.md)                                                      |        | Hard   |             |      |
+| 2519 | [Count the Number of K-Big Indices](./problems/2500-2599/2519/README.md)                                               | :lock: | Hard   |             |      |
+| 2520 | [Count the Digits That Divide a Number](./problems/2500-2599/2520/README.md)                                           |        | Easy   |             |      |
+| 2521 | [Distinct Prime Factors of Product of Array](./problems/2500-2599/2521/README.md)                                      |        | Medium |             |      |
+| 2522 | [Partition String Into Substrings With Values at Most K](./problems/2500-2599/2522/README.md)                          |        | Medium |             |      |
+| 2523 | [Closest Prime Numbers in Range](./problems/2500-2599/2523/README.md)                                                  |        | Medium |             |      |
+| 2524 | [Maximum Frequency Score of a Subarray](./problems/2500-2599/2524/README.md)                                           | :lock: | Hard   |             |      |
+| 2525 | [Categorize Box According to Criteria](./problems/2500-2599/2525/README.md)                                            |        | Easy   |             |      |
+| 2526 | [Find Consecutive Integers from a Data Stream](./problems/2500-2599/2526/README.md)                                    |        | Medium |             |      |
+| 2527 | [Find Xor-Beauty of Array](./problems/2500-2599/2527/README.md)                                                        |        | Medium |             |      |
+| 2528 | [Maximize the Minimum Powered City](./problems/2500-2599/2528/README.md)                                               |        | Hard   |             |      |
+| 2529 | [Maximum Count of Positive Integer and Negative Integer](./problems/2500-2599/2529/README.md)                          |        | Easy   |             |      |
+| 2530 | [Maximal Score After Applying K Operations](./problems/2500-2599/2530/README.md)                                       |        | Medium |             |      |
+| 2531 | [Make Number of Distinct Characters Equal](./problems/2500-2599/2531/README.md)                                        |        | Medium |             |      |
+| 2532 | [Time to Cross a Bridge](./problems/2500-2599/2532/README.md)                                                          |        | Hard   |             |      |
+| 2533 | [Number of Good Binary Strings](./problems/2500-2599/2533/README.md)                                                   | :lock: | Medium |             |      |
+| 2534 | [Time Taken to Cross the Door](./problems/2500-2599/2534/README.md)                                                    | :lock: | Hard   |             |      |
+| 2535 | [Difference Between Element Sum and Digit Sum of an Array](./problems/2500-2599/2535/README.md)                        |        | Easy   |             |      |
+| 2536 | [Increment Submatrices by One](./problems/2500-2599/2536/README.md)                                                    |        | Medium |             |      |
+| 2537 | [Count the Number of Good Subarrays](./problems/2500-2599/2537/README.md)                                              |        | Medium |             |      |
+| 2538 | [Difference Between Maximum and Minimum Price Sum](./problems/2500-2599/2538/README.md)                                |        | Hard   |             |      |
+| 2539 | [Count the Number of Good Subsequences](./problems/2500-2599/2539/README.md)                                           | :lock: | Medium |             |      |
+| 2540 | [Minimum Common Value](./problems/2500-2599/2540/README.md)                                                            |        | Easy   |             |      |
+| 2541 | [Minimum Operations to Make Array Equal II](./problems/2500-2599/2541/README.md)                                       |        | Medium |             |      |
+| 2542 | [Maximum Subsequence Score](./problems/2500-2599/2542/README.md)                                                       |        | Medium |             |      |
+| 2543 | [Check if Point Is Reachable](./problems/2500-2599/2543/README.md)                                                     |        | Hard   |             |      |
+| 2544 | [Alternating Digit Sum](./problems/2500-2599/2544/README.md)                                                           |        | Easy   |             |      |
+| 2545 | [Sort the Students by Their Kth Score](./problems/2500-2599/2545/README.md)                                            |        | Medium |             |      |
+| 2546 | [Apply Bitwise Operations to Make Strings Equal](./problems/2500-2599/2546/README.md)                                  |        | Medium |             |      |
+| 2547 | [Minimum Cost to Split an Array](./problems/2500-2599/2547/README.md)                                                  |        | Hard   |             |      |
+| 2548 | [Maximum Price to Fill a Bag](./problems/2500-2599/2548/README.md)                                                     | :lock: | Medium |             |      |
+| 2549 | [Count Distinct Numbers on Board](./problems/2500-2599/2549/README.md)                                                 |        | Easy   |             |      |
+| 2550 | [Count Collisions of Monkeys on a Polygon](./problems/2500-2599/2550/README.md)                                        |        | Medium |             |      |
+| 2551 | [Put Marbles in Bags](./problems/2500-2599/2551/README.md)                                                             |        | Hard   |             |      |
+| 2552 | [Count Increasing Quadruplets](./problems/2500-2599/2552/README.md)                                                    |        | Hard   |             |      |
+| 2553 | [Separate the Digits in an Array](./problems/2500-2599/2553/README.md)                                                 |        | Easy   |             |      |
+| 2554 | [Maximum Number of Integers to Choose From a Range I](./problems/2500-2599/2554/README.md)                             |        | Medium |             |      |
+| 2555 | [Maximize Win From Two Segments](./problems/2500-2599/2555/README.md)                                                  |        | Medium |             |      |
+| 2556 | [Disconnect Path in a Binary Matrix by at Most One Flip](./problems/2500-2599/2556/README.md)                          |        | Medium |             |      |
+| 2557 | [Maximum Number of Integers to Choose From a Range II](./problems/2500-2599/2557/README.md)                            | :lock: | Medium |             |      |
+| 2558 | [Take Gifts From the Richest Pile](./problems/2500-2599/2558/README.md)                                                |        | Easy   |             |      |
+| 2559 | [Count Vowel Strings in Ranges](./problems/2500-2599/2559/README.md)                                                   |        | Medium |             |      |
+| 2560 | [House Robber IV](./problems/2500-2599/2560/README.md)                                                                 |        | Medium |             |      |
+| 2561 | [Rearranging Fruits](./problems/2500-2599/2561/README.md)                                                              |        | Hard   |             |      |
+| 2562 | [Find the Array Concatenation Value](./problems/2500-2599/2562/README.md)                                              |        | Easy   |             |      |
+| 2563 | [Count the Number of Fair Pairs](./problems/2500-2599/2563/README.md)                                                  |        | Medium |             |      |
+| 2564 | [Substring XOR Queries](./problems/2500-2599/2564/README.md)                                                           |        | Medium |             |      |
+| 2565 | [Subsequence With the Minimum Score](./problems/2500-2599/2565/README.md)                                              |        | Hard   |             |      |
+| 2566 | [Maximum Difference by Remapping a Digit](./problems/2500-2599/2566/README.md)                                         |        | Easy   |             |      |
+| 2567 | [Minimum Score by Changing Two Elements](./problems/2500-2599/2567/README.md)                                          |        | Medium |             |      |
+| 2568 | [Minimum Impossible OR](./problems/2500-2599/2568/README.md)                                                           |        | Medium |             |      |
+| 2569 | [Handling Sum Queries After Update](./problems/2500-2599/2569/README.md)                                               |        | Hard   |             |      |
+| 2570 | [Merge Two 2D Arrays by Summing Values](./problems/2500-2599/2570/README.md)                                           |        | Easy   |             |      |
+| 2571 | [Minimum Operations to Reduce an Integer to 0](./problems/2500-2599/2571/README.md)                                    |        | Medium |             |      |
+| 2572 | [Count the Number of Square-Free Subsets](./problems/2500-2599/2572/README.md)                                         |        | Medium |             |      |
+| 2573 | [Find the String with LCP](./problems/2500-2599/2573/README.md)                                                        |        | Hard   |             |      |
+| 2574 | [Left and Right Sum Differences](./problems/2500-2599/2574/README.md)                                                  |        | Easy   |             |      |
+| 2575 | [Find the Divisibility Array of a String](./problems/2500-2599/2575/README.md)                                         |        | Medium |             |      |
+| 2576 | [Find the Maximum Number of Marked Indices](./problems/2500-2599/2576/README.md)                                       |        | Medium |             |      |
+| 2577 | [Minimum Time to Visit a Cell In a Grid](./problems/2500-2599/2577/README.md)                                          |        | Hard   |             |      |
+| 2578 | [Split With Minimum Sum](./problems/2500-2599/2578/README.md)                                                          |        | Easy   |             |      |
+| 2579 | [Count Total Number of Colored Cells](./problems/2500-2599/2579/README.md)                                             |        | Medium |             |      |
+| 2580 | [Count Ways to Group Overlapping Ranges](./problems/2500-2599/2580/README.md)                                          |        | Medium |             |      |
+| 2581 | [Count Number of Possible Root Nodes](./problems/2500-2599/2581/README.md)                                             |        | Hard   |             |      |
+| 2582 | [Pass the Pillow](./problems/2500-2599/2582/README.md)                                                                 |        | Easy   |             |      |
+| 2583 | [Kth Largest Sum in a Binary Tree](./problems/2500-2599/2583/README.md)                                                |        | Medium |             |      |
+| 2584 | [Split the Array to Make Coprime Products](./problems/2500-2599/2584/README.md)                                        |        | Hard   |             |      |
+| 2585 | [Number of Ways to Earn Points](./problems/2500-2599/2585/README.md)                                                   |        | Hard   |             |      |
+| 2586 | [Count the Number of Vowel Strings in Range](./problems/2500-2599/2586/README.md)                                      |        | Easy   |             |      |
+| 2587 | [Rearrange Array to Maximize Prefix Score](./problems/2500-2599/2587/README.md)                                        |        | Medium |             |      |
+| 2588 | [Count the Number of Beautiful Subarrays](./problems/2500-2599/2588/README.md)                                         |        | Medium |             |      |
+| 2589 | [Minimum Time to Complete All Tasks](./problems/2500-2599/2589/README.md)                                              |        | Hard   |             |      |
+| 2590 | [Design a Todo List](./problems/2500-2599/2590/README.md)                                                              | :lock: | Medium |             |      |
+| 2591 | [Distribute Money to Maximum Children](./problems/2500-2599/2591/README.md)                                            |        | Easy   |             |      |
+| 2592 | [Maximize Greatness of an Array](./problems/2500-2599/2592/README.md)                                                  |        | Medium |             |      |
+| 2593 | [Find Score of an Array After Marking All Elements](./problems/2500-2599/2593/README.md)                               |        | Medium |             |      |
+| 2594 | [Minimum Time to Repair Cars](./problems/2500-2599/2594/README.md)                                                     |        | Medium |             |      |
+| 2595 | [Number of Even and Odd Bits](./problems/2500-2599/2595/README.md)                                                     |        | Easy   |             |      |
+| 2596 | [Check Knight Tour Configuration](./problems/2500-2599/2596/README.md)                                                 |        | Medium |             |      |
+| 2597 | [The Number of Beautiful Subsets](./problems/2500-2599/2597/README.md)                                                 |        | Medium |             |      |
+| 2598 | [Smallest Missing Non-negative Integer After Operations](./problems/2500-2599/2598/README.md)                          |        | Medium |             |      |
+| 2599 | [Make the Prefix Sum Non-negative](./problems/2500-2599/2599/README.md)                                                | :lock: | Medium |             |      |
+| 2600 | [K Items With the Maximum Sum](./problems/2600-2699/2600/README.md)                                                    |        | Easy   |             |      |
+| 2601 | [Prime Subtraction Operation](./problems/2600-2699/2601/README.md)                                                     |        | Medium |             |      |
+| 2602 | [Minimum Operations to Make All Array Elements Equal](./problems/2600-2699/2602/README.md)                             |        | Medium |             |      |
+| 2603 | [Collect Coins in a Tree](./problems/2600-2699/2603/README.md)                                                         |        | Hard   |             |      |
+| 2604 | [Minimum Time to Eat All Grains](./problems/2600-2699/2604/README.md)                                                  | :lock: | Hard   |             |      |
+| 2605 | [Form Smallest Number From Two Digit Arrays](./problems/2600-2699/2605/README.md)                                      |        | Easy   |             |      |
+| 2606 | [Find the Substring With Maximum Cost](./problems/2600-2699/2606/README.md)                                            |        | Medium |             |      |
+| 2607 | [Make K-Subarray Sums Equal](./problems/2600-2699/2607/README.md)                                                      |        | Medium |             |      |
+| 2608 | [Shortest Cycle in a Graph](./problems/2600-2699/2608/README.md)                                                       |        | Hard   |             |      |
+| 2609 | [Find the Longest Balanced Substring of a Binary String](./problems/2600-2699/2609/README.md)                          |        | Easy   |             |      |
+| 2610 | [Convert an Array Into a 2D Array With Conditions](./problems/2600-2699/2610/README.md)                                |        | Medium |             |      |
+| 2611 | [Mice and Cheese](./problems/2600-2699/2611/README.md)                                                                 |        | Medium |             |      |
+| 2612 | [Minimum Reverse Operations](./problems/2600-2699/2612/README.md)                                                      |        | Hard   |             |      |
+| 2613 | [Beautiful Pairs](./problems/2600-2699/2613/README.md)                                                                 | :lock: | Hard   |             |      |
+| 2614 | [Prime In Diagonal](./problems/2600-2699/2614/README.md)                                                               |        | Easy   |             |      |
+| 2615 | [Sum of Distances](./problems/2600-2699/2615/README.md)                                                                |        | Medium |             |      |
+| 2616 | [Minimize the Maximum Difference of Pairs](./problems/2600-2699/2616/README.md)                                        |        | Medium |             |      |
+| 2617 | [Minimum Number of Visited Cells in a Grid](./problems/2600-2699/2617/README.md)                                       |        | Hard   |             |      |
+| 2618 | [2618](./problems/2600-2699/2618/README.md)                                                                            |        | Easy   |             |      |
+| 2619 | [2619](./problems/2600-2699/2619/README.md)                                                                            |        | Easy   |             |      |
+| 2620 | [2620](./problems/2600-2699/2620/README.md)                                                                            |        | Easy   |             |      |
+| 2621 | [2621](./problems/2600-2699/2621/README.md)                                                                            |        | Easy   |             |      |
+| 2622 | [2622](./problems/2600-2699/2622/README.md)                                                                            |        | Easy   |             |      |
+| 2623 | [2623](./problems/2600-2699/2623/README.md)                                                                            |        | Easy   |             |      |
+| 2624 | [2624](./problems/2600-2699/2624/README.md)                                                                            |        | Easy   |             |      |
+| 2625 | [2625](./problems/2600-2699/2625/README.md)                                                                            |        | Easy   |             |      |
+| 2626 | [2626](./problems/2600-2699/2626/README.md)                                                                            |        | Easy   |             |      |
+| 2627 | [2627](./problems/2600-2699/2627/README.md)                                                                            |        | Easy   |             |      |
+| 2628 | [2628](./problems/2600-2699/2628/README.md)                                                                            |        | Easy   |             |      |
+| 2629 | [2629](./problems/2600-2699/2629/README.md)                                                                            |        | Easy   |             |      |
+| 2630 | [2630](./problems/2600-2699/2630/README.md)                                                                            |        | Easy   |             |      |
+| 2631 | [2631](./problems/2600-2699/2631/README.md)                                                                            |        | Easy   |             |      |
+| 2632 | [2632](./problems/2600-2699/2632/README.md)                                                                            |        | Easy   |             |      |
+| 2633 | [2633](./problems/2600-2699/2633/README.md)                                                                            |        | Easy   |             |      |
+| 2634 | [2634](./problems/2600-2699/2634/README.md)                                                                            |        | Easy   |             |      |
+| 2635 | [2635](./problems/2600-2699/2635/README.md)                                                                            |        | Easy   |             |      |
+| 2636 | [2636](./problems/2600-2699/2636/README.md)                                                                            |        | Easy   |             |      |
+| 2637 | [2637](./problems/2600-2699/2637/README.md)                                                                            |        | Easy   |             |      |
+| 2638 | [Count the Number of K-Free Subsets](./problems/2600-2699/2638/README.md)                                              | :lock: | Medium |             |      |
+| 2639 | [Find the Width of Columns of a Grid](./problems/2600-2699/2639/README.md)                                             |        | Easy   |             |      |
+| 2640 | [Find the Score of All Prefixes of an Array](./problems/2600-2699/2640/README.md)                                      |        | Medium |             |      |
+| 2641 | [Cousins in Binary Tree II](./problems/2600-2699/2641/README.md)                                                       |        | Medium |             |      |
+| 2642 | [Design Graph With Shortest Path Calculator](./problems/2600-2699/2642/README.md)                                      |        | Hard   |             |      |
+| 2643 | [Row With Maximum Ones](./problems/2600-2699/2643/README.md)                                                           |        | Easy   |             |      |
+| 2644 | [Find the Maximum Divisibility Score](./problems/2600-2699/2644/README.md)                                             |        | Easy   |             |      |
+| 2645 | [Minimum Additions to Make Valid String](./problems/2600-2699/2645/README.md)                                          |        | Medium |             |      |
+| 2646 | [Minimize the Total Price of the Trips](./problems/2600-2699/2646/README.md)                                           |        | Hard   |             |      |
+| 2647 | [Color the Triangle Red](./problems/2600-2699/2647/README.md)                                                          | :lock: | Hard   |             |      |
+| 2648 | [2648](./problems/2600-2699/2648/README.md)                                                                            |        | Easy   |             |      |
+| 2649 | [2649](./problems/2600-2699/2649/README.md)                                                                            |        | Easy   |             |      |
+| 2650 | [2650](./problems/2600-2699/2650/README.md)                                                                            |        | Easy   |             |      |
+| 2651 | [Calculate Delayed Arrival Time](./problems/2600-2699/2651/README.md)                                                  |        | Easy   |             |      |
+| 2652 | [Sum Multiples](./problems/2600-2699/2652/README.md)                                                                   |        | Easy   |             |      |
+| 2653 | [Sliding Subarray Beauty](./problems/2600-2699/2653/README.md)                                                         |        | Medium |             |      |
+| 2654 | [Minimum Number of Operations to Make All Array Elements Equal to 1](./problems/2600-2699/2654/README.md)              |        | Medium |             |      |
+| 2655 | [Find Maximal Uncovered Ranges](./problems/2600-2699/2655/README.md)                                                   | :lock: | Medium |             |      |
+| 2656 | [Maximum Sum With Exactly K Elements ](./problems/2600-2699/2656/README.md)                                            |        | Easy   |             |      |
+| 2657 | [Find the Prefix Common Array of Two Arrays](./problems/2600-2699/2657/README.md)                                      |        | Medium |             |      |
+| 2658 | [Maximum Number of Fish in a Grid](./problems/2600-2699/2658/README.md)                                                |        | Medium |             |      |
+| 2659 | [Make Array Empty](./problems/2600-2699/2659/README.md)                                                                |        | Hard   |             |      |
+| 2660 | [Determine the Winner of a Bowling Game](./problems/2600-2699/2660/README.md)                                          |        | Easy   |             |      |
+| 2661 | [First Completely Painted Row or Column](./problems/2600-2699/2661/README.md)                                          |        | Medium |             |      |
+| 2662 | [Minimum Cost of a Path With Special Roads](./problems/2600-2699/2662/README.md)                                       |        | Medium |             |      |
+| 2663 | [Lexicographically Smallest Beautiful String](./problems/2600-2699/2663/README.md)                                     |        | Hard   |             |      |
+| 2664 | [The Knight’s Tour](./problems/2600-2699/2664/README.md)                                                               | :lock: | Medium |             |      |
+| 2665 | [2665](./problems/2600-2699/2665/README.md)                                                                            |        | Easy   |             |      |
+| 2666 | [2666](./problems/2600-2699/2666/README.md)                                                                            |        | Easy   |             |      |
+| 2667 | [2667](./problems/2600-2699/2667/README.md)                                                                            |        | Easy   |             |      |
+| 2668 | [Find Latest Salaries](./problems/2600-2699/2668/README.md)                                                            | :lock: | Easy   |             |      |
+| 2669 | [Count Artist Occurrences On Spotify Ranking List](./problems/2600-2699/2669/README.md)                                | :lock: | Easy   |             |      |
+| 2670 | [Find the Distinct Difference Array](./problems/2600-2699/2670/README.md)                                              |        | Easy   |             |      |
+| 2671 | [Frequency Tracker](./problems/2600-2699/2671/README.md)                                                               |        | Medium |             |      |
+| 2672 | [Number of Adjacent Elements With the Same Color](./problems/2600-2699/2672/README.md)                                 |        | Medium |             |      |
+| 2673 | [Make Costs of Paths Equal in a Binary Tree](./problems/2600-2699/2673/README.md)                                      |        | Medium |             |      |
+| 2674 | [Split a Circular Linked List](./problems/2600-2699/2674/README.md)                                                    | :lock: | Medium |             |      |
+| 2675 | [2675](./problems/2600-2699/2675/README.md)                                                                            |        | Easy   |             |      |
+| 2676 | [2676](./problems/2600-2699/2676/README.md)                                                                            |        | Easy   |             |      |
+| 2677 | [2677](./problems/2600-2699/2677/README.md)                                                                            |        | Easy   |             |      |
+| 2678 | [Number of Senior Citizens](./problems/2600-2699/2678/README.md)                                                       |        | Easy   |             |      |
+| 2679 | [Sum in a Matrix](./problems/2600-2699/2679/README.md)                                                                 |        | Medium |             |      |
+| 2680 | [Maximum OR](./problems/2600-2699/2680/README.md)                                                                      |        | Medium |             |      |
+| 2681 | [Power of Heroes](./problems/2600-2699/2681/README.md)                                                                 |        | Hard   |             |      |
+| 2682 | [Find the Losers of the Circular Game](./problems/2600-2699/2682/README.md)                                            |        | Easy   |             |      |
+| 2683 | [Neighboring Bitwise XOR](./problems/2600-2699/2683/README.md)                                                         |        | Medium |             |      |
+| 2684 | [Maximum Number of Moves in a Grid](./problems/2600-2699/2684/README.md)                                               |        | Medium |             |      |
+| 2685 | [Count the Number of Complete Components](./problems/2600-2699/2685/README.md)                                         |        | Medium |             |      |
+| 2686 | [Immediate Food Delivery III](./problems/2600-2699/2686/README.md)                                                     | :lock: | Medium |             |      |
+| 2687 | [Bikes Last Time Used ](./problems/2600-2699/2687/README.md)                                                           | :lock: | Easy   |             |      |
+| 2688 | [Find Active Users](./problems/2600-2699/2688/README.md)                                                               | :lock: | Medium |             |      |
+| 2689 | [Extract Kth Character From The Rope Tree](./problems/2600-2699/2689/README.md)                                        | :lock: | Easy   |             |      |
+| 2690 | [2690](./problems/2600-2699/2690/README.md)                                                                            |        | Easy   |             |      |
+| 2691 | [2691](./problems/2600-2699/2691/README.md)                                                                            |        | Easy   |             |      |
+| 2692 | [2692](./problems/2600-2699/2692/README.md)                                                                            |        | Easy   |             |      |
+| 2693 | [2693](./problems/2600-2699/2693/README.md)                                                                            |        | Easy   |             |      |
+| 2694 | [2694](./problems/2600-2699/2694/README.md)                                                                            |        | Easy   |             |      |
+| 2695 | [2695](./problems/2600-2699/2695/README.md)                                                                            |        | Easy   |             |      |
+| 2696 | [Minimum String Length After Removing Substrings](./problems/2600-2699/2696/README.md)                                 |        | Easy   |             |      |
+| 2697 | [Lexicographically Smallest Palindrome](./problems/2600-2699/2697/README.md)                                           |        | Easy   |             |      |
+| 2698 | [Find the Punishment Number of an Integer](./problems/2600-2699/2698/README.md)                                        |        | Medium |             |      |
+| 2699 | [Modify Graph Edge Weights](./problems/2600-2699/2699/README.md)                                                       |        | Hard   |             |      |
+| 2700 | [2700](./problems/2700-2799/2700/README.md)                                                                            |        | Easy   |             |      |
+| 2701 | [Consecutive Transactions with Increasing Amounts](./problems/2700-2799/2701/README.md)                                | :lock: | Hard   |             |      |
+| 2702 | [Minimum Operations to Make Numbers Non-positive](./problems/2700-2799/2702/README.md)                                 | :lock: | Hard   |             |      |
+| 2703 | [2703](./problems/2700-2799/2703/README.md)                                                                            |        | Easy   |             |      |
+| 2704 | [2704](./problems/2700-2799/2704/README.md)                                                                            |        | Easy   |             |      |
+| 2705 | [2705](./problems/2700-2799/2705/README.md)                                                                            |        | Easy   |             |      |
+| 2706 | [Buy Two Chocolates](./problems/2700-2799/2706/README.md)                                                              |        | Easy   |             |      |
+| 2707 | [Extra Characters in a String](./problems/2700-2799/2707/README.md)                                                    |        | Medium |             |      |
+| 2708 | [Maximum Strength of a Group](./problems/2700-2799/2708/README.md)                                                     |        | Medium |             |      |
+| 2709 | [Greatest Common Divisor Traversal](./problems/2700-2799/2709/README.md)                                               |        | Hard   |             |      |
+| 2710 | [Remove Trailing Zeros From a String](./problems/2700-2799/2710/README.md)                                             |        | Easy   |             |      |
+| 2711 | [Difference of Number of Distinct Values on Diagonals](./problems/2700-2799/2711/README.md)                            |        | Medium |             |      |
+| 2712 | [Minimum Cost to Make All Characters Equal](./problems/2700-2799/2712/README.md)                                       |        | Medium |             |      |
+| 2713 | [Maximum Strictly Increasing Cells in a Matrix](./problems/2700-2799/2713/README.md)                                   |        | Hard   |             |      |
+| 2714 | [Find Shortest Path with K Hops](./problems/2700-2799/2714/README.md)                                                  | :lock: | Hard   |             |      |
+| 2715 | [2715](./problems/2700-2799/2715/README.md)                                                                            |        | Easy   |             |      |
+| 2716 | [Minimize String Length](./problems/2700-2799/2716/README.md)                                                          |        | Easy   |             |      |
+| 2717 | [Semi-Ordered Permutation](./problems/2700-2799/2717/README.md)                                                        |        | Easy   |             |      |
+| 2718 | [Sum of Matrix After Queries](./problems/2700-2799/2718/README.md)                                                     |        | Medium |             |      |
+| 2719 | [Count of Integers](./problems/2700-2799/2719/README.md)                                                               |        | Hard   |             |      |
+| 2720 | [Popularity Percentage](./problems/2700-2799/2720/README.md)                                                           | :lock: | Hard   |             |      |
+| 2721 | [2721](./problems/2700-2799/2721/README.md)                                                                            |        | Easy   |             |      |
+| 2722 | [2722](./problems/2700-2799/2722/README.md)                                                                            |        | Easy   |             |      |
+| 2723 | [2723](./problems/2700-2799/2723/README.md)                                                                            |        | Easy   |             |      |
+| 2724 | [2724](./problems/2700-2799/2724/README.md)                                                                            |        | Easy   |             |      |
+| 2725 | [2725](./problems/2700-2799/2725/README.md)                                                                            |        | Easy   |             |      |
+| 2726 | [2726](./problems/2700-2799/2726/README.md)                                                                            |        | Easy   |             |      |
+| 2727 | [2727](./problems/2700-2799/2727/README.md)                                                                            |        | Easy   |             |      |
+| 2728 | [Count Houses in a Circular Street](./problems/2700-2799/2728/README.md)                                               | :lock: | Easy   |             |      |
+| 2729 | [Check if The Number is Fascinating](./problems/2700-2799/2729/README.md)                                              |        | Easy   |             |      |
+| 2730 | [Find the Longest Semi-Repetitive Substring](./problems/2700-2799/2730/README.md)                                      |        | Medium |             |      |
+| 2731 | [Movement of Robots](./problems/2700-2799/2731/README.md)                                                              |        | Medium |             |      |
+| 2732 | [Find a Good Subset of the Matrix](./problems/2700-2799/2732/README.md)                                                |        | Hard   |             |      |
+| 2733 | [Neither Minimum nor Maximum](./problems/2700-2799/2733/README.md)                                                     |        | Easy   |             |      |
+| 2734 | [Lexicographically Smallest String After Substring Operation](./problems/2700-2799/2734/README.md)                     |        | Medium |             |      |
+| 2735 | [Collecting Chocolates](./problems/2700-2799/2735/README.md)                                                           |        | Medium |             |      |
+| 2736 | [Maximum Sum Queries](./problems/2700-2799/2736/README.md)                                                             |        | Hard   |             |      |
+| 2737 | [Find the Closest Marked Node](./problems/2700-2799/2737/README.md)                                                    | :lock: | Medium |             |      |
+| 2738 | [Count Occurrences in Text](./problems/2700-2799/2738/README.md)                                                       | :lock: | Medium |             |      |
+| 2739 | [Total Distance Traveled](./problems/2700-2799/2739/README.md)                                                         |        | Easy   |             |      |
+| 2740 | [Find the Value of the Partition](./problems/2700-2799/2740/README.md)                                                 |        | Medium |             |      |
+| 2741 | [Special Permutations](./problems/2700-2799/2741/README.md)                                                            |        | Medium |             |      |
+| 2742 | [Painting the Walls](./problems/2700-2799/2742/README.md)                                                              |        | Hard   |             |      |
+| 2743 | [Count Substrings Without Repeating Character](./problems/2700-2799/2743/README.md)                                    | :lock: | Medium |             |      |
+| 2744 | [Find Maximum Number of String Pairs](./problems/2700-2799/2744/README.md)                                             |        | Easy   |             |      |
+| 2745 | [Construct the Longest New String](./problems/2700-2799/2745/README.md)                                                |        | Medium |             |      |
+| 2746 | [Decremental String Concatenation](./problems/2700-2799/2746/README.md)                                                |        | Medium |             |      |
+| 2747 | [Count Zero Request Servers](./problems/2700-2799/2747/README.md)                                                      |        | Medium |             |      |
+| 2748 | [Number of Beautiful Pairs](./problems/2700-2799/2748/README.md)                                                       |        | Easy   |             |      |
+| 2749 | [Minimum Operations to Make the Integer Zero](./problems/2700-2799/2749/README.md)                                     |        | Medium |             |      |
+| 2750 | [Ways to Split Array Into Good Subarrays](./problems/2700-2799/2750/README.md)                                         |        | Medium |             |      |
+| 2751 | [Robot Collisions](./problems/2700-2799/2751/README.md)                                                                |        | Hard   |             |      |
+| 2752 | [Customers with Maximum Number of Transactions on Consecutive Days](./problems/2700-2799/2752/README.md)               | :lock: | Hard   |             |      |
+| 2753 | [Count Houses in a Circular Street II](./problems/2700-2799/2753/README.md)                                            | :lock: | Hard   |             |      |
+| 2754 | [2754](./problems/2700-2799/2754/README.md)                                                                            |        | Easy   |             |      |
+| 2755 | [2755](./problems/2700-2799/2755/README.md)                                                                            |        | Easy   |             |      |
+| 2756 | [2756](./problems/2700-2799/2756/README.md)                                                                            |        | Easy   |             |      |
+| 2757 | [2757](./problems/2700-2799/2757/README.md)                                                                            |        | Easy   |             |      |
+| 2758 | [2758](./problems/2700-2799/2758/README.md)                                                                            |        | Easy   |             |      |
+| 2759 | [2759](./problems/2700-2799/2759/README.md)                                                                            |        | Easy   |             |      |
+| 2760 | [Longest Even Odd Subarray With Threshold](./problems/2700-2799/2760/README.md)                                        |        | Easy   |             |      |
+| 2761 | [Prime Pairs With Target Sum](./problems/2700-2799/2761/README.md)                                                     |        | Medium |             |      |
+| 2762 | [Continuous Subarrays](./problems/2700-2799/2762/README.md)                                                            |        | Medium |             |      |
+| 2763 | [Sum of Imbalance Numbers of All Subarrays](./problems/2700-2799/2763/README.md)                                       |        | Hard   |             |      |
+| 2764 | [Is Array a Preorder of Some ‌Binary Tree](./problems/2700-2799/2764/README.md)                                         | :lock: | Medium |             |      |
+| 2765 | [Longest Alternating Subarray](./problems/2700-2799/2765/README.md)                                                    |        | Easy   |             |      |
+| 2766 | [Relocate Marbles](./problems/2700-2799/2766/README.md)                                                                |        | Medium |             |      |
+| 2767 | [Partition String Into Minimum Beautiful Substrings](./problems/2700-2799/2767/README.md)                              |        | Medium |             |      |
+| 2768 | [Number of Black Blocks](./problems/2700-2799/2768/README.md)                                                          |        | Medium |             |      |
+| 2769 | [Find the Maximum Achievable Number](./problems/2700-2799/2769/README.md)                                              |        | Easy   |             |      |
+| 2770 | [Maximum Number of Jumps to Reach the Last Index](./problems/2700-2799/2770/README.md)                                 |        | Medium |             |      |
+| 2771 | [Longest Non-decreasing Subarray From Two Arrays](./problems/2700-2799/2771/README.md)                                 |        | Medium |             |      |
+| 2772 | [Apply Operations to Make All Array Elements Equal to Zero](./problems/2700-2799/2772/README.md)                       |        | Medium |             |      |
+| 2773 | [Height of Special Binary Tree](./problems/2700-2799/2773/README.md)                                                   | :lock: | Medium |             |      |
+| 2774 | [2774](./problems/2700-2799/2774/README.md)                                                                            |        | Easy   |             |      |
+| 2775 | [2775](./problems/2700-2799/2775/README.md)                                                                            |        | Easy   |             |      |
+| 2776 | [2776](./problems/2700-2799/2776/README.md)                                                                            |        | Easy   |             |      |
+| 2777 | [2777](./problems/2700-2799/2777/README.md)                                                                            |        | Easy   |             |      |
+| 2778 | [Sum of Squares of Special Elements ](./problems/2700-2799/2778/README.md)                                             |        | Easy   |             |      |
+| 2779 | [Maximum Beauty of an Array After Applying Operation](./problems/2700-2799/2779/README.md)                             |        | Medium |             |      |
+| 2780 | [Minimum Index of a Valid Split](./problems/2700-2799/2780/README.md)                                                  |        | Medium |             |      |
+| 2781 | [Length of the Longest Valid Substring](./problems/2700-2799/2781/README.md)                                           |        | Hard   |             |      |
+| 2782 | [Number of Unique Categories](./problems/2700-2799/2782/README.md)                                                     | :lock: | Medium |             |      |
+| 2783 | [Flight Occupancy and Waitlist Analysis](./problems/2700-2799/2783/README.md)                                          | :lock: | Medium |             |      |
+| 2784 | [Check if Array is Good](./problems/2700-2799/2784/README.md)                                                          |        | Easy   |             |      |
+| 2785 | [Sort Vowels in a String](./problems/2700-2799/2785/README.md)                                                         |        | Medium |             |      |
+| 2786 | [Visit Array Positions to Maximize Score](./problems/2700-2799/2786/README.md)                                         |        | Medium |             |      |
+| 2787 | [Ways to Express an Integer as Sum of Powers](./problems/2700-2799/2787/README.md)                                     |        | Medium |             |      |
+| 2788 | [Split Strings by Separator](./problems/2700-2799/2788/README.md)                                                      |        | Easy   |             |      |
+| 2789 | [Largest Element in an Array after Merge Operations](./problems/2700-2799/2789/README.md)                              |        | Medium |             |      |
+| 2790 | [Maximum Number of Groups With Increasing Length](./problems/2700-2799/2790/README.md)                                 |        | Hard   |             |      |
+| 2791 | [Count Paths That Can Form a Palindrome in a Tree](./problems/2700-2799/2791/README.md)                                |        | Hard   |             |      |
+| 2792 | [Count Nodes That Are Great Enough](./problems/2700-2799/2792/README.md)                                               | :lock: | Hard   |             |      |
+| 2793 | [Status of Flight Tickets](./problems/2700-2799/2793/README.md)                                                        | :lock: | Hard   |             |      |
+| 2794 | [2794](./problems/2700-2799/2794/README.md)                                                                            |        | Easy   |             |      |
+| 2795 | [2795](./problems/2700-2799/2795/README.md)                                                                            |        | Easy   |             |      |
+| 2796 | [2796](./problems/2700-2799/2796/README.md)                                                                            |        | Easy   |             |      |
+| 2797 | [2797](./problems/2700-2799/2797/README.md)                                                                            |        | Easy   |             |      |
+| 2798 | [Number of Employees Who Met the Target](./problems/2700-2799/2798/README.md)                                          |        | Easy   |             |      |
+| 2799 | [Count Complete Subarrays in an Array](./problems/2700-2799/2799/README.md)                                            |        | Medium |             |      |
+| 2800 | [Shortest String That Contains Three Strings](./problems/2800-2899/2800/README.md)                                     |        | Medium |             |      |
+| 2801 | [Count Stepping Numbers in Range](./problems/2800-2899/2801/README.md)                                                 |        | Hard   |             |      |
+| 2802 | [Find The K-th Lucky Number](./problems/2800-2899/2802/README.md)                                                      | :lock: | Medium |             |      |
+| 2803 | [2803](./problems/2800-2899/2803/README.md)                                                                            |        | Easy   |             |      |
+| 2804 | [2804](./problems/2800-2899/2804/README.md)                                                                            |        | Easy   |             |      |
+| 2805 | [2805](./problems/2800-2899/2805/README.md)                                                                            |        | Easy   |             |      |
+| 2806 | [Account Balance After Rounded Purchase](./problems/2800-2899/2806/README.md)                                          |        | Easy   |             |      |
+| 2807 | [Insert Greatest Common Divisors in Linked List](./problems/2800-2899/2807/README.md)                                  |        | Medium |             |      |
+| 2808 | [Minimum Seconds to Equalize a Circular Array](./problems/2800-2899/2808/README.md)                                    |        | Medium |             |      |
+| 2809 | [Minimum Time to Make Array Sum At Most x](./problems/2800-2899/2809/README.md)                                        |        | Hard   |             |      |
+| 2810 | [Faulty Keyboard](./problems/2800-2899/2810/README.md)                                                                 |        | Easy   |             |      |
+| 2811 | [Check if it is Possible to Split Array](./problems/2800-2899/2811/README.md)                                          |        | Medium |             |      |
+| 2812 | [Find the Safest Path in a Grid](./problems/2800-2899/2812/README.md)                                                  |        | Medium |             |      |
+| 2813 | [Maximum Elegance of a K-Length Subsequence](./problems/2800-2899/2813/README.md)                                      |        | Hard   |             |      |
+| 2814 | [Minimum Time Takes to Reach Destination Without Drowning](./problems/2800-2899/2814/README.md)                        | :lock: | Hard   |             |      |
+| 2815 | [Max Pair Sum in an Array](./problems/2800-2899/2815/README.md)                                                        |        | Easy   |             |      |
+| 2816 | [Double a Number Represented as a Linked List](./problems/2800-2899/2816/README.md)                                    |        | Medium |             |      |
+| 2817 | [Minimum Absolute Difference Between Elements With Constraint](./problems/2800-2899/2817/README.md)                    |        | Medium |             |      |
+| 2818 | [Apply Operations to Maximize Score](./problems/2800-2899/2818/README.md)                                              |        | Hard   |             |      |
+| 2819 | [Minimum Relative Loss After Buying Chocolates](./problems/2800-2899/2819/README.md)                                   | :lock: | Hard   |             |      |
+| 2820 | [Election Results](./problems/2800-2899/2820/README.md)                                                                | :lock: | Medium |             |      |
+| 2821 | [2821](./problems/2800-2899/2821/README.md)                                                                            |        | Easy   |             |      |
+| 2822 | [2822](./problems/2800-2899/2822/README.md)                                                                            |        | Easy   |             |      |
+| 2823 | [2823](./problems/2800-2899/2823/README.md)                                                                            |        | Easy   |             |      |
+| 2824 | [Count Pairs Whose Sum is Less than Target](./problems/2800-2899/2824/README.md)                                       |        | Easy   |             |      |
+| 2825 | [Make String a Subsequence Using Cyclic Increments](./problems/2800-2899/2825/README.md)                               |        | Medium |             |      |
+| 2826 | [Sorting Three Groups](./problems/2800-2899/2826/README.md)                                                            |        | Medium |             |      |
+| 2827 | [Number of Beautiful Integers in the Range](./problems/2800-2899/2827/README.md)                                       |        | Hard   |             |      |
+| 2828 | [Check if a String Is an Acronym of Words](./problems/2800-2899/2828/README.md)                                        |        | Easy   |             |      |
+| 2829 | [Determine the Minimum Sum of a k-avoiding Array](./problems/2800-2899/2829/README.md)                                 |        | Medium |             |      |
+| 2830 | [Maximize the Profit as the Salesman](./problems/2800-2899/2830/README.md)                                             |        | Medium |             |      |
+| 2831 | [Find the Longest Equal Subarray](./problems/2800-2899/2831/README.md)                                                 |        | Medium |             |      |
+| 2832 | [Maximal Range That Each Element Is Maximum in It](./problems/2800-2899/2832/README.md)                                | :lock: | Medium |             |      |
+| 2833 | [Furthest Point From Origin](./problems/2800-2899/2833/README.md)                                                      |        | Easy   |             |      |
+| 2834 | [Find the Minimum Possible Sum of a Beautiful Array](./problems/2800-2899/2834/README.md)                              |        | Medium |             |      |
+| 2835 | [Minimum Operations to Form Subsequence With Target Sum](./problems/2800-2899/2835/README.md)                          |        | Hard   |             |      |
+| 2836 | [Maximize Value of Function in a Ball Passing Game](./problems/2800-2899/2836/README.md)                               |        | Hard   |             |      |
+| 2837 | [Total Traveled Distance](./problems/2800-2899/2837/README.md)                                                         | :lock: | Easy   |             |      |
+| 2838 | [Maximum Coins Heroes Can Collect](./problems/2800-2899/2838/README.md)                                                | :lock: | Medium |             |      |
+| 2839 | [Check if Strings Can be Made Equal With Operations I](./problems/2800-2899/2839/README.md)                            |        | Easy   |             |      |
+| 2840 | [Check if Strings Can be Made Equal With Operations II](./problems/2800-2899/2840/README.md)                           |        | Medium |             |      |
+| 2841 | [Maximum Sum of Almost Unique Subarray](./problems/2800-2899/2841/README.md)                                           |        | Medium |             |      |
+| 2842 | [Count K-Subsequences of a String With Maximum Beauty](./problems/2800-2899/2842/README.md)                            |        | Hard   |             |      |
+| 2843 | [  Count Symmetric Integers](./problems/2800-2899/2843/README.md)                                                      |        | Easy   |             |      |
+| 2844 | [Minimum Operations to Make a Special Number](./problems/2800-2899/2844/README.md)                                     |        | Medium |             |      |
+| 2845 | [Count of Interesting Subarrays](./problems/2800-2899/2845/README.md)                                                  |        | Medium |             |      |
+| 2846 | [Minimum Edge Weight Equilibrium Queries in a Tree](./problems/2800-2899/2846/README.md)                               |        | Hard   |             |      |
+| 2847 | [Smallest Number With Given Digit Product](./problems/2800-2899/2847/README.md)                                        | :lock: | Medium |             |      |
+| 2848 | [Points That Intersect With Cars](./problems/2800-2899/2848/README.md)                                                 |        | Easy   |             |      |
+| 2849 | [Determine if a Cell Is Reachable at a Given Time](./problems/2800-2899/2849/README.md)                                |        | Medium |             |      |
+| 2850 | [Minimum Moves to Spread Stones Over Grid](./problems/2800-2899/2850/README.md)                                        |        | Medium |             |      |
+| 2851 | [String Transformation](./problems/2800-2899/2851/README.md)                                                           |        | Hard   |             |      |
+| 2852 | [Sum of Remoteness of All Cells](./problems/2800-2899/2852/README.md)                                                  | :lock: | Medium |             |      |
+| 2853 | [Highest Salaries Difference](./problems/2800-2899/2853/README.md)                                                     | :lock: | Easy   |             |      |
+| 2854 | [Rolling Average Steps](./problems/2800-2899/2854/README.md)                                                           | :lock: | Medium |             |      |
+| 2855 | [Minimum Right Shifts to Sort the Array](./problems/2800-2899/2855/README.md)                                          |        | Easy   |             |      |
+| 2856 | [Minimum Array Length After Pair Removals](./problems/2800-2899/2856/README.md)                                        |        | Medium |             |      |
+| 2857 | [Count Pairs of Points With Distance k](./problems/2800-2899/2857/README.md)                                           |        | Medium |             |      |
+| 2858 | [Minimum Edge Reversals So Every Node Is Reachable](./problems/2800-2899/2858/README.md)                               |        | Hard   |             |      |
+| 2859 | [Sum of Values at Indices With K Set Bits](./problems/2800-2899/2859/README.md)                                        |        | Easy   |             |      |
+| 2860 | [Happy Students](./problems/2800-2899/2860/README.md)                                                                  |        | Medium |             |      |
+| 2861 | [Maximum Number of Alloys](./problems/2800-2899/2861/README.md)                                                        |        | Medium |             |      |
+| 2862 | [Maximum Element-Sum of a Complete Subset of Indices](./problems/2800-2899/2862/README.md)                             |        | Hard   |             |      |
+| 2863 | [Maximum Length of Semi-Decreasing Subarrays](./problems/2800-2899/2863/README.md)                                     | :lock: | Medium |             |      |
+| 2864 | [Maximum Odd Binary Number](./problems/2800-2899/2864/README.md)                                                       |        | Easy   |             |      |
+| 2865 | [Beautiful Towers I](./problems/2800-2899/2865/README.md)                                                              |        | Medium |             |      |
+| 2866 | [Beautiful Towers II](./problems/2800-2899/2866/README.md)                                                             |        | Medium |             |      |
+| 2867 | [Count Valid Paths in a Tree](./problems/2800-2899/2867/README.md)                                                     |        | Hard   |             |      |
+| 2868 | [The Wording Game](./problems/2800-2899/2868/README.md)                                                                | :lock: | Hard   |             |      |
+| 2869 | [Minimum Operations to Collect Elements](./problems/2800-2899/2869/README.md)                                          |        | Easy   |             |      |
+| 2870 | [Minimum Number of Operations to Make Array Empty](./problems/2800-2899/2870/README.md)                                |        | Medium |             |      |
+| 2871 | [Split Array Into Maximum Number of Subarrays](./problems/2800-2899/2871/README.md)                                    |        | Medium |             |      |
+| 2872 | [Maximum Number of K-Divisible Components](./problems/2800-2899/2872/README.md)                                        |        | Hard   |             |      |
+| 2873 | [Maximum Value of an Ordered Triplet I](./problems/2800-2899/2873/README.md)                                           |        | Easy   |             |      |
+| 2874 | [Maximum Value of an Ordered Triplet II](./problems/2800-2899/2874/README.md)                                          |        | Medium |             |      |
+| 2875 | [Minimum Size Subarray in Infinite Array](./problems/2800-2899/2875/README.md)                                         |        | Medium |             |      |
+| 2876 | [Count Visited Nodes in a Directed Graph](./problems/2800-2899/2876/README.md)                                         |        | Hard   |             |      |
+| 2877 | [2877](./problems/2800-2899/2877/README.md)                                                                            |        | Easy   |             |      |
+| 2878 | [2878](./problems/2800-2899/2878/README.md)                                                                            |        | Easy   |             |      |
+| 2879 | [2879](./problems/2800-2899/2879/README.md)                                                                            |        | Easy   |             |      |
+| 2880 | [2880](./problems/2800-2899/2880/README.md)                                                                            |        | Easy   |             |      |
+| 2881 | [2881](./problems/2800-2899/2881/README.md)                                                                            |        | Easy   |             |      |
+| 2882 | [2882](./problems/2800-2899/2882/README.md)                                                                            |        | Easy   |             |      |
+| 2883 | [2883](./problems/2800-2899/2883/README.md)                                                                            |        | Easy   |             |      |
+| 2884 | [2884](./problems/2800-2899/2884/README.md)                                                                            |        | Easy   |             |      |
+| 2885 | [2885](./problems/2800-2899/2885/README.md)                                                                            |        | Easy   |             |      |
+| 2886 | [2886](./problems/2800-2899/2886/README.md)                                                                            |        | Easy   |             |      |
+| 2887 | [2887](./problems/2800-2899/2887/README.md)                                                                            |        | Easy   |             |      |
+| 2888 | [2888](./problems/2800-2899/2888/README.md)                                                                            |        | Easy   |             |      |
+| 2889 | [2889](./problems/2800-2899/2889/README.md)                                                                            |        | Easy   |             |      |
+| 2890 | [2890](./problems/2800-2899/2890/README.md)                                                                            |        | Easy   |             |      |
+| 2891 | [2891](./problems/2800-2899/2891/README.md)                                                                            |        | Easy   |             |      |
+| 2892 | [Minimizing Array After Replacing Pairs With Their Product](./problems/2800-2899/2892/README.md)                       | :lock: | Medium |             |      |
+| 2893 | [Calculate Orders Within Each Interval](./problems/2800-2899/2893/README.md)                                           | :lock: | Medium |             |      |
+| 2894 | [Divisible and Non-divisible Sums Difference](./problems/2800-2899/2894/README.md)                                     |        | Easy   |             |      |
+| 2895 | [Minimum Processing Time](./problems/2800-2899/2895/README.md)                                                         |        | Medium |             |      |
+| 2896 | [Apply Operations to Make Two Strings Equal](./problems/2800-2899/2896/README.md)                                      |        | Medium |             |      |
+| 2897 | [Apply Operations on Array to Maximize Sum of Squares](./problems/2800-2899/2897/README.md)                            |        | Hard   |             |      |
+| 2898 | [Maximum Linear Stock Score](./problems/2800-2899/2898/README.md)                                                      | :lock: | Medium |             |      |
+| 2899 | [Last Visited Integers](./problems/2800-2899/2899/README.md)                                                           |        | Easy   |             |      |
+| 2900 | [Longest Unequal Adjacent Groups Subsequence I](./problems/2900-2999/2900/README.md)                                   |        | Easy   |             |      |
+| 2901 | [Longest Unequal Adjacent Groups Subsequence II](./problems/2900-2999/2901/README.md)                                  |        | Medium |             |      |
+| 2902 | [Count of Sub-Multisets With Bounded Sum](./problems/2900-2999/2902/README.md)                                         |        | Hard   |             |      |
+| 2903 | [Find Indices With Index and Value Difference I](./problems/2900-2999/2903/README.md)                                  |        | Easy   |             |      |
+| 2904 | [Shortest and Lexicographically Smallest Beautiful String](./problems/2900-2999/2904/README.md)                        |        | Medium |             |      |
+| 2905 | [Find Indices With Index and Value Difference II](./problems/2900-2999/2905/README.md)                                 |        | Medium |             |      |
+| 2906 | [Construct Product Matrix](./problems/2900-2999/2906/README.md)                                                        |        | Medium |             |      |
+| 2907 | [Maximum Profitable Triplets With Increasing Prices I](./problems/2900-2999/2907/README.md)                            | :lock: | Medium |             |      |
+| 2908 | [Minimum Sum of Mountain Triplets I](./problems/2900-2999/2908/README.md)                                              |        | Easy   |             |      |
+| 2909 | [Minimum Sum of Mountain Triplets II](./problems/2900-2999/2909/README.md)                                             |        | Medium |             |      |
+| 2910 | [Minimum Number of Groups to Create a Valid Assignment](./problems/2900-2999/2910/README.md)                           |        | Medium |             |      |
+| 2911 | [Minimum Changes to Make K Semi-palindromes](./problems/2900-2999/2911/README.md)                                      |        | Hard   |             |      |
+| 2912 | [Number of Ways to Reach Destination in the Grid](./problems/2900-2999/2912/README.md)                                 | :lock: | Hard   |             |      |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](./problems/2900-2999/2913/README.md)                                     |        | Easy   |             |      |
+| 2914 | [Minimum Number of Changes to Make Binary String Beautiful](./problems/2900-2999/2914/README.md)                       |        | Medium |             |      |
+| 2915 | [Length of the Longest Subsequence That Sums to Target](./problems/2900-2999/2915/README.md)                           |        | Medium |             |      |
+| 2916 | [Subarrays Distinct Element Sum of Squares II](./problems/2900-2999/2916/README.md)                                    |        | Hard   |             |      |
+| 2917 | [Find the K-or of an Array](./problems/2900-2999/2917/README.md)                                                       |        | Easy   |             |      |
+| 2918 | [Minimum Equal Sum of Two Arrays After Replacing Zeros](./problems/2900-2999/2918/README.md)                           |        | Medium |             |      |
+| 2919 | [Minimum Increment Operations to Make Array Beautiful](./problems/2900-2999/2919/README.md)                            |        | Medium |             |      |
+| 2920 | [Maximum Points After Collecting Coins From All Nodes](./problems/2900-2999/2920/README.md)                            |        | Hard   |             |      |
+| 2921 | [Maximum Profitable Triplets With Increasing Prices II](./problems/2900-2999/2921/README.md)                           | :lock: | Hard   |             |      |
+| 2922 | [Market Analysis III](./problems/2900-2999/2922/README.md)                                                             | :lock: | Medium |             |      |
+| 2923 | [Find Champion I](./problems/2900-2999/2923/README.md)                                                                 |        | Easy   |             |      |
+| 2924 | [Find Champion II](./problems/2900-2999/2924/README.md)                                                                |        | Medium |             |      |
+| 2925 | [Maximum Score After Applying Operations on a Tree](./problems/2900-2999/2925/README.md)                               |        | Medium |             |      |
+| 2926 | [Maximum Balanced Subsequence Sum](./problems/2900-2999/2926/README.md)                                                |        | Hard   |             |      |
+| 2927 | [Distribute Candies Among Children III](./problems/2900-2999/2927/README.md)                                           | :lock: | Hard   |             |      |
+| 2928 | [Distribute Candies Among Children I](./problems/2900-2999/2928/README.md)                                             |        | Easy   |             |      |
+| 2929 | [Distribute Candies Among Children II](./problems/2900-2999/2929/README.md)                                            |        | Medium |             |      |
+| 2930 | [Number of Strings Which Can Be Rearranged to Contain Substring](./problems/2900-2999/2930/README.md)                  |        | Medium |             |      |
+| 2931 | [Maximum Spending After Buying Items](./problems/2900-2999/2931/README.md)                                             |        | Hard   |             |      |
+| 2932 | [Maximum Strong Pair XOR I](./problems/2900-2999/2932/README.md)                                                       |        | Easy   |             |      |
+| 2933 | [High-Access Employees](./problems/2900-2999/2933/README.md)                                                           |        | Medium |             |      |
+| 2934 | [Minimum Operations to Maximize Last Elements in Arrays](./problems/2900-2999/2934/README.md)                          |        | Medium |             |      |
+| 2935 | [Maximum Strong Pair XOR II](./problems/2900-2999/2935/README.md)                                                      |        | Hard   |             |      |
+| 2936 | [Number of Equal Numbers Blocks](./problems/2900-2999/2936/README.md)                                                  | :lock: | Medium |             |      |
+| 2937 | [Make Three Strings Equal](./problems/2900-2999/2937/README.md)                                                        |        | Easy   |             |      |
+| 2938 | [Separate Black and White Balls](./problems/2900-2999/2938/README.md)                                                  |        | Medium |             |      |
+| 2939 | [Maximum Xor Product](./problems/2900-2999/2939/README.md)                                                             |        | Medium |             |      |
+| 2940 | [Find Building Where Alice and Bob Can Meet](./problems/2900-2999/2940/README.md)                                      |        | Hard   |             |      |
+| 2941 | [Maximum GCD-Sum of a Subarray](./problems/2900-2999/2941/README.md)                                                   | :lock: | Hard   |             |      |
+| 2942 | [Find Words Containing Character](./problems/2900-2999/2942/README.md)                                                 |        | Easy   |             |      |
+| 2943 | [Maximize Area of Square Hole in Grid](./problems/2900-2999/2943/README.md)                                            |        | Medium |             |      |
+| 2944 | [Minimum Number of Coins for Fruits](./problems/2900-2999/2944/README.md)                                              |        | Medium |             |      |
+| 2945 | [Find Maximum Non-decreasing Array Length](./problems/2900-2999/2945/README.md)                                        |        | Hard   |             |      |
+| 2946 | [Matrix Similarity After Cyclic Shifts](./problems/2900-2999/2946/README.md)                                           |        | Easy   |             |      |
+| 2947 | [Count Beautiful Substrings I](./problems/2900-2999/2947/README.md)                                                    |        | Medium |             |      |
+| 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./problems/2900-2999/2948/README.md)                      |        | Medium |             |      |
+| 2949 | [Count Beautiful Substrings II](./problems/2900-2999/2949/README.md)                                                   |        | Hard   |             |      |
+| 2950 | [Number of Divisible Substrings](./problems/2900-2999/2950/README.md)                                                  | :lock: | Medium |             |      |
+| 2951 | [Find the Peaks](./problems/2900-2999/2951/README.md)                                                                  |        | Easy   |             |      |
+| 2952 | [Minimum Number of Coins to be Added](./problems/2900-2999/2952/README.md)                                             |        | Medium |             |      |
+| 2953 | [Count Complete Substrings](./problems/2900-2999/2953/README.md)                                                       |        | Hard   |             |      |
+| 2954 | [Count the Number of Infection Sequences](./problems/2900-2999/2954/README.md)                                         |        | Hard   |             |      |
+| 2955 | [Number of Same-End Substrings](./problems/2900-2999/2955/README.md)                                                   | :lock: | Medium |             |      |
+| 2956 | [Find Common Elements Between Two Arrays](./problems/2900-2999/2956/README.md)                                         |        | Easy   |             |      |
+| 2957 | [Remove Adjacent Almost-Equal Characters](./problems/2900-2999/2957/README.md)                                         |        | Medium |             |      |
+| 2958 | [Length of Longest Subarray With at Most K Frequency](./problems/2900-2999/2958/README.md)                             |        | Medium |             |      |
+| 2959 | [Number of Possible Sets of Closing Branches](./problems/2900-2999/2959/README.md)                                     |        | Hard   |             |      |
+| 2960 | [Count Tested Devices After Test Operations](./problems/2900-2999/2960/README.md)                                      |        | Easy   |             |      |
+| 2961 | [Double Modular Exponentiation](./problems/2900-2999/2961/README.md)                                                   |        | Medium |             |      |
+| 2962 | [Count Subarrays Where Max Element Appears at Least K Times](./problems/2900-2999/2962/README.md)                      |        | Medium |             |      |
+| 2963 | [Count the Number of Good Partitions](./problems/2900-2999/2963/README.md)                                             |        | Hard   |             |      |
+| 2964 | [Number of Divisible Triplet Sums](./problems/2900-2999/2964/README.md)                                                | :lock: | Medium |             |      |
+| 2965 | [Find Missing and Repeated Values](./problems/2900-2999/2965/README.md)                                                |        | Easy   |             |      |
+| 2966 | [Divide Array Into Arrays With Max Difference](./problems/2900-2999/2966/README.md)                                    |        | Medium |             |      |
+| 2967 | [Minimum Cost to Make Array Equalindromic](./problems/2900-2999/2967/README.md)                                        |        | Medium |             |      |
+| 2968 | [Apply Operations to Maximize Frequency Score](./problems/2900-2999/2968/README.md)                                    |        | Hard   |             |      |
+| 2969 | [Minimum Number of Coins for Fruits II](./problems/2900-2999/2969/README.md)                                           | :lock: | Hard   |             |      |
+| 2970 | [Count the Number of Incremovable Subarrays I](./problems/2900-2999/2970/README.md)                                    |        | Easy   |             |      |
+| 2971 | [Find Polygon With the Largest Perimeter](./problems/2900-2999/2971/README.md)                                         |        | Medium |             |      |
+| 2972 | [Count the Number of Incremovable Subarrays II](./problems/2900-2999/2972/README.md)                                   |        | Hard   |             |      |
+| 2973 | [Find Number of Coins to Place in Tree Nodes](./problems/2900-2999/2973/README.md)                                     |        | Hard   |             |      |
+| 2974 | [Minimum Number Game](./problems/2900-2999/2974/README.md)                                                             |        | Easy   |             |      |
+| 2975 | [Maximum Square Area by Removing Fences From a Field](./problems/2900-2999/2975/README.md)                             |        | Medium |             |      |
+| 2976 | [Minimum Cost to Convert String I](./problems/2900-2999/2976/README.md)                                                |        | Medium |             |      |
+| 2977 | [Minimum Cost to Convert String II](./problems/2900-2999/2977/README.md)                                               |        | Hard   |             |      |
+| 2978 | [Symmetric Coordinates](./problems/2900-2999/2978/README.md)                                                           | :lock: | Medium |             |      |
+| 2979 | [Most Expensive Item That Can Not Be Bought](./problems/2900-2999/2979/README.md)                                      | :lock: | Medium |             |      |
+| 2980 | [Check if Bitwise OR Has Trailing Zeros](./problems/2900-2999/2980/README.md)                                          |        | Easy   |             |      |
+| 2981 | [Find Longest Special Substring That Occurs Thrice I](./problems/2900-2999/2981/README.md)                             |        | Medium |             |      |
+| 2982 | [Find Longest Special Substring That Occurs Thrice II](./problems/2900-2999/2982/README.md)                            |        | Medium |             |      |
+| 2983 | [Palindrome Rearrangement Queries](./problems/2900-2999/2983/README.md)                                                |        | Hard   |             |      |
+| 2984 | [Find Peak Calling Hours for Each City](./problems/2900-2999/2984/README.md)                                           | :lock: | Medium |             |      |
+| 2985 | [Calculate Compressed Mean](./problems/2900-2999/2985/README.md)                                                       | :lock: | Easy   |             |      |
+| 2986 | [Find Third Transaction](./problems/2900-2999/2986/README.md)                                                          | :lock: | Medium |             |      |
+| 2987 | [Find Expensive Cities](./problems/2900-2999/2987/README.md)                                                           | :lock: | Easy   |             |      |
+| 2988 | [Manager of the Largest Department](./problems/2900-2999/2988/README.md)                                               | :lock: | Medium |             |      |
+| 2989 | [Class Performance](./problems/2900-2999/2989/README.md)                                                               | :lock: | Medium |             |      |
+| 2990 | [Loan Types](./problems/2900-2999/2990/README.md)                                                                      | :lock: | Easy   |             |      |
+| 2991 | [Top Three Wineries ](./problems/2900-2999/2991/README.md)                                                             | :lock: | Hard   |             |      |
+| 2992 | [Number of Self-Divisible Permutations](./problems/2900-2999/2992/README.md)                                           | :lock: | Medium |             |      |
+| 2993 | [Friday Purchases I](./problems/2900-2999/2993/README.md)                                                              | :lock: | Medium |             |      |
+| 2994 | [Friday Purchases II ](./problems/2900-2999/2994/README.md)                                                            | :lock: | Hard   |             |      |
+| 2995 | [Viewers Turned Streamers](./problems/2900-2999/2995/README.md)                                                        | :lock: | Hard   |             |      |
+| 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./problems/2900-2999/2996/README.md)                     |        | Easy   |             |      |
+| 2997 | [Minimum Number of Operations to Make Array XOR Equal to K](./problems/2900-2999/2997/README.md)                       |        | Medium |             |      |
+| 2998 | [Minimum Number of Operations to Make X and Y Equal](./problems/2900-2999/2998/README.md)                              |        | Medium |             |      |
+| 2999 | [Count the Number of Powerful Integers](./problems/2900-2999/2999/README.md)                                           |        | Hard   |             |      |
+| 3000 | [Maximum Area of Longest Diagonal Rectangle](./problems/3000-3099/3000/README.md)                                      |        | Easy   |             |      |
+| 3001 | [Minimum Moves to Capture The Queen](./problems/3000-3099/3001/README.md)                                              |        | Medium |             |      |
+| 3002 | [Maximum Size of a Set After Removals](./problems/3000-3099/3002/README.md)                                            |        | Medium |             |      |
+| 3003 | [Maximize the Number of Partitions After Operations](./problems/3000-3099/3003/README.md)                              |        | Hard   |             |      |
+| 3004 | [Maximum Subtree of the Same Color](./problems/3000-3099/3004/README.md)                                               | :lock: | Medium |             |      |
+| 3005 | [Count Elements With Maximum Frequency](./problems/3000-3099/3005/README.md)                                           |        | Easy   |             |      |
+| 3006 | [Find Beautiful Indices in the Given Array I](./problems/3000-3099/3006/README.md)                                     |        | Medium |             |      |
+| 3007 | [Maximum Number That Sum of the Prices Is Less Than or Equal to K](./problems/3000-3099/3007/README.md)                |        | Medium |             |      |
+| 3008 | [Find Beautiful Indices in the Given Array II](./problems/3000-3099/3008/README.md)                                    |        | Hard   |             |      |
+| 3009 | [Maximum Number of Intersections on the Chart](./problems/3000-3099/3009/README.md)                                    | :lock: | Hard   |             |      |
+| 3010 | [Divide an Array Into Subarrays With Minimum Cost I](./problems/3000-3099/3010/README.md)                              |        | Easy   |             |      |
+| 3011 | [Find if Array Can Be Sorted](./problems/3000-3099/3011/README.md)                                                     |        | Medium |             |      |
+| 3012 | [Minimize Length of Array Using Operations](./problems/3000-3099/3012/README.md)                                       |        | Medium |             |      |
+| 3013 | [Divide an Array Into Subarrays With Minimum Cost II](./problems/3000-3099/3013/README.md)                             |        | Hard   |             |      |
+| 3014 | [Minimum Number of Pushes to Type Word I](./problems/3000-3099/3014/README.md)                                         |        | Easy   |             |      |
+| 3015 | [Count the Number of Houses at a Certain Distance I](./problems/3000-3099/3015/README.md)                              |        | Medium |             |      |
+| 3016 | [Minimum Number of Pushes to Type Word II](./problems/3000-3099/3016/README.md)                                        |        | Medium |             |      |
+| 3017 | [Count the Number of Houses at a Certain Distance II](./problems/3000-3099/3017/README.md)                             |        | Hard   |             |      |
+| 3018 | [Maximum Number of Removal Queries That Can Be Processed I](./problems/3000-3099/3018/README.md)                       | :lock: | Hard   |             |      |
+| 3019 | [Number of Changing Keys](./problems/3000-3099/3019/README.md)                                                         |        | Easy   |             |      |
+| 3020 | [Find the Maximum Number of Elements in Subset](./problems/3000-3099/3020/README.md)                                   |        | Medium |             |      |
+| 3021 | [Alice and Bob Playing Flower Game](./problems/3000-3099/3021/README.md)                                               |        | Medium |             |      |
+| 3022 | [Minimize OR of Remaining Elements Using Operations](./problems/3000-3099/3022/README.md)                              |        | Hard   |             |      |
+| 3023 | [Find Pattern in Infinite Stream I](./problems/3000-3099/3023/README.md)                                               | :lock: | Medium |             |      |
+| 3024 | [Type of Triangle](./problems/3000-3099/3024/README.md)                                                                |        | Easy   |             |      |
+| 3025 | [Find the Number of Ways to Place People I](./problems/3000-3099/3025/README.md)                                       |        | Medium |             |      |
+| 3026 | [Maximum Good Subarray Sum](./problems/3000-3099/3026/README.md)                                                       |        | Medium |             |      |
+| 3027 | [Find the Number of Ways to Place People II](./problems/3000-3099/3027/README.md)                                      |        | Hard   |             |      |
+| 3028 | [Ant on the Boundary](./problems/3000-3099/3028/README.md)                                                             |        | Easy   |             |      |
+| 3029 | [Minimum Time to Revert Word to Initial State I](./problems/3000-3099/3029/README.md)                                  |        | Medium |             |      |
+| 3030 | [Find the Grid of Region Average](./problems/3000-3099/3030/README.md)                                                 |        | Medium |             |      |
+| 3031 | [Minimum Time to Revert Word to Initial State II](./problems/3000-3099/3031/README.md)                                 |        | Hard   |             |      |
+| 3032 | [Count Numbers With Unique Digits II](./problems/3000-3099/3032/README.md)                                             | :lock: | Easy   |             |      |
+| 3033 | [Modify the Matrix](./problems/3000-3099/3033/README.md)                                                               |        | Easy   |             |      |
+| 3034 | [Number of Subarrays That Match a Pattern I](./problems/3000-3099/3034/README.md)                                      |        | Medium |             |      |
+| 3035 | [Maximum Palindromes After Operations](./problems/3000-3099/3035/README.md)                                            |        | Medium |             |      |
+| 3036 | [Number of Subarrays That Match a Pattern II](./problems/3000-3099/3036/README.md)                                     |        | Hard   |             |      |
+| 3037 | [Find Pattern in Infinite Stream II](./problems/3000-3099/3037/README.md)                                              | :lock: | Hard   |             |      |
+| 3038 | [Maximum Number of Operations With the Same Score I](./problems/3000-3099/3038/README.md)                              |        | Easy   |             |      |
+| 3039 | [Apply Operations to Make String Empty](./problems/3000-3099/3039/README.md)                                           |        | Medium |             |      |
+| 3040 | [Maximum Number of Operations With the Same Score II](./problems/3000-3099/3040/README.md)                             |        | Medium |             |      |
+| 3041 | [Maximize Consecutive Elements in an Array After Modification](./problems/3000-3099/3041/README.md)                    |        | Hard   |             |      |
+| 3042 | [Count Prefix and Suffix Pairs I](./problems/3000-3099/3042/README.md)                                                 |        | Easy   |             |      |
+| 3043 | [Find the Length of the Longest Common Prefix](./problems/3000-3099/3043/README.md)                                    |        | Medium |             |      |
+| 3044 | [Most Frequent Prime](./problems/3000-3099/3044/README.md)                                                             |        | Medium |             |      |
+| 3045 | [Count Prefix and Suffix Pairs II](./problems/3000-3099/3045/README.md)                                                |        | Hard   |             |      |
+| 3046 | [Split the Array](./problems/3000-3099/3046/README.md)                                                                 |        | Easy   |             |      |
+| 3047 | [Find the Largest Area of Square Inside Two Rectangles](./problems/3000-3099/3047/README.md)                           |        | Medium |             |      |
+| 3048 | [Earliest Second to Mark Indices I](./problems/3000-3099/3048/README.md)                                               |        | Medium |             |      |
+| 3049 | [Earliest Second to Mark Indices II](./problems/3000-3099/3049/README.md)                                              |        | Hard   |             |      |
+| 3050 | [Pizza Toppings Cost Analysis](./problems/3000-3099/3050/README.md)                                                    | :lock: | Medium |             |      |
+| 3051 | [Find Candidates for Data Scientist Position](./problems/3000-3099/3051/README.md)                                     | :lock: | Easy   |             |      |
+| 3052 | [Maximize Items](./problems/3000-3099/3052/README.md)                                                                  | :lock: | Hard   |             |      |
+| 3053 | [Classifying Triangles by Lengths](./problems/3000-3099/3053/README.md)                                                | :lock: | Easy   |             |      |
+| 3054 | [Binary Tree Nodes](./problems/3000-3099/3054/README.md)                                                               | :lock: | Medium |             |      |
+| 3055 | [Top Percentile Fraud](./problems/3000-3099/3055/README.md)                                                            | :lock: | Medium |             |      |
+| 3056 | [Snaps Analysis](./problems/3000-3099/3056/README.md)                                                                  | :lock: | Medium |             |      |
+| 3057 | [Employees Project Allocation](./problems/3000-3099/3057/README.md)                                                    | :lock: | Hard   |             |      |
+| 3058 | [Friends With No Mutual Friends](./problems/3000-3099/3058/README.md)                                                  | :lock: | Medium |             |      |
+| 3059 | [Find All Unique Email Domains](./problems/3000-3099/3059/README.md)                                                   | :lock: | Easy   |             |      |
+| 3060 | [User Activities within Time Bounds](./problems/3000-3099/3060/README.md)                                              | :lock: | Hard   |             |      |
+| 3061 | [Calculate Trapping Rain Water](./problems/3000-3099/3061/README.md)                                                   | :lock: | Hard   |             |      |
+| 3062 | [Winner of the Linked List Game](./problems/3000-3099/3062/README.md)                                                  | :lock: | Easy   |             |      |
+| 3063 | [Linked List Frequency](./problems/3000-3099/3063/README.md)                                                           | :lock: | Easy   |             |      |
+| 3064 | [Guess the Number Using Bitwise Questions I](./problems/3000-3099/3064/README.md)                                      | :lock: | Medium |             |      |
+| 3065 | [Minimum Operations to Exceed Threshold Value I](./problems/3000-3099/3065/README.md)                                  |        | Easy   |             |      |
+| 3066 | [Minimum Operations to Exceed Threshold Value II](./problems/3000-3099/3066/README.md)                                 |        | Medium |             |      |
+| 3067 | [Count Pairs of Connectable Servers in a Weighted Tree Network](./problems/3000-3099/3067/README.md)                   |        | Medium |             |      |
+| 3068 | [Find the Maximum Sum of Node Values](./problems/3000-3099/3068/README.md)                                             |        | Hard   |             |      |
+| 3069 | [Distribute Elements Into Two Arrays I](./problems/3000-3099/3069/README.md)                                           |        | Easy   |             |      |
+| 3070 | [Count Submatrices with Top-Left Element and Sum Less Than k](./problems/3000-3099/3070/README.md)                     |        | Medium |             |      |
+| 3071 | [Minimum Operations to Write the Letter Y on a Grid](./problems/3000-3099/3071/README.md)                              |        | Medium |             |      |
+| 3072 | [Distribute Elements Into Two Arrays II](./problems/3000-3099/3072/README.md)                                          |        | Hard   |             |      |
+| 3073 | [Maximum Increasing Triplet Value](./problems/3000-3099/3073/README.md)                                                | :lock: | Medium |             |      |
+| 3074 | [Apple Redistribution into Boxes](./problems/3000-3099/3074/README.md)                                                 |        | Easy   |             |      |
+| 3075 | [Maximize Happiness of Selected Children](./problems/3000-3099/3075/README.md)                                         |        | Medium |             |      |
+| 3076 | [Shortest Uncommon Substring in an Array](./problems/3000-3099/3076/README.md)                                         |        | Medium |             |      |
+| 3077 | [Maximum Strength of K Disjoint Subarrays](./problems/3000-3099/3077/README.md)                                        |        | Hard   |             |      |
+| 3078 | [Match Alphanumerical Pattern in Matrix I](./problems/3000-3099/3078/README.md)                                        | :lock: | Medium |             |      |
+| 3079 | [Find the Sum of Encrypted Integers](./problems/3000-3099/3079/README.md)                                              |        | Easy   |             |      |
+| 3080 | [Mark Elements on Array by Performing Queries](./problems/3000-3099/3080/README.md)                                    |        | Medium |             |      |
+| 3081 | [Replace Question Marks in String to Minimize Its Value](./problems/3000-3099/3081/README.md)                          |        | Medium |             |      |
+| 3082 | [Find the Sum of the Power of All Subsequences](./problems/3000-3099/3082/README.md)                                   |        | Hard   |             |      |
+| 3083 | [Existence of a Substring in a String and Its Reverse](./problems/3000-3099/3083/README.md)                            |        | Easy   |             |      |
+| 3084 | [Count Substrings Starting and Ending with Given Character](./problems/3000-3099/3084/README.md)                       |        | Medium |             |      |
+| 3085 | [Minimum Deletions to Make String K-Special](./problems/3000-3099/3085/README.md)                                      |        | Medium |             |      |
+| 3086 | [Minimum Moves to Pick K Ones](./problems/3000-3099/3086/README.md)                                                    |        | Hard   |             |      |
+| 3087 | [Find Trending Hashtags](./problems/3000-3099/3087/README.md)                                                          | :lock: | Medium |             |      |
+| 3088 | [Make String Anti-palindrome](./problems/3000-3099/3088/README.md)                                                     | :lock: | Hard   |             |      |
+| 3089 | [Find Bursty Behavior](./problems/3000-3099/3089/README.md)                                                            | :lock: | Medium |             |      |
+| 3090 | [Maximum Length Substring With Two Occurrences](./problems/3000-3099/3090/README.md)                                   |        | Easy   |             |      |
+| 3091 | [Apply Operations to Make Sum of Array Greater Than or Equal to k](./problems/3000-3099/3091/README.md)                |        | Medium |             |      |
+| 3092 | [Most Frequent IDs](./problems/3000-3099/3092/README.md)                                                               |        | Medium |             |      |
+| 3093 | [Longest Common Suffix Queries](./problems/3000-3099/3093/README.md)                                                   |        | Hard   |             |      |
+| 3094 | [Guess the Number Using Bitwise Questions II](./problems/3000-3099/3094/README.md)                                     | :lock: | Medium |             |      |
+| 3095 | [Shortest Subarray With OR at Least K I](./problems/3000-3099/3095/README.md)                                          |        | Easy   |             |      |
+| 3096 | [Minimum Levels to Gain More Points](./problems/3000-3099/3096/README.md)                                              |        | Medium |             |      |
+| 3097 | [Shortest Subarray With OR at Least K II](./problems/3000-3099/3097/README.md)                                         |        | Medium |             |      |
+| 3098 | [Find the Sum of Subsequence Powers](./problems/3000-3099/3098/README.md)                                              |        | Hard   |             |      |
+| 3099 | [Harshad Number](./problems/3000-3099/3099/README.md)                                                                  |        | Easy   |             |      |
+| 3100 | [Water Bottles II](./problems/3100-3199/3100/README.md)                                                                |        | Medium |             |      |
+| 3101 | [Count Alternating Subarrays](./problems/3100-3199/3101/README.md)                                                     |        | Medium |             |      |
+| 3102 | [Minimize Manhattan Distances](./problems/3100-3199/3102/README.md)                                                    |        | Hard   |             |      |
+| 3103 | [Find Trending Hashtags II ](./problems/3100-3199/3103/README.md)                                                      | :lock: | Hard   |             |      |
+| 3104 | [Find Longest Self-Contained Substring](./problems/3100-3199/3104/README.md)                                           | :lock: | Hard   |             |      |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./problems/3100-3199/3105/README.md)                     |        | Easy   |             |      |
+| 3106 | [Lexicographically Smallest String After Operations With Constraint](./problems/3100-3199/3106/README.md)              |        | Medium |             |      |
+| 3107 | [Minimum Operations to Make Median of Array Equal to K](./problems/3100-3199/3107/README.md)                           |        | Medium |             |      |
+| 3108 | [Minimum Cost Walk in Weighted Graph](./problems/3100-3199/3108/README.md)                                             |        | Hard   |             |      |
+| 3109 | [Find the Index of Permutation](./problems/3100-3199/3109/README.md)                                                   | :lock: | Medium |             |      |
+| 3110 | [Score of a String](./problems/3100-3199/3110/README.md)                                                               |        | Easy   |             |      |
+| 3111 | [Minimum Rectangles to Cover Points](./problems/3100-3199/3111/README.md)                                              |        | Medium |             |      |
+| 3112 | [Minimum Time to Visit Disappearing Nodes](./problems/3100-3199/3112/README.md)                                        |        | Medium |             |      |
+| 3113 | [Find the Number of Subarrays Where Boundary Elements Are Maximum](./problems/3100-3199/3113/README.md)                |        | Hard   |             |      |
+| 3114 | [Latest Time You Can Obtain After Replacing Characters](./problems/3100-3199/3114/README.md)                           |        | Easy   |             |      |
+| 3115 | [Maximum Prime Difference](./problems/3100-3199/3115/README.md)                                                        |        | Medium |             |      |
+| 3116 | [Kth Smallest Amount With Single Denomination Combination](./problems/3100-3199/3116/README.md)                        |        | Hard   |             |      |
+| 3117 | [Minimum Sum of Values by Dividing Array](./problems/3100-3199/3117/README.md)                                         |        | Hard   |             |      |
+| 3118 | [Friday Purchase III ](./problems/3100-3199/3118/README.md)                                                            | :lock: | Medium |             |      |
+| 3119 | [Maximum Number of Potholes That Can Be Fixed](./problems/3100-3199/3119/README.md)                                    | :lock: | Medium |             |      |
+| 3120 | [Count the Number of Special Characters I](./problems/3100-3199/3120/README.md)                                        |        | Easy   |             |      |
+| 3121 | [Count the Number of Special Characters II](./problems/3100-3199/3121/README.md)                                       |        | Medium |             |      |
+| 3122 | [Minimum Number of Operations to Satisfy Conditions](./problems/3100-3199/3122/README.md)                              |        | Medium |             |      |
+| 3123 | [Find Edges in Shortest Paths](./problems/3100-3199/3123/README.md)                                                    |        | Hard   |             |      |
+| 3124 | [Find Longest Calls](./problems/3100-3199/3124/README.md)                                                              | :lock: | Medium |             |      |
+| 3125 | [Maximum Number That Makes Result of Bitwise AND Zero](./problems/3100-3199/3125/README.md)                            | :lock: | Medium |             |      |
+| 3126 | [Server Utilization Time](./problems/3100-3199/3126/README.md)                                                         | :lock: | Medium |             |      |
+| 3127 | [Make a Square with the Same Color](./problems/3100-3199/3127/README.md)                                               |        | Easy   |             |      |
+| 3128 | [Right Triangles](./problems/3100-3199/3128/README.md)                                                                 |        | Medium |             |      |
+| 3129 | [Find All Possible Stable Binary Arrays I](./problems/3100-3199/3129/README.md)                                        |        | Medium |             |      |
+| 3130 | [Find All Possible Stable Binary Arrays II](./problems/3100-3199/3130/README.md)                                       |        | Hard   |             |      |
+| 3131 | [Find the Integer Added to Array I](./problems/3100-3199/3131/README.md)                                               |        | Easy   |             |      |
+| 3132 | [Find the Integer Added to Array II](./problems/3100-3199/3132/README.md)                                              |        | Medium |             |      |
+| 3133 | [Minimum Array End](./problems/3100-3199/3133/README.md)                                                               |        | Medium |             |      |
+| 3134 | [Find the Median of the Uniqueness Array](./problems/3100-3199/3134/README.md)                                         |        | Hard   |             |      |
+| 3135 | [Equalize Strings by Adding or Removing Characters at Ends](./problems/3100-3199/3135/README.md)                       | :lock: | Medium |             |      |
+| 3136 | [Valid Word](./problems/3100-3199/3136/README.md)                                                                      |        | Easy   |             |      |
+| 3137 | [Minimum Number of Operations to Make Word K-Periodic](./problems/3100-3199/3137/README.md)                            |        | Medium |             |      |
+| 3138 | [Minimum Length of Anagram Concatenation](./problems/3100-3199/3138/README.md)                                         |        | Medium |             |      |
+| 3139 | [Minimum Cost to Equalize Array](./problems/3100-3199/3139/README.md)                                                  |        | Hard   |             |      |
+| 3140 | [Consecutive Available Seats II](./problems/3100-3199/3140/README.md)                                                  | :lock: | Medium |             |      |
+| 3141 | [Maximum Hamming Distances](./problems/3100-3199/3141/README.md)                                                       | :lock: | Hard   |             |      |
+| 3142 | [Check if Grid Satisfies Conditions](./problems/3100-3199/3142/README.md)                                              |        | Easy   |             |      |
+| 3143 | [Maximum Points Inside the Square](./problems/3100-3199/3143/README.md)                                                |        | Medium |             |      |
+| 3144 | [Minimum Substring Partition of Equal Character Frequency](./problems/3100-3199/3144/README.md)                        |        | Medium |             |      |
+| 3145 | [Find Products of Elements of Big Array](./problems/3100-3199/3145/README.md)                                          |        | Hard   |             |      |
+| 3146 | [Permutation Difference between Two Strings](./problems/3100-3199/3146/README.md)                                      |        | Easy   |             |      |
+| 3147 | [Taking Maximum Energy From the Mystic Dungeon](./problems/3100-3199/3147/README.md)                                   |        | Medium |             |      |
+| 3148 | [Maximum Difference Score in a Grid](./problems/3100-3199/3148/README.md)                                              |        | Medium |             |      |
+| 3149 | [Find the Minimum Cost Array Permutation](./problems/3100-3199/3149/README.md)                                         |        | Hard   |             |      |
+| 3150 | [Invalid Tweets II](./problems/3100-3199/3150/README.md)                                                               | :lock: | Easy   |             |      |
+| 3151 | [Special Array I](./problems/3100-3199/3151/README.md)                                                                 |        | Easy   |             |      |
+| 3152 | [Special Array II](./problems/3100-3199/3152/README.md)                                                                |        | Medium |             |      |
+| 3153 | [Sum of Digit Differences of All Pairs](./problems/3100-3199/3153/README.md)                                           |        | Medium |             |      |
+| 3154 | [Find Number of Ways to Reach the K-th Stair](./problems/3100-3199/3154/README.md)                                     |        | Hard   |             |      |
+| 3155 | [Maximum Number of Upgradable Servers](./problems/3100-3199/3155/README.md)                                            | :lock: | Medium |             |      |
+| 3156 | [Employee Task Duration and Concurrent Tasks](./problems/3100-3199/3156/README.md)                                     | :lock: | Hard   |             |      |
+| 3157 | [Find the Level of Tree with Minimum Sum](./problems/3100-3199/3157/README.md)                                         | :lock: | Medium |             |      |
+| 3158 | [Find the XOR of Numbers Which Appear Twice](./problems/3100-3199/3158/README.md)                                      |        | Easy   |             |      |
+| 3159 | [Find Occurrences of an Element in an Array](./problems/3100-3199/3159/README.md)                                      |        | Medium |             |      |
+| 3160 | [Find the Number of Distinct Colors Among the Balls](./problems/3100-3199/3160/README.md)                              |        | Medium |             |      |
+| 3161 | [Block Placement Queries](./problems/3100-3199/3161/README.md)                                                         |        | Hard   |             |      |
+| 3162 | [Find the Number of Good Pairs I](./problems/3100-3199/3162/README.md)                                                 |        | Easy   |             |      |
+| 3163 | [String Compression III](./problems/3100-3199/3163/README.md)                                                          |        | Medium |             |      |
+| 3164 | [Find the Number of Good Pairs II](./problems/3100-3199/3164/README.md)                                                |        | Medium |             |      |
+| 3165 | [Maximum Sum of Subsequence With Non-adjacent Elements](./problems/3100-3199/3165/README.md)                           |        | Hard   |             |      |
+| 3166 | [Calculate Parking Fees and Duration](./problems/3100-3199/3166/README.md)                                             | :lock: | Medium |             |      |
+| 3167 | [Better Compression of String](./problems/3100-3199/3167/README.md)                                                    | :lock: | Medium |             |      |
+| 3168 | [Minimum Number of Chairs in a Waiting Room](./problems/3100-3199/3168/README.md)                                      |        | Easy   |             |      |
+| 3169 | [Count Days Without Meetings](./problems/3100-3199/3169/README.md)                                                     |        | Medium |             |      |
+| 3170 | [Lexicographically Minimum String After Removing Stars](./problems/3100-3199/3170/README.md)                           |        | Medium |             |      |
+| 3171 | [Find Subarray With Bitwise OR Closest to K](./problems/3100-3199/3171/README.md)                                      |        | Hard   |             |      |
+| 3172 | [Second Day Verification](./problems/3100-3199/3172/README.md)                                                         | :lock: | Easy   |             |      |
+| 3173 | [Bitwise OR of Adjacent Elements](./problems/3100-3199/3173/README.md)                                                 | :lock: | Easy   |             |      |
+| 3174 | [Clear Digits](./problems/3100-3199/3174/README.md)                                                                    |        | Easy   |             |      |
+| 3175 | [Find The First Player to win K Games in a Row](./problems/3100-3199/3175/README.md)                                   |        | Medium |             |      |
+| 3176 | [Find the Maximum Length of a Good Subsequence I](./problems/3100-3199/3176/README.md)                                 |        | Medium |             |      |
+| 3177 | [Find the Maximum Length of a Good Subsequence II](./problems/3100-3199/3177/README.md)                                |        | Hard   |             |      |
+| 3178 | [Find the Child Who Has the Ball After K Seconds](./problems/3100-3199/3178/README.md)                                 |        | Easy   |             |      |
+| 3179 | [Find the N-th Value After K Seconds](./problems/3100-3199/3179/README.md)                                             |        | Medium |             |      |
+| 3180 | [Maximum Total Reward Using Operations I](./problems/3100-3199/3180/README.md)                                         |        | Medium |             |      |
+| 3181 | [Maximum Total Reward Using Operations II](./problems/3100-3199/3181/README.md)                                        |        | Hard   |             |      |
+| 3182 | [Find Top Scoring Students](./problems/3100-3199/3182/README.md)                                                       | :lock: | Medium |             |      |
+| 3183 | [The Number of Ways to Make the Sum](./problems/3100-3199/3183/README.md)                                              | :lock: | Medium |             |      |
+| 3184 | [Count Pairs That Form a Complete Day I](./problems/3100-3199/3184/README.md)                                          |        | Easy   |             |      |
+| 3185 | [Count Pairs That Form a Complete Day II](./problems/3100-3199/3185/README.md)                                         |        | Medium |             |      |
+| 3186 | [Maximum Total Damage With Spell Casting](./problems/3100-3199/3186/README.md)                                         |        | Medium |             |      |
+| 3187 | [Peaks in Array](./problems/3100-3199/3187/README.md)                                                                  |        | Hard   |             |      |
+| 3188 | [Find Top Scoring Students II](./problems/3100-3199/3188/README.md)                                                    | :lock: | Hard   |             |      |
+| 3189 | [Minimum Moves to Get a Peaceful Board](./problems/3100-3199/3189/README.md)                                           | :lock: | Medium |             |      |
+| 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](./problems/3100-3199/3190/README.md)                 |        | Easy   |             |      |
+| 3191 | [Minimum Operations to Make Binary Array Elements Equal to One I](./problems/3100-3199/3191/README.md)                 |        | Medium |             |      |
+| 3192 | [Minimum Operations to Make Binary Array Elements Equal to One II](./problems/3100-3199/3192/README.md)                |        | Medium |             |      |
+| 3193 | [Count the Number of Inversions](./problems/3100-3199/3193/README.md)                                                  |        | Hard   |             |      |
+| 3194 | [Minimum Average of Smallest and Largest Elements](./problems/3100-3199/3194/README.md)                                |        | Easy   |             |      |
+| 3195 | [Find the Minimum Area to Cover All Ones I](./problems/3100-3199/3195/README.md)                                       |        | Medium |             |      |
+| 3196 | [Maximize Total Cost of Alternating Subarrays](./problems/3100-3199/3196/README.md)                                    |        | Medium |             |      |
+| 3197 | [Find the Minimum Area to Cover All Ones II](./problems/3100-3199/3197/README.md)                                      |        | Hard   |             |      |
+| 3198 | [Find Cities in Each State](./problems/3100-3199/3198/README.md)                                                       | :lock: | Easy   |             |      |
+| 3199 | [Count Triplets with Even XOR Set Bits I](./problems/3100-3199/3199/README.md)                                         | :lock: | Easy   |             |      |
+| 3200 | [Maximum Height of a Triangle](./problems/3200-3299/3200/README.md)                                                    |        | Easy   |             |      |
+| 3201 | [Find the Maximum Length of Valid Subsequence I](./problems/3200-3299/3201/README.md)                                  |        | Medium |             |      |
+| 3202 | [Find the Maximum Length of Valid Subsequence II](./problems/3200-3299/3202/README.md)                                 |        | Medium |             |      |
+| 3203 | [Find Minimum Diameter After Merging Two Trees](./problems/3200-3299/3203/README.md)                                   |        | Hard   |             |      |
+| 3204 | [Bitwise User Permissions Analysis](./problems/3200-3299/3204/README.md)                                               | :lock: | Medium |             |      |
+| 3205 | [Maximum Array Hopping Score I](./problems/3200-3299/3205/README.md)                                                   | :lock: | Medium |             |      |
+| 3206 | [Alternating Groups I](./problems/3200-3299/3206/README.md)                                                            |        | Easy   |             |      |
+| 3207 | [Maximum Points After Enemy Battles](./problems/3200-3299/3207/README.md)                                              |        | Medium |             |      |
+| 3208 | [Alternating Groups II](./problems/3200-3299/3208/README.md)                                                           |        | Medium |             |      |
+| 3209 | [Number of Subarrays With AND Value of K](./problems/3200-3299/3209/README.md)                                         |        | Hard   |             |      |
+| 3210 | [Find the Encrypted String](./problems/3200-3299/3210/README.md)                                                       |        | Easy   |             |      |
+| 3211 | [Generate Binary Strings Without Adjacent Zeros](./problems/3200-3299/3211/README.md)                                  |        | Medium |             |      |
+| 3212 | [Count Submatrices With Equal Frequency of X and Y](./problems/3200-3299/3212/README.md)                               |        | Medium |             |      |
+| 3213 | [Construct String with Minimum Cost](./problems/3200-3299/3213/README.md)                                              |        | Hard   |             |      |
+| 3214 | [Year on Year Growth Rate](./problems/3200-3299/3214/README.md)                                                        | :lock: | Hard   |             |      |
+| 3215 | [Count Triplets with Even XOR Set Bits II](./problems/3200-3299/3215/README.md)                                        | :lock: | Medium |             |      |
+| 3216 | [Lexicographically Smallest String After a Swap](./problems/3200-3299/3216/README.md)                                  |        | Easy   |             |      |
+| 3217 | [Delete Nodes From Linked List Present in Array](./problems/3200-3299/3217/README.md)                                  |        | Medium |             |      |
+| 3218 | [Minimum Cost for Cutting Cake I](./problems/3200-3299/3218/README.md)                                                 |        | Medium |             |      |
+| 3219 | [Minimum Cost for Cutting Cake II](./problems/3200-3299/3219/README.md)                                                |        | Hard   |             |      |
+| 3220 | [Odd and Even Transactions](./problems/3200-3299/3220/README.md)                                                       | :soon: | Medium |             |      |
+| 3221 | [Maximum Array Hopping Score II](./problems/3200-3299/3221/README.md)                                                  | :lock: | Medium |             |      |
+| 3222 | [Find the Winning Player in Coin Game](./problems/3200-3299/3222/README.md)                                            |        | Easy   |             |      |
+| 3223 | [Minimum Length of String After Operations](./problems/3200-3299/3223/README.md)                                       |        | Medium |             |      |
+| 3224 | [Minimum Array Changes to Make Differences Equal](./problems/3200-3299/3224/README.md)                                 |        | Medium |             |      |
+| 3225 | [Maximum Score From Grid Operations](./problems/3200-3299/3225/README.md)                                              |        | Hard   |             |      |
+| 3226 | [Number of Bit Changes to Make Two Integers Equal](./problems/3200-3299/3226/README.md)                                |        | Easy   |             |      |
+| 3227 | [Vowels Game in a String](./problems/3200-3299/3227/README.md)                                                         |        | Medium |             |      |
+| 3228 | [Maximum Number of Operations to Move Ones to the End](./problems/3200-3299/3228/README.md)                            |        | Medium |             |      |
+| 3229 | [Minimum Operations to Make Array Equal to Target](./problems/3200-3299/3229/README.md)                                |        | Hard   |             |      |
+| 3230 | [Customer Purchasing Behavior Analysis](./problems/3200-3299/3230/README.md)                                           | :lock: | Medium |             |      |
+| 3231 | [Minimum Number of Increasing Subsequence to Be Removed](./problems/3200-3299/3231/README.md)                          | :lock: | Hard   |             |      |
+| 3232 | [Find if Digit Game Can Be Won](./problems/3200-3299/3232/README.md)                                                   |        | Easy   |             |      |
+| 3233 | [Find the Count of Numbers Which Are Not Special](./problems/3200-3299/3233/README.md)                                 |        | Medium |             |      |
+| 3234 | [Count the Number of Substrings With Dominant Ones](./problems/3200-3299/3234/README.md)                               |        | Medium |             |      |
+| 3235 | [Check if the Rectangle Corner Is Reachable](./problems/3200-3299/3235/README.md)                                      |        | Hard   |             |      |
+| 3236 | [CEO Subordinate Hierarchy](./problems/3200-3299/3236/README.md)                                                       | :lock: | Hard   |             |      |
+| 3237 | [Alt and Tab Simulation](./problems/3200-3299/3237/README.md)                                                          | :lock: | Medium |             |      |
+| 3238 | [Find the Number of Winning Players](./problems/3200-3299/3238/README.md)                                              |        | Easy   |             |      |
+| 3239 | [Minimum Number of Flips to Make Binary Grid Palindromic I](./problems/3200-3299/3239/README.md)                       |        | Medium |             |      |
+| 3240 | [Minimum Number of Flips to Make Binary Grid Palindromic II](./problems/3200-3299/3240/README.md)                      |        | Medium |             |      |
+| 3241 | [Time Taken to Mark All Nodes](./problems/3200-3299/3241/README.md)                                                    |        | Hard   |             |      |
+| 3242 | [Design Neighbor Sum Service](./problems/3200-3299/3242/README.md)                                                     |        | Easy   |             |      |
+| 3243 | [Shortest Distance After Road Addition Queries I](./problems/3200-3299/3243/README.md)                                 |        | Medium |             |      |
+| 3244 | [Shortest Distance After Road Addition Queries II](./problems/3200-3299/3244/README.md)                                |        | Hard   |             |      |
+| 3245 | [Alternating Groups III](./problems/3200-3299/3245/README.md)                                                          |        | Hard   |             |      |
+| 3246 | [Premier League Table Ranking](./problems/3200-3299/3246/README.md)                                                    | :lock: | Easy   |             |      |
+| 3247 | [Number of Subsequences with Odd Sum](./problems/3200-3299/3247/README.md)                                             | :lock: | Medium |             |      |
+| 3248 | [Snake in Matrix](./problems/3200-3299/3248/README.md)                                                                 |        | Easy   |             |      |
+| 3249 | [Count the Number of Good Nodes](./problems/3200-3299/3249/README.md)                                                  |        | Medium |             |      |
+| 3250 | [Find the Count of Monotonic Pairs I](./problems/3200-3299/3250/README.md)                                             |        | Hard   |             |      |
+| 3251 | [Find the Count of Monotonic Pairs II](./problems/3200-3299/3251/README.md)                                            |        | Hard   |             |      |
+| 3252 | [Premier League Table Ranking II](./problems/3200-3299/3252/README.md)                                                 | :lock: | Medium |             |      |
+| 3253 | [Construct String with Minimum Cost (Easy)](./problems/3200-3299/3253/README.md)                                       | :lock: | Medium |             |      |
+| 3254 | [Find the Power of K-Size Subarrays I](./problems/3200-3299/3254/README.md)                                            |        | Medium |             |      |
+| 3255 | [Find the Power of K-Size Subarrays II](./problems/3200-3299/3255/README.md)                                           |        | Medium |             |      |
+| 3256 | [Maximum Value Sum by Placing Three Rooks I](./problems/3200-3299/3256/README.md)                                      |        | Hard   |             |      |
+| 3257 | [Maximum Value Sum by Placing Three Rooks II](./problems/3200-3299/3257/README.md)                                     |        | Hard   |             |      |
+| 3258 | [Count Substrings That Satisfy K-Constraint I](./problems/3200-3299/3258/README.md)                                    |        | Easy   |             |      |
+| 3259 | [Maximum Energy Boost From Two Drinks](./problems/3200-3299/3259/README.md)                                            |        | Medium |             |      |
+| 3260 | [Find the Largest Palindrome Divisible by K](./problems/3200-3299/3260/README.md)                                      |        | Hard   |             |      |
+| 3261 | [Count Substrings That Satisfy K-Constraint II](./problems/3200-3299/3261/README.md)                                   |        | Hard   |             |      |
+| 3262 | [Find Overlapping Shifts](./problems/3200-3299/3262/README.md)                                                         | :lock: | Medium |             |      |
+| 3263 | [Convert Doubly Linked List to Array I](./problems/3200-3299/3263/README.md)                                           | :lock: | Easy   |             |      |
+| 3264 | [Final Array State After K Multiplication Operations I](./problems/3200-3299/3264/README.md)                           |        | Easy   |             |      |
+| 3265 | [Count Almost Equal Pairs I](./problems/3200-3299/3265/README.md)                                                      |        | Medium |             |      |
+| 3266 | [Final Array State After K Multiplication Operations II](./problems/3200-3299/3266/README.md)                          |        | Hard   |             |      |
+| 3267 | [Count Almost Equal Pairs II](./problems/3200-3299/3267/README.md)                                                     |        | Hard   |             |      |
+| 3268 | [Find Overlapping Shifts II](./problems/3200-3299/3268/README.md)                                                      | :lock: | Hard   |             |      |
+| 3269 | [Constructing Two Increasing Arrays](./problems/3200-3299/3269/README.md)                                              | :lock: | Hard   |             |      |
+| 3270 | [Find the Key of the Numbers](./problems/3200-3299/3270/README.md)                                                     |  :o:   | Easy   |             |      |
+| 3271 | [Hash Divided String](./problems/3200-3299/3271/README.md)                                                             |        | Medium |             |      |
+| 3272 | [Find the Count of Good Integers](./problems/3200-3299/3272/README.md)                                                 |        | Hard   |             |      |
+| 3273 | [Minimum Amount of Damage Dealt to Bob](./problems/3200-3299/3273/README.md)                                           |        | Hard   |             |      |
+| 3274 | [Check if Two Chessboard Squares Have the Same Color](./problems/3200-3299/3274/README.md)                             |        | Easy   |             |      |
+| 3275 | [K-th Nearest Obstacle Queries](./problems/3200-3299/3275/README.md)                                                   |        | Medium |             |      |
+| 3276 | [Select Cells in Grid With Maximum Score](./problems/3200-3299/3276/README.md)                                         |        | Hard   |             |      |
+| 3277 | [Maximum XOR Score Subarray Queries](./problems/3200-3299/3277/README.md)                                              |        | Hard   |             |      |
+| 3278 | [Find Candidates for Data Scientist Position II](./problems/3200-3299/3278/README.md)                                  | :lock: | Medium |             |      |
+| 3279 | [Maximum Total Area Occupied by Pistons](./problems/3200-3299/3279/README.md)                                          | :lock: | Hard   |             |      |
+| 3280 | [Convert Date to Binary](./problems/3200-3299/3280/README.md)                                                          |        | Easy   |             |      |
+| 3281 | [Maximize Score of Numbers in Ranges](./problems/3200-3299/3281/README.md)                                             |        | Medium |             |      |
+| 3282 | [Reach End of Array With Max Score](./problems/3200-3299/3282/README.md)                                               |        | Medium |             |      |
+| 3283 | [Maximum Number of Moves to Kill All Pawns](./problems/3200-3299/3283/README.md)                                       |        | Hard   |             |      |
+| 3284 | [Sum of Consecutive Subarrays](./problems/3200-3299/3284/README.md)                                                    | :lock: | Medium |             |      |
+| 3285 | [Find Indices of Stable Mountains](./problems/3200-3299/3285/README.md)                                                |        | Easy   |             |      |
+| 3286 | [Find a Safe Walk Through a Grid](./problems/3200-3299/3286/README.md)                                                 |        | Medium |             |      |
+| 3287 | [Find the Maximum Sequence Value of Array](./problems/3200-3299/3287/README.md)                                        |        | Hard   |             |      |
+| 3288 | [Length of the Longest Increasing Path](./problems/3200-3299/3288/README.md)                                           |        | Hard   |             |      |
+| 3289 | [The Two Sneaky Numbers of Digitville](./problems/3200-3299/3289/README.md)                                            |        | Easy   |             |      |
+| 3290 | [Maximum Multiplication Score](./problems/3200-3299/3290/README.md)                                                    |        | Medium |             |      |
+| 3291 | [Minimum Number of Valid Strings to Form Target I](./problems/3200-3299/3291/README.md)                                |        | Medium |             |      |
+| 3292 | [Minimum Number of Valid Strings to Form Target II](./problems/3200-3299/3292/README.md)                               |        | Hard   |             |      |
+| 3293 | [Calculate Product Final Price](./problems/3200-3299/3293/README.md)                                                   | :lock: | Medium |             |      |
+| 3294 | [Convert Doubly Linked List to Array II](./problems/3200-3299/3294/README.md)                                          | :lock: | Medium |             |      |
+| 3295 | [Report Spam Message](./problems/3200-3299/3295/README.md)                                                             |        | Medium |             |      |
+| 3296 | [Minimum Number of Seconds to Make Mountain Height Zero](./problems/3200-3299/3296/README.md)                          |        | Medium |             |      |
+| 3297 | [Count Substrings That Can Be Rearranged to Contain a String I](./problems/3200-3299/3297/README.md)                   |        | Medium |             |      |
+| 3298 | [Count Substrings That Can Be Rearranged to Contain a String II](./problems/3200-3299/3298/README.md)                  |        | Hard   |             |      |
+| 3299 | [Sum of Consecutive Subsequences](./problems/3200-3299/3299/README.md)                                                 | :lock: | Hard   |             |      |
+| 3300 | [Minimum Element After Replacement With Digit Sum](./problems/3300-3399/3300/README.md)                                |        | Easy   |             |      |
+| 3301 | [Maximize the Total Height of Unique Towers](./problems/3300-3399/3301/README.md)                                      |        | Medium |             |      |
+| 3302 | [Find the Lexicographically Smallest Valid Sequence](./problems/3300-3399/3302/README.md)                              |        | Medium |             |      |
+| 3303 | [Find the Occurrence of First Almost Equal Substring](./problems/3300-3399/3303/README.md)                             |        | Hard   |             |      |
+| 3304 | [Find the K-th Character in String Game I](./problems/3300-3399/3304/README.md)                                        |        | Easy   |             |      |
+| 3305 | [Count of Substrings Containing Every Vowel and K Consonants I](./problems/3300-3399/3305/README.md)                   |        | Medium |             |      |
+| 3306 | [Count of Substrings Containing Every Vowel and K Consonants II](./problems/3300-3399/3306/README.md)                  |        | Medium |             |      |
+| 3307 | [Find the K-th Character in String Game II](./problems/3300-3399/3307/README.md)                                       |        | Hard   |             |      |
+| 3308 | [Find Top Performing Driver](./problems/3300-3399/3308/README.md)                                                      | :lock: | Medium |             |      |
+| 3309 | [Maximum Possible Number by Binary Concatenation](./problems/3300-3399/3309/README.md)                                 |        | Medium |             |      |
+| 3310 | [Remove Methods From Project](./problems/3300-3399/3310/README.md)                                                     |        | Medium |             |      |
+| 3311 | [Construct 2D Grid Matching Graph Layout](./problems/3300-3399/3311/README.md)                                         |        | Hard   |             |      |
+| 3312 | [Sorted GCD Pair Queries](./problems/3300-3399/3312/README.md)                                                         |        | Hard   |             |      |
+| 3313 | [Find the Last Marked Nodes in Tree](./problems/3300-3399/3313/README.md)                                              | :lock: | Hard   |             |      |
+| 3314 | [Construct the Minimum Bitwise Array I](./problems/3300-3399/3314/README.md)                                           |        | Easy   |             |      |
+| 3315 | [Construct the Minimum Bitwise Array II](./problems/3300-3399/3315/README.md)                                          |        | Medium |             |      |
+| 3316 | [Find Maximum Removals From Source String](./problems/3300-3399/3316/README.md)                                        |        | Medium |             |      |
+| 3317 | [Find the Number of Possible Ways for an Event](./problems/3300-3399/3317/README.md)                                   |        | Hard   |             |      |
+| 3318 | [Find X-Sum of All K-Long Subarrays I](./problems/3300-3399/3318/README.md)                                            |        | Easy   |             |      |
+| 3319 | [K-th Largest Perfect Subtree Size in Binary Tree](./problems/3300-3399/3319/README.md)                                |        | Medium |             |      |
+| 3320 | [Count The Number of Winning Sequences](./problems/3300-3399/3320/README.md)                                           |        | Hard   |             |      |
+| 3321 | [Find X-Sum of All K-Long Subarrays II](./problems/3300-3399/3321/README.md)                                           |        | Hard   |             |      |
+| 3322 | [Premier League Table Ranking III](./problems/3300-3399/3322/README.md)                                                | :lock: | Medium |             |      |
+| 3323 | [Minimize Connected Groups by Inserting Interval](./problems/3300-3399/3323/README.md)                                 | :lock: | Medium |             |      |
+| 3324 | [Find the Sequence of Strings Appeared on the Screen](./problems/3300-3399/3324/README.md)                             |        | Medium |             |      |
+| 3325 | [Count Substrings With K-Frequency Characters I](./problems/3300-3399/3325/README.md)                                  |        | Medium |             |      |
+| 3326 | [Minimum Division Operations to Make Array Non Decreasing](./problems/3300-3399/3326/README.md)                        |        | Medium |             |      |
+| 3327 | [Check if DFS Strings Are Palindromes](./problems/3300-3399/3327/README.md)                                            |        | Hard   |             |      |
+| 3328 | [Find Cities in Each State II](./problems/3300-3399/3328/README.md)                                                    | :lock: | Medium |             |      |
+| 3329 | [Count Substrings With K-Frequency Characters II](./problems/3300-3399/3329/README.md)                                 | :lock: | Hard   |             |      |
+| 3330 | [Find the Original Typed String I](./problems/3300-3399/3330/README.md)                                                |        | Easy   |             |      |
+| 3331 | [Find Subtree Sizes After Changes](./problems/3300-3399/3331/README.md)                                                |        | Medium |             |      |
+| 3332 | [Maximum Points Tourist Can Earn](./problems/3300-3399/3332/README.md)                                                 |        | Medium |             |      |
+| 3333 | [Find the Original Typed String II](./problems/3300-3399/3333/README.md)                                               |        | Hard   |             |      |
+| 3334 | [Find the Maximum Factor Score of Array](./problems/3300-3399/3334/README.md)                                          |        | Medium |             |      |
+| 3335 | [Total Characters in String After Transformations I](./problems/3300-3399/3335/README.md)                              |        | Medium |             |      |
+| 3336 | [Find the Number of Subsequences With Equal GCD](./problems/3300-3399/3336/README.md)                                  |        | Hard   |             |      |
+| 3337 | [Total Characters in String After Transformations II](./problems/3300-3399/3337/README.md)                             |        | Hard   |             |      |
+| 3338 | [Second Highest Salary II](./problems/3300-3399/3338/README.md)                                                        | :lock: | Medium |             |      |
+| 3339 | [Find the Number of K-Even Arrays](./problems/3300-3399/3339/README.md)                                                | :lock: | Medium |             |      |
+| 3340 | [Check Balanced String](./problems/3300-3399/3340/README.md)                                                           |        | Easy   |             |      |
+| 3341 | [Find Minimum Time to Reach Last Room I](./problems/3300-3399/3341/README.md)                                          |        | Medium |             |      |
+| 3342 | [Find Minimum Time to Reach Last Room II](./problems/3300-3399/3342/README.md)                                         |        | Medium |             |      |
+| 3343 | [Count Number of Balanced Permutations](./problems/3300-3399/3343/README.md)                                           |        | Hard   |             |      |
+| 3344 | [Maximum Sized Array](./problems/3300-3399/3344/README.md)                                                             | :lock: | Medium |             |      |
+| 3345 | [Smallest Divisible Digit Product I](./problems/3300-3399/3345/README.md)                                              |        | Easy   |             |      |
+| 3346 | [Maximum Frequency of an Element After Performing Operations I](./problems/3300-3399/3346/README.md)                   |        | Medium |             |      |
+| 3347 | [Maximum Frequency of an Element After Performing Operations II](./problems/3300-3399/3347/README.md)                  |        | Hard   |             |      |
+| 3348 | [Smallest Divisible Digit Product II](./problems/3300-3399/3348/README.md)                                             |        | Hard   |             |      |
+| 3349 | [Adjacent Increasing Subarrays Detection I](./problems/3300-3399/3349/README.md)                                       |        | Easy   |             |      |
+| 3350 | [Adjacent Increasing Subarrays Detection II](./problems/3300-3399/3350/README.md)                                      |        | Medium |             |      |
+| 3351 | [Sum of Good Subsequences](./problems/3300-3399/3351/README.md)                                                        |        | Hard   |             |      |
+| 3352 | [Count K-Reducible Numbers Less Than N](./problems/3300-3399/3352/README.md)                                           |        | Hard   |             |      |
+| 3353 | [Minimum Total Operations](./problems/3300-3399/3353/README.md)                                                        | :lock: | Easy   |             |      |
+| 3354 | [Make Array Elements Equal to Zero](./problems/3300-3399/3354/README.md)                                               |        | Easy   |             |      |
+| 3355 | [Zero Array Transformation I](./problems/3300-3399/3355/README.md)                                                     |        | Medium |             |      |
+| 3356 | [Zero Array Transformation II](./problems/3300-3399/3356/README.md)                                                    |        | Medium |             |      |
+| 3357 | [Minimize the Maximum Adjacent Element Difference](./problems/3300-3399/3357/README.md)                                |        | Hard   |             |      |
+| 3358 | [Books with NULL Ratings](./problems/3300-3399/3358/README.md)                                                         | :lock: | Easy   |             |      |
+| 3359 | [Find Sorted Submatrices With Maximum Element at Most K](./problems/3300-3399/3359/README.md)                          | :lock: | Hard   |             |      |
+| 3360 | [Stone Removal Game](./problems/3300-3399/3360/README.md)                                                              |        | Easy   |             |      |
+| 3361 | [Shift Distance Between Two Strings](./problems/3300-3399/3361/README.md)                                              |        | Medium |             |      |
+| 3362 | [Zero Array Transformation III](./problems/3300-3399/3362/README.md)                                                   |        | Medium |             |      |
+| 3363 | [Find the Maximum Number of Fruits Collected](./problems/3300-3399/3363/README.md)                                     |        | Hard   |             |      |
+| 3364 | [Minimum Positive Sum Subarray ](./problems/3300-3399/3364/README.md)                                                  |        | Easy   |             |      |
+| 3365 | [Rearrange K Substrings to Form Target String](./problems/3300-3399/3365/README.md)                                    |        | Medium |             |      |
+| 3366 | [Minimum Array Sum](./problems/3300-3399/3366/README.md)                                                               |        | Medium |             |      |
+| 3367 | [Maximize Sum of Weights after Edge Removals](./problems/3300-3399/3367/README.md)                                     |        | Hard   |             |      |
+| 3368 | [First Letter Capitalization](./problems/3300-3399/3368/README.md)                                                     | :lock: | Hard   |             |      |
+| 3369 | [Design an Array Statistics Tracker ](./problems/3300-3399/3369/README.md)                                             | :lock: | Hard   |             |      |
+| 3370 | [Smallest Number With All Set Bits](./problems/3300-3399/3370/README.md)                                               |        | Easy   |             |      |
+| 3371 | [Identify the Largest Outlier in an Array](./problems/3300-3399/3371/README.md)                                        |        | Medium |             |      |
+| 3372 | [Maximize the Number of Target Nodes After Connecting Trees I](./problems/3300-3399/3372/README.md)                    |        | Medium |             |      |
+| 3373 | [Maximize the Number of Target Nodes After Connecting Trees II](./problems/3300-3399/3373/README.md)                   |        | Hard   |             |      |
+| 3374 | [First Letter Capitalization II](./problems/3300-3399/3374/README.md)                                                  | :soon: | Hard   |             |      |
+| 3375 | [Minimum Operations to Make Array Values Equal to K](./problems/3300-3399/3375/README.md)                              |        | Easy   |             |      |
+| 3376 | [Minimum Time to Break Locks I](./problems/3300-3399/3376/README.md)                                                   |        | Medium |             |      |
+| 3377 | [Digit Operations to Make Two Integers Equal](./problems/3300-3399/3377/README.md)                                     |        | Medium |             |      |
+| 3378 | [Count Connected Components in LCM Graph](./problems/3300-3399/3378/README.md)                                         |        | Hard   |             |      |
+| 3379 | [Transformed Array](./problems/3300-3399/3379/README.md)                                                               |        | Easy   |             |      |
+| 3380 | [Maximum Area Rectangle With Point Constraints I](./problems/3300-3399/3380/README.md)                                 |        | Medium |             |      |
+| 3381 | [Maximum Subarray Sum With Length Divisible by K](./problems/3300-3399/3381/README.md)                                 |        | Medium |             |      |
+| 3382 | [Maximum Area Rectangle With Point Constraints II](./problems/3300-3399/3382/README.md)                                |        | Hard   |             |      |
+| 3383 | [Minimum Runes to Add to Cast Spell](./problems/3300-3399/3383/README.md)                                              | :lock: | Hard   |             |      |
+| 3384 | [Team Dominance by Pass Success](./problems/3300-3399/3384/README.md)                                                  | :lock: | Hard   |             |      |
+| 3385 | [Minimum Time to Break Locks II](./problems/3300-3399/3385/README.md)                                                  | :lock: | Hard   |             |      |
+| 3386 | [Button with Longest Push Time](./problems/3300-3399/3386/README.md)                                                   |        | Easy   |             |      |
+| 3387 | [Maximize Amount After Two Days of Conversions](./problems/3300-3399/3387/README.md)                                   |        | Medium |             |      |
+| 3388 | [Count Beautiful Splits in an Array](./problems/3300-3399/3388/README.md)                                              |        | Medium |             |      |
+| 3389 | [Minimum Operations to Make Character Frequencies Equal](./problems/3300-3399/3389/README.md)                          |        | Hard   |             |      |
+| 3390 | [Longest Team Pass Streak](./problems/3300-3399/3390/README.md)                                                        | :lock: | Hard   |             |      |
+| 3391 | [Design a 3D Binary Matrix with Efficient Layer Tracking](./problems/3300-3399/3391/README.md)                         | :lock: | Medium |             |      |

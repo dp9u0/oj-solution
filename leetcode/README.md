@@ -2097,3 +2097,4 @@ npm run ok [tr] # finished and set topic 'tree'
 | 2081 | [Sum of k-Mirror Numbers](./problems/2000-2099/2081/README.md)                                                         |        | Hard   |             |      |
 | 2082 | [The Number of Rich Customers](./problems/2000-2099/2082/README.md)                                                    | :lock: | Easy   |             |      |
 | 2083 | [Substrings That Begin and End With the Same Letter](./problems/2000-2099/2083/README.md)                              | :lock: | Medium |             |      |
+| 3270 | [Find the Key of the Numbers](./problems/3200-3299/3270/README.md) | :o: | Easy | [[str]] |   |

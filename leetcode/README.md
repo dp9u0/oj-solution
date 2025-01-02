@@ -343,7 +343,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 261  | [Graph Valid Tree](./problems/200-299/261/README.md)                                                                   | :lock: | Medium |             |      |
 | 262  | [Trips and Users](./problems/200-299/262/README.md)                                                                    | :soon: | Hard   | [sql]       |      |
 | 263  | [Ugly Number](./problems/200-299/263/README.md)                                                                        | :o:    | Easy   | [math]      |      |
-| 264  | [Ugly Number II](./problems/200-299/264/README.md)                                                                     | :o:    | Medium | [[dp]]      |      |
+| 264  | [Ugly Number II](./problems/200-299/264/README.md)                                                                     | :o:    | Medium | [dp]        |      |
 | 265  | [Paint House II](./problems/200-299/265/README.md)                                                                     | :lock: | Hard   |             |      |
 | 266  | [Palindrome Permutation](./problems/200-299/266/README.md)                                                             | :lock: | Easy   |             |      |
 | 267  | [Palindrome Permutation II](./problems/200-299/267/README.md)                                                          | :lock: | Medium |             |      |
@@ -352,7 +352,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 270  | [Closest Binary Search Tree Value](./problems/200-299/270/README.md)                                                   | :lock: | Easy   |             |      |
 | 271  | [Encode and Decode Strings](./problems/200-299/271/README.md)                                                          | :lock: | Medium |             |      |
 | 272  | [Closest Binary Search Tree Value II](./problems/200-299/272/README.md)                                                | :lock: | Hard   |             |      |
-| 273 | [Integer to English Words](./problems/200-299/273/README.md) | :o: | Hard | [math] |   |
+| 273  | [Integer to English Words](./problems/200-299/273/README.md)                                                           | :o:    | Hard   | [math]      |      |
 | 274  | [H-Index](./problems/200-299/274/README.md)                                                                            |        | Medium |             |      |
 | 275  | [H-Index II](./problems/200-299/275/README.md)                                                                         |        | Medium |             |      |
 | 276  | [Paint Fence](./problems/200-299/276/README.md)                                                                        | :lock: | Easy   |             |      |

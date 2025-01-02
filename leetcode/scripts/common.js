@@ -119,7 +119,7 @@ module.exports.creteMarkdown = function (data) {
       line = line.trim();
       line = line.replace(/<\/?[^>]+(>|$)/g, "");
       line = decodeURIComponent(line);
-      line = line.replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&nbsp;/g, "");
+      line = line.replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&nbsp;/g, "").replace(/&quot;/g,"'");
       line = line.trim();
       markdown += line + '\n';
     }

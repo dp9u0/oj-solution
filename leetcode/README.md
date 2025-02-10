@@ -1079,7 +1079,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1002 | [Find Common Characters](./problems/1000-1099/1002/README.md)                                                          | :o:    | Easy   | [[hsh]]     |      |
 | 1003 | [Check If Word Is Valid After Substitutions](./problems/1000-1099/1003/README.md)                                      |        | Medium |             |      |
 | 1004 | [Max Consecutive Ones III](./problems/1000-1099/1004/README.md)                                                        |        | Medium |             |      |
-| 1005 | [Maximize Sum Of Array After K Negations](./problems/1000-1099/1005/README.md)                                         |        | Easy   |             |      |
+| 1005 | [Maximize Sum Of Array After K Negations](./problems/1000-1099/1005/README.md) | :o: | Easy | [arr] |   |
 | 1006 | [Clumsy Factorial](./problems/1000-1099/1006/README.md)                                                                |        | Medium |             |      |
 | 1007 | [Minimum Domino Rotations For Equal Row](./problems/1000-1099/1007/README.md)                                          |        | Medium |             |      |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](./problems/1000-1099/1008/README.md)                            |        | Medium |             |      |

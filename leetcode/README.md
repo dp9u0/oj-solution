@@ -361,7 +361,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 279  | [Perfect Squares](./problems/200-299/279/README.md)                                                                    | :o:    | Medium | [math]      |      |
 | 280  | [Wiggle Sort](./problems/200-299/280/README.md)                                                                        | :lock: | Medium |             |      |
 | 281  | [Zigzag Iterator](./problems/200-299/281/README.md)                                                                    | :lock: | Medium |             |      |
-| 282  | [Expression Add Operators](./problems/200-299/282/README.md)                                                           |        | Hard   |             |      |
+| 282 | [Expression Add Operators](./problems/200-299/282/README.md) | :o: | Hard | [none] |   |
 | 283  | [Move Zeroes](./problems/200-299/283/README.md)                                                                        | :o:    | Easy   | [arr]       |      |
 | 284  | [Peeking Iterator](./problems/200-299/284/README.md)                                                                   |        | Medium |             |      |
 | 285  | [Inorder Successor in BST](./problems/200-299/285/README.md)                                                           | :lock: | Medium |             |      |

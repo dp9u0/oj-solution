@@ -1096,7 +1096,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 1019 | [Next Greater Node In Linked List](./problems/1000-1099/1019/README.md)                                                |        | Medium |             |      |
 | 1020 | [Number of Enclaves](./problems/1000-1099/1020/README.md)                                                              |        | Medium |             |      |
 | 1021 | [Remove Outermost Parentheses](./problems/1000-1099/1021/README.md) | :o: | Easy | [none] |   |
-| 1022 | [Sum of Root To Leaf Binary Numbers](./problems/1000-1099/1022/README.md)                                              |        | Easy   |             |      |
+| 1022 | [Sum of Root To Leaf Binary Numbers](./problems/1000-1099/1022/README.md) | :o: | Easy | [tr] |   |
 | 1023 | [Camelcase Matching](./problems/1000-1099/1023/README.md)                                                              |        | Medium |             |      |
 | 1024 | [Video Stitching](./problems/1000-1099/1024/README.md)                                                                 |        | Medium |             |      |
 | 1025 | [Divisor Game](./problems/1000-1099/1025/README.md)                                                                    | :o:    | Easy   | [math]      |      |

@@ -353,7 +353,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 271  | [Encode and Decode Strings](./problems/200-299/271/README.md)                                                          | :lock: | Medium |             |      |
 | 272  | [Closest Binary Search Tree Value II](./problems/200-299/272/README.md)                                                | :lock: | Hard   |             |      |
 | 273  | [Integer to English Words](./problems/200-299/273/README.md)                                                           | :o:    | Hard   | [math]      |      |
-| 274  | [H-Index](./problems/200-299/274/README.md)                                                                            |        | Medium |             |      |
+| 274 | [H-Index](./problems/200-299/274/README.md) | :o: | Medium | [none] |   |
 | 275  | [H-Index II](./problems/200-299/275/README.md)                                                                         |        | Medium |             |      |
 | 276  | [Paint Fence](./problems/200-299/276/README.md)                                                                        | :lock: | Easy   |             |      |
 | 277  | [Find the Celebrity](./problems/200-299/277/README.md)                                                                 | :lock: | Medium |             |      |

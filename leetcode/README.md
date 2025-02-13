@@ -386,7 +386,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 304 | [Range Sum Query 2D - Immutable](./problems/300-399/304/README.md) | :o: | Medium | [none] |   |
 | 305  | [Number of Islands II](./problems/300-399/305/README.md)                                                               | :lock: | Hard   |             |      |
 | 306 | [Additive Number](./problems/300-399/306/README.md) | :o: | Medium | [none] |   |
-| 307  | [Range Sum Query - Mutable](./problems/300-399/307/README.md)                                                          |        | Medium |             |      |
+| 307 | [Range Sum Query - Mutable](./problems/300-399/307/README.md) | :o: | Medium | [none] |   |
 | 308  | [Range Sum Query 2D - Mutable](./problems/300-399/308/README.md)                                                       | :lock: | Hard   |             |      |
 | 309  | [Best Time to Buy and Sell Stock with Cooldown](./problems/300-399/309/README.md)                                      |        | Medium |             |      |
 | 310  | [Minimum Height Trees](./problems/300-399/310/README.md)                                                               |        | Medium |             |      |

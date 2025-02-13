@@ -389,7 +389,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 307 | [Range Sum Query - Mutable](./problems/300-399/307/README.md) | :o: | Medium | [none] |   |
 | 308  | [Range Sum Query 2D - Mutable](./problems/300-399/308/README.md)                                                       | :lock: | Hard   |             |      |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](./problems/300-399/309/README.md) | :o: | Medium | [none] |   |
-| 310  | [Minimum Height Trees](./problems/300-399/310/README.md)                                                               |        | Medium |             |      |
+| 310 | [Minimum Height Trees](./problems/300-399/310/README.md) | :o: | Medium | [none] |   |
 | 311  | [Sparse Matrix Multiplication](./problems/300-399/311/README.md)                                                       | :lock: | Medium |             |      |
 | 312  | [Burst Balloons](./problems/300-399/312/README.md)                                                                     |        | Hard   |             |      |
 | 313  | [Super Ugly Number](./problems/300-399/313/README.md)                                                                  |        | Medium |             |      |

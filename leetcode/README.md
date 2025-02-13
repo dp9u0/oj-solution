@@ -383,7 +383,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 301 | [Remove Invalid Parentheses](./problems/300-399/301/README.md) | :o: | Hard | [none] |   |
 | 302  | [Smallest Rectangle Enclosing Black Pixels](./problems/300-399/302/README.md)                                          | :lock: | Hard   |             |      |
 | 303  | [Range Sum Query - Immutable](./problems/300-399/303/README.md)                                                        | :o:    | Easy   | [dp]        | :+1: |
-| 304  | [Range Sum Query 2D - Immutable](./problems/300-399/304/README.md)                                                     |        | Medium |             |      |
+| 304 | [Range Sum Query 2D - Immutable](./problems/300-399/304/README.md) | :o: | Medium | [none] |   |
 | 305  | [Number of Islands II](./problems/300-399/305/README.md)                                                               | :lock: | Hard   |             |      |
 | 306  | [Additive Number](./problems/300-399/306/README.md)                                                                    |        | Medium |             |      |
 | 307  | [Range Sum Query - Mutable](./problems/300-399/307/README.md)                                                          |        | Medium |             |      |

@@ -391,7 +391,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](./problems/300-399/309/README.md) | :o: | Medium | [none] |   |
 | 310 | [Minimum Height Trees](./problems/300-399/310/README.md) | :o: | Medium | [none] |   |
 | 311  | [Sparse Matrix Multiplication](./problems/300-399/311/README.md)                                                       | :lock: | Medium |             |      |
-| 312  | [Burst Balloons](./problems/300-399/312/README.md)                                                                     |        | Hard   |             |      |
+| 312 | [Burst Balloons](./problems/300-399/312/README.md) | :o: | Hard | [none] |   |
 | 313  | [Super Ugly Number](./problems/300-399/313/README.md)                                                                  |        | Medium |             |      |
 | 314  | [Binary Tree Vertical Order Traversal](./problems/300-399/314/README.md)                                               | :lock: | Medium |             |      |
 | 315  | [Count of Smaller Numbers After Self](./problems/300-399/315/README.md)                                                | :o:    | Hard   | [tr],[arr]  | :+1: |

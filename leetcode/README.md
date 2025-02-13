@@ -380,7 +380,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 298  | [Binary Tree Longest Consecutive Sequence](./problems/200-299/298/README.md)                                           | :lock: | Medium |             |      |
 | 299  | [Bulls and Cows](./problems/200-299/299/README.md)                                                                     | :o:    | Easy   | [hsh]       |      |
 | 300  | [Longest Increasing Subsequence](./problems/300-399/300/README.md)                                                     | :o:    | Medium | [dp]        | :+1: |
-| 301  | [Remove Invalid Parentheses](./problems/300-399/301/README.md)                                                         |        | Hard   |             |      |
+| 301 | [Remove Invalid Parentheses](./problems/300-399/301/README.md) | :o: | Hard | [none] |   |
 | 302  | [Smallest Rectangle Enclosing Black Pixels](./problems/300-399/302/README.md)                                          | :lock: | Hard   |             |      |
 | 303  | [Range Sum Query - Immutable](./problems/300-399/303/README.md)                                                        | :o:    | Easy   | [dp]        | :+1: |
 | 304  | [Range Sum Query 2D - Immutable](./problems/300-399/304/README.md)                                                     |        | Medium |             |      |

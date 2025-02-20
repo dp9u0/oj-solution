@@ -395,7 +395,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 313 | [Super Ugly Number](./problems/300-399/313/README.md) | :o: | Medium | [none] |   |
 | 314  | [Binary Tree Vertical Order Traversal](./problems/300-399/314/README.md)                                               | :lock: | Medium |             |      |
 | 315  | [Count of Smaller Numbers After Self](./problems/300-399/315/README.md)                                                | :o:    | Hard   | [tr],[arr]  | :+1: |
-| 316  | [Remove Duplicate Letters](./problems/300-399/316/README.md)                                                           |        | Hard   |             |      |
+| 316 | [Remove Duplicate Letters](./problems/300-399/316/README.md) | :o: | Medium | [none] |   |
 | 317  | [Shortest Distance from All Buildings](./problems/300-399/317/README.md)                                               | :lock: | Hard   |             |      |
 | 318  | [Maximum Product of Word Lengths](./problems/300-399/318/README.md)                                                    |        | Medium |             |      |
 | 319  | [Bulb Switcher](./problems/300-399/319/README.md)                                                                      |        | Medium |             |      |

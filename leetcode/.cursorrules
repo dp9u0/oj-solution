@@ -1,0 +1,37 @@
+# Cursor Rules for LeetCode Problem Solutions in JavaScript
+
+## General Setup
+
+- 已经解决的题目按照题号放在problems 文件夹中
+- 正在解决的题目描述使用英文维护在 根目录 solving.md 文件中
+- 正在解决的题解使用 JavaScript 维护在 根目录 solution.js 文件中
+- 题目完成后，我会使用脚本工具将 solving.md 文件中的题目描述和 solution.js 文件中的题解，迁移到 problems 文件夹中对应的题目描述和题解文件中
+
+## JavaScript Practices
+
+- 使用函数声明来实现所有算法实现
+- 遵循 ES6 语法惯例，并优先使用箭头函数来实现匿名函数表达式
+- 为 JavaScript 文件实现模块导出，以启用单个问题解决方案的测试
+
+## Markdown Documentation
+
+- 在 Markdown 文件中使用清晰且简洁的格式来提高问题清晰度
+- 在 Markdown 文件中包含示例输入和输出作为代码块
+
+## Coding and Testing Practices
+
+- 使用 Jest 或 Mocha 来测试 JavaScript 解决方案
+- 确保在测试脚本中覆盖所有测试输入的边缘情况
+- 使用断言有效地衡量解决方案的正确性
+
+## Development Workflow
+
+- 解答题目时候先阅读 题目要求
+- 然后将题目翻译成中文，追加到原始题目后面
+- 然后将解题思路，追加到题目后面
+- 然后生成代码，并进行测试
+
+## Code Style
+
+- 使用 camelCase 为变量声明和函数名遵循一致的命名惯例
+- 使用 ESLint 进行代码质量检查和 Prettier 进行一致的格式化

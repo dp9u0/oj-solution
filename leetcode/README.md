@@ -406,7 +406,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 324 | [Wiggle Sort II](./problems/300-399/324/README.md) | :o: | Medium | [none] |   |
 | 325  | [Maximum Size Subarray Sum Equals k](./problems/300-399/325/README.md)                                                 | :lock: | Medium |             |      |
 | 326  | [Power of Three](./problems/300-399/326/README.md)                                                                     | :o:    | Easy   | [math]      |      |
-| 327  | [Count of Range Sum](./problems/300-399/327/README.md)                                                                 |        | Hard   |             |      |
+| 327 | [Count of Range Sum](./problems/300-399/327/README.md) | :o: | Hard | [arr] |   |
 | 328  | [Odd Even Linked List](./problems/300-399/328/README.md)                                                               | :o:    | Medium | [ll]        |      |
 | 329  | [Longest Increasing Path in a Matrix](./problems/300-399/329/README.md)                                                | :o:    | Hard   | [dfs]       | :+1: |
 | 330  | [Patching Array](./problems/300-399/330/README.md)                                                                     |        | Hard   |             |      |

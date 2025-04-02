@@ -2161,7 +2161,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 2145 | [Count the Hidden Sequences](./problems/2100-2199/2145/README.md)                                                      |        | Medium |             |      |
 | 2146 | [K Highest Ranked Items Within a Price Range](./problems/2100-2199/2146/README.md)                                     |        | Medium |             |      |
 | 2147 | [Number of Ways to Divide a Long Corridor](./problems/2100-2199/2147/README.md)                                        |        | Hard   |             |      |
-| 2148 | [Count Elements With Strictly Smaller and Greater Elements ](./problems/2100-2199/2148/README.md)                      |        | Easy   |             |      |
+| 2148 | [Count Elements With Strictly Smaller and Greater Elements](./problems/2100-2199/2148/README.md)                      |        | Easy   |             |      |
 | 2149 | [Rearrange Array Elements by Sign](./problems/2100-2199/2149/README.md)                                                |        | Medium |             |      |
 | 2150 | [Find All Lonely Numbers in the Array](./problems/2100-2199/2150/README.md)                                            |        | Medium |             |      |
 | 2151 | [Maximum Good People Based on Statements](./problems/2100-2199/2151/README.md)                                         |        | Hard   |             |      |
@@ -2280,7 +2280,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 2264 | [Largest 3-Same-Digit Number in String](./problems/2200-2299/2264/README.md)                                           |        | Easy   |             |      |
 | 2265 | [Count Nodes Equal to Average of Subtree](./problems/2200-2299/2265/README.md)                                         |        | Medium |             |      |
 | 2266 | [Count Number of Texts](./problems/2200-2299/2266/README.md)                                                           |        | Medium |             |      |
-| 2267 | [ Check if There Is a Valid Parentheses String Path](./problems/2200-2299/2267/README.md)                              |        | Hard   |             |      |
+| 2267 | [Check if There Is a Valid Parentheses String Path](./problems/2200-2299/2267/README.md)                              |        | Hard   |             |      |
 | 2268 | [Minimum Number of Keypresses](./problems/2200-2299/2268/README.md)                                                    | :lock: | Medium |             |      |
 | 2269 | [2269](./problems/2200-2299/2269/README.md)                                                                            |        | Easy   |             |      |
 | 2270 | [Number of Ways to Split Array](./problems/2200-2299/2270/README.md)                                                   |        | Medium |             |      |
@@ -2330,7 +2330,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 2314 | [The First Day of the Maximum Recorded Degree in Each City](./problems/2300-2399/2314/README.md)                       | :lock: | Medium |             |      |
 | 2315 | [Count Asterisks](./problems/2300-2399/2315/README.md)                                                                 |        | Easy   |             |      |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./problems/2300-2399/2316/README.md)                         |        | Medium |             |      |
-| 2317 | [Maximum XOR After Operations ](./problems/2300-2399/2317/README.md)                                                   |        | Medium |             |      |
+| 2317 | [Maximum XOR After Operations](./problems/2300-2399/2317/README.md)                                                   |        | Medium |             |      |
 | 2318 | [Number of Distinct Roll Sequences](./problems/2300-2399/2318/README.md)                                               |        | Hard   |             |      |
 | 2319 | [Check if Matrix Is X-Matrix](./problems/2300-2399/2319/README.md)                                                     |        | Easy   |             |      |
 | 2320 | [Count Number of Ways to Place Houses](./problems/2300-2399/2320/README.md)                                            |        | Medium |             |      |
@@ -2669,7 +2669,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 2653 | [Sliding Subarray Beauty](./problems/2600-2699/2653/README.md)                                                         |        | Medium |             |      |
 | 2654 | [Minimum Number of Operations to Make All Array Elements Equal to 1](./problems/2600-2699/2654/README.md)              |        | Medium |             |      |
 | 2655 | [Find Maximal Uncovered Ranges](./problems/2600-2699/2655/README.md)                                                   | :lock: | Medium |             |      |
-| 2656 | [Maximum Sum With Exactly K Elements ](./problems/2600-2699/2656/README.md)                                            |        | Easy   |             |      |
+| 2656 | [Maximum Sum With Exactly K Elements](./problems/2600-2699/2656/README.md)                                            |        | Easy   |             |      |
 | 2657 | [Find the Prefix Common Array of Two Arrays](./problems/2600-2699/2657/README.md)                                      |        | Medium |             |      |
 | 2658 | [Maximum Number of Fish in a Grid](./problems/2600-2699/2658/README.md)                                                |        | Medium |             |      |
 | 2659 | [Make Array Empty](./problems/2600-2699/2659/README.md)                                                                |        | Hard   |             |      |
@@ -2700,7 +2700,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 2684 | [Maximum Number of Moves in a Grid](./problems/2600-2699/2684/README.md)                                               |        | Medium |             |      |
 | 2685 | [Count the Number of Complete Components](./problems/2600-2699/2685/README.md)                                         |        | Medium |             |      |
 | 2686 | [Immediate Food Delivery III](./problems/2600-2699/2686/README.md)                                                     | :lock: | Medium |             |      |
-| 2687 | [Bikes Last Time Used ](./problems/2600-2699/2687/README.md)                                                           | :lock: | Easy   |             |      |
+| 2687 | [Bikes Last Time Us](./problems/2600-2699/2687/README.md)                                                           | :lock: | Easy   |             |      |
 | 2688 | [Find Active Users](./problems/2600-2699/2688/README.md)                                                               | :lock: | Medium |             |      |
 | 2689 | [Extract Kth Character From The Rope Tree](./problems/2600-2699/2689/README.md)                                        | :lock: | Easy   |             |      |
 | 2690 | [2690](./problems/2600-2699/2690/README.md)                                                                            |        | Easy   |             |      |
@@ -2791,7 +2791,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 2775 | [2775](./problems/2700-2799/2775/README.md)                                                                            |        | Easy   |             |      |
 | 2776 | [2776](./problems/2700-2799/2776/README.md)                                                                            |        | Easy   |             |      |
 | 2777 | [2777](./problems/2700-2799/2777/README.md)                                                                            |        | Easy   |             |      |
-| 2778 | [Sum of Squares of Special Elements ](./problems/2700-2799/2778/README.md)                                             |        | Easy   |             |      |
+| 2778 | [Sum of Squares of Special Elements](./problems/2700-2799/2778/README.md)                                             |        | Easy   |             |      |
 | 2779 | [Maximum Beauty of an Array After Applying Operation](./problems/2700-2799/2779/README.md)                             |        | Medium |             |      |
 | 2780 | [Minimum Index of a Valid Split](./problems/2700-2799/2780/README.md)                                                  |        | Medium |             |      |
 | 2781 | [Length of the Longest Valid Substring](./problems/2700-2799/2781/README.md)                                           |        | Hard   |             |      |
@@ -2856,7 +2856,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 2840 | [Check if Strings Can be Made Equal With Operations II](./problems/2800-2899/2840/README.md)                           |        | Medium |             |      |
 | 2841 | [Maximum Sum of Almost Unique Subarray](./problems/2800-2899/2841/README.md)                                           |        | Medium |             |      |
 | 2842 | [Count K-Subsequences of a String With Maximum Beauty](./problems/2800-2899/2842/README.md)                            |        | Hard   |             |      |
-| 2843 | [  Count Symmetric Integers](./problems/2800-2899/2843/README.md)                                                      |        | Easy   |             |      |
+| 2843 | [Count Symmetric Integers](./problems/2800-2899/2843/README.md)                                                      |        | Easy   |             |      |
 | 2844 | [Minimum Operations to Make a Special Number](./problems/2800-2899/2844/README.md)                                     |        | Medium |             |      |
 | 2845 | [Count of Interesting Subarrays](./problems/2800-2899/2845/README.md)                                                  |        | Medium |             |      |
 | 2846 | [Minimum Edge Weight Equilibrium Queries in a Tree](./problems/2800-2899/2846/README.md)                               |        | Hard   |             |      |
@@ -3004,10 +3004,10 @@ npm run ok [tr] # finished and set topic 'tree'
 | 2988 | [Manager of the Largest Department](./problems/2900-2999/2988/README.md)                                               | :lock: | Medium |             |      |
 | 2989 | [Class Performance](./problems/2900-2999/2989/README.md)                                                               | :lock: | Medium |             |      |
 | 2990 | [Loan Types](./problems/2900-2999/2990/README.md)                                                                      | :lock: | Easy   |             |      |
-| 2991 | [Top Three Wineries ](./problems/2900-2999/2991/README.md)                                                             | :lock: | Hard   |             |      |
+| 2991 | [Top Three Winerie](./problems/2900-2999/2991/README.md)                                                             | :lock: | Hard   |             |      |
 | 2992 | [Number of Self-Divisible Permutations](./problems/2900-2999/2992/README.md)                                           | :lock: | Medium |             |      |
 | 2993 | [Friday Purchases I](./problems/2900-2999/2993/README.md)                                                              | :lock: | Medium |             |      |
-| 2994 | [Friday Purchases II ](./problems/2900-2999/2994/README.md)                                                            | :lock: | Hard   |             |      |
+| 2994 | [Friday Purchases II](./problems/2900-2999/2994/README.md)                                                            | :lock: | Hard   |             |      |
 | 2995 | [Viewers Turned Streamers](./problems/2900-2999/2995/README.md)                                                        | :lock: | Hard   |             |      |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./problems/2900-2999/2996/README.md)                     |        | Easy   |             |      |
 | 2997 | [Minimum Number of Operations to Make Array XOR Equal to K](./problems/2900-2999/2997/README.md)                       |        | Medium |             |      |
@@ -3116,7 +3116,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 3100 | [Water Bottles II](./problems/3100-3199/3100/README.md)                                                                |        | Medium |             |      |
 | 3101 | [Count Alternating Subarrays](./problems/3100-3199/3101/README.md)                                                     |        | Medium |             |      |
 | 3102 | [Minimize Manhattan Distances](./problems/3100-3199/3102/README.md)                                                    |        | Hard   |             |      |
-| 3103 | [Find Trending Hashtags II ](./problems/3100-3199/3103/README.md)                                                      | :lock: | Hard   |             |      |
+| 3103 | [Find Trending Hashtags II](./problems/3100-3199/3103/README.md)                                                      | :lock: | Hard   |             |      |
 | 3104 | [Find Longest Self-Contained Substring](./problems/3100-3199/3104/README.md)                                           | :lock: | Hard   |             |      |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./problems/3100-3199/3105/README.md)                     |        | Easy   |             |      |
 | 3106 | [Lexicographically Smallest String After Operations With Constraint](./problems/3100-3199/3106/README.md)              |        | Medium |             |      |
@@ -3131,7 +3131,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 3115 | [Maximum Prime Difference](./problems/3100-3199/3115/README.md)                                                        |        | Medium |             |      |
 | 3116 | [Kth Smallest Amount With Single Denomination Combination](./problems/3100-3199/3116/README.md)                        |        | Hard   |             |      |
 | 3117 | [Minimum Sum of Values by Dividing Array](./problems/3100-3199/3117/README.md)                                         |        | Hard   |             |      |
-| 3118 | [Friday Purchase III ](./problems/3100-3199/3118/README.md)                                                            | :lock: | Medium |             |      |
+| 3118 | [Friday Purchase III](./problems/3100-3199/3118/README.md)                                                            | :lock: | Medium |             |      |
 | 3119 | [Maximum Number of Potholes That Can Be Fixed](./problems/3100-3199/3119/README.md)                                    | :lock: | Medium |             |      |
 | 3120 | [Count the Number of Special Characters I](./problems/3100-3199/3120/README.md)                                        |        | Easy   |             |      |
 | 3121 | [Count the Number of Special Characters II](./problems/3100-3199/3121/README.md)                                       |        | Medium |             |      |
@@ -3377,12 +3377,12 @@ npm run ok [tr] # finished and set topic 'tree'
 | 3361 | [Shift Distance Between Two Strings](./problems/3300-3399/3361/README.md)                                              |        | Medium |             |      |
 | 3362 | [Zero Array Transformation III](./problems/3300-3399/3362/README.md)                                                   |        | Medium |             |      |
 | 3363 | [Find the Maximum Number of Fruits Collected](./problems/3300-3399/3363/README.md)                                     |        | Hard   |             |      |
-| 3364 | [Minimum Positive Sum Subarray ](./problems/3300-3399/3364/README.md)                                                  |        | Easy   |             |      |
+| 3364 | [Minimum Positive Sum Subarra](./problems/3300-3399/3364/README.md)                                                  |        | Easy   |             |      |
 | 3365 | [Rearrange K Substrings to Form Target String](./problems/3300-3399/3365/README.md)                                    |        | Medium |             |      |
 | 3366 | [Minimum Array Sum](./problems/3300-3399/3366/README.md)                                                               |        | Medium |             |      |
 | 3367 | [Maximize Sum of Weights after Edge Removals](./problems/3300-3399/3367/README.md)                                     |        | Hard   |             |      |
 | 3368 | [First Letter Capitalization](./problems/3300-3399/3368/README.md)                                                     | :lock: | Hard   |             |      |
-| 3369 | [Design an Array Statistics Tracker ](./problems/3300-3399/3369/README.md)                                             | :lock: | Hard   |             |      |
+| 3369 | [Design an Array Statistics Tracker](./problems/3300-3399/3369/README.md)                                             | :lock: | Hard   |             |      |
 | 3370 | [Smallest Number With All Set Bits](./problems/3300-3399/3370/README.md)                                               |        | Easy   |             |      |
 | 3371 | [Identify the Largest Outlier in an Array](./problems/3300-3399/3371/README.md)                                        |        | Medium |             |      |
 | 3372 | [Maximize the Number of Target Nodes After Connecting Trees I](./problems/3300-3399/3372/README.md)                    |        | Medium |             |      |

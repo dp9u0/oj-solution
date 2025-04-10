@@ -413,7 +413,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 331 | [Verify Preorder Serialization of a Binary Tree](./problems/300-399/331/README.md) | :o: | Medium | [none] |   |
 | 332 | [Reconstruct Itinerary](./problems/300-399/332/README.md) | :o: | Hard | [dfs] |   |
 | 333  | [Largest BST Subtree](./problems/300-399/333/README.md)                                                                | :lock: | Medium |             |      |
-| 334  | [Increasing Triplet Subsequence](./problems/300-399/334/README.md)                                                     |        | Medium |             |      |
+| 334 | [Increasing Triplet Subsequence](./problems/300-399/334/README.md) | :o: | Medium | [grd] |   |
 | 335  | [Self Crossing](./problems/300-399/335/README.md)                                                                      |        | Hard   |             |      |
 | 336  | [Palindrome Pairs](./problems/300-399/336/README.md)                                                                   |        | Hard   |             |      |
 | 337  | [House Robber III](./problems/300-399/337/README.md)                                                                   | :o:    | Medium | [tr]        |      |

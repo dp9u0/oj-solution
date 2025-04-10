@@ -411,7 +411,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 329  | [Longest Increasing Path in a Matrix](./problems/300-399/329/README.md)                                                | :o:    | Hard   | [dfs]       | :+1: |
 | 330 | [Patching Array](./problems/300-399/330/README.md) | :o: | Hard | [none] |   |
 | 331 | [Verify Preorder Serialization of a Binary Tree](./problems/300-399/331/README.md) | :o: | Medium | [none] |   |
-| 332  | [Reconstruct Itinerary](./problems/300-399/332/README.md)                                                              |        | Medium |             |      |
+| 332 | [Reconstruct Itinerary](./problems/300-399/332/README.md) | :o: | Hard | [dfs] |   |
 | 333  | [Largest BST Subtree](./problems/300-399/333/README.md)                                                                | :lock: | Medium |             |      |
 | 334  | [Increasing Triplet Subsequence](./problems/300-399/334/README.md)                                                     |        | Medium |             |      |
 | 335  | [Self Crossing](./problems/300-399/335/README.md)                                                                      |        | Hard   |             |      |

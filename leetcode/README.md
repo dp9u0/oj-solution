@@ -414,7 +414,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 332 | [Reconstruct Itinerary](./problems/300-399/332/README.md) | :o: | Hard | [dfs] |   |
 | 333  | [Largest BST Subtree](./problems/300-399/333/README.md)                                                                | :lock: | Medium |             |      |
 | 334 | [Increasing Triplet Subsequence](./problems/300-399/334/README.md) | :o: | Medium | [grd] |   |
-| 335  | [Self Crossing](./problems/300-399/335/README.md)                                                                      |        | Hard   |             |      |
+| 335 | [Self Crossing](./problems/300-399/335/README.md) | :o: | Hard | [none] |   |
 | 336  | [Palindrome Pairs](./problems/300-399/336/README.md)                                                                   |        | Hard   |             |      |
 | 337  | [House Robber III](./problems/300-399/337/README.md)                                                                   | :o:    | Medium | [tr]        |      |
 | 338  | [Counting Bits](./problems/300-399/338/README.md)                                                                      | :o:    | Medium | [bit]       |      |

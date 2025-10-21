@@ -406,7 +406,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 324 | [Wiggle Sort II](./problems/300-399/324/README.md) | :o: | Medium | [none] |   |
 | 325  | [Maximum Size Subarray Sum Equals k](./problems/300-399/325/README.md)                                                 | :lock: | Medium |             |      |
 | 326  | [Power of Three](./problems/300-399/326/README.md)                                                                     | :o:    | Easy   | [math]      |      |
-| 327 | [Count of Range Sum](./problems/300-399/327/README.md) | :o: | Hard | [arr] |   |
+| 327 | [Count of Range Sum](./problems/300-399/327/README.md) | :o: | Hard | [none] |   |
 | 328  | [Odd Even Linked List](./problems/300-399/328/README.md)                                                               | :o:    | Medium | [ll]        |      |
 | 329  | [Longest Increasing Path in a Matrix](./problems/300-399/329/README.md)                                                | :o:    | Hard   | [dfs]       | :+1: |
 | 330 | [Patching Array](./problems/300-399/330/README.md) | :o: | Hard | [none] |   |
@@ -415,7 +415,7 @@ npm run ok [tr] # finished and set topic 'tree'
 | 333  | [Largest BST Subtree](./problems/300-399/333/README.md)                                                                | :lock: | Medium |             |      |
 | 334 | [Increasing Triplet Subsequence](./problems/300-399/334/README.md) | :o: | Medium | [grd] |   |
 | 335 | [Self Crossing](./problems/300-399/335/README.md) | :o: | Hard | [none] |   |
-| 336  | [Palindrome Pairs](./problems/300-399/336/README.md)                                                                   |        | Hard   |             |      |
+| 336 | [Palindrome Pairs](./problems/300-399/336/README.md) | :o: | Hard | [none] |   |
 | 337  | [House Robber III](./problems/300-399/337/README.md)                                                                   | :o:    | Medium | [tr]        |      |
 | 338  | [Counting Bits](./problems/300-399/338/README.md)                                                                      | :o:    | Medium | [bit]       |      |
 | 339  | [Nested List Weight Sum](./problems/300-399/339/README.md)                                                             | :lock: | Easy   |             |      |
@@ -2097,25 +2097,25 @@ npm run ok [tr] # finished and set topic 'tree'
 | 2081 | [Sum of k-Mirror Numbers](./problems/2000-2099/2081/README.md)                                                         |        | Hard   |             |      |
 | 2082 | [The Number of Rich Customers](./problems/2000-2099/2082/README.md)                                                    | :lock: | Easy   |             |      |
 | 2083 | [Substrings That Begin and End With the Same Letter](./problems/2000-2099/2083/README.md)                              | :lock: | Medium |             |      |
-| 2084 | [Drop Type 1 Orders for Customers With Type 0 Orders](./problems/2000-2099/2084/README.md)                             | :lock: | Medium |             |      |
-| 2085 | [Count Common Words With One Occurrence](./problems/2000-2099/2085/README.md)                                          |        | Easy   |             |      |
-| 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](./problems/2000-2099/2086/README.md)                             |        | Medium |             |      |
-| 2087 | [Minimum Cost Homecoming of a Robot in a Grid](./problems/2000-2099/2087/README.md)                                    |        | Medium |             |      |
-| 2088 | [Count Fertile Pyramids in a Land](./problems/2000-2099/2088/README.md)                                                |        | Hard   |             |      |
-| 2089 | [Find Target Indices After Sorting Array](./problems/2000-2099/2089/README.md)                                         |        | Easy   |             |      |
-| 2090 | [K Radius Subarray Averages](./problems/2000-2099/2090/README.md)                                                      |        | Medium |             |      |
-| 2091 | [Removing Minimum and Maximum From Array](./problems/2000-2099/2091/README.md)                                         |        | Medium |             |      |
-| 2092 | [Find All People With Secret](./problems/2000-2099/2092/README.md)                                                     |        | Hard   |             |      |
-| 2093 | [Minimum Cost to Reach City With Discounts](./problems/2000-2099/2093/README.md)                                       | :lock: | Medium |             |      |
-| 2094 | [Finding 3-Digit Even Numbers](./problems/2000-2099/2094/README.md)                                                    |        | Easy   |             |      |
-| 2095 | [Delete the Middle Node of a Linked List](./problems/2000-2099/2095/README.md)                                         |        | Medium |             |      |
-| 2096 | [Step-By-Step Directions From a Binary Tree Node to Another](./problems/2000-2099/2096/README.md)                      |        | Medium |             |      |
-| 2097 | [Valid Arrangement of Pairs](./problems/2000-2099/2097/README.md)                                                      |        | Hard   |             |      |
-| 2098 | [Subsequence of Size K With the Largest Even Sum](./problems/2000-2099/2098/README.md)                                 | :lock: | Medium |             |      |
-| 2099 | [Find Subsequence of Length K With the Largest Sum](./problems/2000-2099/2099/README.md)                               |        | Easy   |             |      |
-| 2100 | [Find Good Days to Rob the Bank](./problems/2100-2199/2100/README.md)                                                  |        | Medium |             |      |
-| 2101 | [Detonate the Maximum Bombs](./problems/2100-2199/2101/README.md)                                                      |        | Medium |             |      |
-| 2102 | [Sequentially Ordinal Rank Tracker](./problems/2100-2199/2102/README.md)                                               |        | Hard   |             |      |
+| 2084 | [Drop Type 1 Orders for Customers With Type 0 Orders](./problems/2000-2099/2084/README.md) | :lock: | Medium |  |   |
+| 2085 | [Count Common Words With One Occurrence](./problems/2000-2099/2085/README.md) |  | Easy |  |   |
+| 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](./problems/2000-2099/2086/README.md) |  | Medium |  |   |
+| 2087 | [Minimum Cost Homecoming of a Robot in a Grid](./problems/2000-2099/2087/README.md) |  | Medium |  |   |
+| 2088 | [Count Fertile Pyramids in a Land](./problems/2000-2099/2088/README.md) |  | Hard |  |   |
+| 2089 | [Find Target Indices After Sorting Array](./problems/2000-2099/2089/README.md) |  | Easy |  |   |
+| 2090 | [K Radius Subarray Averages](./problems/2000-2099/2090/README.md) |  | Medium |  |   |
+| 2091 | [Removing Minimum and Maximum From Array](./problems/2000-2099/2091/README.md) |  | Medium |  |   |
+| 2092 | [Find All People With Secret](./problems/2000-2099/2092/README.md) |  | Hard |  |   |
+| 2093 | [Minimum Cost to Reach City With Discounts](./problems/2000-2099/2093/README.md) | :lock: | Medium |  |   |
+| 2094 | [Finding 3-Digit Even Numbers](./problems/2000-2099/2094/README.md) |  | Easy |  |   |
+| 2095 | [Delete the Middle Node of a Linked List](./problems/2000-2099/2095/README.md) |  | Medium |  |   |
+| 2096 | [Step-By-Step Directions From a Binary Tree Node to Another](./problems/2000-2099/2096/README.md) |  | Medium |  |   |
+| 2097 | [Valid Arrangement of Pairs](./problems/2000-2099/2097/README.md) |  | Hard |  |   |
+| 2098 | [Subsequence of Size K With the Largest Even Sum](./problems/2000-2099/2098/README.md) | :lock: | Medium |  |   |
+| 2099 | [Find Subsequence of Length K With the Largest Sum](./problems/2000-2099/2099/README.md) |  | Easy |  |   |
+| 2100 | [Find Good Days to Rob the Bank](./problems/2100-2199/2100/README.md) |  | Medium |  |   |
+| 2101 | [Detonate the Maximum Bombs](./problems/2100-2199/2101/README.md) |  | Medium |  |   |
+| 2102 | [Sequentially Ordinal Rank Tracker](./problems/2100-2199/2102/README.md) |  | Hard |  |   |
 | 2103 | [Rings and Rods](./problems/2100-2199/2103/README.md)                                                                  |        | Easy   |             |      |
 | 2104 | [Sum of Subarray Ranges](./problems/2100-2199/2104/README.md)                                                          |        | Medium |             |      |
 | 2105 | [Watering Plants II](./problems/2100-2199/2105/README.md)                                                              |        | Medium |             |      |

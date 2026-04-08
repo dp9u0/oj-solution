@@ -7,3 +7,4 @@
 | 3861 | [Minimum Capacity Box](./problems/3800-3899/3861/README.md) | :o: | Easy | [arr] |   |
 | 3847 | [Find the Score Difference in a Game](./problems/3800-3899/3847/README.md) | :o: | Medium | [arr] |   |
 | 3849 | [Maximum Bitwise XOR After Rearrangement](./problems/3800-3899/3849/README.md) | :o: | Medium | [bit] |   |
+| 3853 | [Merge Close Characters](./problems/3800-3899/3853/README.md) | :o: | Medium | [arr] |   |

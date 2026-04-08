@@ -31,10 +31,10 @@ vim ~/.lc/config.json
 使用命令行开始提交保存题目!!
 
 ```bash
-npm run start 18 # start problem 18
-npm run test # test by testcase
-npm run push # push for all test
-npm run ok [tr] # finished and set topic 'tree'
+pnpm run start 18 # start problem 18
+pnpm run test # test by testcase
+pnpm run push # push for all test
+pnpm run ok [tr] # finished and set topic 'tree'
 ```
 
 ### Tips

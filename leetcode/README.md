@@ -6,3 +6,4 @@
 | 3867 | [Sum of GCD of Formed Pairs](./problems/3800-3899/3867/README.md) | :o: | Medium | [arr] |   |
 | 3861 | [Minimum Capacity Box](./problems/3800-3899/3861/README.md) | :o: | Easy | [arr] |   |
 | 3847 | [Find the Score Difference in a Game](./problems/3800-3899/3847/README.md) | :o: | Medium | [arr] |   |
+| 3849 | [Maximum Bitwise XOR After Rearrangement](./problems/3800-3899/3849/README.md) | :o: | Medium | [bit] |   |

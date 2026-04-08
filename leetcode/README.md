@@ -431,33 +431,33 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 349  | [Intersection of Two Arrays](./problems/300-399/349/README.md)                                                         | :o:    | Easy   | [hsh]       |      |
 | 350  | [Intersection of Two Arrays II](./problems/300-399/350/README.md)                                                      | :o:    | Easy   | [hsh]       |      |
 | 351  | [Android Unlock Patterns](./problems/300-399/351/README.md)                                                            | :lock: | Medium |             |      |
-| 352  | [Data Stream as Disjoint Intervals](./problems/300-399/352/README.md)                                                  |        | Hard   |             |      |
+| 352 | [Data Stream as Disjoint Intervals](./problems/300-399/352/README.md) | :o: | Hard | [design],[binary_search],[ordered_set] |   |
 | 353  | [Design Snake Game](./problems/300-399/353/README.md)                                                                  | :lock: | Medium |             |      |
 | 354  | [Russian Doll Envelopes](./problems/300-399/354/README.md)                                                             | :o:    | Hard   | [dp]        |      |
 | 355 | [Design Twitter](./problems/300-399/355/README.md) | :o: | Medium | [design],[hash_table] |   |
 | 356  | [Line Reflection](./problems/300-399/356/README.md)                                                                    | :lock: | Medium |             |      |
-| 357  | [Count Numbers with Unique Digits](./problems/300-399/357/README.md)                                                   |        | Medium |             |      |
+| 357 | [Count Numbers with Unique Digits](./problems/300-399/357/README.md) | :o: | Medium | [math],[dynamic_programming],[backtracking] |   |
 | 358  | [Rearrange String k Distance Apart](./problems/300-399/358/README.md)                                                  | :lock: | Hard   |             |      |
 | 359  | [Logger Rate Limiter](./problems/300-399/359/README.md)                                                                | :lock: | Easy   |             |      |
 | 360  | [Sort Transformed Array](./problems/300-399/360/README.md)                                                             | :lock: | Medium |             |      |
 | 361  | [Bomb Enemy](./problems/300-399/361/README.md)                                                                         | :lock: | Medium |             |      |
 | 362  | [Design Hit Counter](./problems/300-399/362/README.md)                                                                 | :lock: | Medium |             |      |
-| 363  | [Max Sum of Rectangle No Larger Than K](./problems/300-399/363/README.md)                                              |        | Hard   |             |      |
+| 363 | [Max Sum of Rectangle No Larger Than K](./problems/300-399/363/README.md) | :o: | Hard | [array],[binary_search],[matrix],[prefix_sum],[ordered_set] |   |
 | 364  | [Nested List Weight Sum II](./problems/300-399/364/README.md)                                                          | :lock: | Medium |             |      |
-| 365  | [Water and Jug Problem](./problems/300-399/365/README.md)                                                              |        | Medium |             |      |
+| 365 | [Water and Jug Problem](./problems/300-399/365/README.md) | :o: | Medium | [math],[bfs],[dfs] |   |
 | 366  | [Find Leaves of Binary Tree](./problems/300-399/366/README.md)                                                         | :lock: | Medium |             |      |
 | 367  | [Valid Perfect Square](./problems/300-399/367/README.md)                                                               | :o:    | Easy   | [math]      |      |
-| 368  | [Largest Divisible Subset](./problems/300-399/368/README.md)                                                           |        | Medium |             |      |
+| 368 | [Largest Divisible Subset](./problems/300-399/368/README.md) | :o: | Medium | [array],[math],[dynamic_programming],[sorting] |   |
 | 369  | [Plus One Linked List](./problems/300-399/369/README.md)                                                               | :lock: | Medium |             |      |
 | 370  | [Range Addition](./problems/300-399/370/README.md)                                                                     | :lock: | Medium |             |      |
 | 371  | [Sum of Two Integers](./problems/300-399/371/README.md)                                                                | :o:    | Easy   | [bit]       |      |
-| 372  | [Super Pow](./problems/300-399/372/README.md)                                                                          |        | Medium |             |      |
-| 373  | [Find K Pairs with Smallest Sums](./problems/300-399/373/README.md)                                                    |        | Medium |             |      |
+| 372 | [Super Pow](./problems/300-399/372/README.md) | :o: | Medium | [math],[divide_and_conquer] |   |
+| 373 | [Find K Pairs with Smallest Sums](./problems/300-399/373/README.md) | :o: | Medium | [array],[heap] |   |
 | 374  | [Guess Number Higher or Lower](./problems/300-399/374/README.md)                                                       | :o:    | Easy   | [bs]        |      |
-| 375  | [Guess Number Higher or Lower II](./problems/300-399/375/README.md)                                                    |        | Medium |             |      |
-| 376  | [Wiggle Subsequence](./problems/300-399/376/README.md)                                                                 |        | Medium |             |      |
+| 375 | [Guess Number Higher or Lower II](./problems/300-399/375/README.md) | :o: | Medium | [math],[dynamic_programming],[game_theory] |   |
+| 376 | [Wiggle Subsequence](./problems/300-399/376/README.md) | :o: | Medium | [array],[dynamic_programming],[greedy] |   |
 | 377  | [Combination Sum IV](./problems/300-399/377/README.md)                                                                 |        | Medium |             |      |
-| 378  | [Kth Smallest Element in a Sorted Matrix](./problems/300-399/378/README.md)                                            |        | Medium |             |      |
+| 378 | [Kth Smallest Element in a Sorted Matrix](./problems/300-399/378/README.md) | :o: | Medium | [array],[binary_search],[sorting],[matrix] |   |
 | 379  | [Design Phone Directory](./problems/300-399/379/README.md)                                                             | :lock: | Medium |             |      |
 | 380  | [Insert Delete GetRandom O(1)](./problems/300-399/380/README.md)                                                       |        | Medium |             |      |
 | 381  | [Insert Delete GetRandom O(1) - Duplicates allowed](./problems/300-399/381/README.md)                                  |        | Hard   |             |      |

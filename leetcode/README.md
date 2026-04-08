@@ -4,3 +4,4 @@
 | 3880 | [Minimum Absolute Difference Between Two Values](./problems/3800-3899/3880/README.md) | :o: | Easy | [arr] |   |
 | 3884 | [First Matching Character From Both Ends](./problems/3800-3899/3884/README.md) | :o: | Easy | [arr] |   |
 | 3867 | [Sum of GCD of Formed Pairs](./problems/3800-3899/3867/README.md) | :o: | Medium | [arr] |   |
+| 3861 | [Minimum Capacity Box](./problems/3800-3899/3861/README.md) | :o: | Easy | [arr] |   |

@@ -3405,3 +3405,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3389 | [Minimum Operations to Make Character Frequencies Equal](./problems/3300-3399/3389/README.md)                          |        | Hard   |             |      |
 | 3390 | [Longest Team Pass Streak](./problems/3300-3399/3390/README.md)                                                        | :lock: | Hard   |             |      |
 | 3391 | [Design a 3D Binary Matrix with Efficient Layer Tracking](./problems/3300-3399/3391/README.md)                         | :lock: | Medium |             |      |
+| 3653 | [XOR After Range Multiplication Queries I](./problems/3600-3699/3653/README.md) | :o: | Medium | [array],[math],[number_theory] |   |

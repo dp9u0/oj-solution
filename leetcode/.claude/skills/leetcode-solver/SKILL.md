@@ -83,6 +83,8 @@ pnpm run push
 pnpm run ok [tags]
 ```
 
+如果认为题目比较经典，则可以 `pnpm run ok [tags] +1` 表示题目可以关注，注意一定是确定比较经典才可以+1。
+
 （注意：tags 需要用逗号分隔，不要带方括号，例如：`pnpm run ok arr,dp`）
 
 ### 7. Git 提交 (Commit)

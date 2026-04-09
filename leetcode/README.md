@@ -3103,7 +3103,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3087 | [Find Trending Hashtags](./problems/3000-3099/3087/README.md)                                                          | :lock: | Medium |             |      |
 | 3088 | [Make String Anti-palindrome](./problems/3000-3099/3088/README.md)                                                     | :lock: | Hard   |             |      |
 | 3089 | [Find Bursty Behavior](./problems/3000-3099/3089/README.md)                                                            | :lock: | Medium |             |      |
-| 3090 | [Maximum Length Substring With Two Occurrences](./problems/3000-3099/3090/README.md)                                   |        | Easy   |             |      |
+| 3090 | [Maximum Length Substring With Two Occurrences](./problems/3000-3099/3090/README.md) | :o: | Easy | [tp] |   |
 | 3091 | [Apply Operations to Make Sum of Array Greater Than or Equal to k](./problems/3000-3099/3091/README.md)                |        | Medium |             |      |
 | 3092 | [Most Frequent IDs](./problems/3000-3099/3092/README.md)                                                               |        | Medium |             |      |
 | 3093 | [Longest Common Suffix Queries](./problems/3000-3099/3093/README.md)                                                   |        | Hard   |             |      |

@@ -3423,3 +3423,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3819 | [Rotate Non Negative Elements](./problems/3800-3899/3819/README.md) | :o: | Medium | [arr],[tp] |   |
 | 3813 | [Vowel-Consonant Score](./problems/3800-3899/3813/README.md) | :o: | Easy | [str] |   |
 | 3810 | [Minimum Operations to Reach Target Array](./problems/3800-3899/3810/README.md) | :o: | Medium | [arr],[greedy] |   |
+| 3809 | [Best Reachable Tower](./problems/3800-3899/3809/README.md) | :o: | Medium | [arr],[sort] |   |

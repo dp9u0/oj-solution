@@ -2491,7 +2491,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2475 | [Number of Unequal Triplets in Array](./problems/2400-2499/2475/README.md)                                             |        | Easy   |             |      |
 | 2476 | [Closest Nodes Queries in a Binary Search Tree](./problems/2400-2499/2476/README.md)                                   |        | Medium |             |      |
 | 2477 | [Minimum Fuel Cost to Report to the Capital](./problems/2400-2499/2477/README.md)                                      |        | Medium |             |      |
-| 2478 | [Number of Beautiful Partitions](./problems/2400-2499/2478/README.md)                                                  |        | Hard   |             |      |
+| 2478 | [Number of Beautiful Partitions](./problems/2400-2499/2478/README.md) | :o: | Hard | [dp],[str] |   |
 | 2479 | [Maximum XOR of Two Non-Overlapping Subtrees](./problems/2400-2499/2479/README.md)                                     | :lock: | Hard   |             |      |
 | 2480 | [Form a Chemical Bond](./problems/2400-2499/2480/README.md)                                                            | :lock: | Easy   |             |      |
 | 2481 | [Minimum Cuts to Divide a Circle](./problems/2400-2499/2481/README.md)                                                 |        | Easy   |             |      |

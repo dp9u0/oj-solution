@@ -11,3 +11,4 @@
 | 1750 | [Minimum Length of String After Deleting Similar Ends](./problems/1700-1799/1750/README.md) | :o: | Medium | [tp] |   |
 | 2530 | [Maximal Score After Applying K Operations](./problems/2500-2599/2530/README.md) | :o: | Medium | [arr],[heap] |   |
 | 1035 | [Uncrossed Lines](./problems/1000-1099/1035/README.md) | :o: | Medium | [dp] |   |
+| 3843 | [First Element with Unique Frequency](./problems/3800-3899/3843/README.md) | :o: | Medium | [arr],[hash] |   |

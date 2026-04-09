@@ -135,10 +135,9 @@ module.exports.creteMarkdown = function (data) {
 }
 
 module.exports.updateReadme = function ({ problem, title, level, topics = '', status = '', remark = '', callback }) {
-  const MarkdownBakName = README_PATH + '.bak';
-  fs.copyFileSync(README_PATH, MarkdownBakName);
-  let reader = fs.createReadStream(MarkdownBakName);
-  let writer = fs.createWriteStream(README_PATH);
+  const tmpFilePath = README_PATH + `.${Date.now()}.tmp`;
+  let reader = fs.createReadStream(README_PATH);
+  let writer = fs.createWriteStream(tmpFilePath);
   let lineReader = readline.createInterface({
     input: reader
   });
@@ -166,9 +165,12 @@ module.exports.updateReadme = function ({ problem, title, level, topics = '', st
       writer.write(newLine + os.EOL); // 下一行
     }
     writer.end();
-    fs.unlinkSync(MarkdownBakName);
+  });
+
+  writer.on('finish', () => {
+    fs.renameSync(tmpFilePath, README_PATH);
     if (callback) {
-      callback()
+      callback();
     }
   });
 }

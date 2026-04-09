@@ -43,10 +43,8 @@ if (fs.existsSync(markdownPathSolving)) { fs.unlinkSync(markdownPathSolving); }
 // update readme
 common.updateReadme({
   problem, title, level, topics, status: ':o:', remark, callback: () => {
-    setTimeout(() => {
-      // execSync('git add .', { stdio: 'inherit' });
-      // execSync('git commit -m ' + `"#${problem}"`, { stdio: 'inherit' });
-      console.log(`Problem Finished ${problem} [${level}] (${topics}) :${title}`);
-    }, 10000);
+    // execSync('git add .', { stdio: 'inherit' });
+    // execSync('git commit -m ' + `"#${problem}"`, { stdio: 'inherit' });
+    console.log(`Problem Finished ${problem} [${level}] (${topics}) :${title}`);
   }
 });

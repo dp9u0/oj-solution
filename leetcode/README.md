@@ -3429,3 +3429,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3424 | [Minimum Cost to Make Arrays Identical](./problems/3400-3499/3424/README.md) | :o: | Medium | [arr],[sort] |   |
 | 3507 | [Minimum Pair Removal to Sort Array I](./problems/3500-3599/3507/README.md) | :o: | Easy | [arr],[sim] |   |
 | 3803 | [Count Residue Prefixes](./problems/3800-3899/3803/README.md) | :o: | Easy | [str],[hash] |   |
+| 1760 | [Minimum Limit of Balls in a Bag](./problems/1700-1799/1760/README.md) | :o: | Medium | [bs] |   |

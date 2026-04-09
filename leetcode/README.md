@@ -3421,3 +3421,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3823 | [Reverse Letters Then Special Characters in a String](./problems/3800-3899/3823/README.md) | :o: | Easy | [arr],[tp] |   |
 | 3828 | [Final Element After Subarray Deletions](./problems/3800-3899/3828/README.md) | :o: | Hard | [arr],[gm] |   |
 | 3819 | [Rotate Non Negative Elements](./problems/3800-3899/3819/README.md) | :o: | Medium | [arr],[tp] |   |
+| 3813 | [Vowel-Consonant Score](./problems/3800-3899/3813/README.md) | :o: | Easy | [str] |   |

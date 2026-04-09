@@ -1037,7 +1037,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 960  | [Delete Columns to Make Sorted III](./problems/900-999/960/README.md)                                                  |        | Hard   |             |      |
 | 961  | [N-Repeated Element in Size 2N Array](./problems/900-999/961/README.md)                                                | :o:    | Easy   | [hsh]       |      |
 | 962  | [Maximum Width Ramp](./problems/900-999/962/README.md)                                                                 |        | Medium |             |      |
-| 963  | [Minimum Area Rectangle II](./problems/900-999/963/README.md)                                                          |        | Medium |             |      |
+| 963 | [Minimum Area Rectangle II](./problems/900-999/963/README.md) | :o: | Medium | [arr],[math] |   |
 | 964  | [Least Operators to Express Number](./problems/900-999/964/README.md)                                                  |        | Hard   |             |      |
 | 965  | [Univalued Binary Tree](./problems/900-999/965/README.md)                                                              | :o:    | Easy   | [tr]        |      |
 | 966  | [Vowel Spellchecker](./problems/900-999/966/README.md)                                                                 |        | Medium |             |      |

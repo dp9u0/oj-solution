@@ -3419,3 +3419,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3834 | [Merge Adjacent Equal Elements](./problems/3800-3899/3834/README.md) | :o: | Medium | [arr],[stack] |   |
 | 3838 | [Weighted Word Mapping](./problems/3800-3899/3838/README.md) | :o: | Easy | [arr] |   |
 | 3823 | [Reverse Letters Then Special Characters in a String](./problems/3800-3899/3823/README.md) | :o: | Easy | [arr],[tp] |   |
+| 3828 | [Final Element After Subarray Deletions](./problems/3800-3899/3828/README.md) | :o: | Hard | [arr],[gm] |   |

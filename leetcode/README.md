@@ -3417,3 +3417,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3843 | [First Element with Unique Frequency](./problems/3800-3899/3843/README.md) | :o: | Medium | [arr],[hash] |   |
 | 3840 | [House Robber V](./problems/3800-3899/3840/README.md) | :o: | Medium | [dp] |   |
 | 3834 | [Merge Adjacent Equal Elements](./problems/3800-3899/3834/README.md) | :o: | Medium | [arr],[stack] |   |
+| 3838 | [Weighted Word Mapping](./problems/3800-3899/3838/README.md) | :o: | Easy | [arr] |   |

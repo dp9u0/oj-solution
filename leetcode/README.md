@@ -959,7 +959,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 882  | [Reachable Nodes In Subdivided Graph](./problems/800-899/882/README.md)                                                |        | Hard   |             |      |
 | 883  | [Projection Area of 3D Shapes](./problems/800-899/883/README.md)                                                       | :o:    | Easy   | [arr]       |      |
 | 884  | [Uncommon Words from Two Sentences](./problems/800-899/884/README.md)                                                  | :o:    | Easy   | [hsh]       |      |
-| 885  | [Spiral Matrix III](./problems/800-899/885/README.md)                                                                  |        | Medium |             |      |
+| 885 | [Spiral Matrix III](./problems/800-899/885/README.md) | :o: | Medium | [arr],[sim] |   |
 | 886  | [Possible Bipartition](./problems/800-899/886/README.md)                                                               |        | Medium |             |      |
 | 887  | [Super Egg Drop](./problems/800-899/887/README.md)                                                                     | :o:    | Hard   | [dp]        |      |
 | 888  | [Fair Candy Swap](./problems/800-899/888/README.md)                                                                    | :o:    | Easy   | [hsh]       |      |

@@ -2936,7 +2936,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2920 | [Maximum Points After Collecting Coins From All Nodes](./problems/2900-2999/2920/README.md)                            |        | Hard   |             |      |
 | 2921 | [Maximum Profitable Triplets With Increasing Prices II](./problems/2900-2999/2921/README.md)                           | :lock: | Hard   |             |      |
 | 2922 | [Market Analysis III](./problems/2900-2999/2922/README.md)                                                             | :lock: | Medium |             |      |
-| 2923 | [Find Champion I](./problems/2900-2999/2923/README.md)                                                                 |        | Easy   |             |      |
+| 2923 | [Find Champion I](./problems/2900-2999/2923/README.md) | :o: | Easy | [arr] |   |
 | 2924 | [Find Champion II](./problems/2900-2999/2924/README.md)                                                                |        | Medium |             |      |
 | 2925 | [Maximum Score After Applying Operations on a Tree](./problems/2900-2999/2925/README.md)                               |        | Medium |             |      |
 | 2926 | [Maximum Balanced Subsequence Sum](./problems/2900-2999/2926/README.md)                                                |        | Hard   |             |      |

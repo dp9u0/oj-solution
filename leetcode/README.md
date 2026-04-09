@@ -3426,3 +3426,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3809 | [Best Reachable Tower](./problems/3800-3899/3809/README.md) | :o: | Medium | [arr],[sort] |   |
 | 3890 | [Integers With Multiple Sum of Two Cubes](./problems/3800-3899/3890/README.md) | :o: | Medium | [arr],[hash] |   |
 | 3583 | [Count Special Triplets](./problems/3500-3599/3583/README.md) | :o: | Medium | [arr],[hash] |   |
+| 3424 | [Minimum Cost to Make Arrays Identical](./problems/3400-3499/3424/README.md) | :o: | Medium | [arr],[sort] |   |

@@ -3284,7 +3284,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3268 | [Find Overlapping Shifts II](./problems/3200-3299/3268/README.md)                                                      | :lock: | Hard   |             |      |
 | 3269 | [Constructing Two Increasing Arrays](./problems/3200-3299/3269/README.md)                                              | :lock: | Hard   |             |      |
 | 3270 | [Find the Key of the Numbers](./problems/3200-3299/3270/README.md)                                                     |        | Easy   |             |      |
-| 3271 | [Hash Divided String](./problems/3200-3299/3271/README.md)                                                             |        | Medium |             |      |
+| 3271 | [Hash Divided String](./problems/3200-3299/3271/README.md) | :o: | Medium | [str] |   |
 | 3272 | [Find the Count of Good Integers](./problems/3200-3299/3272/README.md)                                                 |        | Hard   |             |      |
 | 3273 | [Minimum Amount of Damage Dealt to Bob](./problems/3200-3299/3273/README.md)                                           |        | Hard   |             |      |
 | 3274 | [Check if Two Chessboard Squares Have the Same Color](./problems/3200-3299/3274/README.md)                             |        | Easy   |             |      |

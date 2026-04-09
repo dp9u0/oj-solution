@@ -3424,3 +3424,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3813 | [Vowel-Consonant Score](./problems/3800-3899/3813/README.md) | :o: | Easy | [str] |   |
 | 3810 | [Minimum Operations to Reach Target Array](./problems/3800-3899/3810/README.md) | :o: | Medium | [arr],[greedy] |   |
 | 3809 | [Best Reachable Tower](./problems/3800-3899/3809/README.md) | :o: | Medium | [arr],[sort] |   |
+| 3890 | [Integers With Multiple Sum of Two Cubes](./problems/3800-3899/3890/README.md) | :o: | Medium | [arr],[hash] |   |

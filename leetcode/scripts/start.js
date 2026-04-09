@@ -1,7 +1,7 @@
 let fs = require('fs');;
 let common = require('./common');
 let exec = require('child_process').exec;
-let problem = process.argv[2] || ~~(Math.random() * 960);
+let problem = process.argv[2] || ~~(Math.random() * 4000);
 let jsPath = common.getJsPath(problem);
 let markdownPath = common.getMdPath(problem);
 let existed = false;

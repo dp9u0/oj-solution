@@ -2139,7 +2139,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2123 | [Minimum Operations to Remove Adjacent Ones in Matrix](./problems/2100-2199/2123/README.md)                            | :lock: | Hard   |             |      |
 | 2124 | [Check if All A's Appears Before All B's](./problems/2100-2199/2124/README.md)                                         |        | Easy   |             |      |
 | 2125 | [Number of Laser Beams in a Bank](./problems/2100-2199/2125/README.md)                                                 |        | Medium |             |      |
-| 2126 | [Destroying Asteroids](./problems/2100-2199/2126/README.md)                                                            |        | Medium |             |      |
+| 2126 | [Destroying Asteroids](./problems/2100-2199/2126/README.md) | :o: | Medium | [arr],[greedy] |   |
 | 2127 | [Maximum Employees to Be Invited to a Meeting](./problems/2100-2199/2127/README.md)                                    |        | Hard   |             |      |
 | 2128 | [Remove All Ones With Row and Column Flips](./problems/2100-2199/2128/README.md)                                       | :lock: | Medium |             |      |
 | 2129 | [Capitalize the Title](./problems/2100-2199/2129/README.md)                                                            |        | Easy   |             |      |

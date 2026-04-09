@@ -2724,7 +2724,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2708 | [Maximum Strength of a Group](./problems/2700-2799/2708/README.md)                                                     |        | Medium |             |      |
 | 2709 | [Greatest Common Divisor Traversal](./problems/2700-2799/2709/README.md)                                               |        | Hard   |             |      |
 | 2710 | [Remove Trailing Zeros From a String](./problems/2700-2799/2710/README.md)                                             |        | Easy   |             |      |
-| 2711 | [Difference of Number of Distinct Values on Diagonals](./problems/2700-2799/2711/README.md)                            |        | Medium |             |      |
+| 2711 | [Difference of Number of Distinct Values on Diagonals](./problems/2700-2799/2711/README.md) | :o: | Medium | [arr],[matrix] |   |
 | 2712 | [Minimum Cost to Make All Characters Equal](./problems/2700-2799/2712/README.md)                                       |        | Medium |             |      |
 | 2713 | [Maximum Strictly Increasing Cells in a Matrix](./problems/2700-2799/2713/README.md)                                   |        | Hard   |             |      |
 | 2714 | [Find Shortest Path with K Hops](./problems/2700-2799/2714/README.md)                                                  | :lock: | Hard   |             |      |

@@ -9,3 +9,4 @@
 | 3849 | [Maximum Bitwise XOR After Rearrangement](./problems/3800-3899/3849/README.md) | :o: | Medium | [bit] |   |
 | 3853 | [Merge Close Characters](./problems/3800-3899/3853/README.md) | :o: | Medium | [arr] |   |
 | 1750 | [Minimum Length of String After Deleting Similar Ends](./problems/1700-1799/1750/README.md) | :o: | Medium | [tp] |   |
+| 2530 | [Maximal Score After Applying K Operations](./problems/2500-2599/2530/README.md) | :o: | Medium | [arr],[heap] |   |

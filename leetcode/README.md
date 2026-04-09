@@ -2476,7 +2476,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2460 | [Apply Operations to an Array](./problems/2400-2499/2460/README.md)                                                    |        | Easy   |             |      |
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](./problems/2400-2499/2461/README.md)                                 |        | Medium |             |      |
 | 2462 | [Total Cost to Hire K Workers](./problems/2400-2499/2462/README.md)                                                    |        | Medium |             |      |
-| 2463 | [Minimum Total Distance Traveled](./problems/2400-2499/2463/README.md)                                                 |        | Hard   |             |      |
+| 2463 | [Minimum Total Distance Traveled](./problems/2400-2499/2463/README.md) | :o: | Hard | [arr],[dp] | :+1:  |
 | 2464 | [Minimum Subarrays in a Valid Split](./problems/2400-2499/2464/README.md)                                              | :lock: | Medium |             |      |
 | 2465 | [Number of Distinct Averages](./problems/2400-2499/2465/README.md)                                                     |        | Easy   |             |      |
 | 2466 | [Count Ways To Build Good Strings](./problems/2400-2499/2466/README.md)                                                |        | Medium |             |      |

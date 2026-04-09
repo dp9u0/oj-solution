@@ -1660,7 +1660,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1585 | [Check If String Is Transformable With Substring Sort Operations](./problems/1500-1599/1585/README.md)                 |        | Hard   |             |      |
 | 1586 | [Binary Search Tree Iterator II](./problems/1500-1599/1586/README.md)                                                  | :lock: | Medium |             |      |
 | 1587 | [Bank Account Summary II](./problems/1500-1599/1587/README.md)                                                         | :lock: | Easy   |             |      |
-| 1588 | [Sum of All Odd Length Subarrays](./problems/1500-1599/1588/README.md)                                                 |        | Easy   |             |      |
+| 1588 | [Sum of All Odd Length Subarrays](./problems/1500-1599/1588/README.md) | :o: | Easy | [arr],[math] |   |
 | 1589 | [Maximum Sum Obtained of Any Permutation](./problems/1500-1599/1589/README.md)                                         |        | Medium |             |      |
 | 1590 | [Make Sum Divisible by P](./problems/1500-1599/1590/README.md)                                                         |        | Medium |             |      |
 | 1591 | [Strange Printer II](./problems/1500-1599/1591/README.md)                                                              |        | Hard   |             |      |

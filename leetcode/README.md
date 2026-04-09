@@ -1613,7 +1613,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1538 | [Guess the Majority in a Hidden Array](./problems/1500-1599/1538/README.md)                                            | :lock: | Medium |             |      |
 | 1539 | [Kth Missing Positive Number](./problems/1500-1599/1539/README.md)                                                     |        | Easy   |             |      |
 | 1540 | [Can Convert String in K Moves](./problems/1500-1599/1540/README.md)                                                   |        | Medium |             |      |
-| 1541 | [Minimum Insertions to Balance a Parentheses String](./problems/1500-1599/1541/README.md)                              |        | Medium |             |      |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](./problems/1500-1599/1541/README.md) | :o: | Medium | [arr],[greedy] |   |
 | 1542 | [Find Longest Awesome Substring](./problems/1500-1599/1542/README.md)                                                  |        | Hard   |             |      |
 | 1543 | [Fix Product Name Format](./problems/1500-1599/1543/README.md)                                                         | :lock: | Easy   |             |      |
 | 1544 | [Make The String Great](./problems/1500-1599/1544/README.md)                                                           |        | Easy   |             |      |

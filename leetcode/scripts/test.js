@@ -11,7 +11,7 @@ let jsPath = common.getJsPath(problem);
 // save first
 common.saveCurrent(problem);
 // test
-let cmdStr = `leetcode test ${jsPath}`;
+let cmdStr = `lc test ${jsPath}`;
 execSync(cmdStr, {
   stdio: 'inherit'
 });

@@ -11,7 +11,7 @@ let jsPath = common.getJsPath(problem);
 // Save first
 common.saveCurrent(problem);
 // run pusn
-let cmdStr = `leetcode push ${jsPath}`;
+let cmdStr = `lc push ${jsPath}`;
 execSync(cmdStr, {
   stdio: 'inherit'
 });

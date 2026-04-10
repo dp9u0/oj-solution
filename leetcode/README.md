@@ -3155,7 +3155,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3139 | [Minimum Cost to Equalize Array](./problems/3100-3199/3139/README.md)                                                  |        | Hard   |                                                             |      |
 | 3140 | [Consecutive Available Seats II](./problems/3100-3199/3140/README.md)                                                  | :lock: | Medium |                                                             |      |
 | 3141 | [Maximum Hamming Distances](./problems/3100-3199/3141/README.md)                                                       | :lock: | Hard   |                                                             |      |
-| 3142 | [Check if Grid Satisfies Conditions](./problems/3100-3199/3142/README.md)                                              |        | Easy   |                                                             |      |
+| 3142 | [Check if Grid Satisfies Conditions](./problems/3100-3199/3142/README.md) | :o: | Easy | [arr] |   |
 | 3143 | [Maximum Points Inside the Square](./problems/3100-3199/3143/README.md)                                                |        | Medium |                                                             |      |
 | 3144 | [Minimum Substring Partition of Equal Character Frequency](./problems/3100-3199/3144/README.md)                        |        | Medium |                                                             |      |
 | 3145 | [Find Products of Elements of Big Array](./problems/3100-3199/3145/README.md)                                          |        | Hard   |                                                             |      |

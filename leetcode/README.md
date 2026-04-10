@@ -3432,3 +3432,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1760 | [Minimum Limit of Balls in a Bag](./problems/1700-1799/1760/README.md)                                                 | :o:    | Medium | [bs]                                                        |      |
 | 3522 | [Calculate Score After Performing Instructions](./problems/3500-3599/3522/README.md)                                   | :o:    | Medium | [arr],[sim]                                                 |      |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](./problems/1700-1799/1769/README.md) | :o: | Medium | [arr] |   |
+| 3740 | [Minimum Distance Between Three Equal Elements I](./problems/3700-3799/3740/README.md) | :o: | Easy | [arr] |   |

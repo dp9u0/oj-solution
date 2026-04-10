@@ -2224,7 +2224,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2208 | [Minimum Operations to Halve Array Sum](./problems/2200-2299/2208/README.md)                                           |        | Medium |                                                             |      |
 | 2209 | [Minimum White Tiles After Covering With Carpets](./problems/2200-2299/2209/README.md)                                 |        | Hard   |                                                             |      |
 | 2210 | [Count Hills and Valleys in an Array](./problems/2200-2299/2210/README.md)                                             |        | Easy   |                                                             |      |
-| 2211 | [Count Collisions on a Road](./problems/2200-2299/2211/README.md)                                                      |        | Medium |                                                             |      |
+| 2211 | [Count Collisions on a Road](./problems/2200-2299/2211/README.md) | :o: | Medium | [stack] |   |
 | 2212 | [Maximum Points in an Archery Competition](./problems/2200-2299/2212/README.md)                                        |        | Medium |                                                             |      |
 | 2213 | [Longest Substring of One Repeating Character](./problems/2200-2299/2213/README.md)                                    |        | Hard   |                                                             |      |
 | 2214 | [Minimum Health to Beat Game](./problems/2200-2299/2214/README.md)                                                     | :lock: | Medium |                                                             |      |

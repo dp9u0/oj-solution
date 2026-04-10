@@ -3433,3 +3433,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3522 | [Calculate Score After Performing Instructions](./problems/3500-3599/3522/README.md)                                   | :o:    | Medium | [arr],[sim]                                                 |      |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](./problems/1700-1799/1769/README.md) | :o: | Medium | [arr] |   |
 | 3740 | [Minimum Distance Between Three Equal Elements I](./problems/3700-3799/3740/README.md) | :o: | Easy | [arr] |   |
+| 1759 | [Count Number of Homogenous Substrings](./problems/1700-1799/1759/README.md) | :o: | Medium | [arr] |   |

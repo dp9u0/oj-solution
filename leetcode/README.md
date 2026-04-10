@@ -1117,7 +1117,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1040 | [Moving Stones Until Consecutive II](./problems/1000-1099/1040/README.md)                                              |        | Medium |                                                             |      |
 | 1041 | [Robot Bounded In Circle](./problems/1000-1099/1041/README.md)                                                         |        | Medium |                                                             |      |
 | 1042 | [Flower Planting With No Adjacent](./problems/1000-1099/1042/README.md)                                                |        | Easy   |                                                             |      |
-| 1043 | [Partition Array for Maximum Sum](./problems/1000-1099/1043/README.md)                                                 |        | Medium |                                                             |      |
+| 1043 | [Partition Array for Maximum Sum](./problems/1000-1099/1043/README.md) | :o: | Medium | [dp] |   |
 | 1044 | [Longest Duplicate Substring](./problems/1000-1099/1044/README.md)                                                     |        | Hard   |                                                             |      |
 | 1045 | [Customers Who Bought All Products](./problems/1000-1099/1045/README.md)                                               | :lock: | Medium |                                                             |      |
 | 1046 | [Last Stone Weight](./problems/1000-1099/1046/README.md)                                                               | :o:    | Easy   | [hp]                                                        |      |

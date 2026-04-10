@@ -1901,7 +1901,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1885 | [Count Pairs in Two Arrays](./problems/1800-1899/1885/README.md)                                                       | :lock: | Medium |                                                             |      |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](./problems/1800-1899/1886/README.md)                            |        | Easy   |                                                             |      |
 | 1887 | [Reduction Operations to Make the Array Elements Equal](./problems/1800-1899/1887/README.md)                           |        | Medium |                                                             |      |
-| 1888 | [Minimum Number of Flips to Make the Binary String Alternating](./problems/1800-1899/1888/README.md)                   |        | Medium |                                                             |      |
+| 1888 | [Minimum Number of Flips to Make the Binary String Alternating](./problems/1800-1899/1888/README.md) | :o: | Medium | [arr] |   |
 | 1889 | [Minimum Space Wasted From Packaging](./problems/1800-1899/1889/README.md)                                             |        | Hard   |                                                             |      |
 | 1890 | [The Latest Login in 2020](./problems/1800-1899/1890/README.md)                                                        | :lock: | Easy   |                                                             |      |
 | 1891 | [Cutting Ribbons](./problems/1800-1899/1891/README.md)                                                                 | :lock: | Medium |                                                             |      |

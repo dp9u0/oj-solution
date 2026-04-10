@@ -1782,7 +1782,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1707 | [Maximum XOR With an Element From Array](./problems/1700-1799/1707/README.md)                                          |        | Hard   |                                                             |      |
 | 1708 | [Largest Subarray Length K](./problems/1700-1799/1708/README.md)                                                       | :lock: | Easy   |                                                             |      |
 | 1709 | [Biggest Window Between Visits](./problems/1700-1799/1709/README.md)                                                   | :lock: | Medium |                                                             |      |
-| 1710 | [Maximum Units on a Truck](./problems/1700-1799/1710/README.md)                                                        |        | Easy   |                                                             |      |
+| 1710 | [Maximum Units on a Truck](./problems/1700-1799/1710/README.md) | :o: | Easy | [arr],[greedy] |   |
 | 1711 | [Count Good Meals](./problems/1700-1799/1711/README.md)                                                                |        | Medium |                                                             |      |
 | 1712 | [Ways to Split Array Into Three Subarrays](./problems/1700-1799/1712/README.md)                                        |        | Medium |                                                             |      |
 | 1713 | [Minimum Operations to Make a Subsequence](./problems/1700-1799/1713/README.md)                                        |        | Hard   |                                                             |      |

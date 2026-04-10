@@ -2629,7 +2629,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2613 | [Beautiful Pairs](./problems/2600-2699/2613/README.md)                                                                 | :lock: | Hard   |                                                             |      |
 | 2614 | [Prime In Diagonal](./problems/2600-2699/2614/README.md)                                                               |        | Easy   |                                                             |      |
 | 2615 | [Sum of Distances](./problems/2600-2699/2615/README.md)                                                                |        | Medium |                                                             |      |
-| 2616 | [Minimize the Maximum Difference of Pairs](./problems/2600-2699/2616/README.md)                                        |        | Medium |                                                             |      |
+| 2616 | [Minimize the Maximum Difference of Pairs](./problems/2600-2699/2616/README.md) | :o: | Medium | [arr],[bs],[greedy] | :+1:  |
 | 2617 | [Minimum Number of Visited Cells in a Grid](./problems/2600-2699/2617/README.md)                                       |        | Hard   |                                                             |      |
 | 2618 | [2618](./problems/2600-2699/2618/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2619 | [2619](./problems/2600-2699/2619/README.md)                                                                            |        | Easy   |                                                             |      |

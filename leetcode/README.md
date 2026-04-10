@@ -949,7 +949,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 872  | [Leaf-Similar Trees](./problems/800-899/872/README.md)                                                                 | :o:    | Easy   | [tr]                                                        |      |
 | 873  | [Length of Longest Fibonacci Subsequence](./problems/800-899/873/README.md)                                            |        | Medium |                                                             |      |
 | 874  | [Walking Robot Simulation](./problems/800-899/874/README.md)                                                           | :o:    | Easy   | [math]                                                      |      |
-| 875  | [Koko Eating Bananas](./problems/800-899/875/README.md)                                                                |        | Medium |                                                             |      |
+| 875 | [Koko Eating Bananas](./problems/800-899/875/README.md) | :o: | Medium | [bs] |   |
 | 876  | [Middle of the Linked List](./problems/800-899/876/README.md)                                                          | :o:    | Easy   | [tp],[ll]                                                   |      |
 | 877  | [Stone Game](./problems/800-899/877/README.md)                                                                         |        | Medium |                                                             |      |
 | 878  | [Nth Magical Number](./problems/800-899/878/README.md)                                                                 |        | Hard   |                                                             |      |

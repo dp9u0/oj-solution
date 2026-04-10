@@ -2143,7 +2143,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2127 | [Maximum Employees to Be Invited to a Meeting](./problems/2100-2199/2127/README.md)                                    |        | Hard   |                                                             |      |
 | 2128 | [Remove All Ones With Row and Column Flips](./problems/2100-2199/2128/README.md)                                       | :lock: | Medium |                                                             |      |
 | 2129 | [Capitalize the Title](./problems/2100-2199/2129/README.md)                                                            |        | Easy   |                                                             |      |
-| 2130 | [Maximum Twin Sum of a Linked List](./problems/2100-2199/2130/README.md)                                               |        | Medium |                                                             |      |
+| 2130 | [Maximum Twin Sum of a Linked List](./problems/2100-2199/2130/README.md) | :o: | Medium | [ll] |   |
 | 2131 | [Longest Palindrome by Concatenating Two Letter Words](./problems/2100-2199/2131/README.md)                            |        | Medium |                                                             |      |
 | 2132 | [Stamping the Grid](./problems/2100-2199/2132/README.md)                                                               |        | Hard   |                                                             |      |
 | 2133 | [Check if Every Row and Column Contains All Numbers](./problems/2100-2199/2133/README.md)                              |        | Easy   |                                                             |      |

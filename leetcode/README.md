@@ -599,7 +599,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 520  | [Detect Capital](./problems/500-599/520/README.md)                                                                     | :o:    | Easy   | [str]                                                       |      |
 | 521  | [Longest Uncommon Subsequence I](./problems/500-599/521/README.md)                                                     | :o:    | Easy   | [str]                                                       | :-1: |
 | 522  | [Longest Uncommon Subsequence II](./problems/500-599/522/README.md)                                                    |        | Medium |                                                             |      |
-| 523  | [Continuous Subarray Sum](./problems/500-599/523/README.md)                                                            |        | Medium |                                                             |      |
+| 523 | [Continuous Subarray Sum](./problems/500-599/523/README.md) | :o: | Medium | [arr],[hash] | :+1:  |
 | 524  | [Longest Word in Dictionary through Deleting](./problems/500-599/524/README.md)                                        |        | Medium |                                                             |      |
 | 525  | [Contiguous Array](./problems/500-599/525/README.md)                                                                   |        | Medium |                                                             |      |
 | 526  | [Beautiful Arrangement](./problems/500-599/526/README.md)                                                              |        | Medium |                                                             |      |

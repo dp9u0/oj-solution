@@ -873,7 +873,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 796  | [Rotate String](./problems/700-799/796/README.md)                                                                      | :o:    | Easy   | [str]                                                       | :+1: |
 | 797  | [All Paths From Source to Target](./problems/700-799/797/README.md)                                                    |        | Medium |                                                             |      |
 | 798  | [Smallest Rotation with Highest Score](./problems/700-799/798/README.md)                                               |        | Hard   |                                                             |      |
-| 799  | [Champagne Tower](./problems/700-799/799/README.md)                                                                    |        | Medium |                                                             |      |
+| 799 | [Champagne Tower](./problems/700-799/799/README.md) | :o: | Medium | [dp] |   |
 | 800  | [Similar RGB Color](./problems/800-899/800/README.md)                                                                  | :lock: | Easy   |                                                             |      |
 | 801  | [Minimum Swaps To Make Sequences Increasing](./problems/800-899/801/README.md)                                         |        | Medium |                                                             |      |
 | 802  | [Find Eventual Safe States](./problems/800-899/802/README.md)                                                          |        | Medium |                                                             |      |

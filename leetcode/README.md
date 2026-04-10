@@ -812,7 +812,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 735  | [Asteroid Collision](./problems/700-799/735/README.md)                                                                 |        | Medium |                                                             |      |
 | 736  | [Parse Lisp Expression](./problems/700-799/736/README.md)                                                              |        | Hard   |                                                             |      |
 | 737  | [Sentence Similarity II](./problems/700-799/737/README.md)                                                             | :lock: | Medium |                                                             |      |
-| 738  | [Monotone Increasing Digits](./problems/700-799/738/README.md)                                                         |        | Medium |                                                             |      |
+| 738 | [Monotone Increasing Digits](./problems/700-799/738/README.md) | :o: | Medium | [greedy] |   |
 | 739  | [Daily Temperatures](./problems/700-799/739/README.md)                                                                 | :o:    | Medium | [stack]                                                     | :+1: |
 | 740  | [Delete and Earn](./problems/700-799/740/README.md)                                                                    |        | Medium |                                                             |      |
 | 741  | [Cherry Pickup](./problems/700-799/741/README.md)                                                                      |        | Hard   |                                                             |      |

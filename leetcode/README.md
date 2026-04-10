@@ -975,7 +975,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 898  | [Bitwise ORs of Subarrays](./problems/800-899/898/README.md)                                                           |        | Medium |                                                             |      |
 | 899  | [Orderly Queue](./problems/800-899/899/README.md)                                                                      |        | Hard   |                                                             |      |
 | 900  | [RLE Iterator](./problems/900-999/900/README.md)                                                                       |        | Medium |                                                             |      |
-| 901  | [Online Stock Span](./problems/900-999/901/README.md)                                                                  |        | Medium |                                                             |      |
+| 901 | [Online Stock Span](./problems/900-999/901/README.md) | :o: | Medium | [stack] | :+1:  |
 | 902  | [Numbers At Most N Given Digit Set](./problems/900-999/902/README.md)                                                  |        | Hard   |                                                             |      |
 | 903  | [Valid Permutations for DI Sequence](./problems/900-999/903/README.md)                                                 |        | Hard   |                                                             |      |
 | 904  | [Fruit Into Baskets](./problems/900-999/904/README.md)                                                                 |        | Medium |                                                             |      |

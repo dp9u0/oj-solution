@@ -582,7 +582,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 500  | [Keyboard Row](./problems/500-599/500/README.md)                                                                       | :o:    | Easy   | [string]                                                    | :+1: |
 | 501  | [Find Mode in Binary Search Tree](./problems/500-599/501/README.md)                                                    | :o:    | Easy   | [tr]                                                        | ~    |
 | 502  | [IPO](./problems/500-599/502/README.md)                                                                                |        | Hard   |                                                             |      |
-| 503  | [Next Greater Element II](./problems/500-599/503/README.md)                                                            |        | Medium |                                                             |      |
+| 503 | [Next Greater Element II](./problems/500-599/503/README.md) | :o: | Medium | [arr],[stack] | :+1:  |
 | 504  | [Base 7](./problems/500-599/504/README.md)                                                                             | :o:    | Easy   | [math]                                                      |      |
 | 505  | [The Maze II](./problems/500-599/505/README.md)                                                                        | :lock: | Medium |                                                             |      |
 | 506  | [Relative Ranks](./problems/500-599/506/README.md)                                                                     | :o:    | Easy   | [map]                                                       |      |

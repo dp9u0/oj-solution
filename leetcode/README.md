@@ -1122,7 +1122,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1045 | [Customers Who Bought All Products](./problems/1000-1099/1045/README.md)                                               | :lock: | Medium |                                                             |      |
 | 1046 | [Last Stone Weight](./problems/1000-1099/1046/README.md)                                                               | :o:    | Easy   | [hp]                                                        |      |
 | 1047 | [Remove All Adjacent Duplicates In String](./problems/1000-1099/1047/README.md)                                        |        | Easy   |                                                             |      |
-| 1048 | [Longest String Chain](./problems/1000-1099/1048/README.md)                                                            |        | Medium |                                                             |      |
+| 1048 | [Longest String Chain](./problems/1000-1099/1048/README.md) | :o: | Medium | [dp] |   |
 | 1049 | [Last Stone Weight II](./problems/1000-1099/1049/README.md)                                                            |        | Medium |                                                             |      |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](./problems/1000-1099/1050/README.md)                        | :lock: | Easy   |                                                             |      |
 | 1051 | [Height Checker](./problems/1000-1099/1051/README.md)                                                                  | :o:    | Easy   | [arr]                                                       |      |

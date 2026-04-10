@@ -1032,7 +1032,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 955  | [Delete Columns to Make Sorted II](./problems/900-999/955/README.md)                                                   |        | Medium |                                                             |      |
 | 956  | [Tallest Billboard](./problems/900-999/956/README.md)                                                                  | :o:    | Hard   | [hsh]                                                       |      |
 | 957  | [Prison Cells After N Days](./problems/900-999/957/README.md)                                                          |        | Medium |                                                             |      |
-| 958  | [Check Completeness of a Binary Tree](./problems/900-999/958/README.md)                                                |        | Medium |                                                             |      |
+| 958 | [Check Completeness of a Binary Tree](./problems/900-999/958/README.md) | :o: | Medium | [tr] |   |
 | 959  | [Regions Cut By Slashes](./problems/900-999/959/README.md)                                                             |        | Medium |                                                             |      |
 | 960  | [Delete Columns to Make Sorted III](./problems/900-999/960/README.md)                                                  |        | Hard   |                                                             |      |
 | 961  | [N-Repeated Element in Size 2N Array](./problems/900-999/961/README.md)                                                | :o:    | Easy   | [hsh]                                                       |      |

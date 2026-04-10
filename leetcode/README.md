@@ -2868,7 +2868,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2852 | [Sum of Remoteness of All Cells](./problems/2800-2899/2852/README.md)                                                  | :lock: | Medium |                                                             |      |
 | 2853 | [Highest Salaries Difference](./problems/2800-2899/2853/README.md)                                                     | :lock: | Easy   |                                                             |      |
 | 2854 | [Rolling Average Steps](./problems/2800-2899/2854/README.md)                                                           | :lock: | Medium |                                                             |      |
-| 2855 | [Minimum Right Shifts to Sort the Array](./problems/2800-2899/2855/README.md)                                          |        | Easy   |                                                             |      |
+| 2855 | [Minimum Right Shifts to Sort the Array](./problems/2800-2899/2855/README.md) | :o: | Easy | [arr] |   |
 | 2856 | [Minimum Array Length After Pair Removals](./problems/2800-2899/2856/README.md)                                        |        | Medium |                                                             |      |
 | 2857 | [Count Pairs of Points With Distance k](./problems/2800-2899/2857/README.md)                                           |        | Medium |                                                             |      |
 | 2858 | [Minimum Edge Reversals So Every Node Is Reachable](./problems/2800-2899/2858/README.md)                               |        | Hard   |                                                             |      |

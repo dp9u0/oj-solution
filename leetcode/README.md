@@ -529,7 +529,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 447  | [Number of Boomerangs](./problems/400-499/447/README.md)                                                               | :o:    | Easy   | [hsh]                                                       |      |
 | 448  | [Find All Numbers Disappeared in an Array](./problems/400-499/448/README.md)                                           | :o:    | Easy   | [arr]                                                       |      |
 | 449  | [Serialize and Deserialize BST](./problems/400-499/449/README.md)                                                      |        | Medium |                                                             |      |
-| 450  | [Delete Node in a BST](./problems/400-499/450/README.md)                                                               |        | Medium |                                                             |      |
+| 450 | [Delete Node in a BST](./problems/400-499/450/README.md) | :o: | Medium | [tr] | :+1:  |
 | 451  | [Sort Characters By Frequency](./problems/400-499/451/README.md)                                                       |        | Medium |                                                             |      |
 | 452  | [Minimum Number of Arrows to Burst Balloons](./problems/400-499/452/README.md)                                         |        | Medium |                                                             |      |
 | 453  | [Minimum Moves to Equal Array Elements](./problems/400-499/453/README.md)                                              | :o:    | Easy   | [math]                                                      |      |

@@ -3215,7 +3215,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3199 | [Count Triplets with Even XOR Set Bits I](./problems/3100-3199/3199/README.md)                                         | :lock: | Easy   |                                                             |      |
 | 3200 | [Maximum Height of a Triangle](./problems/3200-3299/3200/README.md)                                                    |        | Easy   |                                                             |      |
 | 3201 | [Find the Maximum Length of Valid Subsequence I](./problems/3200-3299/3201/README.md)                                  |        | Medium |                                                             |      |
-| 3202 | [Find the Maximum Length of Valid Subsequence II](./problems/3200-3299/3202/README.md)                                 |        | Medium |                                                             |      |
+| 3202 | [Find the Maximum Length of Valid Subsequence II](./problems/3200-3299/3202/README.md) | :o: | Medium | [dp] |   |
 | 3203 | [Find Minimum Diameter After Merging Two Trees](./problems/3200-3299/3203/README.md)                                   |        | Hard   |                                                             |      |
 | 3204 | [Bitwise User Permissions Analysis](./problems/3200-3299/3204/README.md)                                               | :lock: | Medium |                                                             |      |
 | 3205 | [Maximum Array Hopping Score I](./problems/3200-3299/3205/README.md)                                                   | :lock: | Medium |                                                             |      |

@@ -565,7 +565,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 483  | [Smallest Good Base](./problems/400-499/483/README.md)                                                                 |        | Hard   |                                                             |      |
 | 484  | [Find Permutation](./problems/400-499/484/README.md)                                                                   | :lock: | Medium |                                                             |      |
 | 485  | [Max Consecutive Ones](./problems/400-499/485/README.md)                                                               | :o:    | Easy   | [arr]                                                       |      |
-| 486  | [Predict the Winner](./problems/400-499/486/README.md)                                                                 |        | Medium |                                                             |      |
+| 486 | [Predict the Winner](./problems/400-499/486/README.md) | :o: | Medium | [dp] |   |
 | 487  | [Max Consecutive Ones II](./problems/400-499/487/README.md)                                                            | :lock: | Medium |                                                             |      |
 | 488  | [Zuma Game](./problems/400-499/488/README.md)                                                                          |        | Hard   |                                                             |      |
 | 489  | [Robot Room Cleaner](./problems/400-499/489/README.md)                                                                 | :lock: | Hard   |                                                             |      |

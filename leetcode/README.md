@@ -617,7 +617,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 539  | [Minimum Time Difference](./problems/500-599/539/README.md)                                                            |        | Medium |                                                             |      |
 | 540  | [Single Element in a Sorted Array](./problems/500-599/540/README.md)                                                   |        | Medium |                                                             |      |
 | 541  | [Reverse String II](./problems/500-599/541/README.md)                                                                  | :o:    | Easy   | [str]                                                       |      |
-| 542  | [01 Matrix](./problems/500-599/542/README.md)                                                                          |        | Medium |                                                             |      |
+| 542 | [01 Matrix](./problems/500-599/542/README.md) | :o: | Medium | [bfs] | :+1:  |
 | 543  | [Diameter of Binary Tree](./problems/500-599/543/README.md)                                                            | :o:    | Easy   | [tr]                                                        |      |
 | 544  | [Output Contest Matches](./problems/500-599/544/README.md)                                                             | :lock: | Medium |                                                             |      |
 | 545  | [Boundary of Binary Tree](./problems/500-599/545/README.md)                                                            | :lock: | Medium |                                                             |      |

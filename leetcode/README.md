@@ -1434,7 +1434,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1359 | [Count All Valid Pickup and Delivery Options](./problems/1300-1399/1359/README.md)                                     |        | Hard   |             |      |
 | 1360 | [Number of Days Between Two Dates](./problems/1300-1399/1360/README.md)                                                |        | Easy   |             |      |
 | 1361 | [Validate Binary Tree Nodes](./problems/1300-1399/1361/README.md)                                                      |        | Medium |             |      |
-| 1362 | [Closest Divisors](./problems/1300-1399/1362/README.md)                                                                |        | Medium |             |      |
+| 1362 | [Closest Divisors](./problems/1300-1399/1362/README.md) | :o: | Medium | [math] |   |
 | 1363 | [Largest Multiple of Three](./problems/1300-1399/1363/README.md)                                                       |        | Hard   |             |      |
 | 1364 | [Number of Trusted Contacts of a Customer](./problems/1300-1399/1364/README.md)                                        | :lock: | Medium |             |      |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](./problems/1300-1399/1365/README.md)                            | :o:    | Easy   | [arr]       | :+1: |

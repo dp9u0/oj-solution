@@ -1709,7 +1709,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1634 | [Add Two Polynomials Represented as Linked Lists](./problems/1600-1699/1634/README.md)                                 | :lock: | Medium |                                                             |      |
 | 1635 | [Hopper Company Queries I](./problems/1600-1699/1635/README.md)                                                        | :lock: | Hard   |                                                             |      |
 | 1636 | [Sort Array by Increasing Frequency](./problems/1600-1699/1636/README.md)                                              |        | Easy   |                                                             |      |
-| 1637 | [Widest Vertical Area Between Two Points Containing No Points](./problems/1600-1699/1637/README.md)                    |        | Medium |                                                             |      |
+| 1637 | [Widest Vertical Area Between Two Points Containing No Points](./problems/1600-1699/1637/README.md) | :o: | Easy | [arr] |   |
 | 1638 | [Count Substrings That Differ by One Character](./problems/1600-1699/1638/README.md)                                   |        | Medium |                                                             |      |
 | 1639 | [Number of Ways to Form a Target String Given a Dictionary](./problems/1600-1699/1639/README.md)                       |        | Hard   |                                                             |      |
 | 1640 | [Check Array Formation Through Concatenation](./problems/1600-1699/1640/README.md)                                     |        | Easy   |                                                             |      |

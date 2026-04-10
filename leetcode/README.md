@@ -1019,7 +1019,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 942  | [DI String Match](./problems/900-999/942/README.md)                                                                    | :o:    | Easy   | [tp]                                                        |      |
 | 943  | [Find the Shortest Superstring](./problems/900-999/943/README.md)                                                      |        | Hard   |                                                             |      |
 | 944  | [Delete Columns to Make Sorted](./problems/900-999/944/README.md)                                                      | :o:    | Easy   | [str]                                                       |      |
-| 945  | [Minimum Increment to Make Array Unique](./problems/900-999/945/README.md)                                             |        | Medium |                                                             |      |
+| 945 | [Minimum Increment to Make Array Unique](./problems/900-999/945/README.md) | :o: | Medium | [arr] |   |
 | 946  | [Validate Stack Sequences](./problems/900-999/946/README.md)                                                           |        | Medium |                                                             |      |
 | 947  | [Most Stones Removed with Same Row or Column](./problems/900-999/947/README.md)                                        |        | Medium |                                                             |      |
 | 948  | [Bag of Tokens](./problems/900-999/948/README.md)                                                                      |        | Medium |                                                             |      |

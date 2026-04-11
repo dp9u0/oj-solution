@@ -1565,7 +1565,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1490 | [Clone N-ary Tree](./problems/1400-1499/1490/README.md)                                                                | :lock: | Medium |                                                             |      |
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](./problems/1400-1499/1491/README.md)                         | :o:    | Easy   | [arr]                                                       |      |
 | 1492 | [The kth Factor of n](./problems/1400-1499/1492/README.md)                                                             |        | Medium |                                                             |      |
-| 1493 | [Longest Subarray of 1's After Deleting One Element](./problems/1400-1499/1493/README.md)                              |        | Medium |                                                             |      |
+| 1493 | [Longest Subarray of 1's After Deleting One Element](./problems/1400-1499/1493/README.md) | :o: | Medium | [arr],[tp] |   |
 | 1494 | [Parallel Courses II](./problems/1400-1499/1494/README.md)                                                             |        | Hard   |                                                             |      |
 | 1495 | [Friendly Movies Streamed Last Month](./problems/1400-1499/1495/README.md)                                             | :lock: | Easy   |                                                             |      |
 | 1496 | [Path Crossing](./problems/1400-1499/1496/README.md)                                                                   |        | Easy   |                                                             |      |

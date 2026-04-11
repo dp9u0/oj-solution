@@ -535,7 +535,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 453  | [Minimum Moves to Equal Array Elements](./problems/400-499/453/README.md)                                              | :o:    | Easy   | [math]                                                      |      |
 | 454  | [4Sum II](./problems/400-499/454/README.md)                                                                            |        | Medium |                                                             |      |
 | 455  | [Assign Cookies](./problems/400-499/455/README.md)                                                                     | :o:    | Easy   | [grd]                                                       | :+1: |
-| 456  | [132 Pattern](./problems/400-499/456/README.md)                                                                        |        | Medium |                                                             |      |
+| 456 | [132 Pattern](./problems/400-499/456/README.md) | :o: | Medium | [arr],[stack] | :+1:  |
 | 457  | [Circular Array Loop](./problems/400-499/457/README.md)                                                                |        | Medium |                                                             |      |
 | 458  | [Poor Pigs](./problems/400-499/458/README.md)                                                                          | :o:    | Easy   | [math]                                                      | :+1: |
 | 459  | [Repeated Substring Pattern](./problems/400-499/459/README.md)                                                         | :o:    | Easy   | [string]                                                    | :+1: |

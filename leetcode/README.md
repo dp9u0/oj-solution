@@ -1290,7 +1290,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1215 | [Stepping Numbers](./problems/1200-1299/1215/README.md)                                                                | :lock: | Medium |                                                             |      |
 | 1216 | [Valid Palindrome III](./problems/1200-1299/1216/README.md)                                                            | :lock: | Hard   |                                                             |      |
 | 1217 | [Play with Chips](./problems/1200-1299/1217/README.md)                                                                 |        | Easy   |                                                             |      |
-| 1218 | [Longest Arithmetic Subsequence of Given Difference](./problems/1200-1299/1218/README.md)                              |        | Medium |                                                             |      |
+| 1218 | [Longest Arithmetic Subsequence of Given Difference](./problems/1200-1299/1218/README.md) | :o: | Medium | [arr],[dp],[hm] |   |
 | 1219 | [Path with Maximum Gold](./problems/1200-1299/1219/README.md)                                                          |        | Medium |                                                             |      |
 | 1220 | [Count Vowels Permutation](./problems/1200-1299/1220/README.md)                                                        |        | Hard   |                                                             |      |
 | 1221 | [Split a String in Balanced Strings](./problems/1200-1299/1221/README.md) | :o: | Easy | [str],[greedy] |   |

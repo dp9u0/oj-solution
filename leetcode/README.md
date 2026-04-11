@@ -859,7 +859,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 782  | [Transform to Chessboard](./problems/700-799/782/README.md)                                                            |        | Hard   |                                                             |      |
 | 783  | [Minimum Distance Between BST Nodes](./problems/700-799/783/README.md)                                                 | :o:    | Easy   | [tr]                                                        | 530  |
 | 784  | [Letter Case Permutation](./problems/700-799/784/README.md)                                                            | :o:    | Easy   | [bt]                                                        |      |
-| 785  | [Is Graph Bipartite?](./problems/700-799/785/README.md)                                                                |        | Medium |                                                             |      |
+| 785 | [Is Graph Bipartite?](./problems/700-799/785/README.md) | :o: | Medium | [bfs] | :+1:  |
 | 786  | [K-th Smallest Prime Fraction](./problems/700-799/786/README.md)                                                       |        | Hard   |                                                             |      |
 | 787  | [Cheapest Flights Within K Stops](./problems/700-799/787/README.md)                                                    |        | Medium |                                                             |      |
 | 788  | [Rotated Digits](./problems/700-799/788/README.md)                                                                     | :o:    | Easy   | [dp]                                                        | :+1: |
@@ -2378,7 +2378,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2362 | [Generate the Invoice](./problems/2300-2399/2362/README.md)                                                            | :lock: | Hard   |                                                             |      |
 | 2363 | [Merge Similar Items](./problems/2300-2399/2363/README.md)                                                             |        | Easy   |                                                             |      |
 | 2364 | [Count Number of Bad Pairs](./problems/2300-2399/2364/README.md)                                                       |        | Medium |                                                             |      |
-| 2365 | [Task Scheduler II](./problems/2300-2399/2365/README.md)                                                               |        | Medium |                                                             |      |
+| 2365 | [Task Scheduler II](./problems/2300-2399/2365/README.md) | :o: | Medium | [arr] |   |
 | 2366 | [Minimum Replacements to Sort the Array](./problems/2300-2399/2366/README.md)                                          |        | Hard   |                                                             |      |
 | 2367 | [Number of Arithmetic Triplets](./problems/2300-2399/2367/README.md)                                                   |        | Easy   |                                                             |      |
 | 2368 | [Reachable Nodes With Restrictions](./problems/2300-2399/2368/README.md)                                               |        | Medium |                                                             |      |

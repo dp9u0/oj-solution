@@ -541,7 +541,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 459  | [Repeated Substring Pattern](./problems/400-499/459/README.md)                                                         | :o:    | Easy   | [string]                                                    | :+1: |
 | 460  | [LFU Cache](./problems/400-499/460/README.md)                                                                          | :o:    | Hard   | [ll],[hsh]                                                  | :+1: |
 | 461  | [Hamming Distance](./problems/400-499/461/README.md)                                                                   | :o:    | Easy   | [bit]                                                       |      |
-| 462  | [Minimum Moves to Equal Array Elements II](./problems/400-499/462/README.md)                                           |        | Medium |                                                             |      |
+| 462 | [Minimum Moves to Equal Array Elements II](./problems/400-499/462/README.md) | :o: | Medium | [arr],[greedy] | :+1:  |
 | 463  | [Island Perimeter](./problems/400-499/463/README.md)                                                                   | :o:    | Easy   | [arr]                                                       | ~    |
 | 464  | [Can I Win](./problems/400-499/464/README.md)                                                                          |        | Medium |                                                             |      |
 | 465  | [Optimal Account Balancing](./problems/400-499/465/README.md)                                                          | :lock: | Hard   |                                                             |      |

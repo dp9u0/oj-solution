@@ -1900,7 +1900,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1884 | [Egg Drop With 2 Eggs and N Floors](./problems/1800-1899/1884/README.md)                                               |        | Medium |                                                             |      |
 | 1885 | [Count Pairs in Two Arrays](./problems/1800-1899/1885/README.md)                                                       | :lock: | Medium |                                                             |      |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](./problems/1800-1899/1886/README.md)                            |        | Easy   |                                                             |      |
-| 1887 | [Reduction Operations to Make the Array Elements Equal](./problems/1800-1899/1887/README.md)                           |        | Medium |                                                             |      |
+| 1887 | [Reduction Operations to Make the Array Elements Equal](./problems/1800-1899/1887/README.md) | :o: | Medium | [arr],[sort] |   |
 | 1888 | [Minimum Number of Flips to Make the Binary String Alternating](./problems/1800-1899/1888/README.md) | :o: | Medium | [arr] |   |
 | 1889 | [Minimum Space Wasted From Packaging](./problems/1800-1899/1889/README.md)                                             |        | Hard   |                                                             |      |
 | 1890 | [The Latest Login in 2020](./problems/1800-1899/1890/README.md)                                                        | :lock: | Easy   |                                                             |      |

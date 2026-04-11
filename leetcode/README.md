@@ -888,7 +888,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 811  | [Subdomain Visit Count](./problems/800-899/811/README.md)                                                              | :o:    | Easy   | [str]                                                       |      |
 | 812  | [Largest Triangle Area](./problems/800-899/812/README.md)                                                              | :o:    | Easy   | [math]                                                      | :-1: |
 | 813  | [Largest Sum of Averages](./problems/800-899/813/README.md)                                                            |        | Medium |                                                             |      |
-| 814  | [Binary Tree Pruning](./problems/800-899/814/README.md)                                                                |        | Medium |                                                             |      |
+| 814 | [Binary Tree Pruning](./problems/800-899/814/README.md) | :o: | Medium | [tr],[dfs] |   |
 | 815  | [Bus Routes](./problems/800-899/815/README.md)                                                                         |        | Hard   |                                                             |      |
 | 816  | [Ambiguous Coordinates](./problems/800-899/816/README.md)                                                              |        | Medium |                                                             |      |
 | 817  | [Linked List Components](./problems/800-899/817/README.md)                                                             |        | Medium |                                                             |      |

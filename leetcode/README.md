@@ -2233,7 +2233,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2217 | [2217](./problems/2200-2299/2217/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2218 | [2218](./problems/2200-2299/2218/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2219 | [Maximum Sum Score of Array](./problems/2200-2299/2219/README.md)                                                      | :lock: | Medium |                                                             |      |
-| 2220 | [Minimum Bit Flips to Convert Number](./problems/2200-2299/2220/README.md)                                             |        | Easy   |                                                             |      |
+| 2220 | [Minimum Bit Flips to Convert Number](./problems/2200-2299/2220/README.md) | :o: | Easy | [bit],[math] |   |
 | 2221 | [Find Triangular Sum of an Array](./problems/2200-2299/2221/README.md)                                                 |        | Medium |                                                             |      |
 | 2222 | [Number of Ways to Select Buildings](./problems/2200-2299/2222/README.md) | :o: | Medium | [dp] |   |
 | 2223 | [Sum of Scores of Built Strings](./problems/2200-2299/2223/README.md)                                                  |        | Hard   |                                                             |      |

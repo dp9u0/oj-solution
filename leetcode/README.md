@@ -2378,7 +2378,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2362 | [Generate the Invoice](./problems/2300-2399/2362/README.md)                                                            | :lock: | Hard   |                                                             |      |
 | 2363 | [Merge Similar Items](./problems/2300-2399/2363/README.md)                                                             |        | Easy   |                                                             |      |
 | 2364 | [Count Number of Bad Pairs](./problems/2300-2399/2364/README.md)                                                       |        | Medium |                                                             |      |
-| 2365 | [Task Scheduler II](./problems/2300-2399/2365/README.md)                                                               |        | Medium |                                                             |      |
+| 2365 | [Task Scheduler II](./problems/2300-2399/2365/README.md) | :o: | Medium | [arr] |   |
 | 2366 | [Minimum Replacements to Sort the Array](./problems/2300-2399/2366/README.md)                                          |        | Hard   |                                                             |      |
 | 2367 | [Number of Arithmetic Triplets](./problems/2300-2399/2367/README.md)                                                   |        | Easy   |                                                             |      |
 | 2368 | [Reachable Nodes With Restrictions](./problems/2300-2399/2368/README.md)                                               |        | Medium |                                                             |      |

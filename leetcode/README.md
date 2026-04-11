@@ -1767,7 +1767,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1692 | [Count Ways to Distribute Candies](./problems/1600-1699/1692/README.md)                                                | :lock: | Hard   |                                                             |      |
 | 1693 | [Daily Leads and Partners](./problems/1600-1699/1693/README.md)                                                        | :lock: | Easy   |                                                             |      |
 | 1694 | [Reformat Phone Number](./problems/1600-1699/1694/README.md)                                                           |        | Easy   |                                                             |      |
-| 1695 | [Maximum Erasure Value](./problems/1600-1699/1695/README.md)                                                           |        | Medium |                                                             |      |
+| 1695 | [Maximum Erasure Value](./problems/1600-1699/1695/README.md) | :o: | Medium | [arr],[tp] | :+1:  |
 | 1696 | [Jump Game VI](./problems/1600-1699/1696/README.md)                                                                    |        | Medium |                                                             |      |
 | 1697 | [Checking Existence of Edge Length Limited Paths](./problems/1600-1699/1697/README.md)                                 |        | Hard   |                                                             |      |
 | 1698 | [Number of Distinct Substrings in a String](./problems/1600-1699/1698/README.md)                                       | :lock: | Medium |                                                             |      |

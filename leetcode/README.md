@@ -1387,7 +1387,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1312 | [Minimum Insertion Steps to Make a String Palindrome](./problems/1300-1399/1312/README.md)                             |        | Hard   |                                                             |      |
 | 1313 | [Decompress Run-Length Encoded List](./problems/1300-1399/1313/README.md)                                              | :o:    | Easy   | [arr]                                                       |      |
 | 1314 | [Matrix Block Sum](./problems/1300-1399/1314/README.md)                                                                |        | Medium |                                                             |      |
-| 1315 | [Sum of Nodes with Even-Valued Grandparent](./problems/1300-1399/1315/README.md)                                       |        | Medium |                                                             |      |
+| 1315 | [Sum of Nodes with Even-Valued Grandparent](./problems/1300-1399/1315/README.md) | :o: | Medium | [tr],[dfs] |   |
 | 1316 | [Distinct Echo Substrings](./problems/1300-1399/1316/README.md)                                                        |        | Hard   |                                                             |      |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](./problems/1300-1399/1317/README.md)                              |        | Easy   |                                                             |      |
 | 1318 | [Minimum Flips to Make a OR b Equal to c](./problems/1300-1399/1318/README.md)                                         |        | Medium |                                                             |      |

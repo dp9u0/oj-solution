@@ -1084,7 +1084,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1007 | [Minimum Domino Rotations For Equal Row](./problems/1000-1099/1007/README.md)                                          |        | Medium |                                                             |      |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](./problems/1000-1099/1008/README.md)                            |        | Medium |                                                             |      |
 | 1009 | [Complement of Base 10 Integer](./problems/1000-1099/1009/README.md)                                                   | :o:    | Easy   | [none]                                                      |      |
-| 1010 | [Pairs of Songs With Total Durations Divisible by 60](./problems/1000-1099/1010/README.md)                             |        | Easy   |                                                             |      |
+| 1010 | [Pairs of Songs With Total Durations Divisible by 60](./problems/1000-1099/1010/README.md) | :o: | Medium | [arr],[hm] | :+1:  |
 | 1011 | [Capacity To Ship Packages Within D Days](./problems/1000-1099/1011/README.md)                                         |        | Medium |                                                             |      |
 | 1012 | [Numbers With Repeated Digits](./problems/1000-1099/1012/README.md)                                                    |        | Hard   |                                                             |      |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](./problems/1000-1099/1013/README.md)                                 | :o:    | Easy   | [math]                                                      |      |

@@ -935,7 +935,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 858  | [Mirror Reflection](./problems/800-899/858/README.md)                                                                  |        | Medium |                                                             |      |
 | 859  | [Buddy Strings](./problems/800-899/859/README.md)                                                                      | :o:    | Easy   | [str]                                                       |      |
 | 860  | [Lemonade Change](./problems/800-899/860/README.md)                                                                    | :o:    | Easy   | [arr]                                                       |      |
-| 861  | [Score After Flipping Matrix](./problems/800-899/861/README.md)                                                        |        | Medium |                                                             |      |
+| 861 | [Score After Flipping Matrix](./problems/800-899/861/README.md) | :o: | Medium | [arr],[greedy],[bit] | :+1:  |
 | 862  | [Shortest Subarray with Sum at Least K](./problems/800-899/862/README.md)                                              |        | Hard   |                                                             |      |
 | 863  | [All Nodes Distance K in Binary Tree](./problems/800-899/863/README.md)                                                |        | Medium |                                                             |      |
 | 864  | [Shortest Path to Get All Keys](./problems/800-899/864/README.md)                                                      |        | Hard   |                                                             |      |

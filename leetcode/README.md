@@ -2802,7 +2802,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2786 | [Visit Array Positions to Maximize Score](./problems/2700-2799/2786/README.md)                                         |        | Medium |                                                             |      |
 | 2787 | [Ways to Express an Integer as Sum of Powers](./problems/2700-2799/2787/README.md)                                     |        | Medium |                                                             |      |
 | 2788 | [Split Strings by Separator](./problems/2700-2799/2788/README.md)                                                      |        | Easy   |                                                             |      |
-| 2789 | [Largest Element in an Array after Merge Operations](./problems/2700-2799/2789/README.md)                              |        | Medium |                                                             |      |
+| 2789 | [Largest Element in an Array after Merge Operations](./problems/2700-2799/2789/README.md) | :o: | Medium | [arr],[greedy] |   |
 | 2790 | [Maximum Number of Groups With Increasing Length](./problems/2700-2799/2790/README.md)                                 |        | Hard   |                                                             |      |
 | 2791 | [Count Paths That Can Form a Palindrome in a Tree](./problems/2700-2799/2791/README.md)                                |        | Hard   |                                                             |      |
 | 2792 | [Count Nodes That Are Great Enough](./problems/2700-2799/2792/README.md)                                               | :lock: | Hard   |                                                             |      |

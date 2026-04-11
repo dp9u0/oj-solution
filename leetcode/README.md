@@ -2009,7 +2009,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1993 | [Operations on Tree](./problems/1900-1999/1993/README.md)                                                              |        | Medium |                                                             |      |
 | 1994 | [The Number of Good Subsets](./problems/1900-1999/1994/README.md)                                                      |        | Hard   |                                                             |      |
 | 1995 | [Count Special Quadruplets](./problems/1900-1999/1995/README.md)                                                       |        | Easy   |                                                             |      |
-| 1996 | [The Number of Weak Characters in the Game](./problems/1900-1999/1996/README.md)                                       |        | Medium |                                                             |      |
+| 1996 | [The Number of Weak Characters in the Game](./problems/1900-1999/1996/README.md) | :o: | Medium | [arr],[greedy] | :+1:  |
 | 1997 | [First Day Where You Have Been in All the Rooms](./problems/1900-1999/1997/README.md)                                  |        | Medium |                                                             |      |
 | 1998 | [GCD Sort of an Array](./problems/1900-1999/1998/README.md)                                                            |        | Hard   |                                                             |      |
 | 1999 | [Smallest Greater Multiple Made of Two Digits](./problems/1900-1999/1999/README.md)                                    | :lock: | Medium |                                                             |      |

@@ -1454,7 +1454,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](./problems/1300-1399/1379/README.md)              |        | Medium |                                                             |      |
 | 1380 | [Lucky Numbers in a Matrix](./problems/1300-1399/1380/README.md)                                                       |        | Easy   |                                                             |      |
 | 1381 | [Design a Stack With Increment Operation](./problems/1300-1399/1381/README.md)                                         |        | Medium |                                                             |      |
-| 1382 | [Balance a Binary Search Tree](./problems/1300-1399/1382/README.md)                                                    |        | Medium |                                                             |      |
+| 1382 | [Balance a Binary Search Tree](./problems/1300-1399/1382/README.md) | :o: | Medium | [tr],[dfs] | :+1:  |
 | 1383 | [Maximum Performance of a Team](./problems/1300-1399/1383/README.md)                                                   |        | Hard   |                                                             |      |
 | 1384 | [Total Sales Amount by Year](./problems/1300-1399/1384/README.md)                                                      | :lock: | Hard   |                                                             |      |
 | 1385 | [Find the Distance Value Between Two Arrays](./problems/1300-1399/1385/README.md)                                      |        | Easy   |                                                             |      |

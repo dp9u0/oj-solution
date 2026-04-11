@@ -1656,7 +1656,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](./problems/1500-1599/1581/README.md)                          | :lock: | Easy   |                                                             |      |
 | 1582 | [Special Positions in a Binary Matrix](./problems/1500-1599/1582/README.md)                                            |        | Easy   |                                                             |      |
 | 1583 | [Count Unhappy Friends](./problems/1500-1599/1583/README.md)                                                           |        | Medium |                                                             |      |
-| 1584 | [Min Cost to Connect All Points](./problems/1500-1599/1584/README.md)                                                  |        | Medium |                                                             |      |
+| 1584 | [Min Cost to Connect All Points](./problems/1500-1599/1584/README.md) | :o: | Medium | [graph],[mst] | :+1:  |
 | 1585 | [Check If String Is Transformable With Substring Sort Operations](./problems/1500-1599/1585/README.md)                 |        | Hard   |                                                             |      |
 | 1586 | [Binary Search Tree Iterator II](./problems/1500-1599/1586/README.md)                                                  | :lock: | Medium |                                                             |      |
 | 1587 | [Bank Account Summary II](./problems/1500-1599/1587/README.md)                                                         | :lock: | Easy   |                                                             |      |

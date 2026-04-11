@@ -1438,7 +1438,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1363 | [Largest Multiple of Three](./problems/1300-1399/1363/README.md)                                                       |        | Hard   |                                                             |      |
 | 1364 | [Number of Trusted Contacts of a Customer](./problems/1300-1399/1364/README.md)                                        | :lock: | Medium |                                                             |      |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](./problems/1300-1399/1365/README.md)                            | :o:    | Easy   | [arr]                                                       | :+1: |
-| 1366 | [Rank Teams by Votes](./problems/1300-1399/1366/README.md)                                                             |        | Medium |                                                             |      |
+| 1366 | [Rank Teams by Votes](./problems/1300-1399/1366/README.md) | :o: | Medium | [arr],[sort] |   |
 | 1367 | [Linked List in Binary Tree](./problems/1300-1399/1367/README.md)                                                      |        | Medium |                                                             |      |
 | 1368 | [Minimum Cost to Make at Least One Valid Path in a Grid](./problems/1300-1399/1368/README.md)                          |        | Hard   |                                                             |      |
 | 1369 | [Get the Second Most Recent Activity](./problems/1300-1399/1369/README.md)                                             | :lock: | Hard   |                                                             |      |

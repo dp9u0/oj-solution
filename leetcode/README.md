@@ -492,7 +492,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 410  | [Split Array Largest Sum](./problems/400-499/410/README.md)                                                            |        | Hard   |                                                             |      |
 | 411  | [Minimum Unique Word Abbreviation](./problems/400-499/411/README.md)                                                   | :lock: | Hard   |                                                             |      |
 | 412  | [Fizz Buzz](./problems/400-499/412/README.md)                                                                          | :o:    | Easy   | [math]                                                      |      |
-| 413  | [Arithmetic Slices](./problems/400-499/413/README.md)                                                                  |        | Medium |                                                             |      |
+| 413 | [Arithmetic Slices](./problems/400-499/413/README.md) | :o: | Medium | [dp],[arr] | :+1:  |
 | 414  | [Third Maximum Number](./problems/400-499/414/README.md)                                                               | :o:    | Easy   | [arr]                                                       |      |
 | 415  | [Add Strings](./problems/400-499/415/README.md)                                                                        | :o:    | Easy   | [math]                                                      |      |
 | 416  | [Partition Equal Subset Sum](./problems/400-499/416/README.md)                                                         | :o:    | Medium | [[dp]]                                                      |      |

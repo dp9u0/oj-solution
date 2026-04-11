@@ -2829,7 +2829,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2813 | [Maximum Elegance of a K-Length Subsequence](./problems/2800-2899/2813/README.md)                                      |        | Hard   |                                                             |      |
 | 2814 | [Minimum Time Takes to Reach Destination Without Drowning](./problems/2800-2899/2814/README.md)                        | :lock: | Hard   |                                                             |      |
 | 2815 | [Max Pair Sum in an Array](./problems/2800-2899/2815/README.md)                                                        |        | Easy   |                                                             |      |
-| 2816 | [Double a Number Represented as a Linked List](./problems/2800-2899/2816/README.md)                                    |        | Medium |                                                             |      |
+| 2816 | [Double a Number Represented as a Linked List](./problems/2800-2899/2816/README.md) | :o: | Medium | [ll],[math] |   |
 | 2817 | [Minimum Absolute Difference Between Elements With Constraint](./problems/2800-2899/2817/README.md)                    |        | Medium |                                                             |      |
 | 2818 | [Apply Operations to Maximize Score](./problems/2800-2899/2818/README.md)                                              |        | Hard   |                                                             |      |
 | 2819 | [Minimum Relative Loss After Buying Chocolates](./problems/2800-2899/2819/README.md)                                   | :lock: | Hard   |                                                             |      |

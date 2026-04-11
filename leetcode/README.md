@@ -1293,7 +1293,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1218 | [Longest Arithmetic Subsequence of Given Difference](./problems/1200-1299/1218/README.md)                              |        | Medium |                                                             |      |
 | 1219 | [Path with Maximum Gold](./problems/1200-1299/1219/README.md)                                                          |        | Medium |                                                             |      |
 | 1220 | [Count Vowels Permutation](./problems/1200-1299/1220/README.md)                                                        |        | Hard   |                                                             |      |
-| 1221 | [Split a String in Balanced Strings](./problems/1200-1299/1221/README.md)                                              |        | Easy   |                                                             |      |
+| 1221 | [Split a String in Balanced Strings](./problems/1200-1299/1221/README.md) | :o: | Easy | [str],[greedy] |   |
 | 1222 | [Queens That Can Attack the King](./problems/1200-1299/1222/README.md)                                                 |        | Medium |                                                             |      |
 | 1223 | [Dice Roll Simulation](./problems/1200-1299/1223/README.md)                                                            |        | Medium |                                                             |      |
 | 1224 | [Maximum Equal Frequency](./problems/1200-1299/1224/README.md)                                                         |        | Hard   |                                                             |      |

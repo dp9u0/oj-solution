@@ -2365,7 +2365,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2349 | [Design a Number Container System](./problems/2300-2399/2349/README.md)                                                |        | Medium |                                                             |      |
 | 2350 | [Shortest Impossible Sequence of Rolls](./problems/2300-2399/2350/README.md)                                           |        | Hard   |                                                             |      |
 | 2351 | [First Letter to Appear Twice](./problems/2300-2399/2351/README.md)                                                    |        | Easy   |                                                             |      |
-| 2352 | [Equal Row and Column Pairs](./problems/2300-2399/2352/README.md)                                                      |        | Medium |                                                             |      |
+| 2352 | [Equal Row and Column Pairs](./problems/2300-2399/2352/README.md) | :o: | Medium | [arr],[hash] |   |
 | 2353 | [Design a Food Rating System](./problems/2300-2399/2353/README.md)                                                     |        | Medium |                                                             |      |
 | 2354 | [Number of Excellent Pairs](./problems/2300-2399/2354/README.md)                                                       |        | Hard   |                                                             |      |
 | 2355 | [Maximum Number of Books You Can Take](./problems/2300-2399/2355/README.md)                                            | :lock: | Hard   |                                                             |      |

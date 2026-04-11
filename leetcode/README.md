@@ -1000,7 +1000,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 923  | [3Sum With Multiplicity](./problems/900-999/923/README.md)                                                             |        | Medium |                                                             |      |
 | 924  | [Minimize Malware Spread](./problems/900-999/924/README.md)                                                            |        | Hard   |                                                             |      |
 | 925  | [Long Pressed Name](./problems/900-999/925/README.md)                                                                  | :o:    | Easy   | [tp]                                                        |      |
-| 926  | [Flip String to Monotone Increasing](./problems/900-999/926/README.md)                                                 |        | Medium |                                                             |      |
+| 926 | [Flip String to Monotone Increasing](./problems/900-999/926/README.md) | :o: | Medium | [str],[dp] | :+1:  |
 | 927  | [Three Equal Parts](./problems/900-999/927/README.md)                                                                  |        | Hard   |                                                             |      |
 | 928  | [Minimize Malware Spread II](./problems/900-999/928/README.md)                                                         |        | Hard   |                                                             |      |
 | 929  | [Unique Email Addresses](./problems/900-999/929/README.md)                                                             | :o:    | Easy   | [str]                                                       |      |

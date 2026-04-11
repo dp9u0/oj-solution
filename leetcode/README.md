@@ -2403,7 +2403,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2387 | [Median of a Row Wise Sorted Matrix](./problems/2300-2399/2387/README.md)                                              | :lock: | Medium |                                                             |      |
 | 2388 | [Change Null Values in a Table to the Previous Value](./problems/2300-2399/2388/README.md)                             | :lock: | Medium |                                                             |      |
 | 2389 | [Longest Subsequence With Limited Sum](./problems/2300-2399/2389/README.md)                                            |        | Easy   |                                                             |      |
-| 2390 | [Removing Stars From a String](./problems/2300-2399/2390/README.md)                                                    |        | Medium |                                                             |      |
+| 2390 | [Removing Stars From a String](./problems/2300-2399/2390/README.md) | :o: | Medium | [str],[stack] | :+1:  |
 | 2391 | [Minimum Amount of Time to Collect Garbage](./problems/2300-2399/2391/README.md)                                       |        | Medium |                                                             |      |
 | 2392 | [Build a Matrix With Conditions](./problems/2300-2399/2392/README.md)                                                  |        | Hard   |                                                             |      |
 | 2393 | [Count Strictly Increasing Subarrays](./problems/2300-2399/2393/README.md)                                             | :lock: | Medium |                                                             |      |

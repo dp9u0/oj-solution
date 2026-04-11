@@ -947,7 +947,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 870  | [Advantage Shuffle](./problems/800-899/870/README.md)                                                                  |        | Medium |                                                             |      |
 | 871  | [Minimum Number of Refueling Stops](./problems/800-899/871/README.md)                                                  |        | Hard   |                                                             |      |
 | 872  | [Leaf-Similar Trees](./problems/800-899/872/README.md)                                                                 | :o:    | Easy   | [tr]                                                        |      |
-| 873  | [Length of Longest Fibonacci Subsequence](./problems/800-899/873/README.md)                                            |        | Medium |                                                             |      |
+| 873 | [Length of Longest Fibonacci Subsequence](./problems/800-899/873/README.md) | :o: | Medium | [arr],[dp] |   |
 | 874  | [Walking Robot Simulation](./problems/800-899/874/README.md)                                                           | :o:    | Easy   | [math]                                                      |      |
 | 875 | [Koko Eating Bananas](./problems/800-899/875/README.md) | :o: | Medium | [bs] |   |
 | 876  | [Middle of the Linked List](./problems/800-899/876/README.md)                                                          | :o:    | Easy   | [tp],[ll]                                                   |      |

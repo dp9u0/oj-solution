@@ -1729,7 +1729,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1654 | [Minimum Jumps to Reach Home](./problems/1600-1699/1654/README.md)                                                     |        | Medium |                                                             |      |
 | 1655 | [Distribute Repeating Integers](./problems/1600-1699/1655/README.md)                                                   |        | Hard   |                                                             |      |
 | 1656 | [Design an Ordered Stream](./problems/1600-1699/1656/README.md)                                                        |        | Easy   |                                                             |      |
-| 1657 | [Determine if Two Strings Are Close](./problems/1600-1699/1657/README.md)                                              |        | Medium |                                                             |      |
+| 1657 | [Determine if Two Strings Are Close](./problems/1600-1699/1657/README.md) | :o: | Medium | [hash],[str] |   |
 | 1658 | [Minimum Operations to Reduce X to Zero](./problems/1600-1699/1658/README.md)                                          |        | Medium |                                                             |      |
 | 1659 | [Maximize Grid Happiness](./problems/1600-1699/1659/README.md)                                                         |        | Hard   |                                                             |      |
 | 1660 | [Correct a Binary Tree](./problems/1600-1699/1660/README.md)                                                           | :lock: | Medium |                                                             |      |

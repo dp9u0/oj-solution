@@ -954,7 +954,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 877  | [Stone Game](./problems/800-899/877/README.md)                                                                         |        | Medium |                                                             |      |
 | 878  | [Nth Magical Number](./problems/800-899/878/README.md)                                                                 |        | Hard   |                                                             |      |
 | 879  | [Profitable Schemes](./problems/800-899/879/README.md)                                                                 |        | Hard   |                                                             |      |
-| 880  | [Decoded String at Index](./problems/800-899/880/README.md)                                                            |        | Medium |                                                             |      |
+| 880 | [Decoded String at Index](./problems/800-899/880/README.md) | :o: | Medium | [str] |   |
 | 881 | [Boats to Save People](./problems/800-899/881/README.md) | :o: | Medium | [arr],[tp],[greedy] | :+1:  |
 | 882  | [Reachable Nodes In Subdivided Graph](./problems/800-899/882/README.md)                                                |        | Hard   |                                                             |      |
 | 883  | [Projection Area of 3D Shapes](./problems/800-899/883/README.md)                                                       | :o:    | Easy   | [arr]                                                       |      |

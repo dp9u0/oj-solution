@@ -1419,7 +1419,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1344 | [Angle Between Hands of a Clock](./problems/1300-1399/1344/README.md)                                                  |        | Medium |                                                             |      |
 | 1345 | [Jump Game IV](./problems/1300-1399/1345/README.md)                                                                    |        | Hard   |                                                             |      |
 | 1346 | [Check If N and Its Double Exist](./problems/1300-1399/1346/README.md)                                                 |        | Easy   |                                                             |      |
-| 1347 | [Minimum Number of Steps to Make Two Strings Anagram](./problems/1300-1399/1347/README.md)                             |        | Medium |                                                             |      |
+| 1347 | [Minimum Number of Steps to Make Two Strings Anagram](./problems/1300-1399/1347/README.md) | :o: | Medium | [str],[hm] |   |
 | 1348 | [Tweet Counts Per Frequency](./problems/1300-1399/1348/README.md)                                                      |        | Medium |                                                             |      |
 | 1349 | [Maximum Students Taking Exam](./problems/1300-1399/1349/README.md)                                                    |        | Hard   |                                                             |      |
 | 1350 | [Students With Invalid Departments](./problems/1300-1399/1350/README.md)                                               | :lock: | Easy   |                                                             |      |

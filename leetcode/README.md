@@ -1601,7 +1601,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](./problems/1500-1599/1526/README.md)                |        | Hard   |                                                             |      |
 | 1527 | [Patients With a Condition](./problems/1500-1599/1527/README.md)                                                       | :lock: | Easy   |                                                             |      |
 | 1528 | [Shuffle String](./problems/1500-1599/1528/README.md)                                                                  |        | Easy   |                                                             |      |
-| 1529 | [Bulb Switcher IV](./problems/1500-1599/1529/README.md)                                                                |        | Medium |                                                             |      |
+| 1529 | [Bulb Switcher IV](./problems/1500-1599/1529/README.md) | :o: | Medium | [str],[greedy] |   |
 | 1530 | [Number of Good Leaf Nodes Pairs](./problems/1500-1599/1530/README.md)                                                 |        | Medium |                                                             |      |
 | 1531 | [String Compression II](./problems/1500-1599/1531/README.md)                                                           |        | Hard   |                                                             |      |
 | 1532 | [The Most Recent Three Orders](./problems/1500-1599/1532/README.md)                                                    | :lock: | Medium |                                                             |      |

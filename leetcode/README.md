@@ -1514,7 +1514,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1439 | [Find the Kth Smallest Sum of a Matrix With Sorted Rows](./problems/1400-1499/1439/README.md)                          |        | Hard   |                                                             |      |
 | 1440 | [Evaluate Boolean Expression](./problems/1400-1499/1440/README.md)                                                     | :lock: | Medium |                                                             |      |
 | 1441 | [Build an Array With Stack Operations](./problems/1400-1499/1441/README.md)                                            |        | Easy   |                                                             |      |
-| 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](./problems/1400-1499/1442/README.md)                            |        | Medium |                                                             |      |
+| 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](./problems/1400-1499/1442/README.md) | :o: | Medium | [arr],[bit],[prefix] |   |
 | 1443 | [Minimum Time to Collect All Apples in a Tree](./problems/1400-1499/1443/README.md)                                    |        | Medium |                                                             |      |
 | 1444 | [Number of Ways of Cutting a Pizza](./problems/1400-1499/1444/README.md)                                               |        | Hard   |                                                             |      |
 | 1445 | [Apples & Oranges](./problems/1400-1499/1445/README.md)                                                                | :lock: | Medium |                                                             |      |

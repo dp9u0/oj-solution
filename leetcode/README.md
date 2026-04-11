@@ -657,7 +657,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 580  | [Count Student Number in Departments](./problems/500-599/580/README.md)                                                | :lock: | Medium |                                                             |      |
 | 581  | [Shortest Unsorted Continuous Subarray](./problems/500-599/581/README.md)                                              | :o:    | Easy   | [arr]                                                       |      |
 | 582  | [Kill Process](./problems/500-599/582/README.md)                                                                       | :lock: | Medium |                                                             |      |
-| 583  | [Delete Operation for Two Strings](./problems/500-599/583/README.md)                                                   |        | Medium |                                                             |      |
+| 583 | [Delete Operation for Two Strings](./problems/500-599/583/README.md) | :o: | Medium | [dp],[str] | :+1:  |
 | 584  | [Find Customer Referee](./problems/500-599/584/README.md)                                                              | :lock: | Easy   |                                                             |      |
 | 585  | [Investments in 2016](./problems/500-599/585/README.md)                                                                | :lock: | Medium |                                                             |      |
 | 586  | [Customer Placing the Largest Number of Orders](./problems/500-599/586/README.md)                                      | :lock: | Easy   |                                                             |      |

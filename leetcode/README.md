@@ -2919,7 +2919,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2903 | [Find Indices With Index and Value Difference I](./problems/2900-2999/2903/README.md)                                  |        | Easy   |                                                             |      |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](./problems/2900-2999/2904/README.md)                        |        | Medium |                                                             |      |
 | 2905 | [Find Indices With Index and Value Difference II](./problems/2900-2999/2905/README.md)                                 |        | Medium |                                                             |      |
-| 2906 | [Construct Product Matrix](./problems/2900-2999/2906/README.md)                                                        |        | Medium |                                                             |      |
+| 2906 | [Construct Product Matrix](./problems/2900-2999/2906/README.md) | :o: | Medium | [arr],[prefix] |   |
 | 2907 | [Maximum Profitable Triplets With Increasing Prices I](./problems/2900-2999/2907/README.md)                            | :lock: | Medium |                                                             |      |
 | 2908 | [Minimum Sum of Mountain Triplets I](./problems/2900-2999/2908/README.md)                                              |        | Easy   |                                                             |      |
 | 2909 | [Minimum Sum of Mountain Triplets II](./problems/2900-2999/2909/README.md)                                             |        | Medium |                                                             |      |

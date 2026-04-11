@@ -1281,7 +1281,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1206 | [Design Skiplist](./problems/1200-1299/1206/README.md)                                                                 |        | Hard   |                                                             |      |
 | 1207 | [Unique Number of Occurrences](./problems/1200-1299/1207/README.md)                                                    | :o:    | Easy   | [hsh]                                                       |      |
 | 1208 | [Get Equal Substrings Within Budget](./problems/1200-1299/1208/README.md)                                              | :o:    | Medium | [arr],[sd]                                                  |      |
-| 1209 | [Remove All Adjacent Duplicates in String II](./problems/1200-1299/1209/README.md)                                     |        | Medium |                                                             |      |
+| 1209 | [Remove All Adjacent Duplicates in String II](./problems/1200-1299/1209/README.md) | :o: | Medium | [str],[stack] | :+1:  |
 | 1210 | [Minimum Moves to Reach Target with Rotations](./problems/1200-1299/1210/README.md)                                    |        | Hard   |                                                             |      |
 | 1211 | [Queries Quality and Percentage](./problems/1200-1299/1211/README.md)                                                  | :lock: | Easy   |                                                             |      |
 | 1212 | [Team Scores in Football Tournament](./problems/1200-1299/1212/README.md)                                              | :lock: | Medium |                                                             |      |

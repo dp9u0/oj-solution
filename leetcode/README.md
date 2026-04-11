@@ -3055,7 +3055,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3039 | [Apply Operations to Make String Empty](./problems/3000-3099/3039/README.md)                                           |        | Medium |                                                             |      |
 | 3040 | [Maximum Number of Operations With the Same Score II](./problems/3000-3099/3040/README.md)                             |        | Medium |                                                             |      |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](./problems/3000-3099/3041/README.md)                    |        | Hard   |                                                             |      |
-| 3042 | [Count Prefix and Suffix Pairs I](./problems/3000-3099/3042/README.md)                                                 |        | Easy   |                                                             |      |
+| 3042 | [Count Prefix and Suffix Pairs I](./problems/3000-3099/3042/README.md) | :o: | Easy | [arr],[str] |   |
 | 3043 | [Find the Length of the Longest Common Prefix](./problems/3000-3099/3043/README.md)                                    |        | Medium |                                                             |      |
 | 3044 | [Most Frequent Prime](./problems/3000-3099/3044/README.md)                                                             |        | Medium |                                                             |      |
 | 3045 | [Count Prefix and Suffix Pairs II](./problems/3000-3099/3045/README.md)                                                |        | Hard   |                                                             |      |

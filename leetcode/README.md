@@ -1088,7 +1088,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1011 | [Capacity To Ship Packages Within D Days](./problems/1000-1099/1011/README.md)                                         |        | Medium |                                                             |      |
 | 1012 | [Numbers With Repeated Digits](./problems/1000-1099/1012/README.md)                                                    |        | Hard   |                                                             |      |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](./problems/1000-1099/1013/README.md)                                 | :o:    | Easy   | [math]                                                      |      |
-| 1014 | [Best Sightseeing Pair](./problems/1000-1099/1014/README.md)                                                           |        | Medium |                                                             |      |
+| 1014 | [Best Sightseeing Pair](./problems/1000-1099/1014/README.md) | :o: | Medium | [arr],[dp] | :+1:  |
 | 1015 | [Smallest Integer Divisible by K](./problems/1000-1099/1015/README.md)                                                 |        | Medium |                                                             |      |
 | 1016 | [Binary String With Substrings Representing 1 To N](./problems/1000-1099/1016/README.md)                               |        | Medium |                                                             |      |
 | 1017 | [Convert to Base -2](./problems/1000-1099/1017/README.md)                                                              |        | Medium |                                                             |      |

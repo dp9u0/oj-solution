@@ -1391,7 +1391,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1316 | [Distinct Echo Substrings](./problems/1300-1399/1316/README.md)                                                        |        | Hard   |                                                             |      |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](./problems/1300-1399/1317/README.md)                              |        | Easy   |                                                             |      |
 | 1318 | [Minimum Flips to Make a OR b Equal to c](./problems/1300-1399/1318/README.md)                                         |        | Medium |                                                             |      |
-| 1319 | [Number of Operations to Make Network Connected](./problems/1300-1399/1319/README.md)                                  |        | Medium |                                                             |      |
+| 1319 | [Number of Operations to Make Network Connected](./problems/1300-1399/1319/README.md) | :o: | Medium | [graph],[bfs] | :+1:  |
 | 1320 | [Minimum Distance to Type a Word Using Two Fingers](./problems/1300-1399/1320/README.md)                               |        | Hard   |                                                             |      |
 | 1321 | [Restaurant Growth](./problems/1300-1399/1321/README.md)                                                               | :lock: | Medium |                                                             |      |
 | 1322 | [Ads Performance](./problems/1300-1399/1322/README.md)                                                                 | :lock: | Easy   |                                                             |      |

@@ -591,7 +591,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 509  | [Fibonacci Number](./problems/500-599/509/README.md)                                                                   | :o:    | Level  | [math]                                                      |      |
 | 513  | [Find Bottom Left Tree Value](./problems/500-599/513/README.md)                                                        |        | Medium |                                                             |      |
 | 514  | [Freedom Trail](./problems/500-599/514/README.md)                                                                      |        | Hard   |                                                             |      |
-| 515  | [Find Largest Value in Each Tree Row](./problems/500-599/515/README.md)                                                |        | Medium |                                                             |      |
+| 515 | [Find Largest Value in Each Tree Row](./problems/500-599/515/README.md) | :o: | Medium | [tr],[bfs] |   |
 | 516  | [Longest Palindromic Subsequence](./problems/500-599/516/README.md)                                                    |        | Medium |                                                             |      |
 | 517  | [Super Washing Machines](./problems/500-599/517/README.md)                                                             |        | Hard   |                                                             |      |
 | 518  | [Coin Change 2](./problems/500-599/518/README.md)                                                                      |        | Medium |                                                             |      |

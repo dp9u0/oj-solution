@@ -1629,7 +1629,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1554 | [Strings Differ by One Character](./problems/1500-1599/1554/README.md)                                                 | :lock: | Medium |                                                             |      |
 | 1555 | [Bank Account Summary](./problems/1500-1599/1555/README.md)                                                            | :lock: | Medium |                                                             |      |
 | 1556 | [Thousand Separator](./problems/1500-1599/1556/README.md)                                                              |        | Easy   |                                                             |      |
-| 1557 | [Minimum Number of Vertices to Reach All Nodes](./problems/1500-1599/1557/README.md)                                   |        | Medium |                                                             |      |
+| 1557 | [Minimum Number of Vertices to Reach All Nodes](./problems/1500-1599/1557/README.md) | :o: | Medium | [graph] |   |
 | 1558 | [Minimum Numbers of Function Calls to Make Target Array](./problems/1500-1599/1558/README.md)                          | :o:    | Medium | [bit],[greedy]                                              |      |
 | 1559 | [Detect Cycles in 2D Grid](./problems/1500-1599/1559/README.md)                                                        |        | Hard   |                                                             |      |
 | 1560 | [Most Visited Sector in  a Circular Track](./problems/1500-1599/1560/README.md)                                        |        | Easy   |                                                             |      |

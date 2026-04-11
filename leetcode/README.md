@@ -1910,7 +1910,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1894 | [Find the Student that Will Replace the Chalk](./problems/1800-1899/1894/README.md)                                    |        | Medium |                                                             |      |
 | 1895 | [1895](./problems/1800-1899/1895/README.md)                                                                            |        | Easy   |                                                             |      |
 | 1896 | [Minimum Cost to Change the Final Value of Expression](./problems/1800-1899/1896/README.md)                            |        | Hard   |                                                             |      |
-| 1897 | [Redistribute Characters to Make All Strings Equal](./problems/1800-1899/1897/README.md)                               |        | Easy   |                                                             |      |
+| 1897 | [Redistribute Characters to Make All Strings Equal](./problems/1800-1899/1897/README.md) | :o: | Easy | [arr],[hash] |   |
 | 1898 | [Maximum Number of Removable Characters](./problems/1800-1899/1898/README.md)                                          |        | Medium |                                                             |      |
 | 1899 | [Merge Triplets to Form Target Triplet](./problems/1800-1899/1899/README.md)                                           |        | Medium |                                                             |      |
 | 1900 | [The Earliest and Latest Rounds Where Players Compete](./problems/1900-1999/1900/README.md)                            |        | Hard   |                                                             |      |

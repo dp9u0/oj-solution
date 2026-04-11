@@ -841,7 +841,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 764  | [Largest Plus Sign](./problems/700-799/764/README.md)                                                                  |        | Medium |                                                             |      |
 | 765  | [Couples Holding Hands](./problems/700-799/765/README.md)                                                              |        | Hard   |                                                             |      |
 | 766  | [Toeplitz Matrix](./problems/700-799/766/README.md)                                                                    | :o:    | Easy   | [arr]                                                       |      |
-| 767  | [Reorganize String](./problems/700-799/767/README.md)                                                                  |        | Medium |                                                             |      |
+| 767 | [Reorganize String](./problems/700-799/767/README.md) | :o: | Medium | [str],[greedy] | :+1:  |
 | 768  | [Max Chunks To Make Sorted II](./problems/700-799/768/README.md)                                                       |        | Hard   |                                                             |      |
 | 769  | [Max Chunks To Make Sorted](./problems/700-799/769/README.md)                                                          |        | Medium |                                                             |      |
 | 770  | [Basic Calculator IV](./problems/700-799/770/README.md)                                                                |        | Hard   |                                                             |      |

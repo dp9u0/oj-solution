@@ -2971,7 +2971,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2955 | [Number of Same-End Substrings](./problems/2900-2999/2955/README.md)                                                   | :lock: | Medium |                                                             |      |
 | 2956 | [Find Common Elements Between Two Arrays](./problems/2900-2999/2956/README.md)                                         |        | Easy   |                                                             |      |
 | 2957 | [Remove Adjacent Almost-Equal Characters](./problems/2900-2999/2957/README.md)                                         |        | Medium |                                                             |      |
-| 2958 | [Length of Longest Subarray With at Most K Frequency](./problems/2900-2999/2958/README.md)                             |        | Medium |                                                             |      |
+| 2958 | [Length of Longest Subarray With at Most K Frequency](./problems/2900-2999/2958/README.md) | :o: | Medium | [arr],[tp] |   |
 | 2959 | [Number of Possible Sets of Closing Branches](./problems/2900-2999/2959/README.md)                                     |        | Hard   |                                                             |      |
 | 2960 | [Count Tested Devices After Test Operations](./problems/2900-2999/2960/README.md)                                      |        | Easy   |                                                             |      |
 | 2961 | [Double Modular Exponentiation](./problems/2900-2999/2961/README.md)                                                   |        | Medium |                                                             |      |

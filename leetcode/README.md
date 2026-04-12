@@ -1183,7 +1183,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1106 | [Parsing A Boolean Expression](./problems/1100-1199/1106/README.md)                                                    |        | Hard   |                                                             |      |
 | 1107 | [New Users Daily Count](./problems/1100-1199/1107/README.md)                                                           | :lock: | Medium |                                                             |      |
 | 1108 | [Defanging an IP Address](./problems/1100-1199/1108/README.md)                                                         | :o:    | Easy   | [str]                                                       |      |
-| 1109 | [Corporate Flight Bookings](./problems/1100-1199/1109/README.md)                                                       |        | Medium |                                                             |      |
+| 1109 | [Corporate Flight Bookings](./problems/1100-1199/1109/README.md) | :o: | Medium | [arr] | :+1:  |
 | 1110 | [Delete Nodes And Return Forest](./problems/1100-1199/1110/README.md) | :o: | Medium | [tr],[dfs] | :+1:  |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./problems/1100-1199/1111/README.md)                          |        | Medium |                                                             |      |
 | 1112 | [Highest Grade For Each Student](./problems/1100-1199/1112/README.md)                                                  | :lock: | Medium |                                                             |      |

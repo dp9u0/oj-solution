@@ -766,7 +766,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 689  | [Maximum Sum of 3 Non-Overlapping Subarrays](./problems/600-699/689/README.md)                                         |        | Hard   |                                                             |      |
 | 690  | [Employee Importance](./problems/600-699/690/README.md)                                                                | :o:    | Easy   | [hsh]                                                       |      |
 | 691  | [Stickers to Spell Word](./problems/600-699/691/README.md)                                                             |        | Hard   |                                                             |      |
-| 692  | [Top K Frequent Words](./problems/600-699/692/README.md)                                                               |        | Medium |                                                             |      |
+| 692 | [Top K Frequent Words](./problems/600-699/692/README.md) | :o: | Medium | [arr] | :+1:  |
 | 693  | [Binary Number with Alternating Bits](./problems/600-699/693/README.md)                                                | :o:    | Easy   | [bit]                                                       |      |
 | 694  | [Number of Distinct Islands](./problems/600-699/694/README.md)                                                         | :lock: | Medium |                                                             |      |
 | 695  | [Max Area of Island](./problems/600-699/695/README.md)                                                                 | :o:    | Medium | [dfs]                                                       |      |

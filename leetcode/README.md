@@ -723,7 +723,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 646 | [Maximum Length of Pair Chain](./problems/600-699/646/README.md) | :o: | Medium | [arr] | :+1:  |
 | 647  | [Palindromic Substrings](./problems/600-699/647/README.md)                                                             | :o:    | Medium | [arr]                                                       |      |
 | 648  | [Replace Words](./problems/600-699/648/README.md)                                                                      |        | Medium |                                                             |      |
-| 649  | [Dota2 Senate](./problems/600-699/649/README.md)                                                                       |        | Medium |                                                             |      |
+| 649 | [Dota2 Senate](./problems/600-699/649/README.md) | :o: | Medium | [str],[queue] | :+1:  |
 | 650  | [2 Keys Keyboard](./problems/600-699/650/README.md)                                                                    |        | Medium |                                                             |      |
 | 651  | [4 Keys Keyboard](./problems/600-699/651/README.md)                                                                    | :lock: | Medium |                                                             |      |
 | 652  | [Find Duplicate Subtrees](./problems/600-699/652/README.md)                                                            |        | Medium |                                                             |      |

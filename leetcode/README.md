@@ -2514,7 +2514,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2498 | [Frog Jump II](./problems/2400-2499/2498/README.md)                                                                    |        | Medium |                                                             |      |
 | 2499 | [Minimum Total Cost to Make Arrays Unequal](./problems/2400-2499/2499/README.md)                                       |        | Hard   |                                                             |      |
 | 2500 | [Delete Greatest Value in Each Row](./problems/2500-2599/2500/README.md)                                               |        | Easy   |                                                             |      |
-| 2501 | [Longest Square Streak in an Array](./problems/2500-2599/2501/README.md)                                               |        | Medium |                                                             |      |
+| 2501 | [Longest Square Streak in an Array](./problems/2500-2599/2501/README.md) | :o: | Medium | [arr],[hash] |   |
 | 2502 | [Design Memory Allocator](./problems/2500-2599/2502/README.md)                                                         |        | Medium |                                                             |      |
 | 2503 | [Maximum Number of Points From Grid Queries](./problems/2500-2599/2503/README.md)                                      |        | Hard   |                                                             |      |
 | 2504 | [Concatenate the Name and the Profession](./problems/2500-2599/2504/README.md)                                         | :lock: | Easy   |                                                             |      |

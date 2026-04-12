@@ -1510,7 +1510,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1435 | [Create a Session Bar Chart](./problems/1400-1499/1435/README.md)                                                      | :lock: | Easy   |                                                             |      |
 | 1436 | [Destination City](./problems/1400-1499/1436/README.md)                                                                |        | Easy   |                                                             |      |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](./problems/1400-1499/1437/README.md)                              |        | Medium |                                                             |      |
-| 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./problems/1400-1499/1438/README.md)      |        | Medium |                                                             |      |
+| 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./problems/1400-1499/1438/README.md) | :o: | Medium | [tp] |   |
 | 1439 | [Find the Kth Smallest Sum of a Matrix With Sorted Rows](./problems/1400-1499/1439/README.md)                          |        | Hard   |                                                             |      |
 | 1440 | [Evaluate Boolean Expression](./problems/1400-1499/1440/README.md)                                                     | :lock: | Medium |                                                             |      |
 | 1441 | [Build an Array With Stack Operations](./problems/1400-1499/1441/README.md)                                            |        | Easy   |                                                             |      |

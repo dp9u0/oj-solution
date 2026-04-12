@@ -838,7 +838,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 761  | [Special Binary String](./problems/700-799/761/README.md)                                                              |        | Hard   |                                                             |      |
 | 762  | [Prime Number of Set Bits in Binary Representation](./problems/700-799/762/README.md)                                  | :o:    | Easy   | [bit]                                                       |      |
 | 763  | [Partition Labels](./problems/700-799/763/README.md)                                                                   | :o:    | Medium | [arr]                                                       |      |
-| 764  | [Largest Plus Sign](./problems/700-799/764/README.md)                                                                  |        | Medium |                                                             |      |
+| 764 | [Largest Plus Sign](./problems/700-799/764/README.md) | :o: | Medium | [arr],[dp] | :+1:  |
 | 765  | [Couples Holding Hands](./problems/700-799/765/README.md)                                                              |        | Hard   |                                                             |      |
 | 766  | [Toeplitz Matrix](./problems/700-799/766/README.md)                                                                    | :o:    | Easy   | [arr]                                                       |      |
 | 767 | [Reorganize String](./problems/700-799/767/README.md) | :o: | Medium | [str],[greedy] | :+1:  |

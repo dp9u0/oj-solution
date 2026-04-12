@@ -556,7 +556,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 474  | [Ones and Zeroes](./problems/400-499/474/README.md)                                                                    |        | Medium |                                                             |      |
 | 475  | [Heaters](./problems/400-499/475/README.md)                                                                            | :o:    | Easy   | [arr]                                                       |      |
 | 476  | [Number Complement](./problems/400-499/476/README.md)                                                                  | :o:    | Easy   | [bit]                                                       |      |
-| 477  | [Total Hamming Distance](./problems/400-499/477/README.md)                                                             |        | Medium |                                                             |      |
+| 477 | [Total Hamming Distance](./problems/400-499/477/README.md) | :o: | Medium | [arr],[bit] |   |
 | 478  | [Generate Random Point in a Circle](./problems/400-499/478/README.md)                                                  |        | Medium |                                                             |      |
 | 479  | [Largest Palindrome Product](./problems/400-499/479/README.md)                                                         | :o:    | Easy   | [math]                                                      | :-1: |
 | 480  | [Sliding Window Median](./problems/400-499/480/README.md)                                                              |        | Hard   |                                                             |      |

@@ -1639,7 +1639,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1564 | [Put Boxes Into the Warehouse I](./problems/1500-1599/1564/README.md)                                                  | :lock: | Medium |                                                             |      |
 | 1565 | [Unique Orders and Customers Per Month](./problems/1500-1599/1565/README.md)                                           | :lock: | Easy   |                                                             |      |
 | 1566 | [Detect Pattern of Length M Repeated K or More Times](./problems/1500-1599/1566/README.md)                             |        | Easy   |                                                             |      |
-| 1567 | [Maximum Length of Subarray With Positive Product](./problems/1500-1599/1567/README.md)                                |        | Medium |                                                             |      |
+| 1567 | [Maximum Length of Subarray With Positive Product](./problems/1500-1599/1567/README.md) | :o: | Medium | [arr],[dp] |   |
 | 1568 | [Minimum Number of Days to Disconnect Island](./problems/1500-1599/1568/README.md)                                     |        | Hard   |                                                             |      |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](./problems/1500-1599/1569/README.md)                                 |        | Hard   |                                                             |      |
 | 1570 | [Dot Product of Two Sparse Vectors](./problems/1500-1599/1570/README.md)                                               | :lock: | Medium |                                                             |      |

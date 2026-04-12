@@ -1714,7 +1714,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1639 | [Number of Ways to Form a Target String Given a Dictionary](./problems/1600-1699/1639/README.md)                       |        | Hard   |                                                             |      |
 | 1640 | [Check Array Formation Through Concatenation](./problems/1600-1699/1640/README.md)                                     |        | Easy   |                                                             |      |
 | 1641 | [Count Sorted Vowel Strings](./problems/1600-1699/1641/README.md) | :o: | Medium | [dp],[math] |   |
-| 1642 | [Furthest Building You Can Reach](./problems/1600-1699/1642/README.md)                                                 |        | Medium |                                                             |      |
+| 1642 | [Furthest Building You Can Reach](./problems/1600-1699/1642/README.md) | :o: | Medium | [arr],[heap] | :+1:  |
 | 1643 | [1643](./problems/1600-1699/1643/README.md)                                                                            |        | Easy   |                                                             |      |
 | 1644 | [Lowest Common Ancestor of a Binary Tree II](./problems/1600-1699/1644/README.md)                                      | :lock: | Medium |                                                             |      |
 | 1645 | [Hopper Company Queries II](./problems/1600-1699/1645/README.md)                                                       | :lock: | Hard   |                                                             |      |

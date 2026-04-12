@@ -2419,7 +2419,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2403 | [Minimum Time to Kill All Monsters](./problems/2400-2499/2403/README.md)                                               | :lock: | Hard   |                                                             |      |
 | 2404 | [Most Frequent Even Element](./problems/2400-2499/2404/README.md)                                                      |        | Easy   |                                                             |      |
 | 2405 | [Optimal Partition of String](./problems/2400-2499/2405/README.md) | :o: | Medium | [arr],[bit] |   |
-| 2406 | [Divide Intervals Into Minimum Number of Groups](./problems/2400-2499/2406/README.md)                                  |        | Medium |                                                             |      |
+| 2406 | [Divide Intervals Into Minimum Number of Groups](./problems/2400-2499/2406/README.md) | :o: | Medium | [arr] |   |
 | 2407 | [Longest Increasing Subsequence II](./problems/2400-2499/2407/README.md)                                               |        | Hard   |                                                             |      |
 | 2408 | [Design SQL](./problems/2400-2499/2408/README.md)                                                                      | :lock: | Medium |                                                             |      |
 | 2409 | [Count Days Spent Together](./problems/2400-2499/2409/README.md)                                                       |        | Easy   |                                                             |      |

@@ -732,7 +732,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 655  | [Print Binary Tree](./problems/600-699/655/README.md)                                                                  | :o:    | Medium | [tr]                                                        |      |
 | 656  | [Coin Path](./problems/600-699/656/README.md)                                                                          | :lock: | Hard   |                                                             |      |
 | 657  | [Robot Return to Origin](./problems/600-699/657/README.md)                                                             | :o:    | Easy   | [arr]                                                       |      |
-| 658  | [Find K Closest Elements](./problems/600-699/658/README.md)                                                            |        | Medium |                                                             |      |
+| 658 | [Find K Closest Elements](./problems/600-699/658/README.md) | :o: | Medium | [bs] | :+1:  |
 | 659  | [Split Array into Consecutive Subsequences](./problems/600-699/659/README.md)                                          |        | Medium |                                                             |      |
 | 660  | [Remove 9](./problems/600-699/660/README.md)                                                                           | :lock: | Hard   |                                                             |      |
 | 661  | [Image Smoother](./problems/600-699/661/README.md)                                                                     | :o:    | Easy   | [arr]                                                       |      |

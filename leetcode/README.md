@@ -1148,7 +1148,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1071 | [Greatest Common Divisor of Strings](./problems/1000-1099/1071/README.md)                                              | :o:    | Easy   | [str]                                                       |      |
 | 1072 | [Flip Columns For Maximum Number of Equal Rows](./problems/1000-1099/1072/README.md)                                   |        | Medium |                                                             |      |
 | 1073 | [Adding Two Negabinary Numbers](./problems/1000-1099/1073/README.md)                                                   |        | Medium |                                                             |      |
-| 1074 | [Number of Submatrices That Sum to Target](./problems/1000-1099/1074/README.md)                                        |        | Hard   |                                                             |      |
+| 1074 | [Number of Submatrices That Sum to Target](./problems/1000-1099/1074/README.md) | :o: | Hard | [arr],[dp] | :+1:  |
 | 1075 | [Project Employees I](./problems/1000-1099/1075/README.md)                                                             | :lock: | Easy   |                                                             |      |
 | 1076 | [Project Employees II](./problems/1000-1099/1076/README.md)                                                            | :lock: | Easy   |                                                             |      |
 | 1077 | [Project Employees III](./problems/1000-1099/1077/README.md)                                                           | :lock: | Medium |                                                             |      |

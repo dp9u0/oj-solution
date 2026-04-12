@@ -2504,7 +2504,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2488 | [Count Subarrays With Median K](./problems/2400-2499/2488/README.md)                                                   |        | Hard   |                                                             |      |
 | 2489 | [Number of Substrings With Fixed Ratio](./problems/2400-2499/2489/README.md)                                           | :lock: | Medium |                                                             |      |
 | 2490 | [Circular Sentence](./problems/2400-2499/2490/README.md)                                                               |        | Easy   |                                                             |      |
-| 2491 | [Divide Players Into Teams of Equal Skill](./problems/2400-2499/2491/README.md)                                        |        | Medium |                                                             |      |
+| 2491 | [Divide Players Into Teams of Equal Skill](./problems/2400-2499/2491/README.md) | :o: | Medium | [arr],[tp] |   |
 | 2492 | [Minimum Score of a Path Between Two Cities](./problems/2400-2499/2492/README.md)                                      |        | Medium |                                                             |      |
 | 2493 | [Divide Nodes Into the Maximum Number of Groups](./problems/2400-2499/2493/README.md)                                  |        | Hard   |                                                             |      |
 | 2494 | [Merge Overlapping Events in the Same Hall](./problems/2400-2499/2494/README.md)                                       | :lock: | Hard   |                                                             |      |

@@ -573,7 +573,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 491  | [Increasing Subsequences](./problems/400-499/491/README.md)                                                            |        | Medium |                                                             |      |
 | 492  | [Construct the Rectangle](./problems/400-499/492/README.md)                                                            | :o:    | Easy   | [math]                                                      |      |
 | 493  | [Reverse Pairs](./problems/400-499/493/README.md)                                                                      |        | Hard   |                                                             |      |
-| 494  | [Target Sum](./problems/400-499/494/README.md)                                                                         |        | Medium |                                                             |      |
+| 494 | [Target Sum](./problems/400-499/494/README.md) | :o: | Medium | [dp] | :+1:  |
 | 495  | [Teemo Attacking](./problems/400-499/495/README.md)                                                                    | :o:    | Easy   | [arr]                                                       |      |
 | 496  | [Next Greater Element I](./problems/400-499/496/README.md)                                                             | :o:    | Easy   | [stk],[hsh]                                                 | :+1: |
 | 497  | [Random Point in Non-overlapping Rectangles](./problems/400-499/497/README.md)                                         |        | Medium |                                                             |      |

@@ -787,7 +787,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 710  | [Random Pick with Blacklist](./problems/700-799/710/README.md)                                                         |        | Hard   |                                                             |      |
 | 711  | [Number of Distinct Islands II](./problems/700-799/711/README.md)                                                      | :lock: | Hard   |                                                             |      |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./problems/700-799/712/README.md) | :o: | Medium | [dp] |   |
-| 713  | [Subarray Product Less Than K](./problems/700-799/713/README.md)                                                       |        | Medium |                                                             |      |
+| 713 | [Subarray Product Less Than K](./problems/700-799/713/README.md) | :o: | Medium | [arr],[tp] | :+1:  |
 | 714  | [Best Time to Buy and Sell Stock with Transaction Fee](./problems/700-799/714/README.md)                               |        | Medium |                                                             |      |
 | 715  | [Range Module](./problems/700-799/715/README.md)                                                                       |        | Hard   |                                                             |      |
 | 716  | [Max Stack](./problems/700-799/716/README.md)                                                                          | :lock: | Easy   |                                                             |      |

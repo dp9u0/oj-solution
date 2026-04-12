@@ -1851,7 +1851,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1835 | [Find XOR Sum of All Pairs Bitwise AND](./problems/1800-1899/1835/README.md)                                           |        | Hard   |                                                             |      |
 | 1836 | [Remove Duplicates From an Unsorted Linked List](./problems/1800-1899/1836/README.md)                                  | :lock: | Medium |                                                             |      |
 | 1837 | [Sum of Digits in Base K](./problems/1800-1899/1837/README.md)                                                         |        | Easy   |                                                             |      |
-| 1838 | [Frequency of the Most Frequent Element](./problems/1800-1899/1838/README.md)                                          |        | Medium |                                                             |      |
+| 1838 | [Frequency of the Most Frequent Element](./problems/1800-1899/1838/README.md) | :o: | Medium | [tp] | :+1:  |
 | 1839 | [Longest Substring Of All Vowels in Order](./problems/1800-1899/1839/README.md)                                        | :o:    | Medium | [tp]                                                        |      |
 | 1840 | [Maximum Building Height](./problems/1800-1899/1840/README.md)                                                         |        | Hard   |                                                             |      |
 | 1841 | [League Statistics](./problems/1800-1899/1841/README.md)                                                               | :lock: | Medium |                                                             |      |

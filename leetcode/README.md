@@ -1197,7 +1197,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1120 | [Maximum Average Subtree](./problems/1100-1199/1120/README.md)                                                         | :lock: | Medium |                                                             |      |
 | 1121 | [Divide Array Into Increasing Sequences](./problems/1100-1199/1121/README.md)                                          | :lock: | Hard   |                                                             |      |
 | 1122 | [Relative Sort Array](./problems/1100-1199/1122/README.md)                                                             | :o:    | Easy   | [arr]                                                       |      |
-| 1123 | [Lowest Common Ancestor of Deepest Leaves](./problems/1100-1199/1123/README.md)                                        |        | Medium |                                                             |      |
+| 1123 | [Lowest Common Ancestor of Deepest Leaves](./problems/1100-1199/1123/README.md) | :o: | Medium | [tr] |   |
 | 1124 | [Longest Well-Performing Interval](./problems/1100-1199/1124/README.md) | :o: | Medium | [arr],[hm] | :+1:  |
 | 1125 | [Smallest Sufficient Team](./problems/1100-1199/1125/README.md)                                                        |        | Hard   |                                                             |      |
 | 1126 | [Active Businesses](./problems/1100-1199/1126/README.md)                                                               | :lock: | Medium |                                                             |      |

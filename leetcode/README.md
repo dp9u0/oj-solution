@@ -465,7 +465,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 383  | [Ransom Note](./problems/300-399/383/README.md)                                                                        | :o:    | Easy   | [hsh]                                                       |      |
 | 384  | [Shuffle an Array](./problems/300-399/384/README.md)                                                                   |        | Medium |                                                             |      |
 | 385  | [Mini Parser](./problems/300-399/385/README.md)                                                                        |        | Medium |                                                             |      |
-| 386  | [Lexicographical Numbers](./problems/300-399/386/README.md)                                                            |        | Medium |                                                             |      |
+| 386 | [Lexicographical Numbers](./problems/300-399/386/README.md) | :o: | Medium | [dfs] |   |
 | 387  | [First Unique Character in a String](./problems/300-399/387/README.md)                                                 | :o:    | Easy   | [hsh]                                                       |      |
 | 388  | [Longest Absolute File Path](./problems/300-399/388/README.md)                                                         |        | Medium |                                                             |      |
 | 389  | [Find the Difference](./problems/300-399/389/README.md)                                                                | :o:    | Easy   | [hsh]                                                       |      |

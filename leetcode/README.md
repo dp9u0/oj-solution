@@ -2576,7 +2576,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2560 | [House Robber IV](./problems/2500-2599/2560/README.md)                                                                 |        | Medium |                                                             |      |
 | 2561 | [Rearranging Fruits](./problems/2500-2599/2561/README.md)                                                              |        | Hard   |                                                             |      |
 | 2562 | [Find the Array Concatenation Value](./problems/2500-2599/2562/README.md)                                              |        | Easy   |                                                             |      |
-| 2563 | [Count the Number of Fair Pairs](./problems/2500-2599/2563/README.md)                                                  |        | Medium |                                                             |      |
+| 2563 | [Count the Number of Fair Pairs](./problems/2500-2599/2563/README.md) | :o: | Medium | [arr],[tp],[bs] |   |
 | 2564 | [Substring XOR Queries](./problems/2500-2599/2564/README.md)                                                           |        | Medium |                                                             |      |
 | 2565 | [Subsequence With the Minimum Score](./problems/2500-2599/2565/README.md)                                              |        | Hard   |                                                             |      |
 | 2566 | [Maximum Difference by Remapping a Digit](./problems/2500-2599/2566/README.md)                                         |        | Easy   |                                                             |      |

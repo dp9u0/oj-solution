@@ -1533,7 +1533,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1458 | [Max Dot Product of Two Subsequences](./problems/1400-1499/1458/README.md)                                             |        | Hard   |                                                             |      |
 | 1459 | [Rectangles Area](./problems/1400-1499/1459/README.md)                                                                 | :lock: | Medium |                                                             |      |
 | 1460 | [Make Two Arrays Equal by Reversing Sub-arrays](./problems/1400-1499/1460/README.md)                                   |        | Easy   |                                                             |      |
-| 1461 | [Check If a String Contains All Binary Codes of Size K](./problems/1400-1499/1461/README.md)                           |        | Medium |                                                             |      |
+| 1461 | [Check If a String Contains All Binary Codes of Size K](./problems/1400-1499/1461/README.md) | :o: | Medium | [arr],[hash] |   |
 | 1462 | [Course Schedule IV](./problems/1400-1499/1462/README.md)                                                              |        | Medium |                                                             |      |
 | 1463 | [Cherry Pickup II](./problems/1400-1499/1463/README.md)                                                                |        | Hard   |                                                             |      |
 | 1464 | [Maximum Product of Two Elements in an Array](./problems/1400-1499/1464/README.md)                                     |        | Easy   |                                                             |      |

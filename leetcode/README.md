@@ -992,7 +992,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 915  | [Partition Array into Disjoint Intervals](./problems/900-999/915/README.md)                                            |        | Medium |                                                             |      |
 | 916  | [Word Subsets](./problems/900-999/916/README.md)                                                                       | :o:    | Medium | [arr],[hash]                                                |      |
 | 917  | [Reverse Only Letters](./problems/900-999/917/README.md)                                                               | :o:    | Easy   | [tp]                                                        |      |
-| 918  | [Maximum Sum Circular Subarray](./problems/900-999/918/README.md)                                                      |        | Medium |                                                             |      |
+| 918 | [Maximum Sum Circular Subarray](./problems/900-999/918/README.md) | :o: | Medium | [dp] | :+1:  |
 | 919  | [Complete Binary Tree Inserter](./problems/900-999/919/README.md)                                                      |        | Medium |                                                             |      |
 | 920  | [Number of Music Playlists](./problems/900-999/920/README.md)                                                          |        | Hard   |                                                             |      |
 | 921  | [Minimum Add to Make Parentheses Valid](./problems/900-999/921/README.md)                                              |        | Medium |                                                             |      |

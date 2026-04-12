@@ -894,7 +894,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 817  | [Linked List Components](./problems/800-899/817/README.md)                                                             |        | Medium |                                                             |      |
 | 818  | [Race Car](./problems/800-899/818/README.md)                                                                           |        | Hard   |                                                             |      |
 | 819  | [Most Common Word](./problems/800-899/819/README.md)                                                                   | :o:    | Easy   | [str]                                                       |      |
-| 820  | [Short Encoding of Words](./problems/800-899/820/README.md)                                                            |        | Medium |                                                             |      |
+| 820 | [Short Encoding of Words](./problems/800-899/820/README.md) | :o: | Medium | [str],[trie] | :+1:  |
 | 821  | [Shortest Distance to a Character](./problems/800-899/821/README.md)                                                   | :o:    | Easy   | [arr]                                                       |      |
 | 822  | [Card Flipping Game](./problems/800-899/822/README.md)                                                                 |        | Medium |                                                             |      |
 | 823  | [Binary Trees With Factors](./problems/800-899/823/README.md)                                                          |        | Medium |                                                             |      |

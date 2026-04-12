@@ -1993,7 +1993,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1977 | [Number of Ways to Separate Numbers](./problems/1900-1999/1977/README.md)                                              |        | Hard   |                                                             |      |
 | 1978 | [Employees Whose Manager Left the Company](./problems/1900-1999/1978/README.md)                                        | :lock: | Easy   |                                                             |      |
 | 1979 | [Find Greatest Common Divisor of Array](./problems/1900-1999/1979/README.md)                                           |        | Easy   |                                                             |      |
-| 1980 | [Find Unique Binary String](./problems/1900-1999/1980/README.md)                                                       |        | Medium |                                                             |      |
+| 1980 | [Find Unique Binary String](./problems/1900-1999/1980/README.md) | :o: | Medium | [arr],[bit] |   |
 | 1981 | [Minimize the Difference Between Target and Chosen Elements](./problems/1900-1999/1981/README.md)                      |        | Medium |                                                             |      |
 | 1982 | [Find Array Given Subset Sums](./problems/1900-1999/1982/README.md)                                                    |        | Hard   |                                                             |      |
 | 1983 | [1983](./problems/1900-1999/1983/README.md)                                                                            |        | Easy   |                                                             |      |

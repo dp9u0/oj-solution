@@ -1004,7 +1004,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 927  | [Three Equal Parts](./problems/900-999/927/README.md)                                                                  |        | Hard   |                                                             |      |
 | 928  | [Minimize Malware Spread II](./problems/900-999/928/README.md)                                                         |        | Hard   |                                                             |      |
 | 929  | [Unique Email Addresses](./problems/900-999/929/README.md)                                                             | :o:    | Easy   | [str]                                                       |      |
-| 930  | [Binary Subarrays With Sum](./problems/900-999/930/README.md)                                                          |        | Medium |                                                             |      |
+| 930 | [Binary Subarrays With Sum](./problems/900-999/930/README.md) | :o: | Medium | [arr],[hash] |   |
 | 931  | [Minimum Falling Path Sum](./problems/900-999/931/README.md)                                                           |        | Medium |                                                             |      |
 | 932  | [Beautiful Array](./problems/900-999/932/README.md)                                                                    |        | Medium |                                                             |      |
 | 933  | [Number of Recent Calls](./problems/900-999/933/README.md)                                                             | :o:    | Easy   | [des]                                                       |      |

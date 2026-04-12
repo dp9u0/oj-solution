@@ -486,7 +486,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 404  | [Sum of Left Leaves](./problems/400-499/404/README.md)                                                                 | :o:    | Easy   | [tr]                                                        |      |
 | 405  | [Convert a Number to Hexadecimal](./problems/400-499/405/README.md)                                                    | :o:    | Easy   | [bit]                                                       |      |
 | 406 | [Queue Reconstruction by Height](./problems/400-499/406/README.md) | :o: | Medium | [arr],[greedy] | :+1:  |
-| 407  | [Trapping Rain Water II](./problems/400-499/407/README.md)                                                             |        | Hard   |                                                             |      |
+| 407 | [Trapping Rain Water II](./problems/400-499/407/README.md) | :o: | Hard | [arr],[heap] | :+1:  |
 | 408  | [Valid Word Abbreviation](./problems/400-499/408/README.md)                                                            | :lock: | Easy   |                                                             |      |
 | 409  | [Longest Palindrome](./problems/400-499/409/README.md)                                                                 | :o:    | Easy   | [hsh]                                                       |      |
 | 410  | [Split Array Largest Sum](./problems/400-499/410/README.md)                                                            |        | Hard   |                                                             |      |

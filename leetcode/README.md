@@ -1793,7 +1793,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1718 | [Construct the Lexicographically Largest Valid Sequence](./problems/1700-1799/1718/README.md)                          |        | Medium |                                                             |      |
 | 1719 | [Number Of Ways To Reconstruct A Tree](./problems/1700-1799/1719/README.md)                                            |        | Hard   |                                                             |      |
 | 1720 | [Decode XORed Array](./problems/1700-1799/1720/README.md)                                                              | :o:    | Easy   | [math]                                                      | :+1: |
-| 1721 | [1721](./problems/1700-1799/1721/README.md)                                                                            |        | Easy   |                                                             |      |
+| 1721 | [1721](./problems/1700-1799/1721/README.md) | :o: | Medium | [ll],[tp] |   |
 | 1722 | [Minimize Hamming Distance After Swap Operations](./problems/1700-1799/1722/README.md)                                 |        | Medium |                                                             |      |
 | 1723 | [Find Minimum Time to Finish All Jobs](./problems/1700-1799/1723/README.md)                                            | :o:    | Hard   | [arr],[bt]                                                  | :+1: |
 | 1724 | [Checking Existence of Edge Length Limited Paths II](./problems/1700-1799/1724/README.md)                              | :lock: | Hard   |                                                             |      |

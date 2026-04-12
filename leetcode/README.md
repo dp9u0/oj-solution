@@ -2438,7 +2438,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2422 | [Merge Operations to Turn Array Into a Palindrome](./problems/2400-2499/2422/README.md)                                | :lock: | Medium |                                                             |      |
 | 2423 | [Remove Letter To Equalize Frequency](./problems/2400-2499/2423/README.md)                                             |        | Easy   |                                                             |      |
 | 2424 | [Longest Uploaded Prefix](./problems/2400-2499/2424/README.md)                                                         |        | Medium |                                                             |      |
-| 2425 | [Bitwise XOR of All Pairings](./problems/2400-2499/2425/README.md)                                                     |        | Medium |                                                             |      |
+| 2425 | [Bitwise XOR of All Pairings](./problems/2400-2499/2425/README.md) | :o: | Medium | [arr],[bit] |   |
 | 2426 | [Number of Pairs Satisfying Inequality](./problems/2400-2499/2426/README.md)                                           |        | Hard   |                                                             |      |
 | 2427 | [Number of Common Factors](./problems/2400-2499/2427/README.md)                                                        |        | Easy   |                                                             |      |
 | 2428 | [Maximum Sum of an Hourglass](./problems/2400-2499/2428/README.md)                                                     |        | Medium |                                                             |      |

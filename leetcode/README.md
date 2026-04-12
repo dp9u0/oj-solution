@@ -2030,7 +2030,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2014 | [Longest Subsequence Repeated k Times](./problems/2000-2099/2014/README.md)                                            |        | Hard   |                                                             |      |
 | 2015 | [Average Height of Buildings in Each Segment](./problems/2000-2099/2015/README.md)                                     | :lock: | Medium |                                                             |      |
 | 2016 | [Maximum Difference Between Increasing Elements](./problems/2000-2099/2016/README.md)                                  |        | Easy   |                                                             |      |
-| 2017 | [Grid Game](./problems/2000-2099/2017/README.md)                                                                       |        | Medium |                                                             |      |
+| 2017 | [Grid Game](./problems/2000-2099/2017/README.md) | :o: | Medium | [arr],[dp] |   |
 | 2018 | [Check if Word Can Be Placed In Crossword](./problems/2000-2099/2018/README.md)                                        |        | Medium |                                                             |      |
 | 2019 | [The Score of Students Solving Math Expression](./problems/2000-2099/2019/README.md)                                   |        | Hard   |                                                             |      |
 | 2020 | [Number of Accounts That Did Not Stream](./problems/2000-2099/2020/README.md)                                          | :lock: | Medium |                                                             |      |

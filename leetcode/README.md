@@ -1624,7 +1624,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1549 | [The Most Recent Orders for Each Product](./problems/1500-1599/1549/README.md)                                         | :lock: | Medium |                                                             |      |
 | 1550 | [1550](./problems/1500-1599/1550/README.md)                                                                            |        | Easy   |                                                             |      |
 | 1551 | [Minimum Operations to Make Array Equal](./problems/1500-1599/1551/README.md)                                          |        | Medium |                                                             |      |
-| 1552 | [Magnetic Force Between Two Balls](./problems/1500-1599/1552/README.md)                                                |        | Medium |                                                             |      |
+| 1552 | [Magnetic Force Between Two Balls](./problems/1500-1599/1552/README.md) | :o: | Medium | [bs] | :+1:  |
 | 1553 | [Minimum Number of Days to Eat N Oranges](./problems/1500-1599/1553/README.md)                                         |        | Hard   |                                                             |      |
 | 1554 | [Strings Differ by One Character](./problems/1500-1599/1554/README.md)                                                 | :lock: | Medium |                                                             |      |
 | 1555 | [Bank Account Summary](./problems/1500-1599/1555/README.md)                                                            | :lock: | Medium |                                                             |      |

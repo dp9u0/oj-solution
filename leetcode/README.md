@@ -744,7 +744,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 667  | [Beautiful Arrangement II](./problems/600-699/667/README.md)                                                           |        | Medium |                                                             |      |
 | 668  | [Kth Smallest Number in Multiplication Table](./problems/600-699/668/README.md)                                        |        | Hard   |                                                             |      |
 | 669  | [Trim a Binary Search Tree](./problems/600-699/669/README.md)                                                          | :o:    | Easy   | [tr]                                                        |      |
-| 670  | [Maximum Swap](./problems/600-699/670/README.md)                                                                       |        | Medium |                                                             |      |
+| 670 | [Maximum Swap](./problems/600-699/670/README.md) | :o: | Medium | [arr] |   |
 | 671  | [Second Minimum Node In a Binary Tree](./problems/600-699/671/README.md)                                               | :o:    | Easy   | [tr]                                                        |      |
 | 672  | [Bulb Switcher II](./problems/600-699/672/README.md)                                                                   |        | Medium |                                                             |      |
 | 673  | [Number of Longest Increasing Subsequence](./problems/600-699/673/README.md)                                           |        | Medium |                                                             |      |

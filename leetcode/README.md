@@ -1305,7 +1305,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1230 | [Toss Strange Coins](./problems/1200-1299/1230/README.md)                                                              | :lock: | Medium |                                                             |      |
 | 1231 | [Divide Chocolate](./problems/1200-1299/1231/README.md)                                                                | :lock: | Hard   |                                                             |      |
 | 1232 | [Check If It Is a Straight Line](./problems/1200-1299/1232/README.md)                                                  | :o:    | Easy   | [math]                                                      |      |
-| 1233 | [Remove Sub-Folders from the Filesystem](./problems/1200-1299/1233/README.md)                                          |        | Medium |                                                             |      |
+| 1233 | [Remove Sub-Folders from the Filesystem](./problems/1200-1299/1233/README.md) | :o: | Medium | [arr] |   |
 | 1234 | [Replace the Substring for Balanced String](./problems/1200-1299/1234/README.md)                                       |        | Medium |                                                             |      |
 | 1235 | [Maximum Profit in Job Scheduling](./problems/1200-1299/1235/README.md)                                                |        | Hard   |                                                             |      |
 | 1236 | [Web Crawler](./problems/1200-1299/1236/README.md)                                                                     | :lock: | Medium |                                                             |      |

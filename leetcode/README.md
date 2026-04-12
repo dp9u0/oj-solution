@@ -2984,7 +2984,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2968 | [Apply Operations to Maximize Frequency Score](./problems/2900-2999/2968/README.md)                                    |        | Hard   |                                                             |      |
 | 2969 | [Minimum Number of Coins for Fruits II](./problems/2900-2999/2969/README.md)                                           | :lock: | Hard   |                                                             |      |
 | 2970 | [Count the Number of Incremovable Subarrays I](./problems/2900-2999/2970/README.md)                                    |        | Easy   |                                                             |      |
-| 2971 | [Find Polygon With the Largest Perimeter](./problems/2900-2999/2971/README.md)                                         |        | Medium |                                                             |      |
+| 2971 | [Find Polygon With the Largest Perimeter](./problems/2900-2999/2971/README.md) | :o: | Medium | [arr] |   |
 | 2972 | [Count the Number of Incremovable Subarrays II](./problems/2900-2999/2972/README.md)                                   |        | Hard   |                                                             |      |
 | 2973 | [Find Number of Coins to Place in Tree Nodes](./problems/2900-2999/2973/README.md)                                     |        | Hard   |                                                             |      |
 | 2974 | [Minimum Number Game](./problems/2900-2999/2974/README.md)                                                             |        | Easy   |                                                             |      |

@@ -930,7 +930,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 853  | [Car Fleet](./problems/800-899/853/README.md)                                                                          |        | Medium |                                                             |      |
 | 854  | [K-Similar Strings](./problems/800-899/854/README.md)                                                                  |        | Hard   |                                                             |      |
 | 855  | [Exam Room](./problems/800-899/855/README.md)                                                                          |        | Medium |                                                             |      |
-| 856  | [Score of Parentheses](./problems/800-899/856/README.md)                                                               |        | Medium |                                                             |      |
+| 856 | [Score of Parentheses](./problems/800-899/856/README.md) | :o: | Medium | [stack] | :+1:  |
 | 857  | [Minimum Cost to Hire K Workers](./problems/800-899/857/README.md)                                                     |        | Hard   |                                                             |      |
 | 858  | [Mirror Reflection](./problems/800-899/858/README.md)                                                                  |        | Medium |                                                             |      |
 | 859  | [Buddy Strings](./problems/800-899/859/README.md)                                                                      | :o:    | Easy   | [str]                                                       |      |

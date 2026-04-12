@@ -772,7 +772,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 695  | [Max Area of Island](./problems/600-699/695/README.md)                                                                 | :o:    | Medium | [dfs]                                                       |      |
 | 696  | [Count Binary Substrings](./problems/600-699/696/README.md)                                                            | :o:    | Easy   | [arr]                                                       | :+1: |
 | 697  | [Degree of an Array](./problems/600-699/697/README.md)                                                                 | :o:    | Easy   | [hsh]                                                       |      |
-| 698  | [Partition to K Equal Sum Subsets](./problems/600-699/698/README.md)                                                   |        | Medium |                                                             |      |
+| 698 | [Partition to K Equal Sum Subsets](./problems/600-699/698/README.md) | :o: | Medium | [arr],[dp],[bit] | :+1:  |
 | 699  | [Falling Squares](./problems/600-699/699/README.md)                                                                    |        | Hard   |                                                             |      |
 | 700  | [Search in a Binary Search Tree](./problems/700-799/700/README.md)                                                     | :o:    | Easy   | [tr]                                                        |      |
 | 701  | [Insert into a Binary Search Tree](./problems/700-799/701/README.md)                                                   |        | Medium |                                                             |      |

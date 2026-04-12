@@ -865,7 +865,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 788  | [Rotated Digits](./problems/700-799/788/README.md)                                                                     | :o:    | Easy   | [dp]                                                        | :+1: |
 | 789  | [Escape The Ghosts](./problems/700-799/789/README.md)                                                                  |        | Medium |                                                             |      |
 | 790 | [Domino and Tromino Tiling](./problems/700-799/790/README.md) | :o: | Medium | [dp] | :+1:  |
-| 791  | [Custom Sort String](./problems/700-799/791/README.md)                                                                 |        | Medium |                                                             |      |
+| 791 | [Custom Sort String](./problems/700-799/791/README.md) | :o: | Medium | [arr] |   |
 | 792  | [Number of Matching Subsequences](./problems/700-799/792/README.md)                                                    |        | Medium |                                                             |      |
 | 793  | [Preimage Size of Factorial Zeroes Function](./problems/700-799/793/README.md)                                         |        | Hard   |                                                             |      |
 | 794  | [Valid Tic-Tac-Toe State](./problems/700-799/794/README.md)                                                            |        | Medium |                                                             |      |

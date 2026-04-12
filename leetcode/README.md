@@ -478,7 +478,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 396  | [Rotate Function](./problems/300-399/396/README.md)                                                                    |        | Medium |                                                             |      |
 | 397  | [Integer Replacement](./problems/300-399/397/README.md)                                                                |        | Medium |                                                             |      |
 | 398  | [Random Pick Index](./problems/300-399/398/README.md)                                                                  |        | Medium |                                                             |      |
-| 399  | [Evaluate Division](./problems/300-399/399/README.md)                                                                  |        | Medium |                                                             |      |
+| 399 | [Evaluate Division](./problems/300-399/399/README.md) | :o: | Medium | [graph],[unionfind] | :+1:  |
 | 400  | [Nth Digit](./problems/400-499/400/README.md)                                                                          | :o:    | Easy   | [math]                                                      |      |
 | 401  | [Binary Watch](./problems/400-499/401/README.md)                                                                       | :o:    | Easy   | [math]                                                      |      |
 | 402  | [Remove K Digits](./problems/400-499/402/README.md)                                                                    |        | Medium |                                                             |      |

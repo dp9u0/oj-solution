@@ -2793,7 +2793,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2777 | [2777](./problems/2700-2799/2777/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2778 | [Sum of Squares of Special Elements](./problems/2700-2799/2778/README.md)                                              |        | Easy   |                                                             |      |
 | 2779 | [Maximum Beauty of an Array After Applying Operation](./problems/2700-2799/2779/README.md)                             |        | Medium |                                                             |      |
-| 2780 | [Minimum Index of a Valid Split](./problems/2700-2799/2780/README.md)                                                  |        | Medium |                                                             |      |
+| 2780 | [Minimum Index of a Valid Split](./problems/2700-2799/2780/README.md) | :o: | Medium | [arr] |   |
 | 2781 | [Length of the Longest Valid Substring](./problems/2700-2799/2781/README.md)                                           |        | Hard   |                                                             |      |
 | 2782 | [Number of Unique Categories](./problems/2700-2799/2782/README.md)                                                     | :lock: | Medium |                                                             |      |
 | 2783 | [Flight Occupancy and Waitlist Analysis](./problems/2700-2799/2783/README.md)                                          | :lock: | Medium |                                                             |      |

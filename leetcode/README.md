@@ -1354,7 +1354,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1279 | [1279](./problems/1200-1299/1279/README.md)                                                                            |        | Easy   |                                                             |      |
 | 1280 | [Students and Examinations](./problems/1200-1299/1280/README.md)                                                       | :lock: | Easy   |                                                             |      |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](./problems/1200-1299/1281/README.md) | :o: | Easy | [math] |   |
-| 1282 | [Group the People Given the Group Size They Belong To](./problems/1200-1299/1282/README.md)                            |        | Medium |                                                             |      |
+| 1282 | [Group the People Given the Group Size They Belong To](./problems/1200-1299/1282/README.md) | :o: | Medium | [arr],[greedy] |   |
 | 1283 | [Find the Smallest Divisor Given a Threshold](./problems/1200-1299/1283/README.md)                                     |        | Medium |                                                             |      |
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](./problems/1200-1299/1284/README.md)                 |        | Hard   |                                                             |      |
 | 1285 | [Find the Start and End Number of Continuous Ranges](./problems/1200-1299/1285/README.md)                              | :lock: | Medium |                                                             |      |

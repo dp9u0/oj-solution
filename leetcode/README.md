@@ -1471,7 +1471,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1396 | [Design Underground System](./problems/1300-1399/1396/README.md)                                                       |        | Medium |                                                             |      |
 | 1397 | [Find All Good Strings](./problems/1300-1399/1397/README.md)                                                           |        | Hard   |                                                             |      |
 | 1398 | [Customers Who Bought Products A and B but Not C](./problems/1300-1399/1398/README.md)                                 | :lock: | Medium |                                                             |      |
-| 1399 | [Count Largest Group](./problems/1300-1399/1399/README.md)                                                             |        | Easy   |                                                             |      |
+| 1399 | [Count Largest Group](./problems/1300-1399/1399/README.md) | :o: | Easy | [arr] |   |
 | 1400 | [Construct K Palindrome Strings](./problems/1400-1499/1400/README.md) | :o: | Medium | [arr] |   |
 | 1401 | [Circle and Rectangle Overlapping](./problems/1400-1499/1401/README.md)                                                |        | Medium |                                                             |      |
 | 1402 | [Reducing Dishes](./problems/1400-1499/1402/README.md)                                                                 | :o:    | Hard   | [math]                                                      |      |

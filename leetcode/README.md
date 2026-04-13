@@ -2020,7 +2020,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2004 | [The Number of Seniors and Juniors to Join the Company](./problems/2000-2099/2004/README.md)                           | :lock: | Hard   |                                                             |      |
 | 2005 | [Subtree Removal Game with Fibonacci Tree](./problems/2000-2099/2005/README.md)                                        | :lock: | Hard   |                                                             |      |
 | 2006 | [Count Number of Pairs With Absolute Difference K](./problems/2000-2099/2006/README.md)                                |        | Easy   |                                                             |      |
-| 2007 | [Find Original Array From Doubled Array](./problems/2000-2099/2007/README.md)                                          |        | Medium |                                                             |      |
+| 2007 | [Find Original Array From Doubled Array](./problems/2000-2099/2007/README.md) | :o: | Medium | [arr],[greedy] |   |
 | 2008 | [Maximum Earnings From Taxi](./problems/2000-2099/2008/README.md)                                                      |        | Medium |                                                             |      |
 | 2009 | [Minimum Number of Operations to Make Array Continuous](./problems/2000-2099/2009/README.md) | :o: | Hard | [arr],[tp] | :+1:  |
 | 2010 | [The Number of Seniors and Juniors to Join the Company II](./problems/2000-2099/2010/README.md)                        | :lock: | Hard   |                                                             |      |

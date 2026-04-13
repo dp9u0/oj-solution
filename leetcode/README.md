@@ -2698,7 +2698,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2682 | [Find the Losers of the Circular Game](./problems/2600-2699/2682/README.md)                                            |        | Easy   |                                                             |      |
 | 2683 | [Neighboring Bitwise XOR](./problems/2600-2699/2683/README.md) | :o: | Medium | [arr],[bit] |   |
 | 2684 | [Maximum Number of Moves in a Grid](./problems/2600-2699/2684/README.md)                                               |        | Medium |                                                             |      |
-| 2685 | [Count the Number of Complete Components](./problems/2600-2699/2685/README.md)                                         |        | Medium |                                                             |      |
+| 2685 | [Count the Number of Complete Components](./problems/2600-2699/2685/README.md) | :o: | Medium | [arr],[bfs] |   |
 | 2686 | [Immediate Food Delivery III](./problems/2600-2699/2686/README.md)                                                     | :lock: | Medium |                                                             |      |
 | 2687 | [Bikes Last Time Us](./problems/2600-2699/2687/README.md)                                                              | :lock: | Easy   |                                                             |      |
 | 2688 | [Find Active Users](./problems/2600-2699/2688/README.md)                                                               | :lock: | Medium |                                                             |      |

@@ -3166,7 +3166,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3150 | [Invalid Tweets II](./problems/3100-3199/3150/README.md)                                                               | :lock: | Easy   |                                                             |      |
 | 3151 | [Special Array I](./problems/3100-3199/3151/README.md)                                                                 |        | Easy   |                                                             |      |
 | 3152 | [Special Array II](./problems/3100-3199/3152/README.md)                                                                |        | Medium |                                                             |      |
-| 3153 | [Sum of Digit Differences of All Pairs](./problems/3100-3199/3153/README.md)                                           |        | Medium |                                                             |      |
+| 3153 | [Sum of Digit Differences of All Pairs](./problems/3100-3199/3153/README.md) | :o: | Medium | [arr],[greedy] |   |
 | 3154 | [Find Number of Ways to Reach the K-th Stair](./problems/3100-3199/3154/README.md)                                     |        | Hard   |                                                             |      |
 | 3155 | [Maximum Number of Upgradable Servers](./problems/3100-3199/3155/README.md)                                            | :lock: | Medium |                                                             |      |
 | 3156 | [Employee Task Duration and Concurrent Tasks](./problems/3100-3199/3156/README.md)                                     | :lock: | Hard   |                                                             |      |

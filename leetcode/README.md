@@ -1021,7 +1021,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 944  | [Delete Columns to Make Sorted](./problems/900-999/944/README.md)                                                      | :o:    | Easy   | [str]                                                       |      |
 | 945 | [Minimum Increment to Make Array Unique](./problems/900-999/945/README.md) | :o: | Medium | [arr] |   |
 | 946 | [Validate Stack Sequences](./problems/900-999/946/README.md) | :o: | Medium | [arr],[stack] |   |
-| 947  | [Most Stones Removed with Same Row or Column](./problems/900-999/947/README.md)                                        |        | Medium |                                                             |      |
+| 947 | [Most Stones Removed with Same Row or Column](./problems/900-999/947/README.md) | :o: | Medium | [union-find] | :+1:  |
 | 948  | [Bag of Tokens](./problems/900-999/948/README.md)                                                                      |        | Medium |                                                             |      |
 | 949  | [Largest Time for Given Digits](./problems/900-999/949/README.md)                                                      | :o:    | Easy   | [lgc]                                                       | :-1: |
 | 950  | [Reveal Cards In Increasing Order](./problems/900-999/950/README.md)                                                   | :o:    | Medium | [arr],[sim]                                                 |      |

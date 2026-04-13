@@ -2601,7 +2601,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2585 | [Number of Ways to Earn Points](./problems/2500-2599/2585/README.md)                                                   |        | Hard   |                                                             |      |
 | 2586 | [Count the Number of Vowel Strings in Range](./problems/2500-2599/2586/README.md)                                      |        | Easy   |                                                             |      |
 | 2587 | [Rearrange Array to Maximize Prefix Score](./problems/2500-2599/2587/README.md)                                        |        | Medium |                                                             |      |
-| 2588 | [Count the Number of Beautiful Subarrays](./problems/2500-2599/2588/README.md)                                         |        | Medium |                                                             |      |
+| 2588 | [Count the Number of Beautiful Subarrays](./problems/2500-2599/2588/README.md) | :o: | Medium | [bit],[hash] | :+1:  |
 | 2589 | [Minimum Time to Complete All Tasks](./problems/2500-2599/2589/README.md)                                              |        | Hard   |                                                             |      |
 | 2590 | [Design a Todo List](./problems/2500-2599/2590/README.md)                                                              | :lock: | Medium |                                                             |      |
 | 2591 | [Distribute Money to Maximum Children](./problems/2500-2599/2591/README.md)                                            |        | Easy   |                                                             |      |

@@ -2686,7 +2686,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2670 | [Find the Distinct Difference Array](./problems/2600-2699/2670/README.md)                                              |        | Easy   |                                                             |      |
 | 2671 | [Frequency Tracker](./problems/2600-2699/2671/README.md)                                                               |        | Medium |                                                             |      |
 | 2672 | [Number of Adjacent Elements With the Same Color](./problems/2600-2699/2672/README.md)                                 |        | Medium |                                                             |      |
-| 2673 | [Make Costs of Paths Equal in a Binary Tree](./problems/2600-2699/2673/README.md)                                      |        | Medium |                                                             |      |
+| 2673 | [Make Costs of Paths Equal in a Binary Tree](./problems/2600-2699/2673/README.md) | :o: | Medium | [tr],[greedy] |   |
 | 2674 | [Split a Circular Linked List](./problems/2600-2699/2674/README.md)                                                    | :lock: | Medium |                                                             |      |
 | 2675 | [2675](./problems/2600-2699/2675/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2676 | [2676](./problems/2600-2699/2676/README.md)                                                                            |        | Easy   |                                                             |      |

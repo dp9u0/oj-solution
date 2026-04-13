@@ -3436,3 +3436,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1759 | [Count Number of Homogenous Substrings](./problems/1700-1799/1759/README.md) | :o: | Medium | [arr] |   |
 | 3718 | [Smallest Missing Multiple of K](./problems/3700-3799/3718/README.md) | :o: | Easy | [arr],[math] |   |
 | 1765 | [Map of Highest Peak](./problems/1700-1799/1765/README.md) | :o: | Medium | [arr],[bfs] |   |
+| 1749 | [Maximum Absolute Sum of Any Subarray](./problems/1700-1799/1749/README.md) | :o: | Medium | [arr],[dp] |   |

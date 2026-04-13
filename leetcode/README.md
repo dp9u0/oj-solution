@@ -2371,7 +2371,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2355 | [Maximum Number of Books You Can Take](./problems/2300-2399/2355/README.md)                                            | :lock: | Hard   |                                                             |      |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](./problems/2300-2399/2356/README.md)                                | :soon: | Easy   |                                                             |      |
 | 2357 | [Make Array Zero by Subtracting Equal Amounts](./problems/2300-2399/2357/README.md)                                    |        | Easy   |                                                             |      |
-| 2358 | [Maximum Number of Groups Entering a Competition](./problems/2300-2399/2358/README.md)                                 |        | Medium |                                                             |      |
+| 2358 | [Maximum Number of Groups Entering a Competition](./problems/2300-2399/2358/README.md) | :o: | Medium | [greedy] |   |
 | 2359 | [Find Closest Node to Given Two Nodes](./problems/2300-2399/2359/README.md)                                            |        | Medium |                                                             |      |
 | 2360 | [Longest Cycle in a Graph](./problems/2300-2399/2360/README.md)                                                        |        | Hard   |                                                             |      |
 | 2361 | [Minimum Costs Using the Train Line](./problems/2300-2399/2361/README.md)                                              | :lock: | Hard   |                                                             |      |

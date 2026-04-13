@@ -2580,7 +2580,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2564 | [Substring XOR Queries](./problems/2500-2599/2564/README.md)                                                           |        | Medium |                                                             |      |
 | 2565 | [Subsequence With the Minimum Score](./problems/2500-2599/2565/README.md)                                              |        | Hard   |                                                             |      |
 | 2566 | [Maximum Difference by Remapping a Digit](./problems/2500-2599/2566/README.md)                                         |        | Easy   |                                                             |      |
-| 2567 | [Minimum Score by Changing Two Elements](./problems/2500-2599/2567/README.md)                                          |        | Medium |                                                             |      |
+| 2567 | [Minimum Score by Changing Two Elements](./problems/2500-2599/2567/README.md) | :o: | Medium | [arr],[greedy] |   |
 | 2568 | [Minimum Impossible OR](./problems/2500-2599/2568/README.md)                                                           |        | Medium |                                                             |      |
 | 2569 | [Handling Sum Queries After Update](./problems/2500-2599/2569/README.md)                                               |        | Hard   |                                                             |      |
 | 2570 | [Merge Two 2D Arrays by Summing Values](./problems/2500-2599/2570/README.md)                                           |        | Easy   |                                                             |      |

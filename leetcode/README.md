@@ -3267,7 +3267,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3251 | [Find the Count of Monotonic Pairs II](./problems/3200-3299/3251/README.md)                                            |        | Hard   |                                                             |      |
 | 3252 | [Premier League Table Ranking II](./problems/3200-3299/3252/README.md)                                                 | :lock: | Medium |                                                             |      |
 | 3253 | [Construct String with Minimum Cost (Easy)](./problems/3200-3299/3253/README.md)                                       | :lock: | Medium |                                                             |      |
-| 3254 | [Find the Power of K-Size Subarrays I](./problems/3200-3299/3254/README.md)                                            |        | Medium |                                                             |      |
+| 3254 | [Find the Power of K-Size Subarrays I](./problems/3200-3299/3254/README.md) | :o: | Medium | [arr] |   |
 | 3255 | [Find the Power of K-Size Subarrays II](./problems/3200-3299/3255/README.md)                                           |        | Medium |                                                             |      |
 | 3256 | [Maximum Value Sum by Placing Three Rooks I](./problems/3200-3299/3256/README.md)                                      |        | Hard   |                                                             |      |
 | 3257 | [Maximum Value Sum by Placing Three Rooks II](./problems/3200-3299/3257/README.md)                                     |        | Hard   |                                                             |      |

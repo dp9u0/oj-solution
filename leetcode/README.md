@@ -2283,7 +2283,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2267 | [Check if There Is a Valid Parentheses String Path](./problems/2200-2299/2267/README.md)                               |        | Hard   |                                                             |      |
 | 2268 | [Minimum Number of Keypresses](./problems/2200-2299/2268/README.md)                                                    | :lock: | Medium |                                                             |      |
 | 2269 | [2269](./problems/2200-2299/2269/README.md)                                                                            |        | Easy   |                                                             |      |
-| 2270 | [Number of Ways to Split Array](./problems/2200-2299/2270/README.md)                                                   |        | Medium |                                                             |      |
+| 2270 | [Number of Ways to Split Array](./problems/2200-2299/2270/README.md) | :o: | Medium | [arr] |   |
 | 2271 | [Maximum White Tiles Covered by a Carpet](./problems/2200-2299/2271/README.md)                                         |        | Medium |                                                             |      |
 | 2272 | [Substring With Largest Variance](./problems/2200-2299/2272/README.md)                                                 |        | Hard   |                                                             |      |
 | 2273 | [2273](./problems/2200-2299/2273/README.md)                                                                            |        | Easy   |                                                             |      |

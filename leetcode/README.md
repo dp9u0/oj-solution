@@ -849,7 +849,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 772  | [Basic Calculator III](./problems/700-799/772/README.md)                                                               | :lock: | Hard   |                                                             |      |
 | 773  | [Sliding Puzzle](./problems/700-799/773/README.md)                                                                     |        | Hard   |                                                             |      |
 | 774  | [Minimize Max Distance to Gas Station](./problems/700-799/774/README.md)                                               | :lock: | Hard   |                                                             |      |
-| 775  | [Global and Local Inversions](./problems/700-799/775/README.md)                                                        |        | Medium |                                                             |      |
+| 775 | [Global and Local Inversions](./problems/700-799/775/README.md) | :o: | Medium | [arr] |   |
 | 776  | [Split BST](./problems/700-799/776/README.md)                                                                          | :lock: | Medium |                                                             |      |
 | 777  | [Swap Adjacent in LR String](./problems/700-799/777/README.md)                                                         |        | Medium |                                                             |      |
 | 778  | [Swim in Rising Water](./problems/700-799/778/README.md)                                                               |        | Hard   |                                                             |      |

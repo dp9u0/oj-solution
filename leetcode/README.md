@@ -2606,7 +2606,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2590 | [Design a Todo List](./problems/2500-2599/2590/README.md)                                                              | :lock: | Medium |                                                             |      |
 | 2591 | [Distribute Money to Maximum Children](./problems/2500-2599/2591/README.md)                                            |        | Easy   |                                                             |      |
 | 2592 | [Maximize Greatness of an Array](./problems/2500-2599/2592/README.md)                                                  |        | Medium |                                                             |      |
-| 2593 | [Find Score of an Array After Marking All Elements](./problems/2500-2599/2593/README.md)                               |        | Medium |                                                             |      |
+| 2593 | [Find Score of an Array After Marking All Elements](./problems/2500-2599/2593/README.md) | :o: | Medium | [arr],[greedy] | :+1:  |
 | 2594 | [Minimum Time to Repair Cars](./problems/2500-2599/2594/README.md)                                                     |        | Medium |                                                             |      |
 | 2595 | [Number of Even and Odd Bits](./problems/2500-2599/2595/README.md)                                                     |        | Easy   |                                                             |      |
 | 2596 | [Check Knight Tour Configuration](./problems/2500-2599/2596/README.md)                                                 |        | Medium |                                                             |      |

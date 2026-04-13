@@ -1326,7 +1326,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1251 | [Average Selling Price](./problems/1200-1299/1251/README.md)                                                           | :lock: | Easy   |                                                             |      |
 | 1252 | [Cells with Odd Values in a Matrix](./problems/1200-1299/1252/README.md)                                               |        | Easy   |                                                             |      |
 | 1253 | [Reconstruct a 2-Row Binary Matrix](./problems/1200-1299/1253/README.md)                                               |        | Medium |                                                             |      |
-| 1254 | [Number of Closed Islands](./problems/1200-1299/1254/README.md)                                                        |        | Medium |                                                             |      |
+| 1254 | [Number of Closed Islands](./problems/1200-1299/1254/README.md) | :o: | Medium | [dfs] |   |
 | 1255 | [Maximum Score Words Formed by Letters](./problems/1200-1299/1255/README.md)                                           |        | Hard   |                                                             |      |
 | 1256 | [Encode Number](./problems/1200-1299/1256/README.md)                                                                   | :lock: | Medium |                                                             |      |
 | 1257 | [Smallest Common Region](./problems/1200-1299/1257/README.md)                                                          | :lock: | Medium |                                                             |      |

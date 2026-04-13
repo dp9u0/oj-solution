@@ -920,7 +920,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 843  | [Guess the Word](./problems/800-899/843/README.md)                                                                     |        | Hard   |                                                             |      |
 | 844  | [Backspace String Compare](./problems/800-899/844/README.md)                                                           | :o:    | Easy   | [str]                                                       |      |
 | 845  | [Longest Mountain in Array](./problems/800-899/845/README.md)                                                          |        | Medium |                                                             |      |
-| 846  | [Hand of Straights](./problems/800-899/846/README.md)                                                                  |        | Medium |                                                             |      |
+| 846 | [Hand of Straights](./problems/800-899/846/README.md) | :o: | Medium | [arr],[greedy] | :+1:  |
 | 847  | [Shortest Path Visiting All Nodes](./problems/800-899/847/README.md)                                                   |        | Hard   |                                                             |      |
 | 848  | [Shifting Letters](./problems/800-899/848/README.md)                                                                   |        | Medium |                                                             |      |
 | 849  | [Maximize Distance to Closest Person](./problems/800-899/849/README.md)                                                | :o:    | Easy   | [arr]                                                       |      |

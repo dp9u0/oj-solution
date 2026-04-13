@@ -2307,7 +2307,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2291 | [Maximum Profit From Trading Stocks](./problems/2200-2299/2291/README.md)                                              | :lock: | Medium |                                                             |      |
 | 2292 | [Products With Three or More Orders in Two Consecutive Years](./problems/2200-2299/2292/README.md)                     | :lock: | Medium |                                                             |      |
 | 2293 | [Min Max Game](./problems/2200-2299/2293/README.md)                                                                    |        | Easy   |                                                             |      |
-| 2294 | [Partition Array Such That Maximum Difference Is K](./problems/2200-2299/2294/README.md)                               |        | Medium |                                                             |      |
+| 2294 | [Partition Array Such That Maximum Difference Is K](./problems/2200-2299/2294/README.md) | :o: | Medium | [arr],[greedy] | :+1:  |
 | 2295 | [Replace Elements in an Array](./problems/2200-2299/2295/README.md)                                                    |        | Medium |                                                             |      |
 | 2296 | [Design a Text Editor](./problems/2200-2299/2296/README.md)                                                            |        | Hard   |                                                             |      |
 | 2297 | [2297](./problems/2200-2299/2297/README.md)                                                                            |        | Easy   |                                                             |      |

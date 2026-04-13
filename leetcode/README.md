@@ -3029,7 +3029,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3013 | [Divide an Array Into Subarrays With Minimum Cost II](./problems/3000-3099/3013/README.md)                             |        | Hard   |                                                             |      |
 | 3014 | [Minimum Number of Pushes to Type Word I](./problems/3000-3099/3014/README.md)                                         |        | Easy   |                                                             |      |
 | 3015 | [Count the Number of Houses at a Certain Distance I](./problems/3000-3099/3015/README.md)                              |        | Medium |                                                             |      |
-| 3016 | [Minimum Number of Pushes to Type Word II](./problems/3000-3099/3016/README.md)                                        |        | Medium |                                                             |      |
+| 3016 | [Minimum Number of Pushes to Type Word II](./problems/3000-3099/3016/README.md) | :o: | Medium | [str],[greedy] |   |
 | 3017 | [Count the Number of Houses at a Certain Distance II](./problems/3000-3099/3017/README.md)                             |        | Hard   |                                                             |      |
 | 3018 | [Maximum Number of Removal Queries That Can Be Processed I](./problems/3000-3099/3018/README.md)                       | :lock: | Hard   |                                                             |      |
 | 3019 | [Number of Changing Keys](./problems/3000-3099/3019/README.md)                                                         |        | Easy   |                                                             |      |

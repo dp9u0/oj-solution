@@ -1400,7 +1400,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1325 | [Delete Leaves With a Given Value](./problems/1300-1399/1325/README.md) | :o: | Medium | [tr] |   |
 | 1326 | [Minimum Number of Taps to Open to Water a Garden](./problems/1300-1399/1326/README.md)                                |        | Hard   |                                                             |      |
 | 1327 | [List the Products Ordered in a Period](./problems/1300-1399/1327/README.md)                                           | :lock: | Easy   |                                                             |      |
-| 1328 | [Break a Palindrome](./problems/1300-1399/1328/README.md)                                                              |        | Medium |                                                             |      |
+| 1328 | [Break a Palindrome](./problems/1300-1399/1328/README.md) | :o: | Medium | [str],[greedy] |   |
 | 1329 | [Sort the Matrix Diagonally](./problems/1300-1399/1329/README.md) | :o: | Medium | [arr],[sort] |   |
 | 1330 | [Reverse Subarray To Maximize Array Value](./problems/1300-1399/1330/README.md)                                        |        | Hard   |                                                             |      |
 | 1331 | [Rank Transform of an Array](./problems/1300-1399/1331/README.md)                                                      |        | Easy   |                                                             |      |

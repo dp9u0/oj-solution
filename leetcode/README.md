@@ -2568,7 +2568,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2552 | [Count Increasing Quadruplets](./problems/2500-2599/2552/README.md)                                                    |        | Hard   |                                                             |      |
 | 2553 | [Separate the Digits in an Array](./problems/2500-2599/2553/README.md)                                                 |        | Easy   |                                                             |      |
 | 2554 | [Maximum Number of Integers to Choose From a Range I](./problems/2500-2599/2554/README.md)                             |        | Medium |                                                             |      |
-| 2555 | [Maximize Win From Two Segments](./problems/2500-2599/2555/README.md)                                                  |        | Medium |                                                             |      |
+| 2555 | [Maximize Win From Two Segments](./problems/2500-2599/2555/README.md) | :o: | Medium | [tp] |   |
 | 2556 | [Disconnect Path in a Binary Matrix by at Most One Flip](./problems/2500-2599/2556/README.md)                          |        | Medium |                                                             |      |
 | 2557 | [Maximum Number of Integers to Choose From a Range II](./problems/2500-2599/2557/README.md)                            | :lock: | Medium |                                                             |      |
 | 2558 | [Take Gifts From the Richest Pile](./problems/2500-2599/2558/README.md) | :o: | Easy | [arr],[heap] |   |

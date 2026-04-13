@@ -3183,7 +3183,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3167 | [Better Compression of String](./problems/3100-3199/3167/README.md)                                                    | :lock: | Medium |                                                             |      |
 | 3168 | [Minimum Number of Chairs in a Waiting Room](./problems/3100-3199/3168/README.md)                                      |        | Easy   |                                                             |      |
 | 3169 | [Count Days Without Meetings](./problems/3100-3199/3169/README.md)                                                     |        | Medium |                                                             |      |
-| 3170 | [Lexicographically Minimum String After Removing Stars](./problems/3100-3199/3170/README.md)                           |        | Medium |                                                             |      |
+| 3170 | [Lexicographically Minimum String After Removing Stars](./problems/3100-3199/3170/README.md) | :o: | Medium | [stack] |   |
 | 3171 | [Find Subarray With Bitwise OR Closest to K](./problems/3100-3199/3171/README.md)                                      |        | Hard   |                                                             |      |
 | 3172 | [Second Day Verification](./problems/3100-3199/3172/README.md)                                                         | :lock: | Easy   |                                                             |      |
 | 3173 | [Bitwise OR of Adjacent Elements](./problems/3100-3199/3173/README.md)                                                 | :lock: | Easy   |                                                             |      |

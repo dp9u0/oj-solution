@@ -1553,7 +1553,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1478 | [Allocate Mailboxes](./problems/1400-1499/1478/README.md)                                                              |        | Hard   |                                                             |      |
 | 1479 | [Sales by Day of the Week](./problems/1400-1499/1479/README.md)                                                        | :lock: | Hard   |                                                             |      |
 | 1480 | [Running Sum of 1d Array](./problems/1400-1499/1480/README.md)                                                         | :o:    | Easy   | [arr]                                                       |      |
-| 1481 | [Least Number of Unique Integers after K Removals](./problems/1400-1499/1481/README.md)                                |        | Medium |                                                             |      |
+| 1481 | [Least Number of Unique Integers after K Removals](./problems/1400-1499/1481/README.md) | :o: | Medium | [arr],[greedy] |   |
 | 1482 | [Minimum Number of Days to Make m Bouquets](./problems/1400-1499/1482/README.md) | :o: | Medium | [bs] |   |
 | 1483 | [1483](./problems/1400-1499/1483/README.md)                                                                            |        | Easy   |                                                             |      |
 | 1484 | [Group Sold Products By The Date](./problems/1400-1499/1484/README.md)                                                 | :lock: | Easy   |                                                             |      |

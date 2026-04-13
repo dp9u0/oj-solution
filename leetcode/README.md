@@ -1827,7 +1827,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1811 | [Find Interview Candidates](./problems/1800-1899/1811/README.md)                                                       | :lock: | Medium |                                                             |      |
 | 1812 | [Determine Color of a Chessboard Square](./problems/1800-1899/1812/README.md)                                          |        | Easy   |                                                             |      |
 | 1813 | [Sentence Similarity III](./problems/1800-1899/1813/README.md)                                                         |        | Medium |                                                             |      |
-| 1814 | [Count Nice Pairs in an Array](./problems/1800-1899/1814/README.md)                                                    |        | Medium |                                                             |      |
+| 1814 | [Count Nice Pairs in an Array](./problems/1800-1899/1814/README.md) | :o: | Medium | [arr],[hash] |   |
 | 1815 | [Maximum Number of Groups Getting Fresh Donuts](./problems/1800-1899/1815/README.md)                                   |        | Hard   |                                                             |      |
 | 1816 | [Truncate Sentence](./problems/1800-1899/1816/README.md)                                                               |        | Easy   |                                                             |      |
 | 1817 | [Finding the Users Active Minutes](./problems/1800-1899/1817/README.md)                                                |        | Medium |                                                             |      |

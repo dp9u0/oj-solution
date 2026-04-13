@@ -2068,7 +2068,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2052 | [Minimum Cost to Separate Sentence Into Rows](./problems/2000-2099/2052/README.md)                                     | :lock: | Medium |                                                             |      |
 | 2053 | [Kth Distinct String in an Array](./problems/2000-2099/2053/README.md)                                                 |        | Easy   |                                                             |      |
 | 2054 | [Two Best Non-Overlapping Events](./problems/2000-2099/2054/README.md)                                                 |        | Medium |                                                             |      |
-| 2055 | [Plates Between Candles](./problems/2000-2099/2055/README.md)                                                          |        | Medium |                                                             |      |
+| 2055 | [Plates Between Candles](./problems/2000-2099/2055/README.md) | :o: | Medium | [str] | :+1:  |
 | 2056 | [Number of Valid Move Combinations On Chessboard](./problems/2000-2099/2056/README.md)                                 |        | Hard   |                                                             |      |
 | 2057 | [Smallest Index With Equal Value](./problems/2000-2099/2057/README.md)                                                 |        | Easy   |                                                             |      |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./problems/2000-2099/2058/README.md)            |        | Medium |                                                             |      |

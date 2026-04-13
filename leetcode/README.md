@@ -3437,3 +3437,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3718 | [Smallest Missing Multiple of K](./problems/3700-3799/3718/README.md) | :o: | Easy | [arr],[math] |   |
 | 1765 | [Map of Highest Peak](./problems/1700-1799/1765/README.md) | :o: | Medium | [arr],[bfs] |   |
 | 1749 | [Maximum Absolute Sum of Any Subarray](./problems/1700-1799/1749/README.md) | :o: | Medium | [arr],[dp] |   |
+| 1726 | [Tuple with Same Product](./problems/1700-1799/1726/README.md) | :o: | Medium | [arr],[hash] | :+1:  |

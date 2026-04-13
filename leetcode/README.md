@@ -1846,7 +1846,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1830 | [Minimum Number of Operations to Make String Sorted](./problems/1800-1899/1830/README.md)                              |        | Hard   |                                                             |      |
 | 1831 | [Maximum Transaction Each Day](./problems/1800-1899/1831/README.md)                                                    | :lock: | Medium |                                                             |      |
 | 1832 | [Check if the Sentence Is Pangram](./problems/1800-1899/1832/README.md)                                                |        | Easy   |                                                             |      |
-| 1833 | [Maximum Ice Cream Bars](./problems/1800-1899/1833/README.md)                                                          |        | Medium |                                                             |      |
+| 1833 | [Maximum Ice Cream Bars](./problems/1800-1899/1833/README.md) | :o: | Medium | [arr],[greedy] |   |
 | 1834 | [Single-Threaded CPU](./problems/1800-1899/1834/README.md)                                                             |        | Medium |                                                             |      |
 | 1835 | [Find XOR Sum of All Pairs Bitwise AND](./problems/1800-1899/1835/README.md)                                           |        | Hard   |                                                             |      |
 | 1836 | [Remove Duplicates From an Unsorted Linked List](./problems/1800-1899/1836/README.md)                                  | :lock: | Medium |                                                             |      |

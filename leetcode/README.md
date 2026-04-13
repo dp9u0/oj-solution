@@ -3125,7 +3125,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3109 | [Find the Index of Permutation](./problems/3100-3199/3109/README.md)                                                   | :lock: | Medium |                                                             |      |
 | 3110 | [Score of a String](./problems/3100-3199/3110/README.md)                                                               |        | Easy   |                                                             |      |
 | 3111 | [Minimum Rectangles to Cover Points](./problems/3100-3199/3111/README.md)                                              |        | Medium |                                                             |      |
-| 3112 | [Minimum Time to Visit Disappearing Nodes](./problems/3100-3199/3112/README.md)                                        |        | Medium |                                                             |      |
+| 3112 | [Minimum Time to Visit Disappearing Nodes](./problems/3100-3199/3112/README.md) | :o: | Medium | [arr],[bfs],[heap] |   |
 | 3113 | [Find the Number of Subarrays Where Boundary Elements Are Maximum](./problems/3100-3199/3113/README.md)                |        | Hard   |                                                             |      |
 | 3114 | [Latest Time You Can Obtain After Replacing Characters](./problems/3100-3199/3114/README.md)                           |        | Easy   |                                                             |      |
 | 3115 | [Maximum Prime Difference](./problems/3100-3199/3115/README.md)                                                        |        | Medium |                                                             |      |

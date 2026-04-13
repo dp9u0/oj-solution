@@ -814,7 +814,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 737  | [Sentence Similarity II](./problems/700-799/737/README.md)                                                             | :lock: | Medium |                                                             |      |
 | 738 | [Monotone Increasing Digits](./problems/700-799/738/README.md) | :o: | Medium | [greedy] |   |
 | 739  | [Daily Temperatures](./problems/700-799/739/README.md)                                                                 | :o:    | Medium | [stack]                                                     | :+1: |
-| 740  | [Delete and Earn](./problems/700-799/740/README.md)                                                                    |        | Medium |                                                             |      |
+| 740 | [Delete and Earn](./problems/700-799/740/README.md) | :o: | Medium | [arr],[dp] | :+1:  |
 | 741  | [Cherry Pickup](./problems/700-799/741/README.md)                                                                      |        | Hard   |                                                             |      |
 | 742  | [Closest Leaf in a Binary Tree](./problems/700-799/742/README.md)                                                      | :lock: | Medium |                                                             |      |
 | 743  | [Network Delay Time](./problems/700-799/743/README.md)                                                                 | :o:    | Easy   | [gph]                                                       |      |

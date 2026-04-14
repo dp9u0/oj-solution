@@ -3392,7 +3392,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3364 | [Minimum Positive Sum Subarra](./problems/3300-3399/3364/README.md)                                                    |        | Easy   |                                                             |      |
 | 3365 | [Rearrange K Substrings to Form Target String](./problems/3300-3399/3365/README.md)                                    |        | Medium |                                                             |      |
 | 3366 | [Minimum Array Sum](./problems/3300-3399/3366/README.md)                                                               | :o:    | Medium | [arr],[dp]                                                  |      |
-| 3367 | [Maximize Sum of Weights after Edge Removals](./problems/3300-3399/3367/README.md)                                     |        | Hard   |                                                             |      |
+| 3367 | [Maximize Sum of Weights after Edge Removals](./problems/3300-3399/3367/README.md) | :o: | Hard | [dfs],[grd],[tr] |   |
 | 3368 | [First Letter Capitalization](./problems/3300-3399/3368/README.md)                                                     | :lock: | Hard   |                                                             |      |
 | 3369 | [Design an Array Statistics Tracker](./problems/3300-3399/3369/README.md)                                              | :lock: | Hard   |                                                             |      |
 | 3370 | [Smallest Number With All Set Bits](./problems/3300-3399/3370/README.md)                                               |        | Easy   |                                                             |      |

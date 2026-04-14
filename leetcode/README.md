@@ -793,7 +793,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 716  | [Max Stack](./problems/700-799/716/README.md)                                                                          | :lock: | Easy   |                                                             |      |
 | 717  | [1-bit and 2-bit Characters](./problems/700-799/717/README.md)                                                         | :o:    | Easy   | [str]                                                       |      |
 | 718  | [Maximum Length of Repeated Subarray](./problems/700-799/718/README.md)                                                |        | Medium |                                                             |      |
-| 719  | [Find K-th Smallest Pair Distance](./problems/700-799/719/README.md)                                                   |        | Hard   |                                                             |      |
+| 719 | [Find K-th Smallest Pair Distance](./problems/700-799/719/README.md) | :o: | Hard | [arr],[bs],[tp] | :+1:  |
 | 720  | [Longest Word in Dictionary](./problems/700-799/720/README.md)                                                         | :o:    | Easy   | [hsh]                                                       |      |
 | 721  | [Accounts Merge](./problems/700-799/721/README.md)                                                                     | :o:    | Medium | [ds]                                                        | :+1: |
 | 722  | [Remove Comments](./problems/700-799/722/README.md)                                                                    |        | Medium |                                                             |      |

@@ -2656,7 +2656,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2640 | [Find the Score of All Prefixes of an Array](./problems/2600-2699/2640/README.md) | :o: | Medium | [arr] |   |
 | 2641 | [Cousins in Binary Tree II](./problems/2600-2699/2641/README.md)                                                       |        | Medium |                                                             |      |
 | 2642 | [Design Graph With Shortest Path Calculator](./problems/2600-2699/2642/README.md)                                      |        | Hard   |                                                             |      |
-| 2643 | [Row With Maximum Ones](./problems/2600-2699/2643/README.md)                                                           |        | Easy   |                                                             |      |
+| 2643 | [Row With Maximum Ones](./problems/2600-2699/2643/README.md) | :o: | Easy | [arr] |   |
 | 2644 | [Find the Maximum Divisibility Score](./problems/2600-2699/2644/README.md)                                             |        | Easy   |                                                             |      |
 | 2645 | [Minimum Additions to Make Valid String](./problems/2600-2699/2645/README.md) | :o: | Medium | [str] |   |
 | 2646 | [Minimize the Total Price of the Trips](./problems/2600-2699/2646/README.md)                                           |        | Hard   |                                                             |      |

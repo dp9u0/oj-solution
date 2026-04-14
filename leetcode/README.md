@@ -1568,7 +1568,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1493 | [Longest Subarray of 1's After Deleting One Element](./problems/1400-1499/1493/README.md)                              | :o:    | Medium | [arr],[tp]                                                  |      |
 | 1494 | [Parallel Courses II](./problems/1400-1499/1494/README.md)                                                             |        | Hard   |                                                             |      |
 | 1495 | [Friendly Movies Streamed Last Month](./problems/1400-1499/1495/README.md)                                             | :lock: | Easy   |                                                             |      |
-| 1496 | [Path Crossing](./problems/1400-1499/1496/README.md)                                                                   |        | Easy   |                                                             |      |
+| 1496 | [Path Crossing](./problems/1400-1499/1496/README.md) | :o: | Easy | [hsh] |   |
 | 1497 | [Check If Array Pairs Are Divisible by k](./problems/1400-1499/1497/README.md)                                         |        | Medium |                                                             |      |
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](./problems/1400-1499/1498/README.md)                     |        | Medium |                                                             |      |
 | 1499 | [Max Value of Equation](./problems/1400-1499/1499/README.md)                                                           |        | Hard   |                                                             |      |

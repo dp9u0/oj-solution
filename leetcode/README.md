@@ -2431,7 +2431,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2415 | [Reverse Odd Levels of Binary Tree](./problems/2400-2499/2415/README.md)                                               |        | Medium |                                                             |      |
 | 2416 | [Sum of Prefix Scores of Strings](./problems/2400-2499/2416/README.md)                                                 |        | Hard   |                                                             |      |
 | 2417 | [Closest Fair Integer](./problems/2400-2499/2417/README.md)                                                            | :lock: | Medium |                                                             |      |
-| 2418 | [Sort the People](./problems/2400-2499/2418/README.md)                                                                 |        | Easy   |                                                             |      |
+| 2418 | [Sort the People](./problems/2400-2499/2418/README.md) | :o: | Easy | [arr],[sort] |   |
 | 2419 | [Longest Subarray With Maximum Bitwise AND](./problems/2400-2499/2419/README.md)                                       |        | Medium |                                                             |      |
 | 2420 | [Find All Good Indices](./problems/2400-2499/2420/README.md)                                                           |        | Medium |                                                             |      |
 | 2421 | [Number of Good Paths](./problems/2400-2499/2421/README.md)                                                            |        | Hard   |                                                             |      |

@@ -989,7 +989,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 912  | [Sort an Array](./problems/900-999/912/README.md)                                                                      | :o:    | Medium | [arr]                                                       |      |
 | 913  | [Cat and Mouse](./problems/900-999/913/README.md)                                                                      |        | Hard   |                                                             |      |
 | 914  | [X of a Kind in a Deck of Cards](./problems/900-999/914/README.md)                                                     | :o:    | Easy   | [hsh]                                                       | :+1: |
-| 915  | [Partition Array into Disjoint Intervals](./problems/900-999/915/README.md)                                            |        | Medium |                                                             |      |
+| 915 | [Partition Array into Disjoint Intervals](./problems/900-999/915/README.md) | :o: | Medium | [arr],[greedy] |   |
 | 916  | [Word Subsets](./problems/900-999/916/README.md)                                                                       | :o:    | Medium | [arr],[hash]                                                |      |
 | 917  | [Reverse Only Letters](./problems/900-999/917/README.md)                                                               | :o:    | Easy   | [tp]                                                        |      |
 | 918 | [Maximum Sum Circular Subarray](./problems/900-999/918/README.md) | :o: | Medium | [dp] | :+1:  |

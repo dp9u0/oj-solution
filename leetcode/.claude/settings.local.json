@@ -5,7 +5,9 @@
       "Bash(gshuf)",
       "Bash(shuf)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(node scripts/sort-readme.js)",
+      "Bash(node -e ':*)"
     ]
   }
 }

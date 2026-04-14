@@ -897,7 +897,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 820  | [Short Encoding of Words](./problems/800-899/820/README.md)                                                            | :o:    | Medium | [str],[trie]                                                | :+1: |
 | 821  | [Shortest Distance to a Character](./problems/800-899/821/README.md)                                                   | :o:    | Easy   | [arr]                                                       |      |
 | 822  | [Card Flipping Game](./problems/800-899/822/README.md)                                                                 | :o:    | Medium | [hash]                                                      |      |
-| 823  | [Binary Trees With Factors](./problems/800-899/823/README.md)                                                          |        | Medium |                                                             |      |
+| 823 | [Binary Trees With Factors](./problems/800-899/823/README.md) | :o: | Medium | [dp] |   |
 | 824  | [Goat Latin](./problems/800-899/824/README.md)                                                                         | :o:    | Easy   | [str]                                                       |      |
 | 825  | [Friends Of Appropriate Ages](./problems/800-899/825/README.md)                                                        |        | Medium |                                                             |      |
 | 826  | [Most Profit Assigning Work](./problems/800-899/826/README.md)                                                         |        | Medium |                                                             |      |

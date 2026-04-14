@@ -2137,7 +2137,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2121 | [Intervals Between Identical Elements](./problems/2100-2199/2121/README.md)                                            |        | Medium |                                                             |      |
 | 2122 | [Recover the Original Array](./problems/2100-2199/2122/README.md)                                                      |        | Hard   |                                                             |      |
 | 2123 | [Minimum Operations to Remove Adjacent Ones in Matrix](./problems/2100-2199/2123/README.md)                            | :lock: | Hard   |                                                             |      |
-| 2124 | [Check if All A's Appears Before All B's](./problems/2100-2199/2124/README.md)                                         |        | Easy   |                                                             |      |
+| 2124 | [Check if All A's Appears Before All B's](./problems/2100-2199/2124/README.md) | :o: | Easy | [str] |   |
 | 2125 | [Number of Laser Beams in a Bank](./problems/2100-2199/2125/README.md) | :o: | Medium | [arr],[math] |   |
 | 2126 | [Destroying Asteroids](./problems/2100-2199/2126/README.md)                                                            | :o:    | Medium | [arr],[greedy]                                              |      |
 | 2127 | [Maximum Employees to Be Invited to a Meeting](./problems/2100-2199/2127/README.md)                                    |        | Hard   |                                                             |      |

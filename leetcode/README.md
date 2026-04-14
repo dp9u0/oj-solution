@@ -3449,3 +3449,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3397 | [Maximum Number of Distinct Elements After Operations](./problems/3300-3399/3397/README.md)                            | :o:    | Medium | [arr],[greedy]                                              |      |
 | 3594 | [Minimum Time to Transport All Individuals](./problems/3500-3599/3594/README.md) | :o: | Hard | [dp],[grf] |   |
 | 3700 | [Number of ZigZag Arrays II](./problems/3700-3799/3700/README.md) | :o: | Hard | [dp],[math] |   |
+| 3533 | [Concatenated Divisibility](./problems/3500-3599/3533/README.md) | :o: | Hard | [dp],[bt] |   |

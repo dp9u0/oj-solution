@@ -1934,7 +1934,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1918 | [Kth Smallest Subarray Sum](./problems/1900-1999/1918/README.md)                                                       | :lock: | Medium |                                                             |      |
 | 1919 | [Leetcodify Similar Friends](./problems/1900-1999/1919/README.md)                                                      | :lock: | Hard   |                                                             |      |
 | 1920 | [Build Array from Permutation](./problems/1900-1999/1920/README.md)                                                    |        | Easy   |                                                             |      |
-| 1921 | [Eliminate Maximum Number of Monsters](./problems/1900-1999/1921/README.md)                                            |        | Medium |                                                             |      |
+| 1921 | [Eliminate Maximum Number of Monsters](./problems/1900-1999/1921/README.md) | :o: | Medium | [greedy] |   |
 | 1922 | [Count Good Numbers](./problems/1900-1999/1922/README.md)                                                              |        | Medium |                                                             |      |
 | 1923 | [Longest Common Subpath](./problems/1900-1999/1923/README.md)                                                          |        | Hard   |                                                             |      |
 | 1924 | [Erect the Fence II](./problems/1900-1999/1924/README.md)                                                              | :lock: | Hard   |                                                             |      |

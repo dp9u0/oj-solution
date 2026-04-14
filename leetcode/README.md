@@ -1135,7 +1135,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1058 | [Minimize Rounding Error to Meet Target](./problems/1000-1099/1058/README.md)                                          | :lock: | Medium |                                                             |      |
 | 1059 | [All Paths from Source Lead to Destination](./problems/1000-1099/1059/README.md)                                       | :lock: | Medium |                                                             |      |
 | 1060 | [Missing Element in Sorted Array](./problems/1000-1099/1060/README.md)                                                 | :lock: | Medium |                                                             |      |
-| 1061 | [Lexicographically Smallest Equivalent String](./problems/1000-1099/1061/README.md)                                    | :lock: | Medium |                                                             |      |
+| 1061 | [Lexicographically Smallest Equivalent String](./problems/1000-1099/1061/README.md) | :o: | Medium | [ds] |   |
 | 1062 | [Longest Repeating Substring](./problems/1000-1099/1062/README.md)                                                     | :lock: | Medium |                                                             |      |
 | 1063 | [Number of Valid Subarrays](./problems/1000-1099/1063/README.md)                                                       | :lock: | Hard   |                                                             |      |
 | 1064 | [Fixed Point](./problems/1000-1099/1064/README.md)                                                                     | :lock: | Easy   |                                                             |      |

@@ -1957,7 +1957,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1941 | [Check if All Characters Have Equal Number of Occurrences](./problems/1900-1999/1941/README.md)                        |        | Easy   |                                                             |      |
 | 1942 | [The Number of the Smallest Unoccupied Chair](./problems/1900-1999/1942/README.md)                                     |        | Medium |                                                             |      |
 | 1943 | [Describe the Painting](./problems/1900-1999/1943/README.md)                                                           |        | Medium |                                                             |      |
-| 1944 | [1944](./problems/1900-1999/1944/README.md)                                                                            |        | Easy   |                                                             |      |
+| 1944 | [1944](./problems/1900-1999/1944/README.md) | :o: | Hard | [stack] |   |
 | 1945 | [Sum of Digits of String After Convert](./problems/1900-1999/1945/README.md)                                           |        | Easy   |                                                             |      |
 | 1946 | [Largest Number After Mutating Substring](./problems/1900-1999/1946/README.md)                                         |        | Medium |                                                             |      |
 | 1947 | [Maximum Compatibility Score Sum](./problems/1900-1999/1947/README.md)                                                 |        | Medium |                                                             |      |

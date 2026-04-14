@@ -3164,7 +3164,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3148 | [Maximum Difference Score in a Grid](./problems/3100-3199/3148/README.md)                                              |        | Medium |                                                             |      |
 | 3149 | [Find the Minimum Cost Array Permutation](./problems/3100-3199/3149/README.md)                                         |        | Hard   |                                                             |      |
 | 3150 | [Invalid Tweets II](./problems/3100-3199/3150/README.md)                                                               | :lock: | Easy   |                                                             |      |
-| 3151 | [Special Array I](./problems/3100-3199/3151/README.md)                                                                 |        | Easy   |                                                             |      |
+| 3151 | [Special Array I](./problems/3100-3199/3151/README.md) | :o: | Easy | [arr] |   |
 | 3152 | [Special Array II](./problems/3100-3199/3152/README.md)                                                                |        | Medium |                                                             |      |
 | 3153 | [Sum of Digit Differences of All Pairs](./problems/3100-3199/3153/README.md) | :o: | Medium | [arr],[greedy] |   |
 | 3154 | [Find Number of Ways to Reach the K-th Stair](./problems/3100-3199/3154/README.md)                                     |        | Hard   |                                                             |      |

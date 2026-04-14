@@ -2146,7 +2146,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2118 | [Build the Equation](./problems/2100-2199/2118/README.md)                                                              | :lock: | Hard   |                                                             |      |
 | 2119 | [A Number After a Double Reversal](./problems/2100-2199/2119/README.md)                                                |        | Easy   |                                                             |      |
 | 2120 | [Execution of All Suffix Instructions Staying in a Grid](./problems/2100-2199/2120/README.md)                          |        | Medium |                                                             |      |
-| 2121 | [Intervals Between Identical Elements](./problems/2100-2199/2121/README.md)                                            |        | Medium |                                                             |      |
+| 2121 | [Intervals Between Identical Elements](./problems/2100-2199/2121/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 2122 | [Recover the Original Array](./problems/2100-2199/2122/README.md)                                                      |        | Hard   |                                                             |      |
 | 2123 | [Minimum Operations to Remove Adjacent Ones in Matrix](./problems/2100-2199/2123/README.md)                            | :lock: | Hard   |                                                             |      |
 | 2124 | [Check if All A's Appears Before All B's](./problems/2100-2199/2124/README.md)                                         | :o:    | Easy   | [str]                                                       |      |

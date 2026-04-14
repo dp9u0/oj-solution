@@ -2411,7 +2411,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2383 | [Minimum Hours of Training to Win a Competition](./problems/2300-2399/2383/README.md)                                  |        | Easy   |                                                             |      |
 | 2384 | [Largest Palindromic Number](./problems/2300-2399/2384/README.md)                                                      | :o:    | Medium | [greedy]                                                    |      |
 | 2385 | [Amount of Time for Binary Tree to Be Infected](./problems/2300-2399/2385/README.md)                                   | :o:    | Medium | [tr],[bfs]                                                  |      |
-| 2386 | [Find the K-Sum of an Array](./problems/2300-2399/2386/README.md)                                                      |        | Hard   |                                                             |      |
+| 2386 | [Find the K-Sum of an Array](./problems/2300-2399/2386/README.md) | :o: | Hard | [arr],[hp] | :+1:  |
 | 2387 | [Median of a Row Wise Sorted Matrix](./problems/2300-2399/2387/README.md)                                              | :lock: | Medium |                                                             |      |
 | 2388 | [Change Null Values in a Table to the Previous Value](./problems/2300-2399/2388/README.md)                             | :lock: | Medium |                                                             |      |
 | 2389 | [Longest Subsequence With Limited Sum](./problems/2300-2399/2389/README.md)                                            | :o:    | Easy   | [arr],[bs]                                                  |      |

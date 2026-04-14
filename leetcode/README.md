@@ -2883,7 +2883,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2867 | [Count Valid Paths in a Tree](./problems/2800-2899/2867/README.md)                                                     |        | Hard   |                                                             |      |
 | 2868 | [The Wording Game](./problems/2800-2899/2868/README.md)                                                                | :lock: | Hard   |                                                             |      |
 | 2869 | [Minimum Operations to Collect Elements](./problems/2800-2899/2869/README.md)                                          |        | Easy   |                                                             |      |
-| 2870 | [Minimum Number of Operations to Make Array Empty](./problems/2800-2899/2870/README.md)                                |        | Medium |                                                             |      |
+| 2870 | [Minimum Number of Operations to Make Array Empty](./problems/2800-2899/2870/README.md) | :o: | Medium | [hash],[greedy] |   |
 | 2871 | [Split Array Into Maximum Number of Subarrays](./problems/2800-2899/2871/README.md)                                    |        | Medium |                                                             |      |
 | 2872 | [Maximum Number of K-Divisible Components](./problems/2800-2899/2872/README.md)                                        |        | Hard   |                                                             |      |
 | 2873 | [Maximum Value of an Ordered Triplet I](./problems/2800-2899/2873/README.md)                                           |        | Easy   |                                                             |      |

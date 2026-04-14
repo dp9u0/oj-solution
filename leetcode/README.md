@@ -2683,7 +2683,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2655 | [Find Maximal Uncovered Ranges](./problems/2600-2699/2655/README.md)                                                   | :lock: | Medium |                                                             |      |
 | 2656 | [Maximum Sum With Exactly K Elements](./problems/2600-2699/2656/README.md)                                             | :o:    | Easy   | [arr]                                                       |      |
 | 2657 | [Find the Prefix Common Array of Two Arrays](./problems/2600-2699/2657/README.md)                                      | :o:    | Medium | [arr]                                                       |      |
-| 2658 | [Maximum Number of Fish in a Grid](./problems/2600-2699/2658/README.md)                                                |        | Medium |                                                             |      |
+| 2658 | [Maximum Number of Fish in a Grid](./problems/2600-2699/2658/README.md) | :o: | Medium | [bfs] |   |
 | 2659 | [Make Array Empty](./problems/2600-2699/2659/README.md)                                                                |        | Hard   |                                                             |      |
 | 2660 | [Determine the Winner of a Bowling Game](./problems/2600-2699/2660/README.md)                                          |        | Easy   |                                                             |      |
 | 2661 | [First Completely Painted Row or Column](./problems/2600-2699/2661/README.md)                                          |        | Medium |                                                             |      |

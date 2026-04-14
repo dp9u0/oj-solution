@@ -481,7 +481,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 399  | [Evaluate Division](./problems/300-399/399/README.md)                                                                  | :o:    | Medium | [graph],[unionfind]                                         | :+1: |
 | 400  | [Nth Digit](./problems/400-499/400/README.md)                                                                          | :o:    | Easy   | [math]                                                      |      |
 | 401  | [Binary Watch](./problems/400-499/401/README.md)                                                                       | :o:    | Easy   | [math]                                                      |      |
-| 402  | [Remove K Digits](./problems/400-499/402/README.md)                                                                    |        | Medium |                                                             |      |
+| 402 | [Remove K Digits](./problems/400-499/402/README.md) | :o: | Medium | [stk] | :+1:  |
 | 403  | [Frog Jump](./problems/400-499/403/README.md)                                                                          |        | Hard   |                                                             |      |
 | 404  | [Sum of Left Leaves](./problems/400-499/404/README.md)                                                                 | :o:    | Easy   | [tr]                                                        |      |
 | 405  | [Convert a Number to Hexadecimal](./problems/400-499/405/README.md)                                                    | :o:    | Easy   | [bit]                                                       |      |

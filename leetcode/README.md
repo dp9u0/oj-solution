@@ -602,7 +602,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 523  | [Continuous Subarray Sum](./problems/500-599/523/README.md)                                                            | :o:    | Medium | [arr],[hash]                                                | :+1: |
 | 524  | [Longest Word in Dictionary through Deleting](./problems/500-599/524/README.md)                                        |        | Medium |                                                             |      |
 | 525  | [Contiguous Array](./problems/500-599/525/README.md)                                                                   | :o:    | Medium | [arr],[hm]                                                  | :+1: |
-| 526  | [Beautiful Arrangement](./problems/500-599/526/README.md)                                                              |        | Medium |                                                             |      |
+| 526 | [Beautiful Arrangement](./problems/500-599/526/README.md) | :o: | Medium | [dp],[bit] |   |
 | 527  | [Word Abbreviation](./problems/500-599/527/README.md)                                                                  | :lock: | Hard   |                                                             |      |
 | 528  | [Random Pick with Weight](./problems/500-599/528/README.md)                                                            |        | Medium |                                                             |      |
 | 529  | [Minesweeper](./problems/500-599/529/README.md)                                                                        | :o:    | Medium | [dfs]                                                       |      |

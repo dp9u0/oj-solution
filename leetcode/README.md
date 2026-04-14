@@ -2277,7 +2277,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2261 | [K Divisible Elements Subarrays](./problems/2200-2299/2261/README.md)                                                  |        | Medium |                                                             |      |
 | 2262 | [Total Appeal of A String](./problems/2200-2299/2262/README.md)                                                        |        | Hard   |                                                             |      |
 | 2263 | [2263](./problems/2200-2299/2263/README.md)                                                                            |        | Easy   |                                                             |      |
-| 2264 | [Largest 3-Same-Digit Number in String](./problems/2200-2299/2264/README.md)                                           |        | Easy   |                                                             |      |
+| 2264 | [Largest 3-Same-Digit Number in String](./problems/2200-2299/2264/README.md) | :o: | Easy | [str] |   |
 | 2265 | [Count Nodes Equal to Average of Subtree](./problems/2200-2299/2265/README.md) | :o: | Medium | [tr],[dfs] |   |
 | 2266 | [Count Number of Texts](./problems/2200-2299/2266/README.md)                                                           |        | Medium |                                                             |      |
 | 2267 | [Check if There Is a Valid Parentheses String Path](./problems/2200-2299/2267/README.md)                               |        | Hard   |                                                             |      |

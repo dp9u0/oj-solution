@@ -2367,7 +2367,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2351 | [First Letter to Appear Twice](./problems/2300-2399/2351/README.md)                                                    |        | Easy   |                                                             |      |
 | 2352 | [Equal Row and Column Pairs](./problems/2300-2399/2352/README.md) | :o: | Medium | [arr],[hash] |   |
 | 2353 | [Design a Food Rating System](./problems/2300-2399/2353/README.md)                                                     |        | Medium |                                                             |      |
-| 2354 | [Number of Excellent Pairs](./problems/2300-2399/2354/README.md)                                                       |        | Hard   |                                                             |      |
+| 2354 | [Number of Excellent Pairs](./problems/2300-2399/2354/README.md) | :o: | Hard | [bit] |   |
 | 2355 | [Maximum Number of Books You Can Take](./problems/2300-2399/2355/README.md)                                            | :lock: | Hard   |                                                             |      |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](./problems/2300-2399/2356/README.md)                                | :soon: | Easy   |                                                             |      |
 | 2357 | [Make Array Zero by Subtracting Equal Amounts](./problems/2300-2399/2357/README.md)                                    |        | Easy   |                                                             |      |

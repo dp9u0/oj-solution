@@ -890,7 +890,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 813  | [Largest Sum of Averages](./problems/800-899/813/README.md)                                                            |        | Medium |                                                             |      |
 | 814 | [Binary Tree Pruning](./problems/800-899/814/README.md) | :o: | Medium | [tr],[dfs] |   |
 | 815  | [Bus Routes](./problems/800-899/815/README.md)                                                                         |        | Hard   |                                                             |      |
-| 816  | [Ambiguous Coordinates](./problems/800-899/816/README.md)                                                              |        | Medium |                                                             |      |
+| 816 | [Ambiguous Coordinates](./problems/800-899/816/README.md) | :o: | Medium | [str] |   |
 | 817  | [Linked List Components](./problems/800-899/817/README.md)                                                             |        | Medium |                                                             |      |
 | 818  | [Race Car](./problems/800-899/818/README.md)                                                                           |        | Hard   |                                                             |      |
 | 819  | [Most Common Word](./problems/800-899/819/README.md)                                                                   | :o:    | Easy   | [str]                                                       |      |

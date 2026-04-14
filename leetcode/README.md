@@ -2965,7 +2965,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2949 | [Count Beautiful Substrings II](./problems/2900-2999/2949/README.md)                                                   |        | Hard   |                                                             |      |
 | 2950 | [Number of Divisible Substrings](./problems/2900-2999/2950/README.md)                                                  | :lock: | Medium |                                                             |      |
 | 2951 | [Find the Peaks](./problems/2900-2999/2951/README.md)                                                                  |        | Easy   |                                                             |      |
-| 2952 | [Minimum Number of Coins to be Added](./problems/2900-2999/2952/README.md)                                             |        | Medium |                                                             |      |
+| 2952 | [Minimum Number of Coins to be Added](./problems/2900-2999/2952/README.md) | :o: | Medium | [greedy] |   |
 | 2953 | [Count Complete Substrings](./problems/2900-2999/2953/README.md)                                                       |        | Hard   |                                                             |      |
 | 2954 | [Count the Number of Infection Sequences](./problems/2900-2999/2954/README.md)                                         |        | Hard   |                                                             |      |
 | 2955 | [Number of Same-End Substrings](./problems/2900-2999/2955/README.md)                                                   | :lock: | Medium |                                                             |      |

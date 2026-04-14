@@ -1362,7 +1362,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1287 | [Element Appearing More Than 25% In Sorted Array](./problems/1200-1299/1287/README.md)                                 |        | Easy   |                                                             |      |
 | 1288 | [Remove Covered Intervals](./problems/1200-1299/1288/README.md)                                                        |        | Medium |                                                             |      |
 | 1289 | [Minimum Falling Path Sum II](./problems/1200-1299/1289/README.md) | :o: | Hard | [dp] | :+1:  |
-| 1290 | [Convert Binary Number in a Linked List to Integer](./problems/1200-1299/1290/README.md)                               |        | Easy   |                                                             |      |
+| 1290 | [Convert Binary Number in a Linked List to Integer](./problems/1200-1299/1290/README.md) | :o: | Easy | [ll] |   |
 | 1291 | [Sequential Digits](./problems/1200-1299/1291/README.md)                                                               |        | Medium |                                                             |      |
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](./problems/1200-1299/1292/README.md) | :o: | Medium | [arr],[dp] | :+1:  |
 | 1293 | [Shortest Path in a Grid with Obstacles Elimination](./problems/1200-1299/1293/README.md)                              |        | Hard   |                                                             |      |

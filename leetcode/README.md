@@ -1461,7 +1461,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1386 | [Cinema Seat Allocation](./problems/1300-1399/1386/README.md)                                                          |        | Medium |                                                             |      |
 | 1387 | [Sort Integers by The Power Value](./problems/1300-1399/1387/README.md)                                                |        | Medium |                                                             |      |
 | 1388 | [Pizza With 3n Slices](./problems/1300-1399/1388/README.md)                                                            |        | Hard   |                                                             |      |
-| 1389 | [Create Target Array in the Given Order](./problems/1300-1399/1389/README.md)                                          |        | Easy   |                                                             |      |
+| 1389 | [Create Target Array in the Given Order](./problems/1300-1399/1389/README.md) | :o: | Easy | [arr],[simulation] |   |
 | 1390 | [Four Divisors](./problems/1300-1399/1390/README.md)                                                                   |        | Medium |                                                             |      |
 | 1391 | [Check if There is a Valid Path in a Grid](./problems/1300-1399/1391/README.md)                                        |        | Medium |                                                             |      |
 | 1392 | [Longest Happy Prefix](./problems/1300-1399/1392/README.md)                                                            |        | Hard   |                                                             |      |

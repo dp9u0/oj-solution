@@ -469,7 +469,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 387  | [First Unique Character in a String](./problems/300-399/387/README.md)                                                 | :o:    | Easy   | [hsh]                                                       |      |
 | 388  | [Longest Absolute File Path](./problems/300-399/388/README.md)                                                         |        | Medium |                                                             |      |
 | 389  | [Find the Difference](./problems/300-399/389/README.md)                                                                | :o:    | Easy   | [hsh]                                                       |      |
-| 390  | [Elimination Game](./problems/300-399/390/README.md)                                                                   |        | Medium |                                                             |      |
+| 390 | [Elimination Game](./problems/300-399/390/README.md) | :o: | Medium | [math] |   |
 | 391  | [Perfect Rectangle](./problems/300-399/391/README.md)                                                                  |        | Hard   |                                                             |      |
 | 392  | [Is Subsequence](./problems/300-399/392/README.md)                                                                     | :o:    | Easy   | [tp]                                                        |      |
 | 393  | [UTF-8 Validation](./problems/300-399/393/README.md)                                                                   |        | Medium |                                                             |      |

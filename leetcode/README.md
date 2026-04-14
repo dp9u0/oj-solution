@@ -2050,7 +2050,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2034 | [Stock Price Fluctuation](./problems/2000-2099/2034/README.md)                                                         |        | Medium |                                                             |      |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./problems/2000-2099/2035/README.md)                      |        | Hard   |                                                             |      |
 | 2036 | [2036](./problems/2000-2099/2036/README.md)                                                                            |        | Easy   |                                                             |      |
-| 2037 | [Minimum Number of Moves to Seat Everyone](./problems/2000-2099/2037/README.md)                                        |        | Easy   |                                                             |      |
+| 2037 | [Minimum Number of Moves to Seat Everyone](./problems/2000-2099/2037/README.md) | :o: | Easy | [arr],[sort] |   |
 | 2038 | [Remove Colored Pieces if Both Neighbors are the Same Color](./problems/2000-2099/2038/README.md) | :o: | Medium | [str],[greedy] |   |
 | 2039 | [The Time When the Network Becomes Idle](./problems/2000-2099/2039/README.md)                                          |        | Medium |                                                             |      |
 | 2040 | [Kth Smallest Product of Two Sorted Arrays](./problems/2000-2099/2040/README.md)                                       |        | Hard   |                                                             |      |

@@ -3453,3 +3453,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3605 | [Minimum Stability Factor of Array](./problems/3600-3699/3605/README.md) | :o: | Hard | [bs],[grd],[arr] |   |
 | 3464 | [Maximize the Distance Between Points on a Square](./problems/3400-3499/3464/README.md) | :o: | Hard | [bs],[grd] |   |
 | 3544 | [Subtree Inversion Sum](./problems/3500-3599/3544/README.md) | :o: | Hard | [dp],[tr] |   |
+| 1753 | [Maximum Score From Removing Stones](./problems/1700-1799/1753/README.md) | :o: | Medium | [math],[grd] |   |

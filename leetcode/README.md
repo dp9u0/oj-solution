@@ -2078,7 +2078,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2050 | [Parallel Courses III](./problems/2000-2099/2050/README.md)                                                            |        | Hard   |                                                             |      |
 | 2051 | [The Category of Each Member in the Store](./problems/2000-2099/2051/README.md)                                        | :lock: | Medium |                                                             |      |
 | 2052 | [Minimum Cost to Separate Sentence Into Rows](./problems/2000-2099/2052/README.md)                                     | :lock: | Medium |                                                             |      |
-| 2053 | [Kth Distinct String in an Array](./problems/2000-2099/2053/README.md)                                                 |        | Easy   |                                                             |      |
+| 2053 | [Kth Distinct String in an Array](./problems/2000-2099/2053/README.md) | :o: | Easy | [hsh],[str] |   |
 | 2054 | [Two Best Non-Overlapping Events](./problems/2000-2099/2054/README.md)                                                 |        | Medium |                                                             |      |
 | 2055 | [Plates Between Candles](./problems/2000-2099/2055/README.md)                                                          | :o:    | Medium | [str]                                                       | :+1: |
 | 2056 | [Number of Valid Move Combinations On Chessboard](./problems/2000-2099/2056/README.md)                                 |        | Hard   |                                                             |      |

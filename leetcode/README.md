@@ -3445,3 +3445,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1732 | [Find the Highest Altitude](./problems/1700-1799/1732/README.md) | :o: | Easy | [arr] |   |
 | 1780 | [Check if Number is a Sum of Powers of Three](./problems/1700-1799/1780/README.md) | :o: | Medium | [arr] |   |
 | 1758 | [Minimum Changes To Make Alternating Binary String](./problems/1700-1799/1758/README.md) | :o: | Easy | [str] |   |
+| 1779 | [Find Nearest Point That Has the Same X or Y Coordinate](./problems/1700-1799/1779/README.md) | :o: | Easy | [arr] |   |

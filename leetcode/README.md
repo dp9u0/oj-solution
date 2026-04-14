@@ -2849,7 +2849,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2821 | [2821](./problems/2800-2899/2821/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2822 | [2822](./problems/2800-2899/2822/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2823 | [2823](./problems/2800-2899/2823/README.md)                                                                            |        | Easy   |                                                             |      |
-| 2824 | [Count Pairs Whose Sum is Less than Target](./problems/2800-2899/2824/README.md)                                       |        | Easy   |                                                             |      |
+| 2824 | [Count Pairs Whose Sum is Less than Target](./problems/2800-2899/2824/README.md) | :o: | Easy | [tp] |   |
 | 2825 | [Make String a Subsequence Using Cyclic Increments](./problems/2800-2899/2825/README.md)                               |        | Medium |                                                             |      |
 | 2826 | [Sorting Three Groups](./problems/2800-2899/2826/README.md)                                                            |        | Medium |                                                             |      |
 | 2827 | [Number of Beautiful Integers in the Range](./problems/2800-2899/2827/README.md)                                       |        | Hard   |                                                             |      |

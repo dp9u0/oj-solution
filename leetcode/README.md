@@ -2344,7 +2344,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2328 | [Number of Increasing Paths in a Grid](./problems/2300-2399/2328/README.md)                                            |        | Hard   |                                                             |      |
 | 2329 | [Product Sales Analysis V](./problems/2300-2399/2329/README.md)                                                        | :lock: | Easy   |                                                             |      |
 | 2330 | [Valid Palindrome IV](./problems/2300-2399/2330/README.md)                                                             | :lock: | Medium |                                                             |      |
-| 2331 | [Evaluate Boolean Binary Tree](./problems/2300-2399/2331/README.md)                                                    |        | Easy   |                                                             |      |
+| 2331 | [Evaluate Boolean Binary Tree](./problems/2300-2399/2331/README.md) | :o: | Easy | [tr],[dfs] |   |
 | 2332 | [The Latest Time to Catch a Bus](./problems/2300-2399/2332/README.md)                                                  |        | Medium |                                                             |      |
 | 2333 | [Minimum Sum of Squared Difference](./problems/2300-2399/2333/README.md)                                               |        | Medium |                                                             |      |
 | 2334 | [Subarray With Elements Greater Than Varying Threshold](./problems/2300-2399/2334/README.md)                           |        | Hard   |                                                             |      |

@@ -3450,3 +3450,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3594 | [Minimum Time to Transport All Individuals](./problems/3500-3599/3594/README.md) | :o: | Hard | [dp],[grf] |   |
 | 3700 | [Number of ZigZag Arrays II](./problems/3700-3799/3700/README.md) | :o: | Hard | [dp],[math] |   |
 | 3533 | [Concatenated Divisibility](./problems/3500-3599/3533/README.md) | :o: | Hard | [dp],[bt] |   |
+| 3605 | [Minimum Stability Factor of Array](./problems/3600-3699/3605/README.md) | :o: | Hard | [bs],[grd],[arr] |   |

@@ -2261,7 +2261,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2245 | [Maximum Trailing Zeros in a Cornered Path](./problems/2200-2299/2245/README.md)                                       |        | Medium |                                                             |      |
 | 2246 | [Longest Path With Different Adjacent Characters](./problems/2200-2299/2246/README.md)                                 |        | Hard   |                                                             |      |
 | 2247 | [2247](./problems/2200-2299/2247/README.md)                                                                            |        | Easy   |                                                             |      |
-| 2248 | [Intersection of Multiple Arrays](./problems/2200-2299/2248/README.md)                                                 |        | Easy   |                                                             |      |
+| 2248 | [Intersection of Multiple Arrays](./problems/2200-2299/2248/README.md) | :o: | Easy | [arr],[hash] |   |
 | 2249 | [Count Lattice Points Inside a Circle](./problems/2200-2299/2249/README.md)                                            |        | Medium |                                                             |      |
 | 2250 | [Count Number of Rectangles Containing Each Point](./problems/2200-2299/2250/README.md)                                |        | Medium |                                                             |      |
 | 2251 | [Number of Flowers in Full Bloom](./problems/2200-2299/2251/README.md)                                                 |        | Hard   |                                                             |      |

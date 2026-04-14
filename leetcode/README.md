@@ -2249,7 +2249,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2233 | [Maximum Product After K Increments](./problems/2200-2299/2233/README.md)                                              |        | Medium |                                                             |      |
 | 2234 | [Maximum Total Beauty of the Gardens](./problems/2200-2299/2234/README.md)                                             |        | Hard   |                                                             |      |
 | 2235 | [Add Two Integers](./problems/2200-2299/2235/README.md)                                                                |        | Easy   |                                                             |      |
-| 2236 | [Root Equals Sum of Children](./problems/2200-2299/2236/README.md)                                                     |        | Easy   |                                                             |      |
+| 2236 | [Root Equals Sum of Children](./problems/2200-2299/2236/README.md) | :o: | Easy | [tr] |   |
 | 2237 | [Count Positions on Street With Required Brightness](./problems/2200-2299/2237/README.md)                              | :lock: | Medium |                                                             |      |
 | 2238 | [Number of Times a Driver Was a Passenger](./problems/2200-2299/2238/README.md)                                        | :lock: | Medium |                                                             |      |
 | 2239 | [Find Closest Number to Zero](./problems/2200-2299/2239/README.md)                                                     |        | Easy   |                                                             |      |

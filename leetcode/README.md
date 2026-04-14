@@ -2499,7 +2499,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2483 | [Minimum Penalty for a Shop](./problems/2400-2499/2483/README.md) | :o: | Medium | [str],[greedy] |   |
 | 2484 | [Count Palindromic Subsequences](./problems/2400-2499/2484/README.md)                                                  |        | Hard   |                                                             |      |
 | 2485 | [Find the Pivot Integer](./problems/2400-2499/2485/README.md)                                                          |        | Easy   |                                                             |      |
-| 2486 | [Append Characters to String to Make Subsequence](./problems/2400-2499/2486/README.md)                                 |        | Medium |                                                             |      |
+| 2486 | [Append Characters to String to Make Subsequence](./problems/2400-2499/2486/README.md) | :o: | Medium | [str],[tp] |   |
 | 2487 | [Remove Nodes From Linked List](./problems/2400-2499/2487/README.md) | :o: | Medium | [ll],[stack] |   |
 | 2488 | [Count Subarrays With Median K](./problems/2400-2499/2488/README.md)                                                   |        | Hard   |                                                             |      |
 | 2489 | [Number of Substrings With Fixed Ratio](./problems/2400-2499/2489/README.md)                                           | :lock: | Medium |                                                             |      |

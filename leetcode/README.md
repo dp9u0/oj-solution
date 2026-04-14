@@ -2477,7 +2477,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2449 | [Minimum Number of Operations to Make Arrays Similar](./problems/2400-2499/2449/README.md)                             |        | Hard   |                                                             |      |
 | 2450 | [Number of Distinct Binary Strings After Applying Operations](./problems/2400-2499/2450/README.md)                     | :lock: | Medium |                                                             |      |
 | 2451 | [Odd String Difference](./problems/2400-2499/2451/README.md)                                                           |        | Easy   |                                                             |      |
-| 2452 | [Words Within Two Edits of Dictionary](./problems/2400-2499/2452/README.md)                                            |        | Medium |                                                             |      |
+| 2452 | [Words Within Two Edits of Dictionary](./problems/2400-2499/2452/README.md) | :o: | Medium | [str] |   |
 | 2453 | [Destroy Sequential Targets](./problems/2400-2499/2453/README.md)                                                      |        | Medium |                                                             |      |
 | 2454 | [Next Greater Element IV](./problems/2400-2499/2454/README.md)                                                         |        | Hard   |                                                             |      |
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](./problems/2400-2499/2455/README.md)                       | :o:    | Easy   | [arr]                                                       |      |

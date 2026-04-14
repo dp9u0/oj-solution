@@ -2287,7 +2287,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2259 | [Remove Digit From Number to Maximize Result](./problems/2200-2299/2259/README.md)                                     |        | Easy   |                                                             |      |
 | 2260 | [Minimum Consecutive Cards to Pick Up](./problems/2200-2299/2260/README.md)                                            |        | Medium |                                                             |      |
 | 2261 | [K Divisible Elements Subarrays](./problems/2200-2299/2261/README.md)                                                  |        | Medium |                                                             |      |
-| 2262 | [Total Appeal of A String](./problems/2200-2299/2262/README.md)                                                        |        | Hard   |                                                             |      |
+| 2262 | [Total Appeal of A String](./problems/2200-2299/2262/README.md) | :o: | Hard | [str] |   |
 | 2263 | [2263](./problems/2200-2299/2263/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2264 | [Largest 3-Same-Digit Number in String](./problems/2200-2299/2264/README.md)                                           | :o:    | Easy   | [str]                                                       |      |
 | 2265 | [Count Nodes Equal to Average of Subtree](./problems/2200-2299/2265/README.md)                                         | :o:    | Medium | [tr],[dfs]                                                  |      |

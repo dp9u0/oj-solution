@@ -2618,7 +2618,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2602 | [Minimum Operations to Make All Array Elements Equal](./problems/2600-2699/2602/README.md)                             |        | Medium |                                                             |      |
 | 2603 | [Collect Coins in a Tree](./problems/2600-2699/2603/README.md)                                                         |        | Hard   |                                                             |      |
 | 2604 | [Minimum Time to Eat All Grains](./problems/2600-2699/2604/README.md)                                                  | :lock: | Hard   |                                                             |      |
-| 2605 | [Form Smallest Number From Two Digit Arrays](./problems/2600-2699/2605/README.md)                                      |        | Easy   |                                                             |      |
+| 2605 | [Form Smallest Number From Two Digit Arrays](./problems/2600-2699/2605/README.md) | :o: | Easy | [arr],[hash] |   |
 | 2606 | [Find the Substring With Maximum Cost](./problems/2600-2699/2606/README.md)                                            |        | Medium |                                                             |      |
 | 2607 | [Make K-Subarray Sums Equal](./problems/2600-2699/2607/README.md) | :o: | Medium | [greedy] |   |
 | 2608 | [Shortest Cycle in a Graph](./problems/2600-2699/2608/README.md)                                                       |        | Hard   |                                                             |      |

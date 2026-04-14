@@ -1013,7 +1013,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 936  | [Stamping The Sequence](./problems/900-999/936/README.md)                                                              |        | Hard   |                                                             |      |
 | 937  | [Reorder Log Files](./problems/900-999/937/README.md)                                                                  | :o:    | Easy   | [str]                                                       | :-1: |
 | 938  | [Range Sum of BST](./problems/900-999/938/README.md)                                                                   | :o:    | Medium | [tr]                                                        |      |
-| 939  | [Minimum Area Rectangle](./problems/900-999/939/README.md)                                                             |        | Medium |                                                             |      |
+| 939 | [Minimum Area Rectangle](./problems/900-999/939/README.md) | :o: | Medium | [math] |   |
 | 940  | [Distinct Subsequences II](./problems/900-999/940/README.md)                                                           |        | Hard   |                                                             |      |
 | 941  | [Valid Mountain Array](./problems/900-999/941/README.md)                                                               | :o:    | Easy   | [tp]                                                        |      |
 | 942  | [DI String Match](./problems/900-999/942/README.md)                                                                    | :o:    | Easy   | [tp]                                                        |      |

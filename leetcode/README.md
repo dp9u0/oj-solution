@@ -3439,3 +3439,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1749 | [Maximum Absolute Sum of Any Subarray](./problems/1700-1799/1749/README.md) | :o: | Medium | [arr],[dp] |   |
 | 1726 | [Tuple with Same Product](./problems/1700-1799/1726/README.md) | :o: | Medium | [arr],[hash] | :+1:  |
 | 3542 | [Minimum Operations to Convert All Elements to Zero](./problems/3500-3599/3542/README.md) | :o: | Medium | [stack] |   |
+| 3690 | [Split and Merge Array Transformation](./problems/3600-3699/3690/README.md) | :o: | Medium | [bfs] |   |

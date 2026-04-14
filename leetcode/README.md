@@ -1812,7 +1812,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](./problems/1700-1799/1784/README.md)                          | :o:    | Easy   | [arr]                                                       |      |
 | 1785 | [Minimum Elements to Add to Form a Given Sum](./problems/1700-1799/1785/README.md)                                     |        | Medium |                                                             |      |
 | 1786 | [Number of Restricted Paths From First to Last Node](./problems/1700-1799/1786/README.md)                              |        | Medium |                                                             |      |
-| 1787 | [Make the XOR of All Segments Equal to Zero](./problems/1700-1799/1787/README.md)                                      |        | Hard   |                                                             |      |
+| 1787 | [Make the XOR of All Segments Equal to Zero](./problems/1700-1799/1787/README.md) | :o: | Hard | [dp],[bit] | :+1:  |
 | 1788 | [Maximize the Beauty of the Garden](./problems/1700-1799/1788/README.md)                                               | :lock: | Hard   |                                                             |      |
 | 1789 | [Primary Department for Each Employee](./problems/1700-1799/1789/README.md)                                            | :lock: | Easy   |                                                             |      |
 | 1790 | [Check if One String Swap Can Make Strings Equal](./problems/1700-1799/1790/README.md)                                 |        | Easy   |                                                             |      |

@@ -1970,7 +1970,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1954 | [1954](./problems/1900-1999/1954/README.md)                                                                            |        | Easy   |                                                             |      |
 | 1955 | [Count Number of Special Subsequences](./problems/1900-1999/1955/README.md)                                            |        | Hard   |                                                             |      |
 | 1956 | [Minimum Time For K Virus Variants to Spread](./problems/1900-1999/1956/README.md)                                     | :lock: | Hard   |                                                             |      |
-| 1957 | [1957](./problems/1900-1999/1957/README.md)                                                                            |        | Easy   |                                                             |      |
+| 1957 | [1957](./problems/1900-1999/1957/README.md) | :o: | Easy | [str] |   |
 | 1958 | [Check if Move is Legal](./problems/1900-1999/1958/README.md)                                                          |        | Medium |                                                             |      |
 | 1959 | [Minimum Total Space Wasted With K Resizing Operations](./problems/1900-1999/1959/README.md)                           |        | Medium |                                                             |      |
 | 1960 | [1960](./problems/1900-1999/1960/README.md)                                                                            |        | Easy   |                                                             |      |

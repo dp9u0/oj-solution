@@ -2480,7 +2480,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2464 | [Minimum Subarrays in a Valid Split](./problems/2400-2499/2464/README.md)                                              | :lock: | Medium |                                                             |      |
 | 2465 | [Number of Distinct Averages](./problems/2400-2499/2465/README.md)                                                     |        | Easy   |                                                             |      |
 | 2466 | [Count Ways To Build Good Strings](./problems/2400-2499/2466/README.md)                                                |        | Medium |                                                             |      |
-| 2467 | [Most Profitable Path in a Tree](./problems/2400-2499/2467/README.md)                                                  |        | Medium |                                                             |      |
+| 2467 | [Most Profitable Path in a Tree](./problems/2400-2499/2467/README.md) | :o: | Medium | [tr],[dfs] |   |
 | 2468 | [Split Message Based on Limit](./problems/2400-2499/2468/README.md)                                                    |        | Hard   |                                                             |      |
 | 2469 | [Convert the Temperature](./problems/2400-2499/2469/README.md)                                                         |        | Easy   |                                                             |      |
 | 2470 | [Number of Subarrays With LCM Equal to K](./problems/2400-2499/2470/README.md)                                         |        | Medium |                                                             |      |

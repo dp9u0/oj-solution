@@ -1356,7 +1356,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](./problems/1200-1299/1281/README.md)                            | :o:    | Easy   | [math]                                                      |      |
 | 1282 | [Group the People Given the Group Size They Belong To](./problems/1200-1299/1282/README.md)                            | :o:    | Medium | [arr],[greedy]                                              |      |
 | 1283 | [Find the Smallest Divisor Given a Threshold](./problems/1200-1299/1283/README.md)                                     | :o:    | Medium | [arr],[bs]                                                  |      |
-| 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](./problems/1200-1299/1284/README.md)                 |        | Hard   |                                                             |      |
+| 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](./problems/1200-1299/1284/README.md) | :o: | Hard | [bfs],[bit] | :+1:  |
 | 1285 | [Find the Start and End Number of Continuous Ranges](./problems/1200-1299/1285/README.md)                              | :lock: | Medium |                                                             |      |
 | 1286 | [Iterator for Combination](./problems/1200-1299/1286/README.md)                                                        |        | Medium |                                                             |      |
 | 1287 | [Element Appearing More Than 25% In Sorted Array](./problems/1200-1299/1287/README.md)                                 |        | Easy   |                                                             |      |

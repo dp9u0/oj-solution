@@ -2133,7 +2133,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2105 | [Watering Plants II](./problems/2100-2199/2105/README.md)                                                              |        | Medium |                                                             |      |
 | 2106 | [Maximum Fruits Harvested After at Most K Steps](./problems/2100-2199/2106/README.md)                                  |        | Hard   |                                                             |      |
 | 2107 | [Number of Unique Flavors After Sharing K Candies](./problems/2100-2199/2107/README.md)                                | :lock: | Medium |                                                             |      |
-| 2108 | [Find First Palindromic String in the Array](./problems/2100-2199/2108/README.md)                                      |        | Easy   |                                                             |      |
+| 2108 | [Find First Palindromic String in the Array](./problems/2100-2199/2108/README.md) | :o: | Easy | [arr] |   |
 | 2109 | [Adding Spaces to a String](./problems/2100-2199/2109/README.md)                                                       | :o:    | Medium | [str],[tp]                                                  |      |
 | 2110 | [Number of Smooth Descent Periods of a Stock](./problems/2100-2199/2110/README.md)                                     |        | Medium |                                                             |      |
 | 2111 | [Minimum Operations to Make the Array K-Increasing](./problems/2100-2199/2111/README.md)                               |        | Hard   |                                                             |      |

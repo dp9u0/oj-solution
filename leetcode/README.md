@@ -1806,7 +1806,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1790 | [Check if One String Swap Can Make Strings Equal](./problems/1700-1799/1790/README.md)                                 |        | Easy   |                                                             |      |
 | 1791 | [Find Center of Star Graph](./problems/1700-1799/1791/README.md)                                                       |        | Easy   |                                                             |      |
 | 1792 | [Maximum Average Pass Ratio](./problems/1700-1799/1792/README.md)                                                      |        | Medium |                                                             |      |
-| 1793 | [Maximum Score of a Good Subarray](./problems/1700-1799/1793/README.md)                                                |        | Hard   |                                                             |      |
+| 1793 | [Maximum Score of a Good Subarray](./problems/1700-1799/1793/README.md) | :o: | Hard | [tp] |   |
 | 1794 | [Count Pairs of Equal Substrings With Minimum Difference](./problems/1700-1799/1794/README.md)                         | :lock: | Medium |                                                             |      |
 | 1795 | [Rearrange Products Table](./problems/1700-1799/1795/README.md)                                                        | :lock: | Easy   |                                                             |      |
 | 1796 | [Second Largest Digit in a String](./problems/1700-1799/1796/README.md)                                                |        | Easy   |                                                             |      |

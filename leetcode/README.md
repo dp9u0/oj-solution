@@ -1372,7 +1372,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1297 | [Maximum Number of Occurrences of a Substring](./problems/1200-1299/1297/README.md)                                    |        | Medium |                                                             |      |
 | 1298 | [Maximum Candies You Can Get from Boxes](./problems/1200-1299/1298/README.md)                                          |        | Hard   |                                                             |      |
 | 1299 | [Replace Elements with Greatest Element on Right Side](./problems/1200-1299/1299/README.md)                            |        | Easy   |                                                             |      |
-| 1300 | [Sum of Mutated Array Closest to Target](./problems/1300-1399/1300/README.md)                                          |        | Medium |                                                             |      |
+| 1300 | [Sum of Mutated Array Closest to Target](./problems/1300-1399/1300/README.md) | :o: | Medium | [bs] |   |
 | 1301 | [Number of Paths with Max Score](./problems/1300-1399/1301/README.md)                                                  |        | Hard   |                                                             |      |
 | 1302 | [Deepest Leaves Sum](./problems/1300-1399/1302/README.md)                                                              |        | Medium |                                                             |      |
 | 1303 | [Find the Team Size](./problems/1300-1399/1303/README.md)                                                              | :lock: | Easy   |                                                             |      |

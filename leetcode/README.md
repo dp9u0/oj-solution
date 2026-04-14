@@ -1701,7 +1701,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1626 | [Best Team With No Conflicts](./problems/1600-1699/1626/README.md)                                                     |        | Medium |                                                             |      |
 | 1627 | [1627](./problems/1600-1699/1627/README.md)                                                                            |        | Easy   |                                                             |      |
 | 1628 | [Design an Expression Tree With Evaluate Function](./problems/1600-1699/1628/README.md)                                | :lock: | Medium |                                                             |      |
-| 1629 | [Slowest Key](./problems/1600-1699/1629/README.md)                                                                     |        | Easy   |                                                             |      |
+| 1629 | [Slowest Key](./problems/1600-1699/1629/README.md) | :o: | Easy | [arr] |   |
 | 1630 | [Arithmetic Subarrays](./problems/1600-1699/1630/README.md) | :o: | Medium | [arr],[sort] |   |
 | 1631 | [Path With Minimum Effort](./problems/1600-1699/1631/README.md)                                                        |        | Medium |                                                             |      |
 | 1632 | [1632](./problems/1600-1699/1632/README.md)                                                                            |        | Easy   |                                                             |      |

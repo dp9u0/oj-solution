@@ -503,7 +503,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 421  | [Maximum XOR of Two Numbers in an Array](./problems/400-499/421/README.md)                                             | :o:    | Medium | [arr],[bit]                                                 |      |
 | 422  | [Valid Word Square](./problems/400-499/422/README.md)                                                                  | :lock: | Easy   |                                                             |      |
 | 423  | [Reconstruct Original Digits from English](./problems/400-499/423/README.md)                                           |        | Medium |                                                             |      |
-| 424  | [Longest Repeating Character Replacement](./problems/400-499/424/README.md)                                            |        | Medium |                                                             |      |
+| 424 | [Longest Repeating Character Replacement](./problems/400-499/424/README.md) | :o: | Medium | [sd] | :+1:  |
 | 425  | [Word Squares](./problems/400-499/425/README.md)                                                                       | :lock: | Hard   |                                                             |      |
 | 426  | [Convert Binary Search Tree to Sorted Doubly Linked List](./problems/400-499/426/README.md)                            | :lock: | Medium |                                                             |      |
 | 427  | [Construct Quad Tree](./problems/400-499/427/README.md)                                                                | :o:    | Easy   | [tr]                                                        |      |

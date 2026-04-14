@@ -1595,7 +1595,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1520 | [Maximum Number of Non-Overlapping Substrings](./problems/1500-1599/1520/README.md)                                    |        | Hard   |                                                             |      |
 | 1521 | [Find a Value of a Mysterious Function Closest to Target](./problems/1500-1599/1521/README.md)                         |        | Hard   |                                                             |      |
 | 1522 | [Diameter of N-Ary Tree](./problems/1500-1599/1522/README.md)                                                          | :lock: | Medium |                                                             |      |
-| 1523 | [Count Odd Numbers in an Interval Range](./problems/1500-1599/1523/README.md)                                          |        | Easy   |                                                             |      |
+| 1523 | [Count Odd Numbers in an Interval Range](./problems/1500-1599/1523/README.md) | :o: | Easy | [arr] |   |
 | 1524 | [Number of Sub-arrays With Odd Sum](./problems/1500-1599/1524/README.md)                                               |        | Medium |                                                             |      |
 | 1525 | [Number of Good Ways to Split a String](./problems/1500-1599/1525/README.md) | :o: | Medium | [str],[hash] |   |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](./problems/1500-1599/1526/README.md)                |        | Hard   |                                                             |      |

@@ -981,7 +981,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 904 | [Fruit Into Baskets](./problems/900-999/904/README.md) | :o: | Medium | [tp] | :+1:  |
 | 905  | [Sort Array By Parity](./problems/900-999/905/README.md)                                                               | :o:    | Easy   | [tp],[arr]                                                  |      |
 | 906  | [Super Palindromes](./problems/900-999/906/README.md)                                                                  |        | Hard   |                                                             |      |
-| 907  | [Sum of Subarray Minimums](./problems/900-999/907/README.md)                                                           |        | Medium |                                                             |      |
+| 907 | [Sum of Subarray Minimums](./problems/900-999/907/README.md) | :o: | Medium | [stack],[dp],[+1] |   |
 | 908  | [Smallest Range I](./problems/900-999/908/README.md)                                                                   | :o:    | Easy   | [math]                                                      | :-1: |
 | 909 | [Snakes and Ladders](./problems/900-999/909/README.md) | :o: | Medium | [arr],[bfs] | :+1:  |
 | 910  | [Smallest Range II](./problems/900-999/910/README.md)                                                                  |        | Medium |                                                             |      |

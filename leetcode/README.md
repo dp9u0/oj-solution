@@ -1110,7 +1110,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1033 | [Moving Stones Until Consecutive](./problems/1000-1099/1033/README.md)                                                 |        | Easy   |                                                             |      |
 | 1034 | [Coloring A Border](./problems/1000-1099/1034/README.md)                                                               |        | Medium |                                                             |      |
 | 1035 | [Uncrossed Lines](./problems/1000-1099/1035/README.md)                                                                 | :o:    | Medium | [dp]                                                        |      |
-| 1036 | [Escape a Large Maze](./problems/1000-1099/1036/README.md)                                                             |        | Hard   |                                                             |      |
+| 1036 | [Escape a Large Maze](./problems/1000-1099/1036/README.md) | :o: | Hard | [bfs] |   |
 | 1037 | [Valid Boomerang](./problems/1000-1099/1037/README.md)                                                                 |        | Easy   |                                                             |      |
 | 1038 | [Binary Search Tree to Greater Sum Tree](./problems/1000-1099/1038/README.md)                                          | :o:    | Medium | [[tr]]                                                      |      |
 | 1039 | [Minimum Score Triangulation of Polygon](./problems/1000-1099/1039/README.md)                                          |        | Medium |                                                             |      |

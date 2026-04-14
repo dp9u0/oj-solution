@@ -2406,7 +2406,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2378 | [Choose Edges to Maximize Score in a Tree](./problems/2300-2399/2378/README.md)                                        | :lock: | Medium |                                                             |      |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](./problems/2300-2399/2379/README.md)                              |        | Easy   |                                                             |      |
 | 2380 | [Time Needed to Rearrange a Binary String](./problems/2300-2399/2380/README.md)                                        |        | Medium |                                                             |      |
-| 2381 | [Shifting Letters II](./problems/2300-2399/2381/README.md)                                                             |        | Medium |                                                             |      |
+| 2381 | [Shifting Letters II](./problems/2300-2399/2381/README.md) | :o: | Medium | [str] |   |
 | 2382 | [Maximum Segment Sum After Removals](./problems/2300-2399/2382/README.md)                                              |        | Hard   |                                                             |      |
 | 2383 | [Minimum Hours of Training to Win a Competition](./problems/2300-2399/2383/README.md)                                  |        | Easy   |                                                             |      |
 | 2384 | [Largest Palindromic Number](./problems/2300-2399/2384/README.md)                                                      | :o:    | Medium | [greedy]                                                    |      |

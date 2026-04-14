@@ -2041,7 +2041,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2025 | [Maximum Number of Ways to Partition an Array](./problems/2000-2099/2025/README.md)                                    |        | Hard   |                                                             |      |
 | 2026 | [Low-Quality Problems](./problems/2000-2099/2026/README.md)                                                            | :lock: | Easy   |                                                             |      |
 | 2027 | [Minimum Moves to Convert String](./problems/2000-2099/2027/README.md)                                                 |        | Easy   |                                                             |      |
-| 2028 | [Find Missing Observations](./problems/2000-2099/2028/README.md)                                                       |        | Medium |                                                             |      |
+| 2028 | [Find Missing Observations](./problems/2000-2099/2028/README.md) | :o: | Medium | [arr] |   |
 | 2029 | [Stone Game IX](./problems/2000-2099/2029/README.md)                                                                   |        | Medium |                                                             |      |
 | 2030 | [Smallest K-Length Subsequence With Occurrences of a Letter](./problems/2000-2099/2030/README.md)                      |        | Hard   |                                                             |      |
 | 2031 | [2031](./problems/2000-2099/2031/README.md)                                                                            |        | Easy   |                                                             |      |

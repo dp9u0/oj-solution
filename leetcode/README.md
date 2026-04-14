@@ -3385,7 +3385,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3369 | [Design an Array Statistics Tracker](./problems/3300-3399/3369/README.md)                                              | :lock: | Hard   |                                                             |      |
 | 3370 | [Smallest Number With All Set Bits](./problems/3300-3399/3370/README.md)                                               |        | Easy   |                                                             |      |
 | 3371 | [Identify the Largest Outlier in an Array](./problems/3300-3399/3371/README.md)                                        |        | Medium |                                                             |      |
-| 3372 | [Maximize the Number of Target Nodes After Connecting Trees I](./problems/3300-3399/3372/README.md)                    |        | Medium |                                                             |      |
+| 3372 | [Maximize the Number of Target Nodes After Connecting Trees I](./problems/3300-3399/3372/README.md) | :o: | Medium | [tr],[bfs] |   |
 | 3373 | [Maximize the Number of Target Nodes After Connecting Trees II](./problems/3300-3399/3373/README.md)                   |        | Hard   |                                                             |      |
 | 3374 | [First Letter Capitalization II](./problems/3300-3399/3374/README.md)                                                  | :soon: | Hard   |                                                             |      |
 | 3375 | [Minimum Operations to Make Array Values Equal to K](./problems/3300-3399/3375/README.md)                              |        | Easy   |                                                             |      |

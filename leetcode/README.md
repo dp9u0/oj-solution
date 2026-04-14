@@ -908,7 +908,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 831  | [Masking Personal Information](./problems/800-899/831/README.md)                                                       |        | Medium |                                                             |      |
 | 832  | [Flipping an Image](./problems/800-899/832/README.md)                                                                  | :o:    | Easy   | [arr]                                                       |      |
 | 833  | [Find And Replace in String](./problems/800-899/833/README.md)                                                         |        | Medium |                                                             |      |
-| 834  | [Sum of Distances in Tree](./problems/800-899/834/README.md)                                                           |        | Hard   |                                                             |      |
+| 834 | [Sum of Distances in Tree](./problems/800-899/834/README.md) | :o: | Hard | [tr],[dfs],[dp] | :+1:  |
 | 835  | [Image Overlap](./problems/800-899/835/README.md)                                                                      |        | Medium |                                                             |      |
 | 836  | [Rectangle Overlap](./problems/800-899/836/README.md)                                                                  | :o:    | Easy   | [math]                                                      |      |
 | 837  | [New 21 Game](./problems/800-899/837/README.md)                                                                        |        | Medium |                                                             |      |

@@ -2057,7 +2057,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2041 | [Accepted Candidates From the Interviews](./problems/2000-2099/2041/README.md)                                         | :lock: | Medium |                                                             |      |
 | 2042 | [Check if Numbers Are Ascending in a Sentence](./problems/2000-2099/2042/README.md)                                    |        | Easy   |                                                             |      |
 | 2043 | [Simple Bank System](./problems/2000-2099/2043/README.md)                                                              |        | Medium |                                                             |      |
-| 2044 | [Count Number of Maximum Bitwise-OR Subsets](./problems/2000-2099/2044/README.md)                                      |        | Medium |                                                             |      |
+| 2044 | [Count Number of Maximum Bitwise-OR Subsets](./problems/2000-2099/2044/README.md) | :o: | Medium | [bit],[bt] |   |
 | 2045 | [Second Minimum Time to Reach Destination](./problems/2000-2099/2045/README.md)                                        |        | Hard   |                                                             |      |
 | 2046 | [Sort Linked List Already Sorted Using Absolute Values](./problems/2000-2099/2046/README.md)                           | :lock: | Medium |                                                             |      |
 | 2047 | [Number of Valid Words in a Sentence](./problems/2000-2099/2047/README.md) | :o: | Easy | [str] |   |

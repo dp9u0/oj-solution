@@ -3442,3 +3442,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3690 | [Split and Merge Array Transformation](./problems/3600-3699/3690/README.md) | :o: | Medium | [bfs] |   |
 | 3723 | [Maximize Sum of Squares of Digits](./problems/3700-3799/3723/README.md) | :o: | Medium | [greedy] |   |
 | 1738 | [Find Kth Largest XOR Coordinate Value](./problems/1700-1799/1738/README.md) | :o: | Medium | [arr],[bit] |   |
+| 1732 | [Find the Highest Altitude](./problems/1700-1799/1732/README.md) | :o: | Easy | [arr] |   |

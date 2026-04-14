@@ -1094,7 +1094,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1017 | [Convert to Base -2](./problems/1000-1099/1017/README.md)                                                              |        | Medium |                                                             |      |
 | 1018 | [Binary Prefix Divisible By 5](./problems/1000-1099/1018/README.md)                                                    | :o:    | Easy   | [math]                                                      |      |
 | 1019 | [Next Greater Node In Linked List](./problems/1000-1099/1019/README.md)                                                |        | Medium |                                                             |      |
-| 1020 | [Number of Enclaves](./problems/1000-1099/1020/README.md)                                                              |        | Medium |                                                             |      |
+| 1020 | [Number of Enclaves](./problems/1000-1099/1020/README.md) | :o: | Medium | [bfs] |   |
 | 1021 | [Remove Outermost Parentheses](./problems/1000-1099/1021/README.md)                                                    | :o:    | Easy   | [none]                                                      |      |
 | 1022 | [Sum of Root To Leaf Binary Numbers](./problems/1000-1099/1022/README.md)                                              | :o:    | Easy   | [tr]                                                        |      |
 | 1023 | [Camelcase Matching](./problems/1000-1099/1023/README.md)                                                              |        | Medium |                                                             |      |

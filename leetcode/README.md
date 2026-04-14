@@ -3266,7 +3266,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3238 | [Find the Number of Winning Players](./problems/3200-3299/3238/README.md)                                              |        | Easy   |                                                             |      |
 | 3239 | [Minimum Number of Flips to Make Binary Grid Palindromic I](./problems/3200-3299/3239/README.md)                       |        | Medium |                                                             |      |
 | 3240 | [Minimum Number of Flips to Make Binary Grid Palindromic II](./problems/3200-3299/3240/README.md)                      |        | Medium |                                                             |      |
-| 3241 | [Time Taken to Mark All Nodes](./problems/3200-3299/3241/README.md)                                                    |        | Hard   |                                                             |      |
+| 3241 | [Time Taken to Mark All Nodes](./problems/3200-3299/3241/README.md) | :o: | Hard | [dp],[tr] |   |
 | 3242 | [Design Neighbor Sum Service](./problems/3200-3299/3242/README.md)                                                     |        | Easy   |                                                             |      |
 | 3243 | [Shortest Distance After Road Addition Queries I](./problems/3200-3299/3243/README.md)                                 |        | Medium |                                                             |      |
 | 3244 | [Shortest Distance After Road Addition Queries II](./problems/3200-3299/3244/README.md)                                |        | Hard   |                                                             |      |

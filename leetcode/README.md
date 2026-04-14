@@ -3059,7 +3059,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3043 | [Find the Length of the Longest Common Prefix](./problems/3000-3099/3043/README.md)                                    |        | Medium |                                                             |      |
 | 3044 | [Most Frequent Prime](./problems/3000-3099/3044/README.md)                                                             |        | Medium |                                                             |      |
 | 3045 | [Count Prefix and Suffix Pairs II](./problems/3000-3099/3045/README.md)                                                |        | Hard   |                                                             |      |
-| 3046 | [Split the Array](./problems/3000-3099/3046/README.md)                                                                 |        | Easy   |                                                             |      |
+| 3046 | [Split the Array](./problems/3000-3099/3046/README.md) | :o: | Easy | [arr],[hash] |   |
 | 3047 | [Find the Largest Area of Square Inside Two Rectangles](./problems/3000-3099/3047/README.md)                           |        | Medium |                                                             |      |
 | 3048 | [Earliest Second to Mark Indices I](./problems/3000-3099/3048/README.md)                                               |        | Medium |                                                             |      |
 | 3049 | [Earliest Second to Mark Indices II](./problems/3000-3099/3049/README.md)                                              |        | Hard   |                                                             |      |

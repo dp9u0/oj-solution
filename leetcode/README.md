@@ -2497,7 +2497,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2469 | [Convert the Temperature](./problems/2400-2499/2469/README.md)                                                         |        | Easy   |                                                             |      |
 | 2470 | [Number of Subarrays With LCM Equal to K](./problems/2400-2499/2470/README.md)                                         |        | Medium |                                                             |      |
 | 2471 | [Minimum Number of Operations to Sort a Binary Tree by Level](./problems/2400-2499/2471/README.md)                     |        | Medium |                                                             |      |
-| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./problems/2400-2499/2472/README.md)                         |        | Hard   |                                                             |      |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./problems/2400-2499/2472/README.md) | :o: | Hard | [grd],[str] |   |
 | 2473 | [Minimum Cost to Buy Apples](./problems/2400-2499/2473/README.md)                                                      | :lock: | Medium |                                                             |      |
 | 2474 | [Customers With Strictly Increasing Purchases](./problems/2400-2499/2474/README.md)                                    | :lock: | Hard   |                                                             |      |
 | 2475 | [Number of Unequal Triplets in Array](./problems/2400-2499/2475/README.md)                                             |        | Easy   |                                                             |      |

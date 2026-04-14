@@ -2945,7 +2945,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2917 | [Find the K-or of an Array](./problems/2900-2999/2917/README.md)                                                       |        | Easy   |                                                             |      |
 | 2918 | [Minimum Equal Sum of Two Arrays After Replacing Zeros](./problems/2900-2999/2918/README.md)                           | :o:    | Medium | [arr],[greedy]                                              |      |
 | 2919 | [Minimum Increment Operations to Make Array Beautiful](./problems/2900-2999/2919/README.md)                            |        | Medium |                                                             |      |
-| 2920 | [Maximum Points After Collecting Coins From All Nodes](./problems/2900-2999/2920/README.md)                            |        | Hard   |                                                             |      |
+| 2920 | [Maximum Points After Collecting Coins From All Nodes](./problems/2900-2999/2920/README.md) | :o: | Hard | [dp],[tr] |   |
 | 2921 | [Maximum Profitable Triplets With Increasing Prices II](./problems/2900-2999/2921/README.md)                           | :lock: | Hard   |                                                             |      |
 | 2922 | [Market Analysis III](./problems/2900-2999/2922/README.md)                                                             | :lock: | Medium |                                                             |      |
 | 2923 | [Find Champion I](./problems/2900-2999/2923/README.md)                                                                 | :o:    | Easy   | [arr]                                                       |      |

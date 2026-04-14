@@ -1654,7 +1654,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](./problems/1500-1599/1579/README.md)                      |        | Hard   |                                                             |      |
 | 1580 | [Put Boxes Into the Warehouse II](./problems/1500-1599/1580/README.md)                                                 | :lock: | Medium |                                                             |      |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](./problems/1500-1599/1581/README.md)                          | :lock: | Easy   |                                                             |      |
-| 1582 | [Special Positions in a Binary Matrix](./problems/1500-1599/1582/README.md)                                            |        | Easy   |                                                             |      |
+| 1582 | [Special Positions in a Binary Matrix](./problems/1500-1599/1582/README.md) | :o: | Easy | [arr] |   |
 | 1583 | [Count Unhappy Friends](./problems/1500-1599/1583/README.md) | :o: | Medium | [arr] |   |
 | 1584 | [Min Cost to Connect All Points](./problems/1500-1599/1584/README.md)                                                  | :o:    | Medium | [graph],[mst]                                               | :+1: |
 | 1585 | [Check If String Is Transformable With Substring Sort Operations](./problems/1500-1599/1585/README.md)                 |        | Hard   |                                                             |      |

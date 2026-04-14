@@ -1987,7 +1987,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1971 | [Find if Path Exists in Graph](./problems/1900-1999/1971/README.md)                                                    |        | Easy   |                                                             |      |
 | 1972 | [First and Last Call On the Same Day](./problems/1900-1999/1972/README.md)                                             | :lock: | Hard   |                                                             |      |
 | 1973 | [Count Nodes Equal to Sum of Descendants](./problems/1900-1999/1973/README.md)                                         | :lock: | Medium |                                                             |      |
-| 1974 | [Minimum Time to Type Word Using Special Typewriter](./problems/1900-1999/1974/README.md)                              |        | Easy   |                                                             |      |
+| 1974 | [Minimum Time to Type Word Using Special Typewriter](./problems/1900-1999/1974/README.md) | :o: | Easy | [str] |   |
 | 1975 | [Maximum Matrix Sum](./problems/1900-1999/1975/README.md)                                                              |        | Medium |                                                             |      |
 | 1976 | [Number of Ways to Arrive at Destination](./problems/1900-1999/1976/README.md)                                         | :o:    | Medium | [graph],[dijkstra]                                          |      |
 | 1977 | [Number of Ways to Separate Numbers](./problems/1900-1999/1977/README.md)                                              |        | Hard   |                                                             |      |

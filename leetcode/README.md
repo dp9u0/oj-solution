@@ -1761,7 +1761,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1686 | [Stone Game VI](./problems/1600-1699/1686/README.md)                                                                   |        | Medium |                                                             |      |
 | 1687 | [Delivering Boxes from Storage to Ports](./problems/1600-1699/1687/README.md)                                          |        | Hard   |                                                             |      |
 | 1688 | [Count of Matches in Tournament](./problems/1600-1699/1688/README.md)                                                  |        | Easy   |                                                             |      |
-| 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](./problems/1600-1699/1689/README.md)                         |        | Medium |                                                             |      |
+| 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](./problems/1600-1699/1689/README.md) | :o: | Medium | [greedy] |   |
 | 1690 | [Stone Game VII](./problems/1600-1699/1690/README.md)                                                                  |        | Medium |                                                             |      |
 | 1691 | [1691](./problems/1600-1699/1691/README.md)                                                                            |        | Easy   |                                                             |      |
 | 1692 | [Count Ways to Distribute Candies](./problems/1600-1699/1692/README.md)                                                | :lock: | Hard   |                                                             |      |

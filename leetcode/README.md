@@ -2073,7 +2073,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2045 | [Second Minimum Time to Reach Destination](./problems/2000-2099/2045/README.md)                                        |        | Hard   |                                                             |      |
 | 2046 | [Sort Linked List Already Sorted Using Absolute Values](./problems/2000-2099/2046/README.md)                           | :lock: | Medium |                                                             |      |
 | 2047 | [Number of Valid Words in a Sentence](./problems/2000-2099/2047/README.md)                                             | :o:    | Easy   | [str]                                                       |      |
-| 2048 | [Next Greater Numerically Balanced Number](./problems/2000-2099/2048/README.md)                                        |        | Medium |                                                             |      |
+| 2048 | [Next Greater Numerically Balanced Number](./problems/2000-2099/2048/README.md) | :o: | Medium | [bt] |   |
 | 2049 | [Count Nodes With the Highest Score](./problems/2000-2099/2049/README.md)                                              |        | Medium |                                                             |      |
 | 2050 | [Parallel Courses III](./problems/2000-2099/2050/README.md)                                                            |        | Hard   |                                                             |      |
 | 2051 | [The Category of Each Member in the Store](./problems/2000-2099/2051/README.md)                                        | :lock: | Medium |                                                             |      |

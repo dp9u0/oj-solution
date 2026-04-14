@@ -2085,7 +2085,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2057 | [Smallest Index With Equal Value](./problems/2000-2099/2057/README.md)                                                 |        | Easy   |                                                             |      |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./problems/2000-2099/2058/README.md)            |        | Medium |                                                             |      |
 | 2059 | [Minimum Operations to Convert Number](./problems/2000-2099/2059/README.md)                                            |        | Medium |                                                             |      |
-| 2060 | [Check if an Original String Exists Given Two Encoded Strings](./problems/2000-2099/2060/README.md)                    |        | Hard   |                                                             |      |
+| 2060 | [Check if an Original String Exists Given Two Encoded Strings](./problems/2000-2099/2060/README.md) | :o: | Hard | [str],[dp] |   |
 | 2061 | [Number of Spaces Cleaning Robot Cleaned](./problems/2000-2099/2061/README.md)                                         | :lock: | Medium |                                                             |      |
 | 2062 | [Count Vowel Substrings of a String](./problems/2000-2099/2062/README.md)                                              |        | Easy   |                                                             |      |
 | 2063 | [Vowels of All Substrings](./problems/2000-2099/2063/README.md)                                                        |        | Medium |                                                             |      |

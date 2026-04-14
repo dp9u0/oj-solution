@@ -1374,7 +1374,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1299 | [Replace Elements with Greatest Element on Right Side](./problems/1200-1299/1299/README.md)                            | :o:    | Easy   | [arr]                                                       |      |
 | 1300 | [Sum of Mutated Array Closest to Target](./problems/1300-1399/1300/README.md)                                          | :o:    | Medium | [bs]                                                        |      |
 | 1301 | [Number of Paths with Max Score](./problems/1300-1399/1301/README.md)                                                  |        | Hard   |                                                             |      |
-| 1302 | [Deepest Leaves Sum](./problems/1300-1399/1302/README.md)                                                              |        | Medium |                                                             |      |
+| 1302 | [Deepest Leaves Sum](./problems/1300-1399/1302/README.md) | :o: | Medium | [bfs],[tr] |   |
 | 1303 | [Find the Team Size](./problems/1300-1399/1303/README.md)                                                              | :lock: | Easy   |                                                             |      |
 | 1304 | [Find N Unique Integers Sum up to Zero](./problems/1300-1399/1304/README.md)                                           |        | Easy   |                                                             |      |
 | 1305 | [All Elements in Two Binary Search Trees](./problems/1300-1399/1305/README.md)                                         |        | Medium |                                                             |      |

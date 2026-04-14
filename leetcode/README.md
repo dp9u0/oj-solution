@@ -2427,7 +2427,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2411 | [Smallest Subarrays With Maximum Bitwise OR](./problems/2400-2499/2411/README.md) | :o: | Medium | [arr],[bit] | :+1:  |
 | 2412 | [Minimum Money Required Before Transactions](./problems/2400-2499/2412/README.md)                                      |        | Hard   |                                                             |      |
 | 2413 | [Smallest Even Multiple](./problems/2400-2499/2413/README.md)                                                          |        | Easy   |                                                             |      |
-| 2414 | [Length of the Longest Alphabetical Continuous Substring](./problems/2400-2499/2414/README.md)                         |        | Medium |                                                             |      |
+| 2414 | [Length of the Longest Alphabetical Continuous Substring](./problems/2400-2499/2414/README.md) | :o: | Medium | [str] |   |
 | 2415 | [Reverse Odd Levels of Binary Tree](./problems/2400-2499/2415/README.md)                                               |        | Medium |                                                             |      |
 | 2416 | [Sum of Prefix Scores of Strings](./problems/2400-2499/2416/README.md)                                                 |        | Hard   |                                                             |      |
 | 2417 | [Closest Fair Integer](./problems/2400-2499/2417/README.md)                                                            | :lock: | Medium |                                                             |      |

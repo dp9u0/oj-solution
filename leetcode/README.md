@@ -1614,7 +1614,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1539 | [Kth Missing Positive Number](./problems/1500-1599/1539/README.md)                                                     |        | Easy   |                                                             |      |
 | 1540 | [Can Convert String in K Moves](./problems/1500-1599/1540/README.md)                                                   |        | Medium |                                                             |      |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](./problems/1500-1599/1541/README.md)                              | :o:    | Medium | [arr],[greedy]                                              |      |
-| 1542 | [Find Longest Awesome Substring](./problems/1500-1599/1542/README.md)                                                  |        | Hard   |                                                             |      |
+| 1542 | [Find Longest Awesome Substring](./problems/1500-1599/1542/README.md) | :o: | Hard | [bit],[str],[+1] |   |
 | 1543 | [Fix Product Name Format](./problems/1500-1599/1543/README.md)                                                         | :lock: | Easy   |                                                             |      |
 | 1544 | [Make The String Great](./problems/1500-1599/1544/README.md) | :o: | Easy | [arr] |   |
 | 1545 | [Find Kth Bit in Nth Binary String](./problems/1500-1599/1545/README.md)                                               |        | Medium |                                                             |      |

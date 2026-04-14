@@ -2315,7 +2315,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2299 | [Strong Password Checker II](./problems/2200-2299/2299/README.md)                                                      |        | Easy   |                                                             |      |
 | 2300 | [Successful Pairs of Spells and Potions](./problems/2300-2399/2300/README.md)                                          |        | Medium |                                                             |      |
 | 2301 | [Match Substring After Replacement](./problems/2300-2399/2301/README.md)                                               |        | Hard   |                                                             |      |
-| 2302 | [Count Subarrays With Score Less Than K](./problems/2300-2399/2302/README.md)                                          |        | Hard   |                                                             |      |
+| 2302 | [Count Subarrays With Score Less Than K](./problems/2300-2399/2302/README.md) | :o: | Hard | [tp] |   |
 | 2303 | [2303](./problems/2300-2399/2303/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2304 | [2304](./problems/2300-2399/2304/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2305 | [2305](./problems/2300-2399/2305/README.md)                                                                            |        | Easy   |                                                             |      |

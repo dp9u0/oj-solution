@@ -3184,7 +3184,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3156 | [Employee Task Duration and Concurrent Tasks](./problems/3100-3199/3156/README.md)                                     | :lock: | Hard   |                                                             |      |
 | 3157 | [Find the Level of Tree with Minimum Sum](./problems/3100-3199/3157/README.md)                                         | :lock: | Medium |                                                             |      |
 | 3158 | [Find the XOR of Numbers Which Appear Twice](./problems/3100-3199/3158/README.md)                                      |        | Easy   |                                                             |      |
-| 3159 | [Find Occurrences of an Element in an Array](./problems/3100-3199/3159/README.md)                                      |        | Medium |                                                             |      |
+| 3159 | [Find Occurrences of an Element in an Array](./problems/3100-3199/3159/README.md) | :o: | Medium | [arr] |   |
 | 3160 | [Find the Number of Distinct Colors Among the Balls](./problems/3100-3199/3160/README.md)                              | :o:    | Medium | [hash]                                         |      |
 | 3161 | [Block Placement Queries](./problems/3100-3199/3161/README.md)                                                         |        | Hard   |                                                             |      |
 | 3162 | [Find the Number of Good Pairs I](./problems/3100-3199/3162/README.md)                                                 |        | Easy   |                                                             |      |

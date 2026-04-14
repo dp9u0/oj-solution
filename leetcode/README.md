@@ -2292,7 +2292,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2276 | [Count Integers in Intervals](./problems/2200-2299/2276/README.md)                                                     |        | Hard   |                                                             |      |
 | 2277 | [Closest Node to Path in Tree](./problems/2200-2299/2277/README.md)                                                    | :lock: | Hard   |                                                             |      |
 | 2278 | [Percentage of Letter in String](./problems/2200-2299/2278/README.md)                                                  |        | Easy   |                                                             |      |
-| 2279 | [Maximum Bags With Full Capacity of Rocks](./problems/2200-2299/2279/README.md)                                        |        | Medium |                                                             |      |
+| 2279 | [Maximum Bags With Full Capacity of Rocks](./problems/2200-2299/2279/README.md) | :o: | Medium | [arr],[greedy] |   |
 | 2280 | [Minimum Lines to Represent a Line Chart](./problems/2200-2299/2280/README.md)                                         |        | Medium |                                                             |      |
 | 2281 | [Sum of Total Strength of Wizards](./problems/2200-2299/2281/README.md)                                                |        | Hard   |                                                             |      |
 | 2282 | [Number of People That Can Be Seen in a Grid](./problems/2200-2299/2282/README.md)                                     | :lock: | Medium |                                                             |      |

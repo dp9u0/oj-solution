@@ -2229,7 +2229,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2213 | [Longest Substring of One Repeating Character](./problems/2200-2299/2213/README.md)                                    |        | Hard   |                                                             |      |
 | 2214 | [Minimum Health to Beat Game](./problems/2200-2299/2214/README.md)                                                     | :lock: | Medium |                                                             |      |
 | 2215 | [2215](./problems/2200-2299/2215/README.md)                                                                            |        | Easy   |                                                             |      |
-| 2216 | [2216](./problems/2200-2299/2216/README.md)                                                                            |        | Easy   |                                                             |      |
+| 2216 | [2216](./problems/2200-2299/2216/README.md) | :o: | Medium | [arr],[greedy] |   |
 | 2217 | [2217](./problems/2200-2299/2217/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2218 | [2218](./problems/2200-2299/2218/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2219 | [Maximum Sum Score of Array](./problems/2200-2299/2219/README.md)                                                      | :lock: | Medium |                                                             |      |

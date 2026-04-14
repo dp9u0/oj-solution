@@ -1981,7 +1981,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1965 | [Employees With Missing Information](./problems/1900-1999/1965/README.md)                                              | :lock: | Easy   |                                                             |      |
 | 1966 | [Binary Searchable Numbers in an Unsorted Array](./problems/1900-1999/1966/README.md)                                  | :lock: | Medium |                                                             |      |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./problems/1900-1999/1967/README.md)                             |        | Easy   |                                                             |      |
-| 1968 | [Array With Elements Not Equal to Average of Neighbors](./problems/1900-1999/1968/README.md)                           |        | Medium |                                                             |      |
+| 1968 | [Array With Elements Not Equal to Average of Neighbors](./problems/1900-1999/1968/README.md) | :o: | Medium | [arr],[sort] |   |
 | 1969 | [Minimum Non-Zero Product of the Array Elements](./problems/1900-1999/1969/README.md)                                  |        | Medium |                                                             |      |
 | 1970 | [Last Day Where You Can Still Cross](./problems/1900-1999/1970/README.md)                                              |        | Hard   |                                                             |      |
 | 1971 | [Find if Path Exists in Graph](./problems/1900-1999/1971/README.md)                                                    |        | Easy   |                                                             |      |

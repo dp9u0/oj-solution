@@ -1574,7 +1574,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1499 | [Max Value of Equation](./problems/1400-1499/1499/README.md)                                                           |        | Hard   |                                                             |      |
 | 1500 | [Design a File Sharing System](./problems/1500-1599/1500/README.md)                                                    | :lock: | Medium |                                                             |      |
 | 1501 | [Countries You Can Safely Invest In](./problems/1500-1599/1501/README.md)                                              | :lock: | Medium |                                                             |      |
-| 1502 | [Can Make Arithmetic Progression From Sequence](./problems/1500-1599/1502/README.md)                                   |        | Easy   |                                                             |      |
+| 1502 | [Can Make Arithmetic Progression From Sequence](./problems/1500-1599/1502/README.md) | :o: | Easy | [arr],[sort] |   |
 | 1503 | [Last Moment Before All Ants Fall Out of a Plank](./problems/1500-1599/1503/README.md) | :o: | Medium | [arr],[greedy] |   |
 | 1504 | [Count Submatrices With All Ones](./problems/1500-1599/1504/README.md)                                                 |        | Medium |                                                             |      |
 | 1505 | [Minimum Possible Integer After at Most K Adjacent Swaps On Digits](./problems/1500-1599/1505/README.md)               |        | Hard   |                                                             |      |

@@ -1477,7 +1477,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1402 | [Reducing Dishes](./problems/1400-1499/1402/README.md)                                                                 | :o:    | Hard   | [math]                                                      |      |
 | 1403 | [Minimum Subsequence in Non-Increasing Order](./problems/1400-1499/1403/README.md)                                     |        | Easy   |                                                             |      |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](./problems/1400-1499/1404/README.md)              |        | Medium |                                                             |      |
-| 1405 | [Longest Happy String](./problems/1400-1499/1405/README.md)                                                            |        | Medium |                                                             |      |
+| 1405 | [Longest Happy String](./problems/1400-1499/1405/README.md) | :o: | Medium | [greedy],[str] |   |
 | 1406 | [Stone Game III](./problems/1400-1499/1406/README.md)                                                                  |        | Hard   |                                                             |      |
 | 1407 | [Top Travellers](./problems/1400-1499/1407/README.md)                                                                  | :lock: | Easy   |                                                             |      |
 | 1408 | [String Matching in an Array](./problems/1400-1499/1408/README.md)                                                     |        | Easy   |                                                             |      |

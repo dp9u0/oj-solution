@@ -968,7 +968,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 891  | [Sum of Subsequence Widths](./problems/800-899/891/README.md)                                                          |        | Hard   |                                                             |      |
 | 892  | [Surface Area of 3D Shapes](./problems/800-899/892/README.md)                                                          | :o:    | Easy   | [arr]                                                       |      |
 | 893  | [Groups of Special-Equivalent Strings](./problems/800-899/893/README.md)                                               | :o:    | Easy   | [hsh]                                                       |      |
-| 894  | [All Possible Full Binary Trees](./problems/800-899/894/README.md)                                                     |        | Medium |                                                             |      |
+| 894 | [All Possible Full Binary Trees](./problems/800-899/894/README.md) | :o: | Medium | [bt] |   |
 | 895  | [Maximum Frequency Stack](./problems/800-899/895/README.md)                                                            |        | Hard   |                                                             |      |
 | 896  | [Monotonic Array](./problems/800-899/896/README.md)                                                                    | :o:    | Easy   | [arr]                                                       |      |
 | 897  | [Increasing Order Search Tree](./problems/800-899/897/README.md)                                                       | :o:    | Easy   | [tr]                                                        |      |

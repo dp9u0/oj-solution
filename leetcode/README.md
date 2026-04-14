@@ -3316,7 +3316,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3288 | [Length of the Longest Increasing Path](./problems/3200-3299/3288/README.md)                                           |        | Hard   |                                                             |      |
 | 3289 | [The Two Sneaky Numbers of Digitville](./problems/3200-3299/3289/README.md)                                            |        | Easy   |                                                             |      |
 | 3290 | [Maximum Multiplication Score](./problems/3200-3299/3290/README.md)                                                    |        | Medium |                                                             |      |
-| 3291 | [Minimum Number of Valid Strings to Form Target I](./problems/3200-3299/3291/README.md)                                |        | Medium |                                                             |      |
+| 3291 | [Minimum Number of Valid Strings to Form Target I](./problems/3200-3299/3291/README.md) | :o: | Medium | [hsh],[dp] |   |
 | 3292 | [Minimum Number of Valid Strings to Form Target II](./problems/3200-3299/3292/README.md)                               |        | Hard   |                                                             |      |
 | 3293 | [Calculate Product Final Price](./problems/3200-3299/3293/README.md)                                                   | :lock: | Medium |                                                             |      |
 | 3294 | [Convert Doubly Linked List to Array II](./problems/3200-3299/3294/README.md)                                          | :lock: | Medium |                                                             |      |

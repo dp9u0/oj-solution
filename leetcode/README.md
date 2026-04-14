@@ -2285,7 +2285,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2257 | [Count Unguarded Cells in the Grid](./problems/2200-2299/2257/README.md)                                               |        | Medium |                                                             |      |
 | 2258 | [Escape the Spreading Fire](./problems/2200-2299/2258/README.md)                                                       |        | Hard   |                                                             |      |
 | 2259 | [Remove Digit From Number to Maximize Result](./problems/2200-2299/2259/README.md)                                     |        | Easy   |                                                             |      |
-| 2260 | [Minimum Consecutive Cards to Pick Up](./problems/2200-2299/2260/README.md)                                            |        | Medium |                                                             |      |
+| 2260 | [Minimum Consecutive Cards to Pick Up](./problems/2200-2299/2260/README.md) | :o: | Medium | [hsh],[sd] |   |
 | 2261 | [K Divisible Elements Subarrays](./problems/2200-2299/2261/README.md)                                                  |        | Medium |                                                             |      |
 | 2262 | [Total Appeal of A String](./problems/2200-2299/2262/README.md) | :o: | Hard | [str] |   |
 | 2263 | [2263](./problems/2200-2299/2263/README.md)                                                                            |        | Easy   |                                                             |      |

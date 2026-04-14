@@ -3377,7 +3377,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3349 | [Adjacent Increasing Subarrays Detection I](./problems/3300-3399/3349/README.md)                                       |        | Easy   |                                                             |      |
 | 3350 | [Adjacent Increasing Subarrays Detection II](./problems/3300-3399/3350/README.md)                                      |        | Medium |                                                             |      |
 | 3351 | [Sum of Good Subsequences](./problems/3300-3399/3351/README.md)                                                        |        | Hard   |                                                             |      |
-| 3352 | [Count K-Reducible Numbers Less Than N](./problems/3300-3399/3352/README.md)                                           |        | Hard   |                                                             |      |
+| 3352 | [Count K-Reducible Numbers Less Than N](./problems/3300-3399/3352/README.md) | :o: | Hard | [dp],[bit],[math] |   |
 | 3353 | [Minimum Total Operations](./problems/3300-3399/3353/README.md)                                                        | :lock: | Easy   |                                                             |      |
 | 3354 | [Make Array Elements Equal to Zero](./problems/3300-3399/3354/README.md)                                               |        | Easy   |                                                             |      |
 | 3355 | [Zero Array Transformation I](./problems/3300-3399/3355/README.md)                                                     |        | Medium |                                                             |      |

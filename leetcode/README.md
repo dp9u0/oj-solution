@@ -3440,3 +3440,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1726 | [Tuple with Same Product](./problems/1700-1799/1726/README.md) | :o: | Medium | [arr],[hash] | :+1:  |
 | 3542 | [Minimum Operations to Convert All Elements to Zero](./problems/3500-3599/3542/README.md) | :o: | Medium | [stack] |   |
 | 3690 | [Split and Merge Array Transformation](./problems/3600-3699/3690/README.md) | :o: | Medium | [bfs] |   |
+| 3723 | [Maximize Sum of Squares of Digits](./problems/3700-3799/3723/README.md) | :o: | Medium | [greedy] |   |

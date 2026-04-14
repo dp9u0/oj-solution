@@ -1384,7 +1384,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1309 | [Decrypt String from Alphabet to Integer Mapping](./problems/1300-1399/1309/README.md)                                 |        | Easy   |                                                             |      |
 | 1310 | [XOR Queries of a Subarray](./problems/1300-1399/1310/README.md) | :o: | Medium | [arr],[bit] | :+1:  |
 | 1311 | [Get Watched Videos by Your Friends](./problems/1300-1399/1311/README.md)                                              |        | Medium |                                                             |      |
-| 1312 | [Minimum Insertion Steps to Make a String Palindrome](./problems/1300-1399/1312/README.md)                             |        | Hard   |                                                             |      |
+| 1312 | [Minimum Insertion Steps to Make a String Palindrome](./problems/1300-1399/1312/README.md) | :o: | Hard | [str],[dp],[+1] |   |
 | 1313 | [Decompress Run-Length Encoded List](./problems/1300-1399/1313/README.md)                                              | :o:    | Easy   | [arr]                                                       |      |
 | 1314 | [Matrix Block Sum](./problems/1300-1399/1314/README.md) | :o: | Medium | [arr],[dp] |   |
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](./problems/1300-1399/1315/README.md) | :o: | Medium | [tr],[dfs] |   |

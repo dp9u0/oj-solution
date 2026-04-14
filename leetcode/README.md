@@ -3133,7 +3133,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./problems/3100-3199/3105/README.md)                     |        | Easy   |                                                             |      |
 | 3106 | [Lexicographically Smallest String After Operations With Constraint](./problems/3100-3199/3106/README.md)              |        | Medium |                                                             |      |
 | 3107 | [Minimum Operations to Make Median of Array Equal to K](./problems/3100-3199/3107/README.md)                           |        | Medium |                                                             |      |
-| 3108 | [Minimum Cost Walk in Weighted Graph](./problems/3100-3199/3108/README.md)                                             |        | Hard   |                                                             |      |
+| 3108 | [Minimum Cost Walk in Weighted Graph](./problems/3100-3199/3108/README.md) | :o: | Hard | [grf],[ds] | :+1:  |
 | 3109 | [Find the Index of Permutation](./problems/3100-3199/3109/README.md)                                                   | :lock: | Medium |                                                             |      |
 | 3110 | [Score of a String](./problems/3100-3199/3110/README.md)                                                               | :o:    | Easy   | [str]                                                       |      |
 | 3111 | [Minimum Rectangles to Cover Points](./problems/3100-3199/3111/README.md)                                              |        | Medium |                                                             |      |

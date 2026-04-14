@@ -587,7 +587,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 505  | [The Maze II](./problems/500-599/505/README.md)                                                                        | :lock: | Medium |                                                             |      |
 | 506  | [Relative Ranks](./problems/500-599/506/README.md)                                                                     | :o:    | Easy   | [map]                                                       |      |
 | 507  | [Perfect Number](./problems/500-599/507/README.md)                                                                     | :o:    | Easy   | [math]                                                      |      |
-| 508  | [Most Frequent Subtree Sum](./problems/500-599/508/README.md)                                                          |        | Medium |                                                             |      |
+| 508 | [Most Frequent Subtree Sum](./problems/500-599/508/README.md) | :o: | Medium | [tr],[dfs] |   |
 | 509  | [Fibonacci Number](./problems/500-599/509/README.md)                                                                   | :o:    | Level  | [math]                                                      |      |
 | 513  | [Find Bottom Left Tree Value](./problems/500-599/513/README.md)                                                        |        | Medium |                                                             |      |
 | 514  | [Freedom Trail](./problems/500-599/514/README.md)                                                                      |        | Hard   |                                                             |      |

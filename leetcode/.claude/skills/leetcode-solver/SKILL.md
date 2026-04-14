@@ -87,6 +87,31 @@ pnpm run ok [tags]
 
 （注意：tags 需要用逗号分隔，不要带方括号，例如：`pnpm run ok arr,dp`）
 
+可用的tag如下
+
+* [arr] : array
+* [bt] : bt
+* [bs] : binary_search
+* [bit] : bit_manipulation
+* [bfs] : breadth_first_search
+* [dfs] : depth_first_search
+* [des] : design
+* [dc] : divide_and_conquer
+* [dp] : dp
+* [ds] : data structure
+* [grd] : greed
+* [grf] : graph
+* [hsh] : hash
+* [hp] : heap
+* [ll] : linked_list
+* [lgc] : if else switch
+* [math] : math
+* [q] : quque
+* [sd] : slide window
+* [stk] : stack
+* [str] : string
+* [tr] : tree
+* [tp] : two_pointers
 ### 7. Git 提交 (Commit)
 
 完成 `pnpm run ok` 后，创建 git 提交：

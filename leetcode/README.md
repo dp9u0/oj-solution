@@ -1876,7 +1876,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1860 | [Incremental Memory Leak](./problems/1800-1899/1860/README.md)                                                         |        | Medium |                                                             |      |
 | 1861 | [Rotating the Box](./problems/1800-1899/1861/README.md)                                                                |        | Medium |                                                             |      |
 | 1862 | [1862](./problems/1800-1899/1862/README.md)                                                                            |        | Easy   |                                                             |      |
-| 1863 | [Sum of All Subset XOR Totals](./problems/1800-1899/1863/README.md)                                                    |        | Easy   |                                                             |      |
+| 1863 | [Sum of All Subset XOR Totals](./problems/1800-1899/1863/README.md) | :o: | Easy | [bit] |   |
 | 1864 | [Minimum Number of Swaps to Make the Binary String Alternating](./problems/1800-1899/1864/README.md)                   |        | Medium |                                                             |      |
 | 1865 | [Finding Pairs With a Certain Sum](./problems/1800-1899/1865/README.md)                                                |        | Medium |                                                             |      |
 | 1866 | [Number of Ways to Rearrange Sticks With K Sticks Visible](./problems/1800-1899/1866/README.md)                        |        | Hard   |                                                             |      |

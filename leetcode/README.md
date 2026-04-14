@@ -2887,7 +2887,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2871 | [Split Array Into Maximum Number of Subarrays](./problems/2800-2899/2871/README.md)                                    |        | Medium |                                                             |      |
 | 2872 | [Maximum Number of K-Divisible Components](./problems/2800-2899/2872/README.md)                                        |        | Hard   |                                                             |      |
 | 2873 | [Maximum Value of an Ordered Triplet I](./problems/2800-2899/2873/README.md)                                           |        | Easy   |                                                             |      |
-| 2874 | [Maximum Value of an Ordered Triplet II](./problems/2800-2899/2874/README.md)                                          |        | Medium |                                                             |      |
+| 2874 | [Maximum Value of an Ordered Triplet II](./problems/2800-2899/2874/README.md) | :o: | Medium | [arr],[greedy] |   |
 | 2875 | [Minimum Size Subarray in Infinite Array](./problems/2800-2899/2875/README.md)                                         |        | Medium |                                                             |      |
 | 2876 | [Count Visited Nodes in a Directed Graph](./problems/2800-2899/2876/README.md)                                         |        | Hard   |                                                             |      |
 | 2877 | [2877](./problems/2800-2899/2877/README.md)                                                                            |        | Easy   |                                                             |      |

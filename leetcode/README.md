@@ -3458,3 +3458,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3427 | [Sum of Variable Length Subarrays](./problems/3400-3499/3427/README.md) | :o: | Easy | [arr] |   |
 | 3658 | [GCD of Odd and Even Sums](./problems/3600-3699/3658/README.md) | :o: | Easy | [math] |   |
 | 3492 | [Maximum Containers on a Ship](./problems/3400-3499/3492/README.md) | :o: | Easy | [math] |   |
+| 3478 | [Choose K Elements With Maximum Sum](./problems/3400-3499/3478/README.md) | :o: | Medium | [hp],[grd] |   |

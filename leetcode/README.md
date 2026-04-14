@@ -628,7 +628,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 551  | [Student Attendance Record I](./problems/500-599/551/README.md)                                                        | :o:    | Easy   | [str]                                                       | :-1: |
 | 552  | [Student Attendance Record II](./problems/500-599/552/README.md)                                                       |        | Hard   |                                                             |      |
 | 553  | [Optimal Division](./problems/500-599/553/README.md)                                                                   |        | Medium |                                                             |      |
-| 554  | [Brick Wall](./problems/500-599/554/README.md)                                                                         |        | Medium |                                                             |      |
+| 554 | [Brick Wall](./problems/500-599/554/README.md) | :o: | Medium | [hsh] |   |
 | 555  | [Split Concatenated Strings](./problems/500-599/555/README.md)                                                         | :lock: | Medium |                                                             |      |
 | 556  | [Next Greater Element III](./problems/500-599/556/README.md)                                                           |        | Medium |                                                             |      |
 | 557  | [Reverse Words in a String III](./problems/500-599/557/README.md)                                                      | :o:    | Easy   | [str]                                                       |      |

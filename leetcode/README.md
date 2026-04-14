@@ -1428,7 +1428,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1353 | [Maximum Number of Events That Can Be Attended](./problems/1300-1399/1353/README.md)                                   |        | Medium |                                                             |      |
 | 1354 | [Construct Target Array With Multiple Sums](./problems/1300-1399/1354/README.md)                                       |        | Hard   |                                                             |      |
 | 1355 | [Activity Participants](./problems/1300-1399/1355/README.md)                                                           | :lock: | Medium |                                                             |      |
-| 1356 | [Sort Integers by The Number of 1 Bits](./problems/1300-1399/1356/README.md)                                           |        | Easy   |                                                             |      |
+| 1356 | [Sort Integers by The Number of 1 Bits](./problems/1300-1399/1356/README.md) | :o: | Easy | [arr],[bit] |   |
 | 1357 | [Apply Discount Every n Orders](./problems/1300-1399/1357/README.md)                                                   |        | Medium |                                                             |      |
 | 1358 | [Number of Substrings Containing All Three Characters](./problems/1300-1399/1358/README.md) | :o: | Medium | [str],[tp] | :+1:  |
 | 1359 | [Count All Valid Pickup and Delivery Options](./problems/1300-1399/1359/README.md) | :o: | Hard | [math],[dp] |   |

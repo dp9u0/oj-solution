@@ -2252,7 +2252,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2224 | [Minimum Number of Operations to Convert Time](./problems/2200-2299/2224/README.md)                                    |        | Easy   |                                                             |      |
 | 2225 | [2225](./problems/2200-2299/2225/README.md)                                                                            | :o:    | Medium | [arr],[hash]                                                |      |
 | 2226 | [2226](./problems/2200-2299/2226/README.md)                                                                            | :o:    | Medium | [arr],[bs]                                                  | :+1: |
-| 2227 | [2227](./problems/2200-2299/2227/README.md)                                                                            |        | Easy   |                                                             |      |
+| 2227 | [2227](./problems/2200-2299/2227/README.md) | :o: | Hard | [des],[hsh] |   |
 | 2228 | [Users With Two Purchases Within Seven Days](./problems/2200-2299/2228/README.md)                                      | :lock: | Medium |                                                             |      |
 | 2229 | [2229](./problems/2200-2299/2229/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2230 | [The Users That Are Eligible for Discount](./problems/2200-2299/2230/README.md)                                        | :lock: | Easy   |                                                             |      |

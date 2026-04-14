@@ -902,7 +902,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 825  | [Friends Of Appropriate Ages](./problems/800-899/825/README.md)                                                        |        | Medium |                                                             |      |
 | 826  | [Most Profit Assigning Work](./problems/800-899/826/README.md)                                                         |        | Medium |                                                             |      |
 | 827  | [Making A Large Island](./problems/800-899/827/README.md)                                                              |        | Hard   |                                                             |      |
-| 828  | [Unique Letter String](./problems/800-899/828/README.md)                                                               |        | Hard   |                                                             |      |
+| 828 | [Unique Letter String](./problems/800-899/828/README.md) | :o: | Hard | [str] |   |
 | 829  | [Consecutive Numbers Sum](./problems/800-899/829/README.md)                                                            |        | Hard   |                                                             |      |
 | 830  | [Positions of Large Groups](./problems/800-899/830/README.md)                                                          | :o:    | Easy   | [arr]                                                       |      |
 | 831  | [Masking Personal Information](./problems/800-899/831/README.md)                                                       |        | Medium |                                                             |      |

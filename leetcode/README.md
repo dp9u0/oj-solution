@@ -1523,7 +1523,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1448 | [Count Good Nodes in Binary Tree](./problems/1400-1499/1448/README.md)                                                 | :o:    | Medium | [tr],[dfs]                                                  |      |
 | 1449 | [Form Largest Integer With Digits That Add up to Target](./problems/1400-1499/1449/README.md)                          |        | Hard   |                                                             |      |
 | 1450 | [Number of Students Doing Homework at a Given Time](./problems/1400-1499/1450/README.md)                               |        | Easy   |                                                             |      |
-| 1451 | [Rearrange Words in a Sentence](./problems/1400-1499/1451/README.md)                                                   |        | Medium |                                                             |      |
+| 1451 | [Rearrange Words in a Sentence](./problems/1400-1499/1451/README.md) | :o: | Medium | [str] |   |
 | 1452 | [People Whose List of Favorite Companies Is Not a Subset of Another List](./problems/1400-1499/1452/README.md)         |        | Medium |                                                             |      |
 | 1453 | [Maximum Number of Darts Inside of a Circular Dartboard](./problems/1400-1499/1453/README.md)                          |        | Hard   |                                                             |      |
 | 1454 | [Active Users](./problems/1400-1499/1454/README.md)                                                                    | :lock: | Medium |                                                             |      |

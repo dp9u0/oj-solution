@@ -3455,3 +3455,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3544 | [Subtree Inversion Sum](./problems/3500-3599/3544/README.md) | :o: | Hard | [dp],[tr] |   |
 | 1753 | [Maximum Score From Removing Stones](./problems/1700-1799/1753/README.md) | :o: | Medium | [math],[grd] |   |
 | 1743 | [Restore the Array From Adjacent Pairs](./problems/1700-1799/1743/README.md) | :o: | Medium | [grf],[dfs] |   |
+| 3427 | [Sum of Variable Length Subarrays](./problems/3400-3499/3427/README.md) | :o: | Easy | [arr] |   |

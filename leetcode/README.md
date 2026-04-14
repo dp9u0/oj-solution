@@ -1590,7 +1590,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1515 | [Best Position for a Service Centre](./problems/1500-1599/1515/README.md)                                              |        | Hard   |                                                             |      |
 | 1516 | [Move Sub-Tree of N-Ary Tree](./problems/1500-1599/1516/README.md)                                                     | :lock: | Hard   |                                                             |      |
 | 1517 | [Find Users With Valid E-Mails](./problems/1500-1599/1517/README.md)                                                   | :lock: | Easy   |                                                             |      |
-| 1518 | [Water Bottles](./problems/1500-1599/1518/README.md)                                                                   |        | Easy   |                                                             |      |
+| 1518 | [Water Bottles](./problems/1500-1599/1518/README.md) | :o: | Easy | [arr],[simulation] |   |
 | 1519 | [Number of Nodes in the Sub-Tree With the Same Label](./problems/1500-1599/1519/README.md)                             |        | Medium |                                                             |      |
 | 1520 | [Maximum Number of Non-Overlapping Substrings](./problems/1500-1599/1520/README.md)                                    |        | Hard   |                                                             |      |
 | 1521 | [Find a Value of a Mysterious Function Closest to Target](./problems/1500-1599/1521/README.md)                         |        | Hard   |                                                             |      |

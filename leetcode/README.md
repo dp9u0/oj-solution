@@ -2121,7 +2121,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2093 | [Minimum Cost to Reach City With Discounts](./problems/2000-2099/2093/README.md)                                       | :lock: | Medium |                                                             |      |
 | 2094 | [Finding 3-Digit Even Numbers](./problems/2000-2099/2094/README.md)                                                    | :o:    | Easy   | [arr]                                                       |      |
 | 2095 | [Delete the Middle Node of a Linked List](./problems/2000-2099/2095/README.md)                                         | :o:    | Medium | [ll],[tp]                                                   | :+1: |
-| 2096 | [Step-By-Step Directions From a Binary Tree Node to Another](./problems/2000-2099/2096/README.md)                      |        | Medium |                                                             |      |
+| 2096 | [Step-By-Step Directions From a Binary Tree Node to Another](./problems/2000-2099/2096/README.md) | :o: | Medium | [tr] |   |
 | 2097 | [Valid Arrangement of Pairs](./problems/2000-2099/2097/README.md)                                                      |        | Hard   |                                                             |      |
 | 2098 | [Subsequence of Size K With the Largest Even Sum](./problems/2000-2099/2098/README.md)                                 | :lock: | Medium |                                                             |      |
 | 2099 | [Find Subsequence of Length K With the Largest Sum](./problems/2000-2099/2099/README.md)                               |        | Easy   |                                                             |      |

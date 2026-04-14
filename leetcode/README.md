@@ -1519,7 +1519,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1444 | [Number of Ways of Cutting a Pizza](./problems/1400-1499/1444/README.md)                                               |        | Hard   |                                                             |      |
 | 1445 | [Apples & Oranges](./problems/1400-1499/1445/README.md)                                                                | :lock: | Medium |                                                             |      |
 | 1446 | [Consecutive Characters](./problems/1400-1499/1446/README.md)                                                          |        | Easy   |                                                             |      |
-| 1447 | [Simplified Fractions](./problems/1400-1499/1447/README.md)                                                            |        | Medium |                                                             |      |
+| 1447 | [Simplified Fractions](./problems/1400-1499/1447/README.md) | :o: | Medium | [math] |   |
 | 1448 | [Count Good Nodes in Binary Tree](./problems/1400-1499/1448/README.md)                                                 | :o:    | Medium | [tr],[dfs]                                                  |      |
 | 1449 | [Form Largest Integer With Digits That Add up to Target](./problems/1400-1499/1449/README.md)                          |        | Hard   |                                                             |      |
 | 1450 | [Number of Students Doing Homework at a Given Time](./problems/1400-1499/1450/README.md)                               |        | Easy   |                                                             |      |

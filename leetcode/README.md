@@ -3447,3 +3447,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3884 | [First Matching Character From Both Ends](./problems/3800-3899/3884/README.md)                                         | :o:    | Easy   | [arr]                                                       |      |
 | 3890 | [Integers With Multiple Sum of Two Cubes](./problems/3800-3899/3890/README.md)                                         | :o:    | Medium | [arr],[hash]                                                |      |
 | 3397 | [Maximum Number of Distinct Elements After Operations](./problems/3300-3399/3397/README.md)                            | :o:    | Medium | [arr],[greedy]                                              |      |
+| 3594 | [Minimum Time to Transport All Individuals](./problems/3500-3599/3594/README.md) | :o: | Hard | [dp],[grf] |   |

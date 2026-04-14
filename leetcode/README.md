@@ -1772,7 +1772,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1697 | [Checking Existence of Edge Length Limited Paths](./problems/1600-1699/1697/README.md)                                 |        | Hard   |                                                             |      |
 | 1698 | [Number of Distinct Substrings in a String](./problems/1600-1699/1698/README.md)                                       | :lock: | Medium |                                                             |      |
 | 1699 | [Number of Calls Between Two Persons](./problems/1600-1699/1699/README.md)                                             | :lock: | Medium |                                                             |      |
-| 1700 | [Number of Students Unable to Eat Lunch](./problems/1700-1799/1700/README.md)                                          |        | Easy   |                                                             |      |
+| 1700 | [Number of Students Unable to Eat Lunch](./problems/1700-1799/1700/README.md) | :o: | Easy | [arr],[queue],[simulation] |   |
 | 1701 | [Average Waiting Time](./problems/1700-1799/1701/README.md)                                                            |        | Medium |                                                             |      |
 | 1702 | [Maximum Binary String After Change](./problems/1700-1799/1702/README.md)                                              |        | Medium |                                                             |      |
 | 1703 | [Minimum Adjacent Swaps for K Consecutive Ones](./problems/1700-1799/1703/README.md)                                   |        | Hard   |                                                             |      |

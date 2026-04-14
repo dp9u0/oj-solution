@@ -2995,7 +2995,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2979 | [Most Expensive Item That Can Not Be Bought](./problems/2900-2999/2979/README.md)                                      | :lock: | Medium |                                                             |      |
 | 2980 | [Check if Bitwise OR Has Trailing Zeros](./problems/2900-2999/2980/README.md)                                          |        | Easy   |                                                             |      |
 | 2981 | [Find Longest Special Substring That Occurs Thrice I](./problems/2900-2999/2981/README.md)                             |        | Medium |                                                             |      |
-| 2982 | [Find Longest Special Substring That Occurs Thrice II](./problems/2900-2999/2982/README.md)                            |        | Medium |                                                             |      |
+| 2982 | [Find Longest Special Substring That Occurs Thrice II](./problems/2900-2999/2982/README.md) | :o: | Medium | [str] |   |
 | 2983 | [Palindrome Rearrangement Queries](./problems/2900-2999/2983/README.md)                                                |        | Hard   |                                                             |      |
 | 2984 | [Find Peak Calling Hours for Each City](./problems/2900-2999/2984/README.md)                                           | :lock: | Medium |                                                             |      |
 | 2985 | [Calculate Compressed Mean](./problems/2900-2999/2985/README.md)                                                       | :lock: | Easy   |                                                             |      |

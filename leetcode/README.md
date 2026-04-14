@@ -2397,7 +2397,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2381 | [Shifting Letters II](./problems/2300-2399/2381/README.md)                                                             |        | Medium |                                                             |      |
 | 2382 | [Maximum Segment Sum After Removals](./problems/2300-2399/2382/README.md)                                              |        | Hard   |                                                             |      |
 | 2383 | [Minimum Hours of Training to Win a Competition](./problems/2300-2399/2383/README.md)                                  |        | Easy   |                                                             |      |
-| 2384 | [Largest Palindromic Number](./problems/2300-2399/2384/README.md)                                                      |        | Medium |                                                             |      |
+| 2384 | [Largest Palindromic Number](./problems/2300-2399/2384/README.md) | :o: | Medium | [greedy] |   |
 | 2385 | [Amount of Time for Binary Tree to Be Infected](./problems/2300-2399/2385/README.md) | :o: | Medium | [tr],[bfs] |   |
 | 2386 | [Find the K-Sum of an Array](./problems/2300-2399/2386/README.md)                                                      |        | Hard   |                                                             |      |
 | 2387 | [Median of a Row Wise Sorted Matrix](./problems/2300-2399/2387/README.md)                                              | :lock: | Medium |                                                             |      |

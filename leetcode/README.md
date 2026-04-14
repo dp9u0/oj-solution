@@ -1381,7 +1381,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1306 | [Jump Game III](./problems/1300-1399/1306/README.md) | :o: | Medium | [arr],[bfs] |   |
 | 1307 | [Verbal Arithmetic Puzzle](./problems/1300-1399/1307/README.md)                                                        |        | Hard   |                                                             |      |
 | 1308 | [Running Total for Different Genders](./problems/1300-1399/1308/README.md)                                             | :lock: | Medium |                                                             |      |
-| 1309 | [Decrypt String from Alphabet to Integer Mapping](./problems/1300-1399/1309/README.md)                                 |        | Easy   |                                                             |      |
+| 1309 | [Decrypt String from Alphabet to Integer Mapping](./problems/1300-1399/1309/README.md) | :o: | Easy | [str] |   |
 | 1310 | [XOR Queries of a Subarray](./problems/1300-1399/1310/README.md) | :o: | Medium | [arr],[bit] | :+1:  |
 | 1311 | [Get Watched Videos by Your Friends](./problems/1300-1399/1311/README.md)                                              |        | Medium |                                                             |      |
 | 1312 | [Minimum Insertion Steps to Make a String Palindrome](./problems/1300-1399/1312/README.md) | :o: | Hard | [str],[dp],[+1] |   |

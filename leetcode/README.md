@@ -3456,3 +3456,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1753 | [Maximum Score From Removing Stones](./problems/1700-1799/1753/README.md) | :o: | Medium | [math],[grd] |   |
 | 1743 | [Restore the Array From Adjacent Pairs](./problems/1700-1799/1743/README.md) | :o: | Medium | [grf],[dfs] |   |
 | 3427 | [Sum of Variable Length Subarrays](./problems/3400-3499/3427/README.md) | :o: | Easy | [arr] |   |
+| 3658 | [GCD of Odd and Even Sums](./problems/3600-3699/3658/README.md) | :o: | Easy | [math] |   |

@@ -1025,7 +1025,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 948  | [Bag of Tokens](./problems/900-999/948/README.md)                                                                      |        | Medium |                                                             |      |
 | 949  | [Largest Time for Given Digits](./problems/900-999/949/README.md)                                                      | :o:    | Easy   | [lgc]                                                       | :-1: |
 | 950  | [Reveal Cards In Increasing Order](./problems/900-999/950/README.md)                                                   | :o:    | Medium | [arr],[sim]                                                 |      |
-| 951  | [Flip Equivalent Binary Trees](./problems/900-999/951/README.md)                                                       |        | Medium |                                                             |      |
+| 951 | [Flip Equivalent Binary Trees](./problems/900-999/951/README.md) | :o: | Medium | [tr],[dfs] |   |
 | 952  | [Largest Component Size by Common Factor](./problems/900-999/952/README.md)                                            |        | Hard   |                                                             |      |
 | 953  | [Verifying an Alien Dictionary](./problems/900-999/953/README.md)                                                      | :o:    | Easy   | [hsh]                                                       |      |
 | 954  | [Array of Doubled Pairs](./problems/900-999/954/README.md)                                                             |        | Medium |                                                             |      |

@@ -89,29 +89,30 @@ pnpm run ok [tags]
 
 可用的tag如下
 
-* [arr] : array
-* [bt] : bt
-* [bs] : binary_search
-* [bit] : bit_manipulation
-* [bfs] : breadth_first_search
-* [dfs] : depth_first_search
-* [des] : design
-* [dc] : divide_and_conquer
-* [dp] : dp
-* [ds] : data structure
-* [grd] : greed
-* [grf] : graph
-* [hsh] : hash
-* [hp] : heap
-* [ll] : linked_list
-* [lgc] : if else switch
-* [math] : math
-* [q] : quque
-* [sd] : slide window
-* [stk] : stack
-* [str] : string
-* [tr] : tree
-* [tp] : two_pointers
+- [arr] : array
+- [bt] : bt
+- [bs] : binary_search
+- [bit] : bit_manipulation
+- [bfs] : breadth_first_search
+- [dfs] : depth_first_search
+- [des] : design
+- [dc] : divide_and_conquer
+- [dp] : dp
+- [ds] : data structure
+- [grd] : greed
+- [grf] : graph
+- [hsh] : hash
+- [hp] : heap
+- [ll] : linked_list
+- [lgc] : if else switch
+- [math] : math
+- [q] : queue
+- [sd] : slide window
+- [stk] : stack
+- [str] : string
+- [tr] : tree
+- [tp] : two_pointers
+
 ### 7. Git 提交 (Commit)
 
 完成 `pnpm run ok` 后，创建 git 提交：
@@ -131,7 +132,7 @@ git add -A && git commit -m "feat: resolve leetcode <problem_number>"
 思路：xxxx
 
 ┌──────┬───────────────────────────────────────────┐
-│ 项目 │ 状态               │
+│ 项目 │ 状态 │
 ├──────┼───────────────────────────────────────────┤
 │ 题目 │ 3847. Find the Score Difference in a Game │
 ├──────┼───────────────────────────────────────────┤

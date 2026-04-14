@@ -3193,7 +3193,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3165 | [Maximum Sum of Subsequence With Non-adjacent Elements](./problems/3100-3199/3165/README.md)                           |        | Hard   |                                                             |      |
 | 3166 | [Calculate Parking Fees and Duration](./problems/3100-3199/3166/README.md)                                             | :lock: | Medium |                                                             |      |
 | 3167 | [Better Compression of String](./problems/3100-3199/3167/README.md)                                                    | :lock: | Medium |                                                             |      |
-| 3168 | [Minimum Number of Chairs in a Waiting Room](./problems/3100-3199/3168/README.md)                                      |        | Easy   |                                                             |      |
+| 3168 | [Minimum Number of Chairs in a Waiting Room](./problems/3100-3199/3168/README.md) | :o: | Easy | [lgc] |   |
 | 3169 | [Count Days Without Meetings](./problems/3100-3199/3169/README.md)                                                     |        | Medium |                                                             |      |
 | 3170 | [Lexicographically Minimum String After Removing Stars](./problems/3100-3199/3170/README.md)                           | :o:    | Medium | [stack]                                                     |      |
 | 3171 | [Find Subarray With Bitwise OR Closest to K](./problems/3100-3199/3171/README.md)                                      |        | Hard   |                                                             |      |

@@ -2776,7 +2776,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2748 | [Number of Beautiful Pairs](./problems/2700-2799/2748/README.md)                                                       |        | Easy   |                                                             |      |
 | 2749 | [Minimum Operations to Make the Integer Zero](./problems/2700-2799/2749/README.md)                                     |        | Medium |                                                             |      |
 | 2750 | [Ways to Split Array Into Good Subarrays](./problems/2700-2799/2750/README.md)                                         |        | Medium |                                                             |      |
-| 2751 | [Robot Collisions](./problems/2700-2799/2751/README.md)                                                                |        | Hard   |                                                             |      |
+| 2751 | [Robot Collisions](./problems/2700-2799/2751/README.md) | :o: | Hard | [stk] |   |
 | 2752 | [Customers with Maximum Number of Transactions on Consecutive Days](./problems/2700-2799/2752/README.md)               | :lock: | Hard   |                                                             |      |
 | 2753 | [Count Houses in a Circular Street II](./problems/2700-2799/2753/README.md)                                            | :lock: | Hard   |                                                             |      |
 | 2754 | [2754](./problems/2700-2799/2754/README.md)                                                                            |        | Easy   |                                                             |      |

@@ -2348,7 +2348,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2332 | [The Latest Time to Catch a Bus](./problems/2300-2399/2332/README.md)                                                  |        | Medium |                                                             |      |
 | 2333 | [Minimum Sum of Squared Difference](./problems/2300-2399/2333/README.md)                                               |        | Medium |                                                             |      |
 | 2334 | [Subarray With Elements Greater Than Varying Threshold](./problems/2300-2399/2334/README.md)                           |        | Hard   |                                                             |      |
-| 2335 | [Minimum Amount of Time to Fill Cups](./problems/2300-2399/2335/README.md)                                             |        | Easy   |                                                             |      |
+| 2335 | [Minimum Amount of Time to Fill Cups](./problems/2300-2399/2335/README.md) | :o: | Easy | [arr],[greedy] |   |
 | 2336 | [Smallest Number in Infinite Set](./problems/2300-2399/2336/README.md)                                                 |        | Medium |                                                             |      |
 | 2337 | [Move Pieces to Obtain a String](./problems/2300-2399/2337/README.md)                                                  |        | Medium |                                                             |      |
 | 2338 | [Count the Number of Ideal Arrays](./problems/2300-2399/2338/README.md)                                                |        | Hard   |                                                             |      |

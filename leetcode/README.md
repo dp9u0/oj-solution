@@ -710,7 +710,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 633  | [Sum of Square Numbers](./problems/600-699/633/README.md)                                                              | :o:    | Easy   | [math]                                                      |      |
 | 634  | [Find the Derangement of An Array](./problems/600-699/634/README.md)                                                   | :lock: | Medium |                                                             |      |
 | 635  | [Design Log Storage System](./problems/600-699/635/README.md)                                                          | :lock: | Medium |                                                             |      |
-| 636  | [Exclusive Time of Functions](./problems/600-699/636/README.md)                                                        |        | Medium |                                                             |      |
+| 636 | [Exclusive Time of Functions](./problems/600-699/636/README.md) | :o: | Medium | [stk] |   |
 | 637  | [Average of Levels in Binary Tree](./problems/600-699/637/README.md)                                                   | :o:    | Easy   | [tr]                                                        |      |
 | 638  | [Shopping Offers](./problems/600-699/638/README.md)                                                                    |        | Medium |                                                             |      |
 | 639  | [Decode Ways II](./problems/600-699/639/README.md)                                                                     |        | Hard   |                                                             |      |

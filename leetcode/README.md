@@ -1976,7 +1976,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1960 | [1960](./problems/1900-1999/1960/README.md)                                                                            |        | Easy   |                                                             |      |
 | 1961 | [Check If String Is a Prefix of Array](./problems/1900-1999/1961/README.md)                                            |        | Easy   |                                                             |      |
 | 1962 | [Remove Stones to Minimize the Total](./problems/1900-1999/1962/README.md) | :o: | Medium | [arr],[heap],[greedy] |   |
-| 1963 | [Minimum Number of Swaps to Make the String Balanced](./problems/1900-1999/1963/README.md)                             |        | Medium |                                                             |      |
+| 1963 | [Minimum Number of Swaps to Make the String Balanced](./problems/1900-1999/1963/README.md) | :o: | Medium | [stack] | :+1:  |
 | 1964 | [Find the Longest Valid Obstacle Course at Each Position](./problems/1900-1999/1964/README.md)                         |        | Hard   |                                                             |      |
 | 1965 | [Employees With Missing Information](./problems/1900-1999/1965/README.md)                                              | :lock: | Easy   |                                                             |      |
 | 1966 | [Binary Searchable Numbers in an Unsorted Array](./problems/1900-1999/1966/README.md)                                  | :lock: | Medium |                                                             |      |

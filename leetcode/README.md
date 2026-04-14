@@ -2414,7 +2414,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2398 | [Maximum Number of Robots Within Budget](./problems/2300-2399/2398/README.md)                                          |        | Hard   |                                                             |      |
 | 2399 | [Check Distances Between Same Letters](./problems/2300-2399/2399/README.md)                                            |        | Easy   |                                                             |      |
 | 2400 | [Number of Ways to Reach a Position After Exactly k Steps](./problems/2400-2499/2400/README.md)                        |        | Medium |                                                             |      |
-| 2401 | [Longest Nice Subarray](./problems/2400-2499/2401/README.md)                                                           |        | Medium |                                                             |      |
+| 2401 | [Longest Nice Subarray](./problems/2400-2499/2401/README.md) | :o: | Medium | [arr],[bit],[tp] |   |
 | 2402 | [Meeting Rooms III](./problems/2400-2499/2402/README.md)                                                               |        | Hard   |                                                             |      |
 | 2403 | [Minimum Time to Kill All Monsters](./problems/2400-2499/2403/README.md)                                               | :lock: | Hard   |                                                             |      |
 | 2404 | [Most Frequent Even Element](./problems/2400-2499/2404/README.md)                                                      |        | Easy   |                                                             |      |

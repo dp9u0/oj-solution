@@ -2141,7 +2141,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2113 | [Elements in Array After Removing and Replacing Elements](./problems/2100-2199/2113/README.md)                         | :lock: | Medium |                                                             |      |
 | 2114 | [Maximum Number of Words Found in Sentences](./problems/2100-2199/2114/README.md)                                      |        | Easy   |                                                             |      |
 | 2115 | [Find All Possible Recipes from Given Supplies](./problems/2100-2199/2115/README.md)                                   |        | Medium |                                                             |      |
-| 2116 | [Check if a Parentheses String Can Be Valid](./problems/2100-2199/2116/README.md)                                      |        | Medium |                                                             |      |
+| 2116 | [Check if a Parentheses String Can Be Valid](./problems/2100-2199/2116/README.md) | :o: | Medium | [grd] |   |
 | 2117 | [Abbreviating the Product of a Range](./problems/2100-2199/2117/README.md)                                             |        | Hard   |                                                             |      |
 | 2118 | [Build the Equation](./problems/2100-2199/2118/README.md)                                                              | :lock: | Hard   |                                                             |      |
 | 2119 | [A Number After a Double Reversal](./problems/2100-2199/2119/README.md)                                                |        | Easy   |                                                             |      |

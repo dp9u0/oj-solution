@@ -3385,7 +3385,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3357 | [Minimize the Maximum Adjacent Element Difference](./problems/3300-3399/3357/README.md)                                | :o:    | Hard   | [dp],[bs]                                                   |      |
 | 3358 | [Books with NULL Ratings](./problems/3300-3399/3358/README.md)                                                         | :lock: | Easy   |                                                             |      |
 | 3359 | [Find Sorted Submatrices With Maximum Element at Most K](./problems/3300-3399/3359/README.md)                          | :lock: | Hard   |                                                             |      |
-| 3360 | [Stone Removal Game](./problems/3300-3399/3360/README.md)                                                              |        | Easy   |                                                             |      |
+| 3360 | [Stone Removal Game](./problems/3300-3399/3360/README.md) | :o: | Easy | [lgc] |   |
 | 3361 | [Shift Distance Between Two Strings](./problems/3300-3399/3361/README.md)                                              |        | Medium |                                                             |      |
 | 3362 | [Zero Array Transformation III](./problems/3300-3399/3362/README.md)                                                   |        | Medium |                                                             |      |
 | 3363 | [Find the Maximum Number of Fruits Collected](./problems/3300-3399/3363/README.md)                                     |        | Hard   |                                                             |      |

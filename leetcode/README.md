@@ -3142,7 +3142,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3114 | [Latest Time You Can Obtain After Replacing Characters](./problems/3100-3199/3114/README.md)                           | :o:    | Easy   | [str],[lgc]                                                 |      |
 | 3115 | [Maximum Prime Difference](./problems/3100-3199/3115/README.md)                                                        |        | Medium |                                                             |      |
 | 3116 | [Kth Smallest Amount With Single Denomination Combination](./problems/3100-3199/3116/README.md)                        |        | Hard   |                                                             |      |
-| 3117 | [Minimum Sum of Values by Dividing Array](./problems/3100-3199/3117/README.md)                                         |        | Hard   |                                                             |      |
+| 3117 | [Minimum Sum of Values by Dividing Array](./problems/3100-3199/3117/README.md) | :o: | Hard | [dp],[bit] |   |
 | 3118 | [Friday Purchase III](./problems/3100-3199/3118/README.md)                                                             | :lock: | Medium |                                                             |      |
 | 3119 | [Maximum Number of Potholes That Can Be Fixed](./problems/3100-3199/3119/README.md)                                    | :lock: | Medium |                                                             |      |
 | 3120 | [Count the Number of Special Characters I](./problems/3100-3199/3120/README.md)                                        | :o:    | Easy   | [str],[hsh]                                                 |      |

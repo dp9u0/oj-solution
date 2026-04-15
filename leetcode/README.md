@@ -1492,7 +1492,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1417 | [Reformat The String](./problems/1400-1499/1417/README.md) | :o: | Easy | [str] |   |
 | 1418 | [Display Table of Food Orders in a Restaurant](./problems/1400-1499/1418/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 1419 | [Minimum Number of Frogs Croaking](./problems/1400-1499/1419/README.md)                                                |        | Medium |                                                             |      |
-| 1420 | [Build Array Where You Can Find The Maximum Exactly K Comparisons](./problems/1400-1499/1420/README.md)                |        | Hard   |                                                             |      |
+| 1420 | [Build Array Where You Can Find The Maximum Exactly K Comparisons](./problems/1400-1499/1420/README.md) | :o: | Hard | [dp],[math] | :+1:  |
 | 1421 | [NPV Queries](./problems/1400-1499/1421/README.md)                                                                     | :lock: | Medium |                                                             |      |
 | 1422 | [Maximum Score After Splitting a String](./problems/1400-1499/1422/README.md)                                          | :o:    | Easy   | [arr]                                                       |      |
 | 1423 | [Maximum Points You Can Obtain from Cards](./problems/1400-1499/1423/README.md)                                        | :o:    | Medium | [arr],[tp]                                                  | :+1: |

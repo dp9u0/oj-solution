@@ -3060,7 +3060,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3032 | [Count Numbers With Unique Digits II](./problems/3000-3099/3032/README.md)                                             | :lock: | Easy   |                                                             |      |
 | 3033 | [Modify the Matrix](./problems/3000-3099/3033/README.md) | :o: | Easy | [arr] |   |
 | 3034 | [Number of Subarrays That Match a Pattern I](./problems/3000-3099/3034/README.md)                                      |        | Medium |                                                             |      |
-| 3035 | [Maximum Palindromes After Operations](./problems/3000-3099/3035/README.md)                                            |        | Medium |                                                             |      |
+| 3035 | [Maximum Palindromes After Operations](./problems/3000-3099/3035/README.md) | :o: | Medium | [grd],[str] |   |
 | 3036 | [Number of Subarrays That Match a Pattern II](./problems/3000-3099/3036/README.md)                                     |        | Hard   |                                                             |      |
 | 3037 | [Find Pattern in Infinite Stream II](./problems/3000-3099/3037/README.md)                                              | :lock: | Hard   |                                                             |      |
 | 3038 | [Maximum Number of Operations With the Same Score I](./problems/3000-3099/3038/README.md)                              |        | Easy   |                                                             |      |

@@ -1448,7 +1448,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1373 | [Maximum Sum BST in Binary Tree](./problems/1300-1399/1373/README.md)                                                  |        | Hard   |                                                             |      |
 | 1374 | [Generate a String With Characters That Have Odd Counts](./problems/1300-1399/1374/README.md)                          | :o:    | Easy   | [str],[lgc]                                                 |      |
 | 1375 | [Bulb Switcher III](./problems/1300-1399/1375/README.md)                                                               | :o:    | Medium | [arr]                                                       |      |
-| 1376 | [Time Needed to Inform All Employees](./problems/1300-1399/1376/README.md)                                             |        | Medium |                                                             |      |
+| 1376 | [Time Needed to Inform All Employees](./problems/1300-1399/1376/README.md) | :o: | Medium | [tr],[dfs] |   |
 | 1377 | [Frog Position After T Seconds](./problems/1300-1399/1377/README.md)                                                   |        | Hard   |                                                             |      |
 | 1378 | [Replace Employee ID With The Unique Identifier](./problems/1300-1399/1378/README.md)                                  | :lock: | Easy   |                                                             |      |
 | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](./problems/1300-1399/1379/README.md)              |        | Medium |                                                             |      |

@@ -3130,7 +3130,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3102 | [Minimize Manhattan Distances](./problems/3100-3199/3102/README.md)                                                    |        | Hard   |                                                             |      |
 | 3103 | [Find Trending Hashtags II](./problems/3100-3199/3103/README.md)                                                       | :lock: | Hard   |                                                             |      |
 | 3104 | [Find Longest Self-Contained Substring](./problems/3100-3199/3104/README.md)                                           | :lock: | Hard   |                                                             |      |
-| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./problems/3100-3199/3105/README.md)                     |        | Easy   |                                                             |      |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./problems/3100-3199/3105/README.md) | :o: | Easy | [arr] |   |
 | 3106 | [Lexicographically Smallest String After Operations With Constraint](./problems/3100-3199/3106/README.md)              |        | Medium |                                                             |      |
 | 3107 | [Minimum Operations to Make Median of Array Equal to K](./problems/3100-3199/3107/README.md) | :o: | Medium | [arr],[grd] |   |
 | 3108 | [Minimum Cost Walk in Weighted Graph](./problems/3100-3199/3108/README.md) | :o: | Hard | [grf],[ds] | :+1:  |

@@ -3490,3 +3490,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3784 | [Minimum Deletion Cost to Make All Characters Equal](./problems/3700-3799/3784/README.md) | :o: | Medium | [grd],[str] |   |
 | 3857 | [Minimum Cost to Split into Ones](./problems/3800-3899/3857/README.md) | :o: | Medium | [math] |   |
 | 3394 | [Check if Grid can be Cut into Sections](./problems/3300-3399/3394/README.md) | :o: | Medium | [arr],[grd] |   |
+| 1752 | [Check if Array Is Sorted and Rotated](./problems/1700-1799/1752/README.md) | :o: | Easy | [arr] |   |

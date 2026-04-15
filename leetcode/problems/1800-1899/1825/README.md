@@ -1,0 +1,79 @@
+# [1825] Finding MK Average
+
+## Description
+
+[LeetCode Problem Description](https://leetcode.com/problems/finding-mk-average/description/)
+
+* algorithms
+* Hard (38.71%)
+* Likes:    529
+* Dislikes: 142
+* Testcase Example:  '["MKAverage","addElement","addElement","calculateMKAverage","addElement","calculateMKAverage","addElement","addElement","addElement","calculateMKAverage"]\n' +
+
+```md
+'[[3,1],[3],[1],[],[10],[],[5],[5],[5],[]]'
+You are given two integers, m and k, and a stream of integers. You are tasked to implement a data structure that calculates the MKAverage for the stream.
+The MKAverage can be calculated using these steps:
+
+If the number of the elements in the stream is less than m you should consider the MKAverage to be -1. Otherwise, copy the last m elements of the stream to a separate container.
+Remove the smallest k elements and the largest k elements from the container.
+Calculate the average value for the rest of the elements rounded down to the nearest integer.
+
+Implement the MKAverage class:
+
+MKAverage(int m, int k) Initializes the MKAverage object with an empty stream and the two integers m and k.
+void addElement(int num) Inserts a new element num into the stream.
+int calculateMKAverage() Calculates and returns the MKAverage for the current stream rounded down to the nearest integer.
+
+
+Example 1:
+
+Input
+['MKAverage', 'addElement', 'addElement', 'calculateMKAverage', 'addElement', 'calculateMKAverage', 'addElement', 'addElement', 'addElement', 'calculateMKAverage']
+[[3, 1], [3], [1], [], [10], [], [5], [5], [5], []]
+Output
+[null, null, null, -1, null, 3, null, null, null, 5]
+Explanation
+MKAverage obj = new MKAverage(3, 1);
+obj.addElement(3);        // current elements are [3]
+obj.addElement(1);        // current elements are [3,1]
+obj.calculateMKAverage(); // return -1, because m = 3 and only 2 elements exist.
+obj.addElement(10);       // current elements are [3,1,10]
+obj.calculateMKAverage(); // The last 3 elements are [3,1,10].
+// After removing smallest and largest 1 element the container will be [3].
+// The average of [3] equals 3/1 = 3, return 3
+obj.addElement(5);        // current elements are [3,1,10,5]
+obj.addElement(5);        // current elements are [3,1,10,5,5]
+obj.addElement(5);        // current elements are [3,1,10,5,5,5]
+obj.calculateMKAverage(); // The last 3 elements are [5,5,5].
+// After removing smallest and largest 1 element the container will be [5].
+// The average of [5] equals 5/1 = 5, return 5
+
+
+Constraints:
+
+3 <= m <= 105
+1 < k*2 < m
+1 <= num <= 105
+At most 105 calls will be made to addElement and calculateMKAverage.
+
+
+```
+
+## 题目翻译
+
+实现 MKAverage 数据结构，维护整数流，取最后 m 个元素，去掉最小 k 个和最大 k 个后求平均值（向下取整）。不足 m 个时返回 -1。
+
+## 解题思路
+
+滑动窗口 + 树状数组（BIT）。值域 [1, 10^5]，用两个 BIT 分别维护计数和前缀和。
+
+关键：middle_sum = sum_smallest(m-k) - sum_smallest(k)
+
+sum_smallest(cnt) 通过 BIT 二分查找第 cnt 小的值位置，然后计算前缀和。
+
+每个操作 O(log^2(MAX_VAL))。
+
+## Solution
+
+[SourceCode](./solution.js)

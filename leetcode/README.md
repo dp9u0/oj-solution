@@ -461,7 +461,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 379  | [Design Phone Directory](./problems/300-399/379/README.md)                                                             | :lock: | Medium |                                                             |      |
 | 380  | [Insert Delete GetRandom O(1)](./problems/300-399/380/README.md)                                                       | :o:    | Medium | [array],[hash_table]                                        |      |
 | 381  | [Insert Delete GetRandom O(1) - Duplicates allowed](./problems/300-399/381/README.md)                                  | :o:    | Hard   | [array],[hash_table]                                        |      |
-| 382  | [Linked List Random Node](./problems/300-399/382/README.md)                                                            |        | Medium |                                                             |      |
+| 382 | [Linked List Random Node](./problems/300-399/382/README.md) | :o: | Medium | [ll],[des] | :+1:  |
 | 383  | [Ransom Note](./problems/300-399/383/README.md)                                                                        | :o:    | Easy   | [hsh]                                                       |      |
 | 384  | [Shuffle an Array](./problems/300-399/384/README.md)                                                                   | :o:    | Medium | [arr],[math]                                                |      |
 | 385  | [Mini Parser](./problems/300-399/385/README.md)                                                                        |        | Medium |                                                             |      |

@@ -1406,7 +1406,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1331 | [Rank Transform of an Array](./problems/1300-1399/1331/README.md) | :o: | Easy | [arr],[bs] |   |
 | 1332 | [Remove Palindromic Subsequences](./problems/1300-1399/1332/README.md)                                                 |        | Easy   |                                                             |      |
 | 1333 | [Filter Restaurants by Vegan-Friendly, Price and Distance](./problems/1300-1399/1333/README.md)                        |        | Medium |                                                             |      |
-| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./problems/1300-1399/1334/README.md)     |        | Medium |                                                             |      |
+| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./problems/1300-1399/1334/README.md) | :o: | Medium | [grf] |   |
 | 1335 | [Minimum Difficulty of a Job Schedule](./problems/1300-1399/1335/README.md)                                            |        | Hard   |                                                             |      |
 | 1336 | [Number of Transactions per Visit](./problems/1300-1399/1336/README.md)                                                | :lock: | Hard   |                                                             |      |
 | 1337 | [The K Weakest Rows in a Matrix](./problems/1300-1399/1337/README.md) | :o: | Easy | [arr] |   |

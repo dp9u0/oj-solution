@@ -1296,7 +1296,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1221 | [Split a String in Balanced Strings](./problems/1200-1299/1221/README.md)                                              | :o:    | Easy   | [str],[greedy]                                              |      |
 | 1222 | [Queens That Can Attack the King](./problems/1200-1299/1222/README.md)                                                 |        | Medium |                                                             |      |
 | 1223 | [Dice Roll Simulation](./problems/1200-1299/1223/README.md)                                                            |        | Medium |                                                             |      |
-| 1224 | [Maximum Equal Frequency](./problems/1200-1299/1224/README.md)                                                         |        | Hard   |                                                             |      |
+| 1224 | [Maximum Equal Frequency](./problems/1200-1299/1224/README.md) | :o: | Hard | [hsh],[arr] |   |
 | 1225 | [Report Contiguous Dates](./problems/1200-1299/1225/README.md)                                                         | :lock: | Hard   |                                                             |      |
 | 1226 | [1226](./problems/1200-1299/1226/README.md)                                                                            |        | Easy   |                                                             |      |
 | 1227 | [Airplane Seat Assignment Probability](./problems/1200-1299/1227/README.md)                                            |        | Medium |                                                             |      |

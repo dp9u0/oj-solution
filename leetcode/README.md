@@ -2388,7 +2388,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2360 | [Longest Cycle in a Graph](./problems/2300-2399/2360/README.md) | :o: | Hard | [grf],[dfs] |   |
 | 2361 | [Minimum Costs Using the Train Line](./problems/2300-2399/2361/README.md)                                              | :lock: | Hard   |                                                             |      |
 | 2362 | [Generate the Invoice](./problems/2300-2399/2362/README.md)                                                            | :lock: | Hard   |                                                             |      |
-| 2363 | [Merge Similar Items](./problems/2300-2399/2363/README.md)                                                             |        | Easy   |                                                             |      |
+| 2363 | [Merge Similar Items](./problems/2300-2399/2363/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 2364 | [Count Number of Bad Pairs](./problems/2300-2399/2364/README.md)                                                       | :o:    | Medium | [arr],[hash]                                                |      |
 | 2365 | [Task Scheduler II](./problems/2300-2399/2365/README.md)                                                               | :o:    | Medium | [arr]                                                       |      |
 | 2366 | [Minimum Replacements to Sort the Array](./problems/2300-2399/2366/README.md)                                          |        | Hard   |                                                             |      |

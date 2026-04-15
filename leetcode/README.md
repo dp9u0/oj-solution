@@ -884,7 +884,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 807  | [Max Increase to Keep City Skyline](./problems/800-899/807/README.md)                                                  | :o:    | Medium | [arr],[greedy]                                              |      |
 | 808  | [Soup Servings](./problems/800-899/808/README.md)                                                                      |        | Medium |                                                             |      |
 | 809  | [Expressive Words](./problems/800-899/809/README.md)                                                                   |        | Medium |                                                             |      |
-| 810  | [Chalkboard XOR Game](./problems/800-899/810/README.md)                                                                |        | Hard   |                                                             |      |
+| 810 | [Chalkboard XOR Game](./problems/800-899/810/README.md) | :o: | Hard | [math],[bit] |   |
 | 811  | [Subdomain Visit Count](./problems/800-899/811/README.md)                                                              | :o:    | Easy   | [str]                                                       |      |
 | 812  | [Largest Triangle Area](./problems/800-899/812/README.md)                                                              | :o:    | Easy   | [math]                                                      | :-1: |
 | 813  | [Largest Sum of Averages](./problems/800-899/813/README.md)                                                            |        | Medium |                                                             |      |

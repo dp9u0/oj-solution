@@ -2538,7 +2538,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2510 | [Check if There is a Path With Equal Number of 0's And 1's](./problems/2500-2599/2510/README.md)                       | :lock: | Medium |                                                             |      |
 | 2511 | [Maximum Enemy Forts That Can Be Captured](./problems/2500-2599/2511/README.md)                                        |        | Easy   |                                                             |      |
 | 2512 | [Reward Top K Students](./problems/2500-2599/2512/README.md)                                                           |        | Medium |                                                             |      |
-| 2513 | [Minimize the Maximum of Two Arrays](./problems/2500-2599/2513/README.md)                                              |        | Medium |                                                             |      |
+| 2513 | [Minimize the Maximum of Two Arrays](./problems/2500-2599/2513/README.md) | :o: | Medium | [bs],[math] |   |
 | 2514 | [Count Anagrams](./problems/2500-2599/2514/README.md)                                                                  |        | Hard   |                                                             |      |
 | 2515 | [Shortest Distance to Target String in a Circular Array](./problems/2500-2599/2515/README.md)                          |        | Easy   |                                                             |      |
 | 2516 | [Take K of Each Character From Left and Right](./problems/2500-2599/2516/README.md)                                    | :o:    | Medium | [str],[sd]                                                  |      |

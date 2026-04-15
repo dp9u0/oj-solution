@@ -3470,3 +3470,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3856 | [Trim Trailing Vowels](./problems/3800-3899/3856/README.md) | :o: | Easy | [str] |   |
 | 3742 | [Maximum Path Score in a Grid](./problems/3700-3799/3742/README.md) | :o: | Medium | [dp] |   |
 | 3508 | [Implement Router](./problems/3500-3599/3508/README.md) | :o: | Medium | [des],[ds],[q] |   |
+| 3882 | [Minimum XOR Path in a Grid](./problems/3800-3899/3882/README.md) | :o: | Medium | [dp],[bit] |   |

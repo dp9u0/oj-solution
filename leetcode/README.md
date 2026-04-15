@@ -3199,7 +3199,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3171 | [Find Subarray With Bitwise OR Closest to K](./problems/3100-3199/3171/README.md)                                      |        | Hard   |                                                             |      |
 | 3172 | [Second Day Verification](./problems/3100-3199/3172/README.md)                                                         | :lock: | Easy   |                                                             |      |
 | 3173 | [Bitwise OR of Adjacent Elements](./problems/3100-3199/3173/README.md)                                                 | :lock: | Easy   |                                                             |      |
-| 3174 | [Clear Digits](./problems/3100-3199/3174/README.md)                                                                    |        | Easy   |                                                             |      |
+| 3174 | [Clear Digits](./problems/3100-3199/3174/README.md) | :o: | Easy | [stk],[str] |   |
 | 3175 | [Find The First Player to win K Games in a Row](./problems/3100-3199/3175/README.md)                                   |        | Medium |                                                             |      |
 | 3176 | [Find the Maximum Length of a Good Subsequence I](./problems/3100-3199/3176/README.md)                                 | :o:    | Medium | [dp]                                                        | :+1: |
 | 3177 | [Find the Maximum Length of a Good Subsequence II](./problems/3100-3199/3177/README.md)                                |        | Hard   |                                                             |      |

@@ -3504,3 +3504,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3487 | [Maximum Unique Subarray Sum After Deletion](./problems/3400-3499/3487/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 3434 | [Maximum Frequency After Subarray Operation](./problems/3400-3499/3434/README.md) | :o: | Medium | [arr] |   |
 | 3468 | [Find the Number of Copy Arrays](./problems/3400-3499/3468/README.md) | :o: | Medium | [arr],[math] |   |
+| 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](./problems/3400-3499/3423/README.md) | :o: | Easy | [arr],[lgc] |   |

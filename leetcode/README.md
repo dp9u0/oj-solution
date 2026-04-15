@@ -1686,7 +1686,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1611 | [Minimum One Bit Operations to Make Integers Zero](./problems/1600-1699/1611/README.md)                                |        | Hard   |                                                             |      |
 | 1612 | [Check If Two Expression Trees are Equivalent](./problems/1600-1699/1612/README.md)                                    | :lock: | Medium |                                                             |      |
 | 1613 | [Find the Missing IDs](./problems/1600-1699/1613/README.md)                                                            | :lock: | Medium |                                                             |      |
-| 1614 | [Maximum Nesting Depth of the Parentheses](./problems/1600-1699/1614/README.md)                                        |        | Easy   |                                                             |      |
+| 1614 | [Maximum Nesting Depth of the Parentheses](./problems/1600-1699/1614/README.md) | :o: | Easy | [stk] |   |
 | 1615 | [Maximal Network Rank](./problems/1600-1699/1615/README.md) | :o: | Medium | [grf] |   |
 | 1616 | [Split Two Strings to Make Palindrome](./problems/1600-1699/1616/README.md)                                            |        | Medium |                                                             |      |
 | 1617 | [Count Subtrees With Max Distance Between Cities](./problems/1600-1699/1617/README.md)                                 |        | Hard   |                                                             |      |

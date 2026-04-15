@@ -2194,7 +2194,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2166 | [Design Bitset](./problems/2100-2199/2166/README.md)                                                                   |        | Medium |                                                             |      |
 | 2167 | [Minimum Time to Remove All Cars Containing Illegal Goods](./problems/2100-2199/2167/README.md)                        |        | Hard   |                                                             |      |
 | 2168 | [Unique Substrings With Equal Digit Frequency](./problems/2100-2199/2168/README.md)                                    | :lock: | Medium |                                                             |      |
-| 2169 | [Count Operations to Obtain Zero](./problems/2100-2199/2169/README.md)                                                 |        | Easy   |                                                             |      |
+| 2169 | [Count Operations to Obtain Zero](./problems/2100-2199/2169/README.md) | :o: | Easy | [math] |   |
 | 2170 | [Minimum Operations to Make the Array Alternating](./problems/2100-2199/2170/README.md)                                | :o:    | Medium | [hsh],[grd]                                                 |      |
 | 2171 | [Removing Minimum Number of Magic Beans](./problems/2100-2199/2171/README.md)                                          | :o:    | Medium | [arr],[grd]                                                 |      |
 | 2172 | [Maximum AND Sum of Array](./problems/2100-2199/2172/README.md)                                                        |        | Hard   |                                                             |      |

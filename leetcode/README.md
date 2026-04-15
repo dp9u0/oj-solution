@@ -3472,3 +3472,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3508 | [Implement Router](./problems/3500-3599/3508/README.md) | :o: | Medium | [des],[ds],[q] |   |
 | 3882 | [Minimum XOR Path in a Grid](./problems/3800-3899/3882/README.md) | :o: | Medium | [dp],[bit] |   |
 | 3618 | [Split Array by Prime Indices](./problems/3600-3699/3618/README.md) | :o: | Medium | [arr],[math] |   |
+| 3774 | [Absolute Difference Between Maximum and Minimum K Elements](./problems/3700-3799/3774/README.md) | :o: | Easy | [arr],[math] |   |

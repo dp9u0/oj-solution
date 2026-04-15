@@ -3053,7 +3053,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3025 | [Find the Number of Ways to Place People I](./problems/3000-3099/3025/README.md)                                       |        | Medium |                                                             |      |
 | 3026 | [Maximum Good Subarray Sum](./problems/3000-3099/3026/README.md)                                                       |        | Medium |                                                             |      |
 | 3027 | [Find the Number of Ways to Place People II](./problems/3000-3099/3027/README.md)                                      |        | Hard   |                                                             |      |
-| 3028 | [Ant on the Boundary](./problems/3000-3099/3028/README.md)                                                             |        | Easy   |                                                             |      |
+| 3028 | [Ant on the Boundary](./problems/3000-3099/3028/README.md) | :o: | Easy | [arr] |   |
 | 3029 | [Minimum Time to Revert Word to Initial State I](./problems/3000-3099/3029/README.md)                                  |        | Medium |                                                             |      |
 | 3030 | [Find the Grid of Region Average](./problems/3000-3099/3030/README.md)                                                 |        | Medium |                                                             |      |
 | 3031 | [Minimum Time to Revert Word to Initial State II](./problems/3000-3099/3031/README.md)                                 |        | Hard   |                                                             |      |

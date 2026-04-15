@@ -3326,7 +3326,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3298 | [Count Substrings That Can Be Rearranged to Contain a String II](./problems/3200-3299/3298/README.md)                  |        | Hard   |                                                             |      |
 | 3299 | [Sum of Consecutive Subsequences](./problems/3200-3299/3299/README.md)                                                 | :lock: | Hard   |                                                             |      |
 | 3300 | [Minimum Element After Replacement With Digit Sum](./problems/3300-3399/3300/README.md)                                |        | Easy   |                                                             |      |
-| 3301 | [Maximize the Total Height of Unique Towers](./problems/3300-3399/3301/README.md)                                      |        | Medium |                                                             |      |
+| 3301 | [Maximize the Total Height of Unique Towers](./problems/3300-3399/3301/README.md) | :o: | Medium | [grd],[arr] |   |
 | 3302 | [Find the Lexicographically Smallest Valid Sequence](./problems/3300-3399/3302/README.md)                              |        | Medium |                                                             |      |
 | 3303 | [Find the Occurrence of First Almost Equal Substring](./problems/3300-3399/3303/README.md)                             |        | Hard   |                                                             |      |
 | 3304 | [Find the K-th Character in String Game I](./problems/3300-3399/3304/README.md)                                        |        | Easy   |                                                             |      |

@@ -2429,7 +2429,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2401 | [Longest Nice Subarray](./problems/2400-2499/2401/README.md)                                                           | :o:    | Medium | [arr],[bit],[tp]                                            |      |
 | 2402 | [Meeting Rooms III](./problems/2400-2499/2402/README.md)                                                               |        | Hard   |                                                             |      |
 | 2403 | [Minimum Time to Kill All Monsters](./problems/2400-2499/2403/README.md)                                               | :lock: | Hard   |                                                             |      |
-| 2404 | [Most Frequent Even Element](./problems/2400-2499/2404/README.md)                                                      |        | Easy   |                                                             |      |
+| 2404 | [Most Frequent Even Element](./problems/2400-2499/2404/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 2405 | [Optimal Partition of String](./problems/2400-2499/2405/README.md)                                                     | :o:    | Medium | [arr],[bit]                                                 |      |
 | 2406 | [Divide Intervals Into Minimum Number of Groups](./problems/2400-2499/2406/README.md)                                  | :o:    | Medium | [arr]                                                       |      |
 | 2407 | [Longest Increasing Subsequence II](./problems/2400-2499/2407/README.md)                                               |        | Hard   |                                                             |      |

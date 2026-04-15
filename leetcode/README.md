@@ -2280,7 +2280,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2252 | [Dynamic Pivoting of a Table](./problems/2200-2299/2252/README.md)                                                     | :lock: | Hard   |                                                             |      |
 | 2253 | [Dynamic Unpivoting of a Table](./problems/2200-2299/2253/README.md)                                                   | :lock: | Hard   |                                                             |      |
 | 2254 | [Design Video Sharing Platform](./problems/2200-2299/2254/README.md)                                                   | :lock: | Hard   |                                                             |      |
-| 2255 | [Count Prefixes of a Given String](./problems/2200-2299/2255/README.md)                                                |        | Easy   |                                                             |      |
+| 2255 | [Count Prefixes of a Given String](./problems/2200-2299/2255/README.md) | :o: | Easy | [str],[arr] |   |
 | 2256 | [Minimum Average Difference](./problems/2200-2299/2256/README.md)                                                      | :o:    | Medium | [arr]                                                       |      |
 | 2257 | [Count Unguarded Cells in the Grid](./problems/2200-2299/2257/README.md)                                               |        | Medium |                                                             |      |
 | 2258 | [Escape the Spreading Fire](./problems/2200-2299/2258/README.md)                                                       |        | Hard   |                                                             |      |

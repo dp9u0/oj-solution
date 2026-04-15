@@ -939,7 +939,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 862  | [Shortest Subarray with Sum at Least K](./problems/800-899/862/README.md)                                              | :o:    | Hard   | [arr],[queue]                                               | :+1: |
 | 863  | [All Nodes Distance K in Binary Tree](./problems/800-899/863/README.md)                                                | :o:    | Medium | [tr],[bfs]                                                  | :+1: |
 | 864  | [Shortest Path to Get All Keys](./problems/800-899/864/README.md)                                                      |        | Hard   |                                                             |      |
-| 865  | [Smallest Subtree with all the Deepest Nodes](./problems/800-899/865/README.md)                                        |        | Medium |                                                             |      |
+| 865 | [Smallest Subtree with all the Deepest Nodes](./problems/800-899/865/README.md) | :o: | Medium | [tr],[dfs] |   |
 | 866  | [Prime Palindrome](./problems/800-899/866/README.md)                                                                   |        | Medium |                                                             |      |
 | 867  | [Transpose Matrix](./problems/800-899/867/README.md)                                                                   | :o:    | Easy   | [arr]                                                       |      |
 | 868  | [Binary Gap](./problems/800-899/868/README.md)                                                                         | :o:    | Easy   | [bit]                                                       |      |

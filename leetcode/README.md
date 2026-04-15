@@ -1815,7 +1815,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1787 | [Make the XOR of All Segments Equal to Zero](./problems/1700-1799/1787/README.md)                                      | :o:    | Hard   | [dp],[bit]                                                  | :+1: |
 | 1788 | [Maximize the Beauty of the Garden](./problems/1700-1799/1788/README.md)                                               | :lock: | Hard   |                                                             |      |
 | 1789 | [Primary Department for Each Employee](./problems/1700-1799/1789/README.md)                                            | :lock: | Easy   |                                                             |      |
-| 1790 | [Check if One String Swap Can Make Strings Equal](./problems/1700-1799/1790/README.md)                                 |        | Easy   |                                                             |      |
+| 1790 | [Check if One String Swap Can Make Strings Equal](./problems/1700-1799/1790/README.md) | :o: | Easy | [str],[lgc] |   |
 | 1791 | [Find Center of Star Graph](./problems/1700-1799/1791/README.md)                                                       |        | Easy   |                                                             |      |
 | 1792 | [Maximum Average Pass Ratio](./problems/1700-1799/1792/README.md)                                                      |        | Medium |                                                             |      |
 | 1793 | [Maximum Score of a Good Subarray](./problems/1700-1799/1793/README.md)                                                | :o:    | Hard   | [tp]                                                        |      |

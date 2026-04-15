@@ -803,7 +803,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 726  | [Number of Atoms](./problems/700-799/726/README.md)                                                                    |        | Hard   |                                                             |      |
 | 727  | [Minimum Window Subsequence](./problems/700-799/727/README.md)                                                         | :lock: | Hard   |                                                             |      |
 | 728  | [Self Dividing Numbers](./problems/700-799/728/README.md)                                                              | :o:    | Easy   | [math]                                                      |      |
-| 729  | [My Calendar I](./problems/700-799/729/README.md)                                                                      |        | Medium |                                                             |      |
+| 729 | [My Calendar I](./problems/700-799/729/README.md) | :o: | Medium | [des],[arr] |   |
 | 730  | [Count Different Palindromic Subsequences](./problems/700-799/730/README.md)                                           |        | Hard   |                                                             |      |
 | 731  | [My Calendar II](./problems/700-799/731/README.md)                                                                     | :o:    | Medium | [arr]                                                       |      |
 | 732  | [My Calendar III](./problems/700-799/732/README.md)                                                                    |        | Hard   |                                                             |      |

@@ -2901,7 +2901,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2873 | [Maximum Value of an Ordered Triplet I](./problems/2800-2899/2873/README.md)                                           | :o:    | Easy   | [arr]                                                       |      |
 | 2874 | [Maximum Value of an Ordered Triplet II](./problems/2800-2899/2874/README.md)                                          | :o:    | Medium | [arr],[greedy]                                              |      |
 | 2875 | [Minimum Size Subarray in Infinite Array](./problems/2800-2899/2875/README.md)                                         |        | Medium |                                                             |      |
-| 2876 | [Count Visited Nodes in a Directed Graph](./problems/2800-2899/2876/README.md)                                         |        | Hard   |                                                             |      |
+| 2876 | [Count Visited Nodes in a Directed Graph](./problems/2800-2899/2876/README.md) | :o: | Hard | [grf] | :+1:  |
 | 2877 | [2877](./problems/2800-2899/2877/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2878 | [2878](./problems/2800-2899/2878/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2879 | [2879](./problems/2800-2899/2879/README.md)                                                                            |        | Easy   |                                                             |      |

@@ -3493,3 +3493,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1752 | [Check if Array Is Sorted and Rotated](./problems/1700-1799/1752/README.md) | :o: | Easy | [arr] |   |
 | 3483 | [Unique 3-Digit Even Numbers](./problems/3400-3499/3483/README.md) | :o: | Easy | [arr],[math] |   |
 | 1737 | [Change Minimum Characters to Satisfy One of Three Conditions](./problems/1700-1799/1737/README.md) | :o: | Medium | [str],[hsh],[lgc] |   |
+| 3614 | [Process String with Special Operations II](./problems/3600-3699/3614/README.md) | :o: | Hard | [str],[sim] |   |

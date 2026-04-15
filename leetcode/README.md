@@ -1622,7 +1622,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1547 | [Minimum Cost to Cut a Stick](./problems/1500-1599/1547/README.md)                                                     | :o:    | Hard   | [dp]                                                        |      |
 | 1548 | [The Most Similar Path in a Graph](./problems/1500-1599/1548/README.md)                                                | :lock: | Hard   |                                                             |      |
 | 1549 | [The Most Recent Orders for Each Product](./problems/1500-1599/1549/README.md)                                         | :lock: | Medium |                                                             |      |
-| 1550 | [1550](./problems/1500-1599/1550/README.md)                                                                            |        | Easy   |                                                             |      |
+| 1550 | [1550](./problems/1500-1599/1550/README.md) | :o: | Easy | [arr] |   |
 | 1551 | [Minimum Operations to Make Array Equal](./problems/1500-1599/1551/README.md)                                          |        | Medium |                                                             |      |
 | 1552 | [Magnetic Force Between Two Balls](./problems/1500-1599/1552/README.md)                                                | :o:    | Medium | [bs]                                                        | :+1: |
 | 1553 | [Minimum Number of Days to Eat N Oranges](./problems/1500-1599/1553/README.md)                                         |        | Hard   |                                                             |      |

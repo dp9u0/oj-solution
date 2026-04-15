@@ -512,7 +512,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 430  | [Flatten a Multilevel Doubly Linked List](./problems/400-499/430/README.md)                                            |        | Medium |                                                             |      |
 | 431  | [Encode N-ary Tree to Binary Tree](./problems/400-499/431/README.md)                                                   | :lock: | Hard   |                                                             |      |
 | 432  | [All O`one Data Structure](./problems/400-499/432/README.md)                                                           |        | Hard   |                                                             |      |
-| 433  | [Minimum Genetic Mutation](./problems/400-499/433/README.md)                                                           |        | Medium |                                                             |      |
+| 433 | [Minimum Genetic Mutation](./problems/400-499/433/README.md) | :o: | Medium | [bfs] |   |
 | 434  | [Number of Segments in a String](./problems/400-499/434/README.md)                                                     | :o:    | Easy   | [str]                                                       |      |
 | 435  | [Non-overlapping Intervals](./problems/400-499/435/README.md)                                                          | :o:    | Medium | [arr],[greedy]                                              | :+1: |
 | 436 | [Find Right Interval](./problems/400-499/436/README.md) | :o: | Medium | [bs],[arr] |   |

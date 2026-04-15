@@ -943,7 +943,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 866  | [Prime Palindrome](./problems/800-899/866/README.md)                                                                   |        | Medium |                                                             |      |
 | 867  | [Transpose Matrix](./problems/800-899/867/README.md)                                                                   | :o:    | Easy   | [arr]                                                       |      |
 | 868  | [Binary Gap](./problems/800-899/868/README.md)                                                                         | :o:    | Easy   | [bit]                                                       |      |
-| 869  | [Reordered Power of 2](./problems/800-899/869/README.md)                                                               |        | Medium |                                                             |      |
+| 869 | [Reordered Power of 2](./problems/800-899/869/README.md) | :o: | Medium | [math] |   |
 | 870  | [Advantage Shuffle](./problems/800-899/870/README.md)                                                                  | :o:    | Medium | [arr],[greedy]                                              | :+1: |
 | 871  | [Minimum Number of Refueling Stops](./problems/800-899/871/README.md)                                                  |        | Hard   |                                                             |      |
 | 872  | [Leaf-Similar Trees](./problems/800-899/872/README.md)                                                                 | :o:    | Easy   | [tr]                                                        |      |

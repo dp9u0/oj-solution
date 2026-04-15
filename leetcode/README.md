@@ -3411,7 +3411,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3383 | [Minimum Runes to Add to Cast Spell](./problems/3300-3399/3383/README.md)                                              | :lock: | Hard   |                                                             |      |
 | 3384 | [Team Dominance by Pass Success](./problems/3300-3399/3384/README.md)                                                  | :lock: | Hard   |                                                             |      |
 | 3385 | [Minimum Time to Break Locks II](./problems/3300-3399/3385/README.md)                                                  | :lock: | Hard   |                                                             |      |
-| 3386 | [Button with Longest Push Time](./problems/3300-3399/3386/README.md)                                                   |        | Easy   |                                                             |      |
+| 3386 | [Button with Longest Push Time](./problems/3300-3399/3386/README.md) | :o: | Easy | [arr] |   |
 | 3387 | [Maximize Amount After Two Days of Conversions](./problems/3300-3399/3387/README.md)                                   |        | Medium |                                                             |      |
 | 3388 | [Count Beautiful Splits in an Array](./problems/3300-3399/3388/README.md)                                              |        | Medium |                                                             |      |
 | 3389 | [Minimum Operations to Make Character Frequencies Equal](./problems/3300-3399/3389/README.md)                          |        | Hard   |                                                             |      |

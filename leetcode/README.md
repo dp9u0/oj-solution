@@ -3381,7 +3381,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3353 | [Minimum Total Operations](./problems/3300-3399/3353/README.md)                                                        | :lock: | Easy   |                                                             |      |
 | 3354 | [Make Array Elements Equal to Zero](./problems/3300-3399/3354/README.md)                                               |        | Easy   |                                                             |      |
 | 3355 | [Zero Array Transformation I](./problems/3300-3399/3355/README.md)                                                     |        | Medium |                                                             |      |
-| 3356 | [Zero Array Transformation II](./problems/3300-3399/3356/README.md)                                                    |        | Medium |                                                             |      |
+| 3356 | [Zero Array Transformation II](./problems/3300-3399/3356/README.md) | :o: | Medium | [bs],[arr] |   |
 | 3357 | [Minimize the Maximum Adjacent Element Difference](./problems/3300-3399/3357/README.md)                                | :o:    | Hard   | [dp],[bs]                                                   |      |
 | 3358 | [Books with NULL Ratings](./problems/3300-3399/3358/README.md)                                                         | :lock: | Easy   |                                                             |      |
 | 3359 | [Find Sorted Submatrices With Maximum Element at Most K](./problems/3300-3399/3359/README.md)                          | :lock: | Hard   |                                                             |      |

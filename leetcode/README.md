@@ -1040,7 +1040,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 963  | [Minimum Area Rectangle II](./problems/900-999/963/README.md)                                                          | :o:    | Medium | [arr],[math]                                                |      |
 | 964  | [Least Operators to Express Number](./problems/900-999/964/README.md)                                                  |        | Hard   |                                                             |      |
 | 965  | [Univalued Binary Tree](./problems/900-999/965/README.md)                                                              | :o:    | Easy   | [tr]                                                        |      |
-| 966  | [Vowel Spellchecker](./problems/900-999/966/README.md)                                                                 |        | Medium |                                                             |      |
+| 966 | [Vowel Spellchecker](./problems/900-999/966/README.md) | :o: | Medium | [str],[hsh] |   |
 | 967  | [Numbers With Same Consecutive Differences](./problems/900-999/967/README.md)                                          | :o:    | Medium | [bt]                                                        |      |
 | 968  | [Binary Tree Cameras](./problems/900-999/968/README.md)                                                                | :o:    | Hard   | [tr]                                                        |      |
 | 969  | [Pancake Sorting](./problems/900-999/969/README.md)                                                                    | :o:    | Medium | [arr]                                                       |      |

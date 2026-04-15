@@ -615,7 +615,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 537  | [Complex Number Multiplication](./problems/500-599/537/README.md)                                                      | :o:    | Medium | [string]                                                    |      |
 | 538  | [Convert BST to Greater Tree](./problems/500-599/538/README.md)                                                        | :o:    | Easy   | [tr]                                                        |      |
 | 539 | [Minimum Time Difference](./problems/500-599/539/README.md) | :o: | Medium | [arr] |   |
-| 540  | [Single Element in a Sorted Array](./problems/500-599/540/README.md)                                                   |        | Medium |                                                             |      |
+| 540 | [Single Element in a Sorted Array](./problems/500-599/540/README.md) | :o: | Medium | [bs],[arr] | :+1:  |
 | 541  | [Reverse String II](./problems/500-599/541/README.md)                                                                  | :o:    | Easy   | [str]                                                       |      |
 | 542  | [01 Matrix](./problems/500-599/542/README.md)                                                                          | :o:    | Medium | [bfs]                                                       | :+1: |
 | 543  | [Diameter of Binary Tree](./problems/500-599/543/README.md)                                                            | :o:    | Easy   | [tr]                                                        |      |

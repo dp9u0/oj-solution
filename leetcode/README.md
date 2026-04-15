@@ -2547,7 +2547,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2519 | [Count the Number of K-Big Indices](./problems/2500-2599/2519/README.md)                                               | :lock: | Hard   |                                                             |      |
 | 2520 | [Count the Digits That Divide a Number](./problems/2500-2599/2520/README.md)                                           |        | Easy   |                                                             |      |
 | 2521 | [Distinct Prime Factors of Product of Array](./problems/2500-2599/2521/README.md)                                      |        | Medium |                                                             |      |
-| 2522 | [Partition String Into Substrings With Values at Most K](./problems/2500-2599/2522/README.md)                          |        | Medium |                                                             |      |
+| 2522 | [Partition String Into Substrings With Values at Most K](./problems/2500-2599/2522/README.md) | :o: | Medium | [grd],[str] |   |
 | 2523 | [Closest Prime Numbers in Range](./problems/2500-2599/2523/README.md) | :o: | Medium | [math],[bs] |   |
 | 2524 | [Maximum Frequency Score of a Subarray](./problems/2500-2599/2524/README.md)                                           | :lock: | Hard   |                                                             |      |
 | 2525 | [Categorize Box According to Criteria](./problems/2500-2599/2525/README.md)                                            |        | Easy   |                                                             |      |

@@ -3049,7 +3049,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3021 | [Alice and Bob Playing Flower Game](./problems/3000-3099/3021/README.md)                                               |        | Medium |                                                             |      |
 | 3022 | [Minimize OR of Remaining Elements Using Operations](./problems/3000-3099/3022/README.md)                              | :o:    | Hard   | [bit],[grd]                                                 | :+1: |
 | 3023 | [Find Pattern in Infinite Stream I](./problems/3000-3099/3023/README.md)                                               | :lock: | Medium |                                                             |      |
-| 3024 | [Type of Triangle](./problems/3000-3099/3024/README.md)                                                                |        | Easy   |                                                             |      |
+| 3024 | [Type of Triangle](./problems/3000-3099/3024/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 3025 | [Find the Number of Ways to Place People I](./problems/3000-3099/3025/README.md)                                       |        | Medium |                                                             |      |
 | 3026 | [Maximum Good Subarray Sum](./problems/3000-3099/3026/README.md)                                                       |        | Medium |                                                             |      |
 | 3027 | [Find the Number of Ways to Place People II](./problems/3000-3099/3027/README.md)                                      |        | Hard   |                                                             |      |

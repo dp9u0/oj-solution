@@ -3530,3 +3530,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3516 | [Find Closest Person](./problems/3500-3599/3516/README.md) | :o: | Easy | [lgc] |   |
 | 3538 | [Merge Operations for Minimum Travel Time](./problems/3500-3599/3538/README.md) | :o: | Hard | [dp] |   |
 | 3556 | [Sum of Largest Prime Substrings](./problems/3500-3599/3556/README.md) | :o: | Medium | [math],[str] |   |
+| 3766 | [Minimum Operations to Make Binary Palindrome](./problems/3700-3799/3766/README.md) | :o: | Medium | [bit],[arr] |   |

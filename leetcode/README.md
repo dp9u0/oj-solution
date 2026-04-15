@@ -3486,3 +3486,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3584 | [Maximum Product of First and Last Elements of a Subsequence](./problems/3500-3599/3584/README.md)                     | :o:    | Medium | [arr],[grd]                                                 |      |
 | 3411 | [Maximum Subarray With Equal Products](./problems/3400-3499/3411/README.md)                                            | :o:    | Easy   | [arr],[math]                                                |      |
 | 3788 | [Maximum Score of a Split](./problems/3700-3799/3788/README.md)                                                        | :o:    | Medium | [arr]                                                       |      |
+| 1768 | [Merge Strings Alternately](./problems/1700-1799/1768/README.md) | :o: | Easy | [str],[tp] |   |

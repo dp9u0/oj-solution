@@ -3475,3 +3475,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3774 | [Absolute Difference Between Maximum and Minimum K Elements](./problems/3700-3799/3774/README.md) | :o: | Easy | [arr],[math] |   |
 | 3771 | [Total Score of Dungeon Runs](./problems/3700-3799/3771/README.md) | :o: | Medium | [arr],[ds] |   |
 | 3419 | [Minimize the Maximum Edge Weight of Graph](./problems/3400-3499/3419/README.md) | :o: | Medium | [grf],[bs] |   |
+| 3591 | [Check if Any Element Has Prime Frequency](./problems/3500-3599/3591/README.md) | :o: | Easy | [arr],[math] |   |

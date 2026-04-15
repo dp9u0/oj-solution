@@ -666,7 +666,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 589  | [N-ary Tree Preorder Traversal](./problems/500-599/589/README.md)                                                      | :o:    | Easy   | [tr]                                                        |      |
 | 590  | [N-ary Tree Postorder Traversal](./problems/500-599/590/README.md)                                                     | :o:    | Easy   | [tr]                                                        |      |
 | 591  | [Tag Validator](./problems/500-599/591/README.md)                                                                      |        | Hard   |                                                             |      |
-| 592  | [Fraction Addition and Subtraction](./problems/500-599/592/README.md)                                                  |        | Medium |                                                             |      |
+| 592 | [Fraction Addition and Subtraction](./problems/500-599/592/README.md) | :o: | Medium | [math],[str] |   |
 | 593  | [Valid Square](./problems/500-599/593/README.md)                                                                       |        | Medium |                                                             |      |
 | 594  | [Longest Harmonious Subsequence](./problems/500-599/594/README.md)                                                     | :o:    | Easy   | [hsh]                                                       |      |
 | 595  | [Big Countries](./problems/500-599/595/README.md)                                                                      | :soon: | Easy   | [sql]                                                       |      |

@@ -3499,3 +3499,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3599 | [Partition Array to Minimize XOR](./problems/3500-3599/3599/README.md) | :o: | Medium | [dp],[bit] |   |
 | 3640 | [Trionic Array II](./problems/3600-3699/3640/README.md) | :o: | Hard | [dp],[lgc] |   |
 | 3539 | [Find Sum of Array Product of Magical Sequences](./problems/3500-3599/3539/README.md) | :o: | Hard | [dp],[math] |   |
+| 3576 | [Transform Array to All Equal Elements](./problems/3500-3599/3576/README.md) | :o: | Medium | [arr],[lgc] |   |

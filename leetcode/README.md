@@ -3503,3 +3503,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3643 | [Flip Square Submatrix Vertically](./problems/3600-3699/3643/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 3487 | [Maximum Unique Subarray Sum After Deletion](./problems/3400-3499/3487/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 3434 | [Maximum Frequency After Subarray Operation](./problems/3400-3499/3434/README.md) | :o: | Medium | [arr] |   |
+| 3468 | [Find the Number of Copy Arrays](./problems/3400-3499/3468/README.md) | :o: | Medium | [arr],[math] |   |

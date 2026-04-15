@@ -1929,7 +1929,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1901 | [Find a Peak Element II](./problems/1900-1999/1901/README.md)                                                          |        | Medium |                                                             |      |
 | 1902 | [Depth of BST Given Insertion Order](./problems/1900-1999/1902/README.md)                                              | :lock: | Medium |                                                             |      |
 | 1903 | [Largest Odd Number in String](./problems/1900-1999/1903/README.md)                                                    |        | Easy   |                                                             |      |
-| 1904 | [The Number of Full Rounds You Have Played](./problems/1900-1999/1904/README.md)                                       |        | Medium |                                                             |      |
+| 1904 | [The Number of Full Rounds You Have Played](./problems/1900-1999/1904/README.md) | :o: | Medium | [math],[lgc] |   |
 | 1905 | [Count Sub Islands](./problems/1900-1999/1905/README.md)                                                               |        | Medium |                                                             |      |
 | 1906 | [Minimum Absolute Difference Queries](./problems/1900-1999/1906/README.md)                                             |        | Medium |                                                             |      |
 | 1907 | [Count Salary Categories](./problems/1900-1999/1907/README.md)                                                         | :lock: | Medium |                                                             |      |

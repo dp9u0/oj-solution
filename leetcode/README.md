@@ -2216,7 +2216,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2188 | [Minimum Time to Finish the Race](./problems/2100-2199/2188/README.md)                                                 |        | Hard   |                                                             |      |
 | 2189 | [2189](./problems/2100-2199/2189/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2190 | [Most Frequent Number Following Key In an Array](./problems/2100-2199/2190/README.md)                                  |        | Easy   |                                                             |      |
-| 2191 | [2191](./problems/2100-2199/2191/README.md)                                                                            |        | Easy   |                                                             |      |
+| 2191 | [2191](./problems/2100-2199/2191/README.md) | :o: | Medium | [arr],[lgc] |   |
 | 2192 | [2192](./problems/2100-2199/2192/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2193 | [2193](./problems/2100-2199/2193/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2194 | [Cells in a Range on an Excel Sheet](./problems/2100-2199/2194/README.md)                                              |        | Easy   |                                                             |      |

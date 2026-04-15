@@ -3460,3 +3460,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3492 | [Maximum Containers on a Ship](./problems/3400-3499/3492/README.md) | :o: | Easy | [math] |   |
 | 3478 | [Choose K Elements With Maximum Sum](./problems/3400-3499/3478/README.md) | :o: | Medium | [hp],[grd] |   |
 | 3442 | [Maximum Difference Between Even and Odd Frequency I](./problems/3400-3499/3442/README.md) | :o: | Easy | [str],[hsh] |   |
+| 3794 | [Reverse String Prefix](./problems/3700-3799/3794/README.md) | :o: | Easy | [str] |   |

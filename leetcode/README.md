@@ -932,7 +932,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 855  | [Exam Room](./problems/800-899/855/README.md)                                                                          |        | Medium |                                                             |      |
 | 856  | [Score of Parentheses](./problems/800-899/856/README.md)                                                               | :o:    | Medium | [stack]                                                     | :+1: |
 | 857  | [Minimum Cost to Hire K Workers](./problems/800-899/857/README.md)                                                     |        | Hard   |                                                             |      |
-| 858  | [Mirror Reflection](./problems/800-899/858/README.md)                                                                  |        | Medium |                                                             |      |
+| 858 | [Mirror Reflection](./problems/800-899/858/README.md) | :o: | Medium | [math] |   |
 | 859  | [Buddy Strings](./problems/800-899/859/README.md)                                                                      | :o:    | Easy   | [str]                                                       |      |
 | 860  | [Lemonade Change](./problems/800-899/860/README.md)                                                                    | :o:    | Easy   | [arr]                                                       |      |
 | 861  | [Score After Flipping Matrix](./problems/800-899/861/README.md)                                                        | :o:    | Medium | [arr],[greedy],[bit]                                        | :+1: |

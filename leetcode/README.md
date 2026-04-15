@@ -2047,7 +2047,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2019 | [The Score of Students Solving Math Expression](./problems/2000-2099/2019/README.md)                                   |        | Hard   |                                                             |      |
 | 2020 | [Number of Accounts That Did Not Stream](./problems/2000-2099/2020/README.md)                                          | :lock: | Medium |                                                             |      |
 | 2021 | [Brightest Position on Street](./problems/2000-2099/2021/README.md)                                                    | :lock: | Medium |                                                             |      |
-| 2022 | [Convert 1D Array Into 2D Array](./problems/2000-2099/2022/README.md)                                                  |        | Easy   |                                                             |      |
+| 2022 | [Convert 1D Array Into 2D Array](./problems/2000-2099/2022/README.md) | :o: | Easy | [arr] |   |
 | 2023 | [Number of Pairs of Strings With Concatenation Equal to Target](./problems/2000-2099/2023/README.md)                   |        | Medium |                                                             |      |
 | 2024 | [Maximize the Confusion of an Exam](./problems/2000-2099/2024/README.md)                                               | :o:    | Medium | [arr],[tp]                                                  | :+1: |
 | 2025 | [Maximum Number of Ways to Partition an Array](./problems/2000-2099/2025/README.md)                                    |        | Hard   |                                                             |      |

@@ -1950,7 +1950,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1922 | [Count Good Numbers](./problems/1900-1999/1922/README.md)                                                              |        | Medium |                                                             |      |
 | 1923 | [Longest Common Subpath](./problems/1900-1999/1923/README.md)                                                          |        | Hard   |                                                             |      |
 | 1924 | [Erect the Fence II](./problems/1900-1999/1924/README.md)                                                              | :lock: | Hard   |                                                             |      |
-| 1925 | [Count Square Sum Triples](./problems/1900-1999/1925/README.md)                                                        |        | Easy   |                                                             |      |
+| 1925 | [Count Square Sum Triples](./problems/1900-1999/1925/README.md) | :o: | Easy | [math],[lgc] |   |
 | 1926 | [Nearest Exit from Entrance in Maze](./problems/1900-1999/1926/README.md)                                              | :o:    | Medium | [bfs]                                                       |      |
 | 1927 | [Sum Game](./problems/1900-1999/1927/README.md)                                                                        |        | Medium |                                                             |      |
 | 1928 | [Minimum Cost to Reach Destination in Time](./problems/1900-1999/1928/README.md)                                       |        | Hard   |                                                             |      |

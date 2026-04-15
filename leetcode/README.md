@@ -1128,7 +1128,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1051 | [Height Checker](./problems/1000-1099/1051/README.md)                                                                  | :o:    | Easy   | [arr]                                                       |      |
 | 1052 | [Grumpy Bookstore Owner](./problems/1000-1099/1052/README.md)                                                          | :o:    | Medium | [arr],[tp]                                                  |      |
 | 1053 | [Previous Permutation With One Swap](./problems/1000-1099/1053/README.md)                                              |        | Medium |                                                             |      |
-| 1054 | [Distant Barcodes](./problems/1000-1099/1054/README.md)                                                                |        | Medium |                                                             |      |
+| 1054 | [Distant Barcodes](./problems/1000-1099/1054/README.md) | :o: | Medium | [arr],[grd],[hsh] |   |
 | 1055 | [Shortest Way to Form String](./problems/1000-1099/1055/README.md)                                                     | :lock: | Medium |                                                             |      |
 | 1056 | [Confusing Number](./problems/1000-1099/1056/README.md)                                                                | :lock: | Easy   |                                                             |      |
 | 1057 | [Campus Bikes](./problems/1000-1099/1057/README.md)                                                                    | :lock: | Medium |                                                             |      |

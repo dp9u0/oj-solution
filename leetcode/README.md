@@ -2868,7 +2868,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2840 | [Check if Strings Can be Made Equal With Operations II](./problems/2800-2899/2840/README.md)                           | :o:    | Medium | [str],[hsh]                                                 |      |
 | 2841 | [Maximum Sum of Almost Unique Subarray](./problems/2800-2899/2841/README.md)                                           | :o:    | Medium | [sd],[hsh]                                                  |      |
 | 2842 | [Count K-Subsequences of a String With Maximum Beauty](./problems/2800-2899/2842/README.md)                            |        | Hard   |                                                             |      |
-| 2843 | [Count Symmetric Integers](./problems/2800-2899/2843/README.md)                                                        |        | Easy   |                                                             |      |
+| 2843 | [Count Symmetric Integers](./problems/2800-2899/2843/README.md) | :o: | Easy | [math] |   |
 | 2844 | [Minimum Operations to Make a Special Number](./problems/2800-2899/2844/README.md) | :o: | Medium | [str],[math] |   |
 | 2845 | [Count of Interesting Subarrays](./problems/2800-2899/2845/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 2846 | [Minimum Edge Weight Equilibrium Queries in a Tree](./problems/2800-2899/2846/README.md)                               |        | Hard   |                                                             |      |

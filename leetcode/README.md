@@ -3283,7 +3283,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3255 | [Find the Power of K-Size Subarrays II](./problems/3200-3299/3255/README.md)                                           |        | Medium |                                                             |      |
 | 3256 | [Maximum Value Sum by Placing Three Rooks I](./problems/3200-3299/3256/README.md)                                      |        | Hard   |                                                             |      |
 | 3257 | [Maximum Value Sum by Placing Three Rooks II](./problems/3200-3299/3257/README.md)                                     |        | Hard   |                                                             |      |
-| 3258 | [Count Substrings That Satisfy K-Constraint I](./problems/3200-3299/3258/README.md)                                    |        | Easy   |                                                             |      |
+| 3258 | [Count Substrings That Satisfy K-Constraint I](./problems/3200-3299/3258/README.md) | :o: | Easy | [str],[sd] |   |
 | 3259 | [Maximum Energy Boost From Two Drinks](./problems/3200-3299/3259/README.md)                                            |        | Medium |                                                             |      |
 | 3260 | [Find the Largest Palindrome Divisible by K](./problems/3200-3299/3260/README.md)                                      | :o:    | Hard   | [math],[str]                                                |      |
 | 3261 | [Count Substrings That Satisfy K-Constraint II](./problems/3200-3299/3261/README.md)                                   |        | Hard   |                                                             |      |

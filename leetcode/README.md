@@ -2922,7 +2922,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2894 | [Divisible and Non-divisible Sums Difference](./problems/2800-2899/2894/README.md)                                     |        | Easy   |                                                             |      |
 | 2895 | [Minimum Processing Time](./problems/2800-2899/2895/README.md)                                                         | :o:    | Medium | [arr],[sort]                                                |      |
 | 2896 | [Apply Operations to Make Two Strings Equal](./problems/2800-2899/2896/README.md)                                      |        | Medium |                                                             |      |
-| 2897 | [Apply Operations on Array to Maximize Sum of Squares](./problems/2800-2899/2897/README.md)                            |        | Hard   |                                                             |      |
+| 2897 | [Apply Operations on Array to Maximize Sum of Squares](./problems/2800-2899/2897/README.md) | :o: | Hard | [bit] |   |
 | 2898 | [Maximum Linear Stock Score](./problems/2800-2899/2898/README.md)                                                      | :lock: | Medium |                                                             |      |
 | 2899 | [Last Visited Integers](./problems/2800-2899/2899/README.md)                                                           |        | Easy   |                                                             |      |
 | 2900 | [Longest Unequal Adjacent Groups Subsequence I](./problems/2900-2999/2900/README.md)                                   |        | Easy   |                                                             |      |

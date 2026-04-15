@@ -2298,7 +2298,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2270 | [Number of Ways to Split Array](./problems/2200-2299/2270/README.md)                                                   | :o:    | Medium | [arr]                                                       |      |
 | 2271 | [Maximum White Tiles Covered by a Carpet](./problems/2200-2299/2271/README.md)                                         |        | Medium |                                                             |      |
 | 2272 | [Substring With Largest Variance](./problems/2200-2299/2272/README.md)                                                 |        | Hard   |                                                             |      |
-| 2273 | [2273](./problems/2200-2299/2273/README.md)                                                                            |        | Easy   |                                                             |      |
+| 2273 | [2273](./problems/2200-2299/2273/README.md) | :o: | Easy | [arr],[str] |   |
 | 2274 | [Maximum Consecutive Floors Without Special Floors](./problems/2200-2299/2274/README.md)                               | :o:    | Medium | [arr],[sort]                                                |      |
 | 2275 | [Largest Combination With Bitwise AND Greater Than Zero](./problems/2200-2299/2275/README.md)                          |        | Medium |                                                             |      |
 | 2276 | [Count Integers in Intervals](./problems/2200-2299/2276/README.md)                                                     |        | Hard   |                                                             |      |

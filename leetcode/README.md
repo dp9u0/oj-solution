@@ -3480,3 +3480,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3619 | [Count Islands With Total Value Divisible by K](./problems/3600-3699/3619/README.md) | :o: | Medium | [bfs] |   |
 | 3747 | [Count Distinct Integers After Removing Zeros](./problems/3700-3799/3747/README.md) | :o: | Medium | [math] |   |
 | 3708 | [Longest Fibonacci Subarray](./problems/3700-3799/3708/README.md) | :o: | Medium | [arr] |   |
+| 3582 | [Generate Tag for Video Caption](./problems/3500-3599/3582/README.md) | :o: | Easy | [str] |   |

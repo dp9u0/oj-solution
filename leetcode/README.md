@@ -2985,7 +2985,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2957 | [Remove Adjacent Almost-Equal Characters](./problems/2900-2999/2957/README.md)                                         | :o:    | Medium | [str],[grd]                                                 |      |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./problems/2900-2999/2958/README.md)                             | :o:    | Medium | [arr],[tp]                                                  |      |
 | 2959 | [Number of Possible Sets of Closing Branches](./problems/2900-2999/2959/README.md)                                     |        | Hard   |                                                             |      |
-| 2960 | [Count Tested Devices After Test Operations](./problems/2900-2999/2960/README.md)                                      |        | Easy   |                                                             |      |
+| 2960 | [Count Tested Devices After Test Operations](./problems/2900-2999/2960/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 2961 | [Double Modular Exponentiation](./problems/2900-2999/2961/README.md)                                                   |        | Medium |                                                             |      |
 | 2962 | [Count Subarrays Where Max Element Appears at Least K Times](./problems/2900-2999/2962/README.md)                      | :o:    | Medium | [arr]                                                       |      |
 | 2963 | [Count the Number of Good Partitions](./problems/2900-2999/2963/README.md)                                             |        | Hard   |                                                             |      |

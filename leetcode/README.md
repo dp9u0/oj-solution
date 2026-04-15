@@ -905,7 +905,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 828 | [Unique Letter String](./problems/800-899/828/README.md) | :o: | Hard | [str] |   |
 | 829  | [Consecutive Numbers Sum](./problems/800-899/829/README.md)                                                            |        | Hard   |                                                             |      |
 | 830  | [Positions of Large Groups](./problems/800-899/830/README.md)                                                          | :o:    | Easy   | [arr]                                                       |      |
-| 831  | [Masking Personal Information](./problems/800-899/831/README.md)                                                       |        | Medium |                                                             |      |
+| 831 | [Masking Personal Information](./problems/800-899/831/README.md) | :o: | Medium | [str],[lgc] |   |
 | 832  | [Flipping an Image](./problems/800-899/832/README.md)                                                                  | :o:    | Easy   | [arr]                                                       |      |
 | 833  | [Find And Replace in String](./problems/800-899/833/README.md)                                                         |        | Medium |                                                             |      |
 | 834 | [Sum of Distances in Tree](./problems/800-899/834/README.md) | :o: | Hard | [tr],[dfs],[dp] | :+1:  |

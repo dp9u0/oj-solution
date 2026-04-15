@@ -2566,7 +2566,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2538 | [Difference Between Maximum and Minimum Price Sum](./problems/2500-2599/2538/README.md)                                |        | Hard   |                                                             |      |
 | 2539 | [Count the Number of Good Subsequences](./problems/2500-2599/2539/README.md)                                           | :lock: | Medium |                                                             |      |
 | 2540 | [Minimum Common Value](./problems/2500-2599/2540/README.md)                                                            |        | Easy   |                                                             |      |
-| 2541 | [Minimum Operations to Make Array Equal II](./problems/2500-2599/2541/README.md)                                       |        | Medium |                                                             |      |
+| 2541 | [Minimum Operations to Make Array Equal II](./problems/2500-2599/2541/README.md) | :o: | Medium | [math],[arr] |   |
 | 2542 | [Maximum Subsequence Score](./problems/2500-2599/2542/README.md)                                                       |        | Medium |                                                             |      |
 | 2543 | [Check if Point Is Reachable](./problems/2500-2599/2543/README.md)                                                     |        | Hard   |                                                             |      |
 | 2544 | [Alternating Digit Sum](./problems/2500-2599/2544/README.md)                                                           |        | Easy   |                                                             |      |

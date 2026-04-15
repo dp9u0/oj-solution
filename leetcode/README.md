@@ -3531,3 +3531,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3538 | [Merge Operations for Minimum Travel Time](./problems/3500-3599/3538/README.md) | :o: | Hard | [dp] |   |
 | 3556 | [Sum of Largest Prime Substrings](./problems/3500-3599/3556/README.md) | :o: | Medium | [math],[str] |   |
 | 3766 | [Minimum Operations to Make Binary Palindrome](./problems/3700-3799/3766/README.md) | :o: | Medium | [bit],[arr] |   |
+| 3669 | [Balanced K-Factor Decomposition](./problems/3600-3699/3669/README.md) | :o: | Medium | [math],[dc] |   |

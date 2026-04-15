@@ -2264,7 +2264,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2236 | [Root Equals Sum of Children](./problems/2200-2299/2236/README.md)                                                     | :o:    | Easy   | [tr]                                                        |      |
 | 2237 | [Count Positions on Street With Required Brightness](./problems/2200-2299/2237/README.md)                              | :lock: | Medium |                                                             |      |
 | 2238 | [Number of Times a Driver Was a Passenger](./problems/2200-2299/2238/README.md)                                        | :lock: | Medium |                                                             |      |
-| 2239 | [Find Closest Number to Zero](./problems/2200-2299/2239/README.md)                                                     |        | Easy   |                                                             |      |
+| 2239 | [Find Closest Number to Zero](./problems/2200-2299/2239/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 2240 | [Number of Ways to Buy Pens and Pencils](./problems/2200-2299/2240/README.md)                                          |        | Medium |                                                             |      |
 | 2241 | [Design an ATM Machine](./problems/2200-2299/2241/README.md)                                                           |        | Medium |                                                             |      |
 | 2242 | [Maximum Score of a Node Sequence](./problems/2200-2299/2242/README.md)                                                |        | Hard   |                                                             |      |

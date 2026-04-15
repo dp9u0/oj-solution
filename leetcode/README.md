@@ -1098,7 +1098,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1021 | [Remove Outermost Parentheses](./problems/1000-1099/1021/README.md)                                                    | :o:    | Easy   | [none]                                                      |      |
 | 1022 | [Sum of Root To Leaf Binary Numbers](./problems/1000-1099/1022/README.md)                                              | :o:    | Easy   | [tr]                                                        |      |
 | 1023 | [Camelcase Matching](./problems/1000-1099/1023/README.md)                                                              |        | Medium |                                                             |      |
-| 1024 | [Video Stitching](./problems/1000-1099/1024/README.md)                                                                 |        | Medium |                                                             |      |
+| 1024 | [Video Stitching](./problems/1000-1099/1024/README.md) | :o: | Medium | [grd] |   |
 | 1025 | [Divisor Game](./problems/1000-1099/1025/README.md)                                                                    | :o:    | Easy   | [math]                                                      |      |
 | 1026 | [Maximum Difference Between Node and Ancestor](./problems/1000-1099/1026/README.md)                                    | :o:    | Medium | [tr],[dfs]                                                  |      |
 | 1027 | [Longest Arithmetic Sequence](./problems/1000-1099/1027/README.md)                                                     | :o:    | Medium | [arr],[dp]                                                  | :+1: |

@@ -3516,3 +3516,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1763 | [Longest Nice Substring](./problems/1700-1799/1763/README.md) | :o: | Easy | [str],[dc] |   |
 | 3456 | [Find Special Substring of Length K](./problems/3400-3499/3456/README.md) | :o: | Easy | [str] |   |
 | 3877 | [Minimum Removals to Achieve Target XOR](./problems/3800-3899/3877/README.md) | :o: | Medium | [bit],[dc] | :+1:  |
+| 3509 | [Maximum Product of Subsequences With an Alternating Sum Equal to K](./problems/3500-3599/3509/README.md) | :o: | Hard | [dp] | :+1:  |

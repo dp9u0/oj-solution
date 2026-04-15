@@ -3468,3 +3468,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3510 | [Minimum Pair Removal to Sort Array II](./problems/3500-3599/3510/README.md) | :o: | Hard | [ds],[hp] |   |
 | 3546 | [Equal Sum Grid Partition I](./problems/3500-3599/3546/README.md) | :o: | Medium | [arr],[math] |   |
 | 3856 | [Trim Trailing Vowels](./problems/3800-3899/3856/README.md) | :o: | Easy | [str] |   |
+| 3742 | [Maximum Path Score in a Grid](./problems/3700-3799/3742/README.md) | :o: | Medium | [dp] |   |

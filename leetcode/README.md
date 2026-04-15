@@ -1890,7 +1890,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1862 | [1862](./problems/1800-1899/1862/README.md)                                                                            |        | Easy   |                                                             |      |
 | 1863 | [Sum of All Subset XOR Totals](./problems/1800-1899/1863/README.md)                                                    | :o:    | Easy   | [bit]                                                       |      |
 | 1864 | [Minimum Number of Swaps to Make the Binary String Alternating](./problems/1800-1899/1864/README.md) | :o: | Medium | [str],[lgc] |   |
-| 1865 | [Finding Pairs With a Certain Sum](./problems/1800-1899/1865/README.md)                                                |        | Medium |                                                             |      |
+| 1865 | [Finding Pairs With a Certain Sum](./problems/1800-1899/1865/README.md) | :o: | Medium | [des],[hsh] |   |
 | 1866 | [Number of Ways to Rearrange Sticks With K Sticks Visible](./problems/1800-1899/1866/README.md)                        | :o:    | Hard   | [dp],[math]                                                 |      |
 | 1867 | [Orders With Maximum Quantity Above Average](./problems/1800-1899/1867/README.md)                                      | :lock: | Medium |                                                             |      |
 | 1868 | [Product of Two Run-Length Encoded Arrays](./problems/1800-1899/1868/README.md)                                        | :lock: | Medium |                                                             |      |

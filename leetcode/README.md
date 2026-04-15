@@ -2268,7 +2268,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2240 | [Number of Ways to Buy Pens and Pencils](./problems/2200-2299/2240/README.md)                                          |        | Medium |                                                             |      |
 | 2241 | [Design an ATM Machine](./problems/2200-2299/2241/README.md)                                                           |        | Medium |                                                             |      |
 | 2242 | [Maximum Score of a Node Sequence](./problems/2200-2299/2242/README.md)                                                |        | Hard   |                                                             |      |
-| 2243 | [Calculate Digit Sum of a String](./problems/2200-2299/2243/README.md)                                                 |        | Easy   |                                                             |      |
+| 2243 | [Calculate Digit Sum of a String](./problems/2200-2299/2243/README.md) | :o: | Easy | [str],[lgc] |   |
 | 2244 | [Minimum Rounds to Complete All Tasks](./problems/2200-2299/2244/README.md)                                            | :o:    | Medium | [arr]                                                       |      |
 | 2245 | [Maximum Trailing Zeros in a Cornered Path](./problems/2200-2299/2245/README.md)                                       |        | Medium |                                                             |      |
 | 2246 | [Longest Path With Different Adjacent Characters](./problems/2200-2299/2246/README.md)                                 |        | Hard   |                                                             |      |

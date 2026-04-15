@@ -2852,7 +2852,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2824 | [Count Pairs Whose Sum is Less than Target](./problems/2800-2899/2824/README.md)                                       | :o:    | Easy   | [tp]                                                        |      |
 | 2825 | [Make String a Subsequence Using Cyclic Increments](./problems/2800-2899/2825/README.md)                               |        | Medium |                                                             |      |
 | 2826 | [Sorting Three Groups](./problems/2800-2899/2826/README.md)                                                            |        | Medium |                                                             |      |
-| 2827 | [Number of Beautiful Integers in the Range](./problems/2800-2899/2827/README.md)                                       |        | Hard   |                                                             |      |
+| 2827 | [Number of Beautiful Integers in the Range](./problems/2800-2899/2827/README.md) | :o: | Hard | [dp],[math] | :+1:  |
 | 2828 | [Check if a String Is an Acronym of Words](./problems/2800-2899/2828/README.md)                                        |        | Easy   |                                                             |      |
 | 2829 | [Determine the Minimum Sum of a k-avoiding Array](./problems/2800-2899/2829/README.md)                                 | :o:    | Medium | [grd],[math]                                                |      |
 | 2830 | [Maximize the Profit as the Salesman](./problems/2800-2899/2830/README.md)                                             |        | Medium |                                                             |      |

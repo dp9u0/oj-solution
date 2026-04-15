@@ -806,7 +806,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 729 | [My Calendar I](./problems/700-799/729/README.md) | :o: | Medium | [des],[arr] |   |
 | 730  | [Count Different Palindromic Subsequences](./problems/700-799/730/README.md)                                           |        | Hard   |                                                             |      |
 | 731  | [My Calendar II](./problems/700-799/731/README.md)                                                                     | :o:    | Medium | [arr]                                                       |      |
-| 732  | [My Calendar III](./problems/700-799/732/README.md)                                                                    |        | Hard   |                                                             |      |
+| 732 | [My Calendar III](./problems/700-799/732/README.md) | :o: | Hard | [des],[arr] |   |
 | 733  | [Flood Fill](./problems/700-799/733/README.md)                                                                         | :o:    | Easy   | [bfs]                                                       |      |
 | 734  | [Sentence Similarity](./problems/700-799/734/README.md)                                                                | :lock: | Easy   |                                                             |      |
 | 735  | [Asteroid Collision](./problems/700-799/735/README.md)                                                                 | :o:    | Medium | [arr],[stack]                                               | :+1: |

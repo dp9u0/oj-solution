@@ -3525,3 +3525,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3407 | [Substring Matching Pattern](./problems/3400-3499/3407/README.md) | :o: | Easy | [str],[lgc] |   |
 | 3786 | [Total Sum of Interaction Cost in Tree Groups](./problems/3700-3799/3786/README.md) | :o: | Hard | [tr],[dfs],[grf] |   |
 | 3429 | [Paint House IV](./problems/3400-3499/3429/README.md) | :o: | Medium | [dp] |   |
+| 1748 | [Sum of Unique Elements](./problems/1700-1799/1748/README.md) | :o: | Easy | [arr],[hsh] |   |

@@ -3222,7 +3222,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3194 | [Minimum Average of Smallest and Largest Elements](./problems/3100-3199/3194/README.md)                                |        | Easy   |                                                             |      |
 | 3195 | [Find the Minimum Area to Cover All Ones I](./problems/3100-3199/3195/README.md)                                       |        | Medium |                                                             |      |
 | 3196 | [Maximize Total Cost of Alternating Subarrays](./problems/3100-3199/3196/README.md)                                    |        | Medium |                                                             |      |
-| 3197 | [Find the Minimum Area to Cover All Ones II](./problems/3100-3199/3197/README.md)                                      |        | Hard   |                                                             |      |
+| 3197 | [Find the Minimum Area to Cover All Ones II](./problems/3100-3199/3197/README.md) | :o: | Hard | [arr],[dc] |   |
 | 3198 | [Find Cities in Each State](./problems/3100-3199/3198/README.md)                                                       | :lock: | Easy   |                                                             |      |
 | 3199 | [Count Triplets with Even XOR Set Bits I](./problems/3100-3199/3199/README.md)                                         | :lock: | Easy   |                                                             |      |
 | 3200 | [Maximum Height of a Triangle](./problems/3200-3299/3200/README.md)                                                    | :o:    | Easy   | [math],[grd]                                                |      |

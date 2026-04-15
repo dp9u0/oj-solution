@@ -1530,7 +1530,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](./problems/1400-1499/1455/README.md)                    |        | Easy   |                                                             |      |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./problems/1400-1499/1456/README.md)                         | :o:    | Medium | [str],[tp]                                                  |      |
 | 1457 | [Pseudo-Palindromic Paths in a Binary Tree](./problems/1400-1499/1457/README.md)                                       |        | Medium |                                                             |      |
-| 1458 | [Max Dot Product of Two Subsequences](./problems/1400-1499/1458/README.md)                                             |        | Hard   |                                                             |      |
+| 1458 | [Max Dot Product of Two Subsequences](./problems/1400-1499/1458/README.md) | :o: | Hard | [dp] |   |
 | 1459 | [Rectangles Area](./problems/1400-1499/1459/README.md)                                                                 | :lock: | Medium |                                                             |      |
 | 1460 | [Make Two Arrays Equal by Reversing Sub-arrays](./problems/1400-1499/1460/README.md)                                   |        | Easy   |                                                             |      |
 | 1461 | [Check If a String Contains All Binary Codes of Size K](./problems/1400-1499/1461/README.md)                           | :o:    | Medium | [arr],[hash]                                                |      |

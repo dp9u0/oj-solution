@@ -3476,3 +3476,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3771 | [Total Score of Dungeon Runs](./problems/3700-3799/3771/README.md) | :o: | Medium | [arr],[ds] |   |
 | 3419 | [Minimize the Maximum Edge Weight of Graph](./problems/3400-3499/3419/README.md) | :o: | Medium | [grf],[bs] |   |
 | 3591 | [Check if Any Element Has Prime Frequency](./problems/3500-3599/3591/README.md) | :o: | Easy | [arr],[math] |   |
+| 3650 | [Minimum Cost Path with Edge Reversals](./problems/3600-3699/3650/README.md) | :o: | Medium | [grf] |   |

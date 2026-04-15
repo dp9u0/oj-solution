@@ -1496,7 +1496,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1421 | [NPV Queries](./problems/1400-1499/1421/README.md)                                                                     | :lock: | Medium |                                                             |      |
 | 1422 | [Maximum Score After Splitting a String](./problems/1400-1499/1422/README.md)                                          | :o:    | Easy   | [arr]                                                       |      |
 | 1423 | [Maximum Points You Can Obtain from Cards](./problems/1400-1499/1423/README.md)                                        | :o:    | Medium | [arr],[tp]                                                  | :+1: |
-| 1424 | [Diagonal Traverse II](./problems/1400-1499/1424/README.md)                                                            |        | Medium |                                                             |      |
+| 1424 | [Diagonal Traverse II](./problems/1400-1499/1424/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 1425 | [Constrained Subsequence Sum](./problems/1400-1499/1425/README.md) | :o: | Hard | [dp],[hp] | :+1:  |
 | 1426 | [Counting Elements](./problems/1400-1499/1426/README.md)                                                               | :lock: | Easy   |                                                             |      |
 | 1427 | [Perform String Shifts](./problems/1400-1499/1427/README.md)                                                           | :lock: | Easy   |                                                             |      |

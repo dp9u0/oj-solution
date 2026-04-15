@@ -3509,3 +3509,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3536 | [Maximum Product of Two Digits](./problems/3500-3599/3536/README.md) | :o: | Easy | [math] |   |
 | 1727 | [Largest Submatrix With Rearrangements](./problems/1700-1799/1727/README.md) | :o: | Medium | [arr],[grd] |   |
 | 3769 | [Sort Integers by Binary Reflection](./problems/3700-3799/3769/README.md) | :o: | Easy | [arr],[bit] |   |
+| 3488 | [Closest Equal Element Queries](./problems/3400-3499/3488/README.md) | :o: | Medium | [arr],[hsh] |   |

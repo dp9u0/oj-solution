@@ -1879,7 +1879,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1851 | [Minimum Interval to Include Each Query](./problems/1800-1899/1851/README.md)                                          |        | Hard   |                                                             |      |
 | 1852 | [Distinct Numbers in Each Subarray](./problems/1800-1899/1852/README.md)                                               | :lock: | Medium |                                                             |      |
 | 1853 | [Convert Date Format](./problems/1800-1899/1853/README.md)                                                             | :lock: | Easy   |                                                             |      |
-| 1854 | [Maximum Population Year](./problems/1800-1899/1854/README.md)                                                         |        | Easy   |                                                             |      |
+| 1854 | [Maximum Population Year](./problems/1800-1899/1854/README.md) | :o: | Easy | [arr] |   |
 | 1855 | [Maximum Distance Between a Pair of Values](./problems/1800-1899/1855/README.md)                                       |        | Medium |                                                             |      |
 | 1856 | [Maximum Subarray Min-Product](./problems/1800-1899/1856/README.md)                                                    | :o:    | Medium | [arr],[stack]                                               |      |
 | 1857 | [Largest Color Value in a Directed Graph](./problems/1800-1899/1857/README.md)                                         |        | Hard   |                                                             |      |

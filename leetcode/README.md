@@ -589,7 +589,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 507  | [Perfect Number](./problems/500-599/507/README.md)                                                                     | :o:    | Easy   | [math]                                                      |      |
 | 508 | [Most Frequent Subtree Sum](./problems/500-599/508/README.md) | :o: | Medium | [tr],[dfs] |   |
 | 509  | [Fibonacci Number](./problems/500-599/509/README.md)                                                                   | :o:    | Level  | [math]                                                      |      |
-| 513  | [Find Bottom Left Tree Value](./problems/500-599/513/README.md)                                                        |        | Medium |                                                             |      |
+| 513 | [Find Bottom Left Tree Value](./problems/500-599/513/README.md) | :o: | Medium | [tr],[bfs] |   |
 | 514  | [Freedom Trail](./problems/500-599/514/README.md)                                                                      |        | Hard   |                                                             |      |
 | 515  | [Find Largest Value in Each Tree Row](./problems/500-599/515/README.md)                                                | :o:    | Medium | [tr],[bfs]                                                  |      |
 | 516  | [Longest Palindromic Subsequence](./problems/500-599/516/README.md)                                                    | :o:    | Medium | [dp]                                                        | :+1: |

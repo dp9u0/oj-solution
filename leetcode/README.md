@@ -1458,7 +1458,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1383 | [Maximum Performance of a Team](./problems/1300-1399/1383/README.md)                                                   |        | Hard   |                                                             |      |
 | 1384 | [Total Sales Amount by Year](./problems/1300-1399/1384/README.md)                                                      | :lock: | Hard   |                                                             |      |
 | 1385 | [Find the Distance Value Between Two Arrays](./problems/1300-1399/1385/README.md)                                      |        | Easy   |                                                             |      |
-| 1386 | [Cinema Seat Allocation](./problems/1300-1399/1386/README.md)                                                          |        | Medium |                                                             |      |
+| 1386 | [Cinema Seat Allocation](./problems/1300-1399/1386/README.md) | :o: | Medium | [hsh],[bit] |   |
 | 1387 | [Sort Integers by The Power Value](./problems/1300-1399/1387/README.md)                                                |        | Medium |                                                             |      |
 | 1388 | [Pizza With 3n Slices](./problems/1300-1399/1388/README.md)                                                            |        | Hard   |                                                             |      |
 | 1389 | [Create Target Array in the Given Order](./problems/1300-1399/1389/README.md)                                          | :o:    | Easy   | [arr]                                                       |      |

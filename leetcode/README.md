@@ -976,7 +976,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 899 | [Orderly Queue](./problems/800-899/899/README.md) | :o: | Hard | [str] |   |
 | 900  | [RLE Iterator](./problems/900-999/900/README.md)                                                                       |        | Medium |                                                             |      |
 | 901  | [Online Stock Span](./problems/900-999/901/README.md)                                                                  | :o:    | Medium | [stack]                                                     | :+1: |
-| 902  | [Numbers At Most N Given Digit Set](./problems/900-999/902/README.md)                                                  |        | Hard   |                                                             |      |
+| 902 | [Numbers At Most N Given Digit Set](./problems/900-999/902/README.md) | :o: | Hard | [math],[dp] |   |
 | 903  | [Valid Permutations for DI Sequence](./problems/900-999/903/README.md)                                                 |        | Hard   |                                                             |      |
 | 904  | [Fruit Into Baskets](./problems/900-999/904/README.md)                                                                 | :o:    | Medium | [tp]                                                        | :+1: |
 | 905  | [Sort Array By Parity](./problems/900-999/905/README.md)                                                               | :o:    | Easy   | [tp],[arr]                                                  |      |

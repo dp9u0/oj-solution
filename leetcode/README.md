@@ -1103,7 +1103,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1026 | [Maximum Difference Between Node and Ancestor](./problems/1000-1099/1026/README.md)                                    | :o:    | Medium | [tr],[dfs]                                                  |      |
 | 1027 | [Longest Arithmetic Sequence](./problems/1000-1099/1027/README.md)                                                     | :o:    | Medium | [arr],[dp]                                                  | :+1: |
 | 1028 | [Recover a Tree From Preorder Traversal](./problems/1000-1099/1028/README.md)                                          | :o:    | Hard   | [tr]                                                        |      |
-| 1029 | [Two City Scheduling](./problems/1000-1099/1029/README.md)                                                             |        | Easy   |                                                             |      |
+| 1029 | [Two City Scheduling](./problems/1000-1099/1029/README.md) | :o: | Medium | [grd] |   |
 | 1030 | [Matrix Cells in Distance Order](./problems/1000-1099/1030/README.md)                                                  |        | Easy   |                                                             |      |
 | 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](./problems/1000-1099/1031/README.md)                                    |        | Medium |                                                             |      |
 | 1032 | [Stream of Characters](./problems/1000-1099/1032/README.md)                                                            |        | Hard   |                                                             |      |

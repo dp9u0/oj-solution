@@ -753,7 +753,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 676 | [Implement Magic Dictionary](./problems/600-699/676/README.md) | :o: | Medium | [des],[hsh] |   |
 | 677  | [Map Sum Pairs](./problems/600-699/677/README.md)                                                                      |        | Medium |                                                             |      |
 | 678  | [Valid Parenthesis String](./problems/600-699/678/README.md)                                                           | :o:    | Medium | [str],[stack]                                               | :+1: |
-| 679  | [24 Game](./problems/600-699/679/README.md)                                                                            |        | Hard   |                                                             |      |
+| 679 | [24 Game](./problems/600-699/679/README.md) | :o: | Hard | [dfs],[math] |   |
 | 680  | [Valid Palindrome II](./problems/600-699/680/README.md)                                                                | :o:    | Easy   | [arr]                                                       |      |
 | 681  | [Next Closest Time](./problems/600-699/681/README.md)                                                                  | :lock: | Medium |                                                             |      |
 | 682  | [Baseball Game](./problems/600-699/682/README.md)                                                                      | :o:    | Easy   | [stk]                                                       |      |

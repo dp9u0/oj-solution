@@ -2721,7 +2721,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2693 | [2693](./problems/2600-2699/2693/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2694 | [2694](./problems/2600-2699/2694/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2695 | [2695](./problems/2600-2699/2695/README.md)                                                                            |        | Easy   |                                                             |      |
-| 2696 | [Minimum String Length After Removing Substrings](./problems/2600-2699/2696/README.md)                                 |        | Easy   |                                                             |      |
+| 2696 | [Minimum String Length After Removing Substrings](./problems/2600-2699/2696/README.md) | :o: | Easy | [str],[stk] |   |
 | 2697 | [Lexicographically Smallest Palindrome](./problems/2600-2699/2697/README.md)                                           |        | Easy   |                                                             |      |
 | 2698 | [Find the Punishment Number of an Integer](./problems/2600-2699/2698/README.md)                                        |        | Medium |                                                             |      |
 | 2699 | [Modify Graph Edge Weights](./problems/2600-2699/2699/README.md)                                                       |        | Hard   |                                                             |      |

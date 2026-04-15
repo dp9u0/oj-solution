@@ -3367,7 +3367,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3339 | [Find the Number of K-Even Arrays](./problems/3300-3399/3339/README.md)                                                | :lock: | Medium |                                                             |      |
 | 3340 | [Check Balanced String](./problems/3300-3399/3340/README.md) | :o: | Easy | [str] |   |
 | 3341 | [Find Minimum Time to Reach Last Room I](./problems/3300-3399/3341/README.md)                                          |        | Medium |                                                             |      |
-| 3342 | [Find Minimum Time to Reach Last Room II](./problems/3300-3399/3342/README.md)                                         |        | Medium |                                                             |      |
+| 3342 | [Find Minimum Time to Reach Last Room II](./problems/3300-3399/3342/README.md) | :o: | Medium | [bfs],[grd] |   |
 | 3343 | [Count Number of Balanced Permutations](./problems/3300-3399/3343/README.md)                                           |        | Hard   |                                                             |      |
 | 3344 | [Maximum Sized Array](./problems/3300-3399/3344/README.md)                                                             | :lock: | Medium |                                                             |      |
 | 3345 | [Smallest Divisible Digit Product I](./problems/3300-3399/3345/README.md)                                              |        | Easy   |                                                             |      |

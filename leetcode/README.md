@@ -1936,7 +1936,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1908 | [Game of Nim](./problems/1900-1999/1908/README.md)                                                                     | :lock: | Medium |                                                             |      |
 | 1909 | [Remove One Element to Make the Array Strictly Increasing](./problems/1900-1999/1909/README.md)                        |        | Easy   |                                                             |      |
 | 1910 | [Remove All Occurrences of a Substring](./problems/1900-1999/1910/README.md)                                           |        | Medium |                                                             |      |
-| 1911 | [Maximum Alternating Subsequence Sum](./problems/1900-1999/1911/README.md)                                             |        | Medium |                                                             |      |
+| 1911 | [Maximum Alternating Subsequence Sum](./problems/1900-1999/1911/README.md) | :o: | Medium | [dp] |   |
 | 1912 | [Design Movie Rental System](./problems/1900-1999/1912/README.md)                                                      |        | Hard   |                                                             |      |
 | 1913 | [Maximum Product Difference Between Two Pairs](./problems/1900-1999/1913/README.md)                                    | :o:    | Easy   | [arr],[sort]                                                |      |
 | 1914 | [Cyclically Rotating a Grid](./problems/1900-1999/1914/README.md)                                                      |        | Medium |                                                             |      |

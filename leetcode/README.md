@@ -2179,7 +2179,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2151 | [Maximum Good People Based on Statements](./problems/2100-2199/2151/README.md)                                         |        | Hard   |                                                             |      |
 | 2152 | [Minimum Number of Lines to Cover Points](./problems/2100-2199/2152/README.md)                                         | :lock: | Medium |                                                             |      |
 | 2153 | [The Number of Passengers in Each Bus II](./problems/2100-2199/2153/README.md)                                         | :lock: | Hard   |                                                             |      |
-| 2154 | [Keep Multiplying Found Values by Two](./problems/2100-2199/2154/README.md)                                            |        | Easy   |                                                             |      |
+| 2154 | [Keep Multiplying Found Values by Two](./problems/2100-2199/2154/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 2155 | [All Divisions With the Highest Score of a Binary Array](./problems/2100-2199/2155/README.md)                          | :o:    | Medium | [arr]                                                       |      |
 | 2156 | [Find Substring With Given Hash Value](./problems/2100-2199/2156/README.md)                                            |        | Hard   |                                                             |      |
 | 2157 | [Groups of Strings](./problems/2100-2199/2157/README.md)                                                               |        | Hard   |                                                             |      |

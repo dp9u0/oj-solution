@@ -3505,3 +3505,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3434 | [Maximum Frequency After Subarray Operation](./problems/3400-3499/3434/README.md) | :o: | Medium | [arr] |   |
 | 3468 | [Find the Number of Copy Arrays](./problems/3400-3499/3468/README.md) | :o: | Medium | [arr],[math] |   |
 | 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](./problems/3400-3499/3423/README.md) | :o: | Easy | [arr],[lgc] |   |
+| 1745 | [Palindrome Partitioning IV](./problems/1700-1799/1745/README.md) | :o: | Hard | [str],[dp] |   |

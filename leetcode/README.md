@@ -2664,7 +2664,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2636 | [2636](./problems/2600-2699/2636/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2637 | [2637](./problems/2600-2699/2637/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2638 | [Count the Number of K-Free Subsets](./problems/2600-2699/2638/README.md)                                              | :lock: | Medium |                                                             |      |
-| 2639 | [Find the Width of Columns of a Grid](./problems/2600-2699/2639/README.md)                                             |        | Easy   |                                                             |      |
+| 2639 | [Find the Width of Columns of a Grid](./problems/2600-2699/2639/README.md) | :o: | Easy | [arr] |   |
 | 2640 | [Find the Score of All Prefixes of an Array](./problems/2600-2699/2640/README.md)                                      | :o:    | Medium | [arr]                                                       |      |
 | 2641 | [Cousins in Binary Tree II](./problems/2600-2699/2641/README.md)                                                       |        | Medium |                                                             |      |
 | 2642 | [Design Graph With Shortest Path Calculator](./problems/2600-2699/2642/README.md)                                      |        | Hard   |                                                             |      |

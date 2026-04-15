@@ -1116,7 +1116,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1039 | [Minimum Score Triangulation of Polygon](./problems/1000-1099/1039/README.md) | :o: | Medium | [dp] | :+1:  |
 | 1040 | [Moving Stones Until Consecutive II](./problems/1000-1099/1040/README.md) | :o: | Medium | [grd],[sd] |   |
 | 1041 | [Robot Bounded In Circle](./problems/1000-1099/1041/README.md)                                                         | :o:    | Medium | [simulation]                                                | :+1: |
-| 1042 | [Flower Planting With No Adjacent](./problems/1000-1099/1042/README.md)                                                |        | Easy   |                                                             |      |
+| 1042 | [Flower Planting With No Adjacent](./problems/1000-1099/1042/README.md) | :o: | Medium | [grf],[grd] |   |
 | 1043 | [Partition Array for Maximum Sum](./problems/1000-1099/1043/README.md)                                                 | :o:    | Medium | [dp]                                                        |      |
 | 1044 | [Longest Duplicate Substring](./problems/1000-1099/1044/README.md)                                                     | :o:    | Hard   | [bs],[hp]                                                   | :+1: |
 | 1045 | [Customers Who Bought All Products](./problems/1000-1099/1045/README.md)                                               | :lock: | Medium |                                                             |      |

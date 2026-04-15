@@ -1423,7 +1423,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1348 | [Tweet Counts Per Frequency](./problems/1300-1399/1348/README.md)                                                      |        | Medium |                                                             |      |
 | 1349 | [Maximum Students Taking Exam](./problems/1300-1399/1349/README.md)                                                    |        | Hard   |                                                             |      |
 | 1350 | [Students With Invalid Departments](./problems/1300-1399/1350/README.md)                                               | :lock: | Easy   |                                                             |      |
-| 1351 | [Count Negative Numbers in a Sorted Matrix](./problems/1300-1399/1351/README.md)                                       |        | Easy   |                                                             |      |
+| 1351 | [Count Negative Numbers in a Sorted Matrix](./problems/1300-1399/1351/README.md) | :o: | Easy | [bs],[tp] |   |
 | 1352 | [Product of the Last K Numbers](./problems/1300-1399/1352/README.md)                                                   |        | Medium |                                                             |      |
 | 1353 | [Maximum Number of Events That Can Be Attended](./problems/1300-1399/1353/README.md)                                   |        | Medium |                                                             |      |
 | 1354 | [Construct Target Array With Multiple Sums](./problems/1300-1399/1354/README.md)                                       |        | Hard   |                                                             |      |

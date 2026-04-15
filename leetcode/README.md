@@ -1444,7 +1444,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1369 | [Get the Second Most Recent Activity](./problems/1300-1399/1369/README.md)                                             | :lock: | Hard   |                                                             |      |
 | 1370 | [Increasing Decreasing String](./problems/1300-1399/1370/README.md)                                                    | :o:    | Easy   | [str]                                                       |      |
 | 1371 | [Find the Longest Substring Containing Vowels in Even Counts](./problems/1300-1399/1371/README.md) | :o: | Medium | [str],[bit] | :+1:  |
-| 1372 | [Longest ZigZag Path in a Binary Tree](./problems/1300-1399/1372/README.md)                                            |        | Medium |                                                             |      |
+| 1372 | [Longest ZigZag Path in a Binary Tree](./problems/1300-1399/1372/README.md) | :o: | Medium | [tr],[dfs] |   |
 | 1373 | [Maximum Sum BST in Binary Tree](./problems/1300-1399/1373/README.md)                                                  |        | Hard   |                                                             |      |
 | 1374 | [Generate a String With Characters That Have Odd Counts](./problems/1300-1399/1374/README.md)                          | :o:    | Easy   | [str],[lgc]                                                 |      |
 | 1375 | [Bulb Switcher III](./problems/1300-1399/1375/README.md)                                                               | :o:    | Medium | [arr]                                                       |      |

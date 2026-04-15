@@ -3461,3 +3461,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3478 | [Choose K Elements With Maximum Sum](./problems/3400-3499/3478/README.md) | :o: | Medium | [hp],[grd] |   |
 | 3442 | [Maximum Difference Between Even and Odd Frequency I](./problems/3400-3499/3442/README.md) | :o: | Easy | [str],[hsh] |   |
 | 3794 | [Reverse String Prefix](./problems/3700-3799/3794/README.md) | :o: | Easy | [str] |   |
+| 3868 | [Minimum Cost to Equalize Arrays Using Swaps](./problems/3800-3899/3868/README.md) | :o: | Medium | [arr],[hsh] |   |

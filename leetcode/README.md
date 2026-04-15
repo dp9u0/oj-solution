@@ -1113,7 +1113,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1036 | [Escape a Large Maze](./problems/1000-1099/1036/README.md)                                                             | :o:    | Hard   | [bfs]                                                       |      |
 | 1037 | [Valid Boomerang](./problems/1000-1099/1037/README.md)                                                                 | :o:    | Easy   | [math]                                                      |      |
 | 1038 | [Binary Search Tree to Greater Sum Tree](./problems/1000-1099/1038/README.md)                                          | :o:    | Medium | [[tr]]                                                      |      |
-| 1039 | [Minimum Score Triangulation of Polygon](./problems/1000-1099/1039/README.md)                                          |        | Medium |                                                             |      |
+| 1039 | [Minimum Score Triangulation of Polygon](./problems/1000-1099/1039/README.md) | :o: | Medium | [dp] | :+1:  |
 | 1040 | [Moving Stones Until Consecutive II](./problems/1000-1099/1040/README.md)                                              |        | Medium |                                                             |      |
 | 1041 | [Robot Bounded In Circle](./problems/1000-1099/1041/README.md)                                                         | :o:    | Medium | [simulation]                                                | :+1: |
 | 1042 | [Flower Planting With No Adjacent](./problems/1000-1099/1042/README.md)                                                |        | Easy   |                                                             |      |

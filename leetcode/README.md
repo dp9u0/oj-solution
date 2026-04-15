@@ -2897,7 +2897,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2869 | [Minimum Operations to Collect Elements](./problems/2800-2899/2869/README.md)                                          |        | Easy   |                                                             |      |
 | 2870 | [Minimum Number of Operations to Make Array Empty](./problems/2800-2899/2870/README.md)                                | :o:    | Medium | [hash],[greedy]                                             |      |
 | 2871 | [Split Array Into Maximum Number of Subarrays](./problems/2800-2899/2871/README.md)                                    | :o:    | Medium | [bit]                                                       |      |
-| 2872 | [Maximum Number of K-Divisible Components](./problems/2800-2899/2872/README.md)                                        |        | Hard   |                                                             |      |
+| 2872 | [Maximum Number of K-Divisible Components](./problems/2800-2899/2872/README.md) | :o: | Hard | [grf],[dfs] |   |
 | 2873 | [Maximum Value of an Ordered Triplet I](./problems/2800-2899/2873/README.md)                                           | :o:    | Easy   | [arr]                                                       |      |
 | 2874 | [Maximum Value of an Ordered Triplet II](./problems/2800-2899/2874/README.md)                                          | :o:    | Medium | [arr],[greedy]                                              |      |
 | 2875 | [Minimum Size Subarray in Infinite Array](./problems/2800-2899/2875/README.md)                                         |        | Medium |                                                             |      |

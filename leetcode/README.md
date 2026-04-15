@@ -2869,7 +2869,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2841 | [Maximum Sum of Almost Unique Subarray](./problems/2800-2899/2841/README.md)                                           | :o:    | Medium | [sd],[hsh]                                                  |      |
 | 2842 | [Count K-Subsequences of a String With Maximum Beauty](./problems/2800-2899/2842/README.md)                            |        | Hard   |                                                             |      |
 | 2843 | [Count Symmetric Integers](./problems/2800-2899/2843/README.md)                                                        |        | Easy   |                                                             |      |
-| 2844 | [Minimum Operations to Make a Special Number](./problems/2800-2899/2844/README.md)                                     |        | Medium |                                                             |      |
+| 2844 | [Minimum Operations to Make a Special Number](./problems/2800-2899/2844/README.md) | :o: | Medium | [str],[math] |   |
 | 2845 | [Count of Interesting Subarrays](./problems/2800-2899/2845/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 2846 | [Minimum Edge Weight Equilibrium Queries in a Tree](./problems/2800-2899/2846/README.md)                               |        | Hard   |                                                             |      |
 | 2847 | [Smallest Number With Given Digit Product](./problems/2800-2899/2847/README.md)                                        | :lock: | Medium |                                                             |      |

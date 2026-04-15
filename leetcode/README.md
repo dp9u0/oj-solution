@@ -1779,7 +1779,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1704 | [Determine if String Halves Are Alike](./problems/1700-1799/1704/README.md)                                            |        | Easy   |                                                             |      |
 | 1705 | [Maximum Number of Eaten Apples](./problems/1700-1799/1705/README.md)                                                  |        | Medium |                                                             |      |
 | 1706 | [1706](./problems/1700-1799/1706/README.md)                                                                            | :o:    | Medium | [arr]                                                       |      |
-| 1707 | [Maximum XOR With an Element From Array](./problems/1700-1799/1707/README.md)                                          |        | Hard   |                                                             |      |
+| 1707 | [Maximum XOR With an Element From Array](./problems/1700-1799/1707/README.md) | :o: | Hard | [bit],[bs] |   |
 | 1708 | [Largest Subarray Length K](./problems/1700-1799/1708/README.md)                                                       | :lock: | Easy   |                                                             |      |
 | 1709 | [Biggest Window Between Visits](./problems/1700-1799/1709/README.md)                                                   | :lock: | Medium |                                                             |      |
 | 1710 | [Maximum Units on a Truck](./problems/1700-1799/1710/README.md)                                                        | :o:    | Easy   | [arr],[greedy]                                              |      |

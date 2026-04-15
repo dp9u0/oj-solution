@@ -3478,3 +3478,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3591 | [Check if Any Element Has Prime Frequency](./problems/3500-3599/3591/README.md) | :o: | Easy | [arr],[math] |   |
 | 3650 | [Minimum Cost Path with Edge Reversals](./problems/3600-3699/3650/README.md) | :o: | Medium | [grf] |   |
 | 3619 | [Count Islands With Total Value Divisible by K](./problems/3600-3699/3619/README.md) | :o: | Medium | [bfs] |   |
+| 3747 | [Count Distinct Integers After Removing Zeros](./problems/3700-3799/3747/README.md) | :o: | Medium | [math] |   |

@@ -2933,7 +2933,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2905 | [Find Indices With Index and Value Difference II](./problems/2900-2999/2905/README.md)                                 |        | Medium |                                                             |      |
 | 2906 | [Construct Product Matrix](./problems/2900-2999/2906/README.md)                                                        | :o:    | Medium | [arr],[prefix]                                              |      |
 | 2907 | [Maximum Profitable Triplets With Increasing Prices I](./problems/2900-2999/2907/README.md)                            | :lock: | Medium |                                                             |      |
-| 2908 | [Minimum Sum of Mountain Triplets I](./problems/2900-2999/2908/README.md)                                              |        | Easy   |                                                             |      |
+| 2908 | [Minimum Sum of Mountain Triplets I](./problems/2900-2999/2908/README.md) | :o: | Easy | [arr] |   |
 | 2909 | [Minimum Sum of Mountain Triplets II](./problems/2900-2999/2909/README.md)                                             | :o:    | Medium | [arr]                                                       |      |
 | 2910 | [Minimum Number of Groups to Create a Valid Assignment](./problems/2900-2999/2910/README.md)                           |        | Medium |                                                             |      |
 | 2911 | [Minimum Changes to Make K Semi-palindromes](./problems/2900-2999/2911/README.md)                                      | :o:    | Hard   | [dp],[str]                                                  |      |

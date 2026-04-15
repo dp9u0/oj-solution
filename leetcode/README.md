@@ -2791,7 +2791,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2763 | [Sum of Imbalance Numbers of All Subarrays](./problems/2700-2799/2763/README.md)                                       |        | Hard   |                                                             |      |
 | 2764 | [Is Array a Preorder of Some ‌Binary Tree](./problems/2700-2799/2764/README.md)                                         | :lock: | Medium |                                                             |      |
 | 2765 | [Longest Alternating Subarray](./problems/2700-2799/2765/README.md) | :o: | Easy | [arr] |   |
-| 2766 | [Relocate Marbles](./problems/2700-2799/2766/README.md)                                                                |        | Medium |                                                             |      |
+| 2766 | [Relocate Marbles](./problems/2700-2799/2766/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 2767 | [Partition String Into Minimum Beautiful Substrings](./problems/2700-2799/2767/README.md)                              | :o:    | Medium | [dp],[str]                                                  |      |
 | 2768 | [Number of Black Blocks](./problems/2700-2799/2768/README.md)                                                          | :o:    | Medium | [hsh],[arr]                                                 |      |
 | 2769 | [Find the Maximum Achievable Number](./problems/2700-2799/2769/README.md)                                              |        | Easy   |                                                             |      |

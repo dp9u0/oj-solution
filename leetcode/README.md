@@ -1831,7 +1831,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1803 | [Count Pairs With XOR in a Range](./problems/1800-1899/1803/README.md)                                                 |        | Hard   |                                                             |      |
 | 1804 | [Implement Trie II (Prefix Tree)](./problems/1800-1899/1804/README.md)                                                 | :lock: | Medium |                                                             |      |
 | 1805 | [Number of Different Integers in a String](./problems/1800-1899/1805/README.md)                                        |        | Easy   |                                                             |      |
-| 1806 | [Minimum Number of Operations to Reinitialize a Permutation](./problems/1800-1899/1806/README.md)                      |        | Medium |                                                             |      |
+| 1806 | [Minimum Number of Operations to Reinitialize a Permutation](./problems/1800-1899/1806/README.md) | :o: | Medium | [arr],[math] |   |
 | 1807 | [Evaluate the Bracket Pairs of a String](./problems/1800-1899/1807/README.md)                                          |        | Medium |                                                             |      |
 | 1808 | [Maximize Number of Nice Divisors](./problems/1800-1899/1808/README.md)                                                |        | Hard   |                                                             |      |
 | 1809 | [Ad-Free Sessions](./problems/1800-1899/1809/README.md)                                                                | :lock: | Easy   |                                                             |      |

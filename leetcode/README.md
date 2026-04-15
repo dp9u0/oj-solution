@@ -726,7 +726,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 649  | [Dota2 Senate](./problems/600-699/649/README.md)                                                                       | :o:    | Medium | [str],[queue]                                               | :+1: |
 | 650  | [2 Keys Keyboard](./problems/600-699/650/README.md)                                                                    |        | Medium |                                                             |      |
 | 651  | [4 Keys Keyboard](./problems/600-699/651/README.md)                                                                    | :lock: | Medium |                                                             |      |
-| 652  | [Find Duplicate Subtrees](./problems/600-699/652/README.md)                                                            |        | Medium |                                                             |      |
+| 652 | [Find Duplicate Subtrees](./problems/600-699/652/README.md) | :o: | Medium | [tr],[dfs],[hsh] |   |
 | 653  | [Two Sum IV - Input is a BST](./problems/600-699/653/README.md)                                                        | :o:    | Easy   | [tr]                                                        |      |
 | 654  | [Maximum Binary Tree](./problems/600-699/654/README.md)                                                                |        | Medium |                                                             |      |
 | 655  | [Print Binary Tree](./problems/600-699/655/README.md)                                                                  | :o:    | Medium | [tr]                                                        |      |

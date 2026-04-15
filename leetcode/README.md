@@ -2874,7 +2874,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2846 | [Minimum Edge Weight Equilibrium Queries in a Tree](./problems/2800-2899/2846/README.md)                               |        | Hard   |                                                             |      |
 | 2847 | [Smallest Number With Given Digit Product](./problems/2800-2899/2847/README.md)                                        | :lock: | Medium |                                                             |      |
 | 2848 | [Points That Intersect With Cars](./problems/2800-2899/2848/README.md)                                                 | :o:    | Easy   | [arr],[hsh]                                                 |      |
-| 2849 | [Determine if a Cell Is Reachable at a Given Time](./problems/2800-2899/2849/README.md)                                |        | Medium |                                                             |      |
+| 2849 | [Determine if a Cell Is Reachable at a Given Time](./problems/2800-2899/2849/README.md) | :o: | Medium | [math] |   |
 | 2850 | [Minimum Moves to Spread Stones Over Grid](./problems/2800-2899/2850/README.md)                                        |        | Medium |                                                             |      |
 | 2851 | [String Transformation](./problems/2800-2899/2851/README.md)                                                           |        | Hard   |                                                             |      |
 | 2852 | [Sum of Remoteness of All Cells](./problems/2800-2899/2852/README.md)                                                  | :lock: | Medium |                                                             |      |

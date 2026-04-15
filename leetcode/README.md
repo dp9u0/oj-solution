@@ -759,7 +759,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 682  | [Baseball Game](./problems/600-699/682/README.md)                                                                      | :o:    | Easy   | [stk]                                                       |      |
 | 683  | [K Empty Slots](./problems/600-699/683/README.md)                                                                      | :lock: | Hard   |                                                             |      |
 | 684  | [Redundant Connection](./problems/600-699/684/README.md)                                                               | :o:    | Medium | [arr]                                                       |      |
-| 685  | [Redundant Connection II](./problems/600-699/685/README.md)                                                            |        | Hard   |                                                             |      |
+| 685 | [Redundant Connection II](./problems/600-699/685/README.md) | :o: | Hard | [ds],[grf] | :+1:  |
 | 686  | [Repeated String Match](./problems/600-699/686/README.md)                                                              | :o:    | Easy   | [str]                                                       |      |
 | 687  | [Longest Univalue Path](./problems/600-699/687/README.md)                                                              | :o:    | Easy   | [tr]                                                        |      |
 | 688  | [Knight Probability in Chessboard](./problems/600-699/688/README.md)                                                   |        | Medium |                                                             |      |

@@ -1664,7 +1664,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1589 | [Maximum Sum Obtained of Any Permutation](./problems/1500-1599/1589/README.md)                                         | :o:    | Medium | [arr],[greedy]                                              |      |
 | 1590 | [Make Sum Divisible by P](./problems/1500-1599/1590/README.md)                                                         | :o:    | Medium | [hsh]                                                       |      |
 | 1591 | [Strange Printer II](./problems/1500-1599/1591/README.md)                                                              |        | Hard   |                                                             |      |
-| 1592 | [Rearrange Spaces Between Words](./problems/1500-1599/1592/README.md)                                                  |        | Easy   |                                                             |      |
+| 1592 | [Rearrange Spaces Between Words](./problems/1500-1599/1592/README.md) | :o: | Easy | [str],[lgc] |   |
 | 1593 | [Split a String Into the Max Number of Unique Substrings](./problems/1500-1599/1593/README.md)                         |        | Medium |                                                             |      |
 | 1594 | [Maximum Non Negative Product in a Matrix](./problems/1500-1599/1594/README.md)                                        | :o:    | Medium | [dp]                                                        |      |
 | 1595 | [Minimum Cost to Connect Two Groups of Points](./problems/1500-1599/1595/README.md)                                    |        | Hard   |                                                             |      |

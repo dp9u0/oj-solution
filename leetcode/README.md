@@ -3387,7 +3387,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3359 | [Find Sorted Submatrices With Maximum Element at Most K](./problems/3300-3399/3359/README.md)                          | :lock: | Hard   |                                                             |      |
 | 3360 | [Stone Removal Game](./problems/3300-3399/3360/README.md) | :o: | Easy | [lgc] |   |
 | 3361 | [Shift Distance Between Two Strings](./problems/3300-3399/3361/README.md)                                              |        | Medium |                                                             |      |
-| 3362 | [Zero Array Transformation III](./problems/3300-3399/3362/README.md)                                                   |        | Medium |                                                             |      |
+| 3362 | [Zero Array Transformation III](./problems/3300-3399/3362/README.md) | :o: | Medium | [grd],[hp] |   |
 | 3363 | [Find the Maximum Number of Fruits Collected](./problems/3300-3399/3363/README.md)                                     |        | Hard   |                                                             |      |
 | 3364 | [Minimum Positive Sum Subarra](./problems/3300-3399/3364/README.md)                                                    |        | Easy   |                                                             |      |
 | 3365 | [Rearrange K Substrings to Form Target String](./problems/3300-3399/3365/README.md)                                    |        | Medium |                                                             |      |

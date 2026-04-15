@@ -3360,7 +3360,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3332 | [Maximum Points Tourist Can Earn](./problems/3300-3399/3332/README.md)                                                 |        | Medium |                                                             |      |
 | 3333 | [Find the Original Typed String II](./problems/3300-3399/3333/README.md)                                               |        | Hard   |                                                             |      |
 | 3334 | [Find the Maximum Factor Score of Array](./problems/3300-3399/3334/README.md)                                          |        | Medium |                                                             |      |
-| 3335 | [Total Characters in String After Transformations I](./problems/3300-3399/3335/README.md)                              |        | Medium |                                                             |      |
+| 3335 | [Total Characters in String After Transformations I](./problems/3300-3399/3335/README.md) | :o: | Medium | [str],[dp] |   |
 | 3336 | [Find the Number of Subsequences With Equal GCD](./problems/3300-3399/3336/README.md)                                  |        | Hard   |                                                             |      |
 | 3337 | [Total Characters in String After Transformations II](./problems/3300-3399/3337/README.md) | :o: | Hard | [str],[math] |   |
 | 3338 | [Second Highest Salary II](./problems/3300-3399/3338/README.md)                                                        | :lock: | Medium |                                                             |      |

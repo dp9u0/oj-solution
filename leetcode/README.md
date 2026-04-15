@@ -2329,7 +2329,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2301 | [Match Substring After Replacement](./problems/2300-2399/2301/README.md)                                               |        | Hard   |                                                             |      |
 | 2302 | [Count Subarrays With Score Less Than K](./problems/2300-2399/2302/README.md)                                          | :o:    | Hard   | [tp]                                                        |      |
 | 2303 | [2303](./problems/2300-2399/2303/README.md)                                                                            |        | Easy   |                                                             |      |
-| 2304 | [2304](./problems/2300-2399/2304/README.md)                                                                            |        | Easy   |                                                             |      |
+| 2304 | [2304](./problems/2300-2399/2304/README.md) | :o: | Medium | [dp],[arr] |   |
 | 2305 | [2305](./problems/2300-2399/2305/README.md)                                                                            | :o:    | Medium | [bt]                                                        |      |
 | 2306 | [Naming a Company](./problems/2300-2399/2306/README.md)                                                                |        | Hard   |                                                             |      |
 | 2307 | [2307](./problems/2300-2399/2307/README.md)                                                                            |        | Easy   |                                                             |      |

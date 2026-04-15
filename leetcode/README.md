@@ -2956,7 +2956,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2928 | [Distribute Candies Among Children I](./problems/2900-2999/2928/README.md) | :o: | Easy | [math] |   |
 | 2929 | [Distribute Candies Among Children II](./problems/2900-2999/2929/README.md)                                            |        | Medium |                                                             |      |
 | 2930 | [Number of Strings Which Can Be Rearranged to Contain Substring](./problems/2900-2999/2930/README.md)                  |        | Medium |                                                             |      |
-| 2931 | [Maximum Spending After Buying Items](./problems/2900-2999/2931/README.md)                                             |        | Hard   |                                                             |      |
+| 2931 | [Maximum Spending After Buying Items](./problems/2900-2999/2931/README.md) | :o: | Hard | [grd],[hp] |   |
 | 2932 | [Maximum Strong Pair XOR I](./problems/2900-2999/2932/README.md)                                                       |        | Easy   |                                                             |      |
 | 2933 | [High-Access Employees](./problems/2900-2999/2933/README.md) | :o: | Medium | [hsh],[sd] |   |
 | 2934 | [Minimum Operations to Maximize Last Elements in Arrays](./problems/2900-2999/2934/README.md)                          |        | Medium |                                                             |      |

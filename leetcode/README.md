@@ -509,7 +509,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 427  | [Construct Quad Tree](./problems/400-499/427/README.md)                                                                | :o:    | Easy   | [tr]                                                        |      |
 | 428  | [Serialize and Deserialize N-ary Tree](./problems/400-499/428/README.md)                                               | :lock: | Hard   |                                                             |      |
 | 429  | [N-ary Tree Level Order Traversal](./problems/400-499/429/README.md)                                                   | :o:    | Easy   | [tr],[bfs]                                                  |      |
-| 430  | [Flatten a Multilevel Doubly Linked List](./problems/400-499/430/README.md)                                            |        | Medium |                                                             |      |
+| 430 | [Flatten a Multilevel Doubly Linked List](./problems/400-499/430/README.md) | :o: | Medium | [ll],[stk] |   |
 | 431  | [Encode N-ary Tree to Binary Tree](./problems/400-499/431/README.md)                                                   | :lock: | Hard   |                                                             |      |
 | 432  | [All O`one Data Structure](./problems/400-499/432/README.md)                                                           |        | Hard   |                                                             |      |
 | 433  | [Minimum Genetic Mutation](./problems/400-499/433/README.md)                                                           | :o:    | Medium | [bfs]                                                       |      |

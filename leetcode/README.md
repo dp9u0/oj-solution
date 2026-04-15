@@ -2351,7 +2351,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2323 | [Find Minimum Time to Finish All Jobs II](./problems/2300-2399/2323/README.md)                                         | :lock: | Medium |                                                             |      |
 | 2324 | [Product Sales Analysis IV](./problems/2300-2399/2324/README.md)                                                       | :lock: | Medium |                                                             |      |
 | 2325 | [Decode the Message](./problems/2300-2399/2325/README.md)                                                              |        | Easy   |                                                             |      |
-| 2326 | [Spiral Matrix IV](./problems/2300-2399/2326/README.md)                                                                |        | Medium |                                                             |      |
+| 2326 | [Spiral Matrix IV](./problems/2300-2399/2326/README.md) | :o: | Medium | [arr],[ll] |   |
 | 2327 | [Number of People Aware of a Secret](./problems/2300-2399/2327/README.md)                                              |        | Medium |                                                             |      |
 | 2328 | [Number of Increasing Paths in a Grid](./problems/2300-2399/2328/README.md)                                            |        | Hard   |                                                             |      |
 | 2329 | [Product Sales Analysis V](./problems/2300-2399/2329/README.md)                                                        | :lock: | Easy   |                                                             |      |

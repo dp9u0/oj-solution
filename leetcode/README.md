@@ -2927,7 +2927,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2899 | [Last Visited Integers](./problems/2800-2899/2899/README.md)                                                           |        | Easy   |                                                             |      |
 | 2900 | [Longest Unequal Adjacent Groups Subsequence I](./problems/2900-2999/2900/README.md)                                   |        | Easy   |                                                             |      |
 | 2901 | [Longest Unequal Adjacent Groups Subsequence II](./problems/2900-2999/2901/README.md)                                  |        | Medium |                                                             |      |
-| 2902 | [Count of Sub-Multisets With Bounded Sum](./problems/2900-2999/2902/README.md)                                         |        | Hard   |                                                             |      |
+| 2902 | [Count of Sub-Multisets With Bounded Sum](./problems/2900-2999/2902/README.md) | :o: | Hard | [dp],[hsh] |   |
 | 2903 | [Find Indices With Index and Value Difference I](./problems/2900-2999/2903/README.md)                                  |        | Easy   |                                                             |      |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](./problems/2900-2999/2904/README.md)                        |        | Medium |                                                             |      |
 | 2905 | [Find Indices With Index and Value Difference II](./problems/2900-2999/2905/README.md)                                 |        | Medium |                                                             |      |

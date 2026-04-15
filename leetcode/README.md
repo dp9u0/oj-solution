@@ -3517,3 +3517,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3456 | [Find Special Substring of Length K](./problems/3400-3499/3456/README.md) | :o: | Easy | [str] |   |
 | 3877 | [Minimum Removals to Achieve Target XOR](./problems/3800-3899/3877/README.md) | :o: | Medium | [bit],[dc] | :+1:  |
 | 3509 | [Maximum Product of Subsequences With an Alternating Sum Equal to K](./problems/3500-3599/3509/README.md) | :o: | Hard | [dp] | :+1:  |
+| 3761 | [Minimum Absolute Distance Between Mirror Pairs](./problems/3700-3799/3761/README.md) | :o: | Medium | [arr],[hsh],[math] |   |

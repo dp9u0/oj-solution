@@ -3069,7 +3069,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](./problems/3000-3099/3041/README.md)                    |        | Hard   |                                                             |      |
 | 3042 | [Count Prefix and Suffix Pairs I](./problems/3000-3099/3042/README.md)                                                 | :o:    | Easy   | [arr],[str]                                                 |      |
 | 3043 | [Find the Length of the Longest Common Prefix](./problems/3000-3099/3043/README.md)                                    | :o:    | Medium | [hsh],[str]                                                 |      |
-| 3044 | [Most Frequent Prime](./problems/3000-3099/3044/README.md)                                                             |        | Medium |                                                             |      |
+| 3044 | [Most Frequent Prime](./problems/3000-3099/3044/README.md) | :o: | Medium | [arr],[math] |   |
 | 3045 | [Count Prefix and Suffix Pairs II](./problems/3000-3099/3045/README.md)                                                |        | Hard   |                                                             |      |
 | 3046 | [Split the Array](./problems/3000-3099/3046/README.md)                                                                 | :o:    | Easy   | [arr],[hash]                                                |      |
 | 3047 | [Find the Largest Area of Square Inside Two Rectangles](./problems/3000-3099/3047/README.md)                           |        | Medium |                                                             |      |

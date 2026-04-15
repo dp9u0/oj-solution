@@ -854,7 +854,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 777  | [Swap Adjacent in LR String](./problems/700-799/777/README.md)                                                         |        | Medium |                                                             |      |
 | 778  | [Swim in Rising Water](./problems/700-799/778/README.md)                                                               |        | Hard   |                                                             |      |
 | 779  | [K-th Symbol in Grammar](./problems/700-799/779/README.md)                                                             | :o:    | Medium | [bit]                                                       | :+1: |
-| 780  | [Reaching Points](./problems/700-799/780/README.md)                                                                    |        | Hard   |                                                             |      |
+| 780 | [Reaching Points](./problems/700-799/780/README.md) | :o: | Hard | [math] |   |
 | 781  | [Rabbits in Forest](./problems/700-799/781/README.md)                                                                  |        | Medium |                                                             |      |
 | 782  | [Transform to Chessboard](./problems/700-799/782/README.md)                                                            |        | Hard   |                                                             |      |
 | 783  | [Minimum Distance Between BST Nodes](./problems/700-799/783/README.md)                                                 | :o:    | Easy   | [tr]                                                        | 530  |

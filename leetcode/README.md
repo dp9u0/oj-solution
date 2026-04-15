@@ -1075,7 +1075,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 998  | [Maximum Binary Tree II](./problems/900-999/998/README.md)                                                             |        | Medium |                                                             |      |
 | 999  | [Available Captures for Rook](./problems/900-999/999/README.md)                                                        | :o:    | Easy   | [arr]                                                       |      |
 | 1000 | [Minimum Cost to Merge Stones](./problems/1000-1099/1000/README.md)                                                    |        | Hard   |                                                             |      |
-| 1001 | [Grid Illumination](./problems/1000-1099/1001/README.md)                                                               |        | Hard   |                                                             |      |
+| 1001 | [Grid Illumination](./problems/1000-1099/1001/README.md) | :o: | Hard | [hsh] |   |
 | 1002 | [Find Common Characters](./problems/1000-1099/1002/README.md)                                                          | :o:    | Easy   | [[hsh]]                                                     |      |
 | 1003 | [Check If Word Is Valid After Substitutions](./problems/1000-1099/1003/README.md)                                      |        | Medium |                                                             |      |
 | 1004 | [Max Consecutive Ones III](./problems/1000-1099/1004/README.md)                                                        | :o:    | Medium | [sd]                                                        | :+1: |

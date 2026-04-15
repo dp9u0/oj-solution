@@ -3495,3 +3495,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1737 | [Change Minimum Characters to Satisfy One of Three Conditions](./problems/1700-1799/1737/README.md) | :o: | Medium | [str],[hsh],[lgc] |   |
 | 3614 | [Process String with Special Operations II](./problems/3600-3699/3614/README.md) | :o: | Hard | [str],[sim] |   |
 | 3412 | [Find Mirror Score of a String](./problems/3400-3499/3412/README.md) | :o: | Medium | [str],[stk] |   |
+| 3683 | [Earliest Time to Finish One Task](./problems/3600-3699/3683/README.md) | :o: | Easy | [arr],[lgc] |   |

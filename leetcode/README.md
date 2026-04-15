@@ -536,7 +536,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 454  | [4Sum II](./problems/400-499/454/README.md)                                                                            | :o:    | Medium | [arr],[hash]                                                |      |
 | 455  | [Assign Cookies](./problems/400-499/455/README.md)                                                                     | :o:    | Easy   | [grd]                                                       | :+1: |
 | 456  | [132 Pattern](./problems/400-499/456/README.md)                                                                        | :o:    | Medium | [arr],[stack]                                               | :+1: |
-| 457  | [Circular Array Loop](./problems/400-499/457/README.md)                                                                |        | Medium |                                                             |      |
+| 457 | [Circular Array Loop](./problems/400-499/457/README.md) | :o: | Medium | [arr],[lgc] |   |
 | 458  | [Poor Pigs](./problems/400-499/458/README.md)                                                                          | :o:    | Easy   | [math]                                                      | :+1: |
 | 459  | [Repeated Substring Pattern](./problems/400-499/459/README.md)                                                         | :o:    | Easy   | [string]                                                    | :+1: |
 | 460  | [LFU Cache](./problems/400-499/460/README.md)                                                                          | :o:    | Hard   | [ll],[hsh]                                                  | :+1: |

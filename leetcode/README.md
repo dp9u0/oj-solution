@@ -3032,7 +3032,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3004 | [Maximum Subtree of the Same Color](./problems/3000-3099/3004/README.md)                                               | :lock: | Medium |                                                             |      |
 | 3005 | [Count Elements With Maximum Frequency](./problems/3000-3099/3005/README.md)                                           | :o:    | Easy   | [hsh]                                                       |      |
 | 3006 | [Find Beautiful Indices in the Given Array I](./problems/3000-3099/3006/README.md)                                     |        | Medium |                                                             |      |
-| 3007 | [Maximum Number That Sum of the Prices Is Less Than or Equal to K](./problems/3000-3099/3007/README.md)                |        | Medium |                                                             |      |
+| 3007 | [Maximum Number That Sum of the Prices Is Less Than or Equal to K](./problems/3000-3099/3007/README.md) | :o: | Medium | [bs],[bit] |   |
 | 3008 | [Find Beautiful Indices in the Given Array II](./problems/3000-3099/3008/README.md)                                    |        | Hard   |                                                             |      |
 | 3009 | [Maximum Number of Intersections on the Chart](./problems/3000-3099/3009/README.md)                                    | :lock: | Hard   |                                                             |      |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](./problems/3000-3099/3010/README.md)                              |        | Easy   |                                                             |      |

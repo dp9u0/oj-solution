@@ -1348,7 +1348,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1273 | [Delete Tree Nodes](./problems/1200-1299/1273/README.md)                                                               | :lock: | Medium |                                                             |      |
 | 1274 | [Number of Ships in a Rectangle](./problems/1200-1299/1274/README.md)                                                  | :lock: | Hard   |                                                             |      |
 | 1275 | [Find Winner on a Tic Tac Toe Game](./problems/1200-1299/1275/README.md)                                               | :o:    | Easy   | [arr]                                                       |      |
-| 1276 | [Number of Burgers with No Waste of Ingredients](./problems/1200-1299/1276/README.md)                                  |        | Medium |                                                             |      |
+| 1276 | [Number of Burgers with No Waste of Ingredients](./problems/1200-1299/1276/README.md) | :o: | Medium | [math] |   |
 | 1277 | [Count Square Submatrices with All Ones](./problems/1200-1299/1277/README.md)                                          | :o:    | Medium | [dp],[+1]                                                   |      |
 | 1278 | [Palindrome Partitioning III](./problems/1200-1299/1278/README.md)                                                     |        | Hard   |                                                             |      |
 | 1279 | [1279](./problems/1200-1299/1279/README.md)                                                                            |        | Easy   |                                                             |      |

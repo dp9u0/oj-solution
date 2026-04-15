@@ -2953,7 +2953,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2925 | [Maximum Score After Applying Operations on a Tree](./problems/2900-2999/2925/README.md) | :o: | Medium | [tr],[dp],[grd] |   |
 | 2926 | [Maximum Balanced Subsequence Sum](./problems/2900-2999/2926/README.md)                                                |        | Hard   |                                                             |      |
 | 2927 | [Distribute Candies Among Children III](./problems/2900-2999/2927/README.md)                                           | :lock: | Hard   |                                                             |      |
-| 2928 | [Distribute Candies Among Children I](./problems/2900-2999/2928/README.md)                                             |        | Easy   |                                                             |      |
+| 2928 | [Distribute Candies Among Children I](./problems/2900-2999/2928/README.md) | :o: | Easy | [math] |   |
 | 2929 | [Distribute Candies Among Children II](./problems/2900-2999/2929/README.md)                                            |        | Medium |                                                             |      |
 | 2930 | [Number of Strings Which Can Be Rearranged to Contain Substring](./problems/2900-2999/2930/README.md)                  |        | Medium |                                                             |      |
 | 2931 | [Maximum Spending After Buying Items](./problems/2900-2999/2931/README.md)                                             |        | Hard   |                                                             |      |

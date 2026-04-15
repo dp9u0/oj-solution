@@ -2018,7 +2018,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1990 | [Count the Number of Experiments](./problems/1900-1999/1990/README.md)                                                 | :lock: | Medium |                                                             |      |
 | 1991 | [Find the Middle Index in Array](./problems/1900-1999/1991/README.md)                                                  |        | Easy   |                                                             |      |
 | 1992 | [Find All Groups of Farmland](./problems/1900-1999/1992/README.md)                                                     |        | Medium |                                                             |      |
-| 1993 | [Operations on Tree](./problems/1900-1999/1993/README.md)                                                              |        | Medium |                                                             |      |
+| 1993 | [Operations on Tree](./problems/1900-1999/1993/README.md) | :o: | Medium | [des],[tr] |   |
 | 1994 | [The Number of Good Subsets](./problems/1900-1999/1994/README.md)                                                      |        | Hard   |                                                             |      |
 | 1995 | [Count Special Quadruplets](./problems/1900-1999/1995/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 1996 | [The Number of Weak Characters in the Game](./problems/1900-1999/1996/README.md)                                       | :o:    | Medium | [arr],[greedy]                                              | :+1: |

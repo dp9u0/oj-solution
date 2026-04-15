@@ -1006,7 +1006,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 929  | [Unique Email Addresses](./problems/900-999/929/README.md)                                                             | :o:    | Easy   | [str]                                                       |      |
 | 930  | [Binary Subarrays With Sum](./problems/900-999/930/README.md)                                                          | :o:    | Medium | [arr],[hash]                                                |      |
 | 931  | [Minimum Falling Path Sum](./problems/900-999/931/README.md)                                                           | :o:    | Medium | [arr],[dp]                                                  |      |
-| 932  | [Beautiful Array](./problems/900-999/932/README.md)                                                                    |        | Medium |                                                             |      |
+| 932 | [Beautiful Array](./problems/900-999/932/README.md) | :o: | Medium | [arr],[dc] |   |
 | 933  | [Number of Recent Calls](./problems/900-999/933/README.md)                                                             | :o:    | Easy   | [des]                                                       |      |
 | 934  | [Shortest Bridge](./problems/900-999/934/README.md)                                                                    |        | Medium |                                                             |      |
 | 935  | [Knight Dialer](./problems/900-999/935/README.md)                                                                      | :o:    | Medium | [dp]                                                        |      |

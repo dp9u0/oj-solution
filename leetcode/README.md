@@ -876,7 +876,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 799  | [Champagne Tower](./problems/700-799/799/README.md)                                                                    | :o:    | Medium | [dp]                                                        |      |
 | 800  | [Similar RGB Color](./problems/800-899/800/README.md)                                                                  | :lock: | Easy   |                                                             |      |
 | 801  | [Minimum Swaps To Make Sequences Increasing](./problems/800-899/801/README.md)                                         |        | Medium |                                                             |      |
-| 802  | [Find Eventual Safe States](./problems/800-899/802/README.md)                                                          |        | Medium |                                                             |      |
+| 802 | [Find Eventual Safe States](./problems/800-899/802/README.md) | :o: | Medium | [dfs],[grf] | :+1:  |
 | 803  | [Bricks Falling When Hit](./problems/800-899/803/README.md)                                                            |        | Hard   |                                                             |      |
 | 804  | [Unique Morse Code Words](./problems/800-899/804/README.md)                                                            | :o:    | Easy   | [str]                                                       |      |
 | 805  | [Split Array With Same Average](./problems/800-899/805/README.md)                                                      |        | Hard   |                                                             |      |

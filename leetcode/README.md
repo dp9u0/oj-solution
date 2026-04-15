@@ -3500,3 +3500,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3640 | [Trionic Array II](./problems/3600-3699/3640/README.md) | :o: | Hard | [dp],[lgc] |   |
 | 3539 | [Find Sum of Array Product of Magical Sequences](./problems/3500-3599/3539/README.md) | :o: | Hard | [dp],[math] |   |
 | 3576 | [Transform Array to All Equal Elements](./problems/3500-3599/3576/README.md) | :o: | Medium | [arr],[lgc] |   |
+| 3643 | [Flip Square Submatrix Vertically](./problems/3600-3699/3643/README.md) | :o: | Easy | [arr],[lgc] |   |

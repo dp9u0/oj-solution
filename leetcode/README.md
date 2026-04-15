@@ -3035,7 +3035,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3007 | [Maximum Number That Sum of the Prices Is Less Than or Equal to K](./problems/3000-3099/3007/README.md) | :o: | Medium | [bs],[bit] |   |
 | 3008 | [Find Beautiful Indices in the Given Array II](./problems/3000-3099/3008/README.md)                                    |        | Hard   |                                                             |      |
 | 3009 | [Maximum Number of Intersections on the Chart](./problems/3000-3099/3009/README.md)                                    | :lock: | Hard   |                                                             |      |
-| 3010 | [Divide an Array Into Subarrays With Minimum Cost I](./problems/3000-3099/3010/README.md)                              |        | Easy   |                                                             |      |
+| 3010 | [Divide an Array Into Subarrays With Minimum Cost I](./problems/3000-3099/3010/README.md) | :o: | Easy | [arr] |   |
 | 3011 | [Find if Array Can Be Sorted](./problems/3000-3099/3011/README.md)                                                     | :o:    | Medium | [arr],[bit]                                                 |      |
 | 3012 | [Minimize Length of Array Using Operations](./problems/3000-3099/3012/README.md)                                       |        | Medium |                                                             |      |
 | 3013 | [Divide an Array Into Subarrays With Minimum Cost II](./problems/3000-3099/3013/README.md)                             |        | Hard   |                                                             |      |

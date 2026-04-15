@@ -3379,7 +3379,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3351 | [Sum of Good Subsequences](./problems/3300-3399/3351/README.md)                                                        |        | Hard   |                                                             |      |
 | 3352 | [Count K-Reducible Numbers Less Than N](./problems/3300-3399/3352/README.md) | :o: | Hard | [dp],[bit],[math] |   |
 | 3353 | [Minimum Total Operations](./problems/3300-3399/3353/README.md)                                                        | :lock: | Easy   |                                                             |      |
-| 3354 | [Make Array Elements Equal to Zero](./problems/3300-3399/3354/README.md)                                               |        | Easy   |                                                             |      |
+| 3354 | [Make Array Elements Equal to Zero](./problems/3300-3399/3354/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 3355 | [Zero Array Transformation I](./problems/3300-3399/3355/README.md)                                                     |        | Medium |                                                             |      |
 | 3356 | [Zero Array Transformation II](./problems/3300-3399/3356/README.md) | :o: | Medium | [bs],[arr] |   |
 | 3357 | [Minimize the Maximum Adjacent Element Difference](./problems/3300-3399/3357/README.md)                                | :o:    | Hard   | [dp],[bs]                                                   |      |

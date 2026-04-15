@@ -1871,7 +1871,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1843 | [Suspicious Bank Accounts](./problems/1800-1899/1843/README.md)                                                        | :lock: | Medium |                                                             |      |
 | 1844 | [Replace All Digits with Characters](./problems/1800-1899/1844/README.md)                                              |        | Easy   |                                                             |      |
 | 1845 | [Seat Reservation Manager](./problems/1800-1899/1845/README.md)                                                        |        | Medium |                                                             |      |
-| 1846 | [Maximum Element After Decreasing and Rearranging](./problems/1800-1899/1846/README.md)                                |        | Medium |                                                             |      |
+| 1846 | [Maximum Element After Decreasing and Rearranging](./problems/1800-1899/1846/README.md) | :o: | Medium | [grd] |   |
 | 1847 | [Closest Room](./problems/1800-1899/1847/README.md)                                                                    |        | Hard   |                                                             |      |
 | 1848 | [Minimum Distance to the Target Element](./problems/1800-1899/1848/README.md)                                          |        | Easy   |                                                             |      |
 | 1849 | [Splitting a String Into Descending Consecutive Values](./problems/1800-1899/1849/README.md)                           |        | Medium |                                                             |      |

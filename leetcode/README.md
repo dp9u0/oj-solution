@@ -2084,7 +2084,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2056 | [Number of Valid Move Combinations On Chessboard](./problems/2000-2099/2056/README.md)                                 |        | Hard   |                                                             |      |
 | 2057 | [Smallest Index With Equal Value](./problems/2000-2099/2057/README.md)                                                 | :o:    | Easy   | [arr]                                                       |      |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./problems/2000-2099/2058/README.md)            |        | Medium |                                                             |      |
-| 2059 | [Minimum Operations to Convert Number](./problems/2000-2099/2059/README.md)                                            |        | Medium |                                                             |      |
+| 2059 | [Minimum Operations to Convert Number](./problems/2000-2099/2059/README.md) | :o: | Medium | [bfs],[arr] |   |
 | 2060 | [Check if an Original String Exists Given Two Encoded Strings](./problems/2000-2099/2060/README.md)                    | :o:    | Hard   | [str],[dp]                                                  |      |
 | 2061 | [Number of Spaces Cleaning Robot Cleaned](./problems/2000-2099/2061/README.md)                                         | :lock: | Medium |                                                             |      |
 | 2062 | [Count Vowel Substrings of a String](./problems/2000-2099/2062/README.md)                                              |        | Easy   |                                                             |      |

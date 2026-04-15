@@ -2082,7 +2082,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2054 | [Two Best Non-Overlapping Events](./problems/2000-2099/2054/README.md)                                                 |        | Medium |                                                             |      |
 | 2055 | [Plates Between Candles](./problems/2000-2099/2055/README.md)                                                          | :o:    | Medium | [str]                                                       | :+1: |
 | 2056 | [Number of Valid Move Combinations On Chessboard](./problems/2000-2099/2056/README.md)                                 |        | Hard   |                                                             |      |
-| 2057 | [Smallest Index With Equal Value](./problems/2000-2099/2057/README.md)                                                 |        | Easy   |                                                             |      |
+| 2057 | [Smallest Index With Equal Value](./problems/2000-2099/2057/README.md) | :o: | Easy | [arr] |   |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./problems/2000-2099/2058/README.md)            |        | Medium |                                                             |      |
 | 2059 | [Minimum Operations to Convert Number](./problems/2000-2099/2059/README.md)                                            |        | Medium |                                                             |      |
 | 2060 | [Check if an Original String Exists Given Two Encoded Strings](./problems/2000-2099/2060/README.md) | :o: | Hard | [str],[dp] |   |

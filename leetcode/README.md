@@ -1153,7 +1153,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1076 | [Project Employees II](./problems/1000-1099/1076/README.md)                                                            | :lock: | Easy   |                                                             |      |
 | 1077 | [Project Employees III](./problems/1000-1099/1077/README.md)                                                           | :lock: | Medium |                                                             |      |
 | 1078 | [Occurrences After Bigram](./problems/1000-1099/1078/README.md)                                                        |        | Easy   |                                                             |      |
-| 1079 | [Letter Tile Possibilities](./problems/1000-1099/1079/README.md)                                                       |        | Medium |                                                             |      |
+| 1079 | [Letter Tile Possibilities](./problems/1000-1099/1079/README.md) | :o: | Medium | [bt] |   |
 | 1080 | [Insufficient Nodes in Root to Leaf Paths](./problems/1000-1099/1080/README.md)                                        |        | Medium |                                                             |      |
 | 1081 | [Smallest Subsequence of Distinct Characters](./problems/1000-1099/1081/README.md)                                     | :o:    | Medium | [stack]                                                     |      |
 | 1082 | [Sales Analysis I](./problems/1000-1099/1082/README.md)                                                                | :lock: | Easy   |                                                             |      |

@@ -3121,7 +3121,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3093 | [Longest Common Suffix Queries](./problems/3000-3099/3093/README.md)                                                   |        | Hard   |                                                             |      |
 | 3094 | [Guess the Number Using Bitwise Questions II](./problems/3000-3099/3094/README.md)                                     | :lock: | Medium |                                                             |      |
 | 3095 | [Shortest Subarray With OR at Least K I](./problems/3000-3099/3095/README.md)                                          |        | Easy   |                                                             |      |
-| 3096 | [Minimum Levels to Gain More Points](./problems/3000-3099/3096/README.md)                                              |        | Medium |                                                             |      |
+| 3096 | [Minimum Levels to Gain More Points](./problems/3000-3099/3096/README.md) | :o: | Medium | [arr] |   |
 | 3097 | [Shortest Subarray With OR at Least K II](./problems/3000-3099/3097/README.md)                                         | :o:    | Medium | [bit],[tp]                                                  |      |
 | 3098 | [Find the Sum of Subsequence Powers](./problems/3000-3099/3098/README.md)                                              |        | Hard   |                                                             |      |
 | 3099 | [Harshad Number](./problems/3000-3099/3099/README.md)                                                                  |        | Easy   |                                                             |      |

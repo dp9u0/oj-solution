@@ -1179,7 +1179,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1102 | [Path With Maximum Minimum Value](./problems/1100-1199/1102/README.md)                                                 | :lock: | Medium |                                                             |      |
 | 1103 | [Distribute Candies to People](./problems/1100-1199/1103/README.md)                                                    | :o:    | Easy   | [math]                                                      |      |
 | 1104 | [Path In Zigzag Labelled Binary Tree](./problems/1100-1199/1104/README.md)                                             | :o:    | Medium | [tr]                                                        |      |
-| 1105 | [Filling Bookcase Shelves](./problems/1100-1199/1105/README.md)                                                        |        | Medium |                                                             |      |
+| 1105 | [Filling Bookcase Shelves](./problems/1100-1199/1105/README.md) | :o: | Medium | [dp] |   |
 | 1106 | [Parsing A Boolean Expression](./problems/1100-1199/1106/README.md)                                                    | :o:    | Hard   | [stk]                                                       |      |
 | 1107 | [New Users Daily Count](./problems/1100-1199/1107/README.md)                                                           | :lock: | Medium |                                                             |      |
 | 1108 | [Defanging an IP Address](./problems/1100-1199/1108/README.md)                                                         | :o:    | Easy   | [str]                                                       |      |

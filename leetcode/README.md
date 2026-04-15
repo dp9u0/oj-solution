@@ -2678,7 +2678,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2650 | [2650](./problems/2600-2699/2650/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2651 | [Calculate Delayed Arrival Time](./problems/2600-2699/2651/README.md)                                                  |        | Easy   |                                                             |      |
 | 2652 | [Sum Multiples](./problems/2600-2699/2652/README.md)                                                                   | :o:    | Easy   | [arr]                                                       |      |
-| 2653 | [Sliding Subarray Beauty](./problems/2600-2699/2653/README.md)                                                         |        | Medium |                                                             |      |
+| 2653 | [Sliding Subarray Beauty](./problems/2600-2699/2653/README.md) | :o: | Medium | [arr],[sd] |   |
 | 2654 | [Minimum Number of Operations to Make All Array Elements Equal to 1](./problems/2600-2699/2654/README.md)              |        | Medium |                                                             |      |
 | 2655 | [Find Maximal Uncovered Ranges](./problems/2600-2699/2655/README.md)                                                   | :lock: | Medium |                                                             |      |
 | 2656 | [Maximum Sum With Exactly K Elements](./problems/2600-2699/2656/README.md)                                             | :o:    | Easy   | [arr]                                                       |      |

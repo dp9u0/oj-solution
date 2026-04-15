@@ -1324,7 +1324,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1249 | [Minimum Remove to Make Valid Parentheses](./problems/1200-1299/1249/README.md)                                        | :o:    | Medium | [str],[stack]                                               | :+1: |
 | 1250 | [Check If It Is a Good Array](./problems/1200-1299/1250/README.md)                                                     |        | Hard   |                                                             |      |
 | 1251 | [Average Selling Price](./problems/1200-1299/1251/README.md)                                                           | :lock: | Easy   |                                                             |      |
-| 1252 | [Cells with Odd Values in a Matrix](./problems/1200-1299/1252/README.md)                                               |        | Easy   |                                                             |      |
+| 1252 | [Cells with Odd Values in a Matrix](./problems/1200-1299/1252/README.md) | :o: | Easy | [arr],[math] |   |
 | 1253 | [Reconstruct a 2-Row Binary Matrix](./problems/1200-1299/1253/README.md)                                               |        | Medium |                                                             |      |
 | 1254 | [Number of Closed Islands](./problems/1200-1299/1254/README.md)                                                        | :o:    | Medium | [dfs]                                                       |      |
 | 1255 | [Maximum Score Words Formed by Letters](./problems/1200-1299/1255/README.md)                                           |        | Hard   |                                                             |      |

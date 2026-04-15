@@ -1082,7 +1082,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1005 | [Maximize Sum Of Array After K Negations](./problems/1000-1099/1005/README.md)                                         | :o:    | Easy   | [arr]                                                       |      |
 | 1006 | [Clumsy Factorial](./problems/1000-1099/1006/README.md)                                                                |        | Medium |                                                             |      |
 | 1007 | [Minimum Domino Rotations For Equal Row](./problems/1000-1099/1007/README.md)                                          | :o:    | Medium | [arr]                                                       | :+1: |
-| 1008 | [Construct Binary Search Tree from Preorder Traversal](./problems/1000-1099/1008/README.md)                            |        | Medium |                                                             |      |
+| 1008 | [Construct Binary Search Tree from Preorder Traversal](./problems/1000-1099/1008/README.md) | :o: | Medium | [tr] |   |
 | 1009 | [Complement of Base 10 Integer](./problems/1000-1099/1009/README.md)                                                   | :o:    | Easy   | [none]                                                      |      |
 | 1010 | [Pairs of Songs With Total Durations Divisible by 60](./problems/1000-1099/1010/README.md)                             | :o:    | Medium | [arr],[hm]                                                  | :+1: |
 | 1011 | [Capacity To Ship Packages Within D Days](./problems/1000-1099/1011/README.md)                                         | :o:    | Medium | [arr],[bs]                                                  | :+1: |

@@ -712,7 +712,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 635  | [Design Log Storage System](./problems/600-699/635/README.md)                                                          | :lock: | Medium |                                                             |      |
 | 636  | [Exclusive Time of Functions](./problems/600-699/636/README.md)                                                        | :o:    | Medium | [stk]                                                       |      |
 | 637  | [Average of Levels in Binary Tree](./problems/600-699/637/README.md)                                                   | :o:    | Easy   | [tr]                                                        |      |
-| 638  | [Shopping Offers](./problems/600-699/638/README.md)                                                                    |        | Medium |                                                             |      |
+| 638 | [Shopping Offers](./problems/600-699/638/README.md) | :o: | Medium | [dp] |   |
 | 639  | [Decode Ways II](./problems/600-699/639/README.md)                                                                     |        | Hard   |                                                             |      |
 | 640  | [Solve the Equation](./problems/600-699/640/README.md)                                                                 | :o:    | Medium | [math]                                                      |      |
 | 641  | [Design Circular Deque](./problems/600-699/641/README.md)                                                              |        | Medium |                                                             |      |

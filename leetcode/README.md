@@ -2231,7 +2231,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2203 | [Minimum Weighted Subgraph With the Required Paths](./problems/2200-2299/2203/README.md)                               |        | Hard   |                                                             |      |
 | 2204 | [2204](./problems/2200-2299/2204/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2205 | [The Number of Users That Are Eligible for Discount](./problems/2200-2299/2205/README.md)                              | :lock: | Easy   |                                                             |      |
-| 2206 | [Divide Array Into Equal Pairs](./problems/2200-2299/2206/README.md)                                                   |        | Easy   |                                                             |      |
+| 2206 | [Divide Array Into Equal Pairs](./problems/2200-2299/2206/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 2207 | [Maximize Number of Subsequences in a String](./problems/2200-2299/2207/README.md)                                     |        | Medium |                                                             |      |
 | 2208 | [Minimum Operations to Halve Array Sum](./problems/2200-2299/2208/README.md)                                           |        | Medium |                                                             |      |
 | 2209 | [Minimum White Tiles After Covering With Carpets](./problems/2200-2299/2209/README.md)                                 |        | Hard   |                                                             |      |

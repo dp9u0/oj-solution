@@ -3520,3 +3520,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](./problems/3700-3799/3761/README.md) | :o: | Medium | [arr],[hsh],[math] |   |
 | 3707 | [Equal Score Substrings](./problems/3700-3799/3707/README.md) | :o: | Easy | [str],[math] |   |
 | 3558 | [Number of Ways to Assign Edge Weights I](./problems/3500-3599/3558/README.md) | :o: | Medium | [tr],[math],[bfs] |   |
+| 3598 | [Longest Common Prefix Between Adjacent Strings After Removals](./problems/3500-3599/3598/README.md) | :o: | Medium | [arr],[hsh] |   |

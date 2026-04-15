@@ -985,7 +985,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 908  | [Smallest Range I](./problems/900-999/908/README.md)                                                                   | :o:    | Easy   | [math]                                                      | :-1: |
 | 909  | [Snakes and Ladders](./problems/900-999/909/README.md)                                                                 | :o:    | Medium | [arr],[bfs]                                                 | :+1: |
 | 910  | [Smallest Range II](./problems/900-999/910/README.md)                                                                  |        | Medium |                                                             |      |
-| 911  | [Online Election](./problems/900-999/911/README.md)                                                                    |        | Medium |                                                             |      |
+| 911 | [Online Election](./problems/900-999/911/README.md) | :o: | Medium | [bs],[des] |   |
 | 912  | [Sort an Array](./problems/900-999/912/README.md)                                                                      | :o:    | Medium | [arr]                                                       |      |
 | 913  | [Cat and Mouse](./problems/900-999/913/README.md)                                                                      |        | Hard   |                                                             |      |
 | 914  | [X of a Kind in a Deck of Cards](./problems/900-999/914/README.md)                                                     | :o:    | Easy   | [hsh]                                                       | :+1: |

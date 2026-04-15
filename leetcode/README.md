@@ -3479,3 +3479,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3650 | [Minimum Cost Path with Edge Reversals](./problems/3600-3699/3650/README.md) | :o: | Medium | [grf] |   |
 | 3619 | [Count Islands With Total Value Divisible by K](./problems/3600-3699/3619/README.md) | :o: | Medium | [bfs] |   |
 | 3747 | [Count Distinct Integers After Removing Zeros](./problems/3700-3799/3747/README.md) | :o: | Medium | [math] |   |
+| 3708 | [Longest Fibonacci Subarray](./problems/3700-3799/3708/README.md) | :o: | Medium | [arr] |   |

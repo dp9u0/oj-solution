@@ -1560,7 +1560,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1485 | [Clone Binary Tree With Random Pointer](./problems/1400-1499/1485/README.md)                                           | :lock: | Medium |                                                             |      |
 | 1486 | [XOR Operation in an Array](./problems/1400-1499/1486/README.md)                                                       |        | Easy   |                                                             |      |
 | 1487 | [Making File Names Unique](./problems/1400-1499/1487/README.md)                                                        | :o:    | Medium | [hsh],[str]                                                 |      |
-| 1488 | [Avoid Flood in The City](./problems/1400-1499/1488/README.md)                                                         |        | Medium |                                                             |      |
+| 1488 | [Avoid Flood in The City](./problems/1400-1499/1488/README.md) | :o: | Medium | [arr],[grd] | :+1:  |
 | 1489 | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](./problems/1400-1499/1489/README.md)                |        | Hard   |                                                             |      |
 | 1490 | [Clone N-ary Tree](./problems/1400-1499/1490/README.md)                                                                | :lock: | Medium |                                                             |      |
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](./problems/1400-1499/1491/README.md)                         | :o:    | Easy   | [arr]                                                       |      |

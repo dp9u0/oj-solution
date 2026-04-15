@@ -3091,7 +3091,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3063 | [Linked List Frequency](./problems/3000-3099/3063/README.md)                                                           | :lock: | Easy   |                                                             |      |
 | 3064 | [Guess the Number Using Bitwise Questions I](./problems/3000-3099/3064/README.md)                                      | :lock: | Medium |                                                             |      |
 | 3065 | [Minimum Operations to Exceed Threshold Value I](./problems/3000-3099/3065/README.md)                                  |        | Easy   |                                                             |      |
-| 3066 | [Minimum Operations to Exceed Threshold Value II](./problems/3000-3099/3066/README.md)                                 |        | Medium |                                                             |      |
+| 3066 | [Minimum Operations to Exceed Threshold Value II](./problems/3000-3099/3066/README.md) | :o: | Medium | [hp] |   |
 | 3067 | [Count Pairs of Connectable Servers in a Weighted Tree Network](./problems/3000-3099/3067/README.md)                   |        | Medium |                                                             |      |
 | 3068 | [Find the Maximum Sum of Node Values](./problems/3000-3099/3068/README.md)                                             |        | Hard   |                                                             |      |
 | 3069 | [Distribute Elements Into Two Arrays I](./problems/3000-3099/3069/README.md)                                           |        | Easy   |                                                             |      |

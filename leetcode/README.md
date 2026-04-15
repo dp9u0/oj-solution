@@ -1725,7 +1725,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1650 | [Lowest Common Ancestor of a Binary Tree III](./problems/1600-1699/1650/README.md)                                     | :lock: | Medium |                                                             |      |
 | 1651 | [Hopper Company Queries III](./problems/1600-1699/1651/README.md)                                                      | :lock: | Hard   |                                                             |      |
 | 1652 | [Defuse the Bomb](./problems/1600-1699/1652/README.md)                                                                 |        | Easy   |                                                             |      |
-| 1653 | [Minimum Deletions to Make String Balanced](./problems/1600-1699/1653/README.md)                                       |        | Medium |                                                             |      |
+| 1653 | [Minimum Deletions to Make String Balanced](./problems/1600-1699/1653/README.md) | :o: | Medium | [str],[dp] | :+1:  |
 | 1654 | [Minimum Jumps to Reach Home](./problems/1600-1699/1654/README.md)                                                     |        | Medium |                                                             |      |
 | 1655 | [Distribute Repeating Integers](./problems/1600-1699/1655/README.md)                                                   |        | Hard   |                                                             |      |
 | 1656 | [Design an Ordered Stream](./problems/1600-1699/1656/README.md) | :o: | Easy | [des],[arr] |   |

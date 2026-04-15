@@ -3045,7 +3045,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3017 | [Count the Number of Houses at a Certain Distance II](./problems/3000-3099/3017/README.md)                             |        | Hard   |                                                             |      |
 | 3018 | [Maximum Number of Removal Queries That Can Be Processed I](./problems/3000-3099/3018/README.md)                       | :lock: | Hard   |                                                             |      |
 | 3019 | [Number of Changing Keys](./problems/3000-3099/3019/README.md)                                                         |        | Easy   |                                                             |      |
-| 3020 | [Find the Maximum Number of Elements in Subset](./problems/3000-3099/3020/README.md)                                   |        | Medium |                                                             |      |
+| 3020 | [Find the Maximum Number of Elements in Subset](./problems/3000-3099/3020/README.md) | :o: | Medium | [hsh],[arr] |   |
 | 3021 | [Alice and Bob Playing Flower Game](./problems/3000-3099/3021/README.md)                                               |        | Medium |                                                             |      |
 | 3022 | [Minimize OR of Remaining Elements Using Operations](./problems/3000-3099/3022/README.md)                              | :o:    | Hard   | [bit],[grd]                                                 | :+1: |
 | 3023 | [Find Pattern in Infinite Stream I](./problems/3000-3099/3023/README.md)                                               | :lock: | Medium |                                                             |      |

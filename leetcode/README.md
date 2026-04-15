@@ -2886,7 +2886,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2858 | [Minimum Edge Reversals So Every Node Is Reachable](./problems/2800-2899/2858/README.md) | :o: | Hard | [tr],[dp] |   |
 | 2859 | [Sum of Values at Indices With K Set Bits](./problems/2800-2899/2859/README.md)                                        |        | Easy   |                                                             |      |
 | 2860 | [Happy Students](./problems/2800-2899/2860/README.md)                                                                  |        | Medium |                                                             |      |
-| 2861 | [Maximum Number of Alloys](./problems/2800-2899/2861/README.md)                                                        |        | Medium |                                                             |      |
+| 2861 | [Maximum Number of Alloys](./problems/2800-2899/2861/README.md) | :o: | Medium | [bs],[grd] |   |
 | 2862 | [Maximum Element-Sum of a Complete Subset of Indices](./problems/2800-2899/2862/README.md)                             |        | Hard   |                                                             |      |
 | 2863 | [Maximum Length of Semi-Decreasing Subarrays](./problems/2800-2899/2863/README.md)                                     | :lock: | Medium |                                                             |      |
 | 2864 | [Maximum Odd Binary Number](./problems/2800-2899/2864/README.md)                                                       |        | Easy   |                                                             |      |

@@ -1579,7 +1579,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1504 | [Count Submatrices With All Ones](./problems/1500-1599/1504/README.md)                                                 |        | Medium |                                                             |      |
 | 1505 | [Minimum Possible Integer After at Most K Adjacent Swaps On Digits](./problems/1500-1599/1505/README.md)               |        | Hard   |                                                             |      |
 | 1506 | [Find Root of N-Ary Tree](./problems/1500-1599/1506/README.md)                                                         | :lock: | Medium |                                                             |      |
-| 1507 | [1507](./problems/1500-1599/1507/README.md)                                                                            |        | Easy   |                                                             |      |
+| 1507 | [1507](./problems/1500-1599/1507/README.md) | :o: | Easy | [str] |   |
 | 1508 | [Range Sum of Sorted Subarray Sums](./problems/1500-1599/1508/README.md)                                               |        | Medium |                                                             |      |
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](./problems/1500-1599/1509/README.md)            | :o:    | Medium | [greedy]                                                    |      |
 | 1510 | [Stone Game IV](./problems/1500-1599/1510/README.md)                                                                   |        | Hard   |                                                             |      |

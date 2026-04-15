@@ -3465,3 +3465,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3800 | [Minimum Cost to Make Two Binary Strings Equal](./problems/3800-3899/3800/README.md) | :o: | Medium | [str],[grd] |   |
 | 3637 | [Trionic Array I](./problems/3600-3699/3637/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 1776 | [Car Fleet II](./problems/1700-1799/1776/README.md) | :o: | Hard | [stk],[math] |   |
+| 3510 | [Minimum Pair Removal to Sort Array II](./problems/3500-3599/3510/README.md) | :o: | Hard | [ds],[hp] |   |

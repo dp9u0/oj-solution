@@ -3529,3 +3529,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3695 | [Maximize Alternating Sum Using Swaps](./problems/3600-3699/3695/README.md) | :o: | Hard | [grd],[ds] |   |
 | 3516 | [Find Closest Person](./problems/3500-3599/3516/README.md) | :o: | Easy | [lgc] |   |
 | 3538 | [Merge Operations for Minimum Travel Time](./problems/3500-3599/3538/README.md) | :o: | Hard | [dp] |   |
+| 3556 | [Sum of Largest Prime Substrings](./problems/3500-3599/3556/README.md) | :o: | Medium | [math],[str] |   |

@@ -499,7 +499,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 417  | [Pacific Atlantic Water Flow](./problems/400-499/417/README.md)                                                        | :o:    | Medium | [bfs]                                                       | :+1: |
 | 418  | [Sentence Screen Fitting](./problems/400-499/418/README.md)                                                            | :lock: | Medium |                                                             |      |
 | 419  | [Battleships in a Board](./problems/400-499/419/README.md)                                                             | :o:    | Medium | [arr]                                                       |      |
-| 420  | [Strong Password Checker](./problems/400-499/420/README.md)                                                            |        | Hard   |                                                             |      |
+| 420 | [Strong Password Checker](./problems/400-499/420/README.md) | :o: | Hard | [str],[math],[grd] |   |
 | 421  | [Maximum XOR of Two Numbers in an Array](./problems/400-499/421/README.md)                                             | :o:    | Medium | [arr],[bit]                                                 |      |
 | 422  | [Valid Word Square](./problems/400-499/422/README.md)                                                                  | :lock: | Easy   |                                                             |      |
 | 423  | [Reconstruct Original Digits from English](./problems/400-499/423/README.md)                                           |        | Medium |                                                             |      |

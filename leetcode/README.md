@@ -3513,3 +3513,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3869 | [Count Fancy Numbers in a Range](./problems/3800-3899/3869/README.md) | :o: | Hard | [dp] | :+1:  |
 | 3674 | [Minimum Operations to Equalize Array](./problems/3600-3699/3674/README.md) | :o: | Easy | [lgc],[bit] |   |
 | 3668 | [Restore Finishing Order](./problems/3600-3699/3668/README.md) | :o: | Easy | [arr],[hsh] |   |
+| 1763 | [Longest Nice Substring](./problems/1700-1799/1763/README.md) | :o: | Easy | [str],[dc] |   |

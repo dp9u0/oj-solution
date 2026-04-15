@@ -3484,3 +3484,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3613 | [Minimize Maximum Component Cost](./problems/3600-3699/3613/README.md) | :o: | Medium | [grd],[ds] |   |
 | 3404 | [Count Special Subsequences](./problems/3400-3499/3404/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 3584 | [Maximum Product of First and Last Elements of a Subsequence](./problems/3500-3599/3584/README.md) | :o: | Medium | [arr],[grd] |   |
+| 3411 | [Maximum Subarray With Equal Products](./problems/3400-3499/3411/README.md) | :o: | Easy | [arr],[math] |   |

@@ -2271,7 +2271,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2243 | [Calculate Digit Sum of a String](./problems/2200-2299/2243/README.md) | :o: | Easy | [str],[lgc] |   |
 | 2244 | [Minimum Rounds to Complete All Tasks](./problems/2200-2299/2244/README.md)                                            | :o:    | Medium | [arr]                                                       |      |
 | 2245 | [Maximum Trailing Zeros in a Cornered Path](./problems/2200-2299/2245/README.md)                                       |        | Medium |                                                             |      |
-| 2246 | [Longest Path With Different Adjacent Characters](./problems/2200-2299/2246/README.md)                                 |        | Hard   |                                                             |      |
+| 2246 | [Longest Path With Different Adjacent Characters](./problems/2200-2299/2246/README.md) | :o: | Hard | [tr],[dfs] |   |
 | 2247 | [2247](./problems/2200-2299/2247/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2248 | [Intersection of Multiple Arrays](./problems/2200-2299/2248/README.md)                                                 | :o:    | Easy   | [arr],[hash]                                                |      |
 | 2249 | [Count Lattice Points Inside a Circle](./problems/2200-2299/2249/README.md)                                            |        | Medium |                                                             |      |

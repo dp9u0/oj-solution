@@ -3510,3 +3510,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1727 | [Largest Submatrix With Rearrangements](./problems/1700-1799/1727/README.md) | :o: | Medium | [arr],[grd] |   |
 | 3769 | [Sort Integers by Binary Reflection](./problems/3700-3799/3769/README.md) | :o: | Easy | [arr],[bit] |   |
 | 3488 | [Closest Equal Element Queries](./problems/3400-3499/3488/README.md) | :o: | Medium | [arr],[hsh] |   |
+| 3869 | [Count Fancy Numbers in a Range](./problems/3800-3899/3869/README.md) | :o: | Hard | [dp] | :+1:  |

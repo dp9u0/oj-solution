@@ -2797,7 +2797,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2769 | [Find the Maximum Achievable Number](./problems/2700-2799/2769/README.md)                                              |        | Easy   |                                                             |      |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./problems/2700-2799/2770/README.md)                                 |        | Medium |                                                             |      |
 | 2771 | [Longest Non-decreasing Subarray From Two Arrays](./problems/2700-2799/2771/README.md)                                 |        | Medium |                                                             |      |
-| 2772 | [Apply Operations to Make All Array Elements Equal to Zero](./problems/2700-2799/2772/README.md)                       |        | Medium |                                                             |      |
+| 2772 | [Apply Operations to Make All Array Elements Equal to Zero](./problems/2700-2799/2772/README.md) | :o: | Medium | [arr],[grd],[sd] |   |
 | 2773 | [Height of Special Binary Tree](./problems/2700-2799/2773/README.md)                                                   | :lock: | Medium |                                                             |      |
 | 2774 | [2774](./problems/2700-2799/2774/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2775 | [2775](./problems/2700-2799/2775/README.md)                                                                            |        | Easy   |                                                             |      |

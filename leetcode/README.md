@@ -2595,7 +2595,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2567 | [Minimum Score by Changing Two Elements](./problems/2500-2599/2567/README.md)                                          | :o:    | Medium | [arr],[greedy]                                              |      |
 | 2568 | [Minimum Impossible OR](./problems/2500-2599/2568/README.md)                                                           |        | Medium |                                                             |      |
 | 2569 | [Handling Sum Queries After Update](./problems/2500-2599/2569/README.md)                                               |        | Hard   |                                                             |      |
-| 2570 | [Merge Two 2D Arrays by Summing Values](./problems/2500-2599/2570/README.md)                                           |        | Easy   |                                                             |      |
+| 2570 | [Merge Two 2D Arrays by Summing Values](./problems/2500-2599/2570/README.md) | :o: | Easy | [arr],[tp] |   |
 | 2571 | [Minimum Operations to Reduce an Integer to 0](./problems/2500-2599/2571/README.md)                                    |        | Medium |                                                             |      |
 | 2572 | [Count the Number of Square-Free Subsets](./problems/2500-2599/2572/README.md)                                         |        | Medium |                                                             |      |
 | 2573 | [Find the String with LCP](./problems/2500-2599/2573/README.md)                                                        | :o:    | Hard   | [arr],[dp]                                                  |      |

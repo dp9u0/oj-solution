@@ -2793,7 +2793,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2765 | [Longest Alternating Subarray](./problems/2700-2799/2765/README.md)                                                    |        | Easy   |                                                             |      |
 | 2766 | [Relocate Marbles](./problems/2700-2799/2766/README.md)                                                                |        | Medium |                                                             |      |
 | 2767 | [Partition String Into Minimum Beautiful Substrings](./problems/2700-2799/2767/README.md) | :o: | Medium | [dp],[str] |   |
-| 2768 | [Number of Black Blocks](./problems/2700-2799/2768/README.md)                                                          |        | Medium |                                                             |      |
+| 2768 | [Number of Black Blocks](./problems/2700-2799/2768/README.md) | :o: | Medium | [hsh],[arr] |   |
 | 2769 | [Find the Maximum Achievable Number](./problems/2700-2799/2769/README.md)                                              |        | Easy   |                                                             |      |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./problems/2700-2799/2770/README.md)                                 |        | Medium |                                                             |      |
 | 2771 | [Longest Non-decreasing Subarray From Two Arrays](./problems/2700-2799/2771/README.md)                                 |        | Medium |                                                             |      |

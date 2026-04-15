@@ -2026,7 +2026,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1998 | [GCD Sort of an Array](./problems/1900-1999/1998/README.md)                                                            |        | Hard   |                                                             |      |
 | 1999 | [Smallest Greater Multiple Made of Two Digits](./problems/1900-1999/1999/README.md)                                    | :lock: | Medium |                                                             |      |
 | 2000 | [Reverse Prefix of Word](./problems/2000-2099/2000/README.md)                                                          |        | Easy   |                                                             |      |
-| 2001 | [Number of Pairs of Interchangeable Rectangles](./problems/2000-2099/2001/README.md)                                   |        | Medium |                                                             |      |
+| 2001 | [Number of Pairs of Interchangeable Rectangles](./problems/2000-2099/2001/README.md) | :o: | Medium | [math],[hsh] |   |
 | 2002 | [Maximum Product of the Length of Two Palindromic Subsequences](./problems/2000-2099/2002/README.md)                   |        | Medium |                                                             |      |
 | 2003 | [Smallest Missing Genetic Value in Each Subtree](./problems/2000-2099/2003/README.md)                                  |        | Hard   |                                                             |      |
 | 2004 | [The Number of Seniors and Juniors to Join the Company](./problems/2000-2099/2004/README.md)                           | :lock: | Hard   |                                                             |      |

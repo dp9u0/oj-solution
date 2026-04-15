@@ -3521,3 +3521,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3707 | [Equal Score Substrings](./problems/3700-3799/3707/README.md) | :o: | Easy | [str],[math] |   |
 | 3558 | [Number of Ways to Assign Edge Weights I](./problems/3500-3599/3558/README.md) | :o: | Medium | [tr],[math],[bfs] |   |
 | 3598 | [Longest Common Prefix Between Adjacent Strings After Removals](./problems/3500-3599/3598/README.md) | :o: | Medium | [arr],[hsh] |   |
+| 1764 | [Form Array by Concatenating Subarrays of Another Array](./problems/1700-1799/1764/README.md) | :o: | Medium | [arr],[grd] |   |

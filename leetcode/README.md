@@ -2574,7 +2574,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2546 | [Apply Bitwise Operations to Make Strings Equal](./problems/2500-2599/2546/README.md)                                  | :o:    | Medium | [bit]                                                       |      |
 | 2547 | [Minimum Cost to Split an Array](./problems/2500-2599/2547/README.md)                                                  |        | Hard   |                                                             |      |
 | 2548 | [Maximum Price to Fill a Bag](./problems/2500-2599/2548/README.md)                                                     | :lock: | Medium |                                                             |      |
-| 2549 | [Count Distinct Numbers on Board](./problems/2500-2599/2549/README.md)                                                 |        | Easy   |                                                             |      |
+| 2549 | [Count Distinct Numbers on Board](./problems/2500-2599/2549/README.md) | :o: | Easy | [math] |   |
 | 2550 | [Count Collisions of Monkeys on a Polygon](./problems/2500-2599/2550/README.md)                                        |        | Medium |                                                             |      |
 | 2551 | [Put Marbles in Bags](./problems/2500-2599/2551/README.md)                                                             | :o:    | Hard   | [arr],[dp]                                                  | :+1: |
 | 2552 | [Count Increasing Quadruplets](./problems/2500-2599/2552/README.md)                                                    |        | Hard   |                                                             |      |

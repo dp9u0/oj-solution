@@ -1411,7 +1411,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1336 | [Number of Transactions per Visit](./problems/1300-1399/1336/README.md)                                                | :lock: | Hard   |                                                             |      |
 | 1337 | [The K Weakest Rows in a Matrix](./problems/1300-1399/1337/README.md)                                                  | :o:    | Easy   | [arr]                                                       |      |
 | 1338 | [Reduce Array Size to The Half](./problems/1300-1399/1338/README.md) | :o: | Medium | [hsh],[grd] |   |
-| 1339 | [Maximum Product of Splitted Binary Tree](./problems/1300-1399/1339/README.md)                                         |        | Medium |                                                             |      |
+| 1339 | [Maximum Product of Splitted Binary Tree](./problems/1300-1399/1339/README.md) | :o: | Medium | [tr],[dfs] |   |
 | 1340 | [Jump Game V](./problems/1300-1399/1340/README.md)                                                                     |        | Hard   |                                                             |      |
 | 1341 | [Movie Rating](./problems/1300-1399/1341/README.md)                                                                    | :lock: | Medium |                                                             |      |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./problems/1300-1399/1342/README.md)                                      | :o:    | Easy   | [bit]                                                       |      |

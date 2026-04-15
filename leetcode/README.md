@@ -3340,7 +3340,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3312 | [Sorted GCD Pair Queries](./problems/3300-3399/3312/README.md)                                                         |        | Hard   |                                                             |      |
 | 3313 | [Find the Last Marked Nodes in Tree](./problems/3300-3399/3313/README.md)                                              | :lock: | Hard   |                                                             |      |
 | 3314 | [Construct the Minimum Bitwise Array I](./problems/3300-3399/3314/README.md)                                           | :o:    | Easy   | [bit]                                                       |      |
-| 3315 | [Construct the Minimum Bitwise Array II](./problems/3300-3399/3315/README.md)                                          |        | Medium |                                                             |      |
+| 3315 | [Construct the Minimum Bitwise Array II](./problems/3300-3399/3315/README.md) | :o: | Medium | [bit] |   |
 | 3316 | [Find Maximum Removals From Source String](./problems/3300-3399/3316/README.md)                                        |        | Medium |                                                             |      |
 | 3317 | [Find the Number of Possible Ways for an Event](./problems/3300-3399/3317/README.md)                                   |        | Hard   |                                                             |      |
 | 3318 | [Find X-Sum of All K-Long Subarrays I](./problems/3300-3399/3318/README.md)                                            |        | Easy   |                                                             |      |

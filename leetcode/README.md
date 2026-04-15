@@ -2706,7 +2706,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2678 | [Number of Senior Citizens](./problems/2600-2699/2678/README.md)                                                       |        | Easy   |                                                             |      |
 | 2679 | [Sum in a Matrix](./problems/2600-2699/2679/README.md)                                                                 | :o:    | Medium | [arr],[grd]                                                 |      |
 | 2680 | [Maximum OR](./problems/2600-2699/2680/README.md)                                                                      | :o:    | Medium | [bit]                                                       |      |
-| 2681 | [Power of Heroes](./problems/2600-2699/2681/README.md)                                                                 |        | Hard   |                                                             |      |
+| 2681 | [Power of Heroes](./problems/2600-2699/2681/README.md) | :o: | Hard | [arr],[math],[dp] | :+1:  |
 | 2682 | [Find the Losers of the Circular Game](./problems/2600-2699/2682/README.md) | :o: | Easy | [arr],[math] |   |
 | 2683 | [Neighboring Bitwise XOR](./problems/2600-2699/2683/README.md)                                                         | :o:    | Medium | [arr],[bit]                                                 |      |
 | 2684 | [Maximum Number of Moves in a Grid](./problems/2600-2699/2684/README.md)                                               | :o:    | Medium | [arr],[dp]                                                  |      |

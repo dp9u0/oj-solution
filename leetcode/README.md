@@ -1481,7 +1481,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1406 | [Stone Game III](./problems/1400-1499/1406/README.md)                                                                  |        | Hard   |                                                             |      |
 | 1407 | [Top Travellers](./problems/1400-1499/1407/README.md)                                                                  | :lock: | Easy   |                                                             |      |
 | 1408 | [String Matching in an Array](./problems/1400-1499/1408/README.md) | :o: | Easy | [str] |   |
-| 1409 | [Queries on a Permutation With Key](./problems/1400-1499/1409/README.md)                                               |        | Medium |                                                             |      |
+| 1409 | [Queries on a Permutation With Key](./problems/1400-1499/1409/README.md) | :o: | Medium | [arr] |   |
 | 1410 | [HTML Entity Parser](./problems/1400-1499/1410/README.md)                                                              |        | Medium |                                                             |      |
 | 1411 | [Number of Ways to Paint N × 3 Grid](./problems/1400-1499/1411/README.md)                                              |        | Hard   |                                                             |      |
 | 1412 | [Find the Quiet Students in All Exams](./problems/1400-1499/1412/README.md)                                            | :lock: | Hard   |                                                             |      |

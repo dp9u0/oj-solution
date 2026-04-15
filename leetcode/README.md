@@ -3096,7 +3096,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3068 | [Find the Maximum Sum of Node Values](./problems/3000-3099/3068/README.md)                                             |        | Hard   |                                                             |      |
 | 3069 | [Distribute Elements Into Two Arrays I](./problems/3000-3099/3069/README.md)                                           |        | Easy   |                                                             |      |
 | 3070 | [Count Submatrices with Top-Left Element and Sum Less Than k](./problems/3000-3099/3070/README.md)                     |        | Medium |                                                             |      |
-| 3071 | [Minimum Operations to Write the Letter Y on a Grid](./problems/3000-3099/3071/README.md)                              |        | Medium |                                                             |      |
+| 3071 | [Minimum Operations to Write the Letter Y on a Grid](./problems/3000-3099/3071/README.md) | :o: | Medium | [arr],[lgc] |   |
 | 3072 | [Distribute Elements Into Two Arrays II](./problems/3000-3099/3072/README.md)                                          |        | Hard   |                                                             |      |
 | 3073 | [Maximum Increasing Triplet Value](./problems/3000-3099/3073/README.md)                                                | :lock: | Medium |                                                             |      |
 | 3074 | [Apple Redistribution into Boxes](./problems/3000-3099/3074/README.md)                                                 |        | Easy   |                                                             |      |

@@ -2833,7 +2833,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2805 | [2805](./problems/2800-2899/2805/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2806 | [Account Balance After Rounded Purchase](./problems/2800-2899/2806/README.md)                                          |        | Easy   |                                                             |      |
 | 2807 | [Insert Greatest Common Divisors in Linked List](./problems/2800-2899/2807/README.md)                                  | :o:    | Medium | [ll]                                                        |      |
-| 2808 | [Minimum Seconds to Equalize a Circular Array](./problems/2800-2899/2808/README.md)                                    |        | Medium |                                                             |      |
+| 2808 | [Minimum Seconds to Equalize a Circular Array](./problems/2800-2899/2808/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 2809 | [Minimum Time to Make Array Sum At Most x](./problems/2800-2899/2809/README.md) | :o: | Hard | [dp],[grd] |   |
 | 2810 | [Faulty Keyboard](./problems/2800-2899/2810/README.md)                                                                 |        | Easy   |                                                             |      |
 | 2811 | [Check if it is Possible to Split Array](./problems/2800-2899/2811/README.md)                                          |        | Medium |                                                             |      |

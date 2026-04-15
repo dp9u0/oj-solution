@@ -1592,7 +1592,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1517 | [Find Users With Valid E-Mails](./problems/1500-1599/1517/README.md)                                                   | :lock: | Easy   |                                                             |      |
 | 1518 | [Water Bottles](./problems/1500-1599/1518/README.md)                                                                   | :o:    | Easy   | [arr]                                                       |      |
 | 1519 | [Number of Nodes in the Sub-Tree With the Same Label](./problems/1500-1599/1519/README.md) | :o: | Medium | [tr],[dfs] |   |
-| 1520 | [Maximum Number of Non-Overlapping Substrings](./problems/1500-1599/1520/README.md)                                    |        | Hard   |                                                             |      |
+| 1520 | [Maximum Number of Non-Overlapping Substrings](./problems/1500-1599/1520/README.md) | :o: | Hard | [grd],[str] | :+1:  |
 | 1521 | [Find a Value of a Mysterious Function Closest to Target](./problems/1500-1599/1521/README.md)                         |        | Hard   |                                                             |      |
 | 1522 | [Diameter of N-Ary Tree](./problems/1500-1599/1522/README.md)                                                          | :lock: | Medium |                                                             |      |
 | 1523 | [Count Odd Numbers in an Interval Range](./problems/1500-1599/1523/README.md)                                          | :o:    | Easy   | [arr]                                                       |      |

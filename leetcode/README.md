@@ -1618,7 +1618,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1543 | [Fix Product Name Format](./problems/1500-1599/1543/README.md)                                                         | :lock: | Easy   |                                                             |      |
 | 1544 | [Make The String Great](./problems/1500-1599/1544/README.md)                                                           | :o:    | Easy   | [arr]                                                       |      |
 | 1545 | [Find Kth Bit in Nth Binary String](./problems/1500-1599/1545/README.md)                                               |        | Medium |                                                             |      |
-| 1546 | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](./problems/1500-1599/1546/README.md)              |        | Medium |                                                             |      |
+| 1546 | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](./problems/1500-1599/1546/README.md) | :o: | Medium | [hsh] |   |
 | 1547 | [Minimum Cost to Cut a Stick](./problems/1500-1599/1547/README.md)                                                     | :o:    | Hard   | [dp]                                                        |      |
 | 1548 | [The Most Similar Path in a Graph](./problems/1500-1599/1548/README.md)                                                | :lock: | Hard   |                                                             |      |
 | 1549 | [The Most Recent Orders for Each Product](./problems/1500-1599/1549/README.md)                                         | :lock: | Medium |                                                             |      |

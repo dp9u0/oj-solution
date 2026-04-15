@@ -696,7 +696,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 619  | [Biggest Single Number](./problems/600-699/619/README.md)                                                              | :lock: | Easy   |                                                             |      |
 | 620  | [Not Boring Movies](./problems/600-699/620/README.md)                                                                  | :soon: | Easy   | [sql]                                                       |      |
 | 621  | [Task Scheduler](./problems/600-699/621/README.md)                                                                     |        | Medium |                                                             |      |
-| 622  | [Design Circular Queue](./problems/600-699/622/README.md)                                                              |        | Medium |                                                             |      |
+| 622 | [Design Circular Queue](./problems/600-699/622/README.md) | :o: | Medium | [des],[ds],[q] |   |
 | 623  | [Add One Row to Tree](./problems/600-699/623/README.md)                                                                |        | Medium |                                                             |      |
 | 624  | [Maximum Distance in Arrays](./problems/600-699/624/README.md)                                                         | :lock: | Easy   |                                                             |      |
 | 625  | [Minimum Factorization](./problems/600-699/625/README.md)                                                              | :lock: | Medium |                                                             |      |

@@ -2541,7 +2541,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2513 | [Minimize the Maximum of Two Arrays](./problems/2500-2599/2513/README.md)                                              |        | Medium |                                                             |      |
 | 2514 | [Count Anagrams](./problems/2500-2599/2514/README.md)                                                                  |        | Hard   |                                                             |      |
 | 2515 | [Shortest Distance to Target String in a Circular Array](./problems/2500-2599/2515/README.md)                          |        | Easy   |                                                             |      |
-| 2516 | [Take K of Each Character From Left and Right](./problems/2500-2599/2516/README.md)                                    |        | Medium |                                                             |      |
+| 2516 | [Take K of Each Character From Left and Right](./problems/2500-2599/2516/README.md) | :o: | Medium | [str],[sd] |   |
 | 2517 | [Maximum Tastiness of Candy Basket](./problems/2500-2599/2517/README.md)                                               |        | Medium |                                                             |      |
 | 2518 | [Number of Great Partitions](./problems/2500-2599/2518/README.md)                                                      |        | Hard   |                                                             |      |
 | 2519 | [Count the Number of K-Big Indices](./problems/2500-2599/2519/README.md)                                               | :lock: | Hard   |                                                             |      |

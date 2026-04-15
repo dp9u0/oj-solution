@@ -2765,7 +2765,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2737 | [Find the Closest Marked Node](./problems/2700-2799/2737/README.md)                                                    | :lock: | Medium |                                                             |      |
 | 2738 | [Count Occurrences in Text](./problems/2700-2799/2738/README.md)                                                       | :lock: | Medium |                                                             |      |
 | 2739 | [Total Distance Traveled](./problems/2700-2799/2739/README.md)                                                         |        | Easy   |                                                             |      |
-| 2740 | [Find the Value of the Partition](./problems/2700-2799/2740/README.md)                                                 |        | Medium |                                                             |      |
+| 2740 | [Find the Value of the Partition](./problems/2700-2799/2740/README.md) | :o: | Medium | [arr],[bs] |   |
 | 2741 | [Special Permutations](./problems/2700-2799/2741/README.md)                                                            |        | Medium |                                                             |      |
 | 2742 | [Painting the Walls](./problems/2700-2799/2742/README.md)                                                              |        | Hard   |                                                             |      |
 | 2743 | [Count Substrings Without Repeating Character](./problems/2700-2799/2743/README.md)                                    | :lock: | Medium |                                                             |      |

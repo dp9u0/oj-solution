@@ -2991,7 +2991,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2963 | [Count the Number of Good Partitions](./problems/2900-2999/2963/README.md)                                             |        | Hard   |                                                             |      |
 | 2964 | [Number of Divisible Triplet Sums](./problems/2900-2999/2964/README.md)                                                | :lock: | Medium |                                                             |      |
 | 2965 | [Find Missing and Repeated Values](./problems/2900-2999/2965/README.md)                                                | :o:    | Easy   | [arr]                                                       |      |
-| 2966 | [Divide Array Into Arrays With Max Difference](./problems/2900-2999/2966/README.md)                                    |        | Medium |                                                             |      |
+| 2966 | [Divide Array Into Arrays With Max Difference](./problems/2900-2999/2966/README.md) | :o: | Medium | [arr],[grd] |   |
 | 2967 | [Minimum Cost to Make Array Equalindromic](./problems/2900-2999/2967/README.md)                                        |        | Medium |                                                             |      |
 | 2968 | [Apply Operations to Maximize Frequency Score](./problems/2900-2999/2968/README.md)                                    |        | Hard   |                                                             |      |
 | 2969 | [Minimum Number of Coins for Fruits II](./problems/2900-2999/2969/README.md)                                           | :lock: | Hard   |                                                             |      |

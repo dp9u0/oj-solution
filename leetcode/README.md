@@ -2605,7 +2605,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2577 | [Minimum Time to Visit a Cell In a Grid](./problems/2500-2599/2577/README.md)                                          | :o:    | Hard   | [bfs],[grd]                                                 |      |
 | 2578 | [Split With Minimum Sum](./problems/2500-2599/2578/README.md)                                                          | :o:    | Easy   | [grd],[math]                                                |      |
 | 2579 | [Count Total Number of Colored Cells](./problems/2500-2599/2579/README.md)                                             |        | Medium |                                                             |      |
-| 2580 | [Count Ways to Group Overlapping Ranges](./problems/2500-2599/2580/README.md)                                          |        | Medium |                                                             |      |
+| 2580 | [Count Ways to Group Overlapping Ranges](./problems/2500-2599/2580/README.md) | :o: | Medium | [math] |   |
 | 2581 | [Count Number of Possible Root Nodes](./problems/2500-2599/2581/README.md)                                             |        | Hard   |                                                             |      |
 | 2582 | [Pass the Pillow](./problems/2500-2599/2582/README.md)                                                                 |        | Easy   |                                                             |      |
 | 2583 | [Kth Largest Sum in a Binary Tree](./problems/2500-2599/2583/README.md)                                                | :o:    | Medium | [tr],[bfs]                                                  |      |

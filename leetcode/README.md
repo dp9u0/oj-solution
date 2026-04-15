@@ -2771,7 +2771,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2743 | [Count Substrings Without Repeating Character](./problems/2700-2799/2743/README.md)                                    | :lock: | Medium |                                                             |      |
 | 2744 | [Find Maximum Number of String Pairs](./problems/2700-2799/2744/README.md)                                             |        | Easy   |                                                             |      |
 | 2745 | [Construct the Longest New String](./problems/2700-2799/2745/README.md)                                                |        | Medium |                                                             |      |
-| 2746 | [Decremental String Concatenation](./problems/2700-2799/2746/README.md)                                                |        | Medium |                                                             |      |
+| 2746 | [Decremental String Concatenation](./problems/2700-2799/2746/README.md) | :o: | Medium | [str],[dp] |   |
 | 2747 | [Count Zero Request Servers](./problems/2700-2799/2747/README.md)                                                      |        | Medium |                                                             |      |
 | 2748 | [Number of Beautiful Pairs](./problems/2700-2799/2748/README.md)                                                       |        | Easy   |                                                             |      |
 | 2749 | [Minimum Operations to Make the Integer Zero](./problems/2700-2799/2749/README.md)                                     |        | Medium |                                                             |      |

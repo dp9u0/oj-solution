@@ -728,7 +728,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 651  | [4 Keys Keyboard](./problems/600-699/651/README.md)                                                                    | :lock: | Medium |                                                             |      |
 | 652 | [Find Duplicate Subtrees](./problems/600-699/652/README.md) | :o: | Medium | [tr],[dfs],[hsh] |   |
 | 653  | [Two Sum IV - Input is a BST](./problems/600-699/653/README.md)                                                        | :o:    | Easy   | [tr]                                                        |      |
-| 654  | [Maximum Binary Tree](./problems/600-699/654/README.md)                                                                |        | Medium |                                                             |      |
+| 654 | [Maximum Binary Tree](./problems/600-699/654/README.md) | :o: | Medium | [tr] |   |
 | 655  | [Print Binary Tree](./problems/600-699/655/README.md)                                                                  | :o:    | Medium | [tr]                                                        |      |
 | 656  | [Coin Path](./problems/600-699/656/README.md)                                                                          | :lock: | Hard   |                                                             |      |
 | 657  | [Robot Return to Origin](./problems/600-699/657/README.md)                                                             | :o:    | Easy   | [arr]                                                       |      |

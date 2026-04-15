@@ -3136,7 +3136,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3108 | [Minimum Cost Walk in Weighted Graph](./problems/3100-3199/3108/README.md) | :o: | Hard | [grf],[ds] | :+1:  |
 | 3109 | [Find the Index of Permutation](./problems/3100-3199/3109/README.md)                                                   | :lock: | Medium |                                                             |      |
 | 3110 | [Score of a String](./problems/3100-3199/3110/README.md)                                                               | :o:    | Easy   | [str]                                                       |      |
-| 3111 | [Minimum Rectangles to Cover Points](./problems/3100-3199/3111/README.md)                                              |        | Medium |                                                             |      |
+| 3111 | [Minimum Rectangles to Cover Points](./problems/3100-3199/3111/README.md) | :o: | Medium | [arr],[grd] |   |
 | 3112 | [Minimum Time to Visit Disappearing Nodes](./problems/3100-3199/3112/README.md)                                        | :o:    | Medium | [arr],[bfs],[heap]                                          |      |
 | 3113 | [Find the Number of Subarrays Where Boundary Elements Are Maximum](./problems/3100-3199/3113/README.md)                |        | Hard   |                                                             |      |
 | 3114 | [Latest Time You Can Obtain After Replacing Characters](./problems/3100-3199/3114/README.md)                           |        | Easy   |                                                             |      |

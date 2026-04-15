@@ -2731,7 +2731,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2703 | [2703](./problems/2700-2799/2703/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2704 | [2704](./problems/2700-2799/2704/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2705 | [2705](./problems/2700-2799/2705/README.md)                                                                            |        | Easy   |                                                             |      |
-| 2706 | [Buy Two Chocolates](./problems/2700-2799/2706/README.md)                                                              |        | Easy   |                                                             |      |
+| 2706 | [Buy Two Chocolates](./problems/2700-2799/2706/README.md) | :o: | Easy | [arr],[grd] |   |
 | 2707 | [Extra Characters in a String](./problems/2700-2799/2707/README.md)                                                    | :o:    | Medium | [dp]                                                        |      |
 | 2708 | [Maximum Strength of a Group](./problems/2700-2799/2708/README.md)                                                     |        | Medium |                                                             |      |
 | 2709 | [Greatest Common Divisor Traversal](./problems/2700-2799/2709/README.md)                                               |        | Hard   |                                                             |      |

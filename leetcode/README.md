@@ -3515,3 +3515,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3668 | [Restore Finishing Order](./problems/3600-3699/3668/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 1763 | [Longest Nice Substring](./problems/1700-1799/1763/README.md) | :o: | Easy | [str],[dc] |   |
 | 3456 | [Find Special Substring of Length K](./problems/3400-3499/3456/README.md) | :o: | Easy | [str] |   |
+| 3877 | [Minimum Removals to Achieve Target XOR](./problems/3800-3899/3877/README.md) | :o: | Medium | [bit],[dc] | :+1:  |

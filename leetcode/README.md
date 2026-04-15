@@ -593,7 +593,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 514  | [Freedom Trail](./problems/500-599/514/README.md)                                                                      |        | Hard   |                                                             |      |
 | 515  | [Find Largest Value in Each Tree Row](./problems/500-599/515/README.md)                                                | :o:    | Medium | [tr],[bfs]                                                  |      |
 | 516  | [Longest Palindromic Subsequence](./problems/500-599/516/README.md)                                                    | :o:    | Medium | [dp]                                                        | :+1: |
-| 517  | [Super Washing Machines](./problems/500-599/517/README.md)                                                             |        | Hard   |                                                             |      |
+| 517 | [Super Washing Machines](./problems/500-599/517/README.md) | :o: | Hard | [grd],[arr] |   |
 | 518  | [Coin Change 2](./problems/500-599/518/README.md)                                                                      | :o:    | Medium | [dp]                                                        | :+1: |
 | 519  | [Random Flip Matrix](./problems/500-599/519/README.md)                                                                 |        | Medium |                                                             |      |
 | 520  | [Detect Capital](./problems/500-599/520/README.md)                                                                     | :o:    | Easy   | [str]                                                       |      |

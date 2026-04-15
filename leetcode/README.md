@@ -1066,7 +1066,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 989  | [Add to Array-Form of Integer](./problems/900-999/989/README.md)                                                       | :o:    | Easy   | [math]                                                      |      |
 | 990  | [Satisfiability of Equality Equations](./problems/900-999/990/README.md)                                               | :o:    | Medium | [hsh]                                                       |      |
 | 991  | [Broken Calculator](./problems/900-999/991/README.md)                                                                  | :o:    | Medium | [math]                                                      |      |
-| 992  | [Subarrays with K Different Integers](./problems/900-999/992/README.md)                                                |        | Hard   |                                                             |      |
+| 992 | [Subarrays with K Different Integers](./problems/900-999/992/README.md) | :o: | Hard | [arr],[sd] | :+1:  |
 | 993  | [Cousins in Binary Tree](./problems/900-999/993/README.md)                                                             | :o:    | Easy   | [tr]                                                        |      |
 | 994  | [Rotting Oranges](./problems/900-999/994/README.md)                                                                    | :o:    | Medium | [arr]                                                       |      |
 | 995  | [Minimum Number of K Consecutive Bit Flips](./problems/900-999/995/README.md)                                          |        | Hard   |                                                             |      |

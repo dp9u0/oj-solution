@@ -2257,7 +2257,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2229 | [2229](./problems/2200-2299/2229/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2230 | [The Users That Are Eligible for Discount](./problems/2200-2299/2230/README.md)                                        | :lock: | Easy   |                                                             |      |
 | 2231 | [Largest Number After Digit Swaps by Parity](./problems/2200-2299/2231/README.md)                                      |        | Easy   |                                                             |      |
-| 2232 | [Minimize Result by Adding Parentheses to Expression](./problems/2200-2299/2232/README.md)                             |        | Medium |                                                             |      |
+| 2232 | [Minimize Result by Adding Parentheses to Expression](./problems/2200-2299/2232/README.md) | :o: | Medium | [str],[math] |   |
 | 2233 | [Maximum Product After K Increments](./problems/2200-2299/2233/README.md)                                              |        | Medium |                                                             |      |
 | 2234 | [Maximum Total Beauty of the Gardens](./problems/2200-2299/2234/README.md)                                             |        | Hard   |                                                             |      |
 | 2235 | [Add Two Integers](./problems/2200-2299/2235/README.md)                                                                |        | Easy   |                                                             |      |

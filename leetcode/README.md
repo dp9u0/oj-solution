@@ -570,7 +570,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 488  | [Zuma Game](./problems/400-499/488/README.md)                                                                          |        | Hard   |                                                             |      |
 | 489  | [Robot Room Cleaner](./problems/400-499/489/README.md)                                                                 | :lock: | Hard   |                                                             |      |
 | 490  | [The Maze](./problems/400-499/490/README.md)                                                                           | :lock: | Medium |                                                             |      |
-| 491  | [Increasing Subsequences](./problems/400-499/491/README.md)                                                            |        | Medium |                                                             |      |
+| 491 | [Increasing Subsequences](./problems/400-499/491/README.md) | :o: | Medium | [bt] |   |
 | 492  | [Construct the Rectangle](./problems/400-499/492/README.md)                                                            | :o:    | Easy   | [math]                                                      |      |
 | 493  | [Reverse Pairs](./problems/400-499/493/README.md)                                                                      |        | Hard   |                                                             |      |
 | 494  | [Target Sum](./problems/400-499/494/README.md)                                                                         | :o:    | Medium | [dp]                                                        | :+1: |

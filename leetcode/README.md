@@ -1696,7 +1696,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](./problems/1600-1699/1621/README.md)                               |        | Medium |                                                             |      |
 | 1622 | [Fancy Sequence](./problems/1600-1699/1622/README.md)                                                                  |        | Hard   |                                                             |      |
 | 1623 | [All Valid Triplets That Can Represent a Country](./problems/1600-1699/1623/README.md)                                 | :lock: | Easy   |                                                             |      |
-| 1624 | [Largest Substring Between Two Equal Characters](./problems/1600-1699/1624/README.md)                                  |        | Easy   |                                                             |      |
+| 1624 | [Largest Substring Between Two Equal Characters](./problems/1600-1699/1624/README.md) | :o: | Easy | [str],[hsh] |   |
 | 1625 | [Lexicographically Smallest String After Applying Operations](./problems/1600-1699/1625/README.md)                     |        | Medium |                                                             |      |
 | 1626 | [Best Team With No Conflicts](./problems/1600-1699/1626/README.md)                                                     |        | Medium |                                                             |      |
 | 1627 | [1627](./problems/1600-1699/1627/README.md)                                                                            |        | Easy   |                                                             |      |

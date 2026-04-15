@@ -1962,7 +1962,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1934 | [Confirmation Rate](./problems/1900-1999/1934/README.md)                                                               | :lock: | Medium |                                                             |      |
 | 1935 | [1935](./problems/1900-1999/1935/README.md)                                                                            |        | Easy   |                                                             |      |
 | 1936 | [Add Minimum Number of Rungs](./problems/1900-1999/1936/README.md)                                                     | :o:    | Medium | [arr],[greedy]                                              |      |
-| 1937 | [Maximum Number of Points with Cost](./problems/1900-1999/1937/README.md)                                              |        | Medium |                                                             |      |
+| 1937 | [Maximum Number of Points with Cost](./problems/1900-1999/1937/README.md) | :o: | Medium | [dp],[arr] |   |
 | 1938 | [Maximum Genetic Difference Query](./problems/1900-1999/1938/README.md)                                                |        | Hard   |                                                             |      |
 | 1939 | [Users That Actively Request Confirmation Messages](./problems/1900-1999/1939/README.md)                               | :lock: | Easy   |                                                             |      |
 | 1940 | [Longest Common Subsequence Between Sorted Arrays](./problems/1900-1999/1940/README.md)                                | :lock: | Medium |                                                             |      |

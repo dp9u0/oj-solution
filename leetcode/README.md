@@ -1236,7 +1236,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1159 | [Market Analysis II](./problems/1100-1199/1159/README.md)                                                              | :lock: | Hard   |                                                             |      |
 | 1160 | [Find Words That Can Be Formed by Characters](./problems/1100-1199/1160/README.md)                                     | :o:    | Easy   | [hsh]                                                       | :+1: |
 | 1161 | [Maximum Level Sum of a Binary Tree](./problems/1100-1199/1161/README.md)                                              | :o:    | Medium | [tr],[bfs]                                                  |      |
-| 1162 | [As Far from Land as Possible](./problems/1100-1199/1162/README.md)                                                    |        | Medium |                                                             |      |
+| 1162 | [As Far from Land as Possible](./problems/1100-1199/1162/README.md) | :o: | Medium | [bfs],[arr] | :+1:  |
 | 1163 | [Last Substring in Lexicographical Order](./problems/1100-1199/1163/README.md)                                         |        | Hard   |                                                             |      |
 | 1164 | [Product Price at a Given Date](./problems/1100-1199/1164/README.md)                                                   | :lock: | Medium |                                                             |      |
 | 1165 | [Single-Row Keyboard](./problems/1100-1199/1165/README.md)                                                             | :lock: | Easy   |                                                             |      |

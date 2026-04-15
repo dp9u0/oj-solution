@@ -3362,7 +3362,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3334 | [Find the Maximum Factor Score of Array](./problems/3300-3399/3334/README.md)                                          |        | Medium |                                                             |      |
 | 3335 | [Total Characters in String After Transformations I](./problems/3300-3399/3335/README.md)                              |        | Medium |                                                             |      |
 | 3336 | [Find the Number of Subsequences With Equal GCD](./problems/3300-3399/3336/README.md)                                  |        | Hard   |                                                             |      |
-| 3337 | [Total Characters in String After Transformations II](./problems/3300-3399/3337/README.md)                             |        | Hard   |                                                             |      |
+| 3337 | [Total Characters in String After Transformations II](./problems/3300-3399/3337/README.md) | :o: | Hard | [str],[math] |   |
 | 3338 | [Second Highest Salary II](./problems/3300-3399/3338/README.md)                                                        | :lock: | Medium |                                                             |      |
 | 3339 | [Find the Number of K-Even Arrays](./problems/3300-3399/3339/README.md)                                                | :lock: | Medium |                                                             |      |
 | 3340 | [Check Balanced String](./problems/3300-3399/3340/README.md) | :o: | Easy | [str] |   |

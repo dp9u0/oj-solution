@@ -3464,3 +3464,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3868 | [Minimum Cost to Equalize Arrays Using Swaps](./problems/3800-3899/3868/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 3800 | [Minimum Cost to Make Two Binary Strings Equal](./problems/3800-3899/3800/README.md) | :o: | Medium | [str],[grd] |   |
 | 3637 | [Trionic Array I](./problems/3600-3699/3637/README.md) | :o: | Easy | [arr],[lgc] |   |
+| 1776 | [Car Fleet II](./problems/1700-1799/1776/README.md) | :o: | Hard | [stk],[math] |   |

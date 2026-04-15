@@ -3473,3 +3473,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3882 | [Minimum XOR Path in a Grid](./problems/3800-3899/3882/README.md) | :o: | Medium | [dp],[bit] |   |
 | 3618 | [Split Array by Prime Indices](./problems/3600-3699/3618/README.md) | :o: | Medium | [arr],[math] |   |
 | 3774 | [Absolute Difference Between Maximum and Minimum K Elements](./problems/3700-3799/3774/README.md) | :o: | Easy | [arr],[math] |   |
+| 3771 | [Total Score of Dungeon Runs](./problems/3700-3799/3771/README.md) | :o: | Medium | [arr],[ds] |   |

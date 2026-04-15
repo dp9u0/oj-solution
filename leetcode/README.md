@@ -3258,7 +3258,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3230 | [Customer Purchasing Behavior Analysis](./problems/3200-3299/3230/README.md)                                           | :lock: | Medium |                                                             |      |
 | 3231 | [Minimum Number of Increasing Subsequence to Be Removed](./problems/3200-3299/3231/README.md)                          | :lock: | Hard   |                                                             |      |
 | 3232 | [Find if Digit Game Can Be Won](./problems/3200-3299/3232/README.md)                                                   | :o:    | Easy   | [lgc]                                                       |      |
-| 3233 | [Find the Count of Numbers Which Are Not Special](./problems/3200-3299/3233/README.md)                                 |        | Medium |                                                             |      |
+| 3233 | [Find the Count of Numbers Which Are Not Special](./problems/3200-3299/3233/README.md) | :o: | Medium | [math],[bs] |   |
 | 3234 | [Count the Number of Substrings With Dominant Ones](./problems/3200-3299/3234/README.md)                               |        | Medium |                                                             |      |
 | 3235 | [Check if the Rectangle Corner Is Reachable](./problems/3200-3299/3235/README.md)                                      |        | Hard   |                                                             |      |
 | 3236 | [CEO Subordinate Hierarchy](./problems/3200-3299/3236/README.md)                                                       | :lock: | Hard   |                                                             |      |

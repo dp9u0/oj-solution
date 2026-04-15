@@ -1319,7 +1319,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1244 | [Design A Leaderboard](./problems/1200-1299/1244/README.md)                                                            | :lock: | Medium |                                                             |      |
 | 1245 | [Tree Diameter](./problems/1200-1299/1245/README.md)                                                                   | :lock: | Medium |                                                             |      |
 | 1246 | [Palindrome Removal](./problems/1200-1299/1246/README.md)                                                              | :lock: | Hard   |                                                             |      |
-| 1247 | [Minimum Swaps to Make Strings Equal](./problems/1200-1299/1247/README.md)                                             |        | Medium |                                                             |      |
+| 1247 | [Minimum Swaps to Make Strings Equal](./problems/1200-1299/1247/README.md) | :o: | Medium | [math],[grd] |   |
 | 1248 | [Count Number of Nice Subarrays](./problems/1200-1299/1248/README.md)                                                  | :o:    | Medium | [arr],[hash],[prefix]                                       |      |
 | 1249 | [Minimum Remove to Make Valid Parentheses](./problems/1200-1299/1249/README.md)                                        | :o:    | Medium | [str],[stack]                                               | :+1: |
 | 1250 | [Check If It Is a Good Array](./problems/1200-1299/1250/README.md)                                                     |        | Hard   |                                                             |      |

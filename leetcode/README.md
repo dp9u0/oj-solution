@@ -2308,7 +2308,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2280 | [Minimum Lines to Represent a Line Chart](./problems/2200-2299/2280/README.md)                                         |        | Medium |                                                             |      |
 | 2281 | [Sum of Total Strength of Wizards](./problems/2200-2299/2281/README.md)                                                |        | Hard   |                                                             |      |
 | 2282 | [Number of People That Can Be Seen in a Grid](./problems/2200-2299/2282/README.md)                                     | :lock: | Medium |                                                             |      |
-| 2283 | [Check if Number Has Equal Digit Count and Digit Value](./problems/2200-2299/2283/README.md)                           |        | Easy   |                                                             |      |
+| 2283 | [Check if Number Has Equal Digit Count and Digit Value](./problems/2200-2299/2283/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 2284 | [Sender With Largest Word Count](./problems/2200-2299/2284/README.md)                                                  | :o:    | Medium | [arr],[hash]                                                |      |
 | 2285 | [Maximum Total Importance of Roads](./problems/2200-2299/2285/README.md)                                               | :o:    | Medium | [arr],[greedy]                                              |      |
 | 2286 | [Booking Concert Tickets in Groups](./problems/2200-2299/2286/README.md)                                               |        | Hard   |                                                             |      |

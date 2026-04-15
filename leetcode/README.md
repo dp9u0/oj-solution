@@ -2506,7 +2506,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2478 | [Number of Beautiful Partitions](./problems/2400-2499/2478/README.md)                                                  | :o:    | Hard   | [dp],[str]                                                  |      |
 | 2479 | [Maximum XOR of Two Non-Overlapping Subtrees](./problems/2400-2499/2479/README.md)                                     | :lock: | Hard   |                                                             |      |
 | 2480 | [Form a Chemical Bond](./problems/2400-2499/2480/README.md)                                                            | :lock: | Easy   |                                                             |      |
-| 2481 | [Minimum Cuts to Divide a Circle](./problems/2400-2499/2481/README.md)                                                 |        | Easy   |                                                             |      |
+| 2481 | [Minimum Cuts to Divide a Circle](./problems/2400-2499/2481/README.md) | :o: | Easy | [math],[lgc] |   |
 | 2482 | [Difference Between Ones and Zeros in Row and Column](./problems/2400-2499/2482/README.md)                             |        | Medium |                                                             |      |
 | 2483 | [Minimum Penalty for a Shop](./problems/2400-2499/2483/README.md)                                                      | :o:    | Medium | [str],[greedy]                                              |      |
 | 2484 | [Count Palindromic Subsequences](./problems/2400-2499/2484/README.md)                                                  |        | Hard   |                                                             |      |

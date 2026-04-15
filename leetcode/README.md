@@ -3253,7 +3253,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3225 | [Maximum Score From Grid Operations](./problems/3200-3299/3225/README.md)                                              |        | Hard   |                                                             |      |
 | 3226 | [Number of Bit Changes to Make Two Integers Equal](./problems/3200-3299/3226/README.md)                                | :o:    | Easy   | [bit]                                                       |      |
 | 3227 | [Vowels Game in a String](./problems/3200-3299/3227/README.md)                                                         |        | Medium |                                                             |      |
-| 3228 | [Maximum Number of Operations to Move Ones to the End](./problems/3200-3299/3228/README.md)                            |        | Medium |                                                             |      |
+| 3228 | [Maximum Number of Operations to Move Ones to the End](./problems/3200-3299/3228/README.md) | :o: | Medium | [str],[grd] |   |
 | 3229 | [Minimum Operations to Make Array Equal to Target](./problems/3200-3299/3229/README.md)                                |        | Hard   |                                                             |      |
 | 3230 | [Customer Purchasing Behavior Analysis](./problems/3200-3299/3230/README.md)                                           | :lock: | Medium |                                                             |      |
 | 3231 | [Minimum Number of Increasing Subsequence to Be Removed](./problems/3200-3299/3231/README.md)                          | :lock: | Hard   |                                                             |      |

@@ -2959,7 +2959,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2931 | [Maximum Spending After Buying Items](./problems/2900-2999/2931/README.md)                                             | :o:    | Hard   | [grd],[hp]                                                  |      |
 | 2932 | [Maximum Strong Pair XOR I](./problems/2900-2999/2932/README.md)                                                       |        | Easy   |                                                             |      |
 | 2933 | [High-Access Employees](./problems/2900-2999/2933/README.md)                                                           | :o:    | Medium | [hsh],[sd]                                                  |      |
-| 2934 | [Minimum Operations to Maximize Last Elements in Arrays](./problems/2900-2999/2934/README.md)                          |        | Medium |                                                             |      |
+| 2934 | [Minimum Operations to Maximize Last Elements in Arrays](./problems/2900-2999/2934/README.md) | :o: | Medium | [arr],[grd] |   |
 | 2935 | [Maximum Strong Pair XOR II](./problems/2900-2999/2935/README.md)                                                      |        | Hard   |                                                             |      |
 | 2936 | [Number of Equal Numbers Blocks](./problems/2900-2999/2936/README.md)                                                  | :lock: | Medium |                                                             |      |
 | 2937 | [Make Three Strings Equal](./problems/2900-2999/2937/README.md)                                                        |        | Easy   |                                                             |      |

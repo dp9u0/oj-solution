@@ -3251,7 +3251,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3223 | [Minimum Length of String After Operations](./problems/3200-3299/3223/README.md)                                       | :o:    | Medium | [str],[hm]                                                  |      |
 | 3224 | [Minimum Array Changes to Make Differences Equal](./problems/3200-3299/3224/README.md)                                 |        | Medium |                                                             |      |
 | 3225 | [Maximum Score From Grid Operations](./problems/3200-3299/3225/README.md)                                              |        | Hard   |                                                             |      |
-| 3226 | [Number of Bit Changes to Make Two Integers Equal](./problems/3200-3299/3226/README.md)                                |        | Easy   |                                                             |      |
+| 3226 | [Number of Bit Changes to Make Two Integers Equal](./problems/3200-3299/3226/README.md) | :o: | Easy | [bit] |   |
 | 3227 | [Vowels Game in a String](./problems/3200-3299/3227/README.md)                                                         |        | Medium |                                                             |      |
 | 3228 | [Maximum Number of Operations to Move Ones to the End](./problems/3200-3299/3228/README.md)                            |        | Medium |                                                             |      |
 | 3229 | [Minimum Operations to Make Array Equal to Target](./problems/3200-3299/3229/README.md)                                |        | Hard   |                                                             |      |

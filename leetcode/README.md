@@ -463,7 +463,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 381  | [Insert Delete GetRandom O(1) - Duplicates allowed](./problems/300-399/381/README.md)                                  | :o:    | Hard   | [array],[hash_table]          |      |
 | 382  | [Linked List Random Node](./problems/300-399/382/README.md)                                                            |        | Medium |                                                             |      |
 | 383  | [Ransom Note](./problems/300-399/383/README.md)                                                                        | :o:    | Easy   | [hsh]                                                       |      |
-| 384  | [Shuffle an Array](./problems/300-399/384/README.md)                                                                   |        | Medium |                                                             |      |
+| 384 | [Shuffle an Array](./problems/300-399/384/README.md) | :o: | Medium | [arr],[math] |   |
 | 385  | [Mini Parser](./problems/300-399/385/README.md)                                                                        |        | Medium |                                                             |      |
 | 386  | [Lexicographical Numbers](./problems/300-399/386/README.md)                                                            | :o:    | Medium | [dfs]                                                       |      |
 | 387  | [First Unique Character in a String](./problems/300-399/387/README.md)                                                 | :o:    | Easy   | [hsh]                                                       |      |

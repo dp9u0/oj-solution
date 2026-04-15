@@ -2344,7 +2344,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./problems/2300-2399/2316/README.md)                         | :o:    | Medium | [union-find]                                                |      |
 | 2317 | [Maximum XOR After Operations](./problems/2300-2399/2317/README.md)                                                    |        | Medium |                                                             |      |
 | 2318 | [Number of Distinct Roll Sequences](./problems/2300-2399/2318/README.md)                                               |        | Hard   |                                                             |      |
-| 2319 | [Check if Matrix Is X-Matrix](./problems/2300-2399/2319/README.md)                                                     |        | Easy   |                                                             |      |
+| 2319 | [Check if Matrix Is X-Matrix](./problems/2300-2399/2319/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 2320 | [Count Number of Ways to Place Houses](./problems/2300-2399/2320/README.md)                                            |        | Medium |                                                             |      |
 | 2321 | [2321](./problems/2300-2399/2321/README.md)                                                                            | :o:    | Hard   | [arr],[dp]                                                  |      |
 | 2322 | [Minimum Score After Removals on a Tree](./problems/2300-2399/2322/README.md)                                          |        | Hard   |                                                             |      |

@@ -1680,7 +1680,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1605 | [Find Valid Matrix Given Row and Column Sums](./problems/1600-1699/1605/README.md) | :o: | Medium | [grd],[arr] |   |
 | 1606 | [Find Servers That Handled Most Number of Requests](./problems/1600-1699/1606/README.md)                               |        | Hard   |                                                             |      |
 | 1607 | [Sellers With No Sales](./problems/1600-1699/1607/README.md)                                                           | :lock: | Easy   |                                                             |      |
-| 1608 | [Special Array With X Elements Greater Than or Equal X](./problems/1600-1699/1608/README.md)                           |        | Easy   |                                                             |      |
+| 1608 | [Special Array With X Elements Greater Than or Equal X](./problems/1600-1699/1608/README.md) | :o: | Easy | [arr],[bs] |   |
 | 1609 | [Even Odd Tree](./problems/1600-1699/1609/README.md) | :o: | Medium | [tr],[bfs] |   |
 | 1610 | [Maximum Number of Visible Points](./problems/1600-1699/1610/README.md)                                                |        | Hard   |                                                             |      |
 | 1611 | [Minimum One Bit Operations to Make Integers Zero](./problems/1600-1699/1611/README.md)                                |        | Hard   |                                                             |      |

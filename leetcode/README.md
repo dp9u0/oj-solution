@@ -1034,7 +1034,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 957 | [Prison Cells After N Days](./problems/900-999/957/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 958  | [Check Completeness of a Binary Tree](./problems/900-999/958/README.md)                                                | :o:    | Medium | [tr]                                                        |      |
 | 959  | [Regions Cut By Slashes](./problems/900-999/959/README.md)                                                             | :o:    | Medium | [bfs]                                                       |      |
-| 960  | [Delete Columns to Make Sorted III](./problems/900-999/960/README.md)                                                  |        | Hard   |                                                             |      |
+| 960 | [Delete Columns to Make Sorted III](./problems/900-999/960/README.md) | :o: | Hard | [dp],[str] | :+1:  |
 | 961  | [N-Repeated Element in Size 2N Array](./problems/900-999/961/README.md)                                                | :o:    | Easy   | [hsh]                                                       |      |
 | 962  | [Maximum Width Ramp](./problems/900-999/962/README.md)                                                                 | :o:    | Medium | [arr],[stack]                                               | :+1: |
 | 963  | [Minimum Area Rectangle II](./problems/900-999/963/README.md)                                                          | :o:    | Medium | [arr],[math]                                                |      |

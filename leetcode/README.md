@@ -3497,3 +3497,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3412 | [Find Mirror Score of a String](./problems/3400-3499/3412/README.md) | :o: | Medium | [str],[stk] |   |
 | 3683 | [Earliest Time to Finish One Task](./problems/3600-3699/3683/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 3599 | [Partition Array to Minimize XOR](./problems/3500-3599/3599/README.md) | :o: | Medium | [dp],[bit] |   |
+| 3640 | [Trionic Array II](./problems/3600-3699/3640/README.md) | :o: | Hard | [dp],[lgc] |   |

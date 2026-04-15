@@ -860,7 +860,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 783  | [Minimum Distance Between BST Nodes](./problems/700-799/783/README.md)                                                 | :o:    | Easy   | [tr]                                                        | 530  |
 | 784  | [Letter Case Permutation](./problems/700-799/784/README.md)                                                            | :o:    | Easy   | [bt]                                                        |      |
 | 785  | [Is Graph Bipartite?](./problems/700-799/785/README.md)                                                                | :o:    | Medium | [bfs]                                                       | :+1: |
-| 786  | [K-th Smallest Prime Fraction](./problems/700-799/786/README.md)                                                       |        | Hard   |                                                             |      |
+| 786 | [K-th Smallest Prime Fraction](./problems/700-799/786/README.md) | :o: | Medium | [arr],[bs] | :+1:  |
 | 787  | [Cheapest Flights Within K Stops](./problems/700-799/787/README.md)                                                    | :o:    | Medium | [dp],[bfs]                                                  |      |
 | 788  | [Rotated Digits](./problems/700-799/788/README.md)                                                                     | :o:    | Easy   | [dp]                                                        | :+1: |
 | 789  | [Escape The Ghosts](./problems/700-799/789/README.md)                                                                  | :o:    | Medium | [math]                                                      |      |

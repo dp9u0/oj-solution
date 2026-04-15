@@ -3527,3 +3527,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3429 | [Paint House IV](./problems/3400-3499/3429/README.md) | :o: | Medium | [dp] |   |
 | 1748 | [Sum of Unique Elements](./problems/1700-1799/1748/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 3695 | [Maximize Alternating Sum Using Swaps](./problems/3600-3699/3695/README.md) | :o: | Hard | [grd],[ds] |   |
+| 3516 | [Find Closest Person](./problems/3500-3599/3516/README.md) | :o: | Easy | [lgc] |   |

@@ -1038,7 +1038,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 961  | [N-Repeated Element in Size 2N Array](./problems/900-999/961/README.md)                                                | :o:    | Easy   | [hsh]                                                       |      |
 | 962  | [Maximum Width Ramp](./problems/900-999/962/README.md)                                                                 | :o:    | Medium | [arr],[stack]                                               | :+1: |
 | 963  | [Minimum Area Rectangle II](./problems/900-999/963/README.md)                                                          | :o:    | Medium | [arr],[math]                                                |      |
-| 964  | [Least Operators to Express Number](./problems/900-999/964/README.md)                                                  |        | Hard   |                                                             |      |
+| 964 | [Least Operators to Express Number](./problems/900-999/964/README.md) | :o: | Hard | [dp],[math] |   |
 | 965  | [Univalued Binary Tree](./problems/900-999/965/README.md)                                                              | :o:    | Easy   | [tr]                                                        |      |
 | 966 | [Vowel Spellchecker](./problems/900-999/966/README.md) | :o: | Medium | [str],[hsh] |   |
 | 967  | [Numbers With Same Consecutive Differences](./problems/900-999/967/README.md)                                          | :o:    | Medium | [bt]                                                        |      |

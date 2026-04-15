@@ -2500,7 +2500,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./problems/2400-2499/2472/README.md) | :o: | Hard | [grd],[str] |   |
 | 2473 | [Minimum Cost to Buy Apples](./problems/2400-2499/2473/README.md)                                                      | :lock: | Medium |                                                             |      |
 | 2474 | [Customers With Strictly Increasing Purchases](./problems/2400-2499/2474/README.md)                                    | :lock: | Hard   |                                                             |      |
-| 2475 | [Number of Unequal Triplets in Array](./problems/2400-2499/2475/README.md)                                             |        | Easy   |                                                             |      |
+| 2475 | [Number of Unequal Triplets in Array](./problems/2400-2499/2475/README.md) | :o: | Easy | [arr] |   |
 | 2476 | [Closest Nodes Queries in a Binary Search Tree](./problems/2400-2499/2476/README.md)                                   |        | Medium |                                                             |      |
 | 2477 | [Minimum Fuel Cost to Report to the Capital](./problems/2400-2499/2477/README.md)                                      |        | Medium |                                                             |      |
 | 2478 | [Number of Beautiful Partitions](./problems/2400-2499/2478/README.md)                                                  | :o:    | Hard   | [dp],[str]                                                  |      |

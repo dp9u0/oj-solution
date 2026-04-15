@@ -2473,7 +2473,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2445 | [Number of Nodes With Value One](./problems/2400-2499/2445/README.md)                                                  | :lock: | Medium |                                                             |      |
 | 2446 | [Determine if Two Events Have Conflict](./problems/2400-2499/2446/README.md)                                           |        | Easy   |                                                             |      |
 | 2447 | [Number of Subarrays With GCD Equal to K](./problems/2400-2499/2447/README.md)                                         |        | Medium |                                                             |      |
-| 2448 | [Minimum Cost to Make Array Equal](./problems/2400-2499/2448/README.md)                                                |        | Hard   |                                                             |      |
+| 2448 | [Minimum Cost to Make Array Equal](./problems/2400-2499/2448/README.md) | :o: | Hard | [arr],[math] | :+1:  |
 | 2449 | [Minimum Number of Operations to Make Arrays Similar](./problems/2400-2499/2449/README.md)                             |        | Hard   |                                                             |      |
 | 2450 | [Number of Distinct Binary Strings After Applying Operations](./problems/2400-2499/2450/README.md)                     | :lock: | Medium |                                                             |      |
 | 2451 | [Odd String Difference](./problems/2400-2499/2451/README.md)                                                           | :o:    | Easy   | [arr],[hsh]                                                 |      |

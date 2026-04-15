@@ -2639,7 +2639,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2611 | [Mice and Cheese](./problems/2600-2699/2611/README.md)                                                                 | :o:    | Medium | [arr],[greedy]                                              |      |
 | 2612 | [Minimum Reverse Operations](./problems/2600-2699/2612/README.md)                                                      |        | Hard   |                                                             |      |
 | 2613 | [Beautiful Pairs](./problems/2600-2699/2613/README.md)                                                                 | :lock: | Hard   |                                                             |      |
-| 2614 | [Prime In Diagonal](./problems/2600-2699/2614/README.md)                                                               |        | Easy   |                                                             |      |
+| 2614 | [Prime In Diagonal](./problems/2600-2699/2614/README.md) | :o: | Easy | [arr],[math] |   |
 | 2615 | [Sum of Distances](./problems/2600-2699/2615/README.md)                                                                | :o:    | Medium | [arr],[hsh]                                                 |      |
 | 2616 | [Minimize the Maximum Difference of Pairs](./problems/2600-2699/2616/README.md)                                        | :o:    | Medium | [arr],[bs],[greedy]                                         | :+1: |
 | 2617 | [Minimum Number of Visited Cells in a Grid](./problems/2600-2699/2617/README.md)                                       |        | Hard   |                                                             |      |

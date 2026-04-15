@@ -661,7 +661,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 584  | [Find Customer Referee](./problems/500-599/584/README.md)                                                              | :lock: | Easy   |                                                             |      |
 | 585  | [Investments in 2016](./problems/500-599/585/README.md)                                                                | :lock: | Medium |                                                             |      |
 | 586  | [Customer Placing the Largest Number of Orders](./problems/500-599/586/README.md)                                      | :lock: | Easy   |                                                             |      |
-| 587  | [Erect the Fence](./problems/500-599/587/README.md)                                                                    |        | Hard   |                                                             |      |
+| 587 | [Erect the Fence](./problems/500-599/587/README.md) | :o: | Hard | [math],[grd] | :+1:  |
 | 588  | [Design In-Memory File System](./problems/500-599/588/README.md)                                                       | :lock: | Hard   |                                                             |      |
 | 589  | [N-ary Tree Preorder Traversal](./problems/500-599/589/README.md)                                                      | :o:    | Easy   | [tr]                                                        |      |
 | 590  | [N-ary Tree Postorder Traversal](./problems/500-599/590/README.md)                                                     | :o:    | Easy   | [tr]                                                        |      |

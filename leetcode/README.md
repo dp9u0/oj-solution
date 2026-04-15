@@ -1029,7 +1029,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 952  | [Largest Component Size by Common Factor](./problems/900-999/952/README.md)                                            |        | Hard   |                                                             |      |
 | 953  | [Verifying an Alien Dictionary](./problems/900-999/953/README.md)                                                      | :o:    | Easy   | [hsh]                                                       |      |
 | 954  | [Array of Doubled Pairs](./problems/900-999/954/README.md)                                                             |        | Medium |                                                             |      |
-| 955  | [Delete Columns to Make Sorted II](./problems/900-999/955/README.md)                                                   |        | Medium |                                                             |      |
+| 955 | [Delete Columns to Make Sorted II](./problems/900-999/955/README.md) | :o: | Medium | [str],[grd] | :+1:  |
 | 956  | [Tallest Billboard](./problems/900-999/956/README.md)                                                                  | :o:    | Hard   | [hsh]                                                       |      |
 | 957 | [Prison Cells After N Days](./problems/900-999/957/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 958  | [Check Completeness of a Binary Tree](./problems/900-999/958/README.md)                                                | :o:    | Medium | [tr]                                                        |      |

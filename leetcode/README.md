@@ -2769,7 +2769,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2741 | [Special Permutations](./problems/2700-2799/2741/README.md)                                                            |        | Medium |                                                             |      |
 | 2742 | [Painting the Walls](./problems/2700-2799/2742/README.md)                                                              |        | Hard   |                                                             |      |
 | 2743 | [Count Substrings Without Repeating Character](./problems/2700-2799/2743/README.md)                                    | :lock: | Medium |                                                             |      |
-| 2744 | [Find Maximum Number of String Pairs](./problems/2700-2799/2744/README.md)                                             |        | Easy   |                                                             |      |
+| 2744 | [Find Maximum Number of String Pairs](./problems/2700-2799/2744/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 2745 | [Construct the Longest New String](./problems/2700-2799/2745/README.md) | :o: | Medium | [str],[math],[grd] | :+1:  |
 | 2746 | [Decremental String Concatenation](./problems/2700-2799/2746/README.md)                                                | :o:    | Medium | [str],[dp]                                                  |      |
 | 2747 | [Count Zero Request Servers](./problems/2700-2799/2747/README.md)                                                      |        | Medium |                                                             |      |

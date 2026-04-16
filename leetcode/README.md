@@ -1857,7 +1857,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1816 | [Truncate Sentence](./problems/1800-1899/1816/README.md)                                                               |        | Easy   |                                                             |      |
 | 1817 | [Finding the Users Active Minutes](./problems/1800-1899/1817/README.md)                                                | :o:    | Medium | [hsh]                                                       |      |
 | 1818 | [Minimum Absolute Sum Difference](./problems/1800-1899/1818/README.md)                                                 |        | Medium |                                                             |      |
-| 1819 | [Number of Different Subsequences GCDs](./problems/1800-1899/1819/README.md)                                           |        | Hard   |                                                             |      |
+| 1819 | [Number of Different Subsequences GCDs](./problems/1800-1899/1819/README.md) | :o: | Hard | [math] | :+1:  |
 | 1820 | [Maximum Number of Accepted Invitations](./problems/1800-1899/1820/README.md)                                          | :lock: | Medium |                                                             |      |
 | 1821 | [Find Customers With Positive Revenue this Year](./problems/1800-1899/1821/README.md)                                  | :lock: | Easy   |                                                             |      |
 | 1822 | [Sign of the Product of an Array](./problems/1800-1899/1822/README.md)                                                 | :o:    | Easy   | [arr],[lgc]                                                 |      |

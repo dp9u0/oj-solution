@@ -3611,3 +3611,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3494 | [Find the Minimum Amount of Time to Brew Potions](./problems/3400-3499/3494/README.md) | :o: | Medium | [arr],[math] |   |
 | 3689 | [Maximum Total Subarray Value I](./problems/3600-3699/3689/README.md) | :o: | Medium | [arr],[grd] |   |
 | 3606 | [Coupon Code Validator](./problems/3600-3699/3606/README.md) | :o: | Easy | [arr],[str] |   |
+| 3751 | [Total Waviness of Numbers in Range I](./problems/3700-3799/3751/README.md) | :o: | Medium | [math] |   |

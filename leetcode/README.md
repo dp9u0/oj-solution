@@ -2038,7 +2038,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2010 | [The Number of Seniors and Juniors to Join the Company II](./problems/2000-2099/2010/README.md)                        | :lock: | Hard   |                                                             |      |
 | 2011 | [Final Value of Variable After Performing Operations](./problems/2000-2099/2011/README.md)                             |        | Easy   |                                                             |      |
 | 2012 | [Sum of Beauty in the Array](./problems/2000-2099/2012/README.md)                                                      | :o:    | Medium | [arr]                                                       |      |
-| 2013 | [Detect Squares](./problems/2000-2099/2013/README.md)                                                                  |        | Medium |                                                             |      |
+| 2013 | [Detect Squares](./problems/2000-2099/2013/README.md) | :o: | Medium | [des],[hsh] |   |
 | 2014 | [Longest Subsequence Repeated k Times](./problems/2000-2099/2014/README.md)                                            |        | Hard   |                                                             |      |
 | 2015 | [Average Height of Buildings in Each Segment](./problems/2000-2099/2015/README.md)                                     | :lock: | Medium |                                                             |      |
 | 2016 | [Maximum Difference Between Increasing Elements](./problems/2000-2099/2016/README.md)                                  | :o:    | Easy   | [arr]                                                       |      |

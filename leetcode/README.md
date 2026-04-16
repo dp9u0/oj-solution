@@ -2620,7 +2620,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2592 | [Maximize Greatness of an Array](./problems/2500-2599/2592/README.md)                                                  | :o:    | Medium | [grd],[tp]                                                  |      |
 | 2593 | [Find Score of an Array After Marking All Elements](./problems/2500-2599/2593/README.md)                               | :o:    | Medium | [arr],[greedy]                                              | :+1: |
 | 2594 | [Minimum Time to Repair Cars](./problems/2500-2599/2594/README.md)                                                     | :o:    | Medium | [bs],[math]                                                 |      |
-| 2595 | [Number of Even and Odd Bits](./problems/2500-2599/2595/README.md)                                                     |        | Easy   |                                                             |      |
+| 2595 | [Number of Even and Odd Bits](./problems/2500-2599/2595/README.md) | :o: | Easy | [bit] |   |
 | 2596 | [Check Knight Tour Configuration](./problems/2500-2599/2596/README.md)                                                 |        | Medium |                                                             |      |
 | 2597 | [The Number of Beautiful Subsets](./problems/2500-2599/2597/README.md)                                                 | :o:    | Medium | [dp],[arr]                                                  |      |
 | 2598 | [Smallest Missing Non-negative Integer After Operations](./problems/2500-2599/2598/README.md) | :o: | Medium | [arr],[math],[hsh] |   |

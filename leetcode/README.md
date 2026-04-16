@@ -3064,7 +3064,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3036 | [Number of Subarrays That Match a Pattern II](./problems/3000-3099/3036/README.md)                                     |        | Hard   |                                                             |      |
 | 3037 | [Find Pattern in Infinite Stream II](./problems/3000-3099/3037/README.md)                                              | :lock: | Hard   |                                                             |      |
 | 3038 | [Maximum Number of Operations With the Same Score I](./problems/3000-3099/3038/README.md)                              |        | Easy   |                                                             |      |
-| 3039 | [Apply Operations to Make String Empty](./problems/3000-3099/3039/README.md)                                           |        | Medium |                                                             |      |
+| 3039 | [Apply Operations to Make String Empty](./problems/3000-3099/3039/README.md) | :o: | Medium | [str],[hsh] |   |
 | 3040 | [Maximum Number of Operations With the Same Score II](./problems/3000-3099/3040/README.md)                             | :o:    | Medium | [dp],[arr]                                                  |      |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](./problems/3000-3099/3041/README.md)                    |        | Hard   |                                                             |      |
 | 3042 | [Count Prefix and Suffix Pairs I](./problems/3000-3099/3042/README.md)                                                 | :o:    | Easy   | [arr],[str]                                                 |      |

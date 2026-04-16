@@ -2184,7 +2184,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2143 | [Choose Numbers From Two Arrays in Range](./problems/2100-2199/2143/README.md)                                         | :lock: | Hard   |                                                             |      |
 | 2144 | [Minimum Cost of Buying Candies With Discount](./problems/2100-2199/2144/README.md)                                    | :o:    | Easy   | [arr],[greedy]                                              |      |
 | 2145 | [Count the Hidden Sequences](./problems/2100-2199/2145/README.md)                                                      | :o:    | Medium | [arr]                                                       |      |
-| 2146 | [K Highest Ranked Items Within a Price Range](./problems/2100-2199/2146/README.md)                                     |        | Medium |                                                             |      |
+| 2146 | [K Highest Ranked Items Within a Price Range](./problems/2100-2199/2146/README.md) | :o: | Medium | [bfs] |   |
 | 2147 | [Number of Ways to Divide a Long Corridor](./problems/2100-2199/2147/README.md)                                        |        | Hard   |                                                             |      |
 | 2148 | [Count Elements With Strictly Smaller and Greater Elements](./problems/2100-2199/2148/README.md)                       |        | Easy   |                                                             |      |
 | 2149 | [Rearrange Array Elements by Sign](./problems/2100-2199/2149/README.md)                                                | :o:    | Medium | [arr],[tp]                                                  |      |

@@ -1402,7 +1402,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1327 | [List the Products Ordered in a Period](./problems/1300-1399/1327/README.md)                                           | :lock: | Easy   |                                                             |      |
 | 1328 | [Break a Palindrome](./problems/1300-1399/1328/README.md)                                                              | :o:    | Medium | [str],[greedy]                                              |      |
 | 1329 | [Sort the Matrix Diagonally](./problems/1300-1399/1329/README.md)                                                      | :o:    | Medium | [arr],[sort]                                                |      |
-| 1330 | [Reverse Subarray To Maximize Array Value](./problems/1300-1399/1330/README.md)                                        |        | Hard   |                                                             |      |
+| 1330 | [Reverse Subarray To Maximize Array Value](./problems/1300-1399/1330/README.md) | :o: | Hard | [arr],[grd] |   |
 | 1331 | [Rank Transform of an Array](./problems/1300-1399/1331/README.md)                                                      | :o:    | Easy   | [arr],[bs]                                                  |      |
 | 1332 | [Remove Palindromic Subsequences](./problems/1300-1399/1332/README.md)                                                 |        | Easy   |                                                             |      |
 | 1333 | [Filter Restaurants by Vegan-Friendly, Price and Distance](./problems/1300-1399/1333/README.md)                        |        | Medium |                                                             |      |

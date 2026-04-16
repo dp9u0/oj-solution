@@ -1857,7 +1857,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1829 | [Maximum XOR for Each Query](./problems/1800-1899/1829/README.md)                                                      | :o:    | Medium | [arr],[bit]                                                 |      |
 | 1830 | [Minimum Number of Operations to Make String Sorted](./problems/1800-1899/1830/README.md)                              |        | Hard   |                                                             |      |
 | 1831 | [Maximum Transaction Each Day](./problems/1800-1899/1831/README.md)                                                    | :lock: | Medium |                                                             |      |
-| 1832 | [Check if the Sentence Is Pangram](./problems/1800-1899/1832/README.md)                                                |        | Easy   |                                                             |      |
+| 1832 | [Check if the Sentence Is Pangram](./problems/1800-1899/1832/README.md) | :o: | Easy | [str],[hsh] |   |
 | 1833 | [Maximum Ice Cream Bars](./problems/1800-1899/1833/README.md)                                                          | :o:    | Medium | [arr],[greedy]                                              |      |
 | 1834 | [Single-Threaded CPU](./problems/1800-1899/1834/README.md)                                                             | :o:    | Medium | [hp]                                                        |      |
 | 1835 | [Find XOR Sum of All Pairs Bitwise AND](./problems/1800-1899/1835/README.md)                                           |        | Hard   |                                                             |      |

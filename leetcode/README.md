@@ -1261,7 +1261,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1184 | [Distance Between Bus Stops](./problems/1100-1199/1184/README.md)                                                      |        | Easy   |                                                             |      |
 | 1185 | [Day of the Week](./problems/1100-1199/1185/README.md)                                                                 |        | Easy   |                                                             |      |
 | 1186 | [Maximum Subarray Sum with One Deletion](./problems/1100-1199/1186/README.md)                                          | :o:    | Medium | [dp]                                                        |      |
-| 1187 | [Make Array Strictly Increasing](./problems/1100-1199/1187/README.md)                                                  |        | Hard   |                                                             |      |
+| 1187 | [Make Array Strictly Increasing](./problems/1100-1199/1187/README.md) | :o: | Hard | [dp],[bs] |   |
 | 1189 | [Maximum Number of Balloons](./problems/1100-1199/1189/README.md)                                                      |        | Easy   |                                                             |      |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./problems/1100-1199/1190/README.md)                             |        | Medium |                                                             |      |
 | 1191 | [K-Concatenation Maximum Sum](./problems/1100-1199/1191/README.md)                                                     |        | Medium |                                                             |      |

@@ -3215,7 +3215,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3187 | [Peaks in Array](./problems/3100-3199/3187/README.md)                                                                  |        | Hard   |                                                             |      |
 | 3188 | [Find Top Scoring Students II](./problems/3100-3199/3188/README.md)                                                    | :lock: | Hard   |                                                             |      |
 | 3189 | [Minimum Moves to Get a Peaceful Board](./problems/3100-3199/3189/README.md)                                           | :lock: | Medium |                                                             |      |
-| 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](./problems/3100-3199/3190/README.md)                 |        | Easy   |                                                             |      |
+| 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](./problems/3100-3199/3190/README.md) | :o: | Easy | [arr],[math] |   |
 | 3191 | [Minimum Operations to Make Binary Array Elements Equal to One I](./problems/3100-3199/3191/README.md)                 | :o:    | Medium | [arr]                                                       |      |
 | 3192 | [Minimum Operations to Make Binary Array Elements Equal to One II](./problems/3100-3199/3192/README.md)                | :o:    | Medium | [arr],[grd]                                                 |      |
 | 3193 | [Count the Number of Inversions](./problems/3100-3199/3193/README.md)                                                  |        | Hard   |                                                             |      |

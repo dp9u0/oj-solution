@@ -3597,3 +3597,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3651 | [Minimum Cost Path with Teleportations](./problems/3600-3699/3651/README.md) | :o: | Hard | [dp],[grd] |   |
 | 3729 | [Count Distinct Subarrays Divisible by K in Sorted Array](./problems/3700-3799/3729/README.md) | :o: | Hard | [arr],[hsh] |   |
 | 1774 | [Closest Dessert Cost](./problems/1700-1799/1774/README.md) | :o: | Medium | [dp] |   |
+| 3797 | [Count Routes to Climb a Rectangular Grid](./problems/3700-3799/3797/README.md) | :o: | Hard | [dp],[grf] |   |

@@ -3404,7 +3404,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3376 | [Minimum Time to Break Locks I](./problems/3300-3399/3376/README.md)                                                   |        | Medium |                                                             |      |
 | 3377 | [Digit Operations to Make Two Integers Equal](./problems/3300-3399/3377/README.md)                                     |        | Medium |                                                             |      |
 | 3378 | [Count Connected Components in LCM Graph](./problems/3300-3399/3378/README.md)                                         | :o:    | Hard   | [ds],[math]                                                 |      |
-| 3379 | [Transformed Array](./problems/3300-3399/3379/README.md)                                                               |        | Easy   |                                                             |      |
+| 3379 | [Transformed Array](./problems/3300-3399/3379/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 3380 | [Maximum Area Rectangle With Point Constraints I](./problems/3300-3399/3380/README.md)                                 |        | Medium |                                                             |      |
 | 3381 | [Maximum Subarray Sum With Length Divisible by K](./problems/3300-3399/3381/README.md)                                 |        | Medium |                                                             |      |
 | 3382 | [Maximum Area Rectangle With Point Constraints II](./problems/3300-3399/3382/README.md)                                |        | Hard   |                                                             |      |

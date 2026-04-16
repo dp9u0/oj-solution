@@ -2358,7 +2358,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2330 | [Valid Palindrome IV](./problems/2300-2399/2330/README.md)                                                             | :lock: | Medium |                                                             |      |
 | 2331 | [Evaluate Boolean Binary Tree](./problems/2300-2399/2331/README.md)                                                    | :o:    | Easy   | [tr],[dfs]                                                  |      |
 | 2332 | [The Latest Time to Catch a Bus](./problems/2300-2399/2332/README.md)                                                  |        | Medium |                                                             |      |
-| 2333 | [Minimum Sum of Squared Difference](./problems/2300-2399/2333/README.md)                                               |        | Medium |                                                             |      |
+| 2333 | [Minimum Sum of Squared Difference](./problems/2300-2399/2333/README.md) | :o: | Medium | [arr],[grd] | :+1:  |
 | 2334 | [Subarray With Elements Greater Than Varying Threshold](./problems/2300-2399/2334/README.md)                           |        | Hard   |                                                             |      |
 | 2335 | [Minimum Amount of Time to Fill Cups](./problems/2300-2399/2335/README.md)                                             | :o:    | Easy   | [arr],[greedy]                                              |      |
 | 2336 | [Smallest Number in Infinite Set](./problems/2300-2399/2336/README.md) | :o: | Medium | [des],[ds] |   |

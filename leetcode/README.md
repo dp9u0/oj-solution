@@ -2487,7 +2487,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2446 | [Determine if Two Events Have Conflict](./problems/2400-2499/2446/README.md)                                           | :o:    | Easy   | [str],[lgc]                                                 |      |
 | 2447 | [Number of Subarrays With GCD Equal to K](./problems/2400-2499/2447/README.md)                                         | :o:    | Medium | [arr],[math]                                                |      |
 | 2448 | [Minimum Cost to Make Array Equal](./problems/2400-2499/2448/README.md)                                                | :o:    | Hard   | [arr],[math]                                                | :+1: |
-| 2449 | [Minimum Number of Operations to Make Arrays Similar](./problems/2400-2499/2449/README.md)                             |        | Hard   |                                                             |      |
+| 2449 | [Minimum Number of Operations to Make Arrays Similar](./problems/2400-2499/2449/README.md) | :o: | Hard | [grd],[arr] |   |
 | 2450 | [Number of Distinct Binary Strings After Applying Operations](./problems/2400-2499/2450/README.md)                     | :lock: | Medium |                                                             |      |
 | 2451 | [Odd String Difference](./problems/2400-2499/2451/README.md)                                                           | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2452 | [Words Within Two Edits of Dictionary](./problems/2400-2499/2452/README.md)                                            | :o:    | Medium | [str]                                                       |      |

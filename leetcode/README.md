@@ -3251,7 +3251,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3210 | [Find the Encrypted String](./problems/3200-3299/3210/README.md)                                                       | :o:    | Easy   | [str]                                                       |      |
 | 3211 | [Generate Binary Strings Without Adjacent Zeros](./problems/3200-3299/3211/README.md)                                  |        | Medium |                                                             |      |
 | 3212 | [Count Submatrices With Equal Frequency of X and Y](./problems/3200-3299/3212/README.md)                               |        | Medium |                                                             |      |
-| 3213 | [Construct String with Minimum Cost](./problems/3200-3299/3213/README.md)                                              |        | Hard   |                                                             |      |
+| 3213 | [Construct String with Minimum Cost](./problems/3200-3299/3213/README.md) | :o: | Hard | [str],[dp],[grd] | :+1:  |
 | 3214 | [Year on Year Growth Rate](./problems/3200-3299/3214/README.md)                                                        | :lock: | Hard   |                                                             |      |
 | 3215 | [Count Triplets with Even XOR Set Bits II](./problems/3200-3299/3215/README.md)                                        | :lock: | Medium |                                                             |      |
 | 3216 | [Lexicographically Smallest String After a Swap](./problems/3200-3299/3216/README.md)                                  | :o:    | Easy   | [str],[lgc]                                                 |      |

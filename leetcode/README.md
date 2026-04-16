@@ -2376,7 +2376,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2335 | [Minimum Amount of Time to Fill Cups](./problems/2300-2399/2335/README.md)                                             | :o:    | Easy   | [arr],[greedy]                                              |      |
 | 2336 | [Smallest Number in Infinite Set](./problems/2300-2399/2336/README.md)                                                 | :o:    | Medium | [des],[ds]                                                  |      |
 | 2337 | [Move Pieces to Obtain a String](./problems/2300-2399/2337/README.md)                                                  |        | Medium |                                                             |      |
-| 2338 | [Count the Number of Ideal Arrays](./problems/2300-2399/2338/README.md)                                                |        | Hard   |                                                             |      |
+| 2338 | [Count the Number of Ideal Arrays](./problems/2300-2399/2338/README.md) | :o: | Hard | [dp],[math] |   |
 | 2339 | [All the Matches of the League](./problems/2300-2399/2339/README.md)                                                   | :lock: | Easy   |                                                             |      |
 | 2340 | [Minimum Adjacent Swaps to Make a Valid Array](./problems/2300-2399/2340/README.md)                                    | :lock: | Medium |                                                             |      |
 | 2341 | [Maximum Number of Pairs in Array](./problems/2300-2399/2341/README.md)                                                | :o:    | Easy   | [arr],[hsh]                                                 |      |

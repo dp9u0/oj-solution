@@ -1466,7 +1466,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1391 | [Check if There is a Valid Path in a Grid](./problems/1300-1399/1391/README.md)                                        |        | Medium |                                                             |      |
 | 1392 | [Longest Happy Prefix](./problems/1300-1399/1392/README.md)                                                            | :o:    | Hard   | [str]                                                       |      |
 | 1393 | [Capital Gain/Loss](./problems/1300-1399/1393/README.md)                                                               | :lock: | Medium |                                                             |      |
-| 1394 | [Find Lucky Integer in an Array](./problems/1300-1399/1394/README.md)                                                  |        | Easy   |                                                             |      |
+| 1394 | [Find Lucky Integer in an Array](./problems/1300-1399/1394/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 1395 | [Count Number of Teams](./problems/1300-1399/1395/README.md)                                                           | :o:    | Medium | [arr]                                                       |      |
 | 1396 | [Design Underground System](./problems/1300-1399/1396/README.md)                                                       |        | Medium |                                                             |      |
 | 1397 | [Find All Good Strings](./problems/1300-1399/1397/README.md)                                                           |        | Hard   |                                                             |      |

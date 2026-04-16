@@ -2537,7 +2537,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2496 | [Maximum Value of a String in an Array](./problems/2400-2499/2496/README.md)                                           | :o:    | Easy   | [str],[arr]                                                 |      |
 | 2497 | [Maximum Star Sum of a Graph](./problems/2400-2499/2497/README.md)                                                     | :o:    | Medium | [grf],[grd]                                                 |      |
 | 2498 | [Frog Jump II](./problems/2400-2499/2498/README.md)                                                                    | :o:    | Medium | [grd],[arr]                                                 | :+1: |
-| 2499 | [Minimum Total Cost to Make Arrays Unequal](./problems/2400-2499/2499/README.md)                                       |        | Hard   |                                                             |      |
+| 2499 | [Minimum Total Cost to Make Arrays Unequal](./problems/2400-2499/2499/README.md) | :o: | Hard | [hsh],[grd] |   |
 | 2500 | [Delete Greatest Value in Each Row](./problems/2500-2599/2500/README.md)                                               | :o:    | Easy   | [arr],[grd]                                                 |      |
 | 2501 | [Longest Square Streak in an Array](./problems/2500-2599/2501/README.md)                                               | :o:    | Medium | [arr],[hash]                                                |      |
 | 2502 | [Design Memory Allocator](./problems/2500-2599/2502/README.md)                                                         | :o:    | Medium | [des],[arr]                                                 |      |

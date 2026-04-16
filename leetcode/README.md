@@ -3005,7 +3005,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2977 | [Minimum Cost to Convert String II](./problems/2900-2999/2977/README.md)                                               |        | Hard   |                                                             |      |
 | 2978 | [Symmetric Coordinates](./problems/2900-2999/2978/README.md)                                                           | :lock: | Medium |                                                             |      |
 | 2979 | [Most Expensive Item That Can Not Be Bought](./problems/2900-2999/2979/README.md)                                      | :lock: | Medium |                                                             |      |
-| 2980 | [Check if Bitwise OR Has Trailing Zeros](./problems/2900-2999/2980/README.md)                                          |        | Easy   |                                                             |      |
+| 2980 | [Check if Bitwise OR Has Trailing Zeros](./problems/2900-2999/2980/README.md) | :o: | Easy | [bit],[lgc] |   |
 | 2981 | [Find Longest Special Substring That Occurs Thrice I](./problems/2900-2999/2981/README.md) | :o: | Medium | [str] |   |
 | 2982 | [Find Longest Special Substring That Occurs Thrice II](./problems/2900-2999/2982/README.md)                            | :o:    | Medium | [str]                                                       |      |
 | 2983 | [Palindrome Rearrangement Queries](./problems/2900-2999/2983/README.md)                                                |        | Hard   |                                                             |      |

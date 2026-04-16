@@ -3313,7 +3313,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3272 | [Find the Count of Good Integers](./problems/3200-3299/3272/README.md)                                                 |        | Hard   |                                                             |      |
 | 3273 | [Minimum Amount of Damage Dealt to Bob](./problems/3200-3299/3273/README.md)                                           | :o:    | Hard   | [grd],[arr]                                                 | :+1: |
 | 3274 | [Check if Two Chessboard Squares Have the Same Color](./problems/3200-3299/3274/README.md)                             | :o:    | Easy   | [math],[lgc]                                                |      |
-| 3275 | [K-th Nearest Obstacle Queries](./problems/3200-3299/3275/README.md)                                                   |        | Medium |                                                             |      |
+| 3275 | [K-th Nearest Obstacle Queries](./problems/3200-3299/3275/README.md) | :o: | Medium | [hp],[arr] |   |
 | 3276 | [Select Cells in Grid With Maximum Score](./problems/3200-3299/3276/README.md)                                         |        | Hard   |                                                             |      |
 | 3277 | [Maximum XOR Score Subarray Queries](./problems/3200-3299/3277/README.md)                                              | :o:    | Hard   | [dp],[bit]                                                  |      |
 | 3278 | [Find Candidates for Data Scientist Position II](./problems/3200-3299/3278/README.md)                                  | :lock: | Medium |                                                             |      |

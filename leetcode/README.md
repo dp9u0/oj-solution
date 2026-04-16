@@ -1506,7 +1506,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1431 | [Kids With the Greatest Number of Candies](./problems/1400-1499/1431/README.md)                                        | :o:    | Easy   | [math]                                                      |      |
 | 1432 | [Max Difference You Can Get From Changing an Integer](./problems/1400-1499/1432/README.md)                             |        | Medium |                                                             |      |
 | 1433 | [Check If a String Can Break Another String](./problems/1400-1499/1433/README.md)                                      | :o:    | Medium | [str],[greedy],[sort]                                       |      |
-| 1434 | [Number of Ways to Wear Different Hats to Each Other](./problems/1400-1499/1434/README.md)                             |        | Hard   |                                                             |      |
+| 1434 | [Number of Ways to Wear Different Hats to Each Other](./problems/1400-1499/1434/README.md) | :o: | Hard | [dp],[bit] |   |
 | 1435 | [Create a Session Bar Chart](./problems/1400-1499/1435/README.md)                                                      | :lock: | Easy   |                                                             |      |
 | 1436 | [Destination City](./problems/1400-1499/1436/README.md)                                                                | :o:    | Easy   | [hsh]                                                       |      |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](./problems/1400-1499/1437/README.md)                              | :o:    | Easy   | [arr],[lgc]                                                 |      |

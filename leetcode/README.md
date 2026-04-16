@@ -2266,7 +2266,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2238 | [Number of Times a Driver Was a Passenger](./problems/2200-2299/2238/README.md)                                        | :lock: | Medium |                                                             |      |
 | 2239 | [Find Closest Number to Zero](./problems/2200-2299/2239/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 2240 | [Number of Ways to Buy Pens and Pencils](./problems/2200-2299/2240/README.md)                                          |        | Medium |                                                             |      |
-| 2241 | [Design an ATM Machine](./problems/2200-2299/2241/README.md)                                                           |        | Medium |                                                             |      |
+| 2241 | [Design an ATM Machine](./problems/2200-2299/2241/README.md) | :o: | Medium | [des],[grd] |   |
 | 2242 | [Maximum Score of a Node Sequence](./problems/2200-2299/2242/README.md)                                                |        | Hard   |                                                             |      |
 | 2243 | [Calculate Digit Sum of a String](./problems/2200-2299/2243/README.md) | :o: | Easy | [str],[lgc] |   |
 | 2244 | [Minimum Rounds to Complete All Tasks](./problems/2200-2299/2244/README.md)                                            | :o:    | Medium | [arr]                                                       |      |

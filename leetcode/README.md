@@ -1960,7 +1960,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1919 | [Leetcodify Similar Friends](./problems/1900-1999/1919/README.md)                                                      | :lock: | Hard   |                                                             |      |
 | 1920 | [Build Array from Permutation](./problems/1900-1999/1920/README.md)                                                    | :o:    | Easy   | [arr]                                                       |      |
 | 1921 | [Eliminate Maximum Number of Monsters](./problems/1900-1999/1921/README.md)                                            | :o:    | Medium | [greedy]                                                    |      |
-| 1922 | [Count Good Numbers](./problems/1900-1999/1922/README.md)                                                              |        | Medium |                                                             |      |
+| 1922 | [Count Good Numbers](./problems/1900-1999/1922/README.md) | :o: | Medium | [math] |   |
 | 1923 | [Longest Common Subpath](./problems/1900-1999/1923/README.md)                                                          |        | Hard   |                                                             |      |
 | 1924 | [Erect the Fence II](./problems/1900-1999/1924/README.md)                                                              | :lock: | Hard   |                                                             |      |
 | 1925 | [Count Square Sum Triples](./problems/1900-1999/1925/README.md)                                                        | :o:    | Easy   | [math],[lgc]                                                |      |

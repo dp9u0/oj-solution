@@ -3577,3 +3577,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3670 | [Maximum Product of Two Integers With No Common Bits](./problems/3600-3699/3670/README.md) | :o: | Medium | [arr],[bit] |   |
 | 3560 | [Find Minimum Log Transportation Cost](./problems/3500-3599/3560/README.md) | :o: | Easy | [math],[grd] |   |
 | 3796 | [Find Maximum Value in a Constrained Sequence](./problems/3700-3799/3796/README.md) | :o: | Medium | [arr],[dp] |   |
+| 3418 | [Maximum Amount of Money Robot Can Earn](./problems/3400-3499/3418/README.md) | :o: | Medium | [arr],[dp] |   |

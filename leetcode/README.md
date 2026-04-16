@@ -1026,7 +1026,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 949  | [Largest Time for Given Digits](./problems/900-999/949/README.md)                                                      | :o:    | Easy   | [lgc]                                                       | :-1: |
 | 950  | [Reveal Cards In Increasing Order](./problems/900-999/950/README.md)                                                   | :o:    | Medium | [arr],[sim]                                                 |      |
 | 951  | [Flip Equivalent Binary Trees](./problems/900-999/951/README.md)                                                       | :o:    | Medium | [tr],[dfs]                                                  |      |
-| 952  | [Largest Component Size by Common Factor](./problems/900-999/952/README.md)                                            |        | Hard   |                                                             |      |
+| 952 | [Largest Component Size by Common Factor](./problems/900-999/952/README.md) | :o: | Hard | [math],[ds] | :+1:  |
 | 953  | [Verifying an Alien Dictionary](./problems/900-999/953/README.md)                                                      | :o:    | Easy   | [hsh]                                                       |      |
 | 954  | [Array of Doubled Pairs](./problems/900-999/954/README.md)                                                             |        | Medium |                                                             |      |
 | 955 | [Delete Columns to Make Sorted II](./problems/900-999/955/README.md) | :o: | Medium | [str],[grd] | :+1:  |

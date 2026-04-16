@@ -3395,7 +3395,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3367 | [Maximize Sum of Weights after Edge Removals](./problems/3300-3399/3367/README.md)                                     | :o:    | Hard   | [dfs],[grd],[tr]                                            |      |
 | 3368 | [First Letter Capitalization](./problems/3300-3399/3368/README.md)                                                     | :lock: | Hard   |                                                             |      |
 | 3369 | [Design an Array Statistics Tracker](./problems/3300-3399/3369/README.md)                                              | :lock: | Hard   |                                                             |      |
-| 3370 | [Smallest Number With All Set Bits](./problems/3300-3399/3370/README.md)                                               |        | Easy   |                                                             |      |
+| 3370 | [Smallest Number With All Set Bits](./problems/3300-3399/3370/README.md) | :o: | Easy | [bit],[lgc] |   |
 | 3371 | [Identify the Largest Outlier in an Array](./problems/3300-3399/3371/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 3372 | [Maximize the Number of Target Nodes After Connecting Trees I](./problems/3300-3399/3372/README.md)                    | :o:    | Medium | [tr],[bfs]                                                  |      |
 | 3373 | [Maximize the Number of Target Nodes After Connecting Trees II](./problems/3300-3399/3373/README.md)                   |        | Hard   |                                                             |      |

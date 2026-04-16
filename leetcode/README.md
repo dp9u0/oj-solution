@@ -2111,7 +2111,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2083 | [Substrings That Begin and End With the Same Letter](./problems/2000-2099/2083/README.md)                              | :lock: | Medium |                                                             |      |
 | 2084 | [Drop Type 1 Orders for Customers With Type 0 Orders](./problems/2000-2099/2084/README.md)                             | :lock: | Medium |                                                             |      |
 | 2085 | [Count Common Words With One Occurrence](./problems/2000-2099/2085/README.md)                                          |        | Easy   |                                                             |      |
-| 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](./problems/2000-2099/2086/README.md)                             |        | Medium |                                                             |      |
+| 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](./problems/2000-2099/2086/README.md) | :o: | Medium | [str],[grd] |   |
 | 2087 | [Minimum Cost Homecoming of a Robot in a Grid](./problems/2000-2099/2087/README.md)                                    | :o:    | Medium | [grd]                                                       |      |
 | 2088 | [Count Fertile Pyramids in a Land](./problems/2000-2099/2088/README.md)                                                |        | Hard   |                                                             |      |
 | 2089 | [Find Target Indices After Sorting Array](./problems/2000-2099/2089/README.md)                                         | :o:    | Easy   | [arr],[lgc]                                                 |      |

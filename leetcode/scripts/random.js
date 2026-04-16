@@ -23,6 +23,7 @@ exec(LIST_COMMAND, (err, stdout, stderr) => {
     problems.push({
       id: Number(match[1]),
       title: match[2].trim(),
+      difficulty: match[3],
     });
   }
 
@@ -32,5 +33,5 @@ exec(LIST_COMMAND, (err, stdout, stderr) => {
   }
 
   const picked = problems[Math.floor(Math.random() * problems.length)];
-  console.log(`[${picked.id}] ${picked.title}`);
+  console.log(`[${picked.id}] ${picked.title} (${picked.difficulty})`);
 });

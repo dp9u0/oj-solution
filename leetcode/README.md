@@ -2471,7 +2471,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2443 | [Sum of Number and Its Reverse](./problems/2400-2499/2443/README.md)                                                   |        | Medium |                                                             |      |
 | 2444 | [Count Subarrays With Fixed Bounds](./problems/2400-2499/2444/README.md)                                               | :o:    | Hard   | [arr],[tp]                                                  |      |
 | 2445 | [Number of Nodes With Value One](./problems/2400-2499/2445/README.md)                                                  | :lock: | Medium |                                                             |      |
-| 2446 | [Determine if Two Events Have Conflict](./problems/2400-2499/2446/README.md)                                           |        | Easy   |                                                             |      |
+| 2446 | [Determine if Two Events Have Conflict](./problems/2400-2499/2446/README.md) | :o: | Easy | [str],[lgc] |   |
 | 2447 | [Number of Subarrays With GCD Equal to K](./problems/2400-2499/2447/README.md) | :o: | Medium | [arr],[math] |   |
 | 2448 | [Minimum Cost to Make Array Equal](./problems/2400-2499/2448/README.md) | :o: | Hard | [arr],[math] | :+1:  |
 | 2449 | [Minimum Number of Operations to Make Arrays Similar](./problems/2400-2499/2449/README.md)                             |        | Hard   |                                                             |      |

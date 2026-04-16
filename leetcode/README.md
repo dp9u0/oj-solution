@@ -3541,3 +3541,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3593 | [Minimum Increments to Equalize Leaf Paths](./problems/3500-3599/3593/README.md) | :o: | Medium | [tr],[dfs],[grd] |   |
 | 3495 | [Minimum Operations to Make Array Elements Zero](./problems/3400-3499/3495/README.md) | :o: | Hard | [math],[lgc] | :+1:  |
 | 3703 | [Remove K-Balanced Substrings](./problems/3700-3799/3703/README.md) | :o: | Medium | [str],[stk] |   |
+| 3462 | [Maximum Sum With at Most K Elements](./problems/3400-3499/3462/README.md) | :o: | Medium | [arr],[grd] |   |

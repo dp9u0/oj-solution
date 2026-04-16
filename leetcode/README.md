@@ -738,7 +738,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 661  | [Image Smoother](./problems/600-699/661/README.md)                                                                     | :o:    | Easy   | [arr]                                                       |      |
 | 662  | [Maximum Width of Binary Tree](./problems/600-699/662/README.md)                                                       | :o:    | Medium | [dfs]                                                       |      |
 | 663  | [Equal Tree Partition](./problems/600-699/663/README.md)                                                               | :lock: | Medium |                                                             |      |
-| 664  | [Strange Printer](./problems/600-699/664/README.md)                                                                    |        | Hard   |                                                             |      |
+| 664 | [Strange Printer](./problems/600-699/664/README.md) | :o: | Hard | [dp] | :+1:  |
 | 665  | [Non-decreasing Array](./problems/600-699/665/README.md)                                                               | :o:    | Easy   | [arr]                                                       |      |
 | 666  | [Path Sum IV](./problems/600-699/666/README.md)                                                                        | :lock: | Medium |                                                             |      |
 | 667  | [Beautiful Arrangement II](./problems/600-699/667/README.md)                                                           |        | Medium |                                                             |      |

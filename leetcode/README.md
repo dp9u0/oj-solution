@@ -3608,3 +3608,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3688 | [Bitwise OR of Even Numbers in an Array](./problems/3600-3699/3688/README.md) | :o: | Easy | [arr],[bit] |   |
 | 3473 | [Sum of K Subarrays With Length at Least M](./problems/3400-3499/3473/README.md) | :o: | Medium | [dp],[arr] |   |
 | 3677 | [Count Binary Palindromic Numbers](./problems/3600-3699/3677/README.md) | :o: | Hard | [math],[bit] |   |
+| 3494 | [Find the Minimum Amount of Time to Brew Potions](./problems/3400-3499/3494/README.md) | :o: | Medium | [arr],[math] |   |

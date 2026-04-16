@@ -3566,3 +3566,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3842 | [Toggle Light Bulbs](./problems/3800-3899/3842/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 3775 | [Reverse Words With Same Vowel Count](./problems/3700-3799/3775/README.md) | :o: | Medium | [str] |   |
 | 3664 | [Two-Letter Card Game](./problems/3600-3699/3664/README.md) | :o: | Medium | [arr],[hsh],[math] |   |
+| 3648 | [Minimum Sensors to Cover Grid](./problems/3600-3699/3648/README.md) | :o: | Medium | [math],[grd] |   |

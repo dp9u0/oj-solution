@@ -3544,3 +3544,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3462 | [Maximum Sum With at Most K Elements](./problems/3400-3499/3462/README.md) | :o: | Medium | [arr],[grd] |   |
 | 3403 | [Find the Lexicographically Largest String From the Box I](./problems/3400-3499/3403/README.md) | :o: | Medium | [str],[grd] |   |
 | 3746 | [Minimum String Length After Balanced Removals](./problems/3700-3799/3746/README.md) | :o: | Medium | [str],[lgc] |   |
+| 3438 | [Find Valid Pair of Adjacent Digits in String](./problems/3400-3499/3438/README.md) | :o: | Easy | [str],[hsh] |   |

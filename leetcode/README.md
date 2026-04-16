@@ -3233,7 +3233,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3205 | [Maximum Array Hopping Score I](./problems/3200-3299/3205/README.md)                                                   | :lock: | Medium |                                                             |      |
 | 3206 | [Alternating Groups I](./problems/3200-3299/3206/README.md)                                                            |        | Easy   |                                                             |      |
 | 3207 | [Maximum Points After Enemy Battles](./problems/3200-3299/3207/README.md)                                              |        | Medium |                                                             |      |
-| 3208 | [Alternating Groups II](./problems/3200-3299/3208/README.md)                                                           |        | Medium |                                                             |      |
+| 3208 | [Alternating Groups II](./problems/3200-3299/3208/README.md) | :o: | Medium | [arr],[sd] |   |
 | 3209 | [Number of Subarrays With AND Value of K](./problems/3200-3299/3209/README.md)                                         |        | Hard   |                                                             |      |
 | 3210 | [Find the Encrypted String](./problems/3200-3299/3210/README.md) | :o: | Easy | [str] |   |
 | 3211 | [Generate Binary Strings Without Adjacent Zeros](./problems/3200-3299/3211/README.md)                                  |        | Medium |                                                             |      |

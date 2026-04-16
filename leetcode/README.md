@@ -3569,3 +3569,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3648 | [Minimum Sensors to Cover Grid](./problems/3600-3699/3648/README.md) | :o: | Medium | [math],[grd] |   |
 | 3804 | [Number of Centered Subarrays](./problems/3800-3899/3804/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 3477 | [Fruits Into Baskets II](./problems/3400-3499/3477/README.md) | :o: | Easy | [arr],[grd] |   |
+| 3798 | [Largest Even Number](./problems/3700-3799/3798/README.md) | :o: | Easy | [str],[lgc] |   |

@@ -3219,7 +3219,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3178 | [Find the Child Who Has the Ball After K Seconds](./problems/3100-3199/3178/README.md)                                 | :o:    | Easy   | [math]                                                      |      |
 | 3179 | [Find the N-th Value After K Seconds](./problems/3100-3199/3179/README.md) | :o: | Medium | [arr],[math] |   |
 | 3180 | [Maximum Total Reward Using Operations I](./problems/3100-3199/3180/README.md)                                         | :o:    | Medium | [dp]                                                        |      |
-| 3181 | [Maximum Total Reward Using Operations II](./problems/3100-3199/3181/README.md)                                        |        | Hard   |                                                             |      |
+| 3181 | [Maximum Total Reward Using Operations II](./problems/3100-3199/3181/README.md) | :o: | Hard | [dp] |   |
 | 3182 | [Find Top Scoring Students](./problems/3100-3199/3182/README.md)                                                       | :lock: | Medium |                                                             |      |
 | 3183 | [The Number of Ways to Make the Sum](./problems/3100-3199/3183/README.md)                                              | :lock: | Medium |                                                             |      |
 | 3184 | [Count Pairs That Form a Complete Day I](./problems/3100-3199/3184/README.md)                                          |        | Easy   |                                                             |      |

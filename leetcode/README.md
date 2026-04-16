@@ -1784,7 +1784,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1709 | [Biggest Window Between Visits](./problems/1700-1799/1709/README.md)                                                   | :lock: | Medium |                                                             |      |
 | 1710 | [Maximum Units on a Truck](./problems/1700-1799/1710/README.md)                                                        | :o:    | Easy   | [arr],[greedy]                                              |      |
 | 1711 | [Count Good Meals](./problems/1700-1799/1711/README.md)                                                                |        | Medium |                                                             |      |
-| 1712 | [Ways to Split Array Into Three Subarrays](./problems/1700-1799/1712/README.md)                                        |        | Medium |                                                             |      |
+| 1712 | [Ways to Split Array Into Three Subarrays](./problems/1700-1799/1712/README.md) | :o: | Medium | [arr],[bs] |   |
 | 1713 | [Minimum Operations to Make a Subsequence](./problems/1700-1799/1713/README.md)                                        |        | Hard   |                                                             |      |
 | 1714 | [Sum Of Special Evenly-Spaced Elements In Array](./problems/1700-1799/1714/README.md)                                  | :lock: | Hard   |                                                             |      |
 | 1715 | [Count Apples and Oranges](./problems/1700-1799/1715/README.md)                                                        | :lock: | Medium |                                                             |      |

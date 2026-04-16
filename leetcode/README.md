@@ -1199,7 +1199,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1122 | [Relative Sort Array](./problems/1100-1199/1122/README.md)                                                             | :o:    | Easy   | [arr]                                                       |      |
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](./problems/1100-1199/1123/README.md)                                        | :o:    | Medium | [tr]                                                        |      |
 | 1124 | [Longest Well-Performing Interval](./problems/1100-1199/1124/README.md)                                                | :o:    | Medium | [arr],[hm]                                                  | :+1: |
-| 1125 | [Smallest Sufficient Team](./problems/1100-1199/1125/README.md)                                                        |        | Hard   |                                                             |      |
+| 1125 | [Smallest Sufficient Team](./problems/1100-1199/1125/README.md) | :o: | Hard | [dp],[bit] | :+1:  |
 | 1126 | [Active Businesses](./problems/1100-1199/1126/README.md)                                                               | :lock: | Medium |                                                             |      |
 | 1127 | [User Purchase Platform](./problems/1100-1199/1127/README.md)                                                          | :lock: | Hard   |                                                             |      |
 | 1128 | [Number of Equivalent Domino Pairs](./problems/1100-1199/1128/README.md)                                               | :o:    | Easy   | [arr]                                                       |      |

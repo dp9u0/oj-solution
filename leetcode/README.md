@@ -2448,7 +2448,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2420 | [Find All Good Indices](./problems/2400-2499/2420/README.md) | :o: | Medium | [arr],[dp] |   |
 | 2421 | [Number of Good Paths](./problems/2400-2499/2421/README.md)                                                            |        | Hard   |                                                             |      |
 | 2422 | [Merge Operations to Turn Array Into a Palindrome](./problems/2400-2499/2422/README.md)                                | :lock: | Medium |                                                             |      |
-| 2423 | [Remove Letter To Equalize Frequency](./problems/2400-2499/2423/README.md)                                             |        | Easy   |                                                             |      |
+| 2423 | [Remove Letter To Equalize Frequency](./problems/2400-2499/2423/README.md) | :o: | Easy | [str],[hsh] |   |
 | 2424 | [Longest Uploaded Prefix](./problems/2400-2499/2424/README.md)                                                         |        | Medium |                                                             |      |
 | 2425 | [Bitwise XOR of All Pairings](./problems/2400-2499/2425/README.md)                                                     | :o:    | Medium | [arr],[bit]                                                 |      |
 | 2426 | [Number of Pairs Satisfying Inequality](./problems/2400-2499/2426/README.md)                                           |        | Hard   |                                                             |      |

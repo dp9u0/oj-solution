@@ -911,7 +911,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 834  | [Sum of Distances in Tree](./problems/800-899/834/README.md)                                                           | :o:    | Hard   | [tr],[dfs],[dp]                                             | :+1: |
 | 835  | [Image Overlap](./problems/800-899/835/README.md)                                                                      | :o:    | Medium | [math]                                                      |      |
 | 836  | [Rectangle Overlap](./problems/800-899/836/README.md)                                                                  | :o:    | Easy   | [math]                                                      |      |
-| 837  | [New 21 Game](./problems/800-899/837/README.md)                                                                        |        | Medium |                                                             |      |
+| 837 | [New 21 Game](./problems/800-899/837/README.md) | :o: | Medium | [dp],[math] |   |
 | 838  | [Push Dominoes](./problems/800-899/838/README.md)                                                                      | :o:    | Medium | [str],[tp]                                                  | :+1: |
 | 839  | [Similar String Groups](./problems/800-899/839/README.md)                                                              |        | Hard   |                                                             |      |
 | 840  | [Magic Squares In Grid](./problems/800-899/840/README.md)                                                              | :o:    | Easy   | [arr]                                                       |      |

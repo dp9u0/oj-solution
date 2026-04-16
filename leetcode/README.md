@@ -3582,3 +3582,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3818 | [Minimum Prefix Removal to Make Array Strictly Increasing](./problems/3800-3899/3818/README.md) | :o: | Medium | [arr],[lgc] |   |
 | 3722 | [Lexicographically Smallest String After Reverse](./problems/3700-3799/3722/README.md) | :o: | Medium | [str],[lgc] |   |
 | 3889 | [Mirror Frequency Distance](./problems/3800-3899/3889/README.md) | :o: | Medium | [str],[hsh] |   |
+| 3654 | [Minimum Sum After Divisible Sum Deletions](./problems/3600-3699/3654/README.md) | :o: | Medium | [dp] |   |

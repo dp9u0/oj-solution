@@ -929,7 +929,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 852  | [Peak Index in a Mountain Array](./problems/800-899/852/README.md)                                                     | :o:    | Easy   | [bs]                                                        |      |
 | 853 | [Car Fleet](./problems/800-899/853/README.md) | :o: | Medium | [arr],[stk] | :+1:  |
 | 854  | [K-Similar Strings](./problems/800-899/854/README.md)                                                                  |        | Hard   |                                                             |      |
-| 855  | [Exam Room](./problems/800-899/855/README.md)                                                                          |        | Medium |                                                             |      |
+| 855 | [Exam Room](./problems/800-899/855/README.md) | :o: | Medium | [des] | :+1:  |
 | 856  | [Score of Parentheses](./problems/800-899/856/README.md)                                                               | :o:    | Medium | [stack]                                                     | :+1: |
 | 857  | [Minimum Cost to Hire K Workers](./problems/800-899/857/README.md)                                                     |        | Hard   |                                                             |      |
 | 858  | [Mirror Reflection](./problems/800-899/858/README.md)                                                                  | :o:    | Medium | [math]                                                      |      |

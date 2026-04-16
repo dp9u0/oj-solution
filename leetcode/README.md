@@ -2316,7 +2316,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2275 | [Largest Combination With Bitwise AND Greater Than Zero](./problems/2200-2299/2275/README.md)                          | :o:    | Medium | [bit],[math]                                                |      |
 | 2276 | [Count Integers in Intervals](./problems/2200-2299/2276/README.md)                                                     |        | Hard   |                                                             |      |
 | 2277 | [Closest Node to Path in Tree](./problems/2200-2299/2277/README.md)                                                    | :lock: | Hard   |                                                             |      |
-| 2278 | [Percentage of Letter in String](./problems/2200-2299/2278/README.md)                                                  |        | Easy   |                                                             |      |
+| 2278 | [Percentage of Letter in String](./problems/2200-2299/2278/README.md) | :o: | Easy | [str] |   |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](./problems/2200-2299/2279/README.md)                                        | :o:    | Medium | [arr],[greedy]                                              |      |
 | 2280 | [Minimum Lines to Represent a Line Chart](./problems/2200-2299/2280/README.md)                                         | :o:    | Medium | [math],[grd]                                                |      |
 | 2281 | [Sum of Total Strength of Wizards](./problems/2200-2299/2281/README.md)                                                |        | Hard   |                                                             |      |

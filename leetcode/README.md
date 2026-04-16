@@ -2930,7 +2930,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2902 | [Count of Sub-Multisets With Bounded Sum](./problems/2900-2999/2902/README.md) | :o: | Hard | [dp],[hsh] |   |
 | 2903 | [Find Indices With Index and Value Difference I](./problems/2900-2999/2903/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](./problems/2900-2999/2904/README.md) | :o: | Medium | [str],[sd] |   |
-| 2905 | [Find Indices With Index and Value Difference II](./problems/2900-2999/2905/README.md)                                 |        | Medium |                                                             |      |
+| 2905 | [Find Indices With Index and Value Difference II](./problems/2900-2999/2905/README.md) | :o: | Medium | [arr] |   |
 | 2906 | [Construct Product Matrix](./problems/2900-2999/2906/README.md)                                                        | :o:    | Medium | [arr],[prefix]                                              |      |
 | 2907 | [Maximum Profitable Triplets With Increasing Prices I](./problems/2900-2999/2907/README.md)                            | :lock: | Medium |                                                             |      |
 | 2908 | [Minimum Sum of Mountain Triplets I](./problems/2900-2999/2908/README.md) | :o: | Easy | [arr] |   |

@@ -3026,7 +3026,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2998 | [Minimum Number of Operations to Make X and Y Equal](./problems/2900-2999/2998/README.md) | :o: | Medium | [bfs],[math] |   |
 | 2999 | [Count the Number of Powerful Integers](./problems/2900-2999/2999/README.md)                                           |        | Hard   |                                                             |      |
 | 3000 | [Maximum Area of Longest Diagonal Rectangle](./problems/3000-3099/3000/README.md)                                      |        | Easy   |                                                             |      |
-| 3001 | [Minimum Moves to Capture The Queen](./problems/3000-3099/3001/README.md)                                              |        | Medium |                                                             |      |
+| 3001 | [Minimum Moves to Capture The Queen](./problems/3000-3099/3001/README.md) | :o: | Medium | [lgc],[math] |   |
 | 3002 | [Maximum Size of a Set After Removals](./problems/3000-3099/3002/README.md)                                            |        | Medium |                                                             |      |
 | 3003 | [Maximize the Number of Partitions After Operations](./problems/3000-3099/3003/README.md)                              |        | Hard   |                                                             |      |
 | 3004 | [Maximum Subtree of the Same Color](./problems/3000-3099/3004/README.md)                                               | :lock: | Medium |                                                             |      |

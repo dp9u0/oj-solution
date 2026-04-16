@@ -3586,3 +3586,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3499 | [Maximize Active Section with Trade I](./problems/3400-3499/3499/README.md) | :o: | Medium | [str],[grd] |   |
 | 3827 | [Count Monobit Integers](./problems/3800-3899/3827/README.md) | :o: | Easy | [bit],[math] |   |
 | 3446 | [Sort Matrix by Diagonals](./problems/3400-3499/3446/README.md) | :o: | Medium | [arr] |   |
+| 3592 | [Inverse Coin Change](./problems/3500-3599/3592/README.md) | :o: | Medium | [dp] |   |

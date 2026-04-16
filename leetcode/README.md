@@ -3557,3 +3557,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3684 | [Maximize Sum of At Most K Distinct Elements](./problems/3600-3699/3684/README.md) | :o: | Easy | [arr],[grd] |   |
 | 3541 | [Find Most Frequent Vowel and Consonant](./problems/3500-3599/3541/README.md) | :o: | Easy | [str],[hsh] |   |
 | 3545 | [Minimum Deletions for At Most K Distinct Characters](./problems/3500-3599/3545/README.md) | :o: | Easy | [str],[grd] |   |
+| 3736 | [Minimum Moves to Equal Array Elements III](./problems/3700-3799/3736/README.md) | :o: | Easy | [arr],[math] |   |

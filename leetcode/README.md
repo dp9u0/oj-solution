@@ -2175,7 +2175,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2147 | [Number of Ways to Divide a Long Corridor](./problems/2100-2199/2147/README.md)                                        |        | Hard   |                                                             |      |
 | 2148 | [Count Elements With Strictly Smaller and Greater Elements](./problems/2100-2199/2148/README.md)                       |        | Easy   |                                                             |      |
 | 2149 | [Rearrange Array Elements by Sign](./problems/2100-2199/2149/README.md) | :o: | Medium | [arr],[tp] |   |
-| 2150 | [Find All Lonely Numbers in the Array](./problems/2100-2199/2150/README.md)                                            |        | Medium |                                                             |      |
+| 2150 | [Find All Lonely Numbers in the Array](./problems/2100-2199/2150/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 2151 | [Maximum Good People Based on Statements](./problems/2100-2199/2151/README.md)                                         |        | Hard   |                                                             |      |
 | 2152 | [Minimum Number of Lines to Cover Points](./problems/2100-2199/2152/README.md)                                         | :lock: | Medium |                                                             |      |
 | 2153 | [The Number of Passengers in Each Bus II](./problems/2100-2199/2153/README.md)                                         | :lock: | Hard   |                                                             |      |

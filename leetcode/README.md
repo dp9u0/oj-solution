@@ -3539,3 +3539,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3644 | [Maximum K to Sort a Permutation](./problems/3600-3699/3644/README.md) | :o: | Medium | [bit],[lgc] |   |
 | 3639 | [Minimum Time to Activate String](./problems/3600-3699/3639/README.md) | :o: | Medium | [str],[bs] | :+1:  |
 | 3593 | [Minimum Increments to Equalize Leaf Paths](./problems/3500-3599/3593/README.md) | :o: | Medium | [tr],[dfs],[grd] |   |
+| 3495 | [Minimum Operations to Make Array Elements Zero](./problems/3400-3499/3495/README.md) | :o: | Hard | [math],[lgc] | :+1:  |

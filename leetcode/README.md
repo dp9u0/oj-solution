@@ -1854,7 +1854,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1813 | [Sentence Similarity III](./problems/1800-1899/1813/README.md) | :o: | Medium | [str],[tp] |   |
 | 1814 | [Count Nice Pairs in an Array](./problems/1800-1899/1814/README.md)                                                    | :o:    | Medium | [arr],[hash]                                                |      |
 | 1815 | [Maximum Number of Groups Getting Fresh Donuts](./problems/1800-1899/1815/README.md)                                   |        | Hard   |                                                             |      |
-| 1816 | [Truncate Sentence](./problems/1800-1899/1816/README.md)                                                               |        | Easy   |                                                             |      |
+| 1816 | [Truncate Sentence](./problems/1800-1899/1816/README.md) | :o: | Easy | [str] |   |
 | 1817 | [Finding the Users Active Minutes](./problems/1800-1899/1817/README.md)                                                | :o:    | Medium | [hsh]                                                       |      |
 | 1818 | [Minimum Absolute Sum Difference](./problems/1800-1899/1818/README.md)                                                 |        | Medium |                                                             |      |
 | 1819 | [Number of Different Subsequences GCDs](./problems/1800-1899/1819/README.md) | :o: | Hard | [math] | :+1:  |

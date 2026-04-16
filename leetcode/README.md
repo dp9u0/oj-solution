@@ -2835,7 +2835,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2807 | [Insert Greatest Common Divisors in Linked List](./problems/2800-2899/2807/README.md)                                  | :o:    | Medium | [ll]                                                        |      |
 | 2808 | [Minimum Seconds to Equalize a Circular Array](./problems/2800-2899/2808/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 2809 | [Minimum Time to Make Array Sum At Most x](./problems/2800-2899/2809/README.md) | :o: | Hard | [dp],[grd] |   |
-| 2810 | [Faulty Keyboard](./problems/2800-2899/2810/README.md)                                                                 |        | Easy   |                                                             |      |
+| 2810 | [Faulty Keyboard](./problems/2800-2899/2810/README.md) | :o: | Easy | [str],[stk] |   |
 | 2811 | [Check if it is Possible to Split Array](./problems/2800-2899/2811/README.md)                                          |        | Medium |                                                             |      |
 | 2812 | [Find the Safest Path in a Grid](./problems/2800-2899/2812/README.md)                                                  | :o:    | Medium | [arr],[bfs]                                                 | :+1: |
 | 2813 | [Maximum Elegance of a K-Length Subsequence](./problems/2800-2899/2813/README.md)                                      |        | Hard   |                                                             |      |

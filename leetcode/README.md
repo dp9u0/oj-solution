@@ -3553,3 +3553,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3780 | [Maximum Sum of Three Numbers Divisible by Three](./problems/3700-3799/3780/README.md) | :o: | Medium | [arr],[math],[grd] |   |
 | 3779 | [Minimum Number of Operations to Have Distinct Elements](./problems/3700-3799/3779/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 3755 | [Find Maximum Balanced XOR Subarray Length](./problems/3700-3799/3755/README.md) | :o: | Medium | [arr],[bit],[hsh] |   |
+| 3428 | [Maximum and Minimum Sums of at Most Size K Subsequences](./problems/3400-3499/3428/README.md) | :o: | Medium | [arr],[math] |   |

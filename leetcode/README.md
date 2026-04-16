@@ -2626,7 +2626,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2598 | [Smallest Missing Non-negative Integer After Operations](./problems/2500-2599/2598/README.md) | :o: | Medium | [arr],[math],[hsh] |   |
 | 2599 | [Make the Prefix Sum Non-negative](./problems/2500-2599/2599/README.md)                                                | :lock: | Medium |                                                             |      |
 | 2600 | [K Items With the Maximum Sum](./problems/2600-2699/2600/README.md)                                                    |        | Easy   |                                                             |      |
-| 2601 | [Prime Subtraction Operation](./problems/2600-2699/2601/README.md)                                                     |        | Medium |                                                             |      |
+| 2601 | [Prime Subtraction Operation](./problems/2600-2699/2601/README.md) | :o: | Medium | [arr],[math],[grd] |   |
 | 2602 | [Minimum Operations to Make All Array Elements Equal](./problems/2600-2699/2602/README.md)                             |        | Medium |                                                             |      |
 | 2603 | [Collect Coins in a Tree](./problems/2600-2699/2603/README.md)                                                         |        | Hard   |                                                             |      |
 | 2604 | [Minimum Time to Eat All Grains](./problems/2600-2699/2604/README.md)                                                  | :lock: | Hard   |                                                             |      |

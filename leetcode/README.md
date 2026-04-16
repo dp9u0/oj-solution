@@ -1692,7 +1692,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1617 | [Count Subtrees With Max Distance Between Cities](./problems/1600-1699/1617/README.md)                                 |        | Hard   |                                                             |      |
 | 1618 | [1618](./problems/1600-1699/1618/README.md)                                                                            |        | Easy   |                                                             |      |
 | 1619 | [1619](./problems/1600-1699/1619/README.md)                                                                            |        | Easy   |                                                             |      |
-| 1620 | [Coordinate With Maximum Network Quality](./problems/1600-1699/1620/README.md)                                         |        | Medium |                                                             |      |
+| 1620 | [Coordinate With Maximum Network Quality](./problems/1600-1699/1620/README.md) | :o: | Medium | [math] |   |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](./problems/1600-1699/1621/README.md) | :o: | Medium | [dp],[math] |   |
 | 1622 | [Fancy Sequence](./problems/1600-1699/1622/README.md)                                                                  |        | Hard   |                                                             |      |
 | 1623 | [All Valid Triplets That Can Represent a Country](./problems/1600-1699/1623/README.md)                                 | :lock: | Easy   |                                                             |      |

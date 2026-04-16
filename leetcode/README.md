@@ -3283,7 +3283,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3242 | [Design Neighbor Sum Service](./problems/3200-3299/3242/README.md)                                                     |        | Easy   |                                                             |      |
 | 3243 | [Shortest Distance After Road Addition Queries I](./problems/3200-3299/3243/README.md)                                 | :o:    | Medium | [grf],[bfs]                                                 |      |
 | 3244 | [Shortest Distance After Road Addition Queries II](./problems/3200-3299/3244/README.md)                                |        | Hard   |                                                             |      |
-| 3245 | [Alternating Groups III](./problems/3200-3299/3245/README.md)                                                          |        | Hard   |                                                             |      |
+| 3245 | [Alternating Groups III](./problems/3200-3299/3245/README.md) | :o: | Hard | [ds],[arr] |   |
 | 3246 | [Premier League Table Ranking](./problems/3200-3299/3246/README.md)                                                    | :lock: | Easy   |                                                             |      |
 | 3247 | [Number of Subsequences with Odd Sum](./problems/3200-3299/3247/README.md)                                             | :lock: | Medium |                                                             |      |
 | 3248 | [Snake in Matrix](./problems/3200-3299/3248/README.md)                                                                 |        | Easy   |                                                             |      |

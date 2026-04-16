@@ -2938,7 +2938,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2910 | [Minimum Number of Groups to Create a Valid Assignment](./problems/2900-2999/2910/README.md)                           |        | Medium |                                                             |      |
 | 2911 | [Minimum Changes to Make K Semi-palindromes](./problems/2900-2999/2911/README.md)                                      | :o:    | Hard   | [dp],[str]                                                  |      |
 | 2912 | [Number of Ways to Reach Destination in the Grid](./problems/2900-2999/2912/README.md)                                 | :lock: | Hard   |                                                             |      |
-| 2913 | [Subarrays Distinct Element Sum of Squares I](./problems/2900-2999/2913/README.md)                                     |        | Easy   |                                                             |      |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](./problems/2900-2999/2913/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](./problems/2900-2999/2914/README.md)                       | :o:    | Medium | [greedy],[str]                                              |      |
 | 2915 | [Length of the Longest Subsequence That Sums to Target](./problems/2900-2999/2915/README.md)                           |        | Medium |                                                             |      |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](./problems/2900-2999/2916/README.md)                                    |        | Hard   |                                                             |      |

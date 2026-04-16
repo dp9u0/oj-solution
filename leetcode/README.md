@@ -1229,7 +1229,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1152 | [Analyze User Website Visit Pattern](./problems/1100-1199/1152/README.md)                                              | :lock: | Medium |                                                             |      |
 | 1153 | [String Transforms Into Another String](./problems/1100-1199/1153/README.md)                                           | :lock: | Hard   |                                                             |      |
 | 1154 | [Day of the Year](./problems/1100-1199/1154/README.md) | :o: | Easy | [math],[lgc] |   |
-| 1155 | [Number of Dice Rolls With Target Sum](./problems/1100-1199/1155/README.md)                                            |        | Medium |                                                             |      |
+| 1155 | [Number of Dice Rolls With Target Sum](./problems/1100-1199/1155/README.md) | :o: | Medium | [dp] | :+1:  |
 | 1156 | [Swap For Longest Repeated Character Substring](./problems/1100-1199/1156/README.md) | :o: | Medium | [str],[grd] |   |
 | 1157 | [Online Majority Element In Subarray](./problems/1100-1199/1157/README.md)                                             |        | Hard   |                                                             |      |
 | 1158 | [Market Analysis I](./problems/1100-1199/1158/README.md)                                                               | :lock: | Medium |                                                             |      |

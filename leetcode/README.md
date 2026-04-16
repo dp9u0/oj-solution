@@ -3551,3 +3551,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3713 | [Longest Balanced Substring I](./problems/3700-3799/3713/README.md) | :o: | Medium | [str],[sd] |   |
 | 3502 | [Minimum Cost to Reach Every Position](./problems/3500-3599/3502/README.md) | :o: | Easy | [arr],[grd] |   |
 | 3780 | [Maximum Sum of Three Numbers Divisible by Three](./problems/3700-3799/3780/README.md) | :o: | Medium | [arr],[math],[grd] |   |
+| 3779 | [Minimum Number of Operations to Have Distinct Elements](./problems/3700-3799/3779/README.md) | :o: | Medium | [arr],[hsh] |   |

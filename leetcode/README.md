@@ -3162,7 +3162,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3134 | [Find the Median of the Uniqueness Array](./problems/3100-3199/3134/README.md)                                         |        | Hard   |                                                             |      |
 | 3135 | [Equalize Strings by Adding or Removing Characters at Ends](./problems/3100-3199/3135/README.md)                       | :lock: | Medium |                                                             |      |
 | 3136 | [Valid Word](./problems/3100-3199/3136/README.md)                                                                      | :o:    | Easy   | [str],[lgc]                                                 |      |
-| 3137 | [Minimum Number of Operations to Make Word K-Periodic](./problems/3100-3199/3137/README.md)                            |        | Medium |                                                             |      |
+| 3137 | [Minimum Number of Operations to Make Word K-Periodic](./problems/3100-3199/3137/README.md) | :o: | Medium | [str],[hsh] |   |
 | 3138 | [Minimum Length of Anagram Concatenation](./problems/3100-3199/3138/README.md)                                         |        | Medium |                                                             |      |
 | 3139 | [Minimum Cost to Equalize Array](./problems/3100-3199/3139/README.md)                                                  |        | Hard   |                                                             |      |
 | 3140 | [Consecutive Available Seats II](./problems/3100-3199/3140/README.md)                                                  | :lock: | Medium |                                                             |      |

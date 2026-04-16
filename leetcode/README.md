@@ -1960,7 +1960,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1932 | [Merge BSTs to Create Single BST](./problems/1900-1999/1932/README.md)                                                 |        | Hard   |                                                             |      |
 | 1933 | [Check if String Is Decomposable Into Value-Equal Substrings](./problems/1900-1999/1933/README.md)                     | :lock: | Easy   |                                                             |      |
 | 1934 | [Confirmation Rate](./problems/1900-1999/1934/README.md)                                                               | :lock: | Medium |                                                             |      |
-| 1935 | [1935](./problems/1900-1999/1935/README.md)                                                                            |        | Easy   |                                                             |      |
+| 1935 | [1935](./problems/1900-1999/1935/README.md) | :o: | Easy | [str],[hsh] |   |
 | 1936 | [Add Minimum Number of Rungs](./problems/1900-1999/1936/README.md)                                                     | :o:    | Medium | [arr],[greedy]                                              |      |
 | 1937 | [Maximum Number of Points with Cost](./problems/1900-1999/1937/README.md)                                              | :o:    | Medium | [dp],[arr]                                                  |      |
 | 1938 | [Maximum Genetic Difference Query](./problems/1900-1999/1938/README.md) | :o: | Hard | [tr],[bit] | :+1:  |

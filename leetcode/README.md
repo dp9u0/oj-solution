@@ -1105,7 +1105,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1028 | [Recover a Tree From Preorder Traversal](./problems/1000-1099/1028/README.md)                                          | :o:    | Hard   | [tr]                                                        |      |
 | 1029 | [Two City Scheduling](./problems/1000-1099/1029/README.md)                                                             | :o:    | Medium | [grd]                                                       |      |
 | 1030 | [Matrix Cells in Distance Order](./problems/1000-1099/1030/README.md) | :o: | Easy | [bfs] |   |
-| 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](./problems/1000-1099/1031/README.md)                                    |        | Medium |                                                             |      |
+| 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](./problems/1000-1099/1031/README.md) | :o: | Medium | [arr],[dp] |   |
 | 1032 | [Stream of Characters](./problems/1000-1099/1032/README.md)                                                            |        | Hard   |                                                             |      |
 | 1033 | [Moving Stones Until Consecutive](./problems/1000-1099/1033/README.md)                                                 | :o:    | Medium | [math],[lgc]                                                |      |
 | 1034 | [Coloring A Border](./problems/1000-1099/1034/README.md)                                                               |        | Medium |                                                             |      |

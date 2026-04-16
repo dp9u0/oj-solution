@@ -1080,7 +1080,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1003 | [Check If Word Is Valid After Substitutions](./problems/1000-1099/1003/README.md)                                      |        | Medium |                                                             |      |
 | 1004 | [Max Consecutive Ones III](./problems/1000-1099/1004/README.md)                                                        | :o:    | Medium | [sd]                                                        | :+1: |
 | 1005 | [Maximize Sum Of Array After K Negations](./problems/1000-1099/1005/README.md)                                         | :o:    | Easy   | [arr]                                                       |      |
-| 1006 | [Clumsy Factorial](./problems/1000-1099/1006/README.md)                                                                |        | Medium |                                                             |      |
+| 1006 | [Clumsy Factorial](./problems/1000-1099/1006/README.md) | :o: | Medium | [math],[stk] |   |
 | 1007 | [Minimum Domino Rotations For Equal Row](./problems/1000-1099/1007/README.md)                                          | :o:    | Medium | [arr]                                                       | :+1: |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](./problems/1000-1099/1008/README.md)                            | :o:    | Medium | [tr]                                                        |      |
 | 1009 | [Complement of Base 10 Integer](./problems/1000-1099/1009/README.md)                                                   | :o:    | Easy   | [none]                                                      |      |

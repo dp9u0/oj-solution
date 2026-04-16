@@ -3351,7 +3351,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3323 | [Minimize Connected Groups by Inserting Interval](./problems/3300-3399/3323/README.md)                                 | :lock: | Medium |                                                             |      |
 | 3324 | [Find the Sequence of Strings Appeared on the Screen](./problems/3300-3399/3324/README.md)                             |        | Medium |                                                             |      |
 | 3325 | [Count Substrings With K-Frequency Characters I](./problems/3300-3399/3325/README.md)                                  |        | Medium |                                                             |      |
-| 3326 | [Minimum Division Operations to Make Array Non Decreasing](./problems/3300-3399/3326/README.md)                        |        | Medium |                                                             |      |
+| 3326 | [Minimum Division Operations to Make Array Non Decreasing](./problems/3300-3399/3326/README.md) | :o: | Medium | [math],[arr] |   |
 | 3327 | [Check if DFS Strings Are Palindromes](./problems/3300-3399/3327/README.md)                                            |        | Hard   |                                                             |      |
 | 3328 | [Find Cities in Each State II](./problems/3300-3399/3328/README.md)                                                    | :lock: | Medium |                                                             |      |
 | 3329 | [Count Substrings With K-Frequency Characters II](./problems/3300-3399/3329/README.md)                                 | :lock: | Hard   |                                                             |      |

@@ -3302,7 +3302,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3274 | [Check if Two Chessboard Squares Have the Same Color](./problems/3200-3299/3274/README.md)                             |        | Easy   |                                                             |      |
 | 3275 | [K-th Nearest Obstacle Queries](./problems/3200-3299/3275/README.md)                                                   |        | Medium |                                                             |      |
 | 3276 | [Select Cells in Grid With Maximum Score](./problems/3200-3299/3276/README.md)                                         |        | Hard   |                                                             |      |
-| 3277 | [Maximum XOR Score Subarray Queries](./problems/3200-3299/3277/README.md)                                              |        | Hard   |                                                             |      |
+| 3277 | [Maximum XOR Score Subarray Queries](./problems/3200-3299/3277/README.md) | :o: | Hard | [dp],[bit] |   |
 | 3278 | [Find Candidates for Data Scientist Position II](./problems/3200-3299/3278/README.md)                                  | :lock: | Medium |                                                             |      |
 | 3279 | [Maximum Total Area Occupied by Pistons](./problems/3200-3299/3279/README.md)                                          | :lock: | Hard   |                                                             |      |
 | 3280 | [Convert Date to Binary](./problems/3200-3299/3280/README.md) | :o: | Easy | [str],[lgc] |   |

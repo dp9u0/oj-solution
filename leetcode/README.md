@@ -3579,3 +3579,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3796 | [Find Maximum Value in a Constrained Sequence](./problems/3700-3799/3796/README.md) | :o: | Medium | [arr],[dp] |   |
 | 3418 | [Maximum Amount of Money Robot Can Earn](./problems/3400-3499/3418/README.md) | :o: | Medium | [arr],[dp] |   |
 | 3524 | [Find X Value of Array I](./problems/3500-3599/3524/README.md) | :o: | Medium | [arr],[dp] |   |
+| 3818 | [Minimum Prefix Removal to Make Array Strictly Increasing](./problems/3800-3899/3818/README.md) | :o: | Medium | [arr],[lgc] |   |

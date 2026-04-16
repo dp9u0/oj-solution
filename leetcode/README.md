@@ -2130,7 +2130,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2089 | [Find Target Indices After Sorting Array](./problems/2000-2099/2089/README.md)                                         | :o:    | Easy   | [arr],[lgc]                                                 |      |
 | 2090 | [K Radius Subarray Averages](./problems/2000-2099/2090/README.md)                                                      | :o:    | Medium | [arr]                                                       |      |
 | 2091 | [Removing Minimum and Maximum From Array](./problems/2000-2099/2091/README.md)                                         | :o:    | Medium | [arr],[greedy]                                              |      |
-| 2092 | [Find All People With Secret](./problems/2000-2099/2092/README.md)                                                     |        | Hard   |                                                             |      |
+| 2092 | [Find All People With Secret](./problems/2000-2099/2092/README.md) | :o: | Hard | [bfs],[grf] |   |
 | 2093 | [Minimum Cost to Reach City With Discounts](./problems/2000-2099/2093/README.md)                                       | :lock: | Medium |                                                             |      |
 | 2094 | [Finding 3-Digit Even Numbers](./problems/2000-2099/2094/README.md)                                                    | :o:    | Easy   | [arr]                                                       |      |
 | 2095 | [Delete the Middle Node of a Linked List](./problems/2000-2099/2095/README.md)                                         | :o:    | Medium | [ll],[tp]                                                   | :+1: |

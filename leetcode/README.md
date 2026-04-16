@@ -1086,7 +1086,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1009 | [Complement of Base 10 Integer](./problems/1000-1099/1009/README.md)                                                   | :o:    | Easy   | [none]                                                      |      |
 | 1010 | [Pairs of Songs With Total Durations Divisible by 60](./problems/1000-1099/1010/README.md)                             | :o:    | Medium | [arr],[hm]                                                  | :+1: |
 | 1011 | [Capacity To Ship Packages Within D Days](./problems/1000-1099/1011/README.md)                                         | :o:    | Medium | [arr],[bs]                                                  | :+1: |
-| 1012 | [Numbers With Repeated Digits](./problems/1000-1099/1012/README.md)                                                    |        | Hard   |                                                             |      |
+| 1012 | [Numbers With Repeated Digits](./problems/1000-1099/1012/README.md) | :o: | Hard | [math],[dp] |   |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](./problems/1000-1099/1013/README.md)                                 | :o:    | Easy   | [math]                                                      |      |
 | 1014 | [Best Sightseeing Pair](./problems/1000-1099/1014/README.md)                                                           | :o:    | Medium | [arr],[dp]                                                  | :+1: |
 | 1015 | [Smallest Integer Divisible by K](./problems/1000-1099/1015/README.md)                                                 | :o:    | Medium | [arr]                                                       |      |

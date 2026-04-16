@@ -3390,7 +3390,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3362 | [Zero Array Transformation III](./problems/3300-3399/3362/README.md)                                                   | :o:    | Medium | [grd],[hp]                                                  |      |
 | 3363 | [Find the Maximum Number of Fruits Collected](./problems/3300-3399/3363/README.md) | :o: | Hard | [dp] | :+1:  |
 | 3364 | [Minimum Positive Sum Subarra](./problems/3300-3399/3364/README.md)                                                    |        | Easy   |                                                             |      |
-| 3365 | [Rearrange K Substrings to Form Target String](./problems/3300-3399/3365/README.md)                                    |        | Medium |                                                             |      |
+| 3365 | [Rearrange K Substrings to Form Target String](./problems/3300-3399/3365/README.md) | :o: | Medium | [str],[hsh] |   |
 | 3366 | [Minimum Array Sum](./problems/3300-3399/3366/README.md)                                                               | :o:    | Medium | [arr],[dp]                                                  |      |
 | 3367 | [Maximize Sum of Weights after Edge Removals](./problems/3300-3399/3367/README.md)                                     | :o:    | Hard   | [dfs],[grd],[tr]                                            |      |
 | 3368 | [First Letter Capitalization](./problems/3300-3399/3368/README.md)                                                     | :lock: | Hard   |                                                             |      |

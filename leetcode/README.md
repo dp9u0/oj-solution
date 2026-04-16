@@ -1645,7 +1645,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1570 | [Dot Product of Two Sparse Vectors](./problems/1500-1599/1570/README.md)                                               | :lock: | Medium |                                                             |      |
 | 1571 | [Warehouse Manager](./problems/1500-1599/1571/README.md)                                                               | :lock: | Easy   |                                                             |      |
 | 1572 | [Matrix Diagonal Sum](./problems/1500-1599/1572/README.md)                                                             |        | Easy   |                                                             |      |
-| 1573 | [Number of Ways to Split a String](./problems/1500-1599/1573/README.md)                                                |        | Medium |                                                             |      |
+| 1573 | [Number of Ways to Split a String](./problems/1500-1599/1573/README.md) | :o: | Medium | [str],[math] |   |
 | 1574 | [Shortest Subarray to be Removed to Make Array Sorted](./problems/1500-1599/1574/README.md) | :o: | Medium | [arr],[tp] |   |
 | 1575 | [Count All Possible Routes](./problems/1500-1599/1575/README.md)                                                       |        | Hard   |                                                             |      |
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](./problems/1500-1599/1576/README.md)                       |        | Easy   |                                                             |      |

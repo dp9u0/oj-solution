@@ -3548,3 +3548,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3693 | [Climbing Stairs II](./problems/3600-3699/3693/README.md) | :o: | Medium | [dp] |   |
 | 3741 | [Minimum Distance Between Three Equal Elements II](./problems/3700-3799/3741/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 1742 | [Maximum Number of Balls in a Box](./problems/1700-1799/1742/README.md) | :o: | Easy | [math],[hsh] |   |
+| 3713 | [Longest Balanced Substring I](./problems/3700-3799/3713/README.md) | :o: | Medium | [str],[sd] |   |

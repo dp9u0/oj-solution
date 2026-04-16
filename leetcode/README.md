@@ -3549,3 +3549,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3741 | [Minimum Distance Between Three Equal Elements II](./problems/3700-3799/3741/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 1742 | [Maximum Number of Balls in a Box](./problems/1700-1799/1742/README.md) | :o: | Easy | [math],[hsh] |   |
 | 3713 | [Longest Balanced Substring I](./problems/3700-3799/3713/README.md) | :o: | Medium | [str],[sd] |   |
+| 3502 | [Minimum Cost to Reach Every Position](./problems/3500-3599/3502/README.md) | :o: | Easy | [arr],[grd] |   |

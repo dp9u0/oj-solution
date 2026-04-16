@@ -3555,3 +3555,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3755 | [Find Maximum Balanced XOR Subarray Length](./problems/3700-3799/3755/README.md) | :o: | Medium | [arr],[bit],[hsh] |   |
 | 3428 | [Maximum and Minimum Sums of at Most Size K Subsequences](./problems/3400-3499/3428/README.md) | :o: | Medium | [arr],[math] |   |
 | 3684 | [Maximize Sum of At Most K Distinct Elements](./problems/3600-3699/3684/README.md) | :o: | Easy | [arr],[grd] |   |
+| 3541 | [Find Most Frequent Vowel and Consonant](./problems/3500-3599/3541/README.md) | :o: | Easy | [str],[hsh] |   |

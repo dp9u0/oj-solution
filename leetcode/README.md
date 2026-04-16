@@ -3247,7 +3247,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3219 | [Minimum Cost for Cutting Cake II](./problems/3200-3299/3219/README.md)                                                |        | Hard   |                                                             |      |
 | 3220 | [Odd and Even Transactions](./problems/3200-3299/3220/README.md)                                                       | :soon: | Medium |                                                             |      |
 | 3221 | [Maximum Array Hopping Score II](./problems/3200-3299/3221/README.md)                                                  | :lock: | Medium |                                                             |      |
-| 3222 | [Find the Winning Player in Coin Game](./problems/3200-3299/3222/README.md)                                            |        | Easy   |                                                             |      |
+| 3222 | [Find the Winning Player in Coin Game](./problems/3200-3299/3222/README.md) | :o: | Easy | [math],[lgc] |   |
 | 3223 | [Minimum Length of String After Operations](./problems/3200-3299/3223/README.md)                                       | :o:    | Medium | [str],[hm]                                                  |      |
 | 3224 | [Minimum Array Changes to Make Differences Equal](./problems/3200-3299/3224/README.md)                                 |        | Medium |                                                             |      |
 | 3225 | [Maximum Score From Grid Operations](./problems/3200-3299/3225/README.md)                                              |        | Hard   |                                                             |      |

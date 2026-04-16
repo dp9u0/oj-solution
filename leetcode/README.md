@@ -1904,7 +1904,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1876 | [Substrings of Size Three with Distinct Characters](./problems/1800-1899/1876/README.md) | :o: | Easy | [str],[sd] |   |
 | 1877 | [Minimize Maximum Pair Sum in Array](./problems/1800-1899/1877/README.md)                                              | :o:    | Medium | [arr],[greedy],[sort]                                       |      |
 | 1878 | [Get Biggest Three Rhombus Sums in a Grid](./problems/1800-1899/1878/README.md)                                        |        | Medium |                                                             |      |
-| 1879 | [Minimum XOR Sum of Two Arrays](./problems/1800-1899/1879/README.md)                                                   |        | Hard   |                                                             |      |
+| 1879 | [Minimum XOR Sum of Two Arrays](./problems/1800-1899/1879/README.md) | :o: | Hard | [dp],[bit] |   |
 | 1880 | [Check if Word Equals Summation of Two Words](./problems/1800-1899/1880/README.md) | :o: | Easy | [str],[math] |   |
 | 1881 | [Maximum Value after Insertion](./problems/1800-1899/1881/README.md)                                                   |        | Medium |                                                             |      |
 | 1882 | [Process Tasks Using Servers](./problems/1800-1899/1882/README.md)                                                     |        | Medium |                                                             |      |

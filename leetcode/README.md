@@ -3571,3 +3571,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3477 | [Fruits Into Baskets II](./problems/3400-3499/3477/README.md) | :o: | Easy | [arr],[grd] |   |
 | 3798 | [Largest Even Number](./problems/3700-3799/3798/README.md) | :o: | Easy | [str],[lgc] |   |
 | 3396 | [Minimum Number of Operations to Make Elements in Array Distinct](./problems/3300-3399/3396/README.md) | :o: | Easy | [arr],[hsh] |   |
+| 3737 | [Count Subarrays With Majority Element I](./problems/3700-3799/3737/README.md) | :o: | Medium | [arr],[math] |   |

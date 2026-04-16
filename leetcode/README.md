@@ -1468,7 +1468,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1393 | [Capital Gain/Loss](./problems/1300-1399/1393/README.md)                                                               | :lock: | Medium |                                                             |      |
 | 1394 | [Find Lucky Integer in an Array](./problems/1300-1399/1394/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 1395 | [Count Number of Teams](./problems/1300-1399/1395/README.md)                                                           | :o:    | Medium | [arr]                                                       |      |
-| 1396 | [Design Underground System](./problems/1300-1399/1396/README.md)                                                       |        | Medium |                                                             |      |
+| 1396 | [Design Underground System](./problems/1300-1399/1396/README.md) | :o: | Medium | [des],[hsh] |   |
 | 1397 | [Find All Good Strings](./problems/1300-1399/1397/README.md)                                                           |        | Hard   |                                                             |      |
 | 1398 | [Customers Who Bought Products A and B but Not C](./problems/1300-1399/1398/README.md)                                 | :lock: | Medium |                                                             |      |
 | 1399 | [Count Largest Group](./problems/1300-1399/1399/README.md)                                                             | :o:    | Easy   | [arr]                                                       |      |

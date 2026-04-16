@@ -2940,7 +2940,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2912 | [Number of Ways to Reach Destination in the Grid](./problems/2900-2999/2912/README.md)                                 | :lock: | Hard   |                                                             |      |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](./problems/2900-2999/2913/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](./problems/2900-2999/2914/README.md)                       | :o:    | Medium | [greedy],[str]                                              |      |
-| 2915 | [Length of the Longest Subsequence That Sums to Target](./problems/2900-2999/2915/README.md)                           |        | Medium |                                                             |      |
+| 2915 | [Length of the Longest Subsequence That Sums to Target](./problems/2900-2999/2915/README.md) | :o: | Medium | [dp] |   |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](./problems/2900-2999/2916/README.md)                                    |        | Hard   |                                                             |      |
 | 2917 | [Find the K-or of an Array](./problems/2900-2999/2917/README.md)                                                       |        | Easy   |                                                             |      |
 | 2918 | [Minimum Equal Sum of Two Arrays After Replacing Zeros](./problems/2900-2999/2918/README.md)                           | :o:    | Medium | [arr],[greedy]                                              |      |

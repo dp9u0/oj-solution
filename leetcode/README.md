@@ -3536,3 +3536,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3585 | [Find Weighted Median Node in Tree](./problems/3500-3599/3585/README.md) | :o: | Hard | [grf],[bfs],[ds] |   |
 | 3638 | [Maximum Balanced Shipments](./problems/3600-3699/3638/README.md) | :o: | Medium | [dp],[stk] |   |
 | 3597 | [Partition String](./problems/3500-3599/3597/README.md) | :o: | Medium | [str],[hsh] |   |
+| 3644 | [Maximum K to Sort a Permutation](./problems/3600-3699/3644/README.md) | :o: | Medium | [bit],[lgc] |   |

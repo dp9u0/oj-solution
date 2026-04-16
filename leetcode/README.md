@@ -546,7 +546,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 464  | [Can I Win](./problems/400-499/464/README.md)                                                                          |        | Medium |                                                             |      |
 | 465  | [Optimal Account Balancing](./problems/400-499/465/README.md)                                                          | :lock: | Hard   |                                                             |      |
 | 466  | [Count The Repetitions](./problems/400-499/466/README.md)                                                              |        | Hard   |                                                             |      |
-| 467  | [Unique Substrings in Wraparound String](./problems/400-499/467/README.md)                                             |        | Medium |                                                             |      |
+| 467 | [Unique Substrings in Wraparound String](./problems/400-499/467/README.md) | :o: | Medium | [dp],[str] |   |
 | 468  | [Validate IP Address](./problems/400-499/468/README.md)                                                                |        | Medium |                                                             |      |
 | 469  | [Convex Polygon](./problems/400-499/469/README.md)                                                                     | :lock: | Medium |                                                             |      |
 | 470  | [Implement Rand10() Using Rand7()](./problems/400-499/470/README.md)                                                   |        | Medium |                                                             |      |

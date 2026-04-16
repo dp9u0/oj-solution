@@ -3099,7 +3099,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3071 | [Minimum Operations to Write the Letter Y on a Grid](./problems/3000-3099/3071/README.md)                              | :o:    | Medium | [arr],[lgc]                                                 |      |
 | 3072 | [Distribute Elements Into Two Arrays II](./problems/3000-3099/3072/README.md) | :o: | Hard | [ds],[arr] |   |
 | 3073 | [Maximum Increasing Triplet Value](./problems/3000-3099/3073/README.md)                                                | :lock: | Medium |                                                             |      |
-| 3074 | [Apple Redistribution into Boxes](./problems/3000-3099/3074/README.md)                                                 |        | Easy   |                                                             |      |
+| 3074 | [Apple Redistribution into Boxes](./problems/3000-3099/3074/README.md) | :o: | Easy | [arr],[grd] |   |
 | 3075 | [Maximize Happiness of Selected Children](./problems/3000-3099/3075/README.md)                                         | :o:    | Medium | [arr],[greedy]                                              |      |
 | 3076 | [Shortest Uncommon Substring in an Array](./problems/3000-3099/3076/README.md)                                         |        | Medium |                                                             |      |
 | 3077 | [Maximum Strength of K Disjoint Subarrays](./problems/3000-3099/3077/README.md)                                        |        | Hard   |                                                             |      |

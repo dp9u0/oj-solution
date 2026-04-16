@@ -3613,3 +3613,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3606 | [Coupon Code Validator](./problems/3600-3699/3606/README.md) | :o: | Easy | [arr],[str] |   |
 | 3751 | [Total Waviness of Numbers in Range I](./problems/3700-3799/3751/README.md) | :o: | Medium | [math] |   |
 | 3863 | [Minimum Operations to Sort a String](./problems/3800-3899/3863/README.md) | :o: | Medium | [str],[grd] |   |
+| 1725 | [Number Of Rectangles That Can Form The Largest Square](./problems/1700-1799/1725/README.md) | :o: | Easy | [arr] |   |

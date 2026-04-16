@@ -3601,3 +3601,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3721 | [Longest Balanced Subarray II](./problems/3700-3799/3721/README.md) | :o: | Hard | [arr],[dc] | :+1:  |
 | 3443 | [Maximum Manhattan Distance After K Changes](./problems/3400-3499/3443/README.md) | :o: | Medium | [math],[grd] |   |
 | 3791 | [Number of Balanced Integers in a Range](./problems/3700-3799/3791/README.md) | :o: | Hard | [dp],[math] |   |
+| 3777 | [Minimum Deletions to Make Alternating Substring](./problems/3700-3799/3777/README.md) | :o: | Hard | [str],[ds] | :+1:  |

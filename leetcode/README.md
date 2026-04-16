@@ -2552,7 +2552,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2511 | [Maximum Enemy Forts That Can Be Captured](./problems/2500-2599/2511/README.md)                                        | :o:    | Easy   | [arr],[tp]                                                  |      |
 | 2512 | [Reward Top K Students](./problems/2500-2599/2512/README.md)                                                           |        | Medium |                                                             |      |
 | 2513 | [Minimize the Maximum of Two Arrays](./problems/2500-2599/2513/README.md)                                              | :o:    | Medium | [bs],[math]                                                 |      |
-| 2514 | [Count Anagrams](./problems/2500-2599/2514/README.md)                                                                  |        | Hard   |                                                             |      |
+| 2514 | [Count Anagrams](./problems/2500-2599/2514/README.md) | :o: | Hard | [math],[str] |   |
 | 2515 | [Shortest Distance to Target String in a Circular Array](./problems/2500-2599/2515/README.md)                          | :o:    | Easy   | [arr]                                                       |      |
 | 2516 | [Take K of Each Character From Left and Right](./problems/2500-2599/2516/README.md)                                    | :o:    | Medium | [str],[sd]                                                  |      |
 | 2517 | [Maximum Tastiness of Candy Basket](./problems/2500-2599/2517/README.md)                                               |        | Medium |                                                             |      |

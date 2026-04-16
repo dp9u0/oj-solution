@@ -3389,7 +3389,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3361 | [Shift Distance Between Two Strings](./problems/3300-3399/3361/README.md) | :o: | Medium | [str],[math] |   |
 | 3362 | [Zero Array Transformation III](./problems/3300-3399/3362/README.md)                                                   | :o:    | Medium | [grd],[hp]                                                  |      |
 | 3363 | [Find the Maximum Number of Fruits Collected](./problems/3300-3399/3363/README.md) | :o: | Hard | [dp] | :+1:  |
-| 3364 | [Minimum Positive Sum Subarra](./problems/3300-3399/3364/README.md)                                                    |        | Easy   |                                                             |      |
+| 3364 | [Minimum Positive Sum Subarra](./problems/3300-3399/3364/README.md) | :o: | Easy | [arr],[sd] |   |
 | 3365 | [Rearrange K Substrings to Form Target String](./problems/3300-3399/3365/README.md) | :o: | Medium | [str],[hsh] |   |
 | 3366 | [Minimum Array Sum](./problems/3300-3399/3366/README.md)                                                               | :o:    | Medium | [arr],[dp]                                                  |      |
 | 3367 | [Maximize Sum of Weights after Edge Removals](./problems/3300-3399/3367/README.md)                                     | :o:    | Hard   | [dfs],[grd],[tr]                                            |      |

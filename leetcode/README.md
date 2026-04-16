@@ -3542,3 +3542,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3495 | [Minimum Operations to Make Array Elements Zero](./problems/3400-3499/3495/README.md) | :o: | Hard | [math],[lgc] | :+1:  |
 | 3703 | [Remove K-Balanced Substrings](./problems/3700-3799/3703/README.md) | :o: | Medium | [str],[stk] |   |
 | 3462 | [Maximum Sum With at Most K Elements](./problems/3400-3499/3462/README.md) | :o: | Medium | [arr],[grd] |   |
+| 3403 | [Find the Lexicographically Largest String From the Box I](./problems/3400-3499/3403/README.md) | :o: | Medium | [str],[grd] |   |

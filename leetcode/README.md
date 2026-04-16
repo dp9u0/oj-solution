@@ -2435,7 +2435,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2407 | [Longest Increasing Subsequence II](./problems/2400-2499/2407/README.md)                                               |        | Hard   |                                                             |      |
 | 2408 | [Design SQL](./problems/2400-2499/2408/README.md)                                                                      | :lock: | Medium |                                                             |      |
 | 2409 | [Count Days Spent Together](./problems/2400-2499/2409/README.md) | :o: | Easy | [lgc] |   |
-| 2410 | [Maximum Matching of Players With Trainers](./problems/2400-2499/2410/README.md)                                       |        | Medium |                                                             |      |
+| 2410 | [Maximum Matching of Players With Trainers](./problems/2400-2499/2410/README.md) | :o: | Medium | [arr],[grd],[tp] |   |
 | 2411 | [Smallest Subarrays With Maximum Bitwise OR](./problems/2400-2499/2411/README.md)                                      | :o:    | Medium | [arr],[bit]                                                 | :+1: |
 | 2412 | [Minimum Money Required Before Transactions](./problems/2400-2499/2412/README.md)                                      |        | Hard   |                                                             |      |
 | 2413 | [Smallest Even Multiple](./problems/2400-2499/2413/README.md)                                                          |        | Easy   |                                                             |      |

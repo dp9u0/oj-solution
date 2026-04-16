@@ -2462,7 +2462,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2434 | [Using a Robot to Print the Lexicographically Smallest String](./problems/2400-2499/2434/README.md) | :o: | Medium | [str],[stk],[grd] |   |
 | 2435 | [Paths in Matrix Whose Sum Is Divisible by K](./problems/2400-2499/2435/README.md)                                     |        | Hard   |                                                             |      |
 | 2436 | [Minimum Split Into Subarrays With GCD Greater Than One](./problems/2400-2499/2436/README.md)                          | :lock: | Medium |                                                             |      |
-| 2437 | [Number of Valid Clock Times](./problems/2400-2499/2437/README.md)                                                     |        | Easy   |                                                             |      |
+| 2437 | [Number of Valid Clock Times](./problems/2400-2499/2437/README.md) | :o: | Easy | [str],[lgc] |   |
 | 2438 | [Range Product Queries of Powers](./problems/2400-2499/2438/README.md)                                                 |        | Medium |                                                             |      |
 | 2439 | [Minimize Maximum of Array](./problems/2400-2499/2439/README.md)                                                       | :o:    | Medium | [arr],[grd]                                                 |      |
 | 2440 | [Create Components With Same Value](./problems/2400-2499/2440/README.md)                                               |        | Hard   |                                                             |      |

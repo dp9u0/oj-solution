@@ -577,7 +577,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 495  | [Teemo Attacking](./problems/400-499/495/README.md)                                                                    | :o:    | Easy   | [arr]                                                       |      |
 | 496  | [Next Greater Element I](./problems/400-499/496/README.md)                                                             | :o:    | Easy   | [stk],[hsh]                                                 | :+1: |
 | 497  | [Random Point in Non-overlapping Rectangles](./problems/400-499/497/README.md)                                         |        | Medium |                                                             |      |
-| 498  | [Diagonal Traverse](./problems/400-499/498/README.md)                                                                  |        | Medium |                                                             |      |
+| 498 | [Diagonal Traverse](./problems/400-499/498/README.md) | :o: | Medium | [arr],[math] |   |
 | 499  | [The Maze III](./problems/400-499/499/README.md)                                                                       | :lock: | Hard   |                                                             |      |
 | 500  | [Keyboard Row](./problems/500-599/500/README.md)                                                                       | :o:    | Easy   | [string]                                                    | :+1: |
 | 501  | [Find Mode in Binary Search Tree](./problems/500-599/501/README.md)                                                    | :o:    | Easy   | [tr]                                                        | ~    |

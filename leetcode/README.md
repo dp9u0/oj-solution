@@ -1091,7 +1091,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1014 | [Best Sightseeing Pair](./problems/1000-1099/1014/README.md)                                                           | :o:    | Medium | [arr],[dp]                                                  | :+1: |
 | 1015 | [Smallest Integer Divisible by K](./problems/1000-1099/1015/README.md)                                                 | :o:    | Medium | [arr]                                                       |      |
 | 1016 | [Binary String With Substrings Representing 1 To N](./problems/1000-1099/1016/README.md)                               |        | Medium |                                                             |      |
-| 1017 | [Convert to Base -2](./problems/1000-1099/1017/README.md)                                                              |        | Medium |                                                             |      |
+| 1017 | [Convert to Base -2](./problems/1000-1099/1017/README.md) | :o: | Medium | [math],[bit] |   |
 | 1018 | [Binary Prefix Divisible By 5](./problems/1000-1099/1018/README.md)                                                    | :o:    | Easy   | [math]                                                      |      |
 | 1019 | [Next Greater Node In Linked List](./problems/1000-1099/1019/README.md)                                                | :o:    | Medium | [ll],[stk]                                                  |      |
 | 1020 | [Number of Enclaves](./problems/1000-1099/1020/README.md)                                                              | :o:    | Medium | [bfs]                                                       |      |

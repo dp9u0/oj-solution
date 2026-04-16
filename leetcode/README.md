@@ -2016,7 +2016,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1988 | [Find Cutoff Score for Each School](./problems/1900-1999/1988/README.md)                                               | :lock: | Medium |                                                             |      |
 | 1989 | [Maximum Number of People That Can Be Caught in Tag](./problems/1900-1999/1989/README.md)                              | :lock: | Medium |                                                             |      |
 | 1990 | [Count the Number of Experiments](./problems/1900-1999/1990/README.md)                                                 | :lock: | Medium |                                                             |      |
-| 1991 | [Find the Middle Index in Array](./problems/1900-1999/1991/README.md)                                                  |        | Easy   |                                                             |      |
+| 1991 | [Find the Middle Index in Array](./problems/1900-1999/1991/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 1992 | [Find All Groups of Farmland](./problems/1900-1999/1992/README.md)                                                     |        | Medium |                                                             |      |
 | 1993 | [Operations on Tree](./problems/1900-1999/1993/README.md) | :o: | Medium | [des],[tr] |   |
 | 1994 | [The Number of Good Subsets](./problems/1900-1999/1994/README.md)                                                      |        | Hard   |                                                             |      |

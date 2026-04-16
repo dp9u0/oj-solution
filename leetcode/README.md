@@ -3605,3 +3605,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3440 | [Reschedule Meetings for Maximum Free Time II](./problems/3400-3499/3440/README.md) | :o: | Medium | [arr],[grd] |   |
 | 3569 | [Maximize Count of Distinct Primes After Split](./problems/3500-3599/3569/README.md) | :o: | Hard | [ds],[hsh],[math] |   |
 | 3665 | [Twisted Mirror Path Count](./problems/3600-3699/3665/README.md) | :o: | Medium | [dp],[arr] |   |
+| 3688 | [Bitwise OR of Even Numbers in an Array](./problems/3600-3699/3688/README.md) | :o: | Easy | [arr],[bit] |   |

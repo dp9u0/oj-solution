@@ -1847,7 +1847,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1819 | [Number of Different Subsequences GCDs](./problems/1800-1899/1819/README.md)                                           |        | Hard   |                                                             |      |
 | 1820 | [Maximum Number of Accepted Invitations](./problems/1800-1899/1820/README.md)                                          | :lock: | Medium |                                                             |      |
 | 1821 | [Find Customers With Positive Revenue this Year](./problems/1800-1899/1821/README.md)                                  | :lock: | Easy   |                                                             |      |
-| 1822 | [Sign of the Product of an Array](./problems/1800-1899/1822/README.md)                                                 |        | Easy   |                                                             |      |
+| 1822 | [Sign of the Product of an Array](./problems/1800-1899/1822/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 1823 | [Find the Winner of the Circular Game](./problems/1800-1899/1823/README.md)                                            |        | Medium |                                                             |      |
 | 1824 | [Minimum Sideway Jumps](./problems/1800-1899/1824/README.md) | :o: | Medium | [dp],[grd] |   |
 | 1825 | [Finding MK Average](./problems/1800-1899/1825/README.md)                                                              | :o:    | Hard   | [des],[ds]                                                  |      |

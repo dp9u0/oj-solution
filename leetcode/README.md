@@ -3558,3 +3558,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3541 | [Find Most Frequent Vowel and Consonant](./problems/3500-3599/3541/README.md) | :o: | Easy | [str],[hsh] |   |
 | 3545 | [Minimum Deletions for At Most K Distinct Characters](./problems/3500-3599/3545/README.md) | :o: | Easy | [str],[grd] |   |
 | 3736 | [Minimum Moves to Equal Array Elements III](./problems/3700-3799/3736/README.md) | :o: | Easy | [arr],[math] |   |
+| 3727 | [Maximum Alternating Sum of Squares](./problems/3700-3799/3727/README.md) | :o: | Medium | [arr],[math],[grd] |   |

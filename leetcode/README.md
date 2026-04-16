@@ -2567,7 +2567,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2539 | [Count the Number of Good Subsequences](./problems/2500-2599/2539/README.md)                                           | :lock: | Medium |                                                             |      |
 | 2540 | [Minimum Common Value](./problems/2500-2599/2540/README.md)                                                            |        | Easy   |                                                             |      |
 | 2541 | [Minimum Operations to Make Array Equal II](./problems/2500-2599/2541/README.md)                                       | :o:    | Medium | [math],[arr]                                                |      |
-| 2542 | [Maximum Subsequence Score](./problems/2500-2599/2542/README.md)                                                       |        | Medium |                                                             |      |
+| 2542 | [Maximum Subsequence Score](./problems/2500-2599/2542/README.md) | :o: | Medium | [arr],[hp],[grd] | :+1:  |
 | 2543 | [Check if Point Is Reachable](./problems/2500-2599/2543/README.md)                                                     |        | Hard   |                                                             |      |
 | 2544 | [Alternating Digit Sum](./problems/2500-2599/2544/README.md)                                                           |        | Easy   |                                                             |      |
 | 2545 | [Sort the Students by Their Kth Score](./problems/2500-2599/2545/README.md)                                            |        | Medium |                                                             |      |

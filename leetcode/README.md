@@ -530,7 +530,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 448  | [Find All Numbers Disappeared in an Array](./problems/400-499/448/README.md)                                           | :o:    | Easy   | [arr]                                                       |      |
 | 449  | [Serialize and Deserialize BST](./problems/400-499/449/README.md)                                                      |        | Medium |                                                             |      |
 | 450  | [Delete Node in a BST](./problems/400-499/450/README.md)                                                               | :o:    | Medium | [tr]                                                        | :+1: |
-| 451  | [Sort Characters By Frequency](./problems/400-499/451/README.md)                                                       |        | Medium |                                                             |      |
+| 451 | [Sort Characters By Frequency](./problems/400-499/451/README.md) | :o: | Medium | [str],[hsh] |   |
 | 452  | [Minimum Number of Arrows to Burst Balloons](./problems/400-499/452/README.md)                                         | :o:    | Medium | [arr]                                                       | :+1: |
 | 453  | [Minimum Moves to Equal Array Elements](./problems/400-499/453/README.md)                                              | :o:    | Easy   | [math]                                                      |      |
 | 454  | [4Sum II](./problems/400-499/454/README.md)                                                                            | :o:    | Medium | [arr],[hash]                                                |      |

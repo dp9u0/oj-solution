@@ -3594,3 +3594,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3636 | [Threshold Majority Queries](./problems/3600-3699/3636/README.md) | :o: | Hard | [arr],[bs] |   |
 | 3500 | [Minimum Cost to Divide Array Into Subarrays](./problems/3500-3599/3500/README.md) | :o: | Hard | [dp] |   |
 | 3566 | [Partition Array into Two Equal Product Subsets](./problems/3500-3599/3566/README.md) | :o: | Medium | [bt] |   |
+| 3651 | [Minimum Cost Path with Teleportations](./problems/3600-3699/3651/README.md) | :o: | Hard | [dp],[grd] |   |

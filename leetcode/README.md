@@ -882,7 +882,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 805  | [Split Array With Same Average](./problems/800-899/805/README.md)                                                      |        | Hard   |                                                             |      |
 | 806  | [Number of Lines To Write String](./problems/800-899/806/README.md)                                                    | :o:    | Easy   | [str]                                                       |      |
 | 807  | [Max Increase to Keep City Skyline](./problems/800-899/807/README.md)                                                  | :o:    | Medium | [arr],[greedy]                                              |      |
-| 808  | [Soup Servings](./problems/800-899/808/README.md)                                                                      |        | Medium |                                                             |      |
+| 808 | [Soup Servings](./problems/800-899/808/README.md) | :o: | Medium | [math],[dp] |   |
 | 809  | [Expressive Words](./problems/800-899/809/README.md)                                                                   |        | Medium |                                                             |      |
 | 810 | [Chalkboard XOR Game](./problems/800-899/810/README.md) | :o: | Hard | [math],[bit] |   |
 | 811  | [Subdomain Visit Count](./problems/800-899/811/README.md)                                                              | :o:    | Easy   | [str]                                                       |      |

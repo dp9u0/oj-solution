@@ -1743,7 +1743,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1668 | [Maximum Repeating Substring](./problems/1600-1699/1668/README.md)                                                     |        | Easy   |                                                             |      |
 | 1669 | [Merge In Between Linked Lists](./problems/1600-1699/1669/README.md)                                                   | :o:    | Medium | [ll]                                                        |      |
 | 1670 | [Design Front Middle Back Queue](./problems/1600-1699/1670/README.md)                                                  | :o:    | Medium | [des],[q]                                                   |      |
-| 1671 | [Minimum Number of Removals to Make Mountain Array](./problems/1600-1699/1671/README.md)                               |        | Hard   |                                                             |      |
+| 1671 | [Minimum Number of Removals to Make Mountain Array](./problems/1600-1699/1671/README.md) | :o: | Hard | [dp] |   |
 | 1672 | [Richest Customer Wealth](./problems/1600-1699/1672/README.md)                                                         |        | Easy   |                                                             |      |
 | 1673 | [Find the Most Competitive Subsequence](./problems/1600-1699/1673/README.md)                                           |        | Medium |                                                             |      |
 | 1674 | [Minimum Moves to Make Array Complementary](./problems/1600-1699/1674/README.md)                                       |        | Medium |                                                             |      |

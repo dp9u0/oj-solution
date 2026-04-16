@@ -3560,3 +3560,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3736 | [Minimum Moves to Equal Array Elements III](./problems/3700-3799/3736/README.md) | :o: | Easy | [arr],[math] |   |
 | 3727 | [Maximum Alternating Sum of Squares](./problems/3700-3799/3727/README.md) | :o: | Medium | [arr],[math],[grd] |   |
 | 3875 | [Construct Uniform Parity Array I](./problems/3800-3899/3875/README.md) | :o: | Easy | [math],[lgc] |   |
+| 3676 | [Count Bowl Subarrays](./problems/3600-3699/3676/README.md) | :o: | Medium | [arr],[stk] |   |

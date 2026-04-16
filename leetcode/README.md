@@ -3563,3 +3563,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3676 | [Count Bowl Subarrays](./problems/3600-3699/3676/README.md) | :o: | Medium | [arr],[stk] |   |
 | 3467 | [Transform Array by Parity](./problems/3400-3499/3467/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 3588 | [Find Maximum Area of a Triangle](./problems/3500-3599/3588/README.md) | :o: | Medium | [arr],[math] |   |
+| 3842 | [Toggle Light Bulbs](./problems/3800-3899/3842/README.md) | :o: | Easy | [arr],[hsh] |   |

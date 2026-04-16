@@ -3583,3 +3583,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3722 | [Lexicographically Smallest String After Reverse](./problems/3700-3799/3722/README.md) | :o: | Medium | [str],[lgc] |   |
 | 3889 | [Mirror Frequency Distance](./problems/3800-3899/3889/README.md) | :o: | Medium | [str],[hsh] |   |
 | 3654 | [Minimum Sum After Divisible Sum Deletions](./problems/3600-3699/3654/README.md) | :o: | Medium | [dp] |   |
+| 3499 | [Maximize Active Section with Trade I](./problems/3400-3499/3499/README.md) | :o: | Medium | [str],[grd] |   |

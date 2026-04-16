@@ -3458,7 +3458,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3478 | [Choose K Elements With Maximum Sum](./problems/3400-3499/3478/README.md)                                              | :o:    | Medium | [hp],[grd]                                                  |      |
 | 3483 | [Unique 3-Digit Even Numbers](./problems/3400-3499/3483/README.md)                                                     | :o:    | Easy   | [arr],[math]                                                |      |
 | 3487 | [Maximum Unique Subarray Sum After Deletion](./problems/3400-3499/3487/README.md)                                      | :o:    | Easy   | [arr],[hsh]                                                 |      |
-| 3488 | [Closest Equal Element Queries](./problems/3400-3499/3488/README.md)                                                   | :o:    | Medium | [arr],[hsh]                                                 |      |
+| 3488 | [Closest Equal Element Queries](./problems/3400-3499/3488/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 3492 | [Maximum Containers on a Ship](./problems/3400-3499/3492/README.md)                                                    | :o:    | Easy   | [math]                                                      |      |
 | 3495 | [Minimum Operations to Make Array Elements Zero](./problems/3400-3499/3495/README.md)                                  | :o:    | Hard   | [math],[lgc]                                                | :+1: |
 | 3499 | [Maximize Active Section with Trade I](./problems/3400-3499/3499/README.md)                                            | :o:    | Medium | [str],[grd]                                                 |      |

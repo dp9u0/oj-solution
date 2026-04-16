@@ -1299,7 +1299,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1224 | [Maximum Equal Frequency](./problems/1200-1299/1224/README.md) | :o: | Hard | [hsh],[arr] |   |
 | 1225 | [Report Contiguous Dates](./problems/1200-1299/1225/README.md)                                                         | :lock: | Hard   |                                                             |      |
 | 1226 | [1226](./problems/1200-1299/1226/README.md)                                                                            |        | Easy   |                                                             |      |
-| 1227 | [Airplane Seat Assignment Probability](./problems/1200-1299/1227/README.md)                                            |        | Medium |                                                             |      |
+| 1227 | [Airplane Seat Assignment Probability](./problems/1200-1299/1227/README.md) | :o: | Medium | [math],[lgc] |   |
 | 1228 | [Missing Number In Arithmetic Progression](./problems/1200-1299/1228/README.md)                                        | :lock: | Easy   |                                                             |      |
 | 1229 | [Meeting Scheduler](./problems/1200-1299/1229/README.md)                                                               | :lock: | Medium |                                                             |      |
 | 1230 | [Toss Strange Coins](./problems/1200-1299/1230/README.md)                                                              | :lock: | Medium |                                                             |      |

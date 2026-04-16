@@ -2882,7 +2882,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2854 | [Rolling Average Steps](./problems/2800-2899/2854/README.md)                                                           | :lock: | Medium |                                                             |      |
 | 2855 | [Minimum Right Shifts to Sort the Array](./problems/2800-2899/2855/README.md)                                          | :o:    | Easy   | [arr]                                                       |      |
 | 2856 | [Minimum Array Length After Pair Removals](./problems/2800-2899/2856/README.md) | :o: | Medium | [arr],[math] |   |
-| 2857 | [Count Pairs of Points With Distance k](./problems/2800-2899/2857/README.md)                                           |        | Medium |                                                             |      |
+| 2857 | [Count Pairs of Points With Distance k](./problems/2800-2899/2857/README.md) | :o: | Medium | [bit],[hsh] |   |
 | 2858 | [Minimum Edge Reversals So Every Node Is Reachable](./problems/2800-2899/2858/README.md) | :o: | Hard | [tr],[dp] |   |
 | 2859 | [Sum of Values at Indices With K Set Bits](./problems/2800-2899/2859/README.md)                                        |        | Easy   |                                                             |      |
 | 2860 | [Happy Students](./problems/2800-2899/2860/README.md)                                                                  |        | Medium |                                                             |      |

@@ -2591,7 +2591,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2563 | [Count the Number of Fair Pairs](./problems/2500-2599/2563/README.md)                                                  | :o:    | Medium | [arr],[tp],[bs]                                             |      |
 | 2564 | [Substring XOR Queries](./problems/2500-2599/2564/README.md) | :o: | Medium | [str],[bit],[hsh] |   |
 | 2565 | [Subsequence With the Minimum Score](./problems/2500-2599/2565/README.md)                                              |        | Hard   |                                                             |      |
-| 2566 | [Maximum Difference by Remapping a Digit](./problems/2500-2599/2566/README.md)                                         |        | Easy   |                                                             |      |
+| 2566 | [Maximum Difference by Remapping a Digit](./problems/2500-2599/2566/README.md) | :o: | Easy | [math],[lgc] |   |
 | 2567 | [Minimum Score by Changing Two Elements](./problems/2500-2599/2567/README.md)                                          | :o:    | Medium | [arr],[greedy]                                              |      |
 | 2568 | [Minimum Impossible OR](./problems/2500-2599/2568/README.md) | :o: | Medium | [bit],[hsh] |   |
 | 2569 | [Handling Sum Queries After Update](./problems/2500-2599/2569/README.md)                                               |        | Hard   |                                                             |      |

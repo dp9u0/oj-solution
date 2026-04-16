@@ -3598,3 +3598,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3729 | [Count Distinct Subarrays Divisible by K in Sorted Array](./problems/3700-3799/3729/README.md) | :o: | Hard | [arr],[hsh] |   |
 | 1774 | [Closest Dessert Cost](./problems/1700-1799/1774/README.md) | :o: | Medium | [dp] |   |
 | 3797 | [Count Routes to Climb a Rectangular Grid](./problems/3700-3799/3797/README.md) | :o: | Hard | [dp],[grf] |   |
+| 3721 | [Longest Balanced Subarray II](./problems/3700-3799/3721/README.md) | :o: | Hard | [arr],[dc] | :+1:  |

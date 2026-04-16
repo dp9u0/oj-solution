@@ -2825,7 +2825,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2784 | [Check if Array is Good](./problems/2700-2799/2784/README.md)                                                          | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2785 | [Sort Vowels in a String](./problems/2700-2799/2785/README.md)                                                         | :o:    | Medium | [str]                                                       |      |
 | 2786 | [Visit Array Positions to Maximize Score](./problems/2700-2799/2786/README.md)                                         | :o:    | Medium | [dp]                                                        |      |
-| 2787 | [Ways to Express an Integer as Sum of Powers](./problems/2700-2799/2787/README.md)                                     |        | Medium |                                                             |      |
+| 2787 | [Ways to Express an Integer as Sum of Powers](./problems/2700-2799/2787/README.md) | :o: | Medium | [dp] |   |
 | 2788 | [Split Strings by Separator](./problems/2700-2799/2788/README.md)                                                      | :o:    | Easy   | [str],[arr]                                                 |      |
 | 2789 | [Largest Element in an Array after Merge Operations](./problems/2700-2799/2789/README.md)                              | :o:    | Medium | [arr],[greedy]                                              |      |
 | 2790 | [Maximum Number of Groups With Increasing Length](./problems/2700-2799/2790/README.md)                                 |        | Hard   |                                                             |      |

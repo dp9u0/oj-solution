@@ -1432,7 +1432,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1357 | [Apply Discount Every n Orders](./problems/1300-1399/1357/README.md)                                                   |        | Medium |                                                             |      |
 | 1358 | [Number of Substrings Containing All Three Characters](./problems/1300-1399/1358/README.md)                            | :o:    | Medium | [str],[tp]                                                  | :+1: |
 | 1359 | [Count All Valid Pickup and Delivery Options](./problems/1300-1399/1359/README.md)                                     | :o:    | Hard   | [math],[dp]                                                 |      |
-| 1360 | [Number of Days Between Two Dates](./problems/1300-1399/1360/README.md)                                                |        | Easy   |                                                             |      |
+| 1360 | [Number of Days Between Two Dates](./problems/1300-1399/1360/README.md) | :o: | Easy | [math],[lgc] |   |
 | 1361 | [Validate Binary Tree Nodes](./problems/1300-1399/1361/README.md) | :o: | Medium | [tr],[ds],[bfs] |   |
 | 1362 | [Closest Divisors](./problems/1300-1399/1362/README.md)                                                                | :o:    | Medium | [math]                                                      |      |
 | 1363 | [Largest Multiple of Three](./problems/1300-1399/1363/README.md) | :o: | Hard | [arr],[math] |   |

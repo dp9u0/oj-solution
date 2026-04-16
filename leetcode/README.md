@@ -2104,7 +2104,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2076 | [Process Restricted Friend Requests](./problems/2000-2099/2076/README.md) | :o: | Hard | [ds],[grf] |   |
 | 2077 | [Paths in Maze That Lead to Same Room](./problems/2000-2099/2077/README.md)                                            | :lock: | Medium |                                                             |      |
 | 2078 | [Two Furthest Houses With Different Colors](./problems/2000-2099/2078/README.md)                                       | :o:    | Easy   | [arr],[tp]                                                  |      |
-| 2079 | [2079](./problems/2000-2099/2079/README.md)                                                                            |        | Easy   |                                                             |      |
+| 2079 | [2079](./problems/2000-2099/2079/README.md) | :o: | Medium | [arr],[lgc] |   |
 | 2080 | [2080](./problems/2000-2099/2080/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2081 | [Sum of k-Mirror Numbers](./problems/2000-2099/2081/README.md)                                                         |        | Hard   |                                                             |      |
 | 2082 | [The Number of Rich Customers](./problems/2000-2099/2082/README.md)                                                    | :lock: | Easy   |                                                             |      |

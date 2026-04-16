@@ -2746,7 +2746,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2705 | [2705](./problems/2700-2799/2705/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2706 | [Buy Two Chocolates](./problems/2700-2799/2706/README.md)                                                              | :o:    | Easy   | [arr],[grd]                                                 |      |
 | 2707 | [Extra Characters in a String](./problems/2700-2799/2707/README.md)                                                    | :o:    | Medium | [dp]                                                        |      |
-| 2708 | [Maximum Strength of a Group](./problems/2700-2799/2708/README.md)                                                     |        | Medium |                                                             |      |
+| 2708 | [Maximum Strength of a Group](./problems/2700-2799/2708/README.md) | :o: | Medium | [bt] |   |
 | 2709 | [Greatest Common Divisor Traversal](./problems/2700-2799/2709/README.md)                                               |        | Hard   |                                                             |      |
 | 2710 | [Remove Trailing Zeros From a String](./problems/2700-2799/2710/README.md)                                             |        | Easy   |                                                             |      |
 | 2711 | [Difference of Number of Distinct Values on Diagonals](./problems/2700-2799/2711/README.md)                            | :o:    | Medium | [arr],[matrix]                                              |      |

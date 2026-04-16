@@ -2924,7 +2924,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2896 | [Apply Operations to Make Two Strings Equal](./problems/2800-2899/2896/README.md) | :o: | Medium | [dp] |   |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](./problems/2800-2899/2897/README.md)                            | :o:    | Hard   | [bit]                                                       |      |
 | 2898 | [Maximum Linear Stock Score](./problems/2800-2899/2898/README.md)                                                      | :lock: | Medium |                                                             |      |
-| 2899 | [Last Visited Integers](./problems/2800-2899/2899/README.md)                                                           |        | Easy   |                                                             |      |
+| 2899 | [Last Visited Integers](./problems/2800-2899/2899/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 2900 | [Longest Unequal Adjacent Groups Subsequence I](./problems/2900-2999/2900/README.md)                                   |        | Easy   |                                                             |      |
 | 2901 | [Longest Unequal Adjacent Groups Subsequence II](./problems/2900-2999/2901/README.md)                                  |        | Medium |                                                             |      |
 | 2902 | [Count of Sub-Multisets With Bounded Sum](./problems/2900-2999/2902/README.md) | :o: | Hard | [dp],[hsh] |   |

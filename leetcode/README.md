@@ -3591,3 +3591,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3490 | [Count Beautiful Numbers](./problems/3400-3499/3490/README.md) | :o: | Hard | [dp],[math] |   |
 | 3854 | [Minimum Operations to Make Array Parity Alternating](./problems/3800-3899/3854/README.md) | :o: | Medium | [arr],[grd] |   |
 | 3848 | [Check Digitorial Permutation](./problems/3800-3899/3848/README.md) | :o: | Medium | [math] |   |
+| 3636 | [Threshold Majority Queries](./problems/3600-3699/3636/README.md) | :o: | Hard | [arr],[bs] |   |

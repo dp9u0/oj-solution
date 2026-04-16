@@ -2971,7 +2971,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2943 | [Maximize Area of Square Hole in Grid](./problems/2900-2999/2943/README.md) | :o: | Medium | [arr],[grd] |   |
 | 2944 | [Minimum Number of Coins for Fruits](./problems/2900-2999/2944/README.md)                                              | :o:    | Medium | [dp],[arr]                                                  |      |
 | 2945 | [Find Maximum Non-decreasing Array Length](./problems/2900-2999/2945/README.md)                                        |        | Hard   |                                                             |      |
-| 2946 | [Matrix Similarity After Cyclic Shifts](./problems/2900-2999/2946/README.md)                                           |        | Easy   |                                                             |      |
+| 2946 | [Matrix Similarity After Cyclic Shifts](./problems/2900-2999/2946/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 2947 | [Count Beautiful Substrings I](./problems/2900-2999/2947/README.md)                                                    | :o:    | Medium | [str],[arr]                                                 |      |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./problems/2900-2999/2948/README.md)                      | :o:    | Medium | [arr]                                                       |      |
 | 2949 | [Count Beautiful Substrings II](./problems/2900-2999/2949/README.md)                                                   |        | Hard   |                                                             |      |

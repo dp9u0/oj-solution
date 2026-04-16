@@ -3156,7 +3156,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3128 | [Right Triangles](./problems/3100-3199/3128/README.md)                                                                 | :o:    | Medium | [hash]                                                      |      |
 | 3129 | [Find All Possible Stable Binary Arrays I](./problems/3100-3199/3129/README.md)                                        | :o:    | Medium | [dp]                                                        |      |
 | 3130 | [Find All Possible Stable Binary Arrays II](./problems/3100-3199/3130/README.md)                                       |        | Hard   |                                                             |      |
-| 3131 | [Find the Integer Added to Array I](./problems/3100-3199/3131/README.md)                                               |        | Easy   |                                                             |      |
+| 3131 | [Find the Integer Added to Array I](./problems/3100-3199/3131/README.md) | :o: | Easy | [arr],[math] |   |
 | 3132 | [Find the Integer Added to Array II](./problems/3100-3199/3132/README.md)                                              | :o:    | Medium | [arr],[grd]                                                 |      |
 | 3133 | [Minimum Array End](./problems/3100-3199/3133/README.md)                                                               |        | Medium |                                                             |      |
 | 3134 | [Find the Median of the Uniqueness Array](./problems/3100-3199/3134/README.md)                                         |        | Hard   |                                                             |      |

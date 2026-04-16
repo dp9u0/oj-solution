@@ -1245,7 +1245,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1168 | [Optimize Water Distribution in a Village](./problems/1100-1199/1168/README.md)                                        | :lock: | Hard   |                                                             |      |
 | 1169 | [Invalid Transactions](./problems/1100-1199/1169/README.md)                                                            |        | Medium |                                                             |      |
 | 1170 | [Compare Strings by Frequency of the Smallest Character](./problems/1100-1199/1170/README.md)                          |        | Easy   |                                                             |      |
-| 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](./problems/1100-1199/1171/README.md)                              |        | Medium |                                                             |      |
+| 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](./problems/1100-1199/1171/README.md) | :o: | Medium | [ll],[hsh] |   |
 | 1172 | [Dinner Plate Stacks](./problems/1100-1199/1172/README.md) | :o: | Hard | [des],[stk],[hp] |   |
 | 1173 | [Immediate Food Delivery I](./problems/1100-1199/1173/README.md)                                                       | :lock: | Easy   |                                                             |      |
 | 1174 | [Immediate Food Delivery II](./problems/1100-1199/1174/README.md)                                                      | :lock: | Medium |                                                             |      |

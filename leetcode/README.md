@@ -2742,7 +2742,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2714 | [Find Shortest Path with K Hops](./problems/2700-2799/2714/README.md)                                                  | :lock: | Hard   |                                                             |      |
 | 2715 | [2715](./problems/2700-2799/2715/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2716 | [Minimize String Length](./problems/2700-2799/2716/README.md)                                                          | :o:    | Easy   | [str]                                                       |      |
-| 2717 | [Semi-Ordered Permutation](./problems/2700-2799/2717/README.md)                                                        |        | Easy   |                                                             |      |
+| 2717 | [Semi-Ordered Permutation](./problems/2700-2799/2717/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 2718 | [Sum of Matrix After Queries](./problems/2700-2799/2718/README.md)                                                     | :o:    | Medium | [arr],[grd]                                                 |      |
 | 2719 | [Count of Integers](./problems/2700-2799/2719/README.md)                                                               |        | Hard   |                                                             |      |
 | 2720 | [Popularity Percentage](./problems/2700-2799/2720/README.md)                                                           | :lock: | Hard   |                                                             |      |

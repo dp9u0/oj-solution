@@ -3534,3 +3534,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3669 | [Balanced K-Factor Decomposition](./problems/3600-3699/3669/README.md) | :o: | Medium | [math],[dc] |   |
 | 3820 | [Pythagorean Distance Nodes in a Tree](./problems/3800-3899/3820/README.md) | :o: | Medium | [tr],[bfs],[math] |   |
 | 3585 | [Find Weighted Median Node in Tree](./problems/3500-3599/3585/README.md) | :o: | Hard | [grf],[bfs],[ds] |   |
+| 3638 | [Maximum Balanced Shipments](./problems/3600-3699/3638/README.md) | :o: | Medium | [dp],[stk] |   |

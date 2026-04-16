@@ -476,7 +476,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 394  | [Decode String](./problems/300-399/394/README.md)                                                                      | :o:    | Medium | [stk]                                                       | :+1: |
 | 395  | [Longest Substring with At Least K Repeating Characters](./problems/300-399/395/README.md)                             | :o:    | Medium | [str],[tp]                                                  | :+1: |
 | 396  | [Rotate Function](./problems/300-399/396/README.md)                                                                    | :o:    | Medium | [arr],[math]                                                |      |
-| 397  | [Integer Replacement](./problems/300-399/397/README.md)                                                                |        | Medium |                                                             |      |
+| 397 | [Integer Replacement](./problems/300-399/397/README.md) | :o: | Medium | [math],[bit] |   |
 | 398  | [Random Pick Index](./problems/300-399/398/README.md)                                                                  |        | Medium |                                                             |      |
 | 399  | [Evaluate Division](./problems/300-399/399/README.md)                                                                  | :o:    | Medium | [graph],[unionfind]                                         | :+1: |
 | 400  | [Nth Digit](./problems/400-499/400/README.md)                                                                          | :o:    | Easy   | [math]                                                      |      |

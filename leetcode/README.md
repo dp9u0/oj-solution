@@ -2466,7 +2466,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2425 | [Bitwise XOR of All Pairings](./problems/2400-2499/2425/README.md)                                                     | :o:    | Medium | [arr],[bit]                                                 |      |
 | 2426 | [Number of Pairs Satisfying Inequality](./problems/2400-2499/2426/README.md) | :o: | Hard | [arr],[dc] | :+1:  |
 | 2427 | [Number of Common Factors](./problems/2400-2499/2427/README.md)                                                        | :o:    | Easy   | [arr]                                                       |      |
-| 2428 | [Maximum Sum of an Hourglass](./problems/2400-2499/2428/README.md)                                                     |        | Medium |                                                             |      |
+| 2428 | [Maximum Sum of an Hourglass](./problems/2400-2499/2428/README.md) | :o: | Medium | [arr] |   |
 | 2429 | [Minimize XOR](./problems/2400-2499/2429/README.md)                                                                    | :o:    | Medium | [bit]                                                       |      |
 | 2430 | [Maximum Deletions on a String](./problems/2400-2499/2430/README.md)                                                   |        | Hard   |                                                             |      |
 | 2431 | [Maximize Total Tastiness of Purchased Fruits](./problems/2400-2499/2431/README.md)                                    | :lock: | Medium |                                                             |      |

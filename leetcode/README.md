@@ -2210,7 +2210,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2169 | [Count Operations to Obtain Zero](./problems/2100-2199/2169/README.md)                                                 | :o:    | Easy   | [math]                                                      |      |
 | 2170 | [Minimum Operations to Make the Array Alternating](./problems/2100-2199/2170/README.md)                                | :o:    | Medium | [hsh],[grd]                                                 |      |
 | 2171 | [Removing Minimum Number of Magic Beans](./problems/2100-2199/2171/README.md)                                          | :o:    | Medium | [arr],[grd]                                                 |      |
-| 2172 | [Maximum AND Sum of Array](./problems/2100-2199/2172/README.md)                                                        |        | Hard   |                                                             |      |
+| 2172 | [Maximum AND Sum of Array](./problems/2100-2199/2172/README.md) | :o: | Hard | [dp],[bit] |   |
 | 2173 | [Longest Winning Streak](./problems/2100-2199/2173/README.md)                                                          | :lock: | Hard   |                                                             |      |
 | 2174 | [Remove All Ones With Row and Column Flips II](./problems/2100-2199/2174/README.md)                                    | :lock: | Medium |                                                             |      |
 | 2175 | [The Change in Global Rankings](./problems/2100-2199/2175/README.md)                                                   | :lock: | Medium |                                                             |      |

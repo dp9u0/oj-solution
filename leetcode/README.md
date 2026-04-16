@@ -3414,7 +3414,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3373 | [Maximize the Number of Target Nodes After Connecting Trees II](./problems/3300-3399/3373/README.md)                   |        | Hard   |                                                             |      |
 | 3374 | [First Letter Capitalization II](./problems/3300-3399/3374/README.md)                                                  | :soon: | Hard   |                                                             |      |
 | 3375 | [Minimum Operations to Make Array Values Equal to K](./problems/3300-3399/3375/README.md)                              |        | Easy   |                                                             |      |
-| 3376 | [Minimum Time to Break Locks I](./problems/3300-3399/3376/README.md)                                                   |        | Medium |                                                             |      |
+| 3376 | [Minimum Time to Break Locks I](./problems/3300-3399/3376/README.md) | :o: | Medium | [dp],[bit] |   |
 | 3377 | [Digit Operations to Make Two Integers Equal](./problems/3300-3399/3377/README.md)                                     |        | Medium |                                                             |      |
 | 3378 | [Count Connected Components in LCM Graph](./problems/3300-3399/3378/README.md)                                         | :o:    | Hard   | [ds],[math]                                                 |      |
 | 3379 | [Transformed Array](./problems/3300-3399/3379/README.md)                                                               | :o:    | Easy   | [arr],[lgc]                                                 |      |

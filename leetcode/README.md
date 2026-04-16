@@ -1571,7 +1571,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1496 | [Path Crossing](./problems/1400-1499/1496/README.md)                                                                   | :o:    | Easy   | [hsh]                                                       |      |
 | 1497 | [Check If Array Pairs Are Divisible by k](./problems/1400-1499/1497/README.md)                                         | :o:    | Medium | [arr],[hsh]                                                 |      |
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](./problems/1400-1499/1498/README.md) | :o: | Medium | [arr],[tp],[bs] |   |
-| 1499 | [Max Value of Equation](./problems/1400-1499/1499/README.md)                                                           |        | Hard   |                                                             |      |
+| 1499 | [Max Value of Equation](./problems/1400-1499/1499/README.md) | :o: | Hard | [arr],[sd],[dp] | :+1:  |
 | 1500 | [Design a File Sharing System](./problems/1500-1599/1500/README.md)                                                    | :lock: | Medium |                                                             |      |
 | 1501 | [Countries You Can Safely Invest In](./problems/1500-1599/1501/README.md)                                              | :lock: | Medium |                                                             |      |
 | 1502 | [Can Make Arithmetic Progression From Sequence](./problems/1500-1599/1502/README.md)                                   | :o:    | Easy   | [arr],[sort]                                                |      |

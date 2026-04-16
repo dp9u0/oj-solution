@@ -1338,7 +1338,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1263 | [Minimum Moves to Move a Box to Their Target Location](./problems/1200-1299/1263/README.md)                            |        | Hard   |                                                             |      |
 | 1264 | [Page Recommendations](./problems/1200-1299/1264/README.md)                                                            | :lock: | Medium |                                                             |      |
 | 1265 | [Print Immutable Linked List in Reverse](./problems/1200-1299/1265/README.md)                                          | :lock: | Medium |                                                             |      |
-| 1266 | [Minimum Time Visiting All Points](./problems/1200-1299/1266/README.md)                                                |        | Easy   |                                                             |      |
+| 1266 | [Minimum Time Visiting All Points](./problems/1200-1299/1266/README.md) | :o: | Easy | [arr],[math] |   |
 | 1267 | [Count Servers that Communicate](./problems/1200-1299/1267/README.md)                                                  |        | Medium |                                                             |      |
 | 1268 | [Search Suggestions System](./problems/1200-1299/1268/README.md)                                                       |        | Medium |                                                             |      |
 | 1269 | [Number of Ways to Stay in the Same Place After Some Steps](./problems/1200-1299/1269/README.md)                       |        | Hard   |                                                             |      |

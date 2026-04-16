@@ -3609,3 +3609,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3473 | [Sum of K Subarrays With Length at Least M](./problems/3400-3499/3473/README.md) | :o: | Medium | [dp],[arr] |   |
 | 3677 | [Count Binary Palindromic Numbers](./problems/3600-3699/3677/README.md) | :o: | Hard | [math],[bit] |   |
 | 3494 | [Find the Minimum Amount of Time to Brew Potions](./problems/3400-3499/3494/README.md) | :o: | Medium | [arr],[math] |   |
+| 3689 | [Maximum Total Subarray Value I](./problems/3600-3699/3689/README.md) | :o: | Medium | [arr],[grd] |   |

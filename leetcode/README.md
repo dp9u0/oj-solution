@@ -1993,7 +1993,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1952 | [Three Divisors](./problems/1900-1999/1952/README.md)                                                                  | :o:    | Easy   | [math]                                                      |      |
 | 1953 | [Maximum Number of Weeks for Which You Can Work](./problems/1900-1999/1953/README.md)                                  |        | Medium |                                                             |      |
 | 1954 | [1954](./problems/1900-1999/1954/README.md)                                                                            | :o:    | Medium | [math],[bs]                                                 |      |
-| 1955 | [Count Number of Special Subsequences](./problems/1900-1999/1955/README.md)                                            |        | Hard   |                                                             |      |
+| 1955 | [Count Number of Special Subsequences](./problems/1900-1999/1955/README.md) | :o: | Hard | [dp] | :+1:  |
 | 1956 | [Minimum Time For K Virus Variants to Spread](./problems/1900-1999/1956/README.md)                                     | :lock: | Hard   |                                                             |      |
 | 1957 | [1957](./problems/1900-1999/1957/README.md)                                                                            | :o:    | Easy   | [str]                                                       |      |
 | 1958 | [Check if Move is Legal](./problems/1900-1999/1958/README.md)                                                          | :o:    | Medium | [arr],[lgc]                                                 |      |

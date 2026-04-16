@@ -2225,7 +2225,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2197 | [Replace Non-Coprime Numbers in Array](./problems/2100-2199/2197/README.md)                                            |        | Hard   |                                                             |      |
 | 2198 | [2198](./problems/2100-2199/2198/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2199 | [Finding the Topic of Each Post](./problems/2100-2199/2199/README.md)                                                  | :lock: | Hard   |                                                             |      |
-| 2200 | [Find All K-Distant Indices in an Array](./problems/2200-2299/2200/README.md)                                          |        | Easy   |                                                             |      |
+| 2200 | [Find All K-Distant Indices in an Array](./problems/2200-2299/2200/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 2201 | [2201](./problems/2200-2299/2201/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2202 | [2202](./problems/2200-2299/2202/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2203 | [Minimum Weighted Subgraph With the Required Paths](./problems/2200-2299/2203/README.md)                               |        | Hard   |                                                             |      |

@@ -3587,3 +3587,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3884 | [First Matching Character From Both Ends](./problems/3800-3899/3884/README.md)                                         | :o:    | Easy   | [arr]                                                       |      |
 | 3889 | [Mirror Frequency Distance](./problems/3800-3899/3889/README.md)                                                       | :o:    | Medium | [str],[hsh]                                                 |      |
 | 3890 | [Integers With Multiple Sum of Two Cubes](./problems/3800-3899/3890/README.md)                                         | :o:    | Medium | [arr],[hash]                                                |      |
+| 3433 | [Count Mentions Per User](./problems/3400-3499/3433/README.md) | :o: | Medium | [arr],[lgc] |   |

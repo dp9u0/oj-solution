@@ -3573,3 +3573,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3396 | [Minimum Number of Operations to Make Elements in Array Distinct](./problems/3300-3399/3396/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 3737 | [Count Subarrays With Majority Element I](./problems/3700-3799/3737/README.md) | :o: | Medium | [arr],[math] |   |
 | 3527 | [Find the Most Common Response](./problems/3500-3599/3527/README.md) | :o: | Medium | [arr],[hsh] |   |
+| 1773 | [Count Items Matching a Rule](./problems/1700-1799/1773/README.md) | :o: | Easy | [arr],[hsh] |   |

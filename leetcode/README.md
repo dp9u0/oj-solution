@@ -2073,7 +2073,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2032 | [Two Out of Three](./problems/2000-2099/2032/README.md)                                                                | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](./problems/2000-2099/2033/README.md)                                     | :o:    | Medium | [arr],[math]                                                |      |
 | 2034 | [Stock Price Fluctuation](./problems/2000-2099/2034/README.md)                                                         | :o:    | Medium | [des],[hp]                                                  |      |
-| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./problems/2000-2099/2035/README.md)                      |        | Hard   |                                                             |      |
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./problems/2000-2099/2035/README.md) | :o: | Hard | [dp],[bit] | :+1:  |
 | 2036 | [2036](./problems/2000-2099/2036/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2037 | [Minimum Number of Moves to Seat Everyone](./problems/2000-2099/2037/README.md)                                        | :o:    | Easy   | [arr],[sort]                                                |      |
 | 2038 | [Remove Colored Pieces if Both Neighbors are the Same Color](./problems/2000-2099/2038/README.md)                      | :o:    | Medium | [str],[greedy]                                              |      |

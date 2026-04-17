@@ -2305,7 +2305,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2264 | [Largest 3-Same-Digit Number in String](./problems/2200-2299/2264/README.md)                                           | :o:    | Easy   | [str]                                                       |      |
 | 2265 | [Count Nodes Equal to Average of Subtree](./problems/2200-2299/2265/README.md)                                         | :o:    | Medium | [tr],[dfs]                                                  |      |
 | 2266 | [Count Number of Texts](./problems/2200-2299/2266/README.md)                                                           | :o:    | Medium | [str],[dp]                                                  |      |
-| 2267 | [Check if There Is a Valid Parentheses String Path](./problems/2200-2299/2267/README.md)                               |        | Hard   |                                                             |      |
+| 2267 | [Check if There Is a Valid Parentheses String Path](./problems/2200-2299/2267/README.md) | :o: | Hard | [dp] |   |
 | 2268 | [Minimum Number of Keypresses](./problems/2200-2299/2268/README.md)                                                    | :lock: | Medium |                                                             |      |
 | 2269 | [2269](./problems/2200-2299/2269/README.md)                                                                            | :o:    | Easy   | [str],[sd]                                                  |      |
 | 2270 | [Number of Ways to Split Array](./problems/2200-2299/2270/README.md)                                                   | :o:    | Medium | [arr]                                                       |      |

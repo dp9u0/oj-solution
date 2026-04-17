@@ -2176,7 +2176,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2135 | [Count Words Obtained After Adding a Letter](./problems/2100-2199/2135/README.md)                                      |        | Medium |                                                             |      |
 | 2136 | [Earliest Possible Day of Full Bloom](./problems/2100-2199/2136/README.md)                                             | :o:    | Hard   | [greedy]                                                    |      |
 | 2137 | [Pour Water Between Buckets to Make Water Levels Equal](./problems/2100-2199/2137/README.md)                           | :lock: | Medium |                                                             |      |
-| 2138 | [Divide a String Into Groups of Size k](./problems/2100-2199/2138/README.md)                                           |        | Easy   |                                                             |      |
+| 2138 | [Divide a String Into Groups of Size k](./problems/2100-2199/2138/README.md) | :o: | Easy | [str] |   |
 | 2139 | [2139](./problems/2100-2199/2139/README.md)                                                                            | :o:    | Medium | [grd]                                                       |      |
 | 2140 | [Solving Questions With Brainpower](./problems/2100-2199/2140/README.md)                                               | :o:    | Medium | [dp]                                                        |      |
 | 2141 | [Maximum Running Time of N Computers](./problems/2100-2199/2141/README.md)                                             |        | Hard   |                                                             |      |

@@ -3540,7 +3540,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3746 | [Minimum String Length After Balanced Removals](./problems/3700-3799/3746/README.md)                                   | :o:    | Medium | [str],[lgc]                                                 |      |
 | 3747 | [Count Distinct Integers After Removing Zeros](./problems/3700-3799/3747/README.md)                                    | :o:    | Medium | [math]                                                      |      |
 | 3755 | [Find Maximum Balanced XOR Subarray Length](./problems/3700-3799/3755/README.md)                                       | :o:    | Medium | [arr],[bit],[hsh]                                           |      |
-| 3761 | [Minimum Absolute Distance Between Mirror Pairs](./problems/3700-3799/3761/README.md)                                  | :o:    | Medium | [arr],[hsh],[math]                                          |      |
+| 3761 | [Minimum Absolute Distance Between Mirror Pairs](./problems/3700-3799/3761/README.md) | :o: | Medium | [hsh] |   |
 | 3766 | [Minimum Operations to Make Binary Palindrome](./problems/3700-3799/3766/README.md)                                    | :o:    | Medium | [bit],[arr]                                                 |      |
 | 3769 | [Sort Integers by Binary Reflection](./problems/3700-3799/3769/README.md)                                              | :o:    | Easy   | [arr],[bit]                                                 |      |
 | 3771 | [Total Score of Dungeon Runs](./problems/3700-3799/3771/README.md)                                                     | :o:    | Medium | [arr],[ds]                                                  |      |

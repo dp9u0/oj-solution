@@ -1416,7 +1416,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1341 | [Movie Rating](./problems/1300-1399/1341/README.md)                                                                    | :lock: | Medium |                                                             |      |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./problems/1300-1399/1342/README.md)                                      | :o:    | Easy   | [bit]                                                       |      |
 | 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./problems/1300-1399/1343/README.md)   | :o:    | Medium | [arr],[tp]                                                  |      |
-| 1344 | [Angle Between Hands of a Clock](./problems/1300-1399/1344/README.md)                                                  |        | Medium |                                                             |      |
+| 1344 | [Angle Between Hands of a Clock](./problems/1300-1399/1344/README.md) | :o: | Medium | [math] |   |
 | 1345 | [Jump Game IV](./problems/1300-1399/1345/README.md)                                                                    |        | Hard   |                                                             |      |
 | 1346 | [Check If N and Its Double Exist](./problems/1300-1399/1346/README.md)                                                 | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 1347 | [Minimum Number of Steps to Make Two Strings Anagram](./problems/1300-1399/1347/README.md)                             | :o:    | Medium | [str],[hm]                                                  |      |

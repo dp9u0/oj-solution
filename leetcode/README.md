@@ -1966,7 +1966,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1925 | [Count Square Sum Triples](./problems/1900-1999/1925/README.md)                                                        | :o:    | Easy   | [math],[lgc]                                                |      |
 | 1926 | [Nearest Exit from Entrance in Maze](./problems/1900-1999/1926/README.md)                                              | :o:    | Medium | [bfs]                                                       |      |
 | 1927 | [Sum Game](./problems/1900-1999/1927/README.md)                                                                        | :o:    | Medium | [math],[lgc]                                                |      |
-| 1928 | [Minimum Cost to Reach Destination in Time](./problems/1900-1999/1928/README.md)                                       |        | Hard   |                                                             |      |
+| 1928 | [Minimum Cost to Reach Destination in Time](./problems/1900-1999/1928/README.md) | :o: | Hard | [grf],[dp] |   |
 | 1929 | [Concatenation of Array](./problems/1900-1999/1929/README.md)                                                          | :o:    | Easy   | [arr]                                                       |      |
 | 1930 | [Unique Length-3 Palindromic Subsequences](./problems/1900-1999/1930/README.md)                                        | :o:    | Medium | [str],[hm]                                                  |      |
 | 1931 | [Painting a Grid With Three Different Colors](./problems/1900-1999/1931/README.md) | :o: | Hard | [dp],[math] |   |

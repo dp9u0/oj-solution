@@ -2387,7 +2387,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2346 | [Compute the Rank as a Percentage](./problems/2300-2399/2346/README.md)                                                | :lock: | Medium |                                                             |      |
 | 2347 | [Best Poker Hand](./problems/2300-2399/2347/README.md)                                                                 | :o:    | Easy   | [arr],[hash]                                                |      |
 | 2348 | [Number of Zero-Filled Subarrays](./problems/2300-2399/2348/README.md)                                                 | :o:    | Medium | [arr]                                                       |      |
-| 2349 | [Design a Number Container System](./problems/2300-2399/2349/README.md)                                                |        | Medium |                                                             |      |
+| 2349 | [Design a Number Container System](./problems/2300-2399/2349/README.md) | :o: | Medium | [des],[hsh] |   |
 | 2350 | [Shortest Impossible Sequence of Rolls](./problems/2300-2399/2350/README.md)                                           | :o:    | Hard   | [grd],[hsh]                                                 | :+1: |
 | 2351 | [First Letter to Appear Twice](./problems/2300-2399/2351/README.md)                                                    |        | Easy   |                                                             |      |
 | 2352 | [Equal Row and Column Pairs](./problems/2300-2399/2352/README.md)                                                      | :o:    | Medium | [arr],[hash]                                                |      |

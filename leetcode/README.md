@@ -3041,7 +3041,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3000 | [Maximum Area of Longest Diagonal Rectangle](./problems/3000-3099/3000/README.md)                                      |        | Easy   |                                                             |      |
 | 3001 | [Minimum Moves to Capture The Queen](./problems/3000-3099/3001/README.md)                                              | :o:    | Medium | [lgc],[math]                                                |      |
 | 3002 | [Maximum Size of a Set After Removals](./problems/3000-3099/3002/README.md)                                            |        | Medium |                                                             |      |
-| 3003 | [Maximize the Number of Partitions After Operations](./problems/3000-3099/3003/README.md)                              |        | Hard   |                                                             |      |
+| 3003 | [Maximize the Number of Partitions After Operations](./problems/3000-3099/3003/README.md) | :o: | Hard | [dp],[bit] |   |
 | 3004 | [Maximum Subtree of the Same Color](./problems/3000-3099/3004/README.md)                                               | :lock: | Medium |                                                             |      |
 | 3005 | [Count Elements With Maximum Frequency](./problems/3000-3099/3005/README.md)                                           | :o:    | Easy   | [hsh]                                                       |      |
 | 3006 | [Find Beautiful Indices in the Given Array I](./problems/3000-3099/3006/README.md)                                     |        | Medium |                                                             |      |

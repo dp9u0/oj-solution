@@ -1219,7 +1219,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1142 | [User Activity for the Past 30 Days II](./problems/1100-1199/1142/README.md)                                           | :lock: | Easy   |                                                             |      |
 | 1143 | [Longest Common Subsequence](./problems/1100-1199/1143/README.md)                                                      | :o:    | Medium | [dp]                                                        | :+1: |
 | 1144 | [Decrease Elements To Make Array Zigzag](./problems/1100-1199/1144/README.md)                                          | :o:    | Medium | [arr]                                                       |      |
-| 1145 | [Binary Tree Coloring Game](./problems/1100-1199/1145/README.md)                                                       |        | Medium |                                                             |      |
+| 1145 | [Binary Tree Coloring Game](./problems/1100-1199/1145/README.md) | :o: | Medium | [tr] |   |
 | 1146 | [Snapshot Array](./problems/1100-1199/1146/README.md)                                                                  |        | Medium |                                                             |      |
 | 1147 | [Longest Chunked Palindrome Decomposition](./problems/1100-1199/1147/README.md)                                        |        | Hard   |                                                             |      |
 | 1148 | [Article Views I](./problems/1100-1199/1148/README.md)                                                                 | :lock: | Easy   |                                                             |      |

@@ -3225,7 +3225,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3184 | [Count Pairs That Form a Complete Day I](./problems/3100-3199/3184/README.md)                                          |        | Easy   |                                                             |      |
 | 3185 | [Count Pairs That Form a Complete Day II](./problems/3100-3199/3185/README.md)                                         | :o:    | Medium | [arr]                                                       |      |
 | 3186 | [Maximum Total Damage With Spell Casting](./problems/3100-3199/3186/README.md)                                         | :o:    | Medium | [dp],[arr]                                                  |      |
-| 3187 | [Peaks in Array](./problems/3100-3199/3187/README.md)                                                                  |        | Hard   |                                                             |      |
+| 3187 | [Peaks in Array](./problems/3100-3199/3187/README.md) | :o: | Hard | [ds],[arr] |   |
 | 3188 | [Find Top Scoring Students II](./problems/3100-3199/3188/README.md)                                                    | :lock: | Hard   |                                                             |      |
 | 3189 | [Minimum Moves to Get a Peaceful Board](./problems/3100-3199/3189/README.md)                                           | :lock: | Medium |                                                             |      |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](./problems/3100-3199/3190/README.md)                 | :o:    | Easy   | [arr],[math]                                                |      |

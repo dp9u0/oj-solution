@@ -3624,3 +3624,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3733 | [Minimum Time to Complete All Deliveries](./problems/3700-3799/3733/README.md) | :o: | Medium | [bs],[math] |   |
 | 1761 | [Minimum Degree of a Connected Trio in a Graph](./problems/1700-1799/1761/README.md) | :o: | Hard | [grf] |   |
 | 3811 | [Number of Alternating XOR Partitions](./problems/3800-3899/3811/README.md) | :o: | Medium | [dp] |   |
+| 3530 | [Maximum Profit from Valid Topological Order in DAG](./problems/3500-3599/3530/README.md) | :o: | Hard | [dp],[bit] |   |

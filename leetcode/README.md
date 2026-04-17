@@ -2324,7 +2324,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2283 | [Check if Number Has Equal Digit Count and Digit Value](./problems/2200-2299/2283/README.md)                           | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2284 | [Sender With Largest Word Count](./problems/2200-2299/2284/README.md)                                                  | :o:    | Medium | [arr],[hash]                                                |      |
 | 2285 | [Maximum Total Importance of Roads](./problems/2200-2299/2285/README.md)                                               | :o:    | Medium | [arr],[greedy]                                              |      |
-| 2286 | [Booking Concert Tickets in Groups](./problems/2200-2299/2286/README.md)                                               |        | Hard   |                                                             |      |
+| 2286 | [Booking Concert Tickets in Groups](./problems/2200-2299/2286/README.md) | :o: | Hard | [des],[ds],[hp] |   |
 | 2287 | [Rearrange Characters to Make Target String](./problems/2200-2299/2287/README.md)                                      | :o:    | Easy   | [str],[hsh]                                                 |      |
 | 2288 | [Apply Discount to Prices](./problems/2200-2299/2288/README.md)                                                        | :o:    | Medium | [str]                                                       |      |
 | 2289 | [Steps to Make Array Non-decreasing](./problems/2200-2299/2289/README.md)                                              |        | Medium |                                                             |      |

@@ -2836,7 +2836,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2795 | [2795](./problems/2700-2799/2795/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2796 | [2796](./problems/2700-2799/2796/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2797 | [2797](./problems/2700-2799/2797/README.md)                                                                            |        | Easy   |                                                             |      |
-| 2798 | [Number of Employees Who Met the Target](./problems/2700-2799/2798/README.md)                                          |        | Easy   |                                                             |      |
+| 2798 | [Number of Employees Who Met the Target](./problems/2700-2799/2798/README.md) | :o: | Easy | [arr] |   |
 | 2799 | [Count Complete Subarrays in an Array](./problems/2700-2799/2799/README.md)                                            | :o:    | Medium | [arr],[sd],[hsh]                                            |      |
 | 2800 | [Shortest String That Contains Three Strings](./problems/2800-2899/2800/README.md)                                     | :o:    | Medium | [str]                                                       |      |
 | 2801 | [Count Stepping Numbers in Range](./problems/2800-2899/2801/README.md)                                                 |        | Hard   |                                                             |      |

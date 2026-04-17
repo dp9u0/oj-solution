@@ -2366,7 +2366,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2325 | [Decode the Message](./problems/2300-2399/2325/README.md)                                                              | :o:    | Easy   | [str],[hsh]                                                 |      |
 | 2326 | [Spiral Matrix IV](./problems/2300-2399/2326/README.md)                                                                | :o:    | Medium | [arr],[ll]                                                  |      |
 | 2327 | [Number of People Aware of a Secret](./problems/2300-2399/2327/README.md)                                              | :o:    | Medium | [dp]                                                        |      |
-| 2328 | [Number of Increasing Paths in a Grid](./problems/2300-2399/2328/README.md)                                            |        | Hard   |                                                             |      |
+| 2328 | [Number of Increasing Paths in a Grid](./problems/2300-2399/2328/README.md) | :o: | Hard | [dp],[grf] |   |
 | 2329 | [Product Sales Analysis V](./problems/2300-2399/2329/README.md)                                                        | :lock: | Easy   |                                                             |      |
 | 2330 | [Valid Palindrome IV](./problems/2300-2399/2330/README.md)                                                             | :lock: | Medium |                                                             |      |
 | 2331 | [Evaluate Boolean Binary Tree](./problems/2300-2399/2331/README.md)                                                    | :o:    | Easy   | [tr],[dfs]                                                  |      |

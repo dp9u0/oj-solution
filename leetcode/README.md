@@ -3681,3 +3681,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3589 | [Count Prime-Gap Balanced Subarrays](./problems/3500-3599/3589/README.md) | :o: | Medium | [sd],[math] |   |
 | 3881 | [Direction Assignments with Exactly K Visible People](./problems/3800-3899/3881/README.md) | :o: | Medium | [math] |   |
 | 3602 | [Hexadecimal and Hexatrigesimal Conversion](./problems/3600-3699/3602/README.md) | :o: | Easy | [math] |   |
+| 3845 | [Maximum Subarray XOR with Bounded Range](./problems/3800-3899/3845/README.md) | :o: | Hard | [tp],[bit] |   |

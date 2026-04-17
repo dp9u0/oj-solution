@@ -3650,3 +3650,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3772 | [Maximum Subgraph Score in a Tree](./problems/3700-3799/3772/README.md) | :o: | Hard | [tr],[dp] |   |
 | 3873 | [Maximum Points Activated with One Addition](./problems/3800-3899/3873/README.md) | :o: | Hard | [grf],[ds] | :+1:  |
 | 3731 | [Find Missing Elements](./problems/3700-3799/3731/README.md) | :o: | Easy | [arr],[hsh] |   |
+| 3519 | [Count Numbers with Non-Decreasing Digits](./problems/3500-3599/3519/README.md) | :o: | Hard | [dp],[math] | :+1:  |

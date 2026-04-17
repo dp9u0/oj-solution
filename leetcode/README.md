@@ -3639,3 +3639,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3691 | [Maximum Total Subarray Value II](./problems/3600-3699/3691/README.md) | :o: | Hard | [hp],[ds] |   |
 | 3622 | [Check Divisibility by Digit Sum and Product](./problems/3600-3699/3622/README.md) | :o: | Easy | [math] |   |
 | 3417 | [Zigzag Grid Traversal With Skip](./problems/3400-3499/3417/README.md) | :o: | Easy | [arr] |   |
+| 3518 | [Smallest Palindromic Rearrangement II](./problems/3500-3599/3518/README.md) | :o: | Hard | [dp],[math] | :+1:  |

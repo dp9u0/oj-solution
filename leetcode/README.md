@@ -3679,3 +3679,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3425 | [Longest Special Path](./problems/3400-3499/3425/README.md) | :o: | Hard | [tr],[dfs] |   |
 | 3590 | [Kth Smallest Path XOR Sum](./problems/3500-3599/3590/README.md) | :o: | Hard | [tr],[bit],[dfs] |   |
 | 3589 | [Count Prime-Gap Balanced Subarrays](./problems/3500-3599/3589/README.md) | :o: | Medium | [sd],[math] |   |
+| 3881 | [Direction Assignments with Exactly K Visible People](./problems/3800-3899/3881/README.md) | :o: | Medium | [math] |   |

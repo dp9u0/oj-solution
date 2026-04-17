@@ -1934,7 +1934,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1893 | [Check if All the Integers in a Range Are Covered](./problems/1800-1899/1893/README.md)                                | :o:    | Easy   | [arr],[lgc]                                                 |      |
 | 1894 | [Find the Student that Will Replace the Chalk](./problems/1800-1899/1894/README.md)                                    |        | Medium |                                                             |      |
 | 1895 | [1895](./problems/1800-1899/1895/README.md)                                                                            | :o:    | Medium | [arr]                                                       |      |
-| 1896 | [Minimum Cost to Change the Final Value of Expression](./problems/1800-1899/1896/README.md)                            |        | Hard   |                                                             |      |
+| 1896 | [Minimum Cost to Change the Final Value of Expression](./problems/1800-1899/1896/README.md) | :o: | Hard | [stk],[dp] |   |
 | 1897 | [Redistribute Characters to Make All Strings Equal](./problems/1800-1899/1897/README.md)                               | :o:    | Easy   | [arr],[hash]                                                |      |
 | 1898 | [Maximum Number of Removable Characters](./problems/1800-1899/1898/README.md)                                          | :o:    | Medium | [bs],[str]                                                  |      |
 | 1899 | [Merge Triplets to Form Target Triplet](./problems/1800-1899/1899/README.md)                                           | :o:    | Medium | [arr],[greedy]                                              |      |

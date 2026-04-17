@@ -1587,7 +1587,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1512 | [Number of Good Pairs](./problems/1500-1599/1512/README.md)                                                            | :o:    | Easy   | [arr]                                                       |      |
 | 1513 | [Number of Substrings With Only 1s](./problems/1500-1599/1513/README.md)                                               |        | Medium |                                                             |      |
 | 1514 | [1514](./problems/1500-1599/1514/README.md)                                                                            |        | Easy   |                                                             |      |
-| 1515 | [Best Position for a Service Centre](./problems/1500-1599/1515/README.md)                                              |        | Hard   |                                                             |      |
+| 1515 | [Best Position for a Service Centre](./problems/1500-1599/1515/README.md) | :o: | Hard | [math],[grd] |   |
 | 1516 | [Move Sub-Tree of N-Ary Tree](./problems/1500-1599/1516/README.md)                                                     | :lock: | Hard   |                                                             |      |
 | 1517 | [Find Users With Valid E-Mails](./problems/1500-1599/1517/README.md)                                                   | :lock: | Easy   |                                                             |      |
 | 1518 | [Water Bottles](./problems/1500-1599/1518/README.md)                                                                   | :o:    | Easy   | [arr]                                                       |      |

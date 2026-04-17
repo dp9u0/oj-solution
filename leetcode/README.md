@@ -3656,3 +3656,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3633 | [Earliest Finish Time for Land and Water Rides I](./problems/3600-3699/3633/README.md) | :o: | Easy | [arr],[grd] |   |
 | 3887 | [Incremental Even-Weighted Cycle Queries](./problems/3800-3899/3887/README.md) | :o: | Hard | [grf],[ds] | :+1:  |
 | 3814 | [Maximum Capacity Within Budget](./problems/3800-3899/3814/README.md) | :o: | Medium | [arr],[bs],[grd] |   |
+| 3871 | [Count Commas in Range II](./problems/3800-3899/3871/README.md) | :o: | Medium | [math] |   |

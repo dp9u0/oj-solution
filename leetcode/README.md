@@ -3655,3 +3655,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1734 | [Decode XORed Permutation](./problems/1700-1799/1734/README.md) | :o: | Medium | [arr],[bit] |   |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](./problems/3600-3699/3633/README.md) | :o: | Easy | [arr],[grd] |   |
 | 3887 | [Incremental Even-Weighted Cycle Queries](./problems/3800-3899/3887/README.md) | :o: | Hard | [grf],[ds] | :+1:  |
+| 3814 | [Maximum Capacity Within Budget](./problems/3800-3899/3814/README.md) | :o: | Medium | [arr],[bs],[grd] |   |

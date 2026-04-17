@@ -3661,3 +3661,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3686 | [Number of Stable Subsequences](./problems/3600-3699/3686/README.md) | :o: | Hard | [dp],[arr] | :+1:  |
 | 3712 | [Sum of Elements With Frequency Divisible by K](./problems/3700-3799/3712/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 3833 | [Count Dominant Indices](./problems/3800-3899/3833/README.md) | :o: | Easy | [arr] |   |
+| 3486 | [Longest Special Path II](./problems/3400-3499/3486/README.md) | :o: | Hard | [tr],[dfs] | :+1:  |

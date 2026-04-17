@@ -2406,7 +2406,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2365 | [Task Scheduler II](./problems/2300-2399/2365/README.md)                                                               | :o:    | Medium | [arr]                                                       |      |
 | 2366 | [Minimum Replacements to Sort the Array](./problems/2300-2399/2366/README.md)                                          |        | Hard   |                                                             |      |
 | 2367 | [Number of Arithmetic Triplets](./problems/2300-2399/2367/README.md)                                                   |        | Easy   |                                                             |      |
-| 2368 | [Reachable Nodes With Restrictions](./problems/2300-2399/2368/README.md)                                               |        | Medium |                                                             |      |
+| 2368 | [Reachable Nodes With Restrictions](./problems/2300-2399/2368/README.md) | :o: | Medium | [tr],[bfs] |   |
 | 2369 | [Check if There is a Valid Partition For The Array](./problems/2300-2399/2369/README.md)                               | :o:    | Medium | [arr],[dp]                                                  |      |
 | 2370 | [Longest Ideal Subsequence](./problems/2300-2399/2370/README.md)                                                       | :o:    | Medium | [str],[dp]                                                  |      |
 | 2371 | [Minimize Maximum Value in a Grid](./problems/2300-2399/2371/README.md)                                                | :lock: | Hard   |                                                             |      |

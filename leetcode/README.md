@@ -2204,7 +2204,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2163 | [Minimum Difference in Sums After Removal of Elements](./problems/2100-2199/2163/README.md)                            |        | Hard   |                                                             |      |
 | 2164 | [Sort Even and Odd Indices Independently](./problems/2100-2199/2164/README.md)                                         | :o:    | Easy   | [arr]                                                       |      |
 | 2165 | [Smallest Value of the Rearranged Number](./problems/2100-2199/2165/README.md)                                         | :o:    | Medium | [grd],[math]                                                |      |
-| 2166 | [Design Bitset](./problems/2100-2199/2166/README.md)                                                                   |        | Medium |                                                             |      |
+| 2166 | [Design Bitset](./problems/2100-2199/2166/README.md) | :o: | Medium | [des],[bit] |   |
 | 2167 | [Minimum Time to Remove All Cars Containing Illegal Goods](./problems/2100-2199/2167/README.md)                        |        | Hard   |                                                             |      |
 | 2168 | [Unique Substrings With Equal Digit Frequency](./problems/2100-2199/2168/README.md)                                    | :lock: | Medium |                                                             |      |
 | 2169 | [Count Operations to Obtain Zero](./problems/2100-2199/2169/README.md)                                                 | :o:    | Easy   | [math]                                                      |      |

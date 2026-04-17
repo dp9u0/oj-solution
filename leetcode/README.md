@@ -3662,3 +3662,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3712 | [Sum of Elements With Frequency Divisible by K](./problems/3700-3799/3712/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 3833 | [Count Dominant Indices](./problems/3800-3899/3833/README.md) | :o: | Easy | [arr] |   |
 | 3486 | [Longest Special Path II](./problems/3400-3499/3486/README.md) | :o: | Hard | [tr],[dfs] | :+1:  |
+| 3645 | [Maximum Total from Optimal Activation Order](./problems/3600-3699/3645/README.md) | :o: | Medium | [arr],[grd] |   |

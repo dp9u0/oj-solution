@@ -3682,3 +3682,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3881 | [Direction Assignments with Exactly K Visible People](./problems/3800-3899/3881/README.md) | :o: | Medium | [math] |   |
 | 3602 | [Hexadecimal and Hexatrigesimal Conversion](./problems/3600-3699/3602/README.md) | :o: | Easy | [math] |   |
 | 3845 | [Maximum Subarray XOR with Bounded Range](./problems/3800-3899/3845/README.md) | :o: | Hard | [tp],[bit] |   |
+| 1754 | [Largest Merge Of Two Strings](./problems/1700-1799/1754/README.md) | :o: | Medium | [grd],[str] |   |

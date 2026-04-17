@@ -1747,7 +1747,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1672 | [Richest Customer Wealth](./problems/1600-1699/1672/README.md) | :o: | Easy | [arr] |   |
 | 1673 | [Find the Most Competitive Subsequence](./problems/1600-1699/1673/README.md)                                           |        | Medium |                                                             |      |
 | 1674 | [Minimum Moves to Make Array Complementary](./problems/1600-1699/1674/README.md)                                       |        | Medium |                                                             |      |
-| 1675 | [Minimize Deviation in Array](./problems/1600-1699/1675/README.md)                                                     |        | Hard   |                                                             |      |
+| 1675 | [Minimize Deviation in Array](./problems/1600-1699/1675/README.md) | :o: | Hard | [hp],[grd] |   |
 | 1676 | [Lowest Common Ancestor of a Binary Tree IV](./problems/1600-1699/1676/README.md)                                      | :lock: | Medium |                                                             |      |
 | 1677 | [Product's Worth Over Invoices](./problems/1600-1699/1677/README.md)                                                   | :lock: | Easy   |                                                             |      |
 | 1678 | [Goal Parser Interpretation](./problems/1600-1699/1678/README.md)                                                      | :o:    | Easy   | [str]                                                       |      |

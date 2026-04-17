@@ -3671,3 +3671,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3750 | [Minimum Number of Flips to Reverse Binary String](./problems/3700-3799/3750/README.md) | :o: | Easy | [bit] |   |
 | 3504 | [Longest Palindrome After Substring Concatenation II](./problems/3500-3599/3504/README.md) | :o: | Hard | [str],[dp] |   |
 | 3790 | [Smallest All-Ones Multiple](./problems/3700-3799/3790/README.md) | :o: | Medium | [math] |   |
+| 3573 | [Best Time to Buy and Sell Stock V](./problems/3500-3599/3573/README.md) | :o: | Medium | [dp] |   |

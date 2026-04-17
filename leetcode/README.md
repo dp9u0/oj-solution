@@ -2450,7 +2450,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2409 | [Count Days Spent Together](./problems/2400-2499/2409/README.md)                                                       | :o:    | Easy   | [lgc]                                                       |      |
 | 2410 | [Maximum Matching of Players With Trainers](./problems/2400-2499/2410/README.md)                                       | :o:    | Medium | [arr],[grd],[tp]                                            |      |
 | 2411 | [Smallest Subarrays With Maximum Bitwise OR](./problems/2400-2499/2411/README.md)                                      | :o:    | Medium | [arr],[bit]                                                 | :+1: |
-| 2412 | [Minimum Money Required Before Transactions](./problems/2400-2499/2412/README.md)                                      |        | Hard   |                                                             |      |
+| 2412 | [Minimum Money Required Before Transactions](./problems/2400-2499/2412/README.md) | :o: | Hard | [grd] |   |
 | 2413 | [Smallest Even Multiple](./problems/2400-2499/2413/README.md)                                                          |        | Easy   |                                                             |      |
 | 2414 | [Length of the Longest Alphabetical Continuous Substring](./problems/2400-2499/2414/README.md)                         | :o:    | Medium | [str]                                                       |      |
 | 2415 | [Reverse Odd Levels of Binary Tree](./problems/2400-2499/2415/README.md)                                               | :o:    | Medium | [tr],[bfs]                                                  |      |

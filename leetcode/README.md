@@ -2344,7 +2344,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2303 | [2303](./problems/2300-2399/2303/README.md)                                                                            | :o:    | Easy   | [arr],[math]                                                |      |
 | 2304 | [2304](./problems/2300-2399/2304/README.md)                                                                            | :o:    | Medium | [dp],[arr]                                                  |      |
 | 2305 | [2305](./problems/2300-2399/2305/README.md)                                                                            | :o:    | Medium | [bt]                                                        |      |
-| 2306 | [Naming a Company](./problems/2300-2399/2306/README.md)                                                                |        | Hard   |                                                             |      |
+| 2306 | [Naming a Company](./problems/2300-2399/2306/README.md) | :o: | Hard | [hsh] |   |
 | 2307 | [2307](./problems/2300-2399/2307/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2308 | [Arrange Table by Gender](./problems/2300-2399/2308/README.md)                                                         | :lock: | Medium |                                                             |      |
 | 2309 | [2309](./problems/2300-2399/2309/README.md)                                                                            |        | Easy   |                                                             |      |

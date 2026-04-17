@@ -3124,7 +3124,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3083 | [Existence of a Substring in a String and Its Reverse](./problems/3000-3099/3083/README.md)                            |        | Easy   |                                                             |      |
 | 3084 | [Count Substrings Starting and Ending with Given Character](./problems/3000-3099/3084/README.md) | :o: | Medium | [str],[math] |   |
 | 3085 | [Minimum Deletions to Make String K-Special](./problems/3000-3099/3085/README.md)                                      | :o:    | Medium | [str],[grd]                                                 |      |
-| 3086 | [Minimum Moves to Pick K Ones](./problems/3000-3099/3086/README.md)                                                    |        | Hard   |                                                             |      |
+| 3086 | [Minimum Moves to Pick K Ones](./problems/3000-3099/3086/README.md) | :o: | Hard | [arr],[grd] |   |
 | 3087 | [Find Trending Hashtags](./problems/3000-3099/3087/README.md)                                                          | :lock: | Medium |                                                             |      |
 | 3088 | [Make String Anti-palindrome](./problems/3000-3099/3088/README.md)                                                     | :lock: | Hard   |                                                             |      |
 | 3089 | [Find Bursty Behavior](./problems/3000-3099/3089/README.md)                                                            | :lock: | Medium |                                                             |      |

@@ -2319,7 +2319,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2278 | [Percentage of Letter in String](./problems/2200-2299/2278/README.md) | :o: | Easy | [str] |   |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](./problems/2200-2299/2279/README.md)                                        | :o:    | Medium | [arr],[greedy]                                              |      |
 | 2280 | [Minimum Lines to Represent a Line Chart](./problems/2200-2299/2280/README.md)                                         | :o:    | Medium | [math],[grd]                                                |      |
-| 2281 | [Sum of Total Strength of Wizards](./problems/2200-2299/2281/README.md)                                                |        | Hard   |                                                             |      |
+| 2281 | [Sum of Total Strength of Wizards](./problems/2200-2299/2281/README.md) | :o: | Hard | [arr],[stk],[dp] |   |
 | 2282 | [Number of People That Can Be Seen in a Grid](./problems/2200-2299/2282/README.md)                                     | :lock: | Medium |                                                             |      |
 | 2283 | [Check if Number Has Equal Digit Count and Digit Value](./problems/2200-2299/2283/README.md)                           | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2284 | [Sender With Largest Word Count](./problems/2200-2299/2284/README.md)                                                  | :o:    | Medium | [arr],[hash]                                                |      |

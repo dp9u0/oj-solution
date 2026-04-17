@@ -3637,3 +3637,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3762 | [Minimum Operations to Equalize Subarrays](./problems/3700-3799/3762/README.md) | :o: | Hard | [ds],[dp] |   |
 | 3855 | [Sum of K-Digit Numbers in a Range](./problems/3800-3899/3855/README.md) | :o: | Hard | [math] |   |
 | 3691 | [Maximum Total Subarray Value II](./problems/3600-3699/3691/README.md) | :o: | Hard | [hp],[ds] |   |
+| 3622 | [Check Divisibility by Digit Sum and Product](./problems/3600-3699/3622/README.md) | :o: | Easy | [math] |   |

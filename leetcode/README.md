@@ -1699,7 +1699,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1624 | [Largest Substring Between Two Equal Characters](./problems/1600-1699/1624/README.md)                                  | :o:    | Easy   | [str],[hsh]                                                 |      |
 | 1625 | [Lexicographically Smallest String After Applying Operations](./problems/1600-1699/1625/README.md)                     |        | Medium |                                                             |      |
 | 1626 | [Best Team With No Conflicts](./problems/1600-1699/1626/README.md)                                                     | :o:    | Medium | [dp]                                                        |      |
-| 1627 | [1627](./problems/1600-1699/1627/README.md)                                                                            |        | Easy   |                                                             |      |
+| 1627 | [1627](./problems/1600-1699/1627/README.md) | :o: | Hard | [grf],[math] |   |
 | 1628 | [Design an Expression Tree With Evaluate Function](./problems/1600-1699/1628/README.md)                                | :lock: | Medium |                                                             |      |
 | 1629 | [Slowest Key](./problems/1600-1699/1629/README.md)                                                                     | :o:    | Easy   | [arr]                                                       |      |
 | 1630 | [Arithmetic Subarrays](./problems/1600-1699/1630/README.md)                                                            | :o:    | Medium | [arr],[sort]                                                |      |

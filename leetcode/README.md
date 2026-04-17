@@ -2008,7 +2008,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1967 | [Number of Strings That Appear as Substrings in Word](./problems/1900-1999/1967/README.md) | :o: | Easy | [str] |   |
 | 1968 | [Array With Elements Not Equal to Average of Neighbors](./problems/1900-1999/1968/README.md)                           | :o:    | Medium | [arr],[sort]                                                |      |
 | 1969 | [Minimum Non-Zero Product of the Array Elements](./problems/1900-1999/1969/README.md)                                  | :o:    | Medium | [math],[bit]                                                |      |
-| 1970 | [Last Day Where You Can Still Cross](./problems/1900-1999/1970/README.md)                                              |        | Hard   |                                                             |      |
+| 1970 | [Last Day Where You Can Still Cross](./problems/1900-1999/1970/README.md) | :o: | Hard | [bfs],[bs] |   |
 | 1971 | [Find if Path Exists in Graph](./problems/1900-1999/1971/README.md) | :o: | Easy | [grf],[ds] |   |
 | 1972 | [First and Last Call On the Same Day](./problems/1900-1999/1972/README.md)                                             | :lock: | Hard   |                                                             |      |
 | 1973 | [Count Nodes Equal to Sum of Descendants](./problems/1900-1999/1973/README.md)                                         | :lock: | Medium |                                                             |      |

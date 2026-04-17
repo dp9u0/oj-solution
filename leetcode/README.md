@@ -2932,7 +2932,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2891 | [2891](./problems/2800-2899/2891/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2892 | [Minimizing Array After Replacing Pairs With Their Product](./problems/2800-2899/2892/README.md)                       | :lock: | Medium |                                                             |      |
 | 2893 | [Calculate Orders Within Each Interval](./problems/2800-2899/2893/README.md)                                           | :lock: | Medium |                                                             |      |
-| 2894 | [Divisible and Non-divisible Sums Difference](./problems/2800-2899/2894/README.md)                                     |        | Easy   |                                                             |      |
+| 2894 | [Divisible and Non-divisible Sums Difference](./problems/2800-2899/2894/README.md) | :o: | Easy | [math] |   |
 | 2895 | [Minimum Processing Time](./problems/2800-2899/2895/README.md)                                                         | :o:    | Medium | [arr],[sort]                                                |      |
 | 2896 | [Apply Operations to Make Two Strings Equal](./problems/2800-2899/2896/README.md)                                      | :o:    | Medium | [dp]                                                        |      |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](./problems/2800-2899/2897/README.md)                            | :o:    | Hard   | [bit]                                                       |      |

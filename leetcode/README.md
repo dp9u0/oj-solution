@@ -1106,7 +1106,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1029 | [Two City Scheduling](./problems/1000-1099/1029/README.md)                                                             | :o:    | Medium | [grd]                                                       |      |
 | 1030 | [Matrix Cells in Distance Order](./problems/1000-1099/1030/README.md) | :o: | Easy | [bfs] |   |
 | 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](./problems/1000-1099/1031/README.md) | :o: | Medium | [arr],[dp] |   |
-| 1032 | [Stream of Characters](./problems/1000-1099/1032/README.md)                                                            |        | Hard   |                                                             |      |
+| 1032 | [Stream of Characters](./problems/1000-1099/1032/README.md) | :o: | Hard | [des],[trie] |   |
 | 1033 | [Moving Stones Until Consecutive](./problems/1000-1099/1033/README.md)                                                 | :o:    | Medium | [math],[lgc]                                                |      |
 | 1034 | [Coloring A Border](./problems/1000-1099/1034/README.md)                                                               |        | Medium |                                                             |      |
 | 1035 | [Uncrossed Lines](./problems/1000-1099/1035/README.md)                                                                 | :o:    | Medium | [dp]                                                        |      |

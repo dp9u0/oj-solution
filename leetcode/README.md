@@ -2457,7 +2457,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2416 | [Sum of Prefix Scores of Strings](./problems/2400-2499/2416/README.md)                                                 |        | Hard   |                                                             |      |
 | 2417 | [Closest Fair Integer](./problems/2400-2499/2417/README.md)                                                            | :lock: | Medium |                                                             |      |
 | 2418 | [Sort the People](./problems/2400-2499/2418/README.md)                                                                 | :o:    | Easy   | [arr],[sort]                                                |      |
-| 2419 | [Longest Subarray With Maximum Bitwise AND](./problems/2400-2499/2419/README.md)                                       |        | Medium |                                                             |      |
+| 2419 | [Longest Subarray With Maximum Bitwise AND](./problems/2400-2499/2419/README.md) | :o: | Medium | [arr],[bit] |   |
 | 2420 | [Find All Good Indices](./problems/2400-2499/2420/README.md)                                                           | :o:    | Medium | [arr],[dp]                                                  |      |
 | 2421 | [Number of Good Paths](./problems/2400-2499/2421/README.md)                                                            |        | Hard   |                                                             |      |
 | 2422 | [Merge Operations to Turn Array Into a Palindrome](./problems/2400-2499/2422/README.md)                                | :lock: | Medium |                                                             |      |

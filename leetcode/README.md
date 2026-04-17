@@ -1651,7 +1651,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](./problems/1500-1599/1576/README.md)                       | :o:    | Easy   | [str]                                                       |      |
 | 1577 | [Number of Ways Where Square of Number Is Equal to Product of Two Numbers](./problems/1500-1599/1577/README.md)        | :o:    | Medium | [arr],[hsh]                                                 | :+1: |
 | 1578 | [Minimum Deletion Cost to Avoid Repeating Letters](./problems/1500-1599/1578/README.md)                                | :o:    | Medium | [arr],[tp]                                                  |      |
-| 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](./problems/1500-1599/1579/README.md)                      |        | Hard   |                                                             |      |
+| 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](./problems/1500-1599/1579/README.md) | :o: | Hard | [grf],[ds] | :+1:  |
 | 1580 | [Put Boxes Into the Warehouse II](./problems/1500-1599/1580/README.md)                                                 | :lock: | Medium |                                                             |      |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](./problems/1500-1599/1581/README.md)                          | :lock: | Easy   |                                                             |      |
 | 1582 | [Special Positions in a Binary Matrix](./problems/1500-1599/1582/README.md)                                            | :o:    | Easy   | [arr]                                                       |      |

@@ -1865,7 +1865,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1824 | [Minimum Sideway Jumps](./problems/1800-1899/1824/README.md)                                                           | :o:    | Medium | [dp],[grd]                                                  |      |
 | 1825 | [Finding MK Average](./problems/1800-1899/1825/README.md)                                                              | :o:    | Hard   | [des],[ds]                                                  |      |
 | 1826 | [Faulty Sensor](./problems/1800-1899/1826/README.md)                                                                   | :lock: | Easy   |                                                             |      |
-| 1827 | [Minimum Operations to Make the Array Increasing](./problems/1800-1899/1827/README.md)                                 |        | Easy   |                                                             |      |
+| 1827 | [Minimum Operations to Make the Array Increasing](./problems/1800-1899/1827/README.md) | :o: | Easy | [arr],[grd] |   |
 | 1828 | [Queries on Number of Points Inside a Circle](./problems/1800-1899/1828/README.md)                                     | :o:    | Medium | [math]                                                      |      |
 | 1829 | [Maximum XOR for Each Query](./problems/1800-1899/1829/README.md)                                                      | :o:    | Medium | [arr],[bit]                                                 |      |
 | 1830 | [Minimum Number of Operations to Make String Sorted](./problems/1800-1899/1830/README.md)                              |        | Hard   |                                                             |      |

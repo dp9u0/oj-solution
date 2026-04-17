@@ -1335,7 +1335,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1260 | [Shift 2D Grid](./problems/1200-1299/1260/README.md)                                                                   |        | Easy   |                                                             |      |
 | 1261 | [Find Elements in a Contaminated Binary Tree](./problems/1200-1299/1261/README.md)                                     | :o:    | Medium | [tr],[hsh],[des]                                            |      |
 | 1262 | [Greatest Sum Divisible by Three](./problems/1200-1299/1262/README.md)                                                 | :o:    | Medium | [arr],[dp]                                                  |      |
-| 1263 | [Minimum Moves to Move a Box to Their Target Location](./problems/1200-1299/1263/README.md)                            |        | Hard   |                                                             |      |
+| 1263 | [Minimum Moves to Move a Box to Their Target Location](./problems/1200-1299/1263/README.md) | :o: | Hard | [bfs],[arr] |   |
 | 1264 | [Page Recommendations](./problems/1200-1299/1264/README.md)                                                            | :lock: | Medium |                                                             |      |
 | 1265 | [Print Immutable Linked List in Reverse](./problems/1200-1299/1265/README.md)                                          | :lock: | Medium |                                                             |      |
 | 1266 | [Minimum Time Visiting All Points](./problems/1200-1299/1266/README.md)                                                | :o:    | Easy   | [arr],[math]                                                |      |

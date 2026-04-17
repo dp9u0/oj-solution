@@ -3684,3 +3684,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3845 | [Maximum Subarray XOR with Bounded Range](./problems/3800-3899/3845/README.md) | :o: | Hard | [tp],[bit] |   |
 | 1754 | [Largest Merge Of Two Strings](./problems/1700-1799/1754/README.md) | :o: | Medium | [grd],[str] |   |
 | 3709 | [Design Exam Scores Tracker](./problems/3700-3799/3709/README.md) | :o: | Medium | [des],[bs] |   |
+| 3812 | [Minimum Edge Toggles on a Tree](./problems/3800-3899/3812/README.md) | :o: | Hard | [dfs],[grf] |   |

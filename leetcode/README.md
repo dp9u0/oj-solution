@@ -2980,7 +2980,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2939 | [Maximum Xor Product](./problems/2900-2999/2939/README.md)                                                             |        | Medium |                                                             |      |
 | 2940 | [Find Building Where Alice and Bob Can Meet](./problems/2900-2999/2940/README.md)                                      | :o:    | Hard   | [stk],[bs]                                                  |      |
 | 2941 | [Maximum GCD-Sum of a Subarray](./problems/2900-2999/2941/README.md)                                                   | :lock: | Hard   |                                                             |      |
-| 2942 | [Find Words Containing Character](./problems/2900-2999/2942/README.md)                                                 |        | Easy   |                                                             |      |
+| 2942 | [Find Words Containing Character](./problems/2900-2999/2942/README.md) | :o: | Easy | [arr],[str] |   |
 | 2943 | [Maximize Area of Square Hole in Grid](./problems/2900-2999/2943/README.md)                                            | :o:    | Medium | [arr],[grd]                                                 |      |
 | 2944 | [Minimum Number of Coins for Fruits](./problems/2900-2999/2944/README.md)                                              | :o:    | Medium | [dp],[arr]                                                  |      |
 | 2945 | [Find Maximum Non-decreasing Array Length](./problems/2900-2999/2945/README.md)                                        |        | Hard   |                                                             |      |

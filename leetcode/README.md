@@ -1878,7 +1878,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1837 | [Sum of Digits in Base K](./problems/1800-1899/1837/README.md)                                                         |        | Easy   |                                                             |      |
 | 1838 | [Frequency of the Most Frequent Element](./problems/1800-1899/1838/README.md)                                          | :o:    | Medium | [tp]                                                        | :+1: |
 | 1839 | [Longest Substring Of All Vowels in Order](./problems/1800-1899/1839/README.md)                                        | :o:    | Medium | [tp]                                                        |      |
-| 1840 | [Maximum Building Height](./problems/1800-1899/1840/README.md)                                                         |        | Hard   |                                                             |      |
+| 1840 | [Maximum Building Height](./problems/1800-1899/1840/README.md) | :o: | Hard | [grd],[arr] |   |
 | 1841 | [League Statistics](./problems/1800-1899/1841/README.md)                                                               | :lock: | Medium |                                                             |      |
 | 1842 | [Next Palindrome Using Same Digits](./problems/1800-1899/1842/README.md)                                               | :lock: | Hard   |                                                             |      |
 | 1843 | [Suspicious Bank Accounts](./problems/1800-1899/1843/README.md)                                                        | :lock: | Medium |                                                             |      |

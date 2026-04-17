@@ -2413,7 +2413,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2372 | [Calculate the Influence of Each Salesperson](./problems/2300-2399/2372/README.md)                                     | :lock: | Medium |                                                             |      |
 | 2373 | [Largest Local Values in a Matrix](./problems/2300-2399/2373/README.md)                                                | :o:    | Easy   | [arr]                                                       |      |
 | 2374 | [Node With Highest Edge Score](./problems/2300-2399/2374/README.md)                                                    | :o:    | Medium | [arr]                                                       |      |
-| 2375 | [Construct Smallest Number From DI String](./problems/2300-2399/2375/README.md)                                        |        | Medium |                                                             |      |
+| 2375 | [Construct Smallest Number From DI String](./problems/2300-2399/2375/README.md) | :o: | Medium | [str],[grd] |   |
 | 2376 | [Count Special Integers](./problems/2300-2399/2376/README.md)                                                          |        | Hard   |                                                             |      |
 | 2377 | [Sort the Olympic Table](./problems/2300-2399/2377/README.md)                                                          | :lock: | Easy   |                                                             |      |
 | 2378 | [Choose Edges to Maximize Score in a Tree](./problems/2300-2399/2378/README.md)                                        | :lock: | Medium |                                                             |      |

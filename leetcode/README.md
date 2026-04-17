@@ -2232,7 +2232,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2191 | [2191](./problems/2100-2199/2191/README.md)                                                                            | :o:    | Medium | [arr],[lgc]                                                 |      |
 | 2192 | [2192](./problems/2100-2199/2192/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2193 | [2193](./problems/2100-2199/2193/README.md)                                                                            |        | Easy   |                                                             |      |
-| 2194 | [Cells in a Range on an Excel Sheet](./problems/2100-2199/2194/README.md)                                              |        | Easy   |                                                             |      |
+| 2194 | [Cells in a Range on an Excel Sheet](./problems/2100-2199/2194/README.md) | :o: | Easy | [str],[lgc] |   |
 | 2195 | [Append K Integers With Minimal Sum](./problems/2100-2199/2195/README.md)                                              |        | Medium |                                                             |      |
 | 2196 | [Create Binary Tree From Descriptions](./problems/2100-2199/2196/README.md)                                            | :o:    | Medium | [tr],[hash]                                                 |      |
 | 2197 | [Replace Non-Coprime Numbers in Array](./problems/2100-2199/2197/README.md)                                            |        | Hard   |                                                             |      |

@@ -1981,7 +1981,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1940 | [Longest Common Subsequence Between Sorted Arrays](./problems/1900-1999/1940/README.md)                                | :lock: | Medium |                                                             |      |
 | 1941 | [Check if All Characters Have Equal Number of Occurrences](./problems/1900-1999/1941/README.md) | :o: | Easy | [str],[hsh] |   |
 | 1942 | [The Number of the Smallest Unoccupied Chair](./problems/1900-1999/1942/README.md)                                     | :o:    | Medium | [hp],[grd]                                                  |      |
-| 1943 | [Describe the Painting](./problems/1900-1999/1943/README.md)                                                           |        | Medium |                                                             |      |
+| 1943 | [Describe the Painting](./problems/1900-1999/1943/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 1944 | [1944](./problems/1900-1999/1944/README.md)                                                                            | :o:    | Hard   | [stack]                                                     |      |
 | 1945 | [Sum of Digits of String After Convert](./problems/1900-1999/1945/README.md)                                           | :o:    | Easy   | [str]                                                       |      |
 | 1946 | [Largest Number After Mutating Substring](./problems/1900-1999/1946/README.md)                                         | :o:    | Medium | [str],[grd]                                                 |      |

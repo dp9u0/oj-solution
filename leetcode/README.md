@@ -3660,3 +3660,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3604 | [Minimum Time to Reach Destination in Directed Graph](./problems/3600-3699/3604/README.md) | :o: | Medium | [grf],[bfs] |   |
 | 3686 | [Number of Stable Subsequences](./problems/3600-3699/3686/README.md) | :o: | Hard | [dp],[arr] | :+1:  |
 | 3712 | [Sum of Elements With Frequency Divisible by K](./problems/3700-3799/3712/README.md) | :o: | Easy | [arr],[hsh] |   |
+| 3833 | [Count Dominant Indices](./problems/3800-3899/3833/README.md) | :o: | Easy | [arr] |   |

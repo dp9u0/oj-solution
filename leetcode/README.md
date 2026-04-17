@@ -3667,3 +3667,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3577 | [Count the Number of Computer Unlocking Permutations](./problems/3500-3599/3577/README.md) | :o: | Medium | [math] |   |
 | 3801 | [Minimum Cost to Merge Sorted Lists](./problems/3800-3899/3801/README.md) | :o: | Hard | [dp],[dc] |   |
 | 3629 | [Minimum Jumps to Reach End via Prime Teleportation](./problems/3600-3699/3629/README.md) | :o: | Medium | [arr],[bfs],[math] |   |
+| 3768 | [Minimum Inversion Count in Subarrays of Fixed Length](./problems/3700-3799/3768/README.md) | :o: | Hard | [arr],[ds],[sd] |   |

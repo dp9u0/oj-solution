@@ -2195,7 +2195,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2154 | [Keep Multiplying Found Values by Two](./problems/2100-2199/2154/README.md)                                            | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2155 | [All Divisions With the Highest Score of a Binary Array](./problems/2100-2199/2155/README.md)                          | :o:    | Medium | [arr]                                                       |      |
 | 2156 | [Find Substring With Given Hash Value](./problems/2100-2199/2156/README.md)                                            | :o:    | Hard   | [str],[sd]                                                  |      |
-| 2157 | [Groups of Strings](./problems/2100-2199/2157/README.md)                                                               |        | Hard   |                                                             |      |
+| 2157 | [Groups of Strings](./problems/2100-2199/2157/README.md) | :o: | Hard | [bit],[ds] |   |
 | 2158 | [Amount of New Area Painted Each Day](./problems/2100-2199/2158/README.md)                                             | :lock: | Hard   |                                                             |      |
 | 2159 | [Order Two Columns Independently](./problems/2100-2199/2159/README.md)                                                 | :lock: | Medium |                                                             |      |
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](./problems/2100-2199/2160/README.md)                         |        | Easy   |                                                             |      |

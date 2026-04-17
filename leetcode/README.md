@@ -1426,7 +1426,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1351 | [Count Negative Numbers in a Sorted Matrix](./problems/1300-1399/1351/README.md)                                       | :o:    | Easy   | [bs],[tp]                                                   |      |
 | 1352 | [Product of the Last K Numbers](./problems/1300-1399/1352/README.md)                                                   |        | Medium |                                                             |      |
 | 1353 | [Maximum Number of Events That Can Be Attended](./problems/1300-1399/1353/README.md)                                   |        | Medium |                                                             |      |
-| 1354 | [Construct Target Array With Multiple Sums](./problems/1300-1399/1354/README.md)                                       |        | Hard   |                                                             |      |
+| 1354 | [Construct Target Array With Multiple Sums](./problems/1300-1399/1354/README.md) | :o: | Hard | [hp] |   |
 | 1355 | [Activity Participants](./problems/1300-1399/1355/README.md)                                                           | :lock: | Medium |                                                             |      |
 | 1356 | [Sort Integers by The Number of 1 Bits](./problems/1300-1399/1356/README.md)                                           | :o:    | Easy   | [arr],[bit]                                                 |      |
 | 1357 | [Apply Discount Every n Orders](./problems/1300-1399/1357/README.md)                                                   |        | Medium |                                                             |      |

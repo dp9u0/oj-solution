@@ -3634,3 +3634,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3561 | [Resulting String After Adjacent Removals](./problems/3500-3599/3561/README.md) | :o: | Medium | [stk] |   |
 | 3525 | [Find X Value of Array II](./problems/3500-3599/3525/README.md) | :o: | Hard | [ds],[dp] |   |
 | 3459 | [Length of Longest V-Shaped Diagonal Segment](./problems/3400-3499/3459/README.md) | :o: | Hard | [grd],[dp] |   |
+| 3762 | [Minimum Operations to Equalize Subarrays](./problems/3700-3799/3762/README.md) | :o: | Hard | [ds],[dp] |   |

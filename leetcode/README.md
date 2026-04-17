@@ -1221,7 +1221,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1144 | [Decrease Elements To Make Array Zigzag](./problems/1100-1199/1144/README.md)                                          | :o:    | Medium | [arr]                                                       |      |
 | 1145 | [Binary Tree Coloring Game](./problems/1100-1199/1145/README.md) | :o: | Medium | [tr] |   |
 | 1146 | [Snapshot Array](./problems/1100-1199/1146/README.md)                                                                  |        | Medium |                                                             |      |
-| 1147 | [Longest Chunked Palindrome Decomposition](./problems/1100-1199/1147/README.md)                                        |        | Hard   |                                                             |      |
+| 1147 | [Longest Chunked Palindrome Decomposition](./problems/1100-1199/1147/README.md) | :o: | Hard | [str],[grd] |   |
 | 1148 | [Article Views I](./problems/1100-1199/1148/README.md)                                                                 | :lock: | Easy   |                                                             |      |
 | 1149 | [Article Views II](./problems/1100-1199/1149/README.md)                                                                | :lock: | Medium |                                                             |      |
 | 1150 | [Check If a Number Is Majority Element in a Sorted Array](./problems/1100-1199/1150/README.md)                         | :lock: | Easy   |                                                             |      |

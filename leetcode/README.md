@@ -3675,3 +3675,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3824 | [Minimum K to Reduce Array Within Limit](./problems/3800-3899/3824/README.md) | :o: | Medium | [bs],[math] |   |
 | 3759 | [Count Elements With at Least K Greater Values](./problems/3700-3799/3759/README.md) | :o: | Medium | [arr],[bs] |   |
 | 3543 | [Maximum Weighted K-Edge Path](./problems/3500-3599/3543/README.md) | :o: | Medium | [dp],[grf] |   |
+| 3866 | [First Unique Even Element](./problems/3800-3899/3866/README.md) | :o: | Easy | [hsh],[arr] |   |

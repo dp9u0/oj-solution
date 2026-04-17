@@ -1736,7 +1736,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1661 | [Average Time of Process per Machine](./problems/1600-1699/1661/README.md)                                             | :lock: | Easy   |                                                             |      |
 | 1662 | [Check If Two String Arrays are Equivalent](./problems/1600-1699/1662/README.md) | :o: | Easy | [str] |   |
 | 1663 | [Smallest String With A Given Numeric Value](./problems/1600-1699/1663/README.md) | :o: | Medium | [grd],[str] |   |
-| 1664 | [Ways to Make a Fair Array](./problems/1600-1699/1664/README.md)                                                       |        | Medium |                                                             |      |
+| 1664 | [Ways to Make a Fair Array](./problems/1600-1699/1664/README.md) | :o: | Medium | [arr] |   |
 | 1665 | [Minimum Initial Energy to Finish Tasks](./problems/1600-1699/1665/README.md) | :o: | Hard | [grd],[arr] |   |
 | 1666 | [Change the Root of a Binary Tree](./problems/1600-1699/1666/README.md)                                                | :lock: | Medium |                                                             |      |
 | 1667 | [Fix Names in a Table](./problems/1600-1699/1667/README.md)                                                            | :lock: | Easy   |                                                             |      |

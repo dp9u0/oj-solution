@@ -1463,7 +1463,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1388 | [Pizza With 3n Slices](./problems/1300-1399/1388/README.md)                                                            |        | Hard   |                                                             |      |
 | 1389 | [Create Target Array in the Given Order](./problems/1300-1399/1389/README.md)                                          | :o:    | Easy   | [arr]                                                       |      |
 | 1390 | [Four Divisors](./problems/1300-1399/1390/README.md)                                                                   | :o:    | Medium | [math]                                                      |      |
-| 1391 | [Check if There is a Valid Path in a Grid](./problems/1300-1399/1391/README.md)                                        |        | Medium |                                                             |      |
+| 1391 | [Check if There is a Valid Path in a Grid](./problems/1300-1399/1391/README.md) | :o: | Medium | [bfs],[grf] |   |
 | 1392 | [Longest Happy Prefix](./problems/1300-1399/1392/README.md)                                                            | :o:    | Hard   | [str]                                                       |      |
 | 1393 | [Capital Gain/Loss](./problems/1300-1399/1393/README.md)                                                               | :lock: | Medium |                                                             |      |
 | 1394 | [Find Lucky Integer in an Array](./problems/1300-1399/1394/README.md)                                                  | :o:    | Easy   | [arr],[hsh]                                                 |      |

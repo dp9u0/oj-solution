@@ -1991,7 +1991,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1950 | [Maximum of Minimum Values in All Subarrays](./problems/1900-1999/1950/README.md)                                      | :lock: | Medium |                                                             |      |
 | 1951 | [All the Pairs With the Maximum Number of Common Followers](./problems/1900-1999/1951/README.md)                       | :lock: | Medium |                                                             |      |
 | 1952 | [Three Divisors](./problems/1900-1999/1952/README.md)                                                                  | :o:    | Easy   | [math]                                                      |      |
-| 1953 | [Maximum Number of Weeks for Which You Can Work](./problems/1900-1999/1953/README.md)                                  |        | Medium |                                                             |      |
+| 1953 | [Maximum Number of Weeks for Which You Can Work](./problems/1900-1999/1953/README.md) | :o: | Medium | [arr],[grd] |   |
 | 1954 | [1954](./problems/1900-1999/1954/README.md)                                                                            | :o:    | Medium | [math],[bs]                                                 |      |
 | 1955 | [Count Number of Special Subsequences](./problems/1900-1999/1955/README.md) | :o: | Hard | [dp] | :+1:  |
 | 1956 | [Minimum Time For K Virus Variants to Spread](./problems/1900-1999/1956/README.md)                                     | :lock: | Hard   |                                                             |      |

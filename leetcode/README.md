@@ -1249,7 +1249,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1172 | [Dinner Plate Stacks](./problems/1100-1199/1172/README.md)                                                             | :o:    | Hard   | [des],[stk],[hp]                                            |      |
 | 1173 | [Immediate Food Delivery I](./problems/1100-1199/1173/README.md)                                                       | :lock: | Easy   |                                                             |      |
 | 1174 | [Immediate Food Delivery II](./problems/1100-1199/1174/README.md)                                                      | :lock: | Medium |                                                             |      |
-| 1175 | [Prime Arrangements](./problems/1100-1199/1175/README.md)                                                              |        | Easy   |                                                             |      |
+| 1175 | [Prime Arrangements](./problems/1100-1199/1175/README.md) | :o: | Easy | [math] |   |
 | 1176 | [Diet Plan Performance](./problems/1100-1199/1176/README.md)                                                           | :lock: | Easy   |                                                             |      |
 | 1177 | [Can Make Palindrome from Substring](./problems/1100-1199/1177/README.md)                                              | :o:    | Medium | [bit],[hash]                                                |      |
 | 1178 | [Number of Valid Words for Each Puzzle](./problems/1100-1199/1178/README.md)                                           |        | Hard   |                                                             |      |

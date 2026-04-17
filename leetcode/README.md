@@ -3666,3 +3666,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3726 | [Remove Zeros in Decimal Representation](./problems/3700-3799/3726/README.md) | :o: | Easy | [math] |   |
 | 3577 | [Count the Number of Computer Unlocking Permutations](./problems/3500-3599/3577/README.md) | :o: | Medium | [math] |   |
 | 3801 | [Minimum Cost to Merge Sorted Lists](./problems/3800-3899/3801/README.md) | :o: | Hard | [dp],[dc] |   |
+| 3629 | [Minimum Jumps to Reach End via Prime Teleportation](./problems/3600-3699/3629/README.md) | :o: | Medium | [arr],[bfs],[math] |   |

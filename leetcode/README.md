@@ -2101,7 +2101,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2060 | [Check if an Original String Exists Given Two Encoded Strings](./problems/2000-2099/2060/README.md)                    | :o:    | Hard   | [str],[dp]                                                  |      |
 | 2061 | [Number of Spaces Cleaning Robot Cleaned](./problems/2000-2099/2061/README.md)                                         | :lock: | Medium |                                                             |      |
 | 2062 | [Count Vowel Substrings of a String](./problems/2000-2099/2062/README.md)                                              | :o:    | Easy   | [str]                                                       |      |
-| 2063 | [Vowels of All Substrings](./problems/2000-2099/2063/README.md)                                                        |        | Medium |                                                             |      |
+| 2063 | [Vowels of All Substrings](./problems/2000-2099/2063/README.md) | :o: | Medium | [str],[math] |   |
 | 2064 | [Minimized Maximum of Products Distributed to Any Store](./problems/2000-2099/2064/README.md)                          |        | Medium |                                                             |      |
 | 2065 | [Maximum Path Quality of a Graph](./problems/2000-2099/2065/README.md)                                                 |        | Hard   |                                                             |      |
 | 2066 | [Account Balance](./problems/2000-2099/2066/README.md)                                                                 | :lock: | Medium |                                                             |      |

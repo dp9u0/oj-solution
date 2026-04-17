@@ -1582,7 +1582,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1507 | [1507](./problems/1500-1599/1507/README.md)                                                                            | :o:    | Easy   | [str]                                                       |      |
 | 1508 | [Range Sum of Sorted Subarray Sums](./problems/1500-1599/1508/README.md)                                               | :o:    | Medium | [arr],[dp]                                                  |      |
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](./problems/1500-1599/1509/README.md)            | :o:    | Medium | [greedy]                                                    |      |
-| 1510 | [Stone Game IV](./problems/1500-1599/1510/README.md)                                                                   |        | Hard   |                                                             |      |
+| 1510 | [Stone Game IV](./problems/1500-1599/1510/README.md) | :o: | Hard | [dp] |   |
 | 1511 | [Customer Order Frequency](./problems/1500-1599/1511/README.md)                                                        | :lock: | Easy   |                                                             |      |
 | 1512 | [Number of Good Pairs](./problems/1500-1599/1512/README.md)                                                            | :o:    | Easy   | [arr]                                                       |      |
 | 1513 | [Number of Substrings With Only 1s](./problems/1500-1599/1513/README.md)                                               |        | Medium |                                                             |      |

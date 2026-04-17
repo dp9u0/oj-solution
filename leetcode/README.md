@@ -2700,7 +2700,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2659 | [Make Array Empty](./problems/2600-2699/2659/README.md)                                                                |        | Hard   |                                                             |      |
 | 2660 | [Determine the Winner of a Bowling Game](./problems/2600-2699/2660/README.md)                                          | :o:    | Easy   | [arr],[lgc]                                                 |      |
 | 2661 | [First Completely Painted Row or Column](./problems/2600-2699/2661/README.md)                                          | :o:    | Medium | [arr],[hsh]                                                 |      |
-| 2662 | [Minimum Cost of a Path With Special Roads](./problems/2600-2699/2662/README.md)                                       |        | Medium |                                                             |      |
+| 2662 | [Minimum Cost of a Path With Special Roads](./problems/2600-2699/2662/README.md) | :o: | Medium | [grd] |   |
 | 2663 | [Lexicographically Smallest Beautiful String](./problems/2600-2699/2663/README.md)                                     |        | Hard   |                                                             |      |
 | 2664 | [The Knight’s Tour](./problems/2600-2699/2664/README.md)                                                               | :lock: | Medium |                                                             |      |
 | 2665 | [2665](./problems/2600-2699/2665/README.md)                                                                            |        | Easy   |                                                             |      |

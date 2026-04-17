@@ -2506,7 +2506,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2465 | [Number of Distinct Averages](./problems/2400-2499/2465/README.md)                                                     | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2466 | [Count Ways To Build Good Strings](./problems/2400-2499/2466/README.md)                                                | :o:    | Medium | [dp],[str]                                                  |      |
 | 2467 | [Most Profitable Path in a Tree](./problems/2400-2499/2467/README.md)                                                  | :o:    | Medium | [tr],[dfs]                                                  |      |
-| 2468 | [Split Message Based on Limit](./problems/2400-2499/2468/README.md)                                                    |        | Hard   |                                                             |      |
+| 2468 | [Split Message Based on Limit](./problems/2400-2499/2468/README.md) | :o: | Hard | [str],[grd] |   |
 | 2469 | [Convert the Temperature](./problems/2400-2499/2469/README.md)                                                         |        | Easy   |                                                             |      |
 | 2470 | [Number of Subarrays With LCM Equal to K](./problems/2400-2499/2470/README.md)                                         |        | Medium |                                                             |      |
 | 2471 | [Minimum Number of Operations to Sort a Binary Tree by Level](./problems/2400-2499/2471/README.md)                     | :o:    | Medium | [tr],[bfs]                                                  | :+1: |

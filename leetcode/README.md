@@ -3678,3 +3678,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3866 | [First Unique Even Element](./problems/3800-3899/3866/README.md) | :o: | Easy | [hsh],[arr] |   |
 | 3425 | [Longest Special Path](./problems/3400-3499/3425/README.md) | :o: | Hard | [tr],[dfs] |   |
 | 3590 | [Kth Smallest Path XOR Sum](./problems/3500-3599/3590/README.md) | :o: | Hard | [tr],[bit],[dfs] |   |
+| 3589 | [Count Prime-Gap Balanced Subarrays](./problems/3500-3599/3589/README.md) | :o: | Medium | [sd],[math] |   |

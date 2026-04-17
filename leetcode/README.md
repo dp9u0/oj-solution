@@ -3653,3 +3653,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3519 | [Count Numbers with Non-Decreasing Digits](./problems/3500-3599/3519/README.md) | :o: | Hard | [dp],[math] | :+1:  |
 | 3627 | [Maximum Median Sum of Subsequences of Size 3](./problems/3600-3699/3627/README.md) | :o: | Medium | [arr],[grd] |   |
 | 1734 | [Decode XORed Permutation](./problems/1700-1799/1734/README.md) | :o: | Medium | [arr],[bit] |   |
+| 3633 | [Earliest Finish Time for Land and Water Rides I](./problems/3600-3699/3633/README.md) | :o: | Easy | [arr],[grd] |   |

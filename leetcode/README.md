@@ -2355,7 +2355,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2314 | [The First Day of the Maximum Recorded Degree in Each City](./problems/2300-2399/2314/README.md)                       | :lock: | Medium |                                                             |      |
 | 2315 | [Count Asterisks](./problems/2300-2399/2315/README.md)                                                                 |        | Easy   |                                                             |      |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./problems/2300-2399/2316/README.md)                         | :o:    | Medium | [union-find]                                                |      |
-| 2317 | [Maximum XOR After Operations](./problems/2300-2399/2317/README.md)                                                    |        | Medium |                                                             |      |
+| 2317 | [Maximum XOR After Operations](./problems/2300-2399/2317/README.md) | :o: | Medium | [bit] |   |
 | 2318 | [Number of Distinct Roll Sequences](./problems/2300-2399/2318/README.md) | :o: | Hard | [dp] |   |
 | 2319 | [Check if Matrix Is X-Matrix](./problems/2300-2399/2319/README.md)                                                     | :o:    | Easy   | [arr],[lgc]                                                 |      |
 | 2320 | [Count Number of Ways to Place Houses](./problems/2300-2399/2320/README.md)                                            |        | Medium |                                                             |      |

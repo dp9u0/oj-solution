@@ -3345,7 +3345,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3304 | [Find the K-th Character in String Game I](./problems/3300-3399/3304/README.md)                                        | :o:    | Easy   | [bit],[math]                                                |      |
 | 3305 | [Count of Substrings Containing Every Vowel and K Consonants I](./problems/3300-3399/3305/README.md)                   |        | Medium |                                                             |      |
 | 3306 | [Count of Substrings Containing Every Vowel and K Consonants II](./problems/3300-3399/3306/README.md)                  | :o:    | Medium | [sd],[hsh]                                                  |      |
-| 3307 | [Find the K-th Character in String Game II](./problems/3300-3399/3307/README.md)                                       |        | Hard   |                                                             |      |
+| 3307 | [Find the K-th Character in String Game II](./problems/3300-3399/3307/README.md) | :o: | Hard | [str],[math] | :+1:  |
 | 3308 | [Find Top Performing Driver](./problems/3300-3399/3308/README.md)                                                      | :lock: | Medium |                                                             |      |
 | 3309 | [Maximum Possible Number by Binary Concatenation](./problems/3300-3399/3309/README.md)                                 | :o:    | Medium | [bit],[math]                                                |      |
 | 3310 | [Remove Methods From Project](./problems/3300-3399/3310/README.md) | :o: | Medium | [grf],[bfs] |   |

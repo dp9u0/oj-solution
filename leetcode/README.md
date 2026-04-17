@@ -2863,7 +2863,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2822 | [2822](./problems/2800-2899/2822/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2823 | [2823](./problems/2800-2899/2823/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2824 | [Count Pairs Whose Sum is Less than Target](./problems/2800-2899/2824/README.md)                                       | :o:    | Easy   | [tp]                                                        |      |
-| 2825 | [Make String a Subsequence Using Cyclic Increments](./problems/2800-2899/2825/README.md)                               |        | Medium |                                                             |      |
+| 2825 | [Make String a Subsequence Using Cyclic Increments](./problems/2800-2899/2825/README.md) | :o: | Medium | [tp],[str] |   |
 | 2826 | [Sorting Three Groups](./problems/2800-2899/2826/README.md)                                                            |        | Medium |                                                             |      |
 | 2827 | [Number of Beautiful Integers in the Range](./problems/2800-2899/2827/README.md)                                       | :o:    | Hard   | [dp],[math]                                                 | :+1: |
 | 2828 | [Check if a String Is an Acronym of Words](./problems/2800-2899/2828/README.md)                                        |        | Easy   |                                                             |      |

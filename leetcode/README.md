@@ -1455,7 +1455,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1380 | [Lucky Numbers in a Matrix](./problems/1300-1399/1380/README.md)                                                       | :o:    | Easy   | [arr],[math]                                                |      |
 | 1381 | [Design a Stack With Increment Operation](./problems/1300-1399/1381/README.md)                                         | :o:    | Medium | [des],[stk]                                                 |      |
 | 1382 | [Balance a Binary Search Tree](./problems/1300-1399/1382/README.md)                                                    | :o:    | Medium | [tr],[dfs]                                                  | :+1: |
-| 1383 | [Maximum Performance of a Team](./problems/1300-1399/1383/README.md)                                                   |        | Hard   |                                                             |      |
+| 1383 | [Maximum Performance of a Team](./problems/1300-1399/1383/README.md) | :o: | Hard | [grd],[hp] |   |
 | 1384 | [Total Sales Amount by Year](./problems/1300-1399/1384/README.md)                                                      | :lock: | Hard   |                                                             |      |
 | 1385 | [Find the Distance Value Between Two Arrays](./problems/1300-1399/1385/README.md) | :o: | Easy | [arr],[bs] |   |
 | 1386 | [Cinema Seat Allocation](./problems/1300-1399/1386/README.md)                                                          | :o:    | Medium | [hsh],[bit]                                                 |      |

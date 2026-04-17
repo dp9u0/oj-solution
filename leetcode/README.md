@@ -2522,7 +2522,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2481 | [Minimum Cuts to Divide a Circle](./problems/2400-2499/2481/README.md)                                                 | :o:    | Easy   | [math],[lgc]                                                |      |
 | 2482 | [Difference Between Ones and Zeros in Row and Column](./problems/2400-2499/2482/README.md)                             | :o:    | Medium | [arr],[math]                                                |      |
 | 2483 | [Minimum Penalty for a Shop](./problems/2400-2499/2483/README.md)                                                      | :o:    | Medium | [str],[greedy]                                              |      |
-| 2484 | [Count Palindromic Subsequences](./problems/2400-2499/2484/README.md)                                                  |        | Hard   |                                                             |      |
+| 2484 | [Count Palindromic Subsequences](./problems/2400-2499/2484/README.md) | :o: | Hard | [dp],[str] |   |
 | 2485 | [Find the Pivot Integer](./problems/2400-2499/2485/README.md)                                                          | :o:    | Easy   | [math],[lgc]                                                |      |
 | 2486 | [Append Characters to String to Make Subsequence](./problems/2400-2499/2486/README.md)                                 | :o:    | Medium | [str],[tp]                                                  |      |
 | 2487 | [Remove Nodes From Linked List](./problems/2400-2499/2487/README.md)                                                   | :o:    | Medium | [ll],[stack]                                                |      |

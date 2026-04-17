@@ -2771,7 +2771,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2730 | [Find the Longest Semi-Repetitive Substring](./problems/2700-2799/2730/README.md)                                      | :o:    | Medium | [str],[sd]                                                  |      |
 | 2731 | [Movement of Robots](./problems/2700-2799/2731/README.md)                                                              | :o:    | Medium | [arr],[math]                                                |      |
 | 2732 | [Find a Good Subset of the Matrix](./problems/2700-2799/2732/README.md)                                                |        | Hard   |                                                             |      |
-| 2733 | [Neither Minimum nor Maximum](./problems/2700-2799/2733/README.md)                                                     |        | Easy   |                                                             |      |
+| 2733 | [Neither Minimum nor Maximum](./problems/2700-2799/2733/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 2734 | [Lexicographically Smallest String After Substring Operation](./problems/2700-2799/2734/README.md)                     | :o:    | Medium | [str]                                                       |      |
 | 2735 | [Collecting Chocolates](./problems/2700-2799/2735/README.md)                                                           |        | Medium |                                                             |      |
 | 2736 | [Maximum Sum Queries](./problems/2700-2799/2736/README.md)                                                             |        | Hard   |                                                             |      |

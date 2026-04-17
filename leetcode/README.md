@@ -3012,7 +3012,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2971 | [Find Polygon With the Largest Perimeter](./problems/2900-2999/2971/README.md)                                         | :o:    | Medium | [arr]                                                       |      |
 | 2972 | [Count the Number of Incremovable Subarrays II](./problems/2900-2999/2972/README.md)                                   |        | Hard   |                                                             |      |
 | 2973 | [Find Number of Coins to Place in Tree Nodes](./problems/2900-2999/2973/README.md)                                     |        | Hard   |                                                             |      |
-| 2974 | [Minimum Number Game](./problems/2900-2999/2974/README.md)                                                             |        | Easy   |                                                             |      |
+| 2974 | [Minimum Number Game](./problems/2900-2999/2974/README.md) | :o: | Easy | [arr] |   |
 | 2975 | [Maximum Square Area by Removing Fences From a Field](./problems/2900-2999/2975/README.md)                             |        | Medium |                                                             |      |
 | 2976 | [Minimum Cost to Convert String I](./problems/2900-2999/2976/README.md)                                                |        | Medium |                                                             |      |
 | 2977 | [Minimum Cost to Convert String II](./problems/2900-2999/2977/README.md)                                               |        | Hard   |                                                             |      |

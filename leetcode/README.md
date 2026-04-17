@@ -2737,7 +2737,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2696 | [Minimum String Length After Removing Substrings](./problems/2600-2699/2696/README.md)                                 | :o:    | Easy   | [str],[stk]                                                 |      |
 | 2697 | [Lexicographically Smallest Palindrome](./problems/2600-2699/2697/README.md)                                           |        | Easy   |                                                             |      |
 | 2698 | [Find the Punishment Number of an Integer](./problems/2600-2699/2698/README.md)                                        |        | Medium |                                                             |      |
-| 2699 | [Modify Graph Edge Weights](./problems/2600-2699/2699/README.md)                                                       |        | Hard   |                                                             |      |
+| 2699 | [Modify Graph Edge Weights](./problems/2600-2699/2699/README.md) | :o: | Hard | [grf],[bs],[dijkstra] |   |
 | 2700 | [2700](./problems/2700-2799/2700/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2701 | [Consecutive Transactions with Increasing Amounts](./problems/2700-2799/2701/README.md)                                | :lock: | Hard   |                                                             |      |
 | 2702 | [Minimum Operations to Make Numbers Non-positive](./problems/2700-2799/2702/README.md)                                 | :lock: | Hard   |                                                             |      |

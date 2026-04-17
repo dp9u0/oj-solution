@@ -3627,3 +3627,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3530 | [Maximum Profit from Valid Topological Order in DAG](./problems/3500-3599/3530/README.md) | :o: | Hard | [dp],[bit] |   |
 | 3785 | [Minimum Swaps to Avoid Forbidden Values](./problems/3700-3799/3785/README.md) | :o: | Hard | [arr] |   |
 | 3625 | [Count Number of Trapezoids II](./problems/3600-3699/3625/README.md) | :o: | Hard | [math] |   |
+| 3694 | [Distinct Points Reachable After Substring Removal](./problems/3600-3699/3694/README.md) | :o: | Medium | [str] |   |

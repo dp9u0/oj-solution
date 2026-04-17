@@ -2873,7 +2873,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2832 | [Maximal Range That Each Element Is Maximum in It](./problems/2800-2899/2832/README.md)                                | :lock: | Medium |                                                             |      |
 | 2833 | [Furthest Point From Origin](./problems/2800-2899/2833/README.md)                                                      | :o:    | Easy   | [str],[math]                                                |      |
 | 2834 | [Find the Minimum Possible Sum of a Beautiful Array](./problems/2800-2899/2834/README.md)                              | :o:    | Medium | [math],[grd]                                                |      |
-| 2835 | [Minimum Operations to Form Subsequence With Target Sum](./problems/2800-2899/2835/README.md)                          |        | Hard   |                                                             |      |
+| 2835 | [Minimum Operations to Form Subsequence With Target Sum](./problems/2800-2899/2835/README.md) | :o: | Hard | [bit],[grd] |   |
 | 2836 | [Maximize Value of Function in a Ball Passing Game](./problems/2800-2899/2836/README.md)                               |        | Hard   |                                                             |      |
 | 2837 | [Total Traveled Distance](./problems/2800-2899/2837/README.md)                                                         | :lock: | Easy   |                                                             |      |
 | 2838 | [Maximum Coins Heroes Can Collect](./problems/2800-2899/2838/README.md)                                                | :lock: | Medium |                                                             |      |

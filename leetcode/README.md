@@ -1883,7 +1883,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1842 | [Next Palindrome Using Same Digits](./problems/1800-1899/1842/README.md)                                               | :lock: | Hard   |                                                             |      |
 | 1843 | [Suspicious Bank Accounts](./problems/1800-1899/1843/README.md)                                                        | :lock: | Medium |                                                             |      |
 | 1844 | [Replace All Digits with Characters](./problems/1800-1899/1844/README.md) | :o: | Easy | [str] |   |
-| 1845 | [Seat Reservation Manager](./problems/1800-1899/1845/README.md)                                                        |        | Medium |                                                             |      |
+| 1845 | [Seat Reservation Manager](./problems/1800-1899/1845/README.md) | :o: | Medium | [des],[ds],[hp] |   |
 | 1846 | [Maximum Element After Decreasing and Rearranging](./problems/1800-1899/1846/README.md)                                | :o:    | Medium | [grd]                                                       |      |
 | 1847 | [Closest Room](./problems/1800-1899/1847/README.md)                                                                    |        | Hard   |                                                             |      |
 | 1848 | [Minimum Distance to the Target Element](./problems/1800-1899/1848/README.md)                                          |        | Easy   |                                                             |      |

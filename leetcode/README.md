@@ -1170,7 +1170,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1093 | [Statistics from a Large Sample](./problems/1000-1099/1093/README.md)                                                  | :o:    | Medium | [arr]                                                       |      |
 | 1094 | [Car Pooling](./problems/1000-1099/1094/README.md)                                                                     | :o:    | Medium | [arr]                                                       | :+1: |
 | 1095 | [Find in Mountain Array](./problems/1000-1099/1095/README.md)                                                          | :o:    | Hard   | [bs]                                                        | :+1: |
-| 1096 | [Brace Expansion II](./problems/1000-1099/1096/README.md)                                                              |        | Hard   |                                                             |      |
+| 1096 | [Brace Expansion II](./problems/1000-1099/1096/README.md) | :o: | Hard | [str],[dc] |   |
 | 1097 | [Game Play Analysis V](./problems/1000-1099/1097/README.md)                                                            | :lock: | Hard   |                                                             |      |
 | 1098 | [Unpopular Books](./problems/1000-1099/1098/README.md)                                                                 | :lock: | Medium |                                                             |      |
 | 1099 | [Two Sum Less Than K](./problems/1000-1099/1099/README.md)                                                             | :lock: | Easy   |                                                             |      |

@@ -3672,3 +3672,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3504 | [Longest Palindrome After Substring Concatenation II](./problems/3500-3599/3504/README.md) | :o: | Hard | [str],[dp] |   |
 | 3790 | [Smallest All-Ones Multiple](./problems/3700-3799/3790/README.md) | :o: | Medium | [math] |   |
 | 3573 | [Best Time to Buy and Sell Stock V](./problems/3500-3599/3573/README.md) | :o: | Medium | [dp] |   |
+| 3824 | [Minimum K to Reduce Array Within Limit](./problems/3800-3899/3824/README.md) | :o: | Medium | [bs],[math] |   |

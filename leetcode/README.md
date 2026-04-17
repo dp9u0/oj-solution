@@ -1647,7 +1647,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1572 | [Matrix Diagonal Sum](./problems/1500-1599/1572/README.md)                                                             |        | Easy   |                                                             |      |
 | 1573 | [Number of Ways to Split a String](./problems/1500-1599/1573/README.md)                                                | :o:    | Medium | [str],[math]                                                |      |
 | 1574 | [Shortest Subarray to be Removed to Make Array Sorted](./problems/1500-1599/1574/README.md)                            | :o:    | Medium | [arr],[tp]                                                  |      |
-| 1575 | [Count All Possible Routes](./problems/1500-1599/1575/README.md)                                                       |        | Hard   |                                                             |      |
+| 1575 | [Count All Possible Routes](./problems/1500-1599/1575/README.md) | :o: | Hard | [dp] |   |
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](./problems/1500-1599/1576/README.md)                       | :o:    | Easy   | [str]                                                       |      |
 | 1577 | [Number of Ways Where Square of Number Is Equal to Product of Two Numbers](./problems/1500-1599/1577/README.md)        | :o:    | Medium | [arr],[hsh]                                                 | :+1: |
 | 1578 | [Minimum Deletion Cost to Avoid Repeating Letters](./problems/1500-1599/1578/README.md)                                | :o:    | Medium | [arr],[tp]                                                  |      |

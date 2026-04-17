@@ -2360,7 +2360,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2319 | [Check if Matrix Is X-Matrix](./problems/2300-2399/2319/README.md)                                                     | :o:    | Easy   | [arr],[lgc]                                                 |      |
 | 2320 | [Count Number of Ways to Place Houses](./problems/2300-2399/2320/README.md)                                            |        | Medium |                                                             |      |
 | 2321 | [2321](./problems/2300-2399/2321/README.md)                                                                            | :o:    | Hard   | [arr],[dp]                                                  |      |
-| 2322 | [Minimum Score After Removals on a Tree](./problems/2300-2399/2322/README.md)                                          |        | Hard   |                                                             |      |
+| 2322 | [Minimum Score After Removals on a Tree](./problems/2300-2399/2322/README.md) | :o: | Hard | [tr],[dfs] | :+1:  |
 | 2323 | [Find Minimum Time to Finish All Jobs II](./problems/2300-2399/2323/README.md)                                         | :lock: | Medium |                                                             |      |
 | 2324 | [Product Sales Analysis IV](./problems/2300-2399/2324/README.md)                                                       | :lock: | Medium |                                                             |      |
 | 2325 | [Decode the Message](./problems/2300-2399/2325/README.md)                                                              | :o:    | Easy   | [str],[hsh]                                                 |      |

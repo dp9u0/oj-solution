@@ -1683,7 +1683,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1608 | [Special Array With X Elements Greater Than or Equal X](./problems/1600-1699/1608/README.md)                           | :o:    | Easy   | [arr],[bs]                                                  |      |
 | 1609 | [Even Odd Tree](./problems/1600-1699/1609/README.md)                                                                   | :o:    | Medium | [tr],[bfs]                                                  |      |
 | 1610 | [Maximum Number of Visible Points](./problems/1600-1699/1610/README.md)                                                |        | Hard   |                                                             |      |
-| 1611 | [Minimum One Bit Operations to Make Integers Zero](./problems/1600-1699/1611/README.md)                                |        | Hard   |                                                             |      |
+| 1611 | [Minimum One Bit Operations to Make Integers Zero](./problems/1600-1699/1611/README.md) | :o: | Hard | [bit],[math] | :+1:  |
 | 1612 | [Check If Two Expression Trees are Equivalent](./problems/1600-1699/1612/README.md)                                    | :lock: | Medium |                                                             |      |
 | 1613 | [Find the Missing IDs](./problems/1600-1699/1613/README.md)                                                            | :lock: | Medium |                                                             |      |
 | 1614 | [Maximum Nesting Depth of the Parentheses](./problems/1600-1699/1614/README.md)                                        | :o:    | Easy   | [stk]                                                       |      |

@@ -1846,7 +1846,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1805 | [Number of Different Integers in a String](./problems/1800-1899/1805/README.md)                                        |        | Easy   |                                                             |      |
 | 1806 | [Minimum Number of Operations to Reinitialize a Permutation](./problems/1800-1899/1806/README.md)                      | :o:    | Medium | [arr],[math]                                                |      |
 | 1807 | [Evaluate the Bracket Pairs of a String](./problems/1800-1899/1807/README.md)                                          | :o:    | Medium | [str],[hsh]                                                 |      |
-| 1808 | [Maximize Number of Nice Divisors](./problems/1800-1899/1808/README.md)                                                |        | Hard   |                                                             |      |
+| 1808 | [Maximize Number of Nice Divisors](./problems/1800-1899/1808/README.md) | :o: | Hard | [math] |   |
 | 1809 | [Ad-Free Sessions](./problems/1800-1899/1809/README.md)                                                                | :lock: | Easy   |                                                             |      |
 | 1810 | [Minimum Path Cost in a Hidden Grid](./problems/1800-1899/1810/README.md)                                              | :lock: | Medium |                                                             |      |
 | 1811 | [Find Interview Candidates](./problems/1800-1899/1811/README.md)                                                       | :lock: | Medium |                                                             |      |

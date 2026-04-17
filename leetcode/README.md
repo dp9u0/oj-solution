@@ -3372,7 +3372,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3331 | [Find Subtree Sizes After Changes](./problems/3300-3399/3331/README.md)                                                |        | Medium |                                                             |      |
 | 3332 | [Maximum Points Tourist Can Earn](./problems/3300-3399/3332/README.md)                                                 | :o:    | Medium | [dp],[arr]                                                  |      |
 | 3333 | [Find the Original Typed String II](./problems/3300-3399/3333/README.md)                                               | :o:    | Hard   | [dp],[str]                                                  |      |
-| 3334 | [Find the Maximum Factor Score of Array](./problems/3300-3399/3334/README.md)                                          |        | Medium |                                                             |      |
+| 3334 | [Find the Maximum Factor Score of Array](./problems/3300-3399/3334/README.md) | :o: | Medium | [arr],[math] |   |
 | 3335 | [Total Characters in String After Transformations I](./problems/3300-3399/3335/README.md)                              | :o:    | Medium | [str],[dp]                                                  |      |
 | 3336 | [Find the Number of Subsequences With Equal GCD](./problems/3300-3399/3336/README.md)                                  |        | Hard   |                                                             |      |
 | 3337 | [Total Characters in String After Transformations II](./problems/3300-3399/3337/README.md)                             | :o:    | Hard   | [str],[math]                                                |      |

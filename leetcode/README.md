@@ -3648,3 +3648,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1771 | [Maximize Palindrome Length From Subsequences](./problems/1700-1799/1771/README.md) | :o: | Hard | [dp],[str] |   |
 | 3413 | [Maximum Coins From K Consecutive Bags](./problems/3400-3499/3413/README.md) | :o: | Medium | [arr],[bs] |   |
 | 3772 | [Maximum Subgraph Score in a Tree](./problems/3700-3799/3772/README.md) | :o: | Hard | [tr],[dp] |   |
+| 3873 | [Maximum Points Activated with One Addition](./problems/3800-3899/3873/README.md) | :o: | Hard | [grf],[ds] | :+1:  |

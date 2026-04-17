@@ -1549,7 +1549,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1474 | [Delete N Nodes After M Nodes of a Linked List](./problems/1400-1499/1474/README.md)                                   | :lock: | Easy   |                                                             |      |
 | 1475 | [Final Prices With a Special Discount in a Shop](./problems/1400-1499/1475/README.md)                                  | :o:    | Easy   | [arr],[stack]                                               |      |
 | 1476 | [Subrectangle Queries](./problems/1400-1499/1476/README.md)                                                            | :o:    | Medium | [des],[arr]                                                 |      |
-| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](./problems/1400-1499/1477/README.md)                        |        | Medium |                                                             |      |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](./problems/1400-1499/1477/README.md) | :o: | Medium | [arr],[sd] | :+1:  |
 | 1478 | [Allocate Mailboxes](./problems/1400-1499/1478/README.md)                                                              |        | Hard   |                                                             |      |
 | 1479 | [Sales by Day of the Week](./problems/1400-1499/1479/README.md)                                                        | :lock: | Hard   |                                                             |      |
 | 1480 | [Running Sum of 1d Array](./problems/1400-1499/1480/README.md)                                                         | :o:    | Easy   | [arr]                                                       |      |

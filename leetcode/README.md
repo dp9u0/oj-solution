@@ -3310,7 +3310,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3269 | [Constructing Two Increasing Arrays](./problems/3200-3299/3269/README.md)                                              | :lock: | Hard   |                                                             |      |
 | 3270 | [Find the Key of the Numbers](./problems/3200-3299/3270/README.md)                                                     |        | Easy   |                                                             |      |
 | 3271 | [Hash Divided String](./problems/3200-3299/3271/README.md)                                                             | :o:    | Medium | [str]                                                       |      |
-| 3272 | [Find the Count of Good Integers](./problems/3200-3299/3272/README.md)                                                 |        | Hard   |                                                             |      |
+| 3272 | [Find the Count of Good Integers](./problems/3200-3299/3272/README.md) | :o: | Hard | [math],[dp] |   |
 | 3273 | [Minimum Amount of Damage Dealt to Bob](./problems/3200-3299/3273/README.md)                                           | :o:    | Hard   | [grd],[arr]                                                 | :+1: |
 | 3274 | [Check if Two Chessboard Squares Have the Same Color](./problems/3200-3299/3274/README.md)                             | :o:    | Easy   | [math],[lgc]                                                |      |
 | 3275 | [K-th Nearest Obstacle Queries](./problems/3200-3299/3275/README.md) | :o: | Medium | [hp],[arr] |   |

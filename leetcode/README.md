@@ -3645,3 +3645,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1733 | [Minimum Number of People to Teach](./problems/1700-1799/1733/README.md) | :o: | Medium | [hsh],[grd] |   |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](./problems/3500-3599/3551/README.md) | :o: | Medium | [arr],[math] |   |
 | 3870 | [Count Commas in Range](./problems/3800-3899/3870/README.md) | :o: | Easy | [math] |   |
+| 1771 | [Maximize Palindrome Length From Subsequences](./problems/1700-1799/1771/README.md) | :o: | Hard | [dp],[str] |   |

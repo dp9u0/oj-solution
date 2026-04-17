@@ -2492,7 +2492,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2451 | [Odd String Difference](./problems/2400-2499/2451/README.md)                                                           | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2452 | [Words Within Two Edits of Dictionary](./problems/2400-2499/2452/README.md)                                            | :o:    | Medium | [str]                                                       |      |
 | 2453 | [Destroy Sequential Targets](./problems/2400-2499/2453/README.md)                                                      | :o:    | Medium | [arr],[hsh]                                                 |      |
-| 2454 | [Next Greater Element IV](./problems/2400-2499/2454/README.md)                                                         |        | Hard   |                                                             |      |
+| 2454 | [Next Greater Element IV](./problems/2400-2499/2454/README.md) | :o: | Hard | [stk] |   |
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](./problems/2400-2499/2455/README.md)                       | :o:    | Easy   | [arr]                                                       |      |
 | 2456 | [Most Popular Video Creator](./problems/2400-2499/2456/README.md)                                                      | :o:    | Medium | [hash]                                                      |      |
 | 2457 | [Minimum Addition to Make Integer Beautiful](./problems/2400-2499/2457/README.md)                                      | :o:    | Medium | [math],[grd]                                                |      |

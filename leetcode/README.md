@@ -2799,7 +2799,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2758 | [2758](./problems/2700-2799/2758/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2759 | [2759](./problems/2700-2799/2759/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2760 | [Longest Even Odd Subarray With Threshold](./problems/2700-2799/2760/README.md)                                        | :o:    | Easy   | [arr],[lgc]                                                 |      |
-| 2761 | [Prime Pairs With Target Sum](./problems/2700-2799/2761/README.md)                                                     |        | Medium |                                                             |      |
+| 2761 | [Prime Pairs With Target Sum](./problems/2700-2799/2761/README.md) | :o: | Medium | [math] |   |
 | 2762 | [Continuous Subarrays](./problems/2700-2799/2762/README.md)                                                            | :o:    | Medium | [sd]                                                        |      |
 | 2763 | [Sum of Imbalance Numbers of All Subarrays](./problems/2700-2799/2763/README.md)                                       |        | Hard   |                                                             |      |
 | 2764 | [Is Array a Preorder of Some ‌Binary Tree](./problems/2700-2799/2764/README.md)                                         | :lock: | Medium |                                                             |      |

@@ -3641,3 +3641,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3417 | [Zigzag Grid Traversal With Skip](./problems/3400-3499/3417/README.md) | :o: | Easy | [arr] |   |
 | 3518 | [Smallest Palindromic Rearrangement II](./problems/3500-3599/3518/README.md) | :o: | Hard | [dp],[math] | :+1:  |
 | 3537 | [Fill a Special Grid](./problems/3500-3599/3537/README.md) | :o: | Medium | [dc] |   |
+| 3715 | [Sum of Perfect Square Ancestors](./problems/3700-3799/3715/README.md) | :o: | Hard | [tr],[dfs],[math] |   |

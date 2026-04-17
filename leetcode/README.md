@@ -3657,3 +3657,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3887 | [Incremental Even-Weighted Cycle Queries](./problems/3800-3899/3887/README.md) | :o: | Hard | [grf],[ds] | :+1:  |
 | 3814 | [Maximum Capacity Within Budget](./problems/3800-3899/3814/README.md) | :o: | Medium | [arr],[bs],[grd] |   |
 | 3871 | [Count Commas in Range II](./problems/3800-3899/3871/README.md) | :o: | Medium | [math] |   |
+| 3604 | [Minimum Time to Reach Destination in Directed Graph](./problems/3600-3699/3604/README.md) | :o: | Medium | [grf],[bfs] |   |

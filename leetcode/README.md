@@ -1421,7 +1421,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1346 | [Check If N and Its Double Exist](./problems/1300-1399/1346/README.md)                                                 | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 1347 | [Minimum Number of Steps to Make Two Strings Anagram](./problems/1300-1399/1347/README.md)                             | :o:    | Medium | [str],[hm]                                                  |      |
 | 1348 | [Tweet Counts Per Frequency](./problems/1300-1399/1348/README.md) | :o: | Medium | [des],[hsh] |   |
-| 1349 | [Maximum Students Taking Exam](./problems/1300-1399/1349/README.md)                                                    |        | Hard   |                                                             |      |
+| 1349 | [Maximum Students Taking Exam](./problems/1300-1399/1349/README.md) | :o: | Hard | [dp] |   |
 | 1350 | [Students With Invalid Departments](./problems/1300-1399/1350/README.md)                                               | :lock: | Easy   |                                                             |      |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](./problems/1300-1399/1351/README.md)                                       | :o:    | Easy   | [bs],[tp]                                                   |      |
 | 1352 | [Product of the Last K Numbers](./problems/1300-1399/1352/README.md)                                                   |        | Medium |                                                             |      |

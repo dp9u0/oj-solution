@@ -3617,3 +3617,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3795 | [Minimum Subarray Length With Distinct Sum At Least K](./problems/3700-3799/3795/README.md) | :o: | Medium | [sd] |   |
 | 3615 | [Longest Palindromic Path in Graph](./problems/3600-3699/3615/README.md) | :o: | Hard | [grf],[dfs],[bit] |   |
 | 3455 | [Shortest Matching Substring](./problems/3400-3499/3455/README.md) | :o: | Hard | [str] |   |
+| 3634 | [Minimum Removals to Balance Array](./problems/3600-3699/3634/README.md) | :o: | Medium | [arr],[bs] |   |

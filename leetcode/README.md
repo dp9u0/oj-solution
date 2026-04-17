@@ -2481,7 +2481,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2440 | [Create Components With Same Value](./problems/2400-2499/2440/README.md)                                               |        | Hard   |                                                             |      |
 | 2441 | [Largest Positive Integer That Exists With Its Negative](./problems/2400-2499/2441/README.md)                          | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2442 | [Count Number of Distinct Integers After Reverse Operations](./problems/2400-2499/2442/README.md)                      | :o:    | Medium | [arr],[hsh]                                                 |      |
-| 2443 | [Sum of Number and Its Reverse](./problems/2400-2499/2443/README.md)                                                   |        | Medium |                                                             |      |
+| 2443 | [Sum of Number and Its Reverse](./problems/2400-2499/2443/README.md) | :o: | Medium | [math] |   |
 | 2444 | [Count Subarrays With Fixed Bounds](./problems/2400-2499/2444/README.md)                                               | :o:    | Hard   | [arr],[tp]                                                  |      |
 | 2445 | [Number of Nodes With Value One](./problems/2400-2499/2445/README.md)                                                  | :lock: | Medium |                                                             |      |
 | 2446 | [Determine if Two Events Have Conflict](./problems/2400-2499/2446/README.md)                                           | :o:    | Easy   | [str],[lgc]                                                 |      |

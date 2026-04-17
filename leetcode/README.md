@@ -2251,7 +2251,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2210 | [Count Hills and Valleys in an Array](./problems/2200-2299/2210/README.md)                                             | :o:    | Easy   | [arr]                                                       |      |
 | 2211 | [Count Collisions on a Road](./problems/2200-2299/2211/README.md)                                                      | :o:    | Medium | [stack]                                                     |      |
 | 2212 | [Maximum Points in an Archery Competition](./problems/2200-2299/2212/README.md)                                        |        | Medium |                                                             |      |
-| 2213 | [Longest Substring of One Repeating Character](./problems/2200-2299/2213/README.md)                                    |        | Hard   |                                                             |      |
+| 2213 | [Longest Substring of One Repeating Character](./problems/2200-2299/2213/README.md) | :o: | Hard | [str],[ds] | :+1:  |
 | 2214 | [Minimum Health to Beat Game](./problems/2200-2299/2214/README.md)                                                     | :lock: | Medium |                                                             |      |
 | 2215 | [2215](./problems/2200-2299/2215/README.md)                                                                            | :o:    | Easy   | [arr],[hash]                                                |      |
 | 2216 | [2216](./problems/2200-2299/2216/README.md)                                                                            | :o:    | Medium | [arr],[greedy]                                              |      |

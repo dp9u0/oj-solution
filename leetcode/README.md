@@ -2623,7 +2623,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2582 | [Pass the Pillow](./problems/2500-2599/2582/README.md)                                                                 | :o:    | Easy   | [math],[lgc]                                                |      |
 | 2583 | [Kth Largest Sum in a Binary Tree](./problems/2500-2599/2583/README.md)                                                | :o:    | Medium | [tr],[bfs]                                                  |      |
 | 2584 | [Split the Array to Make Coprime Products](./problems/2500-2599/2584/README.md)                                        | :o:    | Hard   | [math],[grd]                                                |      |
-| 2585 | [Number of Ways to Earn Points](./problems/2500-2599/2585/README.md)                                                   |        | Hard   |                                                             |      |
+| 2585 | [Number of Ways to Earn Points](./problems/2500-2599/2585/README.md) | :o: | Hard | [dp] |   |
 | 2586 | [Count the Number of Vowel Strings in Range](./problems/2500-2599/2586/README.md)                                      | :o:    | Easy   | [arr],[str]                                                 |      |
 | 2587 | [Rearrange Array to Maximize Prefix Score](./problems/2500-2599/2587/README.md)                                        | :o:    | Medium | [grd],[arr]                                                 |      |
 | 2588 | [Count the Number of Beautiful Subarrays](./problems/2500-2599/2588/README.md)                                         | :o:    | Medium | [bit],[hash]                                                | :+1: |

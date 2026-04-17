@@ -2569,7 +2569,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2528 | [Maximize the Minimum Powered City](./problems/2500-2599/2528/README.md)                                               |        | Hard   |                                                             |      |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](./problems/2500-2599/2529/README.md)                          | :o:    | Easy   | [bs]                                                        |      |
 | 2530 | [Maximal Score After Applying K Operations](./problems/2500-2599/2530/README.md)                                       | :o:    | Medium | [arr],[heap]                                                |      |
-| 2531 | [Make Number of Distinct Characters Equal](./problems/2500-2599/2531/README.md)                                        |        | Medium |                                                             |      |
+| 2531 | [Make Number of Distinct Characters Equal](./problems/2500-2599/2531/README.md) | :o: | Medium | [str],[hsh] |   |
 | 2532 | [Time to Cross a Bridge](./problems/2500-2599/2532/README.md) | :o: | Hard | [hp],[sd] |   |
 | 2533 | [Number of Good Binary Strings](./problems/2500-2599/2533/README.md)                                                   | :lock: | Medium |                                                             |      |
 | 2534 | [Time Taken to Cross the Door](./problems/2500-2599/2534/README.md)                                                    | :lock: | Hard   |                                                             |      |

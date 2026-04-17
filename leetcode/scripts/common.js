@@ -15,7 +15,7 @@ module.exports.checkStarted = function () {
 }
 
 module.exports.setCurrent = function (problem) {
-  fs.writeFileSync(CURRENT_FILE, problem);
+  fs.writeFileSync(CURRENT_FILE, ""+problem);
 }
 
 module.exports.getCurrent = function () {

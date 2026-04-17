@@ -2641,7 +2641,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2600 | [K Items With the Maximum Sum](./problems/2600-2699/2600/README.md)                                                    |        | Easy   |                                                             |      |
 | 2601 | [Prime Subtraction Operation](./problems/2600-2699/2601/README.md)                                                     | :o:    | Medium | [arr],[math],[grd]                                          |      |
 | 2602 | [Minimum Operations to Make All Array Elements Equal](./problems/2600-2699/2602/README.md)                             |        | Medium |                                                             |      |
-| 2603 | [Collect Coins in a Tree](./problems/2600-2699/2603/README.md)                                                         |        | Hard   |                                                             |      |
+| 2603 | [Collect Coins in a Tree](./problems/2600-2699/2603/README.md) | :o: | Hard | [tr] |   |
 | 2604 | [Minimum Time to Eat All Grains](./problems/2600-2699/2604/README.md)                                                  | :lock: | Hard   |                                                             |      |
 | 2605 | [Form Smallest Number From Two Digit Arrays](./problems/2600-2699/2605/README.md)                                      | :o:    | Easy   | [arr],[hash]                                                |      |
 | 2606 | [Find the Substring With Maximum Cost](./problems/2600-2699/2606/README.md)                                            | :o:    | Medium | [str],[dp]                                                  |      |

@@ -2218,7 +2218,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2177 | [Find Three Consecutive Integers That Sum to a Given Number](./problems/2100-2199/2177/README.md)                      | :o:    | Medium | [math]                                                      |      |
 | 2178 | [Maximum Split of Positive Even Integers](./problems/2100-2199/2178/README.md) | :o: | Medium | [math],[grd] |   |
 | 2179 | [Count Good Triplets in an Array](./problems/2100-2199/2179/README.md)                                                 |        | Hard   |                                                             |      |
-| 2180 | [Count Integers With Even Digit Sum](./problems/2100-2199/2180/README.md)                                              |        | Easy   |                                                             |      |
+| 2180 | [Count Integers With Even Digit Sum](./problems/2100-2199/2180/README.md) | :o: | Easy | [math] |   |
 | 2181 | [Merge Nodes in Between Zeros](./problems/2100-2199/2181/README.md)                                                    | :o:    | Medium | [ll]                                                        |      |
 | 2182 | [Construct String With Repeat Limit](./problems/2100-2199/2182/README.md)                                              | :o:    | Medium | [str],[greedy],[heap]                                       |      |
 | 2183 | [Count Array Pairs Divisible by K](./problems/2100-2199/2183/README.md)                                                |        | Hard   |                                                             |      |

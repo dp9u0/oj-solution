@@ -1164,7 +1164,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1087 | [Brace Expansion](./problems/1000-1099/1087/README.md)                                                                 | :lock: | Medium |                                                             |      |
 | 1088 | [Confusing Number II](./problems/1000-1099/1088/README.md)                                                             | :lock: | Hard   |                                                             |      |
 | 1089 | [Duplicate Zeros](./problems/1000-1099/1089/README.md)                                                                 | :o:    | Easy   | [arr],[tp]                                                  |      |
-| 1090 | [Largest Values From Labels](./problems/1000-1099/1090/README.md)                                                      |        | Medium |                                                             |      |
+| 1090 | [Largest Values From Labels](./problems/1000-1099/1090/README.md) | :o: | Medium | [grd] |   |
 | 1091 | [Shortest Path in Binary Matrix](./problems/1000-1099/1091/README.md)                                                  | :o:    | Medium | [bfs]                                                       |      |
 | 1092 | [Shortest Common Supersequence](./problems/1000-1099/1092/README.md)                                                   | :o:    | Hard   | [dp]                                                        |      |
 | 1093 | [Statistics from a Large Sample](./problems/1000-1099/1093/README.md)                                                  | :o:    | Medium | [arr]                                                       |      |

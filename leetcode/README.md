@@ -1671,7 +1671,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1596 | [The Most Frequently Ordered Products for Each Customer](./problems/1500-1599/1596/README.md)                          | :lock: | Medium |                                                             |      |
 | 1597 | [Build Binary Expression Tree From Infix Expression](./problems/1500-1599/1597/README.md)                              | :lock: | Hard   |                                                             |      |
 | 1598 | [Crawler Log Folder](./problems/1500-1599/1598/README.md)                                                              | :o:    | Easy   | [stk]                                                       |      |
-| 1599 | [Maximum Profit of Operating a Centennial Wheel](./problems/1500-1599/1599/README.md)                                  |        | Medium |                                                             |      |
+| 1599 | [Maximum Profit of Operating a Centennial Wheel](./problems/1500-1599/1599/README.md) | :o: | Medium | [arr],[sd] |   |
 | 1600 | [Throne Inheritance](./problems/1600-1699/1600/README.md) | :o: | Medium | [des],[dfs] |   |
 | 1601 | [Maximum Number of Achievable Transfer Requests](./problems/1600-1699/1601/README.md)                                  |        | Hard   |                                                             |      |
 | 1602 | [Find Nearest Right Node in Binary Tree](./problems/1600-1699/1602/README.md)                                          | :lock: | Medium |                                                             |      |

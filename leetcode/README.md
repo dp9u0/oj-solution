@@ -1667,7 +1667,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1592 | [Rearrange Spaces Between Words](./problems/1500-1599/1592/README.md)                                                  | :o:    | Easy   | [str],[lgc]                                                 |      |
 | 1593 | [Split a String Into the Max Number of Unique Substrings](./problems/1500-1599/1593/README.md)                         |        | Medium |                                                             |      |
 | 1594 | [Maximum Non Negative Product in a Matrix](./problems/1500-1599/1594/README.md)                                        | :o:    | Medium | [dp]                                                        |      |
-| 1595 | [Minimum Cost to Connect Two Groups of Points](./problems/1500-1599/1595/README.md)                                    |        | Hard   |                                                             |      |
+| 1595 | [Minimum Cost to Connect Two Groups of Points](./problems/1500-1599/1595/README.md) | :o: | Hard | [dp],[bit] | :+1:  |
 | 1596 | [The Most Frequently Ordered Products for Each Customer](./problems/1500-1599/1596/README.md)                          | :lock: | Medium |                                                             |      |
 | 1597 | [Build Binary Expression Tree From Infix Expression](./problems/1500-1599/1597/README.md)                              | :lock: | Hard   |                                                             |      |
 | 1598 | [Crawler Log Folder](./problems/1500-1599/1598/README.md)                                                              | :o:    | Easy   | [stk]                                                       |      |

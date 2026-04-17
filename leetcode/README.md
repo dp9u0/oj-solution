@@ -3665,3 +3665,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3645 | [Maximum Total from Optimal Activation Order](./problems/3600-3699/3645/README.md) | :o: | Medium | [arr],[grd] |   |
 | 3726 | [Remove Zeros in Decimal Representation](./problems/3700-3799/3726/README.md) | :o: | Easy | [math] |   |
 | 3577 | [Count the Number of Computer Unlocking Permutations](./problems/3500-3599/3577/README.md) | :o: | Medium | [math] |   |
+| 3801 | [Minimum Cost to Merge Sorted Lists](./problems/3800-3899/3801/README.md) | :o: | Hard | [dp],[dc] |   |

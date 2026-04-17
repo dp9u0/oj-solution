@@ -1924,7 +1924,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1883 | [Minimum Skips to Arrive at Meeting On Time](./problems/1800-1899/1883/README.md)                                      |        | Hard   |                                                             |      |
 | 1884 | [Egg Drop With 2 Eggs and N Floors](./problems/1800-1899/1884/README.md) | :o: | Medium | [math] |   |
 | 1885 | [Count Pairs in Two Arrays](./problems/1800-1899/1885/README.md)                                                       | :lock: | Medium |                                                             |      |
-| 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](./problems/1800-1899/1886/README.md)                            |        | Easy   |                                                             |      |
+| 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](./problems/1800-1899/1886/README.md) | :o: | Easy | [arr] |   |
 | 1887 | [Reduction Operations to Make the Array Elements Equal](./problems/1800-1899/1887/README.md)                           | :o:    | Medium | [arr],[sort]                                                |      |
 | 1888 | [Minimum Number of Flips to Make the Binary String Alternating](./problems/1800-1899/1888/README.md)                   | :o:    | Medium | [arr]                                                       |      |
 | 1889 | [Minimum Space Wasted From Packaging](./problems/1800-1899/1889/README.md) | :o: | Hard | [arr],[bs],[grd] |   |

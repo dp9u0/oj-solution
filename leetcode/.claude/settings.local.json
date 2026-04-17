@@ -7,7 +7,9 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(node scripts/sort-readme.js)",
-      "Bash(node -e ':*)"
+      "Bash(node -e ':*)",
+      "mcp__acp__Edit",
+      "mcp__acp__Write"
     ]
   }
 }

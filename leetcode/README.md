@@ -2987,7 +2987,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2946 | [Matrix Similarity After Cyclic Shifts](./problems/2900-2999/2946/README.md)                                           | :o:    | Easy   | [arr],[lgc]                                                 |      |
 | 2947 | [Count Beautiful Substrings I](./problems/2900-2999/2947/README.md)                                                    | :o:    | Medium | [str],[arr]                                                 |      |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./problems/2900-2999/2948/README.md)                      | :o:    | Medium | [arr]                                                       |      |
-| 2949 | [Count Beautiful Substrings II](./problems/2900-2999/2949/README.md)                                                   |        | Hard   |                                                             |      |
+| 2949 | [Count Beautiful Substrings II](./problems/2900-2999/2949/README.md) | :o: | Hard | [hsh],[math] |   |
 | 2950 | [Number of Divisible Substrings](./problems/2900-2999/2950/README.md)                                                  | :lock: | Medium |                                                             |      |
 | 2951 | [Find the Peaks](./problems/2900-2999/2951/README.md)                                                                  |        | Easy   |                                                             |      |
 | 2952 | [Minimum Number of Coins to be Added](./problems/2900-2999/2952/README.md)                                             | :o:    | Medium | [greedy]                                                    |      |

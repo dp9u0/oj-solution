@@ -1340,7 +1340,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1265 | [Print Immutable Linked List in Reverse](./problems/1200-1299/1265/README.md)                                          | :lock: | Medium |                                                             |      |
 | 1266 | [Minimum Time Visiting All Points](./problems/1200-1299/1266/README.md)                                                | :o:    | Easy   | [arr],[math]                                                |      |
 | 1267 | [Count Servers that Communicate](./problems/1200-1299/1267/README.md)                                                  |        | Medium |                                                             |      |
-| 1268 | [Search Suggestions System](./problems/1200-1299/1268/README.md)                                                       |        | Medium |                                                             |      |
+| 1268 | [Search Suggestions System](./problems/1200-1299/1268/README.md) | :o: | Medium | [arr],[bs] |   |
 | 1269 | [Number of Ways to Stay in the Same Place After Some Steps](./problems/1200-1299/1269/README.md) | :o: | Hard | [dp] |   |
 | 1270 | [All People Report to the Given Manager](./problems/1200-1299/1270/README.md)                                          | :lock: | Medium |                                                             |      |
 | 1271 | [Hexspeak](./problems/1200-1299/1271/README.md)                                                                        | :lock: | Easy   |                                                             |      |

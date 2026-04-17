@@ -2153,7 +2153,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2112 | [The Airport With the Most Traffic](./problems/2100-2199/2112/README.md)                                               | :lock: | Medium |                                                             |      |
 | 2113 | [Elements in Array After Removing and Replacing Elements](./problems/2100-2199/2113/README.md)                         | :lock: | Medium |                                                             |      |
 | 2114 | [Maximum Number of Words Found in Sentences](./problems/2100-2199/2114/README.md)                                      | :o:    | Easy   | [str]                                                       |      |
-| 2115 | [Find All Possible Recipes from Given Supplies](./problems/2100-2199/2115/README.md)                                   |        | Medium |                                                             |      |
+| 2115 | [Find All Possible Recipes from Given Supplies](./problems/2100-2199/2115/README.md) | :o: | Medium | [bfs],[hsh] |   |
 | 2116 | [Check if a Parentheses String Can Be Valid](./problems/2100-2199/2116/README.md)                                      | :o:    | Medium | [grd]                                                       |      |
 | 2117 | [Abbreviating the Product of a Range](./problems/2100-2199/2117/README.md) | :o: | Hard | [math] |   |
 | 2118 | [Build the Equation](./problems/2100-2199/2118/README.md)                                                              | :lock: | Hard   |                                                             |      |

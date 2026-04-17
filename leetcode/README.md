@@ -3334,7 +3334,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3293 | [Calculate Product Final Price](./problems/3200-3299/3293/README.md)                                                   | :lock: | Medium |                                                             |      |
 | 3294 | [Convert Doubly Linked List to Array II](./problems/3200-3299/3294/README.md)                                          | :lock: | Medium |                                                             |      |
 | 3295 | [Report Spam Message](./problems/3200-3299/3295/README.md)                                                             |        | Medium |                                                             |      |
-| 3296 | [Minimum Number of Seconds to Make Mountain Height Zero](./problems/3200-3299/3296/README.md)                          |        | Medium |                                                             |      |
+| 3296 | [Minimum Number of Seconds to Make Mountain Height Zero](./problems/3200-3299/3296/README.md) | :o: | Medium | [bs],[grd] |   |
 | 3297 | [Count Substrings That Can Be Rearranged to Contain a String I](./problems/3200-3299/3297/README.md)                   |        | Medium |                                                             |      |
 | 3298 | [Count Substrings That Can Be Rearranged to Contain a String II](./problems/3200-3299/3298/README.md)                  |        | Hard   |                                                             |      |
 | 3299 | [Sum of Consecutive Subsequences](./problems/3200-3299/3299/README.md)                                                 | :lock: | Hard   |                                                             |      |

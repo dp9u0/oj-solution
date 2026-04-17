@@ -3368,7 +3368,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3327 | [Check if DFS Strings Are Palindromes](./problems/3300-3399/3327/README.md)                                            |        | Hard   |                                                             |      |
 | 3328 | [Find Cities in Each State II](./problems/3300-3399/3328/README.md)                                                    | :lock: | Medium |                                                             |      |
 | 3329 | [Count Substrings With K-Frequency Characters II](./problems/3300-3399/3329/README.md)                                 | :lock: | Hard   |                                                             |      |
-| 3330 | [Find the Original Typed String I](./problems/3300-3399/3330/README.md)                                                |        | Easy   |                                                             |      |
+| 3330 | [Find the Original Typed String I](./problems/3300-3399/3330/README.md) | :o: | Easy | [str] |   |
 | 3331 | [Find Subtree Sizes After Changes](./problems/3300-3399/3331/README.md)                                                |        | Medium |                                                             |      |
 | 3332 | [Maximum Points Tourist Can Earn](./problems/3300-3399/3332/README.md)                                                 | :o:    | Medium | [dp],[arr]                                                  |      |
 | 3333 | [Find the Original Typed String II](./problems/3300-3399/3333/README.md)                                               | :o:    | Hard   | [dp],[str]                                                  |      |

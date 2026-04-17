@@ -3669,3 +3669,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3629 | [Minimum Jumps to Reach End via Prime Teleportation](./problems/3600-3699/3629/README.md) | :o: | Medium | [arr],[bfs],[math] |   |
 | 3768 | [Minimum Inversion Count in Subarrays of Fixed Length](./problems/3700-3799/3768/README.md) | :o: | Hard | [arr],[ds],[sd] |   |
 | 3750 | [Minimum Number of Flips to Reverse Binary String](./problems/3700-3799/3750/README.md) | :o: | Easy | [bit] |   |
+| 3504 | [Longest Palindrome After Substring Concatenation II](./problems/3500-3599/3504/README.md) | :o: | Hard | [str],[dp] |   |

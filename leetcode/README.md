@@ -3633,3 +3633,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3489 | [Zero Array Transformation IV](./problems/3400-3499/3489/README.md) | :o: | Medium | [dp] |   |
 | 3561 | [Resulting String After Adjacent Removals](./problems/3500-3599/3561/README.md) | :o: | Medium | [stk] |   |
 | 3525 | [Find X Value of Array II](./problems/3500-3599/3525/README.md) | :o: | Hard | [ds],[dp] |   |
+| 3459 | [Length of Longest V-Shaped Diagonal Segment](./problems/3400-3499/3459/README.md) | :o: | Hard | [grd],[dp] |   |

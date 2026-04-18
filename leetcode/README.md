@@ -3694,3 +3694,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3770 | [Largest Prime from Consecutive Prime Sum](./problems/3700-3799/3770/README.md) | :o: | Medium | [math] |   |
 | 3612 | [Process String with Special Operations I](./problems/3600-3699/3612/README.md) | :o: | Medium | [str] |   |
 | 3471 | [Find the Largest Almost Missing Integer](./problems/3400-3499/3471/README.md) | :o: | Easy | [arr],[hsh] |   |
+| 3532 | [Path Existence Queries in a Graph I](./problems/3500-3599/3532/README.md) | :o: | Medium | [grf],[ds] |   |

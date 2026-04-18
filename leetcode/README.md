@@ -3722,3 +3722,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3587 | [Minimum Adjacent Swaps to Alternate Parity](./problems/3500-3599/3587/README.md) | :o: | Medium | [arr],[bt] |   |
 | 3548 | [Equal Sum Grid Partition II](./problems/3500-3599/3548/README.md) | :o: | Hard | [arr],[hsh] | :+1:  |
 | 3753 | [Total Waviness of Numbers in Range II](./problems/3700-3799/3753/README.md) | :o: | Hard | [dp] | :+1:  |
+| 3852 | [Smallest Pair With Different Frequencies](./problems/3800-3899/3852/README.md) | :o: | Easy | [hsh] |   |

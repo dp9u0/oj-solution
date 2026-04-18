@@ -3740,3 +3740,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1775 | [Equal Sum Arrays With Minimum Number of Operations](./problems/1700-1799/1775/README.md) | :o: | Medium | [grd] |   |
 | 3858 | [Minimum Bitwise OR From Grid](./problems/3800-3899/3858/README.md) | :o: | Medium | [grd],[bit] |   |
 | 3767 | [Maximize Points After Choosing K Tasks](./problems/3700-3799/3767/README.md) | :o: | Medium | [grd],[arr] |   |
+| 3531 | [Count Covered Buildings](./problems/3500-3599/3531/README.md) | :o: | Medium | [hsh],[arr] |   |

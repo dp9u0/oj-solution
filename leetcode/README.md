@@ -3731,3 +3731,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3859 | [Count Subarrays With K Distinct Integers](./problems/3800-3899/3859/README.md) | :o: | Hard | [sd],[arr] |   |
 | 3850 | [Count Sequences to K](./problems/3800-3899/3850/README.md) | :o: | Hard | [dp],[math] |   |
 | 1735 | [Count Ways to Make Array With Product](./problems/1700-1799/1735/README.md) | :o: | Hard | [math],[dp] |   |
+| 3671 | [Sum of Beautiful Subsequences](./problems/3600-3699/3671/README.md) | :o: | Hard | [math],[dp] |   |

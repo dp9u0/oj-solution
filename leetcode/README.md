@@ -3069,7 +3069,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3028 | [Ant on the Boundary](./problems/3000-3099/3028/README.md)                                                             | :o:    | Easy   | [arr]                                                       |      |
 | 3029 | [Minimum Time to Revert Word to Initial State I](./problems/3000-3099/3029/README.md)                                  | :o:    | Medium | [str],[lgc]                                                 |      |
 | 3030 | [Find the Grid of Region Average](./problems/3000-3099/3030/README.md) | :o: | Medium | [arr] |   |
-| 3031 | [Minimum Time to Revert Word to Initial State II](./problems/3000-3099/3031/README.md)                                 |        | Hard   |                                                             |      |
+| 3031 | [Minimum Time to Revert Word to Initial State II](./problems/3000-3099/3031/README.md) | :o: | Hard | [str] | :+1:  |
 | 3032 | [Count Numbers With Unique Digits II](./problems/3000-3099/3032/README.md)                                             | :lock: | Easy   |                                                             |      |
 | 3033 | [Modify the Matrix](./problems/3000-3099/3033/README.md)                                                               | :o:    | Easy   | [arr]                                                       |      |
 | 3034 | [Number of Subarrays That Match a Pattern I](./problems/3000-3099/3034/README.md)                                      |        | Medium |                                                             |      |

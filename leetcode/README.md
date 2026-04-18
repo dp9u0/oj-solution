@@ -1952,7 +1952,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1911 | [Maximum Alternating Subsequence Sum](./problems/1900-1999/1911/README.md)                                             | :o:    | Medium | [dp]                                                        |      |
 | 1912 | [Design Movie Rental System](./problems/1900-1999/1912/README.md) | :o: | Hard | [des],[hsh] |   |
 | 1913 | [Maximum Product Difference Between Two Pairs](./problems/1900-1999/1913/README.md)                                    | :o:    | Easy   | [arr],[sort]                                                |      |
-| 1914 | [Cyclically Rotating a Grid](./problems/1900-1999/1914/README.md)                                                      |        | Medium |                                                             |      |
+| 1914 | [Cyclically Rotating a Grid](./problems/1900-1999/1914/README.md) | :o: | Medium | [arr] |   |
 | 1915 | [Number of Wonderful Substrings](./problems/1900-1999/1915/README.md)                                                  | :o:    | Medium | [bit],[hsh]                                                 |      |
 | 1916 | [1916](./problems/1900-1999/1916/README.md)                                                                            | :o:    | Hard   | [tr],[dp],[math]                                            | :+1: |
 | 1917 | [Leetcodify Friends Recommendations](./problems/1900-1999/1917/README.md)                                              | :lock: | Hard   |                                                             |      |

@@ -3713,3 +3713,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3408 | [Design Task Manager](./problems/3400-3499/3408/README.md) | :o: | Medium | [des],[hp] |   |
 | 3463 | [Check If Digits Are Equal in String After Operations II](./problems/3400-3499/3463/README.md) | :o: | Hard | [math] |   |
 | 1755 | [Closest Subsequence Sum](./problems/1700-1799/1755/README.md) | :o: | Hard | [dc] |   |
+| 3862 | [Find the Smallest Balanced Index](./problems/3800-3899/3862/README.md) | :o: | Medium | [arr] |   |

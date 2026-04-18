@@ -3751,3 +3751,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3698 | [Split Array With Minimum Difference](./problems/3600-3699/3698/README.md) | :o: | Medium | [arr] |   |
 | 3503 | [Longest Palindrome After Substring Concatenation I](./problems/3500-3599/3503/README.md) | :o: | Medium | [str] |   |
 | 3557 | [Find Maximum Number of Non Intersecting Substrings](./problems/3500-3599/3557/README.md) | :o: | Medium | [str],[grd] |   |
+| 3432 | [Count Partitions with Even Sum Difference](./problems/3400-3499/3432/README.md) | :o: | Easy | [arr],[math] |   |

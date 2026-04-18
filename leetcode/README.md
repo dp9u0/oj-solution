@@ -2049,7 +2049,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2008 | [Maximum Earnings From Taxi](./problems/2000-2099/2008/README.md)                                                      | :o:    | Medium | [dp],[grd]                                                  |      |
 | 2009 | [Minimum Number of Operations to Make Array Continuous](./problems/2000-2099/2009/README.md)                           | :o:    | Hard   | [arr],[tp]                                                  | :+1: |
 | 2010 | [The Number of Seniors and Juniors to Join the Company II](./problems/2000-2099/2010/README.md)                        | :lock: | Hard   |                                                             |      |
-| 2011 | [Final Value of Variable After Performing Operations](./problems/2000-2099/2011/README.md)                             |        | Easy   |                                                             |      |
+| 2011 | [Final Value of Variable After Performing Operations](./problems/2000-2099/2011/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 2012 | [Sum of Beauty in the Array](./problems/2000-2099/2012/README.md)                                                      | :o:    | Medium | [arr]                                                       |      |
 | 2013 | [Detect Squares](./problems/2000-2099/2013/README.md)                                                                  | :o:    | Medium | [des],[hsh]                                                 |      |
 | 2014 | [Longest Subsequence Repeated k Times](./problems/2000-2099/2014/README.md)                                            |        | Hard   |                                                             |      |

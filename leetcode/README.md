@@ -1550,7 +1550,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1475 | [Final Prices With a Special Discount in a Shop](./problems/1400-1499/1475/README.md)                                  | :o:    | Easy   | [arr],[stack]                                               |      |
 | 1476 | [Subrectangle Queries](./problems/1400-1499/1476/README.md)                                                            | :o:    | Medium | [des],[arr]                                                 |      |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](./problems/1400-1499/1477/README.md) | :o: | Medium | [arr],[sd] | :+1:  |
-| 1478 | [Allocate Mailboxes](./problems/1400-1499/1478/README.md)                                                              |        | Hard   |                                                             |      |
+| 1478 | [Allocate Mailboxes](./problems/1400-1499/1478/README.md) | :o: | Hard | [dp] | :+1:  |
 | 1479 | [Sales by Day of the Week](./problems/1400-1499/1479/README.md)                                                        | :lock: | Hard   |                                                             |      |
 | 1480 | [Running Sum of 1d Array](./problems/1400-1499/1480/README.md)                                                         | :o:    | Easy   | [arr]                                                       |      |
 | 1481 | [Least Number of Unique Integers after K Removals](./problems/1400-1499/1481/README.md)                                | :o:    | Medium | [arr],[greedy]                                              |      |

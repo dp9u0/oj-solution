@@ -3740,3 +3740,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3454 | [Separate Squares II](./problems/3400-3499/3454/README.md) | :o: | Hard | [grf],[bs] | :+1:  |
 | 3841 | [Palindromic Path Queries in a Tree](./problems/3800-3899/3841/README.md) | :o: | Hard | [tr],[bit],[ds] | :+1:  |
 | 3547 | [Maximum Sum of Edge Values in a Graph](./problems/3500-3599/3547/README.md) | :o: | Hard | [grf],[math] | :+1:  |
+| 3748 | [Count Stable Subarrays](./problems/3700-3799/3748/README.md) | :o: | Hard | [dp],[ds] | :+1:  |

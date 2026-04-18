@@ -3734,3 +3734,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3649 | [Number of Perfect Pairs](./problems/3600-3699/3649/README.md) | :o: | Medium | [arr],[tp] |   |
 | 3567 | [Minimum Absolute Difference in Sliding Submatrix](./problems/3500-3599/3567/README.md) | :o: | Medium | [arr] |   |
 | 3885 | [Design Event Manager](./problems/3800-3899/3885/README.md) | :o: | Medium | [des],[hp] |   |
+| 3552 | [Grid Teleportation Traversal](./problems/3500-3599/3552/README.md) | :o: | Medium | [bfs] |   |

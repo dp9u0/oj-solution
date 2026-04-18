@@ -2262,7 +2262,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2221 | [Find Triangular Sum of an Array](./problems/2200-2299/2221/README.md)                                                 | :o:    | Medium | [arr]                                                       |      |
 | 2222 | [Number of Ways to Select Buildings](./problems/2200-2299/2222/README.md)                                              | :o:    | Medium | [dp]                                                        |      |
 | 2223 | [Sum of Scores of Built Strings](./problems/2200-2299/2223/README.md) | :o: | Hard | [str] |   |
-| 2224 | [Minimum Number of Operations to Convert Time](./problems/2200-2299/2224/README.md)                                    |        | Easy   |                                                             |      |
+| 2224 | [Minimum Number of Operations to Convert Time](./problems/2200-2299/2224/README.md) | :o: | Easy | [grd] |   |
 | 2225 | [2225](./problems/2200-2299/2225/README.md)                                                                            | :o:    | Medium | [arr],[hash]                                                |      |
 | 2226 | [2226](./problems/2200-2299/2226/README.md)                                                                            | :o:    | Medium | [arr],[bs]                                                  | :+1: |
 | 2227 | [2227](./problems/2200-2299/2227/README.md)                                                                            | :o:    | Hard   | [des],[hsh]                                                 |      |

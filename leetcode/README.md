@@ -2975,7 +2975,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2934 | [Minimum Operations to Maximize Last Elements in Arrays](./problems/2900-2999/2934/README.md)                          | :o:    | Medium | [arr],[grd]                                                 |      |
 | 2935 | [Maximum Strong Pair XOR II](./problems/2900-2999/2935/README.md)                                                      |        | Hard   |                                                             |      |
 | 2936 | [Number of Equal Numbers Blocks](./problems/2900-2999/2936/README.md)                                                  | :lock: | Medium |                                                             |      |
-| 2937 | [Make Three Strings Equal](./problems/2900-2999/2937/README.md)                                                        |        | Easy   |                                                             |      |
+| 2937 | [Make Three Strings Equal](./problems/2900-2999/2937/README.md) | :o: | Easy | [str] |   |
 | 2938 | [Separate Black and White Balls](./problems/2900-2999/2938/README.md)                                                  | :o:    | Medium | [str],[greedy]                                              |      |
 | 2939 | [Maximum Xor Product](./problems/2900-2999/2939/README.md) | :o: | Medium | [bit],[grd] |   |
 | 2940 | [Find Building Where Alice and Bob Can Meet](./problems/2900-2999/2940/README.md)                                      | :o:    | Hard   | [stk],[bs]                                                  |      |

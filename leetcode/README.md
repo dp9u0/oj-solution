@@ -3745,3 +3745,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3635 | [Earliest Finish Time for Land and Water Rides II](./problems/3600-3699/3635/README.md) | :o: | Medium | [grd] |   |
 | 3781 | [Maximum Score After Binary Swaps](./problems/3700-3799/3781/README.md) | :o: | Medium | [grd],[hp] |   |
 | 3578 | [Count Partitions With Max-Min Difference at Most K](./problems/3500-3599/3578/README.md) | :o: | Medium | [dp],[sd] |   |
+| 3728 | [Stable Subarrays With Equal Boundary and Interior Sum](./problems/3700-3799/3728/README.md) | :o: | Medium | [hsh],[pfx] |   |

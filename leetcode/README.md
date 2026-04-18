@@ -2226,7 +2226,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2185 | [Counting Words With a Given Prefix](./problems/2100-2199/2185/README.md)                                              |        | Easy   |                                                             |      |
 | 2186 | [Minimum Number of Steps to Make Two Strings Anagram II](./problems/2100-2199/2186/README.md)                          | :o:    | Medium | [hsh],[str]                                                 |      |
 | 2187 | [Minimum Time to Complete Trips](./problems/2100-2199/2187/README.md)                                                  | :o:    | Medium | [arr],[bs]                                                  |      |
-| 2188 | [Minimum Time to Finish the Race](./problems/2100-2199/2188/README.md)                                                 |        | Hard   |                                                             |      |
+| 2188 | [Minimum Time to Finish the Race](./problems/2100-2199/2188/README.md) | :o: | Hard | [dp],[math] |   |
 | 2189 | [2189](./problems/2100-2199/2189/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2190 | [Most Frequent Number Following Key In an Array](./problems/2100-2199/2190/README.md)                                  |        | Easy   |                                                             |      |
 | 2191 | [2191](./problems/2100-2199/2191/README.md)                                                                            | :o:    | Medium | [arr],[lgc]                                                 |      |

@@ -1532,7 +1532,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1457 | [Pseudo-Palindromic Paths in a Binary Tree](./problems/1400-1499/1457/README.md)                                       |        | Medium |                                                             |      |
 | 1458 | [Max Dot Product of Two Subsequences](./problems/1400-1499/1458/README.md)                                             | :o:    | Hard   | [dp]                                                        |      |
 | 1459 | [Rectangles Area](./problems/1400-1499/1459/README.md)                                                                 | :lock: | Medium |                                                             |      |
-| 1460 | [Make Two Arrays Equal by Reversing Sub-arrays](./problems/1400-1499/1460/README.md)                                   |        | Easy   |                                                             |      |
+| 1460 | [Make Two Arrays Equal by Reversing Sub-arrays](./problems/1400-1499/1460/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 1461 | [Check If a String Contains All Binary Codes of Size K](./problems/1400-1499/1461/README.md)                           | :o:    | Medium | [arr],[hash]                                                |      |
 | 1462 | [Course Schedule IV](./problems/1400-1499/1462/README.md)                                                              | :o:    | Medium | [grf]                                                       |      |
 | 1463 | [Cherry Pickup II](./problems/1400-1499/1463/README.md)                                                                |        | Hard   |                                                             |      |

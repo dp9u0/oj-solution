@@ -2785,7 +2785,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2744 | [Find Maximum Number of String Pairs](./problems/2700-2799/2744/README.md)                                             | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2745 | [Construct the Longest New String](./problems/2700-2799/2745/README.md)                                                | :o:    | Medium | [str],[math],[grd]                                          | :+1: |
 | 2746 | [Decremental String Concatenation](./problems/2700-2799/2746/README.md)                                                | :o:    | Medium | [str],[dp]                                                  |      |
-| 2747 | [Count Zero Request Servers](./problems/2700-2799/2747/README.md)                                                      |        | Medium |                                                             |      |
+| 2747 | [Count Zero Request Servers](./problems/2700-2799/2747/README.md) | :o: | Medium | [arr],[sd] |   |
 | 2748 | [Number of Beautiful Pairs](./problems/2700-2799/2748/README.md) | :o: | Easy | [math] |   |
 | 2749 | [Minimum Operations to Make the Integer Zero](./problems/2700-2799/2749/README.md) | :o: | Medium | [math],[bit] | :+1:  |
 | 2750 | [Ways to Split Array Into Good Subarrays](./problems/2700-2799/2750/README.md) | :o: | Medium | [arr],[math] |   |

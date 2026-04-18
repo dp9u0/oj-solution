@@ -3724,3 +3724,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3753 | [Total Waviness of Numbers in Range II](./problems/3700-3799/3753/README.md) | :o: | Hard | [dp] | :+1:  |
 | 3852 | [Smallest Pair With Different Frequencies](./problems/3800-3899/3852/README.md) | :o: | Easy | [hsh] |   |
 | 3513 | [Number of Unique XOR Triplets I](./problems/3500-3599/3513/README.md) | :o: | Medium | [math] |   |
+| 3534 | [Path Existence Queries in a Graph II](./problems/3500-3599/3534/README.md) | :o: | Hard | [grf],[bs] | :+1:  |

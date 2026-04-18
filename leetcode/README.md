@@ -2780,7 +2780,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2739 | [Total Distance Traveled](./problems/2700-2799/2739/README.md)                                                         | :o:    | Easy   | [math]                                                      |      |
 | 2740 | [Find the Value of the Partition](./problems/2700-2799/2740/README.md)                                                 | :o:    | Medium | [arr],[bs]                                                  |      |
 | 2741 | [Special Permutations](./problems/2700-2799/2741/README.md) | :o: | Medium | [dp],[bit] |   |
-| 2742 | [Painting the Walls](./problems/2700-2799/2742/README.md)                                                              |        | Hard   |                                                             |      |
+| 2742 | [Painting the Walls](./problems/2700-2799/2742/README.md) | :o: | Hard | [dp] | :+1:  |
 | 2743 | [Count Substrings Without Repeating Character](./problems/2700-2799/2743/README.md)                                    | :lock: | Medium |                                                             |      |
 | 2744 | [Find Maximum Number of String Pairs](./problems/2700-2799/2744/README.md)                                             | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2745 | [Construct the Longest New String](./problems/2700-2799/2745/README.md)                                                | :o:    | Medium | [str],[math],[grd]                                          | :+1: |

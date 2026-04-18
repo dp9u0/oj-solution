@@ -3120,7 +3120,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3079 | [Find the Sum of Encrypted Integers](./problems/3000-3099/3079/README.md) | :o: | Easy | [math] |   |
 | 3080 | [Mark Elements on Array by Performing Queries](./problems/3000-3099/3080/README.md) | :o: | Medium | [arr],[hp] |   |
 | 3081 | [Replace Question Marks in String to Minimize Its Value](./problems/3000-3099/3081/README.md)                          | :o:    | Medium | [str],[grd]                                                 |      |
-| 3082 | [Find the Sum of the Power of All Subsequences](./problems/3000-3099/3082/README.md)                                   |        | Hard   |                                                             |      |
+| 3082 | [Find the Sum of the Power of All Subsequences](./problems/3000-3099/3082/README.md) | :o: | Hard | [dp],[arr] |   |
 | 3083 | [Existence of a Substring in a String and Its Reverse](./problems/3000-3099/3083/README.md) | :o: | Easy | [str],[hsh] |   |
 | 3084 | [Count Substrings Starting and Ending with Given Character](./problems/3000-3099/3084/README.md) | :o: | Medium | [str],[math] |   |
 | 3085 | [Minimum Deletions to Make String K-Special](./problems/3000-3099/3085/README.md)                                      | :o:    | Medium | [str],[grd]                                                 |      |

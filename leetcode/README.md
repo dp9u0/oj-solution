@@ -1258,7 +1258,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1181 | [Before and After Puzzle](./problems/1100-1199/1181/README.md)                                                         | :lock: | Medium |                                                             |      |
 | 1182 | [Shortest Distance to Target Color](./problems/1100-1199/1182/README.md)                                               | :lock: | Medium |                                                             |      |
 | 1183 | [Maximum Number of Ones](./problems/1100-1199/1183/README.md)                                                          | :lock: | Hard   |                                                             |      |
-| 1184 | [Distance Between Bus Stops](./problems/1100-1199/1184/README.md)                                                      |        | Easy   |                                                             |      |
+| 1184 | [Distance Between Bus Stops](./problems/1100-1199/1184/README.md) | :o: | Easy | [arr] |   |
 | 1185 | [Day of the Week](./problems/1100-1199/1185/README.md) | :o: | Easy | [math] |   |
 | 1186 | [Maximum Subarray Sum with One Deletion](./problems/1100-1199/1186/README.md)                                          | :o:    | Medium | [dp]                                                        |      |
 | 1187 | [Make Array Strictly Increasing](./problems/1100-1199/1187/README.md)                                                  | :o:    | Hard   | [dp],[bs]                                                   |      |

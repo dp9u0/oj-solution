@@ -3288,7 +3288,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3247 | [Number of Subsequences with Odd Sum](./problems/3200-3299/3247/README.md)                                             | :lock: | Medium |                                                             |      |
 | 3248 | [Snake in Matrix](./problems/3200-3299/3248/README.md)                                                                 |        | Easy   |                                                             |      |
 | 3249 | [Count the Number of Good Nodes](./problems/3200-3299/3249/README.md)                                                  |        | Medium |                                                             |      |
-| 3250 | [Find the Count of Monotonic Pairs I](./problems/3200-3299/3250/README.md)                                             |        | Hard   |                                                             |      |
+| 3250 | [Find the Count of Monotonic Pairs I](./problems/3200-3299/3250/README.md) | :o: | Hard | [dp] | :+1:  |
 | 3251 | [Find the Count of Monotonic Pairs II](./problems/3200-3299/3251/README.md) | :o: | Hard | [dp] |   |
 | 3252 | [Premier League Table Ranking II](./problems/3200-3299/3252/README.md)                                                 | :lock: | Medium |                                                             |      |
 | 3253 | [Construct String with Minimum Cost (Easy)](./problems/3200-3299/3253/README.md)                                       | :lock: | Medium |                                                             |      |

@@ -3763,3 +3763,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3628 | [Maximum Number of Subsequences After One Inserting](./problems/3600-3699/3628/README.md) | :o: | Medium | [str],[dp] |   |
 | 3484 | [Design Spreadsheet](./problems/3400-3499/3484/README.md) | :o: | Medium | [des],[hsh] |   |
 | 3523 | [Make Array Non-decreasing](./problems/3500-3599/3523/README.md) | :o: | Medium | [arr],[grd] |   |
+| 3678 | [Smallest Absent Positive Greater Than Average](./problems/3600-3699/3678/README.md) | :o: | Easy | [arr],[hsh] |   |

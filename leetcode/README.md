@@ -1775,7 +1775,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1700 | [Number of Students Unable to Eat Lunch](./problems/1700-1799/1700/README.md)                                          | :o:    | Easy   | [arr],[queue]                                               |      |
 | 1701 | [Average Waiting Time](./problems/1700-1799/1701/README.md)                                                            | :o:    | Medium | [arr],[lgc]                                                 |      |
 | 1702 | [Maximum Binary String After Change](./problems/1700-1799/1702/README.md)                                              |        | Medium |                                                             |      |
-| 1703 | [Minimum Adjacent Swaps for K Consecutive Ones](./problems/1700-1799/1703/README.md)                                   |        | Hard   |                                                             |      |
+| 1703 | [Minimum Adjacent Swaps for K Consecutive Ones](./problems/1700-1799/1703/README.md) | :o: | Hard | [dp],[math] | :+1:  |
 | 1704 | [Determine if String Halves Are Alike](./problems/1700-1799/1704/README.md) | :o: | Easy | [str] |   |
 | 1705 | [Maximum Number of Eaten Apples](./problems/1700-1799/1705/README.md)                                                  | :o:    | Medium | [hp],[grd]                                                  |      |
 | 1706 | [1706](./problems/1700-1799/1706/README.md)                                                                            | :o:    | Medium | [arr]                                                       |      |

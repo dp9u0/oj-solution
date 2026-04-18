@@ -1943,7 +1943,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1902 | [Depth of BST Given Insertion Order](./problems/1900-1999/1902/README.md)                                              | :lock: | Medium |                                                             |      |
 | 1903 | [Largest Odd Number in String](./problems/1900-1999/1903/README.md) | :o: | Easy | [str],[grd] |   |
 | 1904 | [The Number of Full Rounds You Have Played](./problems/1900-1999/1904/README.md)                                       | :o:    | Medium | [math],[lgc]                                                |      |
-| 1905 | [Count Sub Islands](./problems/1900-1999/1905/README.md)                                                               |        | Medium |                                                             |      |
+| 1905 | [Count Sub Islands](./problems/1900-1999/1905/README.md) | :o: | Medium | [grf],[bfs] |   |
 | 1906 | [Minimum Absolute Difference Queries](./problems/1900-1999/1906/README.md) | :o: | Medium | [arr],[dp] |   |
 | 1907 | [Count Salary Categories](./problems/1900-1999/1907/README.md)                                                         | :lock: | Medium |                                                             |      |
 | 1908 | [Game of Nim](./problems/1900-1999/1908/README.md)                                                                     | :lock: | Medium |                                                             |      |

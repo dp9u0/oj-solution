@@ -3689,3 +3689,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3447 | [Assign Elements to Groups with Constraints](./problems/3400-3499/3447/README.md) | :o: | Medium | [arr],[math] |   |
 | 3783 | [Mirror Distance of an Integer](./problems/3700-3799/3783/README.md) | :o: | Easy | [math] |   |
 | 3719 | [Longest Balanced Subarray I](./problems/3700-3799/3719/README.md) | :o: | Medium | [arr],[hsh] |   |
+| 3444 | [Minimum Increments for Target Multiples in an Array](./problems/3400-3499/3444/README.md) | :o: | Hard | [dp],[bit] |   |

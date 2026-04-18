@@ -3695,3 +3695,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3612 | [Process String with Special Operations I](./problems/3600-3699/3612/README.md) | :o: | Medium | [str] |   |
 | 3471 | [Find the Largest Almost Missing Integer](./problems/3400-3499/3471/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 3532 | [Path Existence Queries in a Graph I](./problems/3500-3599/3532/README.md) | :o: | Medium | [grf],[ds] |   |
+| 3392 | [Count Subarrays of Length Three With a Condition](./problems/3300-3399/3392/README.md) | :o: | Easy | [arr] |   |

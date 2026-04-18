@@ -3692,3 +3692,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3444 | [Minimum Increments for Target Multiples in an Array](./problems/3400-3499/3444/README.md) | :o: | Hard | [dp],[bit] |   |
 | 3575 | [Maximum Good Subtree Score](./problems/3500-3599/3575/README.md) | :o: | Hard | [tr],[dp],[bit] |   |
 | 3770 | [Largest Prime from Consecutive Prime Sum](./problems/3700-3799/3770/README.md) | :o: | Medium | [math] |   |
+| 3612 | [Process String with Special Operations I](./problems/3600-3699/3612/README.md) | :o: | Medium | [str] |   |

@@ -2445,7 +2445,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2404 | [Most Frequent Even Element](./problems/2400-2499/2404/README.md)                                                      | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2405 | [Optimal Partition of String](./problems/2400-2499/2405/README.md)                                                     | :o:    | Medium | [arr],[bit]                                                 |      |
 | 2406 | [Divide Intervals Into Minimum Number of Groups](./problems/2400-2499/2406/README.md)                                  | :o:    | Medium | [arr]                                                       |      |
-| 2407 | [Longest Increasing Subsequence II](./problems/2400-2499/2407/README.md)                                               |        | Hard   |                                                             |      |
+| 2407 | [Longest Increasing Subsequence II](./problems/2400-2499/2407/README.md) | :o: | Hard | [dp],[bs] | :+1:  |
 | 2408 | [Design SQL](./problems/2400-2499/2408/README.md)                                                                      | :lock: | Medium |                                                             |      |
 | 2409 | [Count Days Spent Together](./problems/2400-2499/2409/README.md)                                                       | :o:    | Easy   | [lgc]                                                       |      |
 | 2410 | [Maximum Matching of Players With Trainers](./problems/2400-2499/2410/README.md)                                       | :o:    | Medium | [arr],[grd],[tp]                                            |      |

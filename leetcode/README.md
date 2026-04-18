@@ -2473,7 +2473,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2432 | [The Employee That Worked on the Longest Task](./problems/2400-2499/2432/README.md)                                    | :o:    | Easy   | [arr]                                                       |      |
 | 2433 | [Find The Original Array of Prefix Xor](./problems/2400-2499/2433/README.md)                                           | :o:    | Medium | [arr],[bit]                                                 |      |
 | 2434 | [Using a Robot to Print the Lexicographically Smallest String](./problems/2400-2499/2434/README.md)                    | :o:    | Medium | [str],[stk],[grd]                                           |      |
-| 2435 | [Paths in Matrix Whose Sum Is Divisible by K](./problems/2400-2499/2435/README.md)                                     |        | Hard   |                                                             |      |
+| 2435 | [Paths in Matrix Whose Sum Is Divisible by K](./problems/2400-2499/2435/README.md) | :o: | Hard | [dp] | :+1:  |
 | 2436 | [Minimum Split Into Subarrays With GCD Greater Than One](./problems/2400-2499/2436/README.md)                          | :lock: | Medium |                                                             |      |
 | 2437 | [Number of Valid Clock Times](./problems/2400-2499/2437/README.md)                                                     | :o:    | Easy   | [str],[lgc]                                                 |      |
 | 2438 | [Range Product Queries of Powers](./problems/2400-2499/2438/README.md) | :o: | Medium | [bit],[math] |   |

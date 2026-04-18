@@ -3055,7 +3055,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3014 | [Minimum Number of Pushes to Type Word I](./problems/3000-3099/3014/README.md) | :o: | Easy | [math],[grd] |   |
 | 3015 | [Count the Number of Houses at a Certain Distance I](./problems/3000-3099/3015/README.md) | :o: | Medium | [arr],[math] |   |
 | 3016 | [Minimum Number of Pushes to Type Word II](./problems/3000-3099/3016/README.md)                                        | :o:    | Medium | [str],[greedy]                                              |      |
-| 3017 | [Count the Number of Houses at a Certain Distance II](./problems/3000-3099/3017/README.md)                             |        | Hard   |                                                             |      |
+| 3017 | [Count the Number of Houses at a Certain Distance II](./problems/3000-3099/3017/README.md) | :o: | Hard | [grf],[math] | :+1:  |
 | 3018 | [Maximum Number of Removal Queries That Can Be Processed I](./problems/3000-3099/3018/README.md)                       | :lock: | Hard   |                                                             |      |
 | 3019 | [Number of Changing Keys](./problems/3000-3099/3019/README.md)                                                         | :o:    | Easy   | [str],[lgc]                                                 |      |
 | 3020 | [Find the Maximum Number of Elements in Subset](./problems/3000-3099/3020/README.md)                                   | :o:    | Medium | [hsh],[arr]                                                 |      |

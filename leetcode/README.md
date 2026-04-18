@@ -2170,7 +2170,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2129 | [Capitalize the Title](./problems/2100-2199/2129/README.md)                                                            |        | Easy   |                                                             |      |
 | 2130 | [Maximum Twin Sum of a Linked List](./problems/2100-2199/2130/README.md)                                               | :o:    | Medium | [ll]                                                        |      |
 | 2131 | [Longest Palindrome by Concatenating Two Letter Words](./problems/2100-2199/2131/README.md)                            | :o:    | Medium | [str],[greedy]                                              |      |
-| 2132 | [Stamping the Grid](./problems/2100-2199/2132/README.md)                                                               |        | Hard   |                                                             |      |
+| 2132 | [Stamping the Grid](./problems/2100-2199/2132/README.md) | :o: | Hard | [arr] | :+1:  |
 | 2133 | [Check if Every Row and Column Contains All Numbers](./problems/2100-2199/2133/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 2134 | [Minimum Swaps to Group All 1's Together II](./problems/2100-2199/2134/README.md)                                      | :o:    | Medium | [arr],[tp]                                                  |      |
 | 2135 | [Count Words Obtained After Adding a Letter](./problems/2100-2199/2135/README.md)                                      |        | Medium |                                                             |      |

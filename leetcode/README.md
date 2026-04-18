@@ -1691,7 +1691,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1616 | [Split Two Strings to Make Palindrome](./problems/1600-1699/1616/README.md)                                            | :o:    | Medium | [tp],[str]                                                  |      |
 | 1617 | [Count Subtrees With Max Distance Between Cities](./problems/1600-1699/1617/README.md) | :o: | Hard | [grf],[bit] |   |
 | 1618 | [1618](./problems/1600-1699/1618/README.md)                                                                            |        | Easy   |                                                             |      |
-| 1619 | [1619](./problems/1600-1699/1619/README.md)                                                                            |        | Easy   |                                                             |      |
+| 1619 | [1619](./problems/1600-1699/1619/README.md) | :o: | Easy | [arr],[math] |   |
 | 1620 | [Coordinate With Maximum Network Quality](./problems/1600-1699/1620/README.md) | :o: | Medium | [math] |   |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](./problems/1600-1699/1621/README.md) | :o: | Medium | [dp],[math] |   |
 | 1622 | [Fancy Sequence](./problems/1600-1699/1622/README.md)                                                                  |        | Hard   |                                                             |      |

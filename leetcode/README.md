@@ -1985,7 +1985,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1944 | [1944](./problems/1900-1999/1944/README.md)                                                                            | :o:    | Hard   | [stack]                                                     |      |
 | 1945 | [Sum of Digits of String After Convert](./problems/1900-1999/1945/README.md)                                           | :o:    | Easy   | [str]                                                       |      |
 | 1946 | [Largest Number After Mutating Substring](./problems/1900-1999/1946/README.md)                                         | :o:    | Medium | [str],[grd]                                                 |      |
-| 1947 | [Maximum Compatibility Score Sum](./problems/1900-1999/1947/README.md)                                                 |        | Medium |                                                             |      |
+| 1947 | [Maximum Compatibility Score Sum](./problems/1900-1999/1947/README.md) | :o: | Medium | [dp],[bit] |   |
 | 1948 | [Delete Duplicate Folders in System](./problems/1900-1999/1948/README.md) | :o: | Hard | [tr],[dfs],[hsh] |   |
 | 1949 | [Strong Friendship](./problems/1900-1999/1949/README.md)                                                               | :lock: | Medium |                                                             |      |
 | 1950 | [Maximum of Minimum Values in All Subarrays](./problems/1900-1999/1950/README.md)                                      | :lock: | Medium |                                                             |      |

@@ -3700,3 +3700,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3680 | [Generate Schedule](./problems/3600-3699/3680/README.md) | :o: | Medium | [grd],[bt] |   |
 | 3620 | [Network Recovery Pathways](./problems/3600-3699/3620/README.md) | :o: | Hard | [grf],[bfs] |   |
 | 3732 | [Maximum Product of Three Elements After One Replacement](./problems/3700-3799/3732/README.md) | :o: | Medium | [arr],[grd] |   |
+| 3439 | [Reschedule Meetings for Maximum Free Time I](./problems/3400-3499/3439/README.md) | :o: | Medium | [arr],[sd],[grd] |   |

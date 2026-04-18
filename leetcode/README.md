@@ -3319,7 +3319,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3278 | [Find Candidates for Data Scientist Position II](./problems/3200-3299/3278/README.md)                                  | :lock: | Medium |                                                             |      |
 | 3279 | [Maximum Total Area Occupied by Pistons](./problems/3200-3299/3279/README.md)                                          | :lock: | Hard   |                                                             |      |
 | 3280 | [Convert Date to Binary](./problems/3200-3299/3280/README.md)                                                          | :o:    | Easy   | [str],[lgc]                                                 |      |
-| 3281 | [Maximize Score of Numbers in Ranges](./problems/3200-3299/3281/README.md)                                             |        | Medium |                                                             |      |
+| 3281 | [Maximize Score of Numbers in Ranges](./problems/3200-3299/3281/README.md) | :o: | Medium | [arr],[bs],[grd] |   |
 | 3282 | [Reach End of Array With Max Score](./problems/3200-3299/3282/README.md)                                               | :o:    | Medium | [arr],[grd]                                                 |      |
 | 3283 | [Maximum Number of Moves to Kill All Pawns](./problems/3200-3299/3283/README.md)                                       |        | Hard   |                                                             |      |
 | 3284 | [Sum of Consecutive Subarrays](./problems/3200-3299/3284/README.md)                                                    | :lock: | Medium |                                                             |      |

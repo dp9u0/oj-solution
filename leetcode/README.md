@@ -1889,7 +1889,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1848 | [Minimum Distance to the Target Element](./problems/1800-1899/1848/README.md)                                          |        | Easy   |                                                             |      |
 | 1849 | [Splitting a String Into Descending Consecutive Values](./problems/1800-1899/1849/README.md)                           | :o:    | Medium | [bt]                                                        |      |
 | 1850 | [Minimum Adjacent Swaps to Reach the Kth Smallest Number](./problems/1800-1899/1850/README.md)                         | :o:    | Medium | [str],[grd]                                                 |      |
-| 1851 | [Minimum Interval to Include Each Query](./problems/1800-1899/1851/README.md)                                          |        | Hard   |                                                             |      |
+| 1851 | [Minimum Interval to Include Each Query](./problems/1800-1899/1851/README.md) | :o: | Hard | [hp],[bs] | :+1:  |
 | 1852 | [Distinct Numbers in Each Subarray](./problems/1800-1899/1852/README.md)                                               | :lock: | Medium |                                                             |      |
 | 1853 | [Convert Date Format](./problems/1800-1899/1853/README.md)                                                             | :lock: | Easy   |                                                             |      |
 | 1854 | [Maximum Population Year](./problems/1800-1899/1854/README.md)                                                         | :o:    | Easy   | [arr]                                                       |      |

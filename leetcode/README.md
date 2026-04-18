@@ -3714,3 +3714,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3463 | [Check If Digits Are Equal in String After Operations II](./problems/3400-3499/3463/README.md) | :o: | Hard | [math] |   |
 | 1755 | [Closest Subsequence Sum](./problems/1700-1799/1755/README.md) | :o: | Hard | [dc] |   |
 | 3862 | [Find the Smallest Balanced Index](./problems/3800-3899/3862/README.md) | :o: | Medium | [arr] |   |
+| 3621 | [Number of Integers With Popcount-Depth Equal to K I](./problems/3600-3699/3621/README.md) | :o: | Hard | [bit],[math] |   |

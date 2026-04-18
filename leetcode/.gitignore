@@ -60,4 +60,5 @@ typings/
 current
 solving/*
 package-lock.json
-README.md.bak.claude/worktrees/
+README.md.bak
+.claude/worktrees/

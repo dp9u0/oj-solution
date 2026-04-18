@@ -3729,3 +3729,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3572 | [Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values](./problems/3500-3599/3572/README.md) | :o: | Medium | [arr],[grd] |   |
 | 3409 | [Longest Subsequence With Decreasing Adjacent Difference](./problems/3400-3499/3409/README.md) | :o: | Medium | [dp] |   |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](./problems/3700-3799/3720/README.md) | :o: | Medium | [str],[bt] |   |
+| 3829 | [Design Ride Sharing System](./problems/3800-3899/3829/README.md) | :o: | Medium | [des],[q] |   |

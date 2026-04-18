@@ -1886,7 +1886,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1845 | [Seat Reservation Manager](./problems/1800-1899/1845/README.md) | :o: | Medium | [des],[ds],[hp] |   |
 | 1846 | [Maximum Element After Decreasing and Rearranging](./problems/1800-1899/1846/README.md)                                | :o:    | Medium | [grd]                                                       |      |
 | 1847 | [Closest Room](./problems/1800-1899/1847/README.md)                                                                    |        | Hard   |                                                             |      |
-| 1848 | [Minimum Distance to the Target Element](./problems/1800-1899/1848/README.md)                                          |        | Easy   |                                                             |      |
+| 1848 | [Minimum Distance to the Target Element](./problems/1800-1899/1848/README.md) | :o: | Easy | [arr] |   |
 | 1849 | [Splitting a String Into Descending Consecutive Values](./problems/1800-1899/1849/README.md)                           | :o:    | Medium | [bt]                                                        |      |
 | 1850 | [Minimum Adjacent Swaps to Reach the Kth Smallest Number](./problems/1800-1899/1850/README.md)                         | :o:    | Medium | [str],[grd]                                                 |      |
 | 1851 | [Minimum Interval to Include Each Query](./problems/1800-1899/1851/README.md)                                          |        | Hard   |                                                             |      |

@@ -1907,7 +1907,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1866 | [Number of Ways to Rearrange Sticks With K Sticks Visible](./problems/1800-1899/1866/README.md)                        | :o:    | Hard   | [dp],[math]                                                 |      |
 | 1867 | [Orders With Maximum Quantity Above Average](./problems/1800-1899/1867/README.md)                                      | :lock: | Medium |                                                             |      |
 | 1868 | [Product of Two Run-Length Encoded Arrays](./problems/1800-1899/1868/README.md)                                        | :lock: | Medium |                                                             |      |
-| 1869 | [Longer Contiguous Segments of Ones than Zeros](./problems/1800-1899/1869/README.md)                                   |        | Easy   |                                                             |      |
+| 1869 | [Longer Contiguous Segments of Ones than Zeros](./problems/1800-1899/1869/README.md) | :o: | Easy | [str] |   |
 | 1870 | [Minimum Speed to Arrive on Time](./problems/1800-1899/1870/README.md)                                                 | :o:    | Medium | [arr],[bs]                                                  |      |
 | 1871 | [Jump Game VII](./problems/1800-1899/1871/README.md)                                                                   | :o:    | Medium | [str],[dp]                                                  | :+1: |
 | 1872 | [Stone Game VIII](./problems/1800-1899/1872/README.md)                                                                 |        | Hard   |                                                             |      |

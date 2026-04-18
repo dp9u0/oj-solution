@@ -2884,7 +2884,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2843 | [Count Symmetric Integers](./problems/2800-2899/2843/README.md)                                                        | :o:    | Easy   | [math]                                                      |      |
 | 2844 | [Minimum Operations to Make a Special Number](./problems/2800-2899/2844/README.md)                                     | :o:    | Medium | [str],[math]                                                |      |
 | 2845 | [Count of Interesting Subarrays](./problems/2800-2899/2845/README.md)                                                  | :o:    | Medium | [arr],[hsh]                                                 |      |
-| 2846 | [Minimum Edge Weight Equilibrium Queries in a Tree](./problems/2800-2899/2846/README.md)                               |        | Hard   |                                                             |      |
+| 2846 | [Minimum Edge Weight Equilibrium Queries in a Tree](./problems/2800-2899/2846/README.md) | :o: | Hard | [tr],[grf] |   |
 | 2847 | [Smallest Number With Given Digit Product](./problems/2800-2899/2847/README.md)                                        | :lock: | Medium |                                                             |      |
 | 2848 | [Points That Intersect With Cars](./problems/2800-2899/2848/README.md)                                                 | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2849 | [Determine if a Cell Is Reachable at a Given Time](./problems/2800-2899/2849/README.md)                                | :o:    | Medium | [math]                                                      |      |

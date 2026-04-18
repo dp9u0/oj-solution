@@ -2078,7 +2078,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2037 | [Minimum Number of Moves to Seat Everyone](./problems/2000-2099/2037/README.md)                                        | :o:    | Easy   | [arr],[sort]                                                |      |
 | 2038 | [Remove Colored Pieces if Both Neighbors are the Same Color](./problems/2000-2099/2038/README.md)                      | :o:    | Medium | [str],[greedy]                                              |      |
 | 2039 | [The Time When the Network Becomes Idle](./problems/2000-2099/2039/README.md)                                          | :o:    | Medium | [grf],[bfs],[math]                                          | :+1: |
-| 2040 | [Kth Smallest Product of Two Sorted Arrays](./problems/2000-2099/2040/README.md)                                       |        | Hard   |                                                             |      |
+| 2040 | [Kth Smallest Product of Two Sorted Arrays](./problems/2000-2099/2040/README.md) | :o: | Hard | [bs],[math] | :+1:  |
 | 2041 | [Accepted Candidates From the Interviews](./problems/2000-2099/2041/README.md)                                         | :lock: | Medium |                                                             |      |
 | 2042 | [Check if Numbers Are Ascending in a Sentence](./problems/2000-2099/2042/README.md) | :o: | Easy | [str] |   |
 | 2043 | [Simple Bank System](./problems/2000-2099/2043/README.md)                                                              | :o:    | Medium | [des]                                                       |      |

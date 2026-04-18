@@ -1999,7 +1999,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1958 | [Check if Move is Legal](./problems/1900-1999/1958/README.md)                                                          | :o:    | Medium | [arr],[lgc]                                                 |      |
 | 1959 | [Minimum Total Space Wasted With K Resizing Operations](./problems/1900-1999/1959/README.md)                           | :o:    | Medium | [dp]                                                        |      |
 | 1960 | [1960](./problems/1900-1999/1960/README.md)                                                                            |        | Easy   |                                                             |      |
-| 1961 | [Check If String Is a Prefix of Array](./problems/1900-1999/1961/README.md)                                            |        | Easy   |                                                             |      |
+| 1961 | [Check If String Is a Prefix of Array](./problems/1900-1999/1961/README.md) | :o: | Easy | [str] |   |
 | 1962 | [Remove Stones to Minimize the Total](./problems/1900-1999/1962/README.md)                                             | :o:    | Medium | [arr],[heap],[greedy]                                       |      |
 | 1963 | [Minimum Number of Swaps to Make the String Balanced](./problems/1900-1999/1963/README.md)                             | :o:    | Medium | [stack]                                                     | :+1: |
 | 1964 | [Find the Longest Valid Obstacle Course at Each Position](./problems/1900-1999/1964/README.md)                         | :o:    | Hard   | [dp],[bs]                                                   | :+1: |

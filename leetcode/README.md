@@ -3738,3 +3738,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3414 | [Maximum Score of Non-overlapping Intervals](./problems/3400-3499/3414/README.md) | :o: | Hard | [dp] | :+1:  |
 | 3485 | [Longest Common Prefix of K Strings After Removal](./problems/3400-3499/3485/README.md) | :o: | Hard | [tr],[hsh] |   |
 | 3454 | [Separate Squares II](./problems/3400-3499/3454/README.md) | :o: | Hard | [grf],[bs] | :+1:  |
+| 3841 | [Palindromic Path Queries in a Tree](./problems/3800-3899/3841/README.md) | :o: | Hard | [tr],[bit],[ds] | :+1:  |

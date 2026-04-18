@@ -3768,3 +3768,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](./problems/1700-1799/1744/README.md) | :o: | Medium | [arr],[math] |   |
 | 3458 | [Select K Disjoint Special Substrings](./problems/3400-3499/3458/README.md) | :o: | Medium | [str],[grd] |   |
 | 3675 | [Minimum Operations to Transform String](./problems/3600-3699/3675/README.md) | :o: | Medium | [str] |   |
+| 3697 | [Compute Decimal Representation](./problems/3600-3699/3697/README.md) | :o: | Easy | [math] |   |

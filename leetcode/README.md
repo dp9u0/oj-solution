@@ -3696,3 +3696,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3471 | [Find the Largest Almost Missing Integer](./problems/3400-3499/3471/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 3532 | [Path Existence Queries in a Graph I](./problems/3500-3599/3532/README.md) | :o: | Medium | [grf],[ds] |   |
 | 3392 | [Count Subarrays of Length Three With a Condition](./problems/3300-3399/3392/README.md) | :o: | Easy | [arr] |   |
+| 3757 | [Number of Effective Subsequences](./problems/3700-3799/3757/README.md) | :o: | Hard | [bit],[dp] | :+1:  |

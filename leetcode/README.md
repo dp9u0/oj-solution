@@ -3703,3 +3703,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3439 | [Reschedule Meetings for Maximum Free Time I](./problems/3400-3499/3439/README.md) | :o: | Medium | [arr],[sd],[grd] |   |
 | 3663 | [Find The Least Frequent Digit](./problems/3600-3699/3663/README.md) | :o: | Easy | [math] |   |
 | 3836 | [Maximum Score Using Exactly K Pairs](./problems/3800-3899/3836/README.md) | :o: | Hard | [dp] |   |
+| 3839 | [Number of Prefix Connected Groups](./problems/3800-3899/3839/README.md) | :o: | Medium | [hsh],[str] |   |

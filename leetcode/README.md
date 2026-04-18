@@ -2877,7 +2877,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2836 | [Maximize Value of Function in a Ball Passing Game](./problems/2800-2899/2836/README.md)                               |        | Hard   |                                                             |      |
 | 2837 | [Total Traveled Distance](./problems/2800-2899/2837/README.md)                                                         | :lock: | Easy   |                                                             |      |
 | 2838 | [Maximum Coins Heroes Can Collect](./problems/2800-2899/2838/README.md)                                                | :lock: | Medium |                                                             |      |
-| 2839 | [Check if Strings Can be Made Equal With Operations I](./problems/2800-2899/2839/README.md)                            |        | Easy   |                                                             |      |
+| 2839 | [Check if Strings Can be Made Equal With Operations I](./problems/2800-2899/2839/README.md) | :o: | Easy | [str],[lgc] |   |
 | 2840 | [Check if Strings Can be Made Equal With Operations II](./problems/2800-2899/2840/README.md)                           | :o:    | Medium | [str],[hsh]                                                 |      |
 | 2841 | [Maximum Sum of Almost Unique Subarray](./problems/2800-2899/2841/README.md)                                           | :o:    | Medium | [sd],[hsh]                                                  |      |
 | 2842 | [Count K-Subsequences of a String With Maximum Beauty](./problems/2800-2899/2842/README.md) | :o: | Hard | [str],[grd],[math] |   |

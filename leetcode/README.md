@@ -2198,7 +2198,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2157 | [Groups of Strings](./problems/2100-2199/2157/README.md) | :o: | Hard | [bit],[ds] |   |
 | 2158 | [Amount of New Area Painted Each Day](./problems/2100-2199/2158/README.md)                                             | :lock: | Hard   |                                                             |      |
 | 2159 | [Order Two Columns Independently](./problems/2100-2199/2159/README.md)                                                 | :lock: | Medium |                                                             |      |
-| 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](./problems/2100-2199/2160/README.md)                         |        | Easy   |                                                             |      |
+| 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](./problems/2100-2199/2160/README.md) | :o: | Easy | [math] |   |
 | 2161 | [Partition Array According to Given Pivot](./problems/2100-2199/2161/README.md)                                        | :o:    | Medium | [arr],[tp]                                                  |      |
 | 2162 | [Minimum Cost to Set Cooking Time](./problems/2100-2199/2162/README.md)                                                | :o:    | Medium | [math],[grd]                                                |      |
 | 2163 | [Minimum Difference in Sums After Removal of Elements](./problems/2100-2199/2163/README.md) | :o: | Hard | [hp],[grd] |   |

@@ -3748,3 +3748,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3728 | [Stable Subarrays With Equal Boundary and Interior Sum](./problems/3700-3799/3728/README.md) | :o: | Medium | [hsh],[pfx] |   |
 | 3679 | [ Minimum Discards to Balance Inventory](./problems/3600-3699/3679/README.md) | :o: | Medium | [grd],[sd] |   |
 | 3835 | [Count Subarrays With Cost Less Than or Equal to K](./problems/3800-3899/3835/README.md) | :o: | Medium | [arr],[sd] |   |
+| 3698 | [Split Array With Minimum Difference](./problems/3600-3699/3698/README.md) | :o: | Medium | [arr] |   |

@@ -1756,7 +1756,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1681 | [Minimum Incompatibility](./problems/1600-1699/1681/README.md) | :o: | Hard | [dp],[bit] |   |
 | 1682 | [Longest Palindromic Subsequence II](./problems/1600-1699/1682/README.md)                                              | :lock: | Medium |                                                             |      |
 | 1683 | [Invalid Tweets](./problems/1600-1699/1683/README.md)                                                                  | :lock: | Easy   |                                                             |      |
-| 1684 | [Count the Number of Consistent Strings](./problems/1600-1699/1684/README.md)                                          |        | Easy   |                                                             |      |
+| 1684 | [Count the Number of Consistent Strings](./problems/1600-1699/1684/README.md) | :o: | Easy | [str],[hsh] |   |
 | 1685 | [Sum of Absolute Differences in a Sorted Array](./problems/1600-1699/1685/README.md)                                   | :o:    | Medium | [arr]                                                       |      |
 | 1686 | [Stone Game VI](./problems/1600-1699/1686/README.md)                                                                   | :o:    | Medium | [grd],[arr]                                                 |      |
 | 1687 | [Delivering Boxes from Storage to Ports](./problems/1600-1699/1687/README.md)                                          | :o:    | Hard   | [dp],[q]                                                    |      |

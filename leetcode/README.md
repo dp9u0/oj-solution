@@ -3362,7 +3362,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3321 | [Find X-Sum of All K-Long Subarrays II](./problems/3300-3399/3321/README.md) | :o: | Hard | [arr],[hp] |   |
 | 3322 | [Premier League Table Ranking III](./problems/3300-3399/3322/README.md)                                                | :lock: | Medium |                                                             |      |
 | 3323 | [Minimize Connected Groups by Inserting Interval](./problems/3300-3399/3323/README.md)                                 | :lock: | Medium |                                                             |      |
-| 3324 | [Find the Sequence of Strings Appeared on the Screen](./problems/3300-3399/3324/README.md)                             |        | Medium |                                                             |      |
+| 3324 | [Find the Sequence of Strings Appeared on the Screen](./problems/3300-3399/3324/README.md) | :o: | Medium | [str] |   |
 | 3325 | [Count Substrings With K-Frequency Characters I](./problems/3300-3399/3325/README.md)                                  |        | Medium |                                                             |      |
 | 3326 | [Minimum Division Operations to Make Array Non Decreasing](./problems/3300-3399/3326/README.md)                        | :o:    | Medium | [math],[arr]                                                |      |
 | 3327 | [Check if DFS Strings Are Palindromes](./problems/3300-3399/3327/README.md)                                            |        | Hard   |                                                             |      |

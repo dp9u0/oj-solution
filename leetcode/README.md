@@ -2610,7 +2610,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2569 | [Handling Sum Queries After Update](./problems/2500-2599/2569/README.md) | :o: | Hard | [arr],[ds] |   |
 | 2570 | [Merge Two 2D Arrays by Summing Values](./problems/2500-2599/2570/README.md)                                           | :o:    | Easy   | [arr],[tp]                                                  |      |
 | 2571 | [Minimum Operations to Reduce an Integer to 0](./problems/2500-2599/2571/README.md)                                    | :o:    | Medium | [bit],[math]                                                |      |
-| 2572 | [Count the Number of Square-Free Subsets](./problems/2500-2599/2572/README.md)                                         |        | Medium |                                                             |      |
+| 2572 | [Count the Number of Square-Free Subsets](./problems/2500-2599/2572/README.md) | :o: | Medium | [dp],[bit] |   |
 | 2573 | [Find the String with LCP](./problems/2500-2599/2573/README.md)                                                        | :o:    | Hard   | [arr],[dp]                                                  |      |
 | 2574 | [Left and Right Sum Differences](./problems/2500-2599/2574/README.md)                                                  | :o:    | Easy   | [arr]                                                       |      |
 | 2575 | [Find the Divisibility Array of a String](./problems/2500-2599/2575/README.md)                                         | :o:    | Medium | [str],[math]                                                |      |

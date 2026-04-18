@@ -2160,7 +2160,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2119 | [A Number After a Double Reversal](./problems/2100-2199/2119/README.md)                                                | :o:    | Easy   | [lgc]                                                       |      |
 | 2120 | [Execution of All Suffix Instructions Staying in a Grid](./problems/2100-2199/2120/README.md)                          | :o:    | Medium | [arr],[sim]                                                 |      |
 | 2121 | [Intervals Between Identical Elements](./problems/2100-2199/2121/README.md)                                            | :o:    | Medium | [arr],[hsh]                                                 |      |
-| 2122 | [Recover the Original Array](./problems/2100-2199/2122/README.md)                                                      |        | Hard   |                                                             |      |
+| 2122 | [Recover the Original Array](./problems/2100-2199/2122/README.md) | :o: | Hard | [arr] | :+1:  |
 | 2123 | [Minimum Operations to Remove Adjacent Ones in Matrix](./problems/2100-2199/2123/README.md)                            | :lock: | Hard   |                                                             |      |
 | 2124 | [Check if All A's Appears Before All B's](./problems/2100-2199/2124/README.md)                                         | :o:    | Easy   | [str]                                                       |      |
 | 2125 | [Number of Laser Beams in a Bank](./problems/2100-2199/2125/README.md)                                                 | :o:    | Medium | [arr],[math]                                                |      |

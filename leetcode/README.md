@@ -1365,7 +1365,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1290 | [Convert Binary Number in a Linked List to Integer](./problems/1200-1299/1290/README.md)                               | :o:    | Easy   | [ll]                                                        |      |
 | 1291 | [Sequential Digits](./problems/1200-1299/1291/README.md)                                                               | :o:    | Medium | [lgc]                                                       |      |
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](./problems/1200-1299/1292/README.md)        | :o:    | Medium | [arr],[dp]                                                  | :+1: |
-| 1293 | [Shortest Path in a Grid with Obstacles Elimination](./problems/1200-1299/1293/README.md)                              |        | Hard   |                                                             |      |
+| 1293 | [Shortest Path in a Grid with Obstacles Elimination](./problems/1200-1299/1293/README.md) | :o: | Hard | [bfs] |   |
 | 1294 | [Weather Type in Each Country](./problems/1200-1299/1294/README.md)                                                    | :lock: | Easy   |                                                             |      |
 | 1295 | [Find Numbers with Even Number of Digits](./problems/1200-1299/1295/README.md) | :o: | Easy | [arr] |   |
 | 1296 | [Divide Array in Sets of K Consecutive Numbers](./problems/1200-1299/1296/README.md)                                   | :o:    | Medium | [arr],[hash],[greedy]                                       |      |

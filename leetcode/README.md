@@ -2566,7 +2566,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2525 | [Categorize Box According to Criteria](./problems/2500-2599/2525/README.md)                                            | :o:    | Easy   | [lgc]                                                       |      |
 | 2526 | [Find Consecutive Integers from a Data Stream](./problems/2500-2599/2526/README.md)                                    | :o:    | Medium | [des]                                                       |      |
 | 2527 | [Find Xor-Beauty of Array](./problems/2500-2599/2527/README.md)                                                        | :o:    | Medium | [arr],[bit]                                                 |      |
-| 2528 | [Maximize the Minimum Powered City](./problems/2500-2599/2528/README.md)                                               |        | Hard   |                                                             |      |
+| 2528 | [Maximize the Minimum Powered City](./problems/2500-2599/2528/README.md) | :o: | Hard | [bs],[grd] |   |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](./problems/2500-2599/2529/README.md)                          | :o:    | Easy   | [bs]                                                        |      |
 | 2530 | [Maximal Score After Applying K Operations](./problems/2500-2599/2530/README.md)                                       | :o:    | Medium | [arr],[heap]                                                |      |
 | 2531 | [Make Number of Distinct Characters Equal](./problems/2500-2599/2531/README.md) | :o: | Medium | [str],[hsh] |   |

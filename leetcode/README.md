@@ -1745,7 +1745,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1670 | [Design Front Middle Back Queue](./problems/1600-1699/1670/README.md)                                                  | :o:    | Medium | [des],[q]                                                   |      |
 | 1671 | [Minimum Number of Removals to Make Mountain Array](./problems/1600-1699/1671/README.md) | :o: | Hard | [dp] |   |
 | 1672 | [Richest Customer Wealth](./problems/1600-1699/1672/README.md) | :o: | Easy | [arr] |   |
-| 1673 | [Find the Most Competitive Subsequence](./problems/1600-1699/1673/README.md)                                           |        | Medium |                                                             |      |
+| 1673 | [Find the Most Competitive Subsequence](./problems/1600-1699/1673/README.md) | :o: | Medium | [stk],[arr] | :+1:  |
 | 1674 | [Minimum Moves to Make Array Complementary](./problems/1600-1699/1674/README.md) | :o: | Medium | [arr],[dp] |   |
 | 1675 | [Minimize Deviation in Array](./problems/1600-1699/1675/README.md) | :o: | Hard | [hp],[grd] |   |
 | 1676 | [Lowest Common Ancestor of a Binary Tree IV](./problems/1600-1699/1676/README.md)                                      | :lock: | Medium |                                                             |      |

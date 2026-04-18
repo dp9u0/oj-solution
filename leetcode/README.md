@@ -3744,3 +3744,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3398 | [Smallest Substring With Identical Characters I](./problems/3300-3399/3398/README.md) | :o: | Hard | [bs],[grd] | :+1:  |
 | 3559 | [Number of Ways to Assign Edge Weights II](./problems/3500-3599/3559/README.md) | :o: | Hard | [tr],[math] | :+1:  |
 | 3420 | [Count Non-Decreasing Subarrays After K Operations](./problems/3400-3499/3420/README.md) | :o: | Hard | [stk],[sd] | :+1:  |
+| 3624 | [Number of Integers With Popcount-Depth Equal to K II](./problems/3600-3699/3624/README.md) | :o: | Hard | [bit],[ds] | :+1:  |

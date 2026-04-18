@@ -1404,7 +1404,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1329 | [Sort the Matrix Diagonally](./problems/1300-1399/1329/README.md)                                                      | :o:    | Medium | [arr],[sort]                                                |      |
 | 1330 | [Reverse Subarray To Maximize Array Value](./problems/1300-1399/1330/README.md) | :o: | Hard | [arr],[grd] |   |
 | 1331 | [Rank Transform of an Array](./problems/1300-1399/1331/README.md)                                                      | :o:    | Easy   | [arr],[bs]                                                  |      |
-| 1332 | [Remove Palindromic Subsequences](./problems/1300-1399/1332/README.md)                                                 |        | Easy   |                                                             |      |
+| 1332 | [Remove Palindromic Subsequences](./problems/1300-1399/1332/README.md) | :o: | Easy | [str],[lgc] | :+1:  |
 | 1333 | [Filter Restaurants by Vegan-Friendly, Price and Distance](./problems/1300-1399/1333/README.md) | :o: | Medium | [arr] |   |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./problems/1300-1399/1334/README.md)     | :o:    | Medium | [grf]                                                       |      |
 | 1335 | [Minimum Difficulty of a Job Schedule](./problems/1300-1399/1335/README.md)                                            |        | Hard   |                                                             |      |

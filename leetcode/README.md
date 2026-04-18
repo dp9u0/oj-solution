@@ -3717,3 +3717,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3621 | [Number of Integers With Popcount-Depth Equal to K I](./problems/3600-3699/3621/README.md) | :o: | Hard | [bit],[math] |   |
 | 3765 | [Complete Prime Number](./problems/3700-3799/3765/README.md) | :o: | Medium | [math] |   |
 | 3608 | [Minimum Time for K Connected Components](./problems/3600-3699/3608/README.md) | :o: | Medium | [grf],[bs] |   |
+| 3739 | [Count Subarrays With Majority Element II](./problems/3700-3799/3739/README.md) | :o: | Hard | [arr],[bt] | :+1:  |

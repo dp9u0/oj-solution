@@ -2165,7 +2165,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2124 | [Check if All A's Appears Before All B's](./problems/2100-2199/2124/README.md)                                         | :o:    | Easy   | [str]                                                       |      |
 | 2125 | [Number of Laser Beams in a Bank](./problems/2100-2199/2125/README.md)                                                 | :o:    | Medium | [arr],[math]                                                |      |
 | 2126 | [Destroying Asteroids](./problems/2100-2199/2126/README.md)                                                            | :o:    | Medium | [arr],[greedy]                                              |      |
-| 2127 | [Maximum Employees to Be Invited to a Meeting](./problems/2100-2199/2127/README.md)                                    |        | Hard   |                                                             |      |
+| 2127 | [Maximum Employees to Be Invited to a Meeting](./problems/2100-2199/2127/README.md) | :o: | Hard | [grf],[ds] | :+1:  |
 | 2128 | [Remove All Ones With Row and Column Flips](./problems/2100-2199/2128/README.md)                                       | :lock: | Medium |                                                             |      |
 | 2129 | [Capitalize the Title](./problems/2100-2199/2129/README.md)                                                            |        | Easy   |                                                             |      |
 | 2130 | [Maximum Twin Sum of a Linked List](./problems/2100-2199/2130/README.md)                                               | :o:    | Medium | [ll]                                                        |      |

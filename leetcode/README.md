@@ -1919,7 +1919,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1878 | [Get Biggest Three Rhombus Sums in a Grid](./problems/1800-1899/1878/README.md) | :o: | Medium | [arr],[math] |   |
 | 1879 | [Minimum XOR Sum of Two Arrays](./problems/1800-1899/1879/README.md)                                                   | :o:    | Hard   | [dp],[bit]                                                  |      |
 | 1880 | [Check if Word Equals Summation of Two Words](./problems/1800-1899/1880/README.md)                                     | :o:    | Easy   | [str],[math]                                                |      |
-| 1881 | [Maximum Value after Insertion](./problems/1800-1899/1881/README.md)                                                   |        | Medium |                                                             |      |
+| 1881 | [Maximum Value after Insertion](./problems/1800-1899/1881/README.md) | :o: | Medium | [grd],[str] |   |
 | 1882 | [Process Tasks Using Servers](./problems/1800-1899/1882/README.md) | :o: | Medium | [hp],[grd] | :+1:  |
 | 1883 | [Minimum Skips to Arrive at Meeting On Time](./problems/1800-1899/1883/README.md)                                      |        | Hard   |                                                             |      |
 | 1884 | [Egg Drop With 2 Eggs and N Floors](./problems/1800-1899/1884/README.md) | :o: | Medium | [math] |   |

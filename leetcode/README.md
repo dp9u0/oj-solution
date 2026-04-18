@@ -1312,7 +1312,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1237 | [Find Positive Integer Solution for a Given Equation](./problems/1200-1299/1237/README.md)                             | :o:    | Medium | [tp],[math]                                                 |      |
 | 1238 | [Circular Permutation in Binary Representation](./problems/1200-1299/1238/README.md)                                   | :o:    | Medium | [bit]                                                       |      |
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](./problems/1200-1299/1239/README.md)                  |        | Medium |                                                             |      |
-| 1240 | [Tiling a Rectangle with the Fewest Squares](./problems/1200-1299/1240/README.md)                                      |        | Hard   |                                                             |      |
+| 1240 | [Tiling a Rectangle with the Fewest Squares](./problems/1200-1299/1240/README.md) | :o: | Hard | [bt] | :+1:  |
 | 1241 | [Number of Comments per Post](./problems/1200-1299/1241/README.md)                                                     | :lock: | Easy   |                                                             |      |
 | 1242 | [1242](./problems/1200-1299/1242/README.md)                                                                            |        | Easy   |                                                             |      |
 | 1243 | [Array Transformation](./problems/1200-1299/1243/README.md)                                                            | :lock: | Easy   |                                                             |      |

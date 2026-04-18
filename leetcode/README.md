@@ -2350,7 +2350,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2309 | [2309](./problems/2300-2399/2309/README.md) | :o: | Easy | [hsh],[str] |   |
 | 2310 | [2310](./problems/2300-2399/2310/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2311 | [Longest Binary Subsequence Less Than or Equal to K](./problems/2300-2399/2311/README.md)                              | :o:    | Medium | [str],[grd]                                                 | :+1: |
-| 2312 | [2312](./problems/2300-2399/2312/README.md)                                                                            |        | Easy   |                                                             |      |
+| 2312 | [2312](./problems/2300-2399/2312/README.md) | :o: | Hard | [dp] | :+1:  |
 | 2313 | [Minimum Flips in Binary Tree to Get Result](./problems/2300-2399/2313/README.md)                                      | :lock: | Hard   |                                                             |      |
 | 2314 | [The First Day of the Maximum Recorded Degree in Each City](./problems/2300-2399/2314/README.md)                       | :lock: | Medium |                                                             |      |
 | 2315 | [Count Asterisks](./problems/2300-2399/2315/README.md) | :o: | Easy | [str] |   |

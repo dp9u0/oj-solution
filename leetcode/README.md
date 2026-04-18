@@ -3738,3 +3738,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3393 | [Count Paths With the Given XOR Value](./problems/3300-3399/3393/README.md) | :o: | Medium | [dp] |   |
 | 3402 | [Minimum Operations to Make Columns Strictly Increasing](./problems/3400-3499/3402/README.md) | :o: | Easy | [grd] |   |
 | 1775 | [Equal Sum Arrays With Minimum Number of Operations](./problems/1700-1799/1775/README.md) | :o: | Medium | [grd] |   |
+| 3858 | [Minimum Bitwise OR From Grid](./problems/3800-3899/3858/README.md) | :o: | Medium | [grd],[bit] |   |

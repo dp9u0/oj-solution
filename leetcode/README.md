@@ -3759,3 +3759,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3479 | [Fruits Into Baskets III](./problems/3400-3499/3479/README.md) | :o: | Medium | [ds],[grd] |   |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./problems/3700-3799/3702/README.md) | :o: | Medium | [bit],[arr],[lgc] |   |
 | 3452 | [Sum of Good Numbers](./problems/3400-3499/3452/README.md) | :o: | Easy | [arr] |   |
+| 3714 | [Longest Balanced Substring II](./problems/3700-3799/3714/README.md) | :o: | Medium | [str],[hsh] |   |

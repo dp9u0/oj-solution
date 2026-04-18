@@ -3718,3 +3718,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3765 | [Complete Prime Number](./problems/3700-3799/3765/README.md) | :o: | Medium | [math] |   |
 | 3608 | [Minimum Time for K Connected Components](./problems/3600-3699/3608/README.md) | :o: | Medium | [grf],[bs] |   |
 | 3739 | [Count Subarrays With Majority Element II](./problems/3700-3799/3739/README.md) | :o: | Hard | [arr],[bt] | :+1:  |
+| 3685 | [Subsequence Sum After Capping Elements](./problems/3600-3699/3685/README.md) | :o: | Medium | [dp],[bit] | :+1:  |

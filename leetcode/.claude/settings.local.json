@@ -18,7 +18,8 @@
       "Bash(powershell.exe -Command \"Set-Content -Path ''D:\\\\Code\\\\oj-solution\\\\leetcode\\\\auto_push.bat'' -Value @\\(''cd /d D:\\\\Code\\\\oj-solution\\\\leetcode'',''git add -A'',''git commit -m \"\"auto sync\"\" --allow-empty'',''git push origin master''\\)\")",
       "Bash(powershell.exe -Command \"schtasks /create /tn ''LeetCode Auto Git Push'' /tr ''D:\\\\Code\\\\oj-solution\\\\leetcode\\\\auto_push.bat'' /sc minute /mo 5 /f\")",
       "Bash(powershell.exe -Command \"schtasks /query /tn ''LeetCode Auto Git Push'' /fo list\")",
-      "Bash(git worktree *)"
+      "Bash(git worktree *)",
+      "Bash(git branch *)"
     ]
   }
 }

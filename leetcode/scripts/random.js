@@ -15,7 +15,7 @@ exec(LIST_COMMAND, (err, stdout, stderr) => {
   const problems = [];
 
   for (const line of lines) {
-    const match = line.match(/^\s*\[(\d+)\]\s+(.+?)\s{2,}(Easy|Medium|Hard)\b/);
+    const match = line.match(/^\s*\[(\d+)\]\s+(.+?)\s{2,}(Easy|Medium)\b/);
     if (!match) {
       continue;
     }

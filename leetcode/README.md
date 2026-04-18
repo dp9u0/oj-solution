@@ -1752,7 +1752,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1677 | [Product's Worth Over Invoices](./problems/1600-1699/1677/README.md)                                                   | :lock: | Easy   |                                                             |      |
 | 1678 | [Goal Parser Interpretation](./problems/1600-1699/1678/README.md)                                                      | :o:    | Easy   | [str]                                                       |      |
 | 1679 | [Max Number of K-Sum Pairs](./problems/1600-1699/1679/README.md)                                                       | :o:    | Medium | [arr],[tp]                                                  |      |
-| 1680 | [Concatenation of Consecutive Binary Numbers](./problems/1600-1699/1680/README.md)                                     |        | Medium |                                                             |      |
+| 1680 | [Concatenation of Consecutive Binary Numbers](./problems/1600-1699/1680/README.md) | :o: | Medium | [bit],[math] |   |
 | 1681 | [Minimum Incompatibility](./problems/1600-1699/1681/README.md) | :o: | Hard | [dp],[bit] |   |
 | 1682 | [Longest Palindromic Subsequence II](./problems/1600-1699/1682/README.md)                                              | :lock: | Medium |                                                             |      |
 | 1683 | [Invalid Tweets](./problems/1600-1699/1683/README.md)                                                                  | :lock: | Easy   |                                                             |      |

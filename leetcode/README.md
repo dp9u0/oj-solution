@@ -3766,3 +3766,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3678 | [Smallest Absent Positive Greater Than Average](./problems/3600-3699/3678/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 3815 | [Design Auction System](./problems/3800-3899/3815/README.md) | :o: | Medium | [des],[ds],[hp] |   |
 | 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](./problems/1700-1799/1744/README.md) | :o: | Medium | [arr],[math] |   |
+| 3458 | [Select K Disjoint Special Substrings](./problems/3400-3499/3458/README.md) | :o: | Medium | [str],[grd] |   |

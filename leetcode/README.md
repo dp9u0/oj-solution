@@ -2638,7 +2638,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2597 | [The Number of Beautiful Subsets](./problems/2500-2599/2597/README.md)                                                 | :o:    | Medium | [dp],[arr]                                                  |      |
 | 2598 | [Smallest Missing Non-negative Integer After Operations](./problems/2500-2599/2598/README.md)                          | :o:    | Medium | [arr],[math],[hsh]                                          |      |
 | 2599 | [Make the Prefix Sum Non-negative](./problems/2500-2599/2599/README.md)                                                | :lock: | Medium |                                                             |      |
-| 2600 | [K Items With the Maximum Sum](./problems/2600-2699/2600/README.md)                                                    |        | Easy   |                                                             |      |
+| 2600 | [K Items With the Maximum Sum](./problems/2600-2699/2600/README.md) | :o: | Easy | [lgc] |   |
 | 2601 | [Prime Subtraction Operation](./problems/2600-2699/2601/README.md)                                                     | :o:    | Medium | [arr],[math],[grd]                                          |      |
 | 2602 | [Minimum Operations to Make All Array Elements Equal](./problems/2600-2699/2602/README.md) | :o: | Medium | [arr],[bs] |   |
 | 2603 | [Collect Coins in a Tree](./problems/2600-2699/2603/README.md) | :o: | Hard | [tr] |   |

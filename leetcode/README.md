@@ -3349,7 +3349,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3308 | [Find Top Performing Driver](./problems/3300-3399/3308/README.md)                                                      | :lock: | Medium |                                                             |      |
 | 3309 | [Maximum Possible Number by Binary Concatenation](./problems/3300-3399/3309/README.md)                                 | :o:    | Medium | [bit],[math]                                                |      |
 | 3310 | [Remove Methods From Project](./problems/3300-3399/3310/README.md) | :o: | Medium | [grf],[bfs] |   |
-| 3311 | [Construct 2D Grid Matching Graph Layout](./problems/3300-3399/3311/README.md)                                         |        | Hard   |                                                             |      |
+| 3311 | [Construct 2D Grid Matching Graph Layout](./problems/3300-3399/3311/README.md) | :o: | Hard | [grf] | :+1:  |
 | 3312 | [Sorted GCD Pair Queries](./problems/3300-3399/3312/README.md)                                                         |        | Hard   |                                                             |      |
 | 3313 | [Find the Last Marked Nodes in Tree](./problems/3300-3399/3313/README.md)                                              | :lock: | Hard   |                                                             |      |
 | 3314 | [Construct the Minimum Bitwise Array I](./problems/3300-3399/3314/README.md)                                           | :o:    | Easy   | [bit]                                                       |      |

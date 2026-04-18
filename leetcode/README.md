@@ -3742,3 +3742,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3547 | [Maximum Sum of Edge Values in a Graph](./problems/3500-3599/3547/README.md) | :o: | Hard | [grf],[math] | :+1:  |
 | 3748 | [Count Stable Subarrays](./problems/3700-3799/3748/README.md) | :o: | Hard | [dp],[ds] | :+1:  |
 | 3398 | [Smallest Substring With Identical Characters I](./problems/3300-3399/3398/README.md) | :o: | Hard | [bs],[grd] | :+1:  |
+| 3559 | [Number of Ways to Assign Edge Weights II](./problems/3500-3599/3559/README.md) | :o: | Hard | [tr],[math] | :+1:  |

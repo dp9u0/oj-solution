@@ -2019,7 +2019,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1978 | [Employees Whose Manager Left the Company](./problems/1900-1999/1978/README.md)                                        | :lock: | Easy   |                                                             |      |
 | 1979 | [Find Greatest Common Divisor of Array](./problems/1900-1999/1979/README.md)                                           | :o:    | Easy   | [arr],[math]                                                |      |
 | 1980 | [Find Unique Binary String](./problems/1900-1999/1980/README.md)                                                       | :o:    | Medium | [arr],[bit]                                                 |      |
-| 1981 | [Minimize the Difference Between Target and Chosen Elements](./problems/1900-1999/1981/README.md)                      |        | Medium |                                                             |      |
+| 1981 | [Minimize the Difference Between Target and Chosen Elements](./problems/1900-1999/1981/README.md) | :o: | Medium | [dp] |   |
 | 1982 | [Find Array Given Subset Sums](./problems/1900-1999/1982/README.md)                                                    |        | Hard   |                                                             |      |
 | 1983 | [1983](./problems/1900-1999/1983/README.md)                                                                            |        | Easy   |                                                             |      |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](./problems/1900-1999/1984/README.md)                       | :o:    | Easy   | [arr],[sd]                                                  |      |

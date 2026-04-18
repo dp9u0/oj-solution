@@ -2680,7 +2680,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2639 | [Find the Width of Columns of a Grid](./problems/2600-2699/2639/README.md)                                             | :o:    | Easy   | [arr]                                                       |      |
 | 2640 | [Find the Score of All Prefixes of an Array](./problems/2600-2699/2640/README.md)                                      | :o:    | Medium | [arr]                                                       |      |
 | 2641 | [Cousins in Binary Tree II](./problems/2600-2699/2641/README.md)                                                       | :o:    | Medium | [tr],[bfs]                                                  |      |
-| 2642 | [Design Graph With Shortest Path Calculator](./problems/2600-2699/2642/README.md)                                      |        | Hard   |                                                             |      |
+| 2642 | [Design Graph With Shortest Path Calculator](./problems/2600-2699/2642/README.md) | :o: | Hard | [grf],[des],[ds] |   |
 | 2643 | [Row With Maximum Ones](./problems/2600-2699/2643/README.md)                                                           | :o:    | Easy   | [arr]                                                       |      |
 | 2644 | [Find the Maximum Divisibility Score](./problems/2600-2699/2644/README.md)                                             | :o:    | Easy   | [arr],[math]                                                |      |
 | 2645 | [Minimum Additions to Make Valid String](./problems/2600-2699/2645/README.md)                                          | :o:    | Medium | [str]                                                       |      |

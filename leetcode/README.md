@@ -3304,7 +3304,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3263 | [Convert Doubly Linked List to Array I](./problems/3200-3299/3263/README.md)                                           | :lock: | Easy   |                                                             |      |
 | 3264 | [Final Array State After K Multiplication Operations I](./problems/3200-3299/3264/README.md)                           | :o:    | Easy   | [arr],[lgc]                                                 |      |
 | 3265 | [Count Almost Equal Pairs I](./problems/3200-3299/3265/README.md)                                                      | :o:    | Medium | [arr]                                                       |      |
-| 3266 | [Final Array State After K Multiplication Operations II](./problems/3200-3299/3266/README.md)                          |        | Hard   |                                                             |      |
+| 3266 | [Final Array State After K Multiplication Operations II](./problems/3200-3299/3266/README.md) | :o: | Hard | [hp],[math] |   |
 | 3267 | [Count Almost Equal Pairs II](./problems/3200-3299/3267/README.md)                                                     | :o:    | Hard   | [hsh]                                                       | :+1: |
 | 3268 | [Find Overlapping Shifts II](./problems/3200-3299/3268/README.md)                                                      | :lock: | Hard   |                                                             |      |
 | 3269 | [Constructing Two Increasing Arrays](./problems/3200-3299/3269/README.md)                                              | :lock: | Hard   |                                                             |      |

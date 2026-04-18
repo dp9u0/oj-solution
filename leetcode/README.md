@@ -2716,7 +2716,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2675 | [2675](./problems/2600-2699/2675/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2676 | [2676](./problems/2600-2699/2676/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2677 | [2677](./problems/2600-2699/2677/README.md)                                                                            |        | Easy   |                                                             |      |
-| 2678 | [Number of Senior Citizens](./problems/2600-2699/2678/README.md)                                                       |        | Easy   |                                                             |      |
+| 2678 | [Number of Senior Citizens](./problems/2600-2699/2678/README.md) | :o: | Easy | [str],[arr] |   |
 | 2679 | [Sum in a Matrix](./problems/2600-2699/2679/README.md)                                                                 | :o:    | Medium | [arr],[grd]                                                 |      |
 | 2680 | [Maximum OR](./problems/2600-2699/2680/README.md)                                                                      | :o:    | Medium | [bit]                                                       |      |
 | 2681 | [Power of Heroes](./problems/2600-2699/2681/README.md)                                                                 | :o:    | Hard   | [arr],[math],[dp]                                           | :+1: |

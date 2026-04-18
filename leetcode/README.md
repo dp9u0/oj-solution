@@ -3732,3 +3732,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3829 | [Design Ride Sharing System](./problems/3800-3899/3829/README.md) | :o: | Medium | [des],[q] |   |
 | 3776 | [Minimum Moves to Balance Circular Array](./problems/3700-3799/3776/README.md) | :o: | Medium | [grd] |   |
 | 3649 | [Number of Perfect Pairs](./problems/3600-3699/3649/README.md) | :o: | Medium | [arr],[tp] |   |
+| 3567 | [Minimum Absolute Difference in Sliding Submatrix](./problems/3500-3599/3567/README.md) | :o: | Medium | [arr] |   |

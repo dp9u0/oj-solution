@@ -2348,7 +2348,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2307 | [2307](./problems/2300-2399/2307/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2308 | [Arrange Table by Gender](./problems/2300-2399/2308/README.md)                                                         | :lock: | Medium |                                                             |      |
 | 2309 | [2309](./problems/2300-2399/2309/README.md) | :o: | Easy | [hsh],[str] |   |
-| 2310 | [2310](./problems/2300-2399/2310/README.md)                                                                            |        | Easy   |                                                             |      |
+| 2310 | [2310](./problems/2300-2399/2310/README.md) | :o: | Medium | [math] |   |
 | 2311 | [Longest Binary Subsequence Less Than or Equal to K](./problems/2300-2399/2311/README.md)                              | :o:    | Medium | [str],[grd]                                                 | :+1: |
 | 2312 | [2312](./problems/2300-2399/2312/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2313 | [Minimum Flips in Binary Tree to Get Result](./problems/2300-2399/2313/README.md)                                      | :lock: | Hard   |                                                             |      |

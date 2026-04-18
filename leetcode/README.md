@@ -1938,7 +1938,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1897 | [Redistribute Characters to Make All Strings Equal](./problems/1800-1899/1897/README.md)                               | :o:    | Easy   | [arr],[hash]                                                |      |
 | 1898 | [Maximum Number of Removable Characters](./problems/1800-1899/1898/README.md)                                          | :o:    | Medium | [bs],[str]                                                  |      |
 | 1899 | [Merge Triplets to Form Target Triplet](./problems/1800-1899/1899/README.md)                                           | :o:    | Medium | [arr],[greedy]                                              |      |
-| 1900 | [The Earliest and Latest Rounds Where Players Compete](./problems/1900-1999/1900/README.md)                            |        | Hard   |                                                             |      |
+| 1900 | [The Earliest and Latest Rounds Where Players Compete](./problems/1900-1999/1900/README.md) | :o: | Hard | [dp] | :+1:  |
 | 1901 | [Find a Peak Element II](./problems/1900-1999/1901/README.md) | :o: | Medium | [arr],[bs] |   |
 | 1902 | [Depth of BST Given Insertion Order](./problems/1900-1999/1902/README.md)                                              | :lock: | Medium |                                                             |      |
 | 1903 | [Largest Odd Number in String](./problems/1900-1999/1903/README.md) | :o: | Easy | [str],[grd] |   |

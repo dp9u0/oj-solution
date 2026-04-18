@@ -3785,3 +3785,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3607 | [Power Grid Maintenance](./problems/3600-3699/3607/README.md) | :o: | Medium | [grf],[ds] | :+1:  |
 | 3568 | [Minimum Moves to Clean the Classroom](./problems/3500-3599/3568/README.md) | :o: | Medium | [bfs] | :+1:  |
 | 3692 | [Majority Frequency Characters](./problems/3600-3699/3692/README.md) | :o: | Easy | [hsh] |   |
+| 3789 | [Minimum Cost to Acquire Required Items](./problems/3700-3799/3789/README.md) | :o: | Medium | [math],[grd] | :+1:  |

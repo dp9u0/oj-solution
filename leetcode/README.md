@@ -2531,7 +2531,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2490 | [Circular Sentence](./problems/2400-2499/2490/README.md)                                                               |        | Easy   |                                                             |      |
 | 2491 | [Divide Players Into Teams of Equal Skill](./problems/2400-2499/2491/README.md)                                        | :o:    | Medium | [arr],[tp]                                                  |      |
 | 2492 | [Minimum Score of a Path Between Two Cities](./problems/2400-2499/2492/README.md)                                      | :o:    | Medium | [grf],[bfs]                                                 |      |
-| 2493 | [Divide Nodes Into the Maximum Number of Groups](./problems/2400-2499/2493/README.md)                                  |        | Hard   |                                                             |      |
+| 2493 | [Divide Nodes Into the Maximum Number of Groups](./problems/2400-2499/2493/README.md) | :o: | Hard | [grf],[bfs] | :+1:  |
 | 2494 | [Merge Overlapping Events in the Same Hall](./problems/2400-2499/2494/README.md)                                       | :lock: | Hard   |                                                             |      |
 | 2495 | [Number of Subarrays Having Even Product](./problems/2400-2499/2495/README.md)                                         | :lock: | Medium |                                                             |      |
 | 2496 | [Maximum Value of a String in an Array](./problems/2400-2499/2496/README.md)                                           | :o:    | Easy   | [str],[arr]                                                 |      |

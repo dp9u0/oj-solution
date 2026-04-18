@@ -2582,7 +2582,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2541 | [Minimum Operations to Make Array Equal II](./problems/2500-2599/2541/README.md)                                       | :o:    | Medium | [math],[arr]                                                |      |
 | 2542 | [Maximum Subsequence Score](./problems/2500-2599/2542/README.md)                                                       | :o:    | Medium | [arr],[hp],[grd]                                            | :+1: |
 | 2543 | [Check if Point Is Reachable](./problems/2500-2599/2543/README.md)                                                     |        | Hard   |                                                             |      |
-| 2544 | [Alternating Digit Sum](./problems/2500-2599/2544/README.md)                                                           |        | Easy   |                                                             |      |
+| 2544 | [Alternating Digit Sum](./problems/2500-2599/2544/README.md) | :o: | Easy | [math] |   |
 | 2545 | [Sort the Students by Their Kth Score](./problems/2500-2599/2545/README.md)                                            |        | Medium |                                                             |      |
 | 2546 | [Apply Bitwise Operations to Make Strings Equal](./problems/2500-2599/2546/README.md)                                  | :o:    | Medium | [bit]                                                       |      |
 | 2547 | [Minimum Cost to Split an Array](./problems/2500-2599/2547/README.md) | :o: | Hard | [dp] |   |

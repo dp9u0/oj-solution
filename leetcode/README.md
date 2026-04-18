@@ -1689,7 +1689,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1614 | [Maximum Nesting Depth of the Parentheses](./problems/1600-1699/1614/README.md)                                        | :o:    | Easy   | [stk]                                                       |      |
 | 1615 | [Maximal Network Rank](./problems/1600-1699/1615/README.md)                                                            | :o:    | Medium | [grf]                                                       |      |
 | 1616 | [Split Two Strings to Make Palindrome](./problems/1600-1699/1616/README.md)                                            | :o:    | Medium | [tp],[str]                                                  |      |
-| 1617 | [Count Subtrees With Max Distance Between Cities](./problems/1600-1699/1617/README.md)                                 |        | Hard   |                                                             |      |
+| 1617 | [Count Subtrees With Max Distance Between Cities](./problems/1600-1699/1617/README.md) | :o: | Hard | [grf],[bit] |   |
 | 1618 | [1618](./problems/1600-1699/1618/README.md)                                                                            |        | Easy   |                                                             |      |
 | 1619 | [1619](./problems/1600-1699/1619/README.md)                                                                            |        | Easy   |                                                             |      |
 | 1620 | [Coordinate With Maximum Network Quality](./problems/1600-1699/1620/README.md) | :o: | Medium | [math] |   |

@@ -3276,7 +3276,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3235 | [Check if the Rectangle Corner Is Reachable](./problems/3200-3299/3235/README.md)                                      |        | Hard   |                                                             |      |
 | 3236 | [CEO Subordinate Hierarchy](./problems/3200-3299/3236/README.md)                                                       | :lock: | Hard   |                                                             |      |
 | 3237 | [Alt and Tab Simulation](./problems/3200-3299/3237/README.md)                                                          | :lock: | Medium |                                                             |      |
-| 3238 | [Find the Number of Winning Players](./problems/3200-3299/3238/README.md)                                              |        | Easy   |                                                             |      |
+| 3238 | [Find the Number of Winning Players](./problems/3200-3299/3238/README.md) | :o: | Easy | [hsh],[arr] |   |
 | 3239 | [Minimum Number of Flips to Make Binary Grid Palindromic I](./problems/3200-3299/3239/README.md) | :o: | Medium | [arr],[math] |   |
 | 3240 | [Minimum Number of Flips to Make Binary Grid Palindromic II](./problems/3200-3299/3240/README.md)                      |        | Medium |                                                             |      |
 | 3241 | [Time Taken to Mark All Nodes](./problems/3200-3299/3241/README.md)                                                    | :o:    | Hard   | [dp],[tr]                                                   |      |

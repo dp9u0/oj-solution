@@ -1460,7 +1460,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1385 | [Find the Distance Value Between Two Arrays](./problems/1300-1399/1385/README.md) | :o: | Easy | [arr],[bs] |   |
 | 1386 | [Cinema Seat Allocation](./problems/1300-1399/1386/README.md)                                                          | :o:    | Medium | [hsh],[bit]                                                 |      |
 | 1387 | [Sort Integers by The Power Value](./problems/1300-1399/1387/README.md)                                                | :o:    | Medium | [math],[dc]                                                 |      |
-| 1388 | [Pizza With 3n Slices](./problems/1300-1399/1388/README.md)                                                            |        | Hard   |                                                             |      |
+| 1388 | [Pizza With 3n Slices](./problems/1300-1399/1388/README.md) | :o: | Hard | [dp] | :+1:  |
 | 1389 | [Create Target Array in the Given Order](./problems/1300-1399/1389/README.md)                                          | :o:    | Easy   | [arr]                                                       |      |
 | 1390 | [Four Divisors](./problems/1300-1399/1390/README.md)                                                                   | :o:    | Medium | [math]                                                      |      |
 | 1391 | [Check if There is a Valid Path in a Grid](./problems/1300-1399/1391/README.md) | :o: | Medium | [bfs],[grf] |   |

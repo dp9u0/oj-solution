@@ -1608,7 +1608,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1533 | [Find the Index of the Large Integer](./problems/1500-1599/1533/README.md)                                             | :lock: | Medium |                                                             |      |
 | 1534 | [Count Good Triplets](./problems/1500-1599/1534/README.md)                                                             | :o:    | Easy   | [arr]                                                       |      |
 | 1535 | [Find the Winner of an Array Game](./problems/1500-1599/1535/README.md)                                                | :o:    | Medium | [arr]                                                       |      |
-| 1536 | [Minimum Swaps to Arrange a Binary Grid](./problems/1500-1599/1536/README.md)                                          |        | Medium |                                                             |      |
+| 1536 | [Minimum Swaps to Arrange a Binary Grid](./problems/1500-1599/1536/README.md) | :o: | Medium | [grd],[arr] |   |
 | 1537 | [Get the Maximum Score](./problems/1500-1599/1537/README.md)                                                           |        | Hard   |                                                             |      |
 | 1538 | [Guess the Majority in a Hidden Array](./problems/1500-1599/1538/README.md)                                            | :lock: | Medium |                                                             |      |
 | 1539 | [Kth Missing Positive Number](./problems/1500-1599/1539/README.md)                                                     | :o:    | Easy   | [arr],[bs]                                                  |      |

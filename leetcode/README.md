@@ -2358,7 +2358,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2317 | [Maximum XOR After Operations](./problems/2300-2399/2317/README.md) | :o: | Medium | [bit] |   |
 | 2318 | [Number of Distinct Roll Sequences](./problems/2300-2399/2318/README.md) | :o: | Hard | [dp] |   |
 | 2319 | [Check if Matrix Is X-Matrix](./problems/2300-2399/2319/README.md)                                                     | :o:    | Easy   | [arr],[lgc]                                                 |      |
-| 2320 | [Count Number of Ways to Place Houses](./problems/2300-2399/2320/README.md)                                            |        | Medium |                                                             |      |
+| 2320 | [Count Number of Ways to Place Houses](./problems/2300-2399/2320/README.md) | :o: | Medium | [dp],[math] |   |
 | 2321 | [2321](./problems/2300-2399/2321/README.md)                                                                            | :o:    | Hard   | [arr],[dp]                                                  |      |
 | 2322 | [Minimum Score After Removals on a Tree](./problems/2300-2399/2322/README.md) | :o: | Hard | [tr],[dfs] | :+1:  |
 | 2323 | [Find Minimum Time to Finish All Jobs II](./problems/2300-2399/2323/README.md)                                         | :lock: | Medium |                                                             |      |

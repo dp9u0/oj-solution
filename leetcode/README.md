@@ -3192,7 +3192,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3151 | [Special Array I](./problems/3100-3199/3151/README.md)                                                                 | :o:    | Easy   | [arr]                                                       |      |
 | 3152 | [Special Array II](./problems/3100-3199/3152/README.md)                                                                |        | Medium |                                                             |      |
 | 3153 | [Sum of Digit Differences of All Pairs](./problems/3100-3199/3153/README.md)                                           | :o:    | Medium | [arr],[greedy]                                              |      |
-| 3154 | [Find Number of Ways to Reach the K-th Stair](./problems/3100-3199/3154/README.md)                                     |        | Hard   |                                                             |      |
+| 3154 | [Find Number of Ways to Reach the K-th Stair](./problems/3100-3199/3154/README.md) | :o: | Hard | [math] | :+1:  |
 | 3155 | [Maximum Number of Upgradable Servers](./problems/3100-3199/3155/README.md)                                            | :lock: | Medium |                                                             |      |
 | 3156 | [Employee Task Duration and Concurrent Tasks](./problems/3100-3199/3156/README.md)                                     | :lock: | Hard   |                                                             |      |
 | 3157 | [Find the Level of Tree with Minimum Sum](./problems/3100-3199/3157/README.md)                                         | :lock: | Medium |                                                             |      |

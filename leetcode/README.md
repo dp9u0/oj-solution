@@ -2853,7 +2853,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2812 | [Find the Safest Path in a Grid](./problems/2800-2899/2812/README.md)                                                  | :o:    | Medium | [arr],[bfs]                                                 | :+1: |
 | 2813 | [Maximum Elegance of a K-Length Subsequence](./problems/2800-2899/2813/README.md)                                      |        | Hard   |                                                             |      |
 | 2814 | [Minimum Time Takes to Reach Destination Without Drowning](./problems/2800-2899/2814/README.md)                        | :lock: | Hard   |                                                             |      |
-| 2815 | [Max Pair Sum in an Array](./problems/2800-2899/2815/README.md)                                                        |        | Easy   |                                                             |      |
+| 2815 | [Max Pair Sum in an Array](./problems/2800-2899/2815/README.md) | :o: | Easy | [hsh],[arr] |   |
 | 2816 | [Double a Number Represented as a Linked List](./problems/2800-2899/2816/README.md)                                    | :o:    | Medium | [ll],[math]                                                 |      |
 | 2817 | [Minimum Absolute Difference Between Elements With Constraint](./problems/2800-2899/2817/README.md)                    | :o:    | Medium | [arr],[bs]                                                  |      |
 | 2818 | [Apply Operations to Maximize Score](./problems/2800-2899/2818/README.md) | :o: | Hard | [arr],[stk],[grd] |   |

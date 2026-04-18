@@ -2241,7 +2241,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2200 | [Find All K-Distant Indices in an Array](./problems/2200-2299/2200/README.md)                                          | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2201 | [2201](./problems/2200-2299/2201/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 2202 | [2202](./problems/2200-2299/2202/README.md) | :o: | Medium | [arr],[grd] |   |
-| 2203 | [Minimum Weighted Subgraph With the Required Paths](./problems/2200-2299/2203/README.md)                               |        | Hard   |                                                             |      |
+| 2203 | [Minimum Weighted Subgraph With the Required Paths](./problems/2200-2299/2203/README.md) | :o: | Hard | [grf],[bfs] | :+1:  |
 | 2204 | [2204](./problems/2200-2299/2204/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2205 | [The Number of Users That Are Eligible for Discount](./problems/2200-2299/2205/README.md)                              | :lock: | Easy   |                                                             |      |
 | 2206 | [Divide Array Into Equal Pairs](./problems/2200-2299/2206/README.md)                                                   | :o:    | Easy   | [arr],[hsh]                                                 |      |

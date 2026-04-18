@@ -3728,3 +3728,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3609 | [Minimum Moves to Reach Target in Grid](./problems/3600-3699/3609/README.md) | :o: | Hard | [math],[grd] |   |
 | 3600 | [Maximize Spanning Tree Stability with Upgrades](./problems/3600-3699/3600/README.md) | :o: | Hard | [grf],[bs],[grd] |   |
 | 3562 | [Maximum Profit from Trading Stocks with Discounts](./problems/3500-3599/3562/README.md) | :o: | Hard | [tr],[dp] |   |
+| 3859 | [Count Subarrays With K Distinct Integers](./problems/3800-3899/3859/README.md) | :o: | Hard | [sd],[arr] |   |

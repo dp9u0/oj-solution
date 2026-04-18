@@ -3739,3 +3739,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3402 | [Minimum Operations to Make Columns Strictly Increasing](./problems/3400-3499/3402/README.md) | :o: | Easy | [grd] |   |
 | 1775 | [Equal Sum Arrays With Minimum Number of Operations](./problems/1700-1799/1775/README.md) | :o: | Medium | [grd] |   |
 | 3858 | [Minimum Bitwise OR From Grid](./problems/3800-3899/3858/README.md) | :o: | Medium | [grd],[bit] |   |
+| 3767 | [Maximize Points After Choosing K Tasks](./problems/3700-3799/3767/README.md) | :o: | Medium | [grd],[arr] |   |

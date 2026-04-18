@@ -3753,3 +3753,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3557 | [Find Maximum Number of Non Intersecting Substrings](./problems/3500-3599/3557/README.md) | :o: | Medium | [str],[grd] |   |
 | 3432 | [Count Partitions with Even Sum Difference](./problems/3400-3499/3432/README.md) | :o: | Easy | [arr],[math] |   |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](./problems/3500-3599/3550/README.md) | :o: | Easy | [arr] |   |
+| 3603 | [Minimum Cost Path with Alternating Directions II](./problems/3600-3699/3603/README.md) | :o: | Medium | [dp] |   |

@@ -2599,7 +2599,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2558 | [Take Gifts From the Richest Pile](./problems/2500-2599/2558/README.md)                                                | :o:    | Easy   | [arr],[heap]                                                |      |
 | 2559 | [Count Vowel Strings in Ranges](./problems/2500-2599/2559/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 2560 | [House Robber IV](./problems/2500-2599/2560/README.md)                                                                 | :o:    | Medium | [bs],[grd]                                                  | :+1: |
-| 2561 | [Rearranging Fruits](./problems/2500-2599/2561/README.md)                                                              |        | Hard   |                                                             |      |
+| 2561 | [Rearranging Fruits](./problems/2500-2599/2561/README.md) | :o: | Hard | [grd],[arr] |   |
 | 2562 | [Find the Array Concatenation Value](./problems/2500-2599/2562/README.md)                                              |        | Easy   |                                                             |      |
 | 2563 | [Count the Number of Fair Pairs](./problems/2500-2599/2563/README.md)                                                  | :o:    | Medium | [arr],[tp],[bs]                                             |      |
 | 2564 | [Substring XOR Queries](./problems/2500-2599/2564/README.md)                                                           | :o:    | Medium | [str],[bit],[hsh]                                           |      |

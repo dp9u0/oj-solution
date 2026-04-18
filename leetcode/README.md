@@ -3687,3 +3687,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3812 | [Minimum Edge Toggles on a Tree](./problems/3800-3899/3812/README.md) | :o: | Hard | [dfs],[grf] |   |
 | 3799 | [Word Squares II](./problems/3700-3799/3799/README.md) | :o: | Medium | [arr],[bt] |   |
 | 3447 | [Assign Elements to Groups with Constraints](./problems/3400-3499/3447/README.md) | :o: | Medium | [arr],[math] |   |
+| 3783 | [Mirror Distance of an Integer](./problems/3700-3799/3783/README.md) | :o: | Easy | [math] |   |

@@ -3001,7 +3001,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2960 | [Count Tested Devices After Test Operations](./problems/2900-2999/2960/README.md)                                      | :o:    | Easy   | [arr],[lgc]                                                 |      |
 | 2961 | [Double Modular Exponentiation](./problems/2900-2999/2961/README.md)                                                   | :o:    | Medium | [math],[lgc]                                                |      |
 | 2962 | [Count Subarrays Where Max Element Appears at Least K Times](./problems/2900-2999/2962/README.md)                      | :o:    | Medium | [arr]                                                       |      |
-| 2963 | [Count the Number of Good Partitions](./problems/2900-2999/2963/README.md)                                             |        | Hard   |                                                             |      |
+| 2963 | [Count the Number of Good Partitions](./problems/2900-2999/2963/README.md) | :o: | Hard | [hsh],[grd] |   |
 | 2964 | [Number of Divisible Triplet Sums](./problems/2900-2999/2964/README.md)                                                | :lock: | Medium |                                                             |      |
 | 2965 | [Find Missing and Repeated Values](./problems/2900-2999/2965/README.md)                                                | :o:    | Easy   | [arr]                                                       |      |
 | 2966 | [Divide Array Into Arrays With Max Difference](./problems/2900-2999/2966/README.md)                                    | :o:    | Medium | [arr],[grd]                                                 |      |

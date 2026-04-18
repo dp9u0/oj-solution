@@ -3775,3 +3775,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3660 | [Jump Game IX](./problems/3600-3699/3660/README.md) | :o: | Medium | [arr],[dp] | :+1:  |
 | 3493 | [Properties Graph](./problems/3400-3499/3493/README.md) | :o: | Medium | [hsh],[grf] |   |
 | 3805 | [Count Caesar Cipher Pairs](./problems/3800-3899/3805/README.md) | :o: | Medium | [hsh],[str] |   |
+| 3514 | [Number of Unique XOR Triplets II](./problems/3500-3599/3514/README.md) | :o: | Medium | [bit],[dp] | :+1:  |

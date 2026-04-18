@@ -3741,3 +3741,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3841 | [Palindromic Path Queries in a Tree](./problems/3800-3899/3841/README.md) | :o: | Hard | [tr],[bit],[ds] | :+1:  |
 | 3547 | [Maximum Sum of Edge Values in a Graph](./problems/3500-3599/3547/README.md) | :o: | Hard | [grf],[math] | :+1:  |
 | 3748 | [Count Stable Subarrays](./problems/3700-3799/3748/README.md) | :o: | Hard | [dp],[ds] | :+1:  |
+| 3398 | [Smallest Substring With Identical Characters I](./problems/3300-3399/3398/README.md) | :o: | Hard | [bs],[grd] | :+1:  |

@@ -1843,7 +1843,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1802 | [Maximum Value at a Given Index in a Bounded Array](./problems/1800-1899/1802/README.md)                               | :o:    | Medium | [bs],[grd]                                                  |      |
 | 1803 | [Count Pairs With XOR in a Range](./problems/1800-1899/1803/README.md)                                                 | :o:    | Hard   | [arr],[bit],[dc]                                            | :+1: |
 | 1804 | [Implement Trie II (Prefix Tree)](./problems/1800-1899/1804/README.md)                                                 | :lock: | Medium |                                                             |      |
-| 1805 | [Number of Different Integers in a String](./problems/1800-1899/1805/README.md)                                        |        | Easy   |                                                             |      |
+| 1805 | [Number of Different Integers in a String](./problems/1800-1899/1805/README.md) | :o: | Easy | [str],[hsh] |   |
 | 1806 | [Minimum Number of Operations to Reinitialize a Permutation](./problems/1800-1899/1806/README.md)                      | :o:    | Medium | [arr],[math]                                                |      |
 | 1807 | [Evaluate the Bracket Pairs of a String](./problems/1800-1899/1807/README.md)                                          | :o:    | Medium | [str],[hsh]                                                 |      |
 | 1808 | [Maximize Number of Nice Divisors](./problems/1800-1899/1808/README.md) | :o: | Hard | [math] |   |

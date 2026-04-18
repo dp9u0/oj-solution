@@ -3747,3 +3747,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3578 | [Count Partitions With Max-Min Difference at Most K](./problems/3500-3599/3578/README.md) | :o: | Medium | [dp],[sd] |   |
 | 3728 | [Stable Subarrays With Equal Boundary and Interior Sum](./problems/3700-3799/3728/README.md) | :o: | Medium | [hsh],[pfx] |   |
 | 3679 | [ Minimum Discards to Balance Inventory](./problems/3600-3699/3679/README.md) | :o: | Medium | [grd],[sd] |   |
+| 3835 | [Count Subarrays With Cost Less Than or Equal to K](./problems/3800-3899/3835/README.md) | :o: | Medium | [arr],[sd] |   |

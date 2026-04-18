@@ -2957,7 +2957,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2916 | [Subarrays Distinct Element Sum of Squares II](./problems/2900-2999/2916/README.md)                                    |        | Hard   |                                                             |      |
 | 2917 | [Find the K-or of an Array](./problems/2900-2999/2917/README.md)                                                       |        | Easy   |                                                             |      |
 | 2918 | [Minimum Equal Sum of Two Arrays After Replacing Zeros](./problems/2900-2999/2918/README.md)                           | :o:    | Medium | [arr],[greedy]                                              |      |
-| 2919 | [Minimum Increment Operations to Make Array Beautiful](./problems/2900-2999/2919/README.md)                            |        | Medium |                                                             |      |
+| 2919 | [Minimum Increment Operations to Make Array Beautiful](./problems/2900-2999/2919/README.md) | :o: | Medium | [dp] |   |
 | 2920 | [Maximum Points After Collecting Coins From All Nodes](./problems/2900-2999/2920/README.md)                            | :o:    | Hard   | [dp],[tr]                                                   |      |
 | 2921 | [Maximum Profitable Triplets With Increasing Prices II](./problems/2900-2999/2921/README.md)                           | :lock: | Hard   |                                                             |      |
 | 2922 | [Market Analysis III](./problems/2900-2999/2922/README.md)                                                             | :lock: | Medium |                                                             |      |

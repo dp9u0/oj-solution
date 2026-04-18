@@ -2851,7 +2851,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2810 | [Faulty Keyboard](./problems/2800-2899/2810/README.md)                                                                 | :o:    | Easy   | [str],[stk]                                                 |      |
 | 2811 | [Check if it is Possible to Split Array](./problems/2800-2899/2811/README.md)                                          |        | Medium |                                                             |      |
 | 2812 | [Find the Safest Path in a Grid](./problems/2800-2899/2812/README.md)                                                  | :o:    | Medium | [arr],[bfs]                                                 | :+1: |
-| 2813 | [Maximum Elegance of a K-Length Subsequence](./problems/2800-2899/2813/README.md)                                      |        | Hard   |                                                             |      |
+| 2813 | [Maximum Elegance of a K-Length Subsequence](./problems/2800-2899/2813/README.md) | :o: | Hard | [grd],[hp] | :+1:  |
 | 2814 | [Minimum Time Takes to Reach Destination Without Drowning](./problems/2800-2899/2814/README.md)                        | :lock: | Hard   |                                                             |      |
 | 2815 | [Max Pair Sum in an Array](./problems/2800-2899/2815/README.md)                                                        |        | Easy   |                                                             |      |
 | 2816 | [Double a Number Represented as a Linked List](./problems/2800-2899/2816/README.md)                                    | :o:    | Medium | [ll],[math]                                                 |      |

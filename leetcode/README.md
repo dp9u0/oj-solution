@@ -1769,7 +1769,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1694 | [Reformat Phone Number](./problems/1600-1699/1694/README.md)                                                           |        | Easy   |                                                             |      |
 | 1695 | [Maximum Erasure Value](./problems/1600-1699/1695/README.md)                                                           | :o:    | Medium | [arr],[tp]                                                  | :+1: |
 | 1696 | [Jump Game VI](./problems/1600-1699/1696/README.md)                                                                    | :o:    | Medium | [dp],[queue]                                                | :+1: |
-| 1697 | [Checking Existence of Edge Length Limited Paths](./problems/1600-1699/1697/README.md)                                 |        | Hard   |                                                             |      |
+| 1697 | [Checking Existence of Edge Length Limited Paths](./problems/1600-1699/1697/README.md) | :o: | Hard | [ds],[grf] | :+1:  |
 | 1698 | [Number of Distinct Substrings in a String](./problems/1600-1699/1698/README.md)                                       | :lock: | Medium |                                                             |      |
 | 1699 | [Number of Calls Between Two Persons](./problems/1600-1699/1699/README.md)                                             | :lock: | Medium |                                                             |      |
 | 1700 | [Number of Students Unable to Eat Lunch](./problems/1700-1799/1700/README.md)                                          | :o:    | Easy   | [arr],[queue]                                               |      |

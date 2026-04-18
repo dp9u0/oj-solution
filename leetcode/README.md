@@ -3203,7 +3203,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3162 | [Find the Number of Good Pairs I](./problems/3100-3199/3162/README.md)                                                 | :o:    | Easy   | [arr],[math]                                                |      |
 | 3163 | [String Compression III](./problems/3100-3199/3163/README.md) | :o: | Medium | [str],[grd] |   |
 | 3164 | [Find the Number of Good Pairs II](./problems/3100-3199/3164/README.md)                                                | :o:    | Medium | [arr],[hsh],[math]                                          |      |
-| 3165 | [Maximum Sum of Subsequence With Non-adjacent Elements](./problems/3100-3199/3165/README.md)                           |        | Hard   |                                                             |      |
+| 3165 | [Maximum Sum of Subsequence With Non-adjacent Elements](./problems/3100-3199/3165/README.md) | :o: | Hard | [dp],[ds] | :+1:  |
 | 3166 | [Calculate Parking Fees and Duration](./problems/3100-3199/3166/README.md)                                             | :lock: | Medium |                                                             |      |
 | 3167 | [Better Compression of String](./problems/3100-3199/3167/README.md)                                                    | :lock: | Medium |                                                             |      |
 | 3168 | [Minimum Number of Chairs in a Waiting Room](./problems/3100-3199/3168/README.md)                                      | :o:    | Easy   | [lgc]                                                       |      |

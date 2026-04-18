@@ -1873,7 +1873,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1832 | [Check if the Sentence Is Pangram](./problems/1800-1899/1832/README.md)                                                | :o:    | Easy   | [str],[hsh]                                                 |      |
 | 1833 | [Maximum Ice Cream Bars](./problems/1800-1899/1833/README.md)                                                          | :o:    | Medium | [arr],[greedy]                                              |      |
 | 1834 | [Single-Threaded CPU](./problems/1800-1899/1834/README.md)                                                             | :o:    | Medium | [hp]                                                        |      |
-| 1835 | [Find XOR Sum of All Pairs Bitwise AND](./problems/1800-1899/1835/README.md)                                           |        | Hard   |                                                             |      |
+| 1835 | [Find XOR Sum of All Pairs Bitwise AND](./problems/1800-1899/1835/README.md) | :o: | Hard | [bit],[math] |   |
 | 1836 | [Remove Duplicates From an Unsorted Linked List](./problems/1800-1899/1836/README.md)                                  | :lock: | Medium |                                                             |      |
 | 1837 | [Sum of Digits in Base K](./problems/1800-1899/1837/README.md)                                                         |        | Easy   |                                                             |      |
 | 1838 | [Frequency of the Most Frequent Element](./problems/1800-1899/1838/README.md)                                          | :o:    | Medium | [tp]                                                        | :+1: |

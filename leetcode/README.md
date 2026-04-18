@@ -3764,3 +3764,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3484 | [Design Spreadsheet](./problems/3400-3499/3484/README.md) | :o: | Medium | [des],[hsh] |   |
 | 3523 | [Make Array Non-decreasing](./problems/3500-3599/3523/README.md) | :o: | Medium | [arr],[grd] |   |
 | 3678 | [Smallest Absent Positive Greater Than Average](./problems/3600-3699/3678/README.md) | :o: | Easy | [arr],[hsh] |   |
+| 3815 | [Design Auction System](./problems/3800-3899/3815/README.md) | :o: | Medium | [des],[ds],[hp] |   |

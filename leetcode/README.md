@@ -1740,7 +1740,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1665 | [Minimum Initial Energy to Finish Tasks](./problems/1600-1699/1665/README.md) | :o: | Hard | [grd],[arr] |   |
 | 1666 | [Change the Root of a Binary Tree](./problems/1600-1699/1666/README.md)                                                | :lock: | Medium |                                                             |      |
 | 1667 | [Fix Names in a Table](./problems/1600-1699/1667/README.md)                                                            | :lock: | Easy   |                                                             |      |
-| 1668 | [Maximum Repeating Substring](./problems/1600-1699/1668/README.md)                                                     |        | Easy   |                                                             |      |
+| 1668 | [Maximum Repeating Substring](./problems/1600-1699/1668/README.md) | :o: | Easy | [str] |   |
 | 1669 | [Merge In Between Linked Lists](./problems/1600-1699/1669/README.md)                                                   | :o:    | Medium | [ll]                                                        |      |
 | 1670 | [Design Front Middle Back Queue](./problems/1600-1699/1670/README.md)                                                  | :o:    | Medium | [des],[q]                                                   |      |
 | 1671 | [Minimum Number of Removals to Make Mountain Array](./problems/1600-1699/1671/README.md) | :o: | Hard | [dp] |   |

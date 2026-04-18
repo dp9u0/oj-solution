@@ -1398,7 +1398,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1323 | [Maximum 69 Number](./problems/1300-1399/1323/README.md)                                                               | :o:    | Easy   | [arr]                                                       |      |
 | 1324 | [Print Words Vertically](./problems/1300-1399/1324/README.md)                                                          |        | Medium |                                                             |      |
 | 1325 | [Delete Leaves With a Given Value](./problems/1300-1399/1325/README.md)                                                | :o:    | Medium | [tr]                                                        |      |
-| 1326 | [Minimum Number of Taps to Open to Water a Garden](./problems/1300-1399/1326/README.md)                                |        | Hard   |                                                             |      |
+| 1326 | [Minimum Number of Taps to Open to Water a Garden](./problems/1300-1399/1326/README.md) | :o: | Hard | [grd] | :+1:  |
 | 1327 | [List the Products Ordered in a Period](./problems/1300-1399/1327/README.md)                                           | :lock: | Easy   |                                                             |      |
 | 1328 | [Break a Palindrome](./problems/1300-1399/1328/README.md)                                                              | :o:    | Medium | [str],[greedy]                                              |      |
 | 1329 | [Sort the Matrix Diagonally](./problems/1300-1399/1329/README.md)                                                      | :o:    | Medium | [arr],[sort]                                                |      |

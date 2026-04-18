@@ -2112,7 +2112,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2071 | [Maximum Number of Tasks You Can Assign](./problems/2000-2099/2071/README.md)                                          | :o:    | Hard   | [arr],[bs],[grd]                                            |      |
 | 2072 | [The Winner University](./problems/2000-2099/2072/README.md)                                                           | :lock: | Easy   |                                                             |      |
 | 2073 | [Time Needed to Buy Tickets](./problems/2000-2099/2073/README.md)                                                      | :o:    | Easy   | [arr],[q]                                                   |      |
-| 2074 | [Reverse Nodes in Even Length Groups](./problems/2000-2099/2074/README.md)                                             |        | Medium |                                                             |      |
+| 2074 | [Reverse Nodes in Even Length Groups](./problems/2000-2099/2074/README.md) | :o: | Medium | [ll] |   |
 | 2075 | [Decode the Slanted Ciphertext](./problems/2000-2099/2075/README.md)                                                   | :o:    | Medium | [arr],[str]                                                 |      |
 | 2076 | [Process Restricted Friend Requests](./problems/2000-2099/2076/README.md)                                              | :o:    | Hard   | [ds],[grf]                                                  |      |
 | 2077 | [Paths in Maze That Lead to Same Room](./problems/2000-2099/2077/README.md)                                            | :lock: | Medium |                                                             |      |

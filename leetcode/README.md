@@ -1932,7 +1932,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1891 | [Cutting Ribbons](./problems/1800-1899/1891/README.md)                                                                 | :lock: | Medium |                                                             |      |
 | 1892 | [Page Recommendations II](./problems/1800-1899/1892/README.md)                                                         | :lock: | Hard   |                                                             |      |
 | 1893 | [Check if All the Integers in a Range Are Covered](./problems/1800-1899/1893/README.md)                                | :o:    | Easy   | [arr],[lgc]                                                 |      |
-| 1894 | [Find the Student that Will Replace the Chalk](./problems/1800-1899/1894/README.md)                                    |        | Medium |                                                             |      |
+| 1894 | [Find the Student that Will Replace the Chalk](./problems/1800-1899/1894/README.md) | :o: | Medium | [arr] |   |
 | 1895 | [1895](./problems/1800-1899/1895/README.md)                                                                            | :o:    | Medium | [arr]                                                       |      |
 | 1896 | [Minimum Cost to Change the Final Value of Expression](./problems/1800-1899/1896/README.md) | :o: | Hard | [stk],[dp] |   |
 | 1897 | [Redistribute Characters to Make All Strings Equal](./problems/1800-1899/1897/README.md)                               | :o:    | Easy   | [arr],[hash]                                                |      |

@@ -3358,7 +3358,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3317 | [Find the Number of Possible Ways for an Event](./problems/3300-3399/3317/README.md)                                   |        | Hard   |                                                             |      |
 | 3318 | [Find X-Sum of All K-Long Subarrays I](./problems/3300-3399/3318/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 3319 | [K-th Largest Perfect Subtree Size in Binary Tree](./problems/3300-3399/3319/README.md)                                | :o:    | Medium | [tr],[dfs]                                                  |      |
-| 3320 | [Count The Number of Winning Sequences](./problems/3300-3399/3320/README.md)                                           |        | Hard   |                                                             |      |
+| 3320 | [Count The Number of Winning Sequences](./problems/3300-3399/3320/README.md) | :o: | Hard | [dp] |   |
 | 3321 | [Find X-Sum of All K-Long Subarrays II](./problems/3300-3399/3321/README.md) | :o: | Hard | [arr],[hp] |   |
 | 3322 | [Premier League Table Ranking III](./problems/3300-3399/3322/README.md)                                                | :lock: | Medium |                                                             |      |
 | 3323 | [Minimize Connected Groups by Inserting Interval](./problems/3300-3399/3323/README.md)                                 | :lock: | Medium |                                                             |      |

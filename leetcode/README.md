@@ -2353,7 +2353,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2312 | [2312](./problems/2300-2399/2312/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2313 | [Minimum Flips in Binary Tree to Get Result](./problems/2300-2399/2313/README.md)                                      | :lock: | Hard   |                                                             |      |
 | 2314 | [The First Day of the Maximum Recorded Degree in Each City](./problems/2300-2399/2314/README.md)                       | :lock: | Medium |                                                             |      |
-| 2315 | [Count Asterisks](./problems/2300-2399/2315/README.md)                                                                 |        | Easy   |                                                             |      |
+| 2315 | [Count Asterisks](./problems/2300-2399/2315/README.md) | :o: | Easy | [str] |   |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./problems/2300-2399/2316/README.md)                         | :o:    | Medium | [union-find]                                                |      |
 | 2317 | [Maximum XOR After Operations](./problems/2300-2399/2317/README.md) | :o: | Medium | [bit] |   |
 | 2318 | [Number of Distinct Roll Sequences](./problems/2300-2399/2318/README.md) | :o: | Hard | [dp] |   |

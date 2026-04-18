@@ -2056,7 +2056,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2015 | [Average Height of Buildings in Each Segment](./problems/2000-2099/2015/README.md)                                     | :lock: | Medium |                                                             |      |
 | 2016 | [Maximum Difference Between Increasing Elements](./problems/2000-2099/2016/README.md)                                  | :o:    | Easy   | [arr]                                                       |      |
 | 2017 | [Grid Game](./problems/2000-2099/2017/README.md)                                                                       | :o:    | Medium | [arr],[dp]                                                  |      |
-| 2018 | [Check if Word Can Be Placed In Crossword](./problems/2000-2099/2018/README.md)                                        |        | Medium |                                                             |      |
+| 2018 | [Check if Word Can Be Placed In Crossword](./problems/2000-2099/2018/README.md) | :o: | Medium | [arr],[str] |   |
 | 2019 | [The Score of Students Solving Math Expression](./problems/2000-2099/2019/README.md)                                   | :o:    | Hard   | [dp]                                                        | :+1: |
 | 2020 | [Number of Accounts That Did Not Stream](./problems/2000-2099/2020/README.md)                                          | :lock: | Medium |                                                             |      |
 | 2021 | [Brightest Position on Street](./problems/2000-2099/2021/README.md)                                                    | :lock: | Medium |                                                             |      |

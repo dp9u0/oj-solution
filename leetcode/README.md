@@ -2173,7 +2173,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2132 | [Stamping the Grid](./problems/2100-2199/2132/README.md)                                                               |        | Hard   |                                                             |      |
 | 2133 | [Check if Every Row and Column Contains All Numbers](./problems/2100-2199/2133/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 2134 | [Minimum Swaps to Group All 1's Together II](./problems/2100-2199/2134/README.md)                                      | :o:    | Medium | [arr],[tp]                                                  |      |
-| 2135 | [Count Words Obtained After Adding a Letter](./problems/2100-2199/2135/README.md)                                      |        | Medium |                                                             |      |
+| 2135 | [Count Words Obtained After Adding a Letter](./problems/2100-2199/2135/README.md) | :o: | Medium | [bit],[hsh],[str] | :+1:  |
 | 2136 | [Earliest Possible Day of Full Bloom](./problems/2100-2199/2136/README.md)                                             | :o:    | Hard   | [greedy]                                                    |      |
 | 2137 | [Pour Water Between Buckets to Make Water Levels Equal](./problems/2100-2199/2137/README.md)                           | :lock: | Medium |                                                             |      |
 | 2138 | [Divide a String Into Groups of Size k](./problems/2100-2199/2138/README.md) | :o: | Easy | [str] |   |

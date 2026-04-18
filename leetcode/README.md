@@ -2904,7 +2904,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2863 | [Maximum Length of Semi-Decreasing Subarrays](./problems/2800-2899/2863/README.md)                                     | :lock: | Medium |                                                             |      |
 | 2864 | [Maximum Odd Binary Number](./problems/2800-2899/2864/README.md)                                                       |        | Easy   |                                                             |      |
 | 2865 | [Beautiful Towers I](./problems/2800-2899/2865/README.md)                                                              | :o:    | Medium | [arr]                                                       |      |
-| 2866 | [Beautiful Towers II](./problems/2800-2899/2866/README.md)                                                             |        | Medium |                                                             |      |
+| 2866 | [Beautiful Towers II](./problems/2800-2899/2866/README.md) | :o: | Medium | [arr],[stk] |   |
 | 2867 | [Count Valid Paths in a Tree](./problems/2800-2899/2867/README.md) | :o: | Hard | [tr],[dfs] |   |
 | 2868 | [The Wording Game](./problems/2800-2899/2868/README.md)                                                                | :lock: | Hard   |                                                             |      |
 | 2869 | [Minimum Operations to Collect Elements](./problems/2800-2899/2869/README.md)                                          |        | Easy   |                                                             |      |

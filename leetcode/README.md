@@ -1262,7 +1262,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1185 | [Day of the Week](./problems/1100-1199/1185/README.md) | :o: | Easy | [math] |   |
 | 1186 | [Maximum Subarray Sum with One Deletion](./problems/1100-1199/1186/README.md)                                          | :o:    | Medium | [dp]                                                        |      |
 | 1187 | [Make Array Strictly Increasing](./problems/1100-1199/1187/README.md)                                                  | :o:    | Hard   | [dp],[bs]                                                   |      |
-| 1189 | [Maximum Number of Balloons](./problems/1100-1199/1189/README.md)                                                      |        | Easy   |                                                             |      |
+| 1189 | [Maximum Number of Balloons](./problems/1100-1199/1189/README.md) | :o: | Easy | [hsh],[str] |   |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./problems/1100-1199/1190/README.md) | :o: | Medium | [str],[stk] |   |
 | 1191 | [K-Concatenation Maximum Sum](./problems/1100-1199/1191/README.md) | :o: | Medium | [arr],[dp] |   |
 | 1192 | [Critical Connections in a Network](./problems/1100-1199/1192/README.md)                                               |        | Hard   |                                                             |      |

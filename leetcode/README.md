@@ -1789,7 +1789,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1714 | [Sum Of Special Evenly-Spaced Elements In Array](./problems/1700-1799/1714/README.md)                                  | :lock: | Hard   |                                                             |      |
 | 1715 | [Count Apples and Oranges](./problems/1700-1799/1715/README.md)                                                        | :lock: | Medium |                                                             |      |
 | 1716 | [Calculate Money in Leetcode Bank](./problems/1700-1799/1716/README.md)                                                | :o:    | Easy   | [arr],[math]                                                |      |
-| 1717 | [Maximum Score From Removing Substrings](./problems/1700-1799/1717/README.md)                                          |        | Medium |                                                             |      |
+| 1717 | [Maximum Score From Removing Substrings](./problems/1700-1799/1717/README.md) | :o: | Medium | [str],[stk],[grd] |   |
 | 1718 | [Construct the Lexicographically Largest Valid Sequence](./problems/1700-1799/1718/README.md)                          | :o:    | Medium | [bt]                                                        |      |
 | 1719 | [Number Of Ways To Reconstruct A Tree](./problems/1700-1799/1719/README.md)                                            |        | Hard   |                                                             |      |
 | 1720 | [Decode XORed Array](./problems/1700-1799/1720/README.md)                                                              | :o:    | Easy   | [math]                                                      | :+1: |

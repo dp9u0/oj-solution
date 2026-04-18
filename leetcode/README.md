@@ -2528,7 +2528,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2487 | [Remove Nodes From Linked List](./problems/2400-2499/2487/README.md)                                                   | :o:    | Medium | [ll],[stack]                                                |      |
 | 2488 | [Count Subarrays With Median K](./problems/2400-2499/2488/README.md) | :o: | Hard | [arr],[hsh] |   |
 | 2489 | [Number of Substrings With Fixed Ratio](./problems/2400-2499/2489/README.md)                                           | :lock: | Medium |                                                             |      |
-| 2490 | [Circular Sentence](./problems/2400-2499/2490/README.md)                                                               |        | Easy   |                                                             |      |
+| 2490 | [Circular Sentence](./problems/2400-2499/2490/README.md) | :o: | Easy | [str] |   |
 | 2491 | [Divide Players Into Teams of Equal Skill](./problems/2400-2499/2491/README.md)                                        | :o:    | Medium | [arr],[tp]                                                  |      |
 | 2492 | [Minimum Score of a Path Between Two Cities](./problems/2400-2499/2492/README.md)                                      | :o:    | Medium | [grf],[bfs]                                                 |      |
 | 2493 | [Divide Nodes Into the Maximum Number of Groups](./problems/2400-2499/2493/README.md)                                  |        | Hard   |                                                             |      |

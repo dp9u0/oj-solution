@@ -1332,7 +1332,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1257 | [Smallest Common Region](./problems/1200-1299/1257/README.md)                                                          | :lock: | Medium |                                                             |      |
 | 1258 | [Synonymous Sentences](./problems/1200-1299/1258/README.md)                                                            | :lock: | Medium |                                                             |      |
 | 1259 | [Handshakes That Don't Cross](./problems/1200-1299/1259/README.md)                                                     | :lock: | Hard   |                                                             |      |
-| 1260 | [Shift 2D Grid](./problems/1200-1299/1260/README.md)                                                                   |        | Easy   |                                                             |      |
+| 1260 | [Shift 2D Grid](./problems/1200-1299/1260/README.md) | :o: | Easy | [arr] |   |
 | 1261 | [Find Elements in a Contaminated Binary Tree](./problems/1200-1299/1261/README.md)                                     | :o:    | Medium | [tr],[hsh],[des]                                            |      |
 | 1262 | [Greatest Sum Divisible by Three](./problems/1200-1299/1262/README.md)                                                 | :o:    | Medium | [arr],[dp]                                                  |      |
 | 1263 | [Minimum Moves to Move a Box to Their Target Location](./problems/1200-1299/1263/README.md) | :o: | Hard | [bfs],[arr] |   |

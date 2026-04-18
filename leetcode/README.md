@@ -2555,7 +2555,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2514 | [Count Anagrams](./problems/2500-2599/2514/README.md) | :o: | Hard | [math],[str] |   |
 | 2515 | [Shortest Distance to Target String in a Circular Array](./problems/2500-2599/2515/README.md)                          | :o:    | Easy   | [arr]                                                       |      |
 | 2516 | [Take K of Each Character From Left and Right](./problems/2500-2599/2516/README.md)                                    | :o:    | Medium | [str],[sd]                                                  |      |
-| 2517 | [Maximum Tastiness of Candy Basket](./problems/2500-2599/2517/README.md)                                               |        | Medium |                                                             |      |
+| 2517 | [Maximum Tastiness of Candy Basket](./problems/2500-2599/2517/README.md) | :o: | Medium | [arr],[bs],[grd] |   |
 | 2518 | [Number of Great Partitions](./problems/2500-2599/2518/README.md) | :o: | Hard | [dp],[arr] |   |
 | 2519 | [Count the Number of K-Big Indices](./problems/2500-2599/2519/README.md)                                               | :lock: | Hard   |                                                             |      |
 | 2520 | [Count the Digits That Divide a Number](./problems/2500-2599/2520/README.md)                                           | :o:    | Easy   | [math],[lgc]                                                |      |

@@ -2382,7 +2382,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2341 | [Maximum Number of Pairs in Array](./problems/2300-2399/2341/README.md)                                                | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2342 | [Max Sum of a Pair With Equal Sum of Digits](./problems/2300-2399/2342/README.md)                                      | :o:    | Medium | [hash]                                                      |      |
 | 2343 | [Query Kth Smallest Trimmed Number](./problems/2300-2399/2343/README.md)                                               | :o:    | Medium | [arr]                                                       |      |
-| 2344 | [Minimum Deletions to Make Array Divisible](./problems/2300-2399/2344/README.md)                                       |        | Hard   |                                                             |      |
+| 2344 | [Minimum Deletions to Make Array Divisible](./problems/2300-2399/2344/README.md) | :o: | Hard | [arr],[math] |   |
 | 2345 | [Finding the Number of Visible Mountains](./problems/2300-2399/2345/README.md)                                         | :lock: | Medium |                                                             |      |
 | 2346 | [Compute the Rank as a Percentage](./problems/2300-2399/2346/README.md)                                                | :lock: | Medium |                                                             |      |
 | 2347 | [Best Poker Hand](./problems/2300-2399/2347/README.md)                                                                 | :o:    | Easy   | [arr],[hash]                                                |      |

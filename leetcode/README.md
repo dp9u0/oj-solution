@@ -3745,3 +3745,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3559 | [Number of Ways to Assign Edge Weights II](./problems/3500-3599/3559/README.md) | :o: | Hard | [tr],[math] | :+1:  |
 | 3420 | [Count Non-Decreasing Subarrays After K Operations](./problems/3400-3499/3420/README.md) | :o: | Hard | [stk],[sd] | :+1:  |
 | 3624 | [Number of Integers With Popcount-Depth Equal to K II](./problems/3600-3699/3624/README.md) | :o: | Hard | [bit],[ds] | :+1:  |
+| 1739 | [Building Boxes](./problems/1700-1799/1739/README.md) | :o: | Hard | [math] | :+1:  |

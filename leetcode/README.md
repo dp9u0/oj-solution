@@ -3708,3 +3708,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3710 | [Maximum Partition Factor](./problems/3700-3799/3710/README.md) | :o: | Hard | [grd] |   |
 | 3844 | [Longest Almost-Palindromic Substring](./problems/3800-3899/3844/README.md) | :o: | Medium | [dp] |   |
 | 3448 | [Count Substrings Divisible By Last Digit](./problems/3400-3499/3448/README.md) | :o: | Hard | [math] |   |
+| 3469 | [Find Minimum Cost to Remove Array Elements](./problems/3400-3499/3469/README.md) | :o: | Medium | [dp],[arr] |   |

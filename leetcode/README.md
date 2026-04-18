@@ -2255,7 +2255,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2214 | [Minimum Health to Beat Game](./problems/2200-2299/2214/README.md)                                                     | :lock: | Medium |                                                             |      |
 | 2215 | [2215](./problems/2200-2299/2215/README.md)                                                                            | :o:    | Easy   | [arr],[hash]                                                |      |
 | 2216 | [2216](./problems/2200-2299/2216/README.md)                                                                            | :o:    | Medium | [arr],[greedy]                                              |      |
-| 2217 | [2217](./problems/2200-2299/2217/README.md)                                                                            |        | Easy   |                                                             |      |
+| 2217 | [2217](./problems/2200-2299/2217/README.md) | :o: | Medium | [math] |   |
 | 2218 | [2218](./problems/2200-2299/2218/README.md) | :o: | Hard | [dp] | :+1:  |
 | 2219 | [Maximum Sum Score of Array](./problems/2200-2299/2219/README.md)                                                      | :lock: | Medium |                                                             |      |
 | 2220 | [Minimum Bit Flips to Convert Number](./problems/2200-2299/2220/README.md)                                             | :o:    | Easy   | [bit],[math]                                                |      |

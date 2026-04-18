@@ -1634,7 +1634,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1559 | [Detect Cycles in 2D Grid](./problems/1500-1599/1559/README.md)                                                        |        | Hard   |                                                             |      |
 | 1560 | [Most Visited Sector in  a Circular Track](./problems/1500-1599/1560/README.md) | :o: | Easy | [arr] |   |
 | 1561 | [Maximum Number of Coins You Can Get](./problems/1500-1599/1561/README.md)                                             | :o:    | Medium | [arr],[greedy]                                              |      |
-| 1562 | [Find Latest Group of Size M](./problems/1500-1599/1562/README.md)                                                     |        | Medium |                                                             |      |
+| 1562 | [Find Latest Group of Size M](./problems/1500-1599/1562/README.md) | :o: | Medium | [ds],[uf] |   |
 | 1563 | [Stone Game V](./problems/1500-1599/1563/README.md) | :o: | Hard | [dp] |   |
 | 1564 | [Put Boxes Into the Warehouse I](./problems/1500-1599/1564/README.md)                                                  | :lock: | Medium |                                                             |      |
 | 1565 | [Unique Orders and Customers Per Month](./problems/1500-1599/1565/README.md)                                           | :lock: | Easy   |                                                             |      |

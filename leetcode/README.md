@@ -3698,3 +3698,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3392 | [Count Subarrays of Length Three With a Condition](./problems/3300-3399/3392/README.md) | :o: | Easy | [arr] |   |
 | 3757 | [Number of Effective Subsequences](./problems/3700-3799/3757/README.md) | :o: | Hard | [bit],[dp] | :+1:  |
 | 3680 | [Generate Schedule](./problems/3600-3699/3680/README.md) | :o: | Medium | [grd],[bt] |   |
+| 3620 | [Network Recovery Pathways](./problems/3600-3699/3620/README.md) | :o: | Hard | [grf],[bfs] |   |

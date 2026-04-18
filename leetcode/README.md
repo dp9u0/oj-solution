@@ -1483,7 +1483,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1408 | [String Matching in an Array](./problems/1400-1499/1408/README.md)                                                     | :o:    | Easy   | [str]                                                       |      |
 | 1409 | [Queries on a Permutation With Key](./problems/1400-1499/1409/README.md)                                               | :o:    | Medium | [arr]                                                       |      |
 | 1410 | [HTML Entity Parser](./problems/1400-1499/1410/README.md)                                                              | :o:    | Medium | [str]                                                       |      |
-| 1411 | [Number of Ways to Paint N × 3 Grid](./problems/1400-1499/1411/README.md)                                              |        | Hard   |                                                             |      |
+| 1411 | [Number of Ways to Paint N × 3 Grid](./problems/1400-1499/1411/README.md) | :o: | Hard | [dp] | :+1:  |
 | 1412 | [Find the Quiet Students in All Exams](./problems/1400-1499/1412/README.md)                                            | :lock: | Hard   |                                                             |      |
 | 1413 | [Minimum Value to Get Positive Step by Step Sum](./problems/1400-1499/1413/README.md)                                  |        | Easy   |                                                             |      |
 | 1414 | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](./problems/1400-1499/1414/README.md)                     | :o:    | Medium | [greedy]                                                    |      |

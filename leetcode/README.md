@@ -3774,3 +3774,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3457 | [Eat Pizzas!](./problems/3400-3499/3457/README.md) | :o: | Medium | [grd],[arr] |   |
 | 3660 | [Jump Game IX](./problems/3600-3699/3660/README.md) | :o: | Medium | [arr],[dp] | :+1:  |
 | 3493 | [Properties Graph](./problems/3400-3499/3493/README.md) | :o: | Medium | [hsh],[grf] |   |
+| 3805 | [Count Caesar Cipher Pairs](./problems/3800-3899/3805/README.md) | :o: | Medium | [hsh],[str] |   |

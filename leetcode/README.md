@@ -1944,7 +1944,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1903 | [Largest Odd Number in String](./problems/1900-1999/1903/README.md) | :o: | Easy | [str],[grd] |   |
 | 1904 | [The Number of Full Rounds You Have Played](./problems/1900-1999/1904/README.md)                                       | :o:    | Medium | [math],[lgc]                                                |      |
 | 1905 | [Count Sub Islands](./problems/1900-1999/1905/README.md)                                                               |        | Medium |                                                             |      |
-| 1906 | [Minimum Absolute Difference Queries](./problems/1900-1999/1906/README.md)                                             |        | Medium |                                                             |      |
+| 1906 | [Minimum Absolute Difference Queries](./problems/1900-1999/1906/README.md) | :o: | Medium | [arr],[dp] |   |
 | 1907 | [Count Salary Categories](./problems/1900-1999/1907/README.md)                                                         | :lock: | Medium |                                                             |      |
 | 1908 | [Game of Nim](./problems/1900-1999/1908/README.md)                                                                     | :lock: | Medium |                                                             |      |
 | 1909 | [Remove One Element to Make the Array Strictly Increasing](./problems/1900-1999/1909/README.md)                        | :o:    | Easy   | [arr],[lgc]                                                 |      |

@@ -3159,7 +3159,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3118 | [Friday Purchase III](./problems/3100-3199/3118/README.md)                                                             | :lock: | Medium |                                                             |      |
 | 3119 | [Maximum Number of Potholes That Can Be Fixed](./problems/3100-3199/3119/README.md)                                    | :lock: | Medium |                                                             |      |
 | 3120 | [Count the Number of Special Characters I](./problems/3100-3199/3120/README.md)                                        | :o:    | Easy   | [str],[hsh]                                                 |      |
-| 3121 | [Count the Number of Special Characters II](./problems/3100-3199/3121/README.md)                                       |        | Medium |                                                             |      |
+| 3121 | [Count the Number of Special Characters II](./problems/3100-3199/3121/README.md) | :o: | Medium | [str] |   |
 | 3122 | [Minimum Number of Operations to Satisfy Conditions](./problems/3100-3199/3122/README.md)                              | :o:    | Medium | [dp]                                                        |      |
 | 3123 | [Find Edges in Shortest Paths](./problems/3100-3199/3123/README.md) | :o: | Hard | [grf],[dp] |   |
 | 3124 | [Find Longest Calls](./problems/3100-3199/3124/README.md)                                                              | :lock: | Medium |                                                             |      |

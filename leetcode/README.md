@@ -2955,7 +2955,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](./problems/2900-2999/2914/README.md)                       | :o:    | Medium | [greedy],[str]                                              |      |
 | 2915 | [Length of the Longest Subsequence That Sums to Target](./problems/2900-2999/2915/README.md)                           | :o:    | Medium | [dp]                                                        |      |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](./problems/2900-2999/2916/README.md)                                    |        | Hard   |                                                             |      |
-| 2917 | [Find the K-or of an Array](./problems/2900-2999/2917/README.md)                                                       |        | Easy   |                                                             |      |
+| 2917 | [Find the K-or of an Array](./problems/2900-2999/2917/README.md) | :o: | Easy | [arr],[bit] |   |
 | 2918 | [Minimum Equal Sum of Two Arrays After Replacing Zeros](./problems/2900-2999/2918/README.md)                           | :o:    | Medium | [arr],[greedy]                                              |      |
 | 2919 | [Minimum Increment Operations to Make Array Beautiful](./problems/2900-2999/2919/README.md) | :o: | Medium | [dp] |   |
 | 2920 | [Maximum Points After Collecting Coins From All Nodes](./problems/2900-2999/2920/README.md)                            | :o:    | Hard   | [dp],[tr]                                                   |      |

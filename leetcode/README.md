@@ -2063,7 +2063,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2022 | [Convert 1D Array Into 2D Array](./problems/2000-2099/2022/README.md)                                                  | :o:    | Easy   | [arr]                                                       |      |
 | 2023 | [Number of Pairs of Strings With Concatenation Equal to Target](./problems/2000-2099/2023/README.md)                   | :o:    | Medium | [hsh],[str]                                                 |      |
 | 2024 | [Maximize the Confusion of an Exam](./problems/2000-2099/2024/README.md)                                               | :o:    | Medium | [arr],[tp]                                                  | :+1: |
-| 2025 | [Maximum Number of Ways to Partition an Array](./problems/2000-2099/2025/README.md)                                    |        | Hard   |                                                             |      |
+| 2025 | [Maximum Number of Ways to Partition an Array](./problems/2000-2099/2025/README.md) | :o: | Hard | [hsh],[arr] | :+1:  |
 | 2026 | [Low-Quality Problems](./problems/2000-2099/2026/README.md)                                                            | :lock: | Easy   |                                                             |      |
 | 2027 | [Minimum Moves to Convert String](./problems/2000-2099/2027/README.md)                                                 |        | Easy   |                                                             |      |
 | 2028 | [Find Missing Observations](./problems/2000-2099/2028/README.md)                                                       | :o:    | Medium | [arr]                                                       |      |

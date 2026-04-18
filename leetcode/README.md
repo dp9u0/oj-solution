@@ -1350,7 +1350,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1275 | [Find Winner on a Tic Tac Toe Game](./problems/1200-1299/1275/README.md)                                               | :o:    | Easy   | [arr]                                                       |      |
 | 1276 | [Number of Burgers with No Waste of Ingredients](./problems/1200-1299/1276/README.md)                                  | :o:    | Medium | [math]                                                      |      |
 | 1277 | [Count Square Submatrices with All Ones](./problems/1200-1299/1277/README.md)                                          | :o:    | Medium | [dp],[+1]                                                   |      |
-| 1278 | [Palindrome Partitioning III](./problems/1200-1299/1278/README.md)                                                     |        | Hard   |                                                             |      |
+| 1278 | [Palindrome Partitioning III](./problems/1200-1299/1278/README.md) | :o: | Hard | [dp],[str] | :+1:  |
 | 1279 | [1279](./problems/1200-1299/1279/README.md)                                                                            |        | Easy   |                                                             |      |
 | 1280 | [Students and Examinations](./problems/1200-1299/1280/README.md)                                                       | :lock: | Easy   |                                                             |      |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](./problems/1200-1299/1281/README.md)                            | :o:    | Easy   | [math]                                                      |      |

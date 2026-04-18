@@ -2902,7 +2902,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2861 | [Maximum Number of Alloys](./problems/2800-2899/2861/README.md)                                                        | :o:    | Medium | [bs],[grd]                                                  |      |
 | 2862 | [Maximum Element-Sum of a Complete Subset of Indices](./problems/2800-2899/2862/README.md)                             | :o:    | Hard   | [math],[arr]                                                |      |
 | 2863 | [Maximum Length of Semi-Decreasing Subarrays](./problems/2800-2899/2863/README.md)                                     | :lock: | Medium |                                                             |      |
-| 2864 | [Maximum Odd Binary Number](./problems/2800-2899/2864/README.md)                                                       |        | Easy   |                                                             |      |
+| 2864 | [Maximum Odd Binary Number](./problems/2800-2899/2864/README.md) | :o: | Easy | [grd],[str],[bit] |   |
 | 2865 | [Beautiful Towers I](./problems/2800-2899/2865/README.md)                                                              | :o:    | Medium | [arr]                                                       |      |
 | 2866 | [Beautiful Towers II](./problems/2800-2899/2866/README.md) | :o: | Medium | [arr],[stk] |   |
 | 2867 | [Count Valid Paths in a Tree](./problems/2800-2899/2867/README.md) | :o: | Hard | [tr],[dfs] |   |

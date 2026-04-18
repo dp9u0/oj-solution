@@ -1,0 +1,72 @@
+# [3732] Maximum Product of Three Elements After One Replacement
+
+## Description
+
+[LeetCode Problem Description](https://leetcode.com/problems/maximum-product-of-three-elements-after-one-replacement/description/)
+
+* algorithms
+* Medium (47.34%)
+* Likes:    78
+* Dislikes: 8
+* Testcase Example:  '[-5,7,0]'
+
+```md
+You are given an integer array nums.
+You must replace exactly one element in the array with any integer value in the range [-105, 105] (inclusive).
+After performing this single replacement, determine the maximum possible product of any three elements at distinct indices from the modified array.
+Return an integer denoting the maximum product achievable.
+
+Example 1:
+
+Input: nums = [-5,7,0]
+Output: 3500000
+Explanation:
+Replacing 0 with -105 gives the array [-5, 7, -105], which has a product (-5) * 7 * (-105) = 3500000. The maximum product is 3500000.
+
+Example 2:
+
+Input: nums = [-4,-2,-1,-3]
+Output: 1200000
+Explanation:
+Two ways to achieve the maximum product include:
+
+[-4, -2, -3] &rarr; replace -2 with 105 &rarr; product = (-4) * 105 * (-3) = 1200000.
+[-4, -1, -3] &rarr; replace -1 with 105 &rarr; product = (-4) * 105 * (-3) = 1200000.
+
+The maximum product is 1200000.
+Example 3:
+
+Input: nums = [0,10,0]
+Output: 0
+Explanation:
+There is no way to replace an element with another integer and not have a 0 in the array. Hence, the product of all three elements will always be 0, and the maximum product is 0.
+
+
+Constraints:
+
+3 <= nums.length <= 105
+-105 <= nums[i] <= 105
+
+
+```
+
+## 题目翻译
+
+给定一个整数数组 nums，必须将其中一个元素替换为 [-10^5, 10^5] 范围内的任意整数。替换后，求修改后的数组中任意三个不同位置元素的最大乘积。
+
+## 解题思路
+
+**关键观察：替换的值可以是 ±10^5，这比数组中任何元素都大（或一样大）。**
+
+策略是选两个元素保留，第三个位置替换为 ±10^5。乘积 = ±10^5 × a × b，通过选择正负号使乘积最大，结果 = 10^5 × |a × b|。
+
+因此只需找最大 |pair 乘积|。排序后候选对为：
+- 最小两个（两个负数相乘得大正数）
+- 最大两个（两个大正数）
+- 最小和最大（一正一负，绝对值最大）
+
+答案 = 10^5 × max(|候选对乘积|)
+
+## Solution
+
+[SourceCode](./solution.js)

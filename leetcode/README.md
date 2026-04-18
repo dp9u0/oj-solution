@@ -1899,7 +1899,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1858 | [Longest Word With All Prefixes](./problems/1800-1899/1858/README.md)                                                  | :lock: | Medium |                                                             |      |
 | 1859 | [Sorting the Sentence](./problems/1800-1899/1859/README.md)                                                            | :o:    | Easy   | [str]                                                       |      |
 | 1860 | [Incremental Memory Leak](./problems/1800-1899/1860/README.md) | :o: | Medium | [math] |   |
-| 1861 | [Rotating the Box](./problems/1800-1899/1861/README.md)                                                                |        | Medium |                                                             |      |
+| 1861 | [Rotating the Box](./problems/1800-1899/1861/README.md) | :o: | Medium | [arr] |   |
 | 1862 | [1862](./problems/1800-1899/1862/README.md)                                                                            |        | Easy   |                                                             |      |
 | 1863 | [Sum of All Subset XOR Totals](./problems/1800-1899/1863/README.md)                                                    | :o:    | Easy   | [bit]                                                       |      |
 | 1864 | [Minimum Number of Swaps to Make the Binary String Alternating](./problems/1800-1899/1864/README.md)                   | :o:    | Medium | [str],[lgc]                                                 |      |

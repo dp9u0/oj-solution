@@ -1718,7 +1718,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1643 | [1643](./problems/1600-1699/1643/README.md) | :o: | Hard | [math],[grd] |   |
 | 1644 | [Lowest Common Ancestor of a Binary Tree II](./problems/1600-1699/1644/README.md)                                      | :lock: | Medium |                                                             |      |
 | 1645 | [Hopper Company Queries II](./problems/1600-1699/1645/README.md)                                                       | :lock: | Hard   |                                                             |      |
-| 1646 | [Get Maximum in Generated Array](./problems/1600-1699/1646/README.md)                                                  |        | Easy   |                                                             |      |
+| 1646 | [Get Maximum in Generated Array](./problems/1600-1699/1646/README.md) | :o: | Easy | [arr] |   |
 | 1647 | [Minimum Deletions to Make Character Frequencies Unique](./problems/1600-1699/1647/README.md)                          | :o:    | Medium | [str],[grd],[hsh]                                           |      |
 | 1648 | [Sell Diminishing-Valued Colored Balls](./problems/1600-1699/1648/README.md) | :o: | Medium | [bs],[grd] | :+1:  |
 | 1649 | [Create Sorted Array through Instructions](./problems/1600-1699/1649/README.md)                                        |        | Hard   |                                                             |      |

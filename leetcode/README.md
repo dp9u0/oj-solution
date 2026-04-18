@@ -3706,3 +3706,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3839 | [Number of Prefix Connected Groups](./problems/3800-3899/3839/README.md) | :o: | Medium | [hsh],[str] |   |
 | 3480 | [Maximize Subarrays After Removing One Conflicting Pair](./problems/3400-3499/3480/README.md) | :o: | Hard | [arr],[grd] |   |
 | 3710 | [Maximum Partition Factor](./problems/3700-3799/3710/README.md) | :o: | Hard | [grd] |   |
+| 3844 | [Longest Almost-Palindromic Substring](./problems/3800-3899/3844/README.md) | :o: | Medium | [dp] |   |

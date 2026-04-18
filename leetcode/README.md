@@ -3140,7 +3140,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3099 | [Harshad Number](./problems/3000-3099/3099/README.md) | :o: | Easy | [math] |   |
 | 3100 | [Water Bottles II](./problems/3100-3199/3100/README.md)                                                                | :o:    | Medium | [lgc],[grd]                                                 |      |
 | 3101 | [Count Alternating Subarrays](./problems/3100-3199/3101/README.md)                                                     | :o:    | Medium | [arr],[math]                                                |      |
-| 3102 | [Minimize Manhattan Distances](./problems/3100-3199/3102/README.md)                                                    |        | Hard   |                                                             |      |
+| 3102 | [Minimize Manhattan Distances](./problems/3100-3199/3102/README.md) | :o: | Hard | [math],[arr] |   |
 | 3103 | [Find Trending Hashtags II](./problems/3100-3199/3103/README.md)                                                       | :lock: | Hard   |                                                             |      |
 | 3104 | [Find Longest Self-Contained Substring](./problems/3100-3199/3104/README.md)                                           | :lock: | Hard   |                                                             |      |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./problems/3100-3199/3105/README.md)                     | :o:    | Easy   | [arr]                                                       |      |

@@ -3749,3 +3749,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1751 | [Maximum Number of Events That Can Be Attended II](./problems/1700-1799/1751/README.md) | :o: | Hard | [dp] | :+1:  |
 | 3646 | [Next Special Palindrome Number](./problems/3600-3699/3646/README.md) | :o: | Hard | [math] | :+1:  |
 | 1782 | [Count Pairs Of Nodes](./problems/1700-1799/1782/README.md) | :o: | Hard | [arr],[grf] | :+1:  |
+| 3661 | [Maximum Walls Destroyed by Robots](./problems/3600-3699/3661/README.md) | :o: | Hard | [grf],[dp] | :+1:  |

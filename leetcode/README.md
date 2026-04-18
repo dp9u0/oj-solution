@@ -3702,3 +3702,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3732 | [Maximum Product of Three Elements After One Replacement](./problems/3700-3799/3732/README.md) | :o: | Medium | [arr],[grd] |   |
 | 3439 | [Reschedule Meetings for Maximum Free Time I](./problems/3400-3499/3439/README.md) | :o: | Medium | [arr],[sd],[grd] |   |
 | 3663 | [Find The Least Frequent Digit](./problems/3600-3699/3663/README.md) | :o: | Easy | [math] |   |
+| 3836 | [Maximum Score Using Exactly K Pairs](./problems/3800-3899/3836/README.md) | :o: | Hard | [dp] |   |

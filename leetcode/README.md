@@ -3419,7 +3419,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3378 | [Count Connected Components in LCM Graph](./problems/3300-3399/3378/README.md)                                         | :o:    | Hard   | [ds],[math]                                                 |      |
 | 3379 | [Transformed Array](./problems/3300-3399/3379/README.md)                                                               | :o:    | Easy   | [arr],[lgc]                                                 |      |
 | 3380 | [Maximum Area Rectangle With Point Constraints I](./problems/3300-3399/3380/README.md) | :o: | Medium | [arr],[lgc] |   |
-| 3381 | [Maximum Subarray Sum With Length Divisible by K](./problems/3300-3399/3381/README.md)                                 |        | Medium |                                                             |      |
+| 3381 | [Maximum Subarray Sum With Length Divisible by K](./problems/3300-3399/3381/README.md) | :o: | Medium | [arr],[dp] |   |
 | 3382 | [Maximum Area Rectangle With Point Constraints II](./problems/3300-3399/3382/README.md)                                |        | Hard   |                                                             |      |
 | 3383 | [Minimum Runes to Add to Cast Spell](./problems/3300-3399/3383/README.md)                                              | :lock: | Hard   |                                                             |      |
 | 3384 | [Team Dominance by Pass Success](./problems/3300-3399/3384/README.md)                                                  | :lock: | Hard   |                                                             |      |

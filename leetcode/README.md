@@ -3106,7 +3106,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3065 | [Minimum Operations to Exceed Threshold Value I](./problems/3000-3099/3065/README.md)                                  | :o:    | Easy   | [arr],[lgc]                                                 |      |
 | 3066 | [Minimum Operations to Exceed Threshold Value II](./problems/3000-3099/3066/README.md)                                 | :o:    | Medium | [hp]                                                        |      |
 | 3067 | [Count Pairs of Connectable Servers in a Weighted Tree Network](./problems/3000-3099/3067/README.md)                   | :o:    | Medium | [tr],[dfs]                                                  |      |
-| 3068 | [Find the Maximum Sum of Node Values](./problems/3000-3099/3068/README.md)                                             |        | Hard   |                                                             |      |
+| 3068 | [Find the Maximum Sum of Node Values](./problems/3000-3099/3068/README.md) | :o: | Hard | [grf],[bit] | :+1:  |
 | 3069 | [Distribute Elements Into Two Arrays I](./problems/3000-3099/3069/README.md)                                           |        | Easy   |                                                             |      |
 | 3070 | [Count Submatrices with Top-Left Element and Sum Less Than k](./problems/3000-3099/3070/README.md)                     | :o:    | Medium | [arr],[dp]                                                  |      |
 | 3071 | [Minimum Operations to Write the Letter Y on a Grid](./problems/3000-3099/3071/README.md)                              | :o:    | Medium | [arr],[lgc]                                                 |      |

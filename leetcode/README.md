@@ -2107,7 +2107,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2066 | [Account Balance](./problems/2000-2099/2066/README.md)                                                                 | :lock: | Medium |                                                             |      |
 | 2067 | [Number of Equal Count Substrings](./problems/2000-2099/2067/README.md)                                                | :lock: | Medium |                                                             |      |
 | 2068 | [Check Whether Two Strings are Almost Equivalent](./problems/2000-2099/2068/README.md)                                 |        | Easy   |                                                             |      |
-| 2069 | [Walking Robot Simulation II](./problems/2000-2099/2069/README.md)                                                     |        | Medium |                                                             |      |
+| 2069 | [Walking Robot Simulation II](./problems/2000-2099/2069/README.md) | :o: | Medium | [des] |   |
 | 2070 | [Most Beautiful Item for Each Query](./problems/2000-2099/2070/README.md)                                              | :o:    | Medium | [arr],[bs]                                                  |      |
 | 2071 | [Maximum Number of Tasks You Can Assign](./problems/2000-2099/2071/README.md)                                          | :o:    | Hard   | [arr],[bs],[grd]                                            |      |
 | 2072 | [The Winner University](./problems/2000-2099/2072/README.md)                                                           | :lock: | Easy   |                                                             |      |

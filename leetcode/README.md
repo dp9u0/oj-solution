@@ -3760,3 +3760,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./problems/3700-3799/3702/README.md) | :o: | Medium | [bit],[arr],[lgc] |   |
 | 3452 | [Sum of Good Numbers](./problems/3400-3499/3452/README.md) | :o: | Easy | [arr] |   |
 | 3714 | [Longest Balanced Substring II](./problems/3700-3799/3714/README.md) | :o: | Medium | [str],[hsh] |   |
+| 3628 | [Maximum Number of Subsequences After One Inserting](./problems/3600-3699/3628/README.md) | :o: | Medium | [str],[dp] |   |

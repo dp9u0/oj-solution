@@ -3756,3 +3756,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3603 | [Minimum Cost Path with Alternating Directions II](./problems/3600-3699/3603/README.md) | :o: | Medium | [dp] |   |
 | 1781 | [Sum of Beauty of All Substrings](./problems/1700-1799/1781/README.md) | :o: | Medium | [str],[hsh] |   |
 | 3528 | [Unit Conversion I](./problems/3500-3599/3528/README.md) | :o: | Medium | [grf],[bfs] |   |
+| 3479 | [Fruits Into Baskets III](./problems/3400-3499/3479/README.md) | :o: | Medium | [ds],[grd] |   |

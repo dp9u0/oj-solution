@@ -1213,7 +1213,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1136 | [Parallel Courses](./problems/1100-1199/1136/README.md)                                                                | :lock: | Hard   |                                                             |      |
 | 1137 | [N-th Tribonacci Number](./problems/1100-1199/1137/README.md)                                                          | :o:    | Easy   | [math]                                                      |      |
 | 1138 | [Alphabet Board Path](./problems/1100-1199/1138/README.md)                                                             | :o:    | Medium | [str]                                                       |      |
-| 1139 | [Largest 1-Bordered Square](./problems/1100-1199/1139/README.md)                                                       |        | Medium |                                                             |      |
+| 1139 | [Largest 1-Bordered Square](./problems/1100-1199/1139/README.md) | :o: | Medium | [dp],[arr] |   |
 | 1140 | [Stone Game II](./problems/1100-1199/1140/README.md)                                                                   | :o:    | Medium | [dp]                                                        | :+1: |
 | 1141 | [User Activity for the Past 30 Days I](./problems/1100-1199/1141/README.md)                                            | :lock: | Easy   |                                                             |      |
 | 1142 | [User Activity for the Past 30 Days II](./problems/1100-1199/1142/README.md)                                           | :lock: | Easy   |                                                             |      |

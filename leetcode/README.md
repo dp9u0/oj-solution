@@ -3711,3 +3711,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3469 | [Find Minimum Cost to Remove Array Elements](./problems/3400-3499/3469/README.md) | :o: | Medium | [dp],[arr] |   |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](./problems/3500-3599/3512/README.md) | :o: | Easy | [lgc],[arr] |   |
 | 3408 | [Design Task Manager](./problems/3400-3499/3408/README.md) | :o: | Medium | [des],[hp] |   |
+| 3463 | [Check If Digits Are Equal in String After Operations II](./problems/3400-3499/3463/README.md) | :o: | Hard | [math] |   |

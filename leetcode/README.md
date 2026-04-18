@@ -1641,7 +1641,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1566 | [Detect Pattern of Length M Repeated K or More Times](./problems/1500-1599/1566/README.md)                             | :o:    | Easy   | [arr]                                                       |      |
 | 1567 | [Maximum Length of Subarray With Positive Product](./problems/1500-1599/1567/README.md)                                | :o:    | Medium | [arr],[dp]                                                  |      |
 | 1568 | [Minimum Number of Days to Disconnect Island](./problems/1500-1599/1568/README.md) | :o: | Hard | [grf] |   |
-| 1569 | [Number of Ways to Reorder Array to Get Same BST](./problems/1500-1599/1569/README.md)                                 |        | Hard   |                                                             |      |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](./problems/1500-1599/1569/README.md) | :o: | Hard | [tr],[math] |   |
 | 1570 | [Dot Product of Two Sparse Vectors](./problems/1500-1599/1570/README.md)                                               | :lock: | Medium |                                                             |      |
 | 1571 | [Warehouse Manager](./problems/1500-1599/1571/README.md)                                                               | :lock: | Easy   |                                                             |      |
 | 1572 | [Matrix Diagonal Sum](./problems/1500-1599/1572/README.md)                                                             |        | Easy   |                                                             |      |

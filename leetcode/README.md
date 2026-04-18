@@ -3249,7 +3249,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3208 | [Alternating Groups II](./problems/3200-3299/3208/README.md)                                                           | :o:    | Medium | [arr],[sd]                                                  |      |
 | 3209 | [Number of Subarrays With AND Value of K](./problems/3200-3299/3209/README.md)                                         |        | Hard   |                                                             |      |
 | 3210 | [Find the Encrypted String](./problems/3200-3299/3210/README.md)                                                       | :o:    | Easy   | [str]                                                       |      |
-| 3211 | [Generate Binary Strings Without Adjacent Zeros](./problems/3200-3299/3211/README.md)                                  |        | Medium |                                                             |      |
+| 3211 | [Generate Binary Strings Without Adjacent Zeros](./problems/3200-3299/3211/README.md) | :o: | Medium | [bt] |   |
 | 3212 | [Count Submatrices With Equal Frequency of X and Y](./problems/3200-3299/3212/README.md)                               |        | Medium |                                                             |      |
 | 3213 | [Construct String with Minimum Cost](./problems/3200-3299/3213/README.md) | :o: | Hard | [str],[dp],[grd] | :+1:  |
 | 3214 | [Year on Year Growth Rate](./problems/3200-3299/3214/README.md)                                                        | :lock: | Hard   |                                                             |      |

@@ -3215,7 +3215,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3174 | [Clear Digits](./problems/3100-3199/3174/README.md)                                                                    | :o:    | Easy   | [stk],[str]                                                 |      |
 | 3175 | [Find The First Player to win K Games in a Row](./problems/3100-3199/3175/README.md)                                   | :o:    | Medium | [arr],[lgc]                                                 |      |
 | 3176 | [Find the Maximum Length of a Good Subsequence I](./problems/3100-3199/3176/README.md)                                 | :o:    | Medium | [dp]                                                        | :+1: |
-| 3177 | [Find the Maximum Length of a Good Subsequence II](./problems/3100-3199/3177/README.md)                                |        | Hard   |                                                             |      |
+| 3177 | [Find the Maximum Length of a Good Subsequence II](./problems/3100-3199/3177/README.md) | :o: | Hard | [dp] | :+1:  |
 | 3178 | [Find the Child Who Has the Ball After K Seconds](./problems/3100-3199/3178/README.md)                                 | :o:    | Easy   | [math]                                                      |      |
 | 3179 | [Find the N-th Value After K Seconds](./problems/3100-3199/3179/README.md) | :o: | Medium | [arr],[math] |   |
 | 3180 | [Maximum Total Reward Using Operations I](./problems/3100-3199/3180/README.md)                                         | :o:    | Medium | [dp]                                                        |      |

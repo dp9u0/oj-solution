@@ -1678,7 +1678,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1603 | [Design Parking System](./problems/1600-1699/1603/README.md)                                                           |        | Easy   |                                                             |      |
 | 1604 | [Alert Using Same Key-Card Three or More Times in a One Hour Period](./problems/1600-1699/1604/README.md)              |        | Medium |                                                             |      |
 | 1605 | [Find Valid Matrix Given Row and Column Sums](./problems/1600-1699/1605/README.md)                                     | :o:    | Medium | [grd],[arr]                                                 |      |
-| 1606 | [Find Servers That Handled Most Number of Requests](./problems/1600-1699/1606/README.md)                               |        | Hard   |                                                             |      |
+| 1606 | [Find Servers That Handled Most Number of Requests](./problems/1600-1699/1606/README.md) | :o: | Hard | [hp],[ds] | :+1:  |
 | 1607 | [Sellers With No Sales](./problems/1600-1699/1607/README.md)                                                           | :lock: | Easy   |                                                             |      |
 | 1608 | [Special Array With X Elements Greater Than or Equal X](./problems/1600-1699/1608/README.md)                           | :o:    | Easy   | [arr],[bs]                                                  |      |
 | 1609 | [Even Odd Tree](./problems/1600-1699/1609/README.md)                                                                   | :o:    | Medium | [tr],[bfs]                                                  |      |

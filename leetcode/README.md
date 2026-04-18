@@ -3747,3 +3747,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3624 | [Number of Integers With Popcount-Depth Equal to K II](./problems/3600-3699/3624/README.md) | :o: | Hard | [bit],[ds] | :+1:  |
 | 1739 | [Building Boxes](./problems/1700-1799/1739/README.md) | :o: | Hard | [math] | :+1:  |
 | 1751 | [Maximum Number of Events That Can Be Attended II](./problems/1700-1799/1751/README.md) | :o: | Hard | [dp] | :+1:  |
+| 3646 | [Next Special Palindrome Number](./problems/3600-3699/3646/README.md) | :o: | Hard | [math] | :+1:  |

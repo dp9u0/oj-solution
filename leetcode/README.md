@@ -2496,7 +2496,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](./problems/2400-2499/2455/README.md)                       | :o:    | Easy   | [arr]                                                       |      |
 | 2456 | [Most Popular Video Creator](./problems/2400-2499/2456/README.md)                                                      | :o:    | Medium | [hash]                                                      |      |
 | 2457 | [Minimum Addition to Make Integer Beautiful](./problems/2400-2499/2457/README.md)                                      | :o:    | Medium | [math],[grd]                                                |      |
-| 2458 | [Height of Binary Tree After Subtree Removal Queries](./problems/2400-2499/2458/README.md)                             |        | Hard   |                                                             |      |
+| 2458 | [Height of Binary Tree After Subtree Removal Queries](./problems/2400-2499/2458/README.md) | :o: | Hard | [tr],[dfs] | :+1:  |
 | 2459 | [Sort Array by Moving Items to Empty Space](./problems/2400-2499/2459/README.md)                                       | :lock: | Hard   |                                                             |      |
 | 2460 | [Apply Operations to an Array](./problems/2400-2499/2460/README.md)                                                    |        | Easy   |                                                             |      |
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](./problems/2400-2499/2461/README.md)                                 | :o:    | Medium | [arr]                                                       | :+1: |

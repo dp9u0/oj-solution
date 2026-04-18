@@ -1868,7 +1868,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1827 | [Minimum Operations to Make the Array Increasing](./problems/1800-1899/1827/README.md) | :o: | Easy | [arr],[grd] |   |
 | 1828 | [Queries on Number of Points Inside a Circle](./problems/1800-1899/1828/README.md)                                     | :o:    | Medium | [math]                                                      |      |
 | 1829 | [Maximum XOR for Each Query](./problems/1800-1899/1829/README.md)                                                      | :o:    | Medium | [arr],[bit]                                                 |      |
-| 1830 | [Minimum Number of Operations to Make String Sorted](./problems/1800-1899/1830/README.md)                              |        | Hard   |                                                             |      |
+| 1830 | [Minimum Number of Operations to Make String Sorted](./problems/1800-1899/1830/README.md) | :o: | Hard | [math],[dp] | :+1:  |
 | 1831 | [Maximum Transaction Each Day](./problems/1800-1899/1831/README.md)                                                    | :lock: | Medium |                                                             |      |
 | 1832 | [Check if the Sentence Is Pangram](./problems/1800-1899/1832/README.md)                                                | :o:    | Easy   | [str],[hsh]                                                 |      |
 | 1833 | [Maximum Ice Cream Bars](./problems/1800-1899/1833/README.md)                                                          | :o:    | Medium | [arr],[greedy]                                              |      |

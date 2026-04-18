@@ -1836,7 +1836,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1795 | [Rearrange Products Table](./problems/1700-1799/1795/README.md)                                                        | :lock: | Easy   |                                                             |      |
 | 1796 | [Second Largest Digit in a String](./problems/1700-1799/1796/README.md)                                                | :o:    | Easy   | [str]                                                       |      |
 | 1797 | [Design Authentication Manager](./problems/1700-1799/1797/README.md)                                                   | :o:    | Medium | [des],[hsh]                                                 |      |
-| 1798 | [Maximum Number of Consecutive Values You Can Make](./problems/1700-1799/1798/README.md)                               |        | Medium |                                                             |      |
+| 1798 | [Maximum Number of Consecutive Values You Can Make](./problems/1700-1799/1798/README.md) | :o: | Medium | [grd],[arr] |   |
 | 1799 | [Maximize Score After N Operations](./problems/1700-1799/1799/README.md)                                               |        | Hard   |                                                             |      |
 | 1800 | [Maximum Ascending Subarray Sum](./problems/1800-1899/1800/README.md)                                                  | :o:    | Easy   | [arr]                                                       |      |
 | 1801 | [Number of Orders in the Backlog](./problems/1800-1899/1801/README.md)                                                 |        | Medium |                                                             |      |

@@ -3710,3 +3710,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3448 | [Count Substrings Divisible By Last Digit](./problems/3400-3499/3448/README.md) | :o: | Hard | [math] |   |
 | 3469 | [Find Minimum Cost to Remove Array Elements](./problems/3400-3499/3469/README.md) | :o: | Medium | [dp],[arr] |   |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](./problems/3500-3599/3512/README.md) | :o: | Easy | [lgc],[arr] |   |
+| 3408 | [Design Task Manager](./problems/3400-3499/3408/README.md) | :o: | Medium | [des],[hp] |   |

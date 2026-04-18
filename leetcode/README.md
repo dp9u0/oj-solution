@@ -2144,7 +2144,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2103 | [Rings and Rods](./problems/2100-2199/2103/README.md)                                                                  | :o:    | Easy   | [hsh],[bit]                                                 |      |
 | 2104 | [Sum of Subarray Ranges](./problems/2100-2199/2104/README.md)                                                          | :o:    | Medium | [arr],[stk]                                                 |      |
 | 2105 | [Watering Plants II](./problems/2100-2199/2105/README.md)                                                              |        | Medium |                                                             |      |
-| 2106 | [Maximum Fruits Harvested After at Most K Steps](./problems/2100-2199/2106/README.md)                                  |        | Hard   |                                                             |      |
+| 2106 | [Maximum Fruits Harvested After at Most K Steps](./problems/2100-2199/2106/README.md) | :o: | Hard | [sd],[tp] | :+1:  |
 | 2107 | [Number of Unique Flavors After Sharing K Candies](./problems/2100-2199/2107/README.md)                                | :lock: | Medium |                                                             |      |
 | 2108 | [Find First Palindromic String in the Array](./problems/2100-2199/2108/README.md)                                      | :o:    | Easy   | [arr]                                                       |      |
 | 2109 | [Adding Spaces to a String](./problems/2100-2199/2109/README.md)                                                       | :o:    | Medium | [str],[tp]                                                  |      |

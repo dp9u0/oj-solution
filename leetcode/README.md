@@ -3299,7 +3299,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3258 | [Count Substrings That Satisfy K-Constraint I](./problems/3200-3299/3258/README.md)                                    | :o:    | Easy   | [str],[sd]                                                  |      |
 | 3259 | [Maximum Energy Boost From Two Drinks](./problems/3200-3299/3259/README.md) | :o: | Medium | [dp] |   |
 | 3260 | [Find the Largest Palindrome Divisible by K](./problems/3200-3299/3260/README.md)                                      | :o:    | Hard   | [math],[str]                                                |      |
-| 3261 | [Count Substrings That Satisfy K-Constraint II](./problems/3200-3299/3261/README.md)                                   |        | Hard   |                                                             |      |
+| 3261 | [Count Substrings That Satisfy K-Constraint II](./problems/3200-3299/3261/README.md) | :o: | Hard | [sd],[bfs] |   |
 | 3262 | [Find Overlapping Shifts](./problems/3200-3299/3262/README.md)                                                         | :lock: | Medium |                                                             |      |
 | 3263 | [Convert Doubly Linked List to Array I](./problems/3200-3299/3263/README.md)                                           | :lock: | Easy   |                                                             |      |
 | 3264 | [Final Array State After K Multiplication Operations I](./problems/3200-3299/3264/README.md)                           | :o:    | Easy   | [arr],[lgc]                                                 |      |

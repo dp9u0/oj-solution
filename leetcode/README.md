@@ -1603,7 +1603,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1528 | [Shuffle String](./problems/1500-1599/1528/README.md)                                                                  | :o:    | Easy   | [str],[arr]                                                 |      |
 | 1529 | [Bulb Switcher IV](./problems/1500-1599/1529/README.md)                                                                | :o:    | Medium | [str],[greedy]                                              |      |
 | 1530 | [Number of Good Leaf Nodes Pairs](./problems/1500-1599/1530/README.md)                                                 | :o:    | Medium | [tr],[dfs]                                                  |      |
-| 1531 | [String Compression II](./problems/1500-1599/1531/README.md)                                                           |        | Hard   |                                                             |      |
+| 1531 | [String Compression II](./problems/1500-1599/1531/README.md) | :o: | Hard | [dp],[str] | :+1:  |
 | 1532 | [The Most Recent Three Orders](./problems/1500-1599/1532/README.md)                                                    | :lock: | Medium |                                                             |      |
 | 1533 | [Find the Index of the Large Integer](./problems/1500-1599/1533/README.md)                                             | :lock: | Medium |                                                             |      |
 | 1534 | [Count Good Triplets](./problems/1500-1599/1534/README.md)                                                             | :o:    | Easy   | [arr]                                                       |      |

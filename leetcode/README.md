@@ -3779,3 +3779,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3659 | [Partition Array Into K-Distinct Groups](./problems/3600-3699/3659/README.md) | :o: | Medium | [hsh],[arr] |   |
 | 3760 | [Maximum Substrings With Distinct Start](./problems/3700-3799/3760/README.md) | :o: | Medium | [str] |   |
 | 3652 | [Best Time to Buy and Sell Stock using Strategy](./problems/3600-3699/3652/README.md) | :o: | Medium | [arr],[grd] |   |
+| 3472 | [Longest Palindromic Subsequence After at Most K Operations](./problems/3400-3499/3472/README.md) | :o: | Medium | [str],[dp] | :+1:  |

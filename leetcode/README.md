@@ -3286,7 +3286,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3245 | [Alternating Groups III](./problems/3200-3299/3245/README.md) | :o: | Hard | [ds],[arr] |   |
 | 3246 | [Premier League Table Ranking](./problems/3200-3299/3246/README.md)                                                    | :lock: | Easy   |                                                             |      |
 | 3247 | [Number of Subsequences with Odd Sum](./problems/3200-3299/3247/README.md)                                             | :lock: | Medium |                                                             |      |
-| 3248 | [Snake in Matrix](./problems/3200-3299/3248/README.md)                                                                 |        | Easy   |                                                             |      |
+| 3248 | [Snake in Matrix](./problems/3200-3299/3248/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 3249 | [Count the Number of Good Nodes](./problems/3200-3299/3249/README.md) | :o: | Medium | [tr],[dfs] |   |
 | 3250 | [Find the Count of Monotonic Pairs I](./problems/3200-3299/3250/README.md)                                             |        | Hard   |                                                             |      |
 | 3251 | [Find the Count of Monotonic Pairs II](./problems/3200-3299/3251/README.md) | :o: | Hard | [dp] |   |

@@ -3749,3 +3749,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3679 | [ Minimum Discards to Balance Inventory](./problems/3600-3699/3679/README.md) | :o: | Medium | [grd],[sd] |   |
 | 3835 | [Count Subarrays With Cost Less Than or Equal to K](./problems/3800-3899/3835/README.md) | :o: | Medium | [arr],[sd] |   |
 | 3698 | [Split Array With Minimum Difference](./problems/3600-3699/3698/README.md) | :o: | Medium | [arr] |   |
+| 3503 | [Longest Palindrome After Substring Concatenation I](./problems/3500-3599/3503/README.md) | :o: | Medium | [str] |   |

@@ -2327,7 +2327,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2286 | [Booking Concert Tickets in Groups](./problems/2200-2299/2286/README.md) | :o: | Hard | [des],[ds],[hp] |   |
 | 2287 | [Rearrange Characters to Make Target String](./problems/2200-2299/2287/README.md)                                      | :o:    | Easy   | [str],[hsh]                                                 |      |
 | 2288 | [Apply Discount to Prices](./problems/2200-2299/2288/README.md)                                                        | :o:    | Medium | [str]                                                       |      |
-| 2289 | [Steps to Make Array Non-decreasing](./problems/2200-2299/2289/README.md)                                              |        | Medium |                                                             |      |
+| 2289 | [Steps to Make Array Non-decreasing](./problems/2200-2299/2289/README.md) | :o: | Medium | [stk],[arr] |   |
 | 2290 | [Minimum Obstacle Removal to Reach Corner](./problems/2200-2299/2290/README.md)                                        |        | Hard   |                                                             |      |
 | 2291 | [Maximum Profit From Trading Stocks](./problems/2200-2299/2291/README.md)                                              | :lock: | Medium |                                                             |      |
 | 2292 | [Products With Three or More Orders in Two Consecutive Years](./problems/2200-2299/2292/README.md)                     | :lock: | Medium |                                                             |      |

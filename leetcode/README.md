@@ -3735,3 +3735,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3567 | [Minimum Absolute Difference in Sliding Submatrix](./problems/3500-3599/3567/README.md) | :o: | Medium | [arr] |   |
 | 3885 | [Design Event Manager](./problems/3800-3899/3885/README.md) | :o: | Medium | [des],[hp] |   |
 | 3552 | [Grid Teleportation Traversal](./problems/3500-3599/3552/README.md) | :o: | Medium | [bfs] |   |
+| 3393 | [Count Paths With the Given XOR Value](./problems/3300-3399/3393/README.md) | :o: | Medium | [dp] |   |

@@ -2751,7 +2751,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2710 | [Remove Trailing Zeros From a String](./problems/2700-2799/2710/README.md) | :o: | Easy | [str] |   |
 | 2711 | [Difference of Number of Distinct Values on Diagonals](./problems/2700-2799/2711/README.md)                            | :o:    | Medium | [arr],[matrix]                                              |      |
 | 2712 | [Minimum Cost to Make All Characters Equal](./problems/2700-2799/2712/README.md)                                       | :o:    | Medium | [str],[grd]                                                 |      |
-| 2713 | [Maximum Strictly Increasing Cells in a Matrix](./problems/2700-2799/2713/README.md)                                   |        | Hard   |                                                             |      |
+| 2713 | [Maximum Strictly Increasing Cells in a Matrix](./problems/2700-2799/2713/README.md) | :o: | Hard | [dp] | :+1:  |
 | 2714 | [Find Shortest Path with K Hops](./problems/2700-2799/2714/README.md)                                                  | :lock: | Hard   |                                                             |      |
 | 2715 | [2715](./problems/2700-2799/2715/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2716 | [Minimize String Length](./problems/2700-2799/2716/README.md)                                                          | :o:    | Easy   | [str]                                                       |      |

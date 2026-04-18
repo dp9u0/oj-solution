@@ -62,3 +62,7 @@ typings/
 leetcode/solution.js
 leetcode/solving.md
 leetcode/.claude/scheduled_tasks.lock
+
+.claude/worktrees
+.claude/settings.local.json
+.claude/scheduled_tasks.lock

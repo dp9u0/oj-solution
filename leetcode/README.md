@@ -1586,7 +1586,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1511 | [Customer Order Frequency](./problems/1500-1599/1511/README.md)                                                        | :lock: | Easy   |                                                             |      |
 | 1512 | [Number of Good Pairs](./problems/1500-1599/1512/README.md)                                                            | :o:    | Easy   | [arr]                                                       |      |
 | 1513 | [Number of Substrings With Only 1s](./problems/1500-1599/1513/README.md) | :o: | Medium | [str],[math] |   |
-| 1514 | [1514](./problems/1500-1599/1514/README.md)                                                                            |        | Easy   |                                                             |      |
+| 1514 | [1514](./problems/1500-1599/1514/README.md) | :o: | Medium | [grf],[bfs] |   |
 | 1515 | [Best Position for a Service Centre](./problems/1500-1599/1515/README.md) | :o: | Hard | [math],[grd] |   |
 | 1516 | [Move Sub-Tree of N-Ary Tree](./problems/1500-1599/1516/README.md)                                                     | :lock: | Hard   |                                                             |      |
 | 1517 | [Find Users With Valid E-Mails](./problems/1500-1599/1517/README.md)                                                   | :lock: | Easy   |                                                             |      |

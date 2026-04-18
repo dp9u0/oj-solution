@@ -1376,7 +1376,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1301 | [Number of Paths with Max Score](./problems/1300-1399/1301/README.md)                                                  | :o:    | Hard   | [dp]                                                        |      |
 | 1302 | [Deepest Leaves Sum](./problems/1300-1399/1302/README.md)                                                              | :o:    | Medium | [bfs],[tr]                                                  |      |
 | 1303 | [Find the Team Size](./problems/1300-1399/1303/README.md)                                                              | :lock: | Easy   |                                                             |      |
-| 1304 | [Find N Unique Integers Sum up to Zero](./problems/1300-1399/1304/README.md)                                           |        | Easy   |                                                             |      |
+| 1304 | [Find N Unique Integers Sum up to Zero](./problems/1300-1399/1304/README.md) | :o: | Easy | [arr],[math] |   |
 | 1305 | [All Elements in Two Binary Search Trees](./problems/1300-1399/1305/README.md)                                         | :o:    | Medium | [tr],[dfs]                                                  |      |
 | 1306 | [Jump Game III](./problems/1300-1399/1306/README.md)                                                                   | :o:    | Medium | [arr],[bfs]                                                 |      |
 | 1307 | [Verbal Arithmetic Puzzle](./problems/1300-1399/1307/README.md) | :o: | Hard | [bt] |   |

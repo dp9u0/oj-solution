@@ -3006,7 +3006,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2965 | [Find Missing and Repeated Values](./problems/2900-2999/2965/README.md)                                                | :o:    | Easy   | [arr]                                                       |      |
 | 2966 | [Divide Array Into Arrays With Max Difference](./problems/2900-2999/2966/README.md)                                    | :o:    | Medium | [arr],[grd]                                                 |      |
 | 2967 | [Minimum Cost to Make Array Equalindromic](./problems/2900-2999/2967/README.md)                                        |        | Medium |                                                             |      |
-| 2968 | [Apply Operations to Maximize Frequency Score](./problems/2900-2999/2968/README.md)                                    |        | Hard   |                                                             |      |
+| 2968 | [Apply Operations to Maximize Frequency Score](./problems/2900-2999/2968/README.md) | :o: | Hard | [arr],[sd] | :+1:  |
 | 2969 | [Minimum Number of Coins for Fruits II](./problems/2900-2999/2969/README.md)                                           | :lock: | Hard   |                                                             |      |
 | 2970 | [Count the Number of Incremovable Subarrays I](./problems/2900-2999/2970/README.md)                                    | :o:    | Easy   | [arr]                                                       |      |
 | 2971 | [Find Polygon With the Largest Perimeter](./problems/2900-2999/2971/README.md)                                         | :o:    | Medium | [arr]                                                       |      |

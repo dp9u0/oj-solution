@@ -3725,3 +3725,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3852 | [Smallest Pair With Different Frequencies](./problems/3800-3899/3852/README.md) | :o: | Easy | [hsh] |   |
 | 3513 | [Number of Unique XOR Triplets I](./problems/3500-3599/3513/README.md) | :o: | Medium | [math] |   |
 | 3534 | [Path Existence Queries in a Graph II](./problems/3500-3599/3534/README.md) | :o: | Hard | [grf],[bs] | :+1:  |
+| 3609 | [Minimum Moves to Reach Target in Grid](./problems/3600-3699/3609/README.md) | :o: | Hard | [math],[grd] |   |

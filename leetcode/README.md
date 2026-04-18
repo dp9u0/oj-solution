@@ -1910,7 +1910,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1869 | [Longer Contiguous Segments of Ones than Zeros](./problems/1800-1899/1869/README.md)                                   |        | Easy   |                                                             |      |
 | 1870 | [Minimum Speed to Arrive on Time](./problems/1800-1899/1870/README.md)                                                 | :o:    | Medium | [arr],[bs]                                                  |      |
 | 1871 | [Jump Game VII](./problems/1800-1899/1871/README.md)                                                                   | :o:    | Medium | [str],[dp]                                                  | :+1: |
-| 1872 | [Stone Game VIII](./problems/1800-1899/1872/README.md)                                                                 |        | Hard   |                                                             |      |
+| 1872 | [Stone Game VIII](./problems/1800-1899/1872/README.md) | :o: | Hard | [dp],[grd] |   |
 | 1873 | [Calculate Special Bonus](./problems/1800-1899/1873/README.md)                                                         | :lock: | Easy   |                                                             |      |
 | 1874 | [Minimize Product Sum of Two Arrays](./problems/1800-1899/1874/README.md)                                              | :lock: | Medium |                                                             |      |
 | 1875 | [Group Employees of the Same Salary](./problems/1800-1899/1875/README.md)                                              | :lock: | Medium |                                                             |      |

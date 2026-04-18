@@ -3772,3 +3772,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1736 | [Latest Time by Replacing Hidden Digits](./problems/1700-1799/1736/README.md) | :o: | Easy | [str],[lgc] |   |
 | 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](./problems/3700-3799/3756/README.md) | :o: | Medium | [str],[dp] |   |
 | 3457 | [Eat Pizzas!](./problems/3400-3499/3457/README.md) | :o: | Medium | [grd],[arr] |   |
+| 3660 | [Jump Game IX](./problems/3600-3699/3660/README.md) | :o: | Medium | [arr],[dp] | :+1:  |

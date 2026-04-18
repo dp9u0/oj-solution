@@ -2647,7 +2647,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2606 | [Find the Substring With Maximum Cost](./problems/2600-2699/2606/README.md)                                            | :o:    | Medium | [str],[dp]                                                  |      |
 | 2607 | [Make K-Subarray Sums Equal](./problems/2600-2699/2607/README.md)                                                      | :o:    | Medium | [greedy]                                                    |      |
 | 2608 | [Shortest Cycle in a Graph](./problems/2600-2699/2608/README.md)                                                       |        | Hard   |                                                             |      |
-| 2609 | [Find the Longest Balanced Substring of a Binary String](./problems/2600-2699/2609/README.md)                          |        | Easy   |                                                             |      |
+| 2609 | [Find the Longest Balanced Substring of a Binary String](./problems/2600-2699/2609/README.md) | :o: | Easy | [str] |   |
 | 2610 | [Convert an Array Into a 2D Array With Conditions](./problems/2600-2699/2610/README.md)                                | :o:    | Medium | [arr],[hsh]                                                 |      |
 | 2611 | [Mice and Cheese](./problems/2600-2699/2611/README.md)                                                                 | :o:    | Medium | [arr],[greedy]                                              |      |
 | 2612 | [Minimum Reverse Operations](./problems/2600-2699/2612/README.md)                                                      |        | Hard   |                                                             |      |

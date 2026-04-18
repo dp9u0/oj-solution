@@ -3278,7 +3278,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3237 | [Alt and Tab Simulation](./problems/3200-3299/3237/README.md)                                                          | :lock: | Medium |                                                             |      |
 | 3238 | [Find the Number of Winning Players](./problems/3200-3299/3238/README.md) | :o: | Easy | [hsh],[arr] |   |
 | 3239 | [Minimum Number of Flips to Make Binary Grid Palindromic I](./problems/3200-3299/3239/README.md) | :o: | Medium | [arr],[math] |   |
-| 3240 | [Minimum Number of Flips to Make Binary Grid Palindromic II](./problems/3200-3299/3240/README.md)                      |        | Medium |                                                             |      |
+| 3240 | [Minimum Number of Flips to Make Binary Grid Palindromic II](./problems/3200-3299/3240/README.md) | :o: | Medium | [grd],[math] |   |
 | 3241 | [Time Taken to Mark All Nodes](./problems/3200-3299/3241/README.md)                                                    | :o:    | Hard   | [dp],[tr]                                                   |      |
 | 3242 | [Design Neighbor Sum Service](./problems/3200-3299/3242/README.md) | :o: | Easy | [arr],[des] |   |
 | 3243 | [Shortest Distance After Road Addition Queries I](./problems/3200-3299/3243/README.md)                                 | :o:    | Medium | [grf],[bfs]                                                 |      |

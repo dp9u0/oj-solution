@@ -2397,7 +2397,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](./problems/2300-2399/2356/README.md)                                | :soon: | Easy   |                                                             |      |
 | 2357 | [Make Array Zero by Subtracting Equal Amounts](./problems/2300-2399/2357/README.md)                                    | :o:    | Easy   | [arr],[hash]                                                |      |
 | 2358 | [Maximum Number of Groups Entering a Competition](./problems/2300-2399/2358/README.md)                                 | :o:    | Medium | [greedy]                                                    |      |
-| 2359 | [Find Closest Node to Given Two Nodes](./problems/2300-2399/2359/README.md)                                            |        | Medium |                                                             |      |
+| 2359 | [Find Closest Node to Given Two Nodes](./problems/2300-2399/2359/README.md) | :o: | Medium | [grf] |   |
 | 2360 | [Longest Cycle in a Graph](./problems/2300-2399/2360/README.md)                                                        | :o:    | Hard   | [grf],[dfs]                                                 |      |
 | 2361 | [Minimum Costs Using the Train Line](./problems/2300-2399/2361/README.md)                                              | :lock: | Hard   |                                                             |      |
 | 2362 | [Generate the Invoice](./problems/2300-2399/2362/README.md)                                                            | :lock: | Hard   |                                                             |      |

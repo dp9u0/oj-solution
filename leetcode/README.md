@@ -3327,7 +3327,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3286 | [Find a Safe Walk Through a Grid](./problems/3200-3299/3286/README.md) | :o: | Medium | [bfs] |   |
 | 3287 | [Find the Maximum Sequence Value of Array](./problems/3200-3299/3287/README.md) | :o: | Hard | [dp],[bit] |   |
 | 3288 | [Length of the Longest Increasing Path](./problems/3200-3299/3288/README.md)                                           |        | Hard   |                                                             |      |
-| 3289 | [The Two Sneaky Numbers of Digitville](./problems/3200-3299/3289/README.md)                                            |        | Easy   |                                                             |      |
+| 3289 | [The Two Sneaky Numbers of Digitville](./problems/3200-3299/3289/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 3290 | [Maximum Multiplication Score](./problems/3200-3299/3290/README.md)                                                    | :o:    | Medium | [dp]                                                        |      |
 | 3291 | [Minimum Number of Valid Strings to Form Target I](./problems/3200-3299/3291/README.md)                                | :o:    | Medium | [hsh],[dp]                                                  |      |
 | 3292 | [Minimum Number of Valid Strings to Form Target II](./problems/3200-3299/3292/README.md) | :o: | Hard | [str],[grd] |   |

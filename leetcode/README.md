@@ -1369,7 +1369,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1294 | [Weather Type in Each Country](./problems/1200-1299/1294/README.md)                                                    | :lock: | Easy   |                                                             |      |
 | 1295 | [Find Numbers with Even Number of Digits](./problems/1200-1299/1295/README.md) | :o: | Easy | [arr] |   |
 | 1296 | [Divide Array in Sets of K Consecutive Numbers](./problems/1200-1299/1296/README.md)                                   | :o:    | Medium | [arr],[hash],[greedy]                                       |      |
-| 1297 | [Maximum Number of Occurrences of a Substring](./problems/1200-1299/1297/README.md)                                    |        | Medium |                                                             |      |
+| 1297 | [Maximum Number of Occurrences of a Substring](./problems/1200-1299/1297/README.md) | :o: | Medium | [sd],[hsh] |   |
 | 1298 | [Maximum Candies You Can Get from Boxes](./problems/1200-1299/1298/README.md)                                          | :o:    | Hard   | [bfs]                                                       |      |
 | 1299 | [Replace Elements with Greatest Element on Right Side](./problems/1200-1299/1299/README.md)                            | :o:    | Easy   | [arr]                                                       |      |
 | 1300 | [Sum of Mutated Array Closest to Target](./problems/1300-1399/1300/README.md)                                          | :o:    | Medium | [bs]                                                        |      |

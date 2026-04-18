@@ -1731,7 +1731,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1656 | [Design an Ordered Stream](./problems/1600-1699/1656/README.md)                                                        | :o:    | Easy   | [des],[arr]                                                 |      |
 | 1657 | [Determine if Two Strings Are Close](./problems/1600-1699/1657/README.md)                                              | :o:    | Medium | [hash],[str]                                                |      |
 | 1658 | [Minimum Operations to Reduce X to Zero](./problems/1600-1699/1658/README.md)                                          | :o:    | Medium | [arr],[tp]                                                  | :+1: |
-| 1659 | [Maximize Grid Happiness](./problems/1600-1699/1659/README.md)                                                         |        | Hard   |                                                             |      |
+| 1659 | [Maximize Grid Happiness](./problems/1600-1699/1659/README.md) | :o: | Hard | [dp],[bit] |   |
 | 1660 | [Correct a Binary Tree](./problems/1600-1699/1660/README.md)                                                           | :lock: | Medium |                                                             |      |
 | 1661 | [Average Time of Process per Machine](./problems/1600-1699/1661/README.md)                                             | :lock: | Easy   |                                                             |      |
 | 1662 | [Check If Two String Arrays are Equivalent](./problems/1600-1699/1662/README.md) | :o: | Easy | [str] |   |

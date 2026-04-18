@@ -1675,7 +1675,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1600 | [Throne Inheritance](./problems/1600-1699/1600/README.md) | :o: | Medium | [des],[dfs] |   |
 | 1601 | [Maximum Number of Achievable Transfer Requests](./problems/1600-1699/1601/README.md) | :o: | Hard | [bt] |   |
 | 1602 | [Find Nearest Right Node in Binary Tree](./problems/1600-1699/1602/README.md)                                          | :lock: | Medium |                                                             |      |
-| 1603 | [Design Parking System](./problems/1600-1699/1603/README.md)                                                           |        | Easy   |                                                             |      |
+| 1603 | [Design Parking System](./problems/1600-1699/1603/README.md) | :o: | Easy | [des] |   |
 | 1604 | [Alert Using Same Key-Card Three or More Times in a One Hour Period](./problems/1600-1699/1604/README.md)              |        | Medium |                                                             |      |
 | 1605 | [Find Valid Matrix Given Row and Column Sums](./problems/1600-1699/1605/README.md)                                     | :o:    | Medium | [grd],[arr]                                                 |      |
 | 1606 | [Find Servers That Handled Most Number of Requests](./problems/1600-1699/1606/README.md)                               |        | Hard   |                                                             |      |

@@ -3733,3 +3733,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1735 | [Count Ways to Make Array With Product](./problems/1700-1799/1735/README.md) | :o: | Hard | [math],[dp] |   |
 | 3671 | [Sum of Beautiful Subsequences](./problems/3600-3699/3671/README.md) | :o: | Hard | [math],[dp] |   |
 | 3426 | [Manhattan Distances of All Arrangements of Pieces](./problems/3400-3499/3426/README.md) | :o: | Hard | [math],[dp] |   |
+| 3445 | [Maximum Difference Between Even and Odd Frequency II](./problems/3400-3499/3445/README.md) | :o: | Hard | [arr],[sd] | :+1:  |

@@ -2774,7 +2774,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2733 | [Neither Minimum nor Maximum](./problems/2700-2799/2733/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 2734 | [Lexicographically Smallest String After Substring Operation](./problems/2700-2799/2734/README.md)                     | :o:    | Medium | [str]                                                       |      |
 | 2735 | [Collecting Chocolates](./problems/2700-2799/2735/README.md)                                                           |        | Medium |                                                             |      |
-| 2736 | [Maximum Sum Queries](./problems/2700-2799/2736/README.md)                                                             |        | Hard   |                                                             |      |
+| 2736 | [Maximum Sum Queries](./problems/2700-2799/2736/README.md) | :o: | Hard | [arr],[bs] |   |
 | 2737 | [Find the Closest Marked Node](./problems/2700-2799/2737/README.md)                                                    | :lock: | Medium |                                                             |      |
 | 2738 | [Count Occurrences in Text](./problems/2700-2799/2738/README.md)                                                       | :lock: | Medium |                                                             |      |
 | 2739 | [Total Distance Traveled](./problems/2700-2799/2739/README.md)                                                         | :o:    | Easy   | [math]                                                      |      |

@@ -3257,7 +3257,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3216 | [Lexicographically Smallest String After a Swap](./problems/3200-3299/3216/README.md)                                  | :o:    | Easy   | [str],[lgc]                                                 |      |
 | 3217 | [Delete Nodes From Linked List Present in Array](./problems/3200-3299/3217/README.md)                                  | :o:    | Medium | [ll],[hsh]                                                  |      |
 | 3218 | [Minimum Cost for Cutting Cake I](./problems/3200-3299/3218/README.md)                                                 |        | Medium |                                                             |      |
-| 3219 | [Minimum Cost for Cutting Cake II](./problems/3200-3299/3219/README.md)                                                |        | Hard   |                                                             |      |
+| 3219 | [Minimum Cost for Cutting Cake II](./problems/3200-3299/3219/README.md) | :o: | Hard | [grd] |   |
 | 3220 | [Odd and Even Transactions](./problems/3200-3299/3220/README.md)                                                       | :soon: | Medium |                                                             |      |
 | 3221 | [Maximum Array Hopping Score II](./problems/3200-3299/3221/README.md)                                                  | :lock: | Medium |                                                             |      |
 | 3222 | [Find the Winning Player in Coin Game](./problems/3200-3299/3222/README.md)                                            | :o:    | Easy   | [math],[lgc]                                                |      |

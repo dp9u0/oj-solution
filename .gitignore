@@ -29,14 +29,14 @@ bower_components
 # node-waf configuration
 .lock-wscript
 
-# Compiled binary addons (https://nodejs.org/api/addons.html)
+# Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
 
 # Dependency directories
 node_modules/
 jspm_packages/
 
-# TypeScript v1 declaration files
+# Typescript v1 declaration files
 typings/
 
 # Optional npm cache directory
@@ -57,12 +57,16 @@ typings/
 # dotenv environment variables file
 .env
 
-# next.js build output
-.next
-leetcode/solution.js
-leetcode/solving.md
-leetcode/.claude/scheduled_tasks.lock
-
-.claude/worktrees
+# Claude local settings
 .claude/settings.local.json
-.claude/scheduled_tasks.lock
+
+# Project working files
+current
+solving/*
+solution.js
+solving.md
+.vscode
+
+README.md.bak
+.claude/worktrees/
+package-lock.json

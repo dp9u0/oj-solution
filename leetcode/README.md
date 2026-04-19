@@ -2546,7 +2546,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2505 | [Bitwise OR of All Subsequence Sums](./problems/2500-2599/2505/README.md)                                              | :lock: | Medium |                                                             |      |
 | 2506 | [Count Pairs Of Similar Strings](./problems/2500-2599/2506/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 2507 | [Smallest Value After Replacing With Sum of Prime Factors](./problems/2500-2599/2507/README.md)                        | :o:    | Medium | [math]                                                      |      |
-| 2508 | [Add Edges to Make Degrees of All Nodes Even](./problems/2500-2599/2508/README.md)                                     |        | Hard   |                                                             |      |
+| 2508 | [Add Edges to Make Degrees of All Nodes Even](./problems/2500-2599/2508/README.md) | :o: | Hard | [grf],[lgc] |   |
 | 2509 | [Cycle Length Queries in a Tree](./problems/2500-2599/2509/README.md) | :o: | Hard | [tr] |   |
 | 2510 | [Check if There is a Path With Equal Number of 0's And 1's](./problems/2500-2599/2510/README.md)                       | :lock: | Medium |                                                             |      |
 | 2511 | [Maximum Enemy Forts That Can Be Captured](./problems/2500-2599/2511/README.md)                                        | :o:    | Easy   | [arr],[tp]                                                  |      |

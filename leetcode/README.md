@@ -674,7 +674,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 597  | [Friend Requests I: Overall Acceptance Rate](./problems/500-599/597/README.md)                                         | :lock: | Easy   |                                                             |      |
 | 598  | [Range Addition II](./problems/500-599/598/README.md)                                                                  | :o:    | Easy   | [math]                                                      | :-1: |
 | 599  | [Minimum Index Sum of Two Lists](./problems/500-599/599/README.md)                                                     | :o:    | Easy   | [hsh]                                                       |      |
-| 600  | [Non-negative Integers without Consecutive Ones](./problems/600-699/600/README.md)                                     |        | Hard   |                                                             |      |
+| 600 | [Non-negative Integers without Consecutive Ones](./problems/600-699/600/README.md) | :o: | Hard | [dp] | :+1:  |
 | 601  | [Human Traffic of Stadium](./problems/600-699/601/README.md)                                                           | :soon: | Hard   | [sql]                                                       |      |
 | 602  | [Friend Requests II: Who Has the Most Friends](./problems/600-699/602/README.md)                                       | :lock: | Medium |                                                             |      |
 | 603  | [Consecutive Available Seats](./problems/600-699/603/README.md)                                                        | :lock: | Easy   |                                                             |      |

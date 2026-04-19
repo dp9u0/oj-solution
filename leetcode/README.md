@@ -2828,7 +2828,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2787 | [Ways to Express an Integer as Sum of Powers](./problems/2700-2799/2787/README.md) | :o: | Medium | [dp] |   |
 | 2788 | [Split Strings by Separator](./problems/2700-2799/2788/README.md)                                                      | :o:    | Easy   | [str],[arr]                                                 |      |
 | 2789 | [Largest Element in an Array after Merge Operations](./problems/2700-2799/2789/README.md)                              | :o:    | Medium | [arr],[greedy]                                              |      |
-| 2790 | [Maximum Number of Groups With Increasing Length](./problems/2700-2799/2790/README.md)                                 |        | Hard   |                                                             |      |
+| 2790 | [Maximum Number of Groups With Increasing Length](./problems/2700-2799/2790/README.md) | :o: | Hard | [grd] |   |
 | 2791 | [Count Paths That Can Form a Palindrome in a Tree](./problems/2700-2799/2791/README.md) | :o: | Hard | [tr],[bit] | :+1:  |
 | 2792 | [Count Nodes That Are Great Enough](./problems/2700-2799/2792/README.md)                                               | :lock: | Hard   |                                                             |      |
 | 2793 | [Status of Flight Tickets](./problems/2700-2799/2793/README.md)                                                        | :lock: | Hard   |                                                             |      |

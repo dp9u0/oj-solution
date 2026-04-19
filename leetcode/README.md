@@ -2221,7 +2221,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2180 | [Count Integers With Even Digit Sum](./problems/2100-2199/2180/README.md) | :o: | Easy | [math] |   |
 | 2181 | [Merge Nodes in Between Zeros](./problems/2100-2199/2181/README.md)                                                    | :o:    | Medium | [ll]                                                        |      |
 | 2182 | [Construct String With Repeat Limit](./problems/2100-2199/2182/README.md)                                              | :o:    | Medium | [str],[greedy],[heap]                                       |      |
-| 2183 | [Count Array Pairs Divisible by K](./problems/2100-2199/2183/README.md)                                                |        | Hard   |                                                             |      |
+| 2183 | [Count Array Pairs Divisible by K](./problems/2100-2199/2183/README.md) | :o: | Hard | [math] |   |
 | 2184 | [Number of Ways to Build Sturdy Brick Wall](./problems/2100-2199/2184/README.md)                                       | :lock: | Medium |                                                             |      |
 | 2185 | [Counting Words With a Given Prefix](./problems/2100-2199/2185/README.md)                                              |        | Easy   |                                                             |      |
 | 2186 | [Minimum Number of Steps to Make Two Strings Anagram II](./problems/2100-2199/2186/README.md)                          | :o:    | Medium | [hsh],[str]                                                 |      |

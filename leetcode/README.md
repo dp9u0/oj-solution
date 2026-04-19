@@ -1694,7 +1694,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1619 | [1619](./problems/1600-1699/1619/README.md) | :o: | Easy | [arr],[math] |   |
 | 1620 | [Coordinate With Maximum Network Quality](./problems/1600-1699/1620/README.md) | :o: | Medium | [math] |   |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](./problems/1600-1699/1621/README.md) | :o: | Medium | [dp],[math] |   |
-| 1622 | [Fancy Sequence](./problems/1600-1699/1622/README.md)                                                                  |        | Hard   |                                                             |      |
+| 1622 | [Fancy Sequence](./problems/1600-1699/1622/README.md) | :o: | Hard | [des],[math] |   |
 | 1623 | [All Valid Triplets That Can Represent a Country](./problems/1600-1699/1623/README.md)                                 | :lock: | Easy   |                                                             |      |
 | 1624 | [Largest Substring Between Two Equal Characters](./problems/1600-1699/1624/README.md)                                  | :o:    | Easy   | [str],[hsh]                                                 |      |
 | 1625 | [Lexicographically Smallest String After Applying Operations](./problems/1600-1699/1625/README.md) | :o: | Medium | [str],[bfs] |   |

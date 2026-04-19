@@ -3800,3 +3800,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3743 | [Maximize Cyclic Partition Score](./problems/3700-3799/3743/README.md) | :o: | Hard | [dp],[arr] | :+1:  |
 | 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](./problems/3700-3799/3734/README.md) | :o: | Hard | [str],[grd] |   |
 | 3529 | [Count Cells in Overlapping Horizontal and Vertical Substrings](./problems/3500-3599/3529/README.md) | :o: | Medium | [str],[hsh] |   |
+| 3752 | [Lexicographically Smallest Negated Permutation that Sums to Target](./problems/3700-3799/3752/README.md) | :o: | Medium | [grd],[math] |   |

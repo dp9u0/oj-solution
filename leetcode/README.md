@@ -1108,7 +1108,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](./problems/1000-1099/1031/README.md) | :o: | Medium | [arr],[dp] |   |
 | 1032 | [Stream of Characters](./problems/1000-1099/1032/README.md) | :o: | Hard | [des],[trie] |   |
 | 1033 | [Moving Stones Until Consecutive](./problems/1000-1099/1033/README.md)                                                 | :o:    | Medium | [math],[lgc]                                                |      |
-| 1034 | [Coloring A Border](./problems/1000-1099/1034/README.md)                                                               |        | Medium |                                                             |      |
+| 1034 | [Coloring A Border](./problems/1000-1099/1034/README.md) | :o: | Medium | [bfs] |   |
 | 1035 | [Uncrossed Lines](./problems/1000-1099/1035/README.md)                                                                 | :o:    | Medium | [dp]                                                        |      |
 | 1036 | [Escape a Large Maze](./problems/1000-1099/1036/README.md)                                                             | :o:    | Hard   | [bfs]                                                       |      |
 | 1037 | [Valid Boomerang](./problems/1000-1099/1037/README.md)                                                                 | :o:    | Easy   | [math]                                                      |      |

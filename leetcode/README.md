@@ -2619,7 +2619,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2578 | [Split With Minimum Sum](./problems/2500-2599/2578/README.md)                                                          | :o:    | Easy   | [grd],[math]                                                |      |
 | 2579 | [Count Total Number of Colored Cells](./problems/2500-2599/2579/README.md)                                             | :o:    | Medium | [math]                                                      |      |
 | 2580 | [Count Ways to Group Overlapping Ranges](./problems/2500-2599/2580/README.md)                                          | :o:    | Medium | [math]                                                      |      |
-| 2581 | [Count Number of Possible Root Nodes](./problems/2500-2599/2581/README.md)                                             |        | Hard   |                                                             |      |
+| 2581 | [Count Number of Possible Root Nodes](./problems/2500-2599/2581/README.md) | :o: | Hard | [tr],[dfs],[dp] |   |
 | 2582 | [Pass the Pillow](./problems/2500-2599/2582/README.md)                                                                 | :o:    | Easy   | [math],[lgc]                                                |      |
 | 2583 | [Kth Largest Sum in a Binary Tree](./problems/2500-2599/2583/README.md)                                                | :o:    | Medium | [tr],[bfs]                                                  |      |
 | 2584 | [Split the Array to Make Coprime Products](./problems/2500-2599/2584/README.md)                                        | :o:    | Hard   | [math],[grd]                                                |      |

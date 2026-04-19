@@ -2025,7 +2025,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](./problems/1900-1999/1984/README.md)                       | :o:    | Easy   | [arr],[sd]                                                  |      |
 | 1985 | [Find the Kth Largest Integer in the Array](./problems/1900-1999/1985/README.md)                                       | :o:    | Medium | [arr],[str]                                                 |      |
 | 1986 | [Minimum Number of Work Sessions to Finish the Tasks](./problems/1900-1999/1986/README.md) | :o: | Medium | [dp] |   |
-| 1987 | [Number of Unique Good Subsequences](./problems/1900-1999/1987/README.md)                                              |        | Hard   |                                                             |      |
+| 1987 | [Number of Unique Good Subsequences](./problems/1900-1999/1987/README.md) | :o: | Hard | [dp] |   |
 | 1988 | [Find Cutoff Score for Each School](./problems/1900-1999/1988/README.md)                                               | :lock: | Medium |                                                             |      |
 | 1989 | [Maximum Number of People That Can Be Caught in Tag](./problems/1900-1999/1989/README.md)                              | :lock: | Medium |                                                             |      |
 | 1990 | [Count the Number of Experiments](./problems/1900-1999/1990/README.md)                                                 | :lock: | Medium |                                                             |      |

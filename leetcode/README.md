@@ -2655,7 +2655,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2614 | [Prime In Diagonal](./problems/2600-2699/2614/README.md)                                                               | :o:    | Easy   | [arr],[math]                                                |      |
 | 2615 | [Sum of Distances](./problems/2600-2699/2615/README.md)                                                                | :o:    | Medium | [arr],[hsh]                                                 |      |
 | 2616 | [Minimize the Maximum Difference of Pairs](./problems/2600-2699/2616/README.md)                                        | :o:    | Medium | [arr],[bs],[greedy]                                         | :+1: |
-| 2617 | [Minimum Number of Visited Cells in a Grid](./problems/2600-2699/2617/README.md)                                       |        | Hard   |                                                             |      |
+| 2617 | [Minimum Number of Visited Cells in a Grid](./problems/2600-2699/2617/README.md) | :o: | Hard | [bfs],[grd] |   |
 | 2618 | [2618](./problems/2600-2699/2618/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2619 | [2619](./problems/2600-2699/2619/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2620 | [2620](./problems/2600-2699/2620/README.md)                                                                            |        | Easy   |                                                             |      |

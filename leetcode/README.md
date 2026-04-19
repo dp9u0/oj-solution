@@ -2478,7 +2478,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2437 | [Number of Valid Clock Times](./problems/2400-2499/2437/README.md)                                                     | :o:    | Easy   | [str],[lgc]                                                 |      |
 | 2438 | [Range Product Queries of Powers](./problems/2400-2499/2438/README.md) | :o: | Medium | [bit],[math] |   |
 | 2439 | [Minimize Maximum of Array](./problems/2400-2499/2439/README.md)                                                       | :o:    | Medium | [arr],[grd]                                                 |      |
-| 2440 | [Create Components With Same Value](./problems/2400-2499/2440/README.md)                                               |        | Hard   |                                                             |      |
+| 2440 | [Create Components With Same Value](./problems/2400-2499/2440/README.md) | :o: | Hard | [tr],[dfs] |   |
 | 2441 | [Largest Positive Integer That Exists With Its Negative](./problems/2400-2499/2441/README.md)                          | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2442 | [Count Number of Distinct Integers After Reverse Operations](./problems/2400-2499/2442/README.md)                      | :o:    | Medium | [arr],[hsh]                                                 |      |
 | 2443 | [Sum of Number and Its Reverse](./problems/2400-2499/2443/README.md) | :o: | Medium | [math] |   |

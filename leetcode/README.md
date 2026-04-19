@@ -919,7 +919,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 842  | [Split Array into Fibonacci Sequence](./problems/800-899/842/README.md)                                                | :o:    | Medium | [bt]                                                        |      |
 | 843  | [Guess the Word](./problems/800-899/843/README.md)                                                                     | :o:    | Hard   | [str],[grd]                                                 |      |
 | 844  | [Backspace String Compare](./problems/800-899/844/README.md)                                                           | :o:    | Easy   | [str]                                                       |      |
-| 845  | [Longest Mountain in Array](./problems/800-899/845/README.md)                                                          |        | Medium |                                                             |      |
+| 845 | [Longest Mountain in Array](./problems/800-899/845/README.md) | :o: | Medium | [arr] | :+1:  |
 | 846  | [Hand of Straights](./problems/800-899/846/README.md)                                                                  | :o:    | Medium | [arr],[greedy]                                              | :+1: |
 | 847  | [Shortest Path Visiting All Nodes](./problems/800-899/847/README.md)                                                   |        | Hard   |                                                             |      |
 | 848  | [Shifting Letters](./problems/800-899/848/README.md)                                                                   | :o:    | Medium | [str],[arr]                                                 |      |

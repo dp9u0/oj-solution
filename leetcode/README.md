@@ -3751,3 +3751,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1782 | [Count Pairs Of Nodes](./problems/1700-1799/1782/README.md) | :o: | Hard | [arr],[grf] | :+1:  |
 | 3661 | [Maximum Walls Destroyed by Robots](./problems/3600-3699/3661/README.md) | :o: | Hard | [grf],[dp] | :+1:  |
 | 3399 | [Smallest Substring With Identical Characters II](./problems/3300-3399/3399/README.md) | :o: | Hard | [bs],[str] | :+1:  |
+| 3699 | [Number of ZigZag Arrays I](./problems/3600-3699/3699/README.md) | :o: | Hard | [dp] |   |

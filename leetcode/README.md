@@ -940,7 +940,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 863  | [All Nodes Distance K in Binary Tree](./problems/800-899/863/README.md)                                                | :o:    | Medium | [tr],[bfs]                                                  | :+1: |
 | 864  | [Shortest Path to Get All Keys](./problems/800-899/864/README.md)                                                      |        | Hard   |                                                             |      |
 | 865  | [Smallest Subtree with all the Deepest Nodes](./problems/800-899/865/README.md)                                        | :o:    | Medium | [tr],[dfs]                                                  |      |
-| 866  | [Prime Palindrome](./problems/800-899/866/README.md)                                                                   |        | Medium |                                                             |      |
+| 866 | [Prime Palindrome](./problems/800-899/866/README.md) | :o: | Medium | [math] | :+1:  |
 | 867  | [Transpose Matrix](./problems/800-899/867/README.md)                                                                   | :o:    | Easy   | [arr]                                                       |      |
 | 868  | [Binary Gap](./problems/800-899/868/README.md)                                                                         | :o:    | Easy   | [bit]                                                       |      |
 | 869  | [Reordered Power of 2](./problems/800-899/869/README.md)                                                               | :o:    | Medium | [math]                                                      |      |

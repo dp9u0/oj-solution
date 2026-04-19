@@ -1017,7 +1017,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 940 | [Distinct Subsequences II](./problems/900-999/940/README.md) | :o: | Hard | [dp],[str] | :+1:  |
 | 941  | [Valid Mountain Array](./problems/900-999/941/README.md)                                                               | :o:    | Easy   | [tp]                                                        |      |
 | 942  | [DI String Match](./problems/900-999/942/README.md)                                                                    | :o:    | Easy   | [tp]                                                        |      |
-| 943  | [Find the Shortest Superstring](./problems/900-999/943/README.md)                                                      |        | Hard   |                                                             |      |
+| 943 | [Find the Shortest Superstring](./problems/900-999/943/README.md) | :o: | Hard | [dp],[str] | :+1:  |
 | 944  | [Delete Columns to Make Sorted](./problems/900-999/944/README.md)                                                      | :o:    | Easy   | [str]                                                       |      |
 | 945  | [Minimum Increment to Make Array Unique](./problems/900-999/945/README.md)                                             | :o:    | Medium | [arr]                                                       |      |
 | 946  | [Validate Stack Sequences](./problems/900-999/946/README.md)                                                           | :o:    | Medium | [arr],[stack]                                               |      |

@@ -3087,7 +3087,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3046 | [Split the Array](./problems/3000-3099/3046/README.md)                                                                 | :o:    | Easy   | [arr],[hash]                                                |      |
 | 3047 | [Find the Largest Area of Square Inside Two Rectangles](./problems/3000-3099/3047/README.md)                           |        | Medium |                                                             |      |
 | 3048 | [Earliest Second to Mark Indices I](./problems/3000-3099/3048/README.md)                                               |        | Medium |                                                             |      |
-| 3049 | [Earliest Second to Mark Indices II](./problems/3000-3099/3049/README.md)                                              |        | Hard   |                                                             |      |
+| 3049 | [Earliest Second to Mark Indices II](./problems/3000-3099/3049/README.md) | :o: | Hard | [grd] |   |
 | 3050 | [Pizza Toppings Cost Analysis](./problems/3000-3099/3050/README.md)                                                    | :lock: | Medium |                                                             |      |
 | 3051 | [Find Candidates for Data Scientist Position](./problems/3000-3099/3051/README.md)                                     | :lock: | Easy   |                                                             |      |
 | 3052 | [Maximize Items](./problems/3000-3099/3052/README.md)                                                                  | :lock: | Hard   |                                                             |      |

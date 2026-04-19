@@ -3795,3 +3795,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3666 | [Minimum Operations to Equalize Binary String](./problems/3600-3699/3666/README.md) | :o: | Hard | [math] |   |
 | 3878 | [Count Good Subarrays](./problems/3800-3899/3878/README.md) | :o: | Hard | [bit] | :+1:  |
 | 3864 | [Minimum Cost to Partition a Binary String](./problems/3800-3899/3864/README.md) | :o: | Hard | [dp],[dc] |   |
+| 3395 | [Subsequences with a Unique Middle Mode I](./problems/3300-3399/3395/README.md) | :o: | Hard | [math],[dp] |   |

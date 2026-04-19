@@ -560,7 +560,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 478  | [Generate Random Point in a Circle](./problems/400-499/478/README.md)                                                  |        | Medium |                                                             |      |
 | 479  | [Largest Palindrome Product](./problems/400-499/479/README.md)                                                         | :o:    | Easy   | [math]                                                      | :-1: |
 | 480  | [Sliding Window Median](./problems/400-499/480/README.md)                                                              |        | Hard   |                                                             |      |
-| 481  | [Magical String](./problems/400-499/481/README.md)                                                                     |        | Medium |                                                             |      |
+| 481 | [Magical String](./problems/400-499/481/README.md) | :o: | Medium | [str],[tp] |   |
 | 482  | [License Key Formatting](./problems/400-499/482/README.md)                                                             |        | Easy   |                                                             |      |
 | 483  | [Smallest Good Base](./problems/400-499/483/README.md)                                                                 |        | Hard   |                                                             |      |
 | 484  | [Find Permutation](./problems/400-499/484/README.md)                                                                   | :lock: | Medium |                                                             |      |

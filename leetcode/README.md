@@ -741,7 +741,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 664  | [Strange Printer](./problems/600-699/664/README.md)                                                                    | :o:    | Hard   | [dp]                                                        | :+1: |
 | 665  | [Non-decreasing Array](./problems/600-699/665/README.md)                                                               | :o:    | Easy   | [arr]                                                       |      |
 | 666  | [Path Sum IV](./problems/600-699/666/README.md)                                                                        | :lock: | Medium |                                                             |      |
-| 667  | [Beautiful Arrangement II](./problems/600-699/667/README.md)                                                           |        | Medium |                                                             |      |
+| 667 | [Beautiful Arrangement II](./problems/600-699/667/README.md) | :o: | Medium | [arr] |   |
 | 668  | [Kth Smallest Number in Multiplication Table](./problems/600-699/668/README.md)                                        |        | Hard   |                                                             |      |
 | 669  | [Trim a Binary Search Tree](./problems/600-699/669/README.md)                                                          | :o:    | Easy   | [tr]                                                        |      |
 | 670  | [Maximum Swap](./problems/600-699/670/README.md)                                                                       | :o:    | Medium | [arr]                                                       |      |

@@ -2430,7 +2430,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2389 | [Longest Subsequence With Limited Sum](./problems/2300-2399/2389/README.md)                                            | :o:    | Easy   | [arr],[bs]                                                  |      |
 | 2390 | [Removing Stars From a String](./problems/2300-2399/2390/README.md)                                                    | :o:    | Medium | [str],[stack]                                               | :+1: |
 | 2391 | [Minimum Amount of Time to Collect Garbage](./problems/2300-2399/2391/README.md)                                       |        | Medium |                                                             |      |
-| 2392 | [Build a Matrix With Conditions](./problems/2300-2399/2392/README.md)                                                  |        | Hard   |                                                             |      |
+| 2392 | [Build a Matrix With Conditions](./problems/2300-2399/2392/README.md) | :o: | Hard | [grf] |   |
 | 2393 | [Count Strictly Increasing Subarrays](./problems/2300-2399/2393/README.md)                                             | :lock: | Medium |                                                             |      |
 | 2394 | [Employees With Deductions](./problems/2300-2399/2394/README.md)                                                       | :lock: | Medium |                                                             |      |
 | 2395 | [Find Subarrays With Equal Sum](./problems/2300-2399/2395/README.md)                                                   |        | Easy   |                                                             |      |

@@ -703,7 +703,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 626  | [Exchange Seats](./problems/600-699/626/README.md)                                                                     | :soon: | Medium | [sql]                                                       |      |
 | 627  | [Swap Salary](./problems/600-699/627/README.md)                                                                        | :soon: | Easy   | [sql]                                                       |      |
 | 628  | [Maximum Product of Three Numbers](./problems/600-699/628/README.md)                                                   | :o:    | Easy   | [math]                                                      |      |
-| 629  | [K Inverse Pairs Array](./problems/600-699/629/README.md)                                                              |        | Hard   |                                                             |      |
+| 629 | [K Inverse Pairs Array](./problems/600-699/629/README.md) | :o: | Hard | [dp] | :+1:  |
 | 630  | [Course Schedule III](./problems/600-699/630/README.md)                                                                | :o:    | Hard   | [grd],[hp]                                                  | :+1: |
 | 631  | [Design Excel Sum Formula](./problems/600-699/631/README.md)                                                           | :lock: | Hard   |                                                             |      |
 | 632  | [Smallest Range](./problems/600-699/632/README.md)                                                                     |        | Hard   |                                                             |      |

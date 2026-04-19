@@ -1070,7 +1070,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 993  | [Cousins in Binary Tree](./problems/900-999/993/README.md)                                                             | :o:    | Easy   | [tr]                                                        |      |
 | 994  | [Rotting Oranges](./problems/900-999/994/README.md)                                                                    | :o:    | Medium | [arr]                                                       |      |
 | 995  | [Minimum Number of K Consecutive Bit Flips](./problems/900-999/995/README.md)                                          |        | Hard   |                                                             |      |
-| 996  | [Number of Squareful Arrays](./problems/900-999/996/README.md)                                                         |        | Hard   |                                                             |      |
+| 996 | [Number of Squareful Arrays](./problems/900-999/996/README.md) | :o: | Hard | [bt] |   |
 | 997  | [Find the Town Judge](./problems/900-999/997/README.md)                                                                | :o:    | Easy   | [hsh]                                                       |      |
 | 998  | [Maximum Binary Tree II](./problems/900-999/998/README.md)                                                             | :o:    | Medium | [tr],[stk]                                                  |      |
 | 999  | [Available Captures for Rook](./problems/900-999/999/README.md)                                                        | :o:    | Easy   | [arr]                                                       |      |

@@ -830,7 +830,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 753 | [Cracking the Safe](./problems/700-799/753/README.md) | :o: | Hard | [math],[dfs] | :+1:  |
 | 754  | [Reach a Number](./problems/700-799/754/README.md)                                                                     | :o:    | Easy   | [math]                                                      |      |
 | 755  | [Pour Water](./problems/700-799/755/README.md)                                                                         | :lock: | Medium |                                                             |      |
-| 756  | [Pyramid Transition Matrix](./problems/700-799/756/README.md)                                                          |        | Medium |                                                             |      |
+| 756 | [Pyramid Transition Matrix](./problems/700-799/756/README.md) | :o: | Medium | [dfs] |   |
 | 757  | [Set Intersection Size At Least Two](./problems/700-799/757/README.md)                                                 |        | Hard   |                                                             |      |
 | 758  | [Bold Words in String](./problems/700-799/758/README.md)                                                               | :lock: | Easy   |                                                             |      |
 | 759  | [Employee Free Time](./problems/700-799/759/README.md)                                                                 | :lock: | Hard   |                                                             |      |

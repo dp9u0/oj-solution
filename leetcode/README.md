@@ -844,7 +844,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 767  | [Reorganize String](./problems/700-799/767/README.md)                                                                  | :o:    | Medium | [str],[greedy]                                              | :+1: |
 | 768  | [Max Chunks To Make Sorted II](./problems/700-799/768/README.md)                                                       |        | Hard   |                                                             |      |
 | 769  | [Max Chunks To Make Sorted](./problems/700-799/769/README.md)                                                          | :o:    | Medium | [arr],[greedy]                                              | :+1: |
-| 770  | [Basic Calculator IV](./problems/700-799/770/README.md)                                                                |        | Hard   |                                                             |      |
+| 770 | [Basic Calculator IV](./problems/700-799/770/README.md) | :o: | Hard | [str],[math] |   |
 | 771  | [Jewels and Stones](./problems/700-799/771/README.md)                                                                  | :o:    | Easy   | [hsh]                                                       |      |
 | 772  | [Basic Calculator III](./problems/700-799/772/README.md)                                                               | :lock: | Hard   |                                                             |      |
 | 773  | [Sliding Puzzle](./problems/700-799/773/README.md)                                                                     |        | Hard   |                                                             |      |

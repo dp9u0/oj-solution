@@ -899,7 +899,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 822  | [Card Flipping Game](./problems/800-899/822/README.md)                                                                 | :o:    | Medium | [hash]                                                      |      |
 | 823  | [Binary Trees With Factors](./problems/800-899/823/README.md)                                                          | :o:    | Medium | [dp]                                                        |      |
 | 824  | [Goat Latin](./problems/800-899/824/README.md)                                                                         | :o:    | Easy   | [str]                                                       |      |
-| 825  | [Friends Of Appropriate Ages](./problems/800-899/825/README.md)                                                        |        | Medium |                                                             |      |
+| 825 | [Friends Of Appropriate Ages](./problems/800-899/825/README.md) | :o: | Medium | [arr],[math] |   |
 | 826  | [Most Profit Assigning Work](./problems/800-899/826/README.md)                                                         | :o:    | Medium | [arr],[grd]                                                 |      |
 | 827  | [Making A Large Island](./problems/800-899/827/README.md)                                                              |        | Hard   |                                                             |      |
 | 828  | [Unique Letter String](./problems/800-899/828/README.md)                                                               | :o:    | Hard   | [str]                                                       |      |

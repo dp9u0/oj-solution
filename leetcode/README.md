@@ -1275,7 +1275,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1200 | [Minimum Absolute Difference](./problems/1200-1299/1200/README.md)                                                     |        | Easy   |                                                             |      |
 | 1201 | [Ugly Number III](./problems/1200-1299/1201/README.md)                                                                 | :o:    | Medium | [bs],[math]                                                 |      |
 | 1202 | [Smallest String With Swaps](./problems/1200-1299/1202/README.md)                                                      | :o:    | Medium | [str],[uf]                                                  | :+1: |
-| 1203 | [Sort Items by Groups Respecting Dependencies](./problems/1200-1299/1203/README.md)                                    |        | Hard   |                                                             |      |
+| 1203 | [Sort Items by Groups Respecting Dependencies](./problems/1200-1299/1203/README.md) | :o: | Hard | [grf] |   |
 | 1204 | [Last Person to Fit in the Elevator](./problems/1200-1299/1204/README.md)                                              | :lock: | Medium |                                                             |      |
 | 1205 | [Monthly Transactions II](./problems/1200-1299/1205/README.md)                                                         | :lock: | Medium |                                                             |      |
 | 1206 | [Design Skiplist](./problems/1200-1299/1206/README.md)                                                                 | :o:    | Hard   | [des],[ds]                                                  |      |

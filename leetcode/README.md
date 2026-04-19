@@ -3168,7 +3168,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3127 | [Make a Square with the Same Color](./problems/3100-3199/3127/README.md) | :o: | Easy | [lgc] |   |
 | 3128 | [Right Triangles](./problems/3100-3199/3128/README.md)                                                                 | :o:    | Medium | [hash]                                                      |      |
 | 3129 | [Find All Possible Stable Binary Arrays I](./problems/3100-3199/3129/README.md)                                        | :o:    | Medium | [dp]                                                        |      |
-| 3130 | [Find All Possible Stable Binary Arrays II](./problems/3100-3199/3130/README.md)                                       |        | Hard   |                                                             |      |
+| 3130 | [Find All Possible Stable Binary Arrays II](./problems/3100-3199/3130/README.md) | :o: | Hard | [dp] |   |
 | 3131 | [Find the Integer Added to Array I](./problems/3100-3199/3131/README.md)                                               | :o:    | Easy   | [arr],[math]                                                |      |
 | 3132 | [Find the Integer Added to Array II](./problems/3100-3199/3132/README.md)                                              | :o:    | Medium | [arr],[grd]                                                 |      |
 | 3133 | [Minimum Array End](./problems/3100-3199/3133/README.md) | :o: | Medium | [bit] |   |

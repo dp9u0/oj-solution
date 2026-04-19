@@ -2575,7 +2575,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2534 | [Time Taken to Cross the Door](./problems/2500-2599/2534/README.md)                                                    | :lock: | Hard   |                                                             |      |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](./problems/2500-2599/2535/README.md)                        | :o:    | Easy   | [arr],[math]                                                |      |
 | 2536 | [Increment Submatrices by One](./problems/2500-2599/2536/README.md)                                                    | :o:    | Medium | [arr]                                                       |      |
-| 2537 | [Count the Number of Good Subarrays](./problems/2500-2599/2537/README.md)                                              |        | Medium |                                                             |      |
+| 2537 | [Count the Number of Good Subarrays](./problems/2500-2599/2537/README.md) | :o: | Medium | [sd],[hsh] | :+1:  |
 | 2538 | [Difference Between Maximum and Minimum Price Sum](./problems/2500-2599/2538/README.md)                                |        | Hard   |                                                             |      |
 | 2539 | [Count the Number of Good Subsequences](./problems/2500-2599/2539/README.md)                                           | :lock: | Medium |                                                             |      |
 | 2540 | [Minimum Common Value](./problems/2500-2599/2540/README.md) | :o: | Easy | [tp] |   |

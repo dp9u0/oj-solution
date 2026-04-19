@@ -3151,7 +3151,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3110 | [Score of a String](./problems/3100-3199/3110/README.md)                                                               | :o:    | Easy   | [str]                                                       |      |
 | 3111 | [Minimum Rectangles to Cover Points](./problems/3100-3199/3111/README.md)                                              | :o:    | Medium | [arr],[grd]                                                 |      |
 | 3112 | [Minimum Time to Visit Disappearing Nodes](./problems/3100-3199/3112/README.md)                                        | :o:    | Medium | [arr],[bfs],[heap]                                          |      |
-| 3113 | [Find the Number of Subarrays Where Boundary Elements Are Maximum](./problems/3100-3199/3113/README.md)                |        | Hard   |                                                             |      |
+| 3113 | [Find the Number of Subarrays Where Boundary Elements Are Maximum](./problems/3100-3199/3113/README.md) | :o: | Hard | [arr],[stk] | :+1:  |
 | 3114 | [Latest Time You Can Obtain After Replacing Characters](./problems/3100-3199/3114/README.md)                           | :o:    | Easy   | [str],[lgc]                                                 |      |
 | 3115 | [Maximum Prime Difference](./problems/3100-3199/3115/README.md)                                                        | :o:    | Medium | [arr],[math]                                                |      |
 | 3116 | [Kth Smallest Amount With Single Denomination Combination](./problems/3100-3199/3116/README.md) | :o: | Hard | [bs],[math] |   |

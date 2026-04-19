@@ -1252,7 +1252,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1175 | [Prime Arrangements](./problems/1100-1199/1175/README.md) | :o: | Easy | [math] |   |
 | 1176 | [Diet Plan Performance](./problems/1100-1199/1176/README.md)                                                           | :lock: | Easy   |                                                             |      |
 | 1177 | [Can Make Palindrome from Substring](./problems/1100-1199/1177/README.md)                                              | :o:    | Medium | [bit],[hash]                                                |      |
-| 1178 | [Number of Valid Words for Each Puzzle](./problems/1100-1199/1178/README.md)                                           |        | Hard   |                                                             |      |
+| 1178 | [Number of Valid Words for Each Puzzle](./problems/1100-1199/1178/README.md) | :o: | Hard | [bit],[hsh] | :+1:  |
 | 1179 | [Reformat Department Table](./problems/1100-1199/1179/README.md)                                                       | :soon: | Easy   |                                                             |      |
 | 1180 | [Count Substrings with Only One Distinct Letter](./problems/1100-1199/1180/README.md)                                  | :lock: | Easy   |                                                             |      |
 | 1181 | [Before and After Puzzle](./problems/1100-1199/1181/README.md)                                                         | :lock: | Medium |                                                             |      |

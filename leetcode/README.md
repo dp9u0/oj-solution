@@ -762,7 +762,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 685  | [Redundant Connection II](./problems/600-699/685/README.md)                                                            | :o:    | Hard   | [ds],[grf]                                                  | :+1: |
 | 686  | [Repeated String Match](./problems/600-699/686/README.md)                                                              | :o:    | Easy   | [str]                                                       |      |
 | 687  | [Longest Univalue Path](./problems/600-699/687/README.md)                                                              | :o:    | Easy   | [tr]                                                        |      |
-| 688  | [Knight Probability in Chessboard](./problems/600-699/688/README.md)                                                   |        | Medium |                                                             |      |
+| 688 | [Knight Probability in Chessboard](./problems/600-699/688/README.md) | :o: | Medium | [dp] |   |
 | 689 | [Maximum Sum of 3 Non-Overlapping Subarrays](./problems/600-699/689/README.md) | :o: | Hard | [arr],[dp] | :+1:  |
 | 690  | [Employee Importance](./problems/600-699/690/README.md)                                                                | :o:    | Easy   | [hsh]                                                       |      |
 | 691  | [Stickers to Spell Word](./problems/600-699/691/README.md)                                                             | :o:    | Hard   | [dp],[bit]                                                  |      |

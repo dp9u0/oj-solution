@@ -3792,3 +3792,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3891 | [Minimum Increase to Maximize Special Indices](./problems/3800-3899/3891/README.md) | :o: | Medium | [dp] | :+1:  |
 | 3745 | [Maximize Expression of Three Elements](./problems/3700-3799/3745/README.md) | :o: | Easy | [arr] |   |
 | 3738 | [Longest Non-Decreasing Subarray After Replacing at Most One Element](./problems/3700-3799/3738/README.md) | :o: | Medium | [dp] | :+1:  |
+| 3666 | [Minimum Operations to Equalize Binary String](./problems/3600-3699/3666/README.md) | :o: | Hard | [math] |   |

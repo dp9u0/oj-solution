@@ -775,7 +775,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 698  | [Partition to K Equal Sum Subsets](./problems/600-699/698/README.md)                                                   | :o:    | Medium | [arr],[dp],[bit]                                            | :+1: |
 | 699  | [Falling Squares](./problems/600-699/699/README.md)                                                                    |        | Hard   |                                                             |      |
 | 700  | [Search in a Binary Search Tree](./problems/700-799/700/README.md)                                                     | :o:    | Easy   | [tr]                                                        |      |
-| 701  | [Insert into a Binary Search Tree](./problems/700-799/701/README.md)                                                   |        | Medium |                                                             |      |
+| 701 | [Insert into a Binary Search Tree](./problems/700-799/701/README.md) | :o: | Medium | [tr] |   |
 | 702  | [Search in a Sorted Array of Unknown Size](./problems/700-799/702/README.md)                                           | :lock: | Medium |                                                             |      |
 | 703  | [Kth Largest Element in a Stream](./problems/700-799/703/README.md)                                                    | :o:    | Easy   | [des]                                                       |      |
 | 704  | [Binary Search](./problems/700-799/704/README.md)                                                                      | :o:    | Easy   | [bs]                                                        |      |

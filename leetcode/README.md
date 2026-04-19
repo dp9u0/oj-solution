@@ -3115,7 +3115,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3074 | [Apple Redistribution into Boxes](./problems/3000-3099/3074/README.md)                                                 | :o:    | Easy   | [arr],[grd]                                                 |      |
 | 3075 | [Maximize Happiness of Selected Children](./problems/3000-3099/3075/README.md)                                         | :o:    | Medium | [arr],[greedy]                                              |      |
 | 3076 | [Shortest Uncommon Substring in an Array](./problems/3000-3099/3076/README.md) | :o: | Medium | [str] |   |
-| 3077 | [Maximum Strength of K Disjoint Subarrays](./problems/3000-3099/3077/README.md)                                        |        | Hard   |                                                             |      |
+| 3077 | [Maximum Strength of K Disjoint Subarrays](./problems/3000-3099/3077/README.md) | :o: | Hard | [dp],[arr] |   |
 | 3078 | [Match Alphanumerical Pattern in Matrix I](./problems/3000-3099/3078/README.md)                                        | :lock: | Medium |                                                             |      |
 | 3079 | [Find the Sum of Encrypted Integers](./problems/3000-3099/3079/README.md) | :o: | Easy | [math] |   |
 | 3080 | [Mark Elements on Array by Performing Queries](./problems/3000-3099/3080/README.md) | :o: | Medium | [arr],[hp] |   |

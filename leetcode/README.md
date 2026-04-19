@@ -3765,3 +3765,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](./problems/3800-3899/3892/README.md) | :o: | Hard | [dp] |   |
 | 3563 | [Lexicographically Smallest String After Adjacent Removals](./problems/3500-3599/3563/README.md) | :o: | Hard | [dp],[str] |   |
 | 3826 | [Minimum Partition Score](./problems/3800-3899/3826/README.md) | :o: | Hard | [dp] | :+1:  |
+| 1766 | [Tree of Coprimes](./problems/1700-1799/1766/README.md) | :o: | Hard | [tr],[dfs] | :+1:  |

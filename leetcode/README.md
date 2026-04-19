@@ -810,7 +810,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 733  | [Flood Fill](./problems/700-799/733/README.md)                                                                         | :o:    | Easy   | [bfs]                                                       |      |
 | 734  | [Sentence Similarity](./problems/700-799/734/README.md)                                                                | :lock: | Easy   |                                                             |      |
 | 735  | [Asteroid Collision](./problems/700-799/735/README.md)                                                                 | :o:    | Medium | [arr],[stack]                                               | :+1: |
-| 736  | [Parse Lisp Expression](./problems/700-799/736/README.md)                                                              |        | Hard   |                                                             |      |
+| 736 | [Parse Lisp Expression](./problems/700-799/736/README.md) | :o: | Hard | [stk] |   |
 | 737  | [Sentence Similarity II](./problems/700-799/737/README.md)                                                             | :lock: | Medium |                                                             |      |
 | 738  | [Monotone Increasing Digits](./problems/700-799/738/README.md)                                                         | :o:    | Medium | [greedy]                                                    |      |
 | 739  | [Daily Temperatures](./problems/700-799/739/README.md)                                                                 | :o:    | Medium | [stack]                                                     | :+1: |

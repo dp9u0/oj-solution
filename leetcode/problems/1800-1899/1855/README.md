@@ -47,15 +47,13 @@ Both nums1 and nums2 are non-increasing.
 
 ```
 
-## 中文翻译
+## 翻译
 
-给定两个非递增数组 nums1 和 nums2，找满足 i <= j 且 nums1[i] <= nums2[j] 的最大 j - i。
+给定两个非递增数组 nums1 和 nums2，找最大的 j - i 使得 i <= j 且 nums1[i] <= nums2[j]。
 
 ## 解题思路
 
-双指针。i 遍历 nums1，j 从 i 开始向右扩展 nums2，找到最远的 j 使得 nums2[j] >= nums1[i]。由于两个数组都是非递增的，j 不需要回退，可以单调递增。
-
-时间复杂度：O(m + n)，空间复杂度：O(1)
+双指针。对每个 i，向右扩展 j（保持 nums2[j] >= nums1[i]），因为 i 增大时 nums1[i] 减小，j 只会右移不会回退。O(n+m)。
 
 ## Solution
 

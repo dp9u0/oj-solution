@@ -1074,7 +1074,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 997  | [Find the Town Judge](./problems/900-999/997/README.md)                                                                | :o:    | Easy   | [hsh]                                                       |      |
 | 998  | [Maximum Binary Tree II](./problems/900-999/998/README.md)                                                             | :o:    | Medium | [tr],[stk]                                                  |      |
 | 999  | [Available Captures for Rook](./problems/900-999/999/README.md)                                                        | :o:    | Easy   | [arr]                                                       |      |
-| 1000 | [Minimum Cost to Merge Stones](./problems/1000-1099/1000/README.md)                                                    |        | Hard   |                                                             |      |
+| 1000 | [Minimum Cost to Merge Stones](./problems/1000-1099/1000/README.md) | :o: | Hard | [dp] | :+1:  |
 | 1001 | [Grid Illumination](./problems/1000-1099/1001/README.md)                                                               | :o:    | Hard   | [hsh]                                                       |      |
 | 1002 | [Find Common Characters](./problems/1000-1099/1002/README.md)                                                          | :o:    | Easy   | [[hsh]]                                                     |      |
 | 1003 | [Check If Word Is Valid After Substitutions](./problems/1000-1099/1003/README.md) | :o: | Medium | [str],[stk] |   |
@@ -1265,7 +1265,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1189 | [Maximum Number of Balloons](./problems/1100-1199/1189/README.md) | :o: | Easy | [hsh],[str] |   |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./problems/1100-1199/1190/README.md) | :o: | Medium | [str],[stk] |   |
 | 1191 | [K-Concatenation Maximum Sum](./problems/1100-1199/1191/README.md) | :o: | Medium | [arr],[dp] |   |
-| 1192 | [Critical Connections in a Network](./problems/1100-1199/1192/README.md)                                               |        | Hard   |                                                             |      |
+| 1192 | [Critical Connections in a Network](./problems/1100-1199/1192/README.md) | :o: | Hard | [grf],[dfs] |   |
 | 1193 | [Monthly Transactions I](./problems/1100-1199/1193/README.md)                                                          | :lock: | Medium |                                                             |      |
 | 1194 | [Tournament Winners](./problems/1100-1199/1194/README.md)                                                              | :lock: | Hard   |                                                             |      |
 | 1196 | [How Many Apples Can You Put into the Basket](./problems/1100-1199/1196/README.md)                                     | :lock: | Easy   |                                                             |      |
@@ -1275,7 +1275,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1200 | [Minimum Absolute Difference](./problems/1200-1299/1200/README.md) | :o: | Easy | [arr],[bs] |   |
 | 1201 | [Ugly Number III](./problems/1200-1299/1201/README.md)                                                                 | :o:    | Medium | [bs],[math]                                                 |      |
 | 1202 | [Smallest String With Swaps](./problems/1200-1299/1202/README.md)                                                      | :o:    | Medium | [str],[uf]                                                  | :+1: |
-| 1203 | [Sort Items by Groups Respecting Dependencies](./problems/1200-1299/1203/README.md)                                    |        | Hard   |                                                             |      |
+| 1203 | [Sort Items by Groups Respecting Dependencies](./problems/1200-1299/1203/README.md) | :o: | Hard | [grf] |   |
 | 1204 | [Last Person to Fit in the Elevator](./problems/1200-1299/1204/README.md)                                              | :lock: | Medium |                                                             |      |
 | 1205 | [Monthly Transactions II](./problems/1200-1299/1205/README.md)                                                         | :lock: | Medium |                                                             |      |
 | 1206 | [Design Skiplist](./problems/1200-1299/1206/README.md)                                                                 | :o:    | Hard   | [des],[ds]                                                  |      |
@@ -1312,7 +1312,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1237 | [Find Positive Integer Solution for a Given Equation](./problems/1200-1299/1237/README.md)                             | :o:    | Medium | [tp],[math]                                                 |      |
 | 1238 | [Circular Permutation in Binary Representation](./problems/1200-1299/1238/README.md)                                   | :o:    | Medium | [bit]                                                       |      |
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](./problems/1200-1299/1239/README.md) | :o: | Medium | [bit],[bt] | :+1:  |
-| 1240 | [Tiling a Rectangle with the Fewest Squares](./problems/1200-1299/1240/README.md)                                      |        | Hard   |                                                             |      |
+| 1240 | [Tiling a Rectangle with the Fewest Squares](./problems/1200-1299/1240/README.md) | :o: | Hard | [bt] | :+1:  |
 | 1241 | [Number of Comments per Post](./problems/1200-1299/1241/README.md)                                                     | :lock: | Easy   |                                                             |      |
 | 1242 | [1242](./problems/1200-1299/1242/README.md)                                                                            |        | Easy   |                                                             |      |
 | 1243 | [Array Transformation](./problems/1200-1299/1243/README.md)                                                            | :lock: | Easy   |                                                             |      |
@@ -1388,7 +1388,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1313 | [Decompress Run-Length Encoded List](./problems/1300-1399/1313/README.md)                                              | :o:    | Easy   | [arr]                                                       |      |
 | 1314 | [Matrix Block Sum](./problems/1300-1399/1314/README.md)                                                                | :o:    | Medium | [arr],[dp]                                                  |      |
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](./problems/1300-1399/1315/README.md)                                       | :o:    | Medium | [tr],[dfs]                                                  |      |
-| 1316 | [Distinct Echo Substrings](./problems/1300-1399/1316/README.md)                                                        |        | Hard   |                                                             |      |
+| 1316 | [Distinct Echo Substrings](./problems/1300-1399/1316/README.md) | :o: | Hard | [str],[hsh] |   |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](./problems/1300-1399/1317/README.md)                              | :o:    | Easy   | [math],[lgc]                                                |      |
 | 1318 | [Minimum Flips to Make a OR b Equal to c](./problems/1300-1399/1318/README.md)                                         | :o:    | Medium | [bit]                                                       |      |
 | 1319 | [Number of Operations to Make Network Connected](./problems/1300-1399/1319/README.md)                                  | :o:    | Medium | [graph],[bfs]                                               | :+1: |
@@ -1398,7 +1398,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1323 | [Maximum 69 Number](./problems/1300-1399/1323/README.md)                                                               | :o:    | Easy   | [arr]                                                       |      |
 | 1324 | [Print Words Vertically](./problems/1300-1399/1324/README.md) | :o: | Medium | [str] |   |
 | 1325 | [Delete Leaves With a Given Value](./problems/1300-1399/1325/README.md)                                                | :o:    | Medium | [tr]                                                        |      |
-| 1326 | [Minimum Number of Taps to Open to Water a Garden](./problems/1300-1399/1326/README.md)                                |        | Hard   |                                                             |      |
+| 1326 | [Minimum Number of Taps to Open to Water a Garden](./problems/1300-1399/1326/README.md) | :o: | Hard | [grd] | :+1:  |
 | 1327 | [List the Products Ordered in a Period](./problems/1300-1399/1327/README.md)                                           | :lock: | Easy   |                                                             |      |
 | 1328 | [Break a Palindrome](./problems/1300-1399/1328/README.md)                                                              | :o:    | Medium | [str],[greedy]                                              |      |
 | 1329 | [Sort the Matrix Diagonally](./problems/1300-1399/1329/README.md)                                                      | :o:    | Medium | [arr],[sort]                                                |      |
@@ -1407,7 +1407,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1332 | [Remove Palindromic Subsequences](./problems/1300-1399/1332/README.md) | :o: | Easy | [str],[lgc] | :+1:  |
 | 1333 | [Filter Restaurants by Vegan-Friendly, Price and Distance](./problems/1300-1399/1333/README.md) | :o: | Medium | [arr] |   |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./problems/1300-1399/1334/README.md)     | :o:    | Medium | [grf]                                                       |      |
-| 1335 | [Minimum Difficulty of a Job Schedule](./problems/1300-1399/1335/README.md)                                            |        | Hard   |                                                             |      |
+| 1335 | [Minimum Difficulty of a Job Schedule](./problems/1300-1399/1335/README.md) | :o: | Hard | [dp] | :+1:  |
 | 1336 | [Number of Transactions per Visit](./problems/1300-1399/1336/README.md)                                                | :lock: | Hard   |                                                             |      |
 | 1337 | [The K Weakest Rows in a Matrix](./problems/1300-1399/1337/README.md)                                                  | :o:    | Easy   | [arr]                                                       |      |
 | 1338 | [Reduce Array Size to The Half](./problems/1300-1399/1338/README.md)                                                   | :o:    | Medium | [hsh],[grd]                                                 |      |
@@ -1445,7 +1445,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1370 | [Increasing Decreasing String](./problems/1300-1399/1370/README.md)                                                    | :o:    | Easy   | [str]                                                       |      |
 | 1371 | [Find the Longest Substring Containing Vowels in Even Counts](./problems/1300-1399/1371/README.md)                     | :o:    | Medium | [str],[bit]                                                 | :+1: |
 | 1372 | [Longest ZigZag Path in a Binary Tree](./problems/1300-1399/1372/README.md)                                            | :o:    | Medium | [tr],[dfs]                                                  |      |
-| 1373 | [Maximum Sum BST in Binary Tree](./problems/1300-1399/1373/README.md)                                                  |        | Hard   |                                                             |      |
+| 1373 | [Maximum Sum BST in Binary Tree](./problems/1300-1399/1373/README.md) | :o: | Hard | [tr],[dfs] | :+1:  |
 | 1374 | [Generate a String With Characters That Have Odd Counts](./problems/1300-1399/1374/README.md)                          | :o:    | Easy   | [str],[lgc]                                                 |      |
 | 1375 | [Bulb Switcher III](./problems/1300-1399/1375/README.md)                                                               | :o:    | Medium | [arr]                                                       |      |
 | 1376 | [Time Needed to Inform All Employees](./problems/1300-1399/1376/README.md)                                             | :o:    | Medium | [tr],[dfs]                                                  |      |
@@ -1460,7 +1460,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1385 | [Find the Distance Value Between Two Arrays](./problems/1300-1399/1385/README.md) | :o: | Easy | [arr],[bs] |   |
 | 1386 | [Cinema Seat Allocation](./problems/1300-1399/1386/README.md)                                                          | :o:    | Medium | [hsh],[bit]                                                 |      |
 | 1387 | [Sort Integers by The Power Value](./problems/1300-1399/1387/README.md)                                                | :o:    | Medium | [math],[dc]                                                 |      |
-| 1388 | [Pizza With 3n Slices](./problems/1300-1399/1388/README.md)                                                            |        | Hard   |                                                             |      |
+| 1388 | [Pizza With 3n Slices](./problems/1300-1399/1388/README.md) | :o: | Hard | [dp] | :+1:  |
 | 1389 | [Create Target Array in the Given Order](./problems/1300-1399/1389/README.md)                                          | :o:    | Easy   | [arr]                                                       |      |
 | 1390 | [Four Divisors](./problems/1300-1399/1390/README.md)                                                                   | :o:    | Medium | [math]                                                      |      |
 | 1391 | [Check if There is a Valid Path in a Grid](./problems/1300-1399/1391/README.md) | :o: | Medium | [bfs],[grf] |   |
@@ -1469,7 +1469,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1394 | [Find Lucky Integer in an Array](./problems/1300-1399/1394/README.md)                                                  | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 1395 | [Count Number of Teams](./problems/1300-1399/1395/README.md)                                                           | :o:    | Medium | [arr]                                                       |      |
 | 1396 | [Design Underground System](./problems/1300-1399/1396/README.md)                                                       | :o:    | Medium | [des],[hsh]                                                 |      |
-| 1397 | [Find All Good Strings](./problems/1300-1399/1397/README.md)                                                           |        | Hard   |                                                             |      |
+| 1397 | [Find All Good Strings](./problems/1300-1399/1397/README.md) | :o: | Hard | [dp],[str] | :+1:  |
 | 1398 | [Customers Who Bought Products A and B but Not C](./problems/1300-1399/1398/README.md)                                 | :lock: | Medium |                                                             |      |
 | 1399 | [Count Largest Group](./problems/1300-1399/1399/README.md)                                                             | :o:    | Easy   | [arr]                                                       |      |
 | 1400 | [Construct K Palindrome Strings](./problems/1400-1499/1400/README.md)                                                  | :o:    | Medium | [arr]                                                       |      |
@@ -1478,7 +1478,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1403 | [Minimum Subsequence in Non-Increasing Order](./problems/1400-1499/1403/README.md) | :o: | Easy | [arr],[grd] |   |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](./problems/1400-1499/1404/README.md)              | :o:    | Medium | [str],[lgc]                                                 |      |
 | 1405 | [Longest Happy String](./problems/1400-1499/1405/README.md)                                                            | :o:    | Medium | [greedy],[str]                                              |      |
-| 1406 | [Stone Game III](./problems/1400-1499/1406/README.md)                                                                  |        | Hard   |                                                             |      |
+| 1406 | [Stone Game III](./problems/1400-1499/1406/README.md) | :o: | Hard | [dp] |   |
 | 1407 | [Top Travellers](./problems/1400-1499/1407/README.md)                                                                  | :lock: | Easy   |                                                             |      |
 | 1408 | [String Matching in an Array](./problems/1400-1499/1408/README.md)                                                     | :o:    | Easy   | [str]                                                       |      |
 | 1409 | [Queries on a Permutation With Key](./problems/1400-1499/1409/README.md)                                               | :o:    | Medium | [arr]                                                       |      |
@@ -1516,16 +1516,16 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1441 | [Build an Array With Stack Operations](./problems/1400-1499/1441/README.md) | :o: | Medium | [arr],[stk] |   |
 | 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](./problems/1400-1499/1442/README.md)                            | :o:    | Medium | [arr],[bit],[prefix]                                        |      |
 | 1443 | [Minimum Time to Collect All Apples in a Tree](./problems/1400-1499/1443/README.md) | :o: | Medium | [tr],[dfs] |   |
-| 1444 | [Number of Ways of Cutting a Pizza](./problems/1400-1499/1444/README.md)                                               |        | Hard   |                                                             |      |
+| 1444 | [Number of Ways of Cutting a Pizza](./problems/1400-1499/1444/README.md) | :o: | Hard | [dp] | :+1:  |
 | 1445 | [Apples & Oranges](./problems/1400-1499/1445/README.md)                                                                | :lock: | Medium |                                                             |      |
 | 1446 | [Consecutive Characters](./problems/1400-1499/1446/README.md) | :o: | Easy | [str] |   |
 | 1447 | [Simplified Fractions](./problems/1400-1499/1447/README.md)                                                            | :o:    | Medium | [math]                                                      |      |
 | 1448 | [Count Good Nodes in Binary Tree](./problems/1400-1499/1448/README.md)                                                 | :o:    | Medium | [tr],[dfs]                                                  |      |
-| 1449 | [Form Largest Integer With Digits That Add up to Target](./problems/1400-1499/1449/README.md)                          |        | Hard   |                                                             |      |
+| 1449 | [Form Largest Integer With Digits That Add up to Target](./problems/1400-1499/1449/README.md) | :o: | Hard | [dp] |   |
 | 1450 | [Number of Students Doing Homework at a Given Time](./problems/1400-1499/1450/README.md)                               | :o:    | Easy   | [arr]                                                       |      |
 | 1451 | [Rearrange Words in a Sentence](./problems/1400-1499/1451/README.md)                                                   | :o:    | Medium | [str]                                                       |      |
 | 1452 | [People Whose List of Favorite Companies Is Not a Subset of Another List](./problems/1400-1499/1452/README.md) | :o: | Medium | [hsh],[arr] |   |
-| 1453 | [Maximum Number of Darts Inside of a Circular Dartboard](./problems/1400-1499/1453/README.md)                          |        | Hard   |                                                             |      |
+| 1453 | [Maximum Number of Darts Inside of a Circular Dartboard](./problems/1400-1499/1453/README.md) | :o: | Hard | [math],[grd] |   |
 | 1454 | [Active Users](./problems/1400-1499/1454/README.md)                                                                    | :lock: | Medium |                                                             |      |
 | 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](./problems/1400-1499/1455/README.md)                    | :o:    | Easy   | [str]                                                       |      |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./problems/1400-1499/1456/README.md)                         | :o:    | Medium | [str],[tp]                                                  |      |
@@ -1535,7 +1535,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1460 | [Make Two Arrays Equal by Reversing Sub-arrays](./problems/1400-1499/1460/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 1461 | [Check If a String Contains All Binary Codes of Size K](./problems/1400-1499/1461/README.md)                           | :o:    | Medium | [arr],[hash]                                                |      |
 | 1462 | [Course Schedule IV](./problems/1400-1499/1462/README.md)                                                              | :o:    | Medium | [grf]                                                       |      |
-| 1463 | [Cherry Pickup II](./problems/1400-1499/1463/README.md)                                                                |        | Hard   |                                                             |      |
+| 1463 | [Cherry Pickup II](./problems/1400-1499/1463/README.md) | :o: | Hard | [dp] | :+1:  |
 | 1464 | [Maximum Product of Two Elements in an Array](./problems/1400-1499/1464/README.md)                                     | :o:    | Easy   | [arr]                                                       |      |
 | 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](./problems/1400-1499/1465/README.md)              | :o:    | Medium | [arr],[sort]                                                |      |
 | 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](./problems/1400-1499/1466/README.md)                          | :o:    | Medium | [graph],[bfs]                                               |      |
@@ -1550,7 +1550,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1475 | [Final Prices With a Special Discount in a Shop](./problems/1400-1499/1475/README.md)                                  | :o:    | Easy   | [arr],[stack]                                               |      |
 | 1476 | [Subrectangle Queries](./problems/1400-1499/1476/README.md)                                                            | :o:    | Medium | [des],[arr]                                                 |      |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](./problems/1400-1499/1477/README.md) | :o: | Medium | [arr],[sd] | :+1:  |
-| 1478 | [Allocate Mailboxes](./problems/1400-1499/1478/README.md)                                                              |        | Hard   |                                                             |      |
+| 1478 | [Allocate Mailboxes](./problems/1400-1499/1478/README.md) | :o: | Hard | [dp] | :+1:  |
 | 1479 | [Sales by Day of the Week](./problems/1400-1499/1479/README.md)                                                        | :lock: | Hard   |                                                             |      |
 | 1480 | [Running Sum of 1d Array](./problems/1400-1499/1480/README.md)                                                         | :o:    | Easy   | [arr]                                                       |      |
 | 1481 | [Least Number of Unique Integers after K Removals](./problems/1400-1499/1481/README.md)                                | :o:    | Medium | [arr],[greedy]                                              |      |
@@ -1566,7 +1566,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](./problems/1400-1499/1491/README.md)                         | :o:    | Easy   | [arr]                                                       |      |
 | 1492 | [The kth Factor of n](./problems/1400-1499/1492/README.md)                                                             | :o:    | Medium | [math]                                                      |      |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](./problems/1400-1499/1493/README.md)                              | :o:    | Medium | [arr],[tp]                                                  |      |
-| 1494 | [Parallel Courses II](./problems/1400-1499/1494/README.md)                                                             |        | Hard   |                                                             |      |
+| 1494 | [Parallel Courses II](./problems/1400-1499/1494/README.md) | :o: | Hard | [dp],[bit] | :+1:  |
 | 1495 | [Friendly Movies Streamed Last Month](./problems/1400-1499/1495/README.md)                                             | :lock: | Easy   |                                                             |      |
 | 1496 | [Path Crossing](./problems/1400-1499/1496/README.md)                                                                   | :o:    | Easy   | [hsh]                                                       |      |
 | 1497 | [Check If Array Pairs Are Divisible by k](./problems/1400-1499/1497/README.md)                                         | :o:    | Medium | [arr],[hsh]                                                 |      |
@@ -1603,7 +1603,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1528 | [Shuffle String](./problems/1500-1599/1528/README.md)                                                                  | :o:    | Easy   | [str],[arr]                                                 |      |
 | 1529 | [Bulb Switcher IV](./problems/1500-1599/1529/README.md)                                                                | :o:    | Medium | [str],[greedy]                                              |      |
 | 1530 | [Number of Good Leaf Nodes Pairs](./problems/1500-1599/1530/README.md)                                                 | :o:    | Medium | [tr],[dfs]                                                  |      |
-| 1531 | [String Compression II](./problems/1500-1599/1531/README.md)                                                           |        | Hard   |                                                             |      |
+| 1531 | [String Compression II](./problems/1500-1599/1531/README.md) | :o: | Hard | [dp],[str] | :+1:  |
 | 1532 | [The Most Recent Three Orders](./problems/1500-1599/1532/README.md)                                                    | :lock: | Medium |                                                             |      |
 | 1533 | [Find the Index of the Large Integer](./problems/1500-1599/1533/README.md)                                             | :lock: | Medium |                                                             |      |
 | 1534 | [Count Good Triplets](./problems/1500-1599/1534/README.md)                                                             | :o:    | Easy   | [arr]                                                       |      |
@@ -1641,7 +1641,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1566 | [Detect Pattern of Length M Repeated K or More Times](./problems/1500-1599/1566/README.md)                             | :o:    | Easy   | [arr]                                                       |      |
 | 1567 | [Maximum Length of Subarray With Positive Product](./problems/1500-1599/1567/README.md)                                | :o:    | Medium | [arr],[dp]                                                  |      |
 | 1568 | [Minimum Number of Days to Disconnect Island](./problems/1500-1599/1568/README.md) | :o: | Hard | [grf] |   |
-| 1569 | [Number of Ways to Reorder Array to Get Same BST](./problems/1500-1599/1569/README.md)                                 |        | Hard   |                                                             |      |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](./problems/1500-1599/1569/README.md) | :o: | Hard | [tr],[math] |   |
 | 1570 | [Dot Product of Two Sparse Vectors](./problems/1500-1599/1570/README.md)                                               | :lock: | Medium |                                                             |      |
 | 1571 | [Warehouse Manager](./problems/1500-1599/1571/README.md)                                                               | :lock: | Easy   |                                                             |      |
 | 1572 | [Matrix Diagonal Sum](./problems/1500-1599/1572/README.md) | :o: | Easy | [arr],[math] |   |
@@ -1678,7 +1678,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1603 | [Design Parking System](./problems/1600-1699/1603/README.md) | :o: | Easy | [des] |   |
 | 1604 | [Alert Using Same Key-Card Three or More Times in a One Hour Period](./problems/1600-1699/1604/README.md) | :o: | Medium | [hsh],[sd] |   |
 | 1605 | [Find Valid Matrix Given Row and Column Sums](./problems/1600-1699/1605/README.md)                                     | :o:    | Medium | [grd],[arr]                                                 |      |
-| 1606 | [Find Servers That Handled Most Number of Requests](./problems/1600-1699/1606/README.md)                               |        | Hard   |                                                             |      |
+| 1606 | [Find Servers That Handled Most Number of Requests](./problems/1600-1699/1606/README.md) | :o: | Hard | [hp],[ds] | :+1:  |
 | 1607 | [Sellers With No Sales](./problems/1600-1699/1607/README.md)                                                           | :lock: | Easy   |                                                             |      |
 | 1608 | [Special Array With X Elements Greater Than or Equal X](./problems/1600-1699/1608/README.md)                           | :o:    | Easy   | [arr],[bs]                                                  |      |
 | 1609 | [Even Odd Tree](./problems/1600-1699/1609/README.md)                                                                   | :o:    | Medium | [tr],[bfs]                                                  |      |
@@ -1704,7 +1704,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1629 | [Slowest Key](./problems/1600-1699/1629/README.md)                                                                     | :o:    | Easy   | [arr]                                                       |      |
 | 1630 | [Arithmetic Subarrays](./problems/1600-1699/1630/README.md)                                                            | :o:    | Medium | [arr],[sort]                                                |      |
 | 1631 | [Path With Minimum Effort](./problems/1600-1699/1631/README.md)                                                        | :o:    | Medium | [bfs],[bs]                                                  |      |
-| 1632 | [1632](./problems/1600-1699/1632/README.md)                                                                            |        | Easy   |                                                             |      |
+| 1632 | [1632](./problems/1600-1699/1632/README.md) | :o: | Hard | [ds] |   |
 | 1633 | [Percentage of Users Attended a Contest](./problems/1600-1699/1633/README.md)                                          | :lock: | Easy   |                                                             |      |
 | 1634 | [Add Two Polynomials Represented as Linked Lists](./problems/1600-1699/1634/README.md)                                 | :lock: | Medium |                                                             |      |
 | 1635 | [Hopper Company Queries I](./problems/1600-1699/1635/README.md)                                                        | :lock: | Hard   |                                                             |      |
@@ -1721,7 +1721,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1646 | [Get Maximum in Generated Array](./problems/1600-1699/1646/README.md) | :o: | Easy | [arr] |   |
 | 1647 | [Minimum Deletions to Make Character Frequencies Unique](./problems/1600-1699/1647/README.md)                          | :o:    | Medium | [str],[grd],[hsh]                                           |      |
 | 1648 | [Sell Diminishing-Valued Colored Balls](./problems/1600-1699/1648/README.md) | :o: | Medium | [bs],[grd] | :+1:  |
-| 1649 | [Create Sorted Array through Instructions](./problems/1600-1699/1649/README.md)                                        |        | Hard   |                                                             |      |
+| 1649 | [Create Sorted Array through Instructions](./problems/1600-1699/1649/README.md) | :o: | Hard | [arr],[bt] | :+1:  |
 | 1650 | [Lowest Common Ancestor of a Binary Tree III](./problems/1600-1699/1650/README.md)                                     | :lock: | Medium |                                                             |      |
 | 1651 | [Hopper Company Queries III](./problems/1600-1699/1651/README.md)                                                      | :lock: | Hard   |                                                             |      |
 | 1652 | [Defuse the Bomb](./problems/1600-1699/1652/README.md)                                                                 | :o:    | Easy   | [arr],[sd]                                                  |      |
@@ -1731,7 +1731,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1656 | [Design an Ordered Stream](./problems/1600-1699/1656/README.md)                                                        | :o:    | Easy   | [des],[arr]                                                 |      |
 | 1657 | [Determine if Two Strings Are Close](./problems/1600-1699/1657/README.md)                                              | :o:    | Medium | [hash],[str]                                                |      |
 | 1658 | [Minimum Operations to Reduce X to Zero](./problems/1600-1699/1658/README.md)                                          | :o:    | Medium | [arr],[tp]                                                  | :+1: |
-| 1659 | [Maximize Grid Happiness](./problems/1600-1699/1659/README.md)                                                         |        | Hard   |                                                             |      |
+| 1659 | [Maximize Grid Happiness](./problems/1600-1699/1659/README.md) | :o: | Hard | [dp],[bit] |   |
 | 1660 | [Correct a Binary Tree](./problems/1600-1699/1660/README.md)                                                           | :lock: | Medium |                                                             |      |
 | 1661 | [Average Time of Process per Machine](./problems/1600-1699/1661/README.md)                                             | :lock: | Easy   |                                                             |      |
 | 1662 | [Check If Two String Arrays are Equivalent](./problems/1600-1699/1662/README.md) | :o: | Easy | [str] |   |
@@ -1763,19 +1763,19 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1688 | [Count of Matches in Tournament](./problems/1600-1699/1688/README.md)                                                  | :o:    | Easy   | [arr],[math]                                                |      |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](./problems/1600-1699/1689/README.md)                         | :o:    | Medium | [greedy]                                                    |      |
 | 1690 | [Stone Game VII](./problems/1600-1699/1690/README.md)                                                                  | :o:    | Medium | [dp],[arr]                                                  | :+1: |
-| 1691 | [1691](./problems/1600-1699/1691/README.md)                                                                            |        | Easy   |                                                             |      |
+| 1691 | [1691](./problems/1600-1699/1691/README.md) | :o: | Hard | [dp],[grd] |   |
 | 1692 | [Count Ways to Distribute Candies](./problems/1600-1699/1692/README.md)                                                | :lock: | Hard   |                                                             |      |
 | 1693 | [Daily Leads and Partners](./problems/1600-1699/1693/README.md)                                                        | :lock: | Easy   |                                                             |      |
 | 1694 | [Reformat Phone Number](./problems/1600-1699/1694/README.md) | :o: | Easy | [str] |   |
 | 1695 | [Maximum Erasure Value](./problems/1600-1699/1695/README.md)                                                           | :o:    | Medium | [arr],[tp]                                                  | :+1: |
 | 1696 | [Jump Game VI](./problems/1600-1699/1696/README.md)                                                                    | :o:    | Medium | [dp],[queue]                                                | :+1: |
-| 1697 | [Checking Existence of Edge Length Limited Paths](./problems/1600-1699/1697/README.md)                                 |        | Hard   |                                                             |      |
+| 1697 | [Checking Existence of Edge Length Limited Paths](./problems/1600-1699/1697/README.md) | :o: | Hard | [ds],[grf] | :+1:  |
 | 1698 | [Number of Distinct Substrings in a String](./problems/1600-1699/1698/README.md)                                       | :lock: | Medium |                                                             |      |
 | 1699 | [Number of Calls Between Two Persons](./problems/1600-1699/1699/README.md)                                             | :lock: | Medium |                                                             |      |
 | 1700 | [Number of Students Unable to Eat Lunch](./problems/1700-1799/1700/README.md)                                          | :o:    | Easy   | [arr],[queue]                                               |      |
 | 1701 | [Average Waiting Time](./problems/1700-1799/1701/README.md)                                                            | :o:    | Medium | [arr],[lgc]                                                 |      |
 | 1702 | [Maximum Binary String After Change](./problems/1700-1799/1702/README.md) | :o: | Medium | [str],[grd] | :+1:  |
-| 1703 | [Minimum Adjacent Swaps for K Consecutive Ones](./problems/1700-1799/1703/README.md)                                   |        | Hard   |                                                             |      |
+| 1703 | [Minimum Adjacent Swaps for K Consecutive Ones](./problems/1700-1799/1703/README.md) | :o: | Hard | [dp],[math] | :+1:  |
 | 1704 | [Determine if String Halves Are Alike](./problems/1700-1799/1704/README.md) | :o: | Easy | [str] |   |
 | 1705 | [Maximum Number of Eaten Apples](./problems/1700-1799/1705/README.md)                                                  | :o:    | Medium | [hp],[grd]                                                  |      |
 | 1706 | [1706](./problems/1700-1799/1706/README.md)                                                                            | :o:    | Medium | [arr]                                                       |      |
@@ -1785,7 +1785,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1710 | [Maximum Units on a Truck](./problems/1700-1799/1710/README.md)                                                        | :o:    | Easy   | [arr],[greedy]                                              |      |
 | 1711 | [Count Good Meals](./problems/1700-1799/1711/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 1712 | [Ways to Split Array Into Three Subarrays](./problems/1700-1799/1712/README.md)                                        | :o:    | Medium | [arr],[bs]                                                  |      |
-| 1713 | [Minimum Operations to Make a Subsequence](./problems/1700-1799/1713/README.md)                                        |        | Hard   |                                                             |      |
+| 1713 | [Minimum Operations to Make a Subsequence](./problems/1700-1799/1713/README.md) | :o: | Hard | [dp] |   |
 | 1714 | [Sum Of Special Evenly-Spaced Elements In Array](./problems/1700-1799/1714/README.md)                                  | :lock: | Hard   |                                                             |      |
 | 1715 | [Count Apples and Oranges](./problems/1700-1799/1715/README.md)                                                        | :lock: | Medium |                                                             |      |
 | 1716 | [Calculate Money in Leetcode Bank](./problems/1700-1799/1716/README.md)                                                | :o:    | Easy   | [arr],[math]                                                |      |
@@ -1837,7 +1837,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1796 | [Second Largest Digit in a String](./problems/1700-1799/1796/README.md)                                                | :o:    | Easy   | [str]                                                       |      |
 | 1797 | [Design Authentication Manager](./problems/1700-1799/1797/README.md)                                                   | :o:    | Medium | [des],[hsh]                                                 |      |
 | 1798 | [Maximum Number of Consecutive Values You Can Make](./problems/1700-1799/1798/README.md) | :o: | Medium | [grd],[arr] |   |
-| 1799 | [Maximize Score After N Operations](./problems/1700-1799/1799/README.md)                                               |        | Hard   |                                                             |      |
+| 1799 | [Maximize Score After N Operations](./problems/1700-1799/1799/README.md) | :o: | Hard | [dp],[bit] |   |
 | 1800 | [Maximum Ascending Subarray Sum](./problems/1800-1899/1800/README.md)                                                  | :o:    | Easy   | [arr]                                                       |      |
 | 1801 | [Number of Orders in the Backlog](./problems/1800-1899/1801/README.md) | :o: | Medium | [hp],[grd] | :+1:  |
 | 1802 | [Maximum Value at a Given Index in a Bounded Array](./problems/1800-1899/1802/README.md)                               | :o:    | Medium | [bs],[grd]                                                  |      |
@@ -1868,7 +1868,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1827 | [Minimum Operations to Make the Array Increasing](./problems/1800-1899/1827/README.md) | :o: | Easy | [arr],[grd] |   |
 | 1828 | [Queries on Number of Points Inside a Circle](./problems/1800-1899/1828/README.md)                                     | :o:    | Medium | [math]                                                      |      |
 | 1829 | [Maximum XOR for Each Query](./problems/1800-1899/1829/README.md)                                                      | :o:    | Medium | [arr],[bit]                                                 |      |
-| 1830 | [Minimum Number of Operations to Make String Sorted](./problems/1800-1899/1830/README.md)                              |        | Hard   |                                                             |      |
+| 1830 | [Minimum Number of Operations to Make String Sorted](./problems/1800-1899/1830/README.md) | :o: | Hard | [math],[dp] | :+1:  |
 | 1831 | [Maximum Transaction Each Day](./problems/1800-1899/1831/README.md)                                                    | :lock: | Medium |                                                             |      |
 | 1832 | [Check if the Sentence Is Pangram](./problems/1800-1899/1832/README.md)                                                | :o:    | Easy   | [str],[hsh]                                                 |      |
 | 1833 | [Maximum Ice Cream Bars](./problems/1800-1899/1833/README.md)                                                          | :o:    | Medium | [arr],[greedy]                                              |      |
@@ -1885,22 +1885,22 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1844 | [Replace All Digits with Characters](./problems/1800-1899/1844/README.md) | :o: | Easy | [str] |   |
 | 1845 | [Seat Reservation Manager](./problems/1800-1899/1845/README.md) | :o: | Medium | [des],[ds],[hp] |   |
 | 1846 | [Maximum Element After Decreasing and Rearranging](./problems/1800-1899/1846/README.md)                                | :o:    | Medium | [grd]                                                       |      |
-| 1847 | [Closest Room](./problems/1800-1899/1847/README.md)                                                                    |        | Hard   |                                                             |      |
+| 1847 | [Closest Room](./problems/1800-1899/1847/README.md) | :o: | Hard | [arr],[bs] |   |
 | 1848 | [Minimum Distance to the Target Element](./problems/1800-1899/1848/README.md) | :o: | Easy | [arr] |   |
 | 1849 | [Splitting a String Into Descending Consecutive Values](./problems/1800-1899/1849/README.md)                           | :o:    | Medium | [bt]                                                        |      |
 | 1850 | [Minimum Adjacent Swaps to Reach the Kth Smallest Number](./problems/1800-1899/1850/README.md)                         | :o:    | Medium | [str],[grd]                                                 |      |
-| 1851 | [Minimum Interval to Include Each Query](./problems/1800-1899/1851/README.md)                                          |        | Hard   |                                                             |      |
+| 1851 | [Minimum Interval to Include Each Query](./problems/1800-1899/1851/README.md) | :o: | Hard | [hp],[bs] | :+1:  |
 | 1852 | [Distinct Numbers in Each Subarray](./problems/1800-1899/1852/README.md)                                               | :lock: | Medium |                                                             |      |
 | 1853 | [Convert Date Format](./problems/1800-1899/1853/README.md)                                                             | :lock: | Easy   |                                                             |      |
 | 1854 | [Maximum Population Year](./problems/1800-1899/1854/README.md)                                                         | :o:    | Easy   | [arr]                                                       |      |
-| 1855 | [Maximum Distance Between a Pair of Values](./problems/1800-1899/1855/README.md)                                       | :o:    | Medium | [arr],[tp]                                                  |      |
+| 1855 | [Maximum Distance Between a Pair of Values](./problems/1800-1899/1855/README.md) | :o: | Medium | [tp] |   |
 | 1856 | [Maximum Subarray Min-Product](./problems/1800-1899/1856/README.md)                                                    | :o:    | Medium | [arr],[stack]                                               |      |
-| 1857 | [Largest Color Value in a Directed Graph](./problems/1800-1899/1857/README.md)                                         |        | Hard   |                                                             |      |
+| 1857 | [Largest Color Value in a Directed Graph](./problems/1800-1899/1857/README.md) | :o: | Hard | [grf],[dp] | :+1:  |
 | 1858 | [Longest Word With All Prefixes](./problems/1800-1899/1858/README.md)                                                  | :lock: | Medium |                                                             |      |
 | 1859 | [Sorting the Sentence](./problems/1800-1899/1859/README.md)                                                            | :o:    | Easy   | [str]                                                       |      |
 | 1860 | [Incremental Memory Leak](./problems/1800-1899/1860/README.md) | :o: | Medium | [math] |   |
 | 1861 | [Rotating the Box](./problems/1800-1899/1861/README.md) | :o: | Medium | [arr] |   |
-| 1862 | [1862](./problems/1800-1899/1862/README.md)                                                                            |        | Easy   |                                                             |      |
+| 1862 | [1862](./problems/1800-1899/1862/README.md) | :o: | Hard | [arr],[math] | :+1:  |
 | 1863 | [Sum of All Subset XOR Totals](./problems/1800-1899/1863/README.md)                                                    | :o:    | Easy   | [bit]                                                       |      |
 | 1864 | [Minimum Number of Swaps to Make the Binary String Alternating](./problems/1800-1899/1864/README.md)                   | :o:    | Medium | [str],[lgc]                                                 |      |
 | 1865 | [Finding Pairs With a Certain Sum](./problems/1800-1899/1865/README.md)                                                | :o:    | Medium | [des],[hsh]                                                 |      |
@@ -1910,7 +1910,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1869 | [Longer Contiguous Segments of Ones than Zeros](./problems/1800-1899/1869/README.md) | :o: | Easy | [str] |   |
 | 1870 | [Minimum Speed to Arrive on Time](./problems/1800-1899/1870/README.md)                                                 | :o:    | Medium | [arr],[bs]                                                  |      |
 | 1871 | [Jump Game VII](./problems/1800-1899/1871/README.md)                                                                   | :o:    | Medium | [str],[dp]                                                  | :+1: |
-| 1872 | [Stone Game VIII](./problems/1800-1899/1872/README.md)                                                                 |        | Hard   |                                                             |      |
+| 1872 | [Stone Game VIII](./problems/1800-1899/1872/README.md) | :o: | Hard | [dp],[grd] |   |
 | 1873 | [Calculate Special Bonus](./problems/1800-1899/1873/README.md)                                                         | :lock: | Easy   |                                                             |      |
 | 1874 | [Minimize Product Sum of Two Arrays](./problems/1800-1899/1874/README.md)                                              | :lock: | Medium |                                                             |      |
 | 1875 | [Group Employees of the Same Salary](./problems/1800-1899/1875/README.md)                                              | :lock: | Medium |                                                             |      |
@@ -1921,7 +1921,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1880 | [Check if Word Equals Summation of Two Words](./problems/1800-1899/1880/README.md)                                     | :o:    | Easy   | [str],[math]                                                |      |
 | 1881 | [Maximum Value after Insertion](./problems/1800-1899/1881/README.md) | :o: | Medium | [grd],[str] |   |
 | 1882 | [Process Tasks Using Servers](./problems/1800-1899/1882/README.md) | :o: | Medium | [hp],[grd] | :+1:  |
-| 1883 | [Minimum Skips to Arrive at Meeting On Time](./problems/1800-1899/1883/README.md)                                      |        | Hard   |                                                             |      |
+| 1883 | [Minimum Skips to Arrive at Meeting On Time](./problems/1800-1899/1883/README.md) | :o: | Hard | [dp] | :+1:  |
 | 1884 | [Egg Drop With 2 Eggs and N Floors](./problems/1800-1899/1884/README.md) | :o: | Medium | [math] |   |
 | 1885 | [Count Pairs in Two Arrays](./problems/1800-1899/1885/README.md)                                                       | :lock: | Medium |                                                             |      |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](./problems/1800-1899/1886/README.md) | :o: | Easy | [arr] |   |
@@ -1938,7 +1938,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1897 | [Redistribute Characters to Make All Strings Equal](./problems/1800-1899/1897/README.md)                               | :o:    | Easy   | [arr],[hash]                                                |      |
 | 1898 | [Maximum Number of Removable Characters](./problems/1800-1899/1898/README.md)                                          | :o:    | Medium | [bs],[str]                                                  |      |
 | 1899 | [Merge Triplets to Form Target Triplet](./problems/1800-1899/1899/README.md)                                           | :o:    | Medium | [arr],[greedy]                                              |      |
-| 1900 | [The Earliest and Latest Rounds Where Players Compete](./problems/1900-1999/1900/README.md)                            |        | Hard   |                                                             |      |
+| 1900 | [The Earliest and Latest Rounds Where Players Compete](./problems/1900-1999/1900/README.md) | :o: | Hard | [dp] | :+1:  |
 | 1901 | [Find a Peak Element II](./problems/1900-1999/1901/README.md) | :o: | Medium | [arr],[bs] |   |
 | 1902 | [Depth of BST Given Insertion Order](./problems/1900-1999/1902/README.md)                                              | :lock: | Medium |                                                             |      |
 | 1903 | [Largest Odd Number in String](./problems/1900-1999/1903/README.md) | :o: | Easy | [str],[grd] |   |
@@ -2015,12 +2015,12 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1974 | [Minimum Time to Type Word Using Special Typewriter](./problems/1900-1999/1974/README.md)                              | :o:    | Easy   | [str]                                                       |      |
 | 1975 | [Maximum Matrix Sum](./problems/1900-1999/1975/README.md)                                                              | :o:    | Medium | [arr],[math],[grd]                                          |      |
 | 1976 | [Number of Ways to Arrive at Destination](./problems/1900-1999/1976/README.md)                                         | :o:    | Medium | [graph],[dijkstra]                                          |      |
-| 1977 | [Number of Ways to Separate Numbers](./problems/1900-1999/1977/README.md)                                              |        | Hard   |                                                             |      |
+| 1977 | [Number of Ways to Separate Numbers](./problems/1900-1999/1977/README.md) | :o: | Hard | [dp],[str] |   |
 | 1978 | [Employees Whose Manager Left the Company](./problems/1900-1999/1978/README.md)                                        | :lock: | Easy   |                                                             |      |
 | 1979 | [Find Greatest Common Divisor of Array](./problems/1900-1999/1979/README.md)                                           | :o:    | Easy   | [arr],[math]                                                |      |
 | 1980 | [Find Unique Binary String](./problems/1900-1999/1980/README.md)                                                       | :o:    | Medium | [arr],[bit]                                                 |      |
 | 1981 | [Minimize the Difference Between Target and Chosen Elements](./problems/1900-1999/1981/README.md) | :o: | Medium | [dp] |   |
-| 1982 | [Find Array Given Subset Sums](./problems/1900-1999/1982/README.md)                                                    |        | Hard   |                                                             |      |
+| 1982 | [Find Array Given Subset Sums](./problems/1900-1999/1982/README.md) | :o: | Hard | [arr],[bt] |   |
 | 1983 | [1983](./problems/1900-1999/1983/README.md)                                                                            |        | Easy   |                                                             |      |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](./problems/1900-1999/1984/README.md)                       | :o:    | Easy   | [arr],[sd]                                                  |      |
 | 1985 | [Find the Kth Largest Integer in the Array](./problems/1900-1999/1985/README.md)                                       | :o:    | Medium | [arr],[str]                                                 |      |
@@ -2041,7 +2041,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2000 | [Reverse Prefix of Word](./problems/2000-2099/2000/README.md)                                                          |        | Easy   |                                                             |      |
 | 2001 | [Number of Pairs of Interchangeable Rectangles](./problems/2000-2099/2001/README.md)                                   | :o:    | Medium | [math],[hsh]                                                |      |
 | 2002 | [Maximum Product of the Length of Two Palindromic Subsequences](./problems/2000-2099/2002/README.md) | :o: | Medium | [bit],[dp] | :+1:  |
-| 2003 | [Smallest Missing Genetic Value in Each Subtree](./problems/2000-2099/2003/README.md)                                  |        | Hard   |                                                             |      |
+| 2003 | [Smallest Missing Genetic Value in Each Subtree](./problems/2000-2099/2003/README.md) | :o: | Hard | [tr],[dfs] | :+1:  |
 | 2004 | [The Number of Seniors and Juniors to Join the Company](./problems/2000-2099/2004/README.md)                           | :lock: | Hard   |                                                             |      |
 | 2005 | [Subtree Removal Game with Fibonacci Tree](./problems/2000-2099/2005/README.md)                                        | :lock: | Hard   |                                                             |      |
 | 2006 | [Count Number of Pairs With Absolute Difference K](./problems/2000-2099/2006/README.md)                                | :o:    | Easy   | [arr],[hsh]                                                 |      |
@@ -2052,7 +2052,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2011 | [Final Value of Variable After Performing Operations](./problems/2000-2099/2011/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 2012 | [Sum of Beauty in the Array](./problems/2000-2099/2012/README.md)                                                      | :o:    | Medium | [arr]                                                       |      |
 | 2013 | [Detect Squares](./problems/2000-2099/2013/README.md)                                                                  | :o:    | Medium | [des],[hsh]                                                 |      |
-| 2014 | [Longest Subsequence Repeated k Times](./problems/2000-2099/2014/README.md)                                            |        | Hard   |                                                             |      |
+| 2014 | [Longest Subsequence Repeated k Times](./problems/2000-2099/2014/README.md) | :o: | Hard | [str],[dfs] | :+1:  |
 | 2015 | [Average Height of Buildings in Each Segment](./problems/2000-2099/2015/README.md)                                     | :lock: | Medium |                                                             |      |
 | 2016 | [Maximum Difference Between Increasing Elements](./problems/2000-2099/2016/README.md)                                  | :o:    | Easy   | [arr]                                                       |      |
 | 2017 | [Grid Game](./problems/2000-2099/2017/README.md)                                                                       | :o:    | Medium | [arr],[dp]                                                  |      |
@@ -2068,7 +2068,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2027 | [Minimum Moves to Convert String](./problems/2000-2099/2027/README.md)                                                 |        | Easy   |                                                             |      |
 | 2028 | [Find Missing Observations](./problems/2000-2099/2028/README.md)                                                       | :o:    | Medium | [arr]                                                       |      |
 | 2029 | [Stone Game IX](./problems/2000-2099/2029/README.md)                                                                   | :o:    | Medium | [math],[lgc]                                                |      |
-| 2030 | [Smallest K-Length Subsequence With Occurrences of a Letter](./problems/2000-2099/2030/README.md)                      |        | Hard   |                                                             |      |
+| 2030 | [Smallest K-Length Subsequence With Occurrences of a Letter](./problems/2000-2099/2030/README.md) | :o: | Hard | [stk],[str] | :+1:  |
 | 2031 | [2031](./problems/2000-2099/2031/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2032 | [Two Out of Three](./problems/2000-2099/2032/README.md)                                                                | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](./problems/2000-2099/2033/README.md)                                     | :o:    | Medium | [arr],[math]                                                |      |
@@ -2078,7 +2078,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2037 | [Minimum Number of Moves to Seat Everyone](./problems/2000-2099/2037/README.md)                                        | :o:    | Easy   | [arr],[sort]                                                |      |
 | 2038 | [Remove Colored Pieces if Both Neighbors are the Same Color](./problems/2000-2099/2038/README.md)                      | :o:    | Medium | [str],[greedy]                                              |      |
 | 2039 | [The Time When the Network Becomes Idle](./problems/2000-2099/2039/README.md)                                          | :o:    | Medium | [grf],[bfs],[math]                                          | :+1: |
-| 2040 | [Kth Smallest Product of Two Sorted Arrays](./problems/2000-2099/2040/README.md)                                       |        | Hard   |                                                             |      |
+| 2040 | [Kth Smallest Product of Two Sorted Arrays](./problems/2000-2099/2040/README.md) | :o: | Hard | [bs],[math] | :+1:  |
 | 2041 | [Accepted Candidates From the Interviews](./problems/2000-2099/2041/README.md)                                         | :lock: | Medium |                                                             |      |
 | 2042 | [Check if Numbers Are Ascending in a Sentence](./problems/2000-2099/2042/README.md) | :o: | Easy | [str] |   |
 | 2043 | [Simple Bank System](./problems/2000-2099/2043/README.md)                                                              | :o:    | Medium | [des]                                                       |      |
@@ -2088,7 +2088,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2047 | [Number of Valid Words in a Sentence](./problems/2000-2099/2047/README.md)                                             | :o:    | Easy   | [str]                                                       |      |
 | 2048 | [Next Greater Numerically Balanced Number](./problems/2000-2099/2048/README.md)                                        | :o:    | Medium | [bt]                                                        |      |
 | 2049 | [Count Nodes With the Highest Score](./problems/2000-2099/2049/README.md) | :o: | Medium | [tr],[dfs] |   |
-| 2050 | [Parallel Courses III](./problems/2000-2099/2050/README.md)                                                            |        | Hard   |                                                             |      |
+| 2050 | [Parallel Courses III](./problems/2000-2099/2050/README.md) | :o: | Hard | [grf],[dp] |   |
 | 2051 | [The Category of Each Member in the Store](./problems/2000-2099/2051/README.md)                                        | :lock: | Medium |                                                             |      |
 | 2052 | [Minimum Cost to Separate Sentence Into Rows](./problems/2000-2099/2052/README.md)                                     | :lock: | Medium |                                                             |      |
 | 2053 | [Kth Distinct String in an Array](./problems/2000-2099/2053/README.md)                                                 | :o:    | Easy   | [hsh],[str]                                                 |      |
@@ -2119,14 +2119,14 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2078 | [Two Furthest Houses With Different Colors](./problems/2000-2099/2078/README.md)                                       | :o:    | Easy   | [arr],[tp]                                                  |      |
 | 2079 | [2079](./problems/2000-2099/2079/README.md)                                                                            | :o:    | Medium | [arr],[lgc]                                                 |      |
 | 2080 | [2080](./problems/2000-2099/2080/README.md) | :o: | Medium | [des],[bs] |   |
-| 2081 | [Sum of k-Mirror Numbers](./problems/2000-2099/2081/README.md)                                                         |        | Hard   |                                                             |      |
+| 2081 | [Sum of k-Mirror Numbers](./problems/2000-2099/2081/README.md) | :o: | Hard | [math],[str] |   |
 | 2082 | [The Number of Rich Customers](./problems/2000-2099/2082/README.md)                                                    | :lock: | Easy   |                                                             |      |
 | 2083 | [Substrings That Begin and End With the Same Letter](./problems/2000-2099/2083/README.md)                              | :lock: | Medium |                                                             |      |
 | 2084 | [Drop Type 1 Orders for Customers With Type 0 Orders](./problems/2000-2099/2084/README.md)                             | :lock: | Medium |                                                             |      |
 | 2085 | [Count Common Words With One Occurrence](./problems/2000-2099/2085/README.md) | :o: | Easy | [hsh] |   |
 | 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](./problems/2000-2099/2086/README.md)                             | :o:    | Medium | [str],[grd]                                                 |      |
 | 2087 | [Minimum Cost Homecoming of a Robot in a Grid](./problems/2000-2099/2087/README.md)                                    | :o:    | Medium | [grd]                                                       |      |
-| 2088 | [Count Fertile Pyramids in a Land](./problems/2000-2099/2088/README.md)                                                |        | Hard   |                                                             |      |
+| 2088 | [Count Fertile Pyramids in a Land](./problems/2000-2099/2088/README.md) | :o: | Hard | [dp] | :+1:  |
 | 2089 | [Find Target Indices After Sorting Array](./problems/2000-2099/2089/README.md)                                         | :o:    | Easy   | [arr],[lgc]                                                 |      |
 | 2090 | [K Radius Subarray Averages](./problems/2000-2099/2090/README.md)                                                      | :o:    | Medium | [arr]                                                       |      |
 | 2091 | [Removing Minimum and Maximum From Array](./problems/2000-2099/2091/README.md)                                         | :o:    | Medium | [arr],[greedy]                                              |      |
@@ -2135,21 +2135,21 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2094 | [Finding 3-Digit Even Numbers](./problems/2000-2099/2094/README.md)                                                    | :o:    | Easy   | [arr]                                                       |      |
 | 2095 | [Delete the Middle Node of a Linked List](./problems/2000-2099/2095/README.md)                                         | :o:    | Medium | [ll],[tp]                                                   | :+1: |
 | 2096 | [Step-By-Step Directions From a Binary Tree Node to Another](./problems/2000-2099/2096/README.md)                      | :o:    | Medium | [tr]                                                        |      |
-| 2097 | [Valid Arrangement of Pairs](./problems/2000-2099/2097/README.md)                                                      |        | Hard   |                                                             |      |
+| 2097 | [Valid Arrangement of Pairs](./problems/2000-2099/2097/README.md) | :o: | Hard | [grf],[dfs] |   |
 | 2098 | [Subsequence of Size K With the Largest Even Sum](./problems/2000-2099/2098/README.md)                                 | :lock: | Medium |                                                             |      |
 | 2099 | [Find Subsequence of Length K With the Largest Sum](./problems/2000-2099/2099/README.md)                               | :o:    | Easy   | [arr],[grd]                                                 |      |
 | 2100 | [Find Good Days to Rob the Bank](./problems/2100-2199/2100/README.md)                                                  | :o:    | Medium | [arr],[dp]                                                  |      |
 | 2101 | [Detonate the Maximum Bombs](./problems/2100-2199/2101/README.md) | :o: | Medium | [grf],[bfs] |   |
-| 2102 | [Sequentially Ordinal Rank Tracker](./problems/2100-2199/2102/README.md)                                               |        | Hard   |                                                             |      |
+| 2102 | [Sequentially Ordinal Rank Tracker](./problems/2100-2199/2102/README.md) | :o: | Hard | [des],[bts] |   |
 | 2103 | [Rings and Rods](./problems/2100-2199/2103/README.md)                                                                  | :o:    | Easy   | [hsh],[bit]                                                 |      |
 | 2104 | [Sum of Subarray Ranges](./problems/2100-2199/2104/README.md)                                                          | :o:    | Medium | [arr],[stk]                                                 |      |
 | 2105 | [Watering Plants II](./problems/2100-2199/2105/README.md) | :o: | Medium | [tp] |   |
-| 2106 | [Maximum Fruits Harvested After at Most K Steps](./problems/2100-2199/2106/README.md)                                  |        | Hard   |                                                             |      |
+| 2106 | [Maximum Fruits Harvested After at Most K Steps](./problems/2100-2199/2106/README.md) | :o: | Hard | [sd],[tp] | :+1:  |
 | 2107 | [Number of Unique Flavors After Sharing K Candies](./problems/2100-2199/2107/README.md)                                | :lock: | Medium |                                                             |      |
 | 2108 | [Find First Palindromic String in the Array](./problems/2100-2199/2108/README.md)                                      | :o:    | Easy   | [arr]                                                       |      |
 | 2109 | [Adding Spaces to a String](./problems/2100-2199/2109/README.md)                                                       | :o:    | Medium | [str],[tp]                                                  |      |
 | 2110 | [Number of Smooth Descent Periods of a Stock](./problems/2100-2199/2110/README.md) | :o: | Medium | [dp],[arr] |   |
-| 2111 | [Minimum Operations to Make the Array K-Increasing](./problems/2100-2199/2111/README.md)                               |        | Hard   |                                                             |      |
+| 2111 | [Minimum Operations to Make the Array K-Increasing](./problems/2100-2199/2111/README.md) | :o: | Hard | [dp] | :+1:  |
 | 2112 | [The Airport With the Most Traffic](./problems/2100-2199/2112/README.md)                                               | :lock: | Medium |                                                             |      |
 | 2113 | [Elements in Array After Removing and Replacing Elements](./problems/2100-2199/2113/README.md)                         | :lock: | Medium |                                                             |      |
 | 2114 | [Maximum Number of Words Found in Sentences](./problems/2100-2199/2114/README.md)                                      | :o:    | Easy   | [str]                                                       |      |
@@ -2160,17 +2160,17 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2119 | [A Number After a Double Reversal](./problems/2100-2199/2119/README.md)                                                | :o:    | Easy   | [lgc]                                                       |      |
 | 2120 | [Execution of All Suffix Instructions Staying in a Grid](./problems/2100-2199/2120/README.md)                          | :o:    | Medium | [arr],[sim]                                                 |      |
 | 2121 | [Intervals Between Identical Elements](./problems/2100-2199/2121/README.md)                                            | :o:    | Medium | [arr],[hsh]                                                 |      |
-| 2122 | [Recover the Original Array](./problems/2100-2199/2122/README.md)                                                      |        | Hard   |                                                             |      |
+| 2122 | [Recover the Original Array](./problems/2100-2199/2122/README.md) | :o: | Hard | [arr] | :+1:  |
 | 2123 | [Minimum Operations to Remove Adjacent Ones in Matrix](./problems/2100-2199/2123/README.md)                            | :lock: | Hard   |                                                             |      |
 | 2124 | [Check if All A's Appears Before All B's](./problems/2100-2199/2124/README.md)                                         | :o:    | Easy   | [str]                                                       |      |
 | 2125 | [Number of Laser Beams in a Bank](./problems/2100-2199/2125/README.md)                                                 | :o:    | Medium | [arr],[math]                                                |      |
 | 2126 | [Destroying Asteroids](./problems/2100-2199/2126/README.md)                                                            | :o:    | Medium | [arr],[greedy]                                              |      |
-| 2127 | [Maximum Employees to Be Invited to a Meeting](./problems/2100-2199/2127/README.md)                                    |        | Hard   |                                                             |      |
+| 2127 | [Maximum Employees to Be Invited to a Meeting](./problems/2100-2199/2127/README.md) | :o: | Hard | [grf],[ds] | :+1:  |
 | 2128 | [Remove All Ones With Row and Column Flips](./problems/2100-2199/2128/README.md)                                       | :lock: | Medium |                                                             |      |
 | 2129 | [Capitalize the Title](./problems/2100-2199/2129/README.md) | :o: | Easy | [str] |   |
 | 2130 | [Maximum Twin Sum of a Linked List](./problems/2100-2199/2130/README.md)                                               | :o:    | Medium | [ll]                                                        |      |
 | 2131 | [Longest Palindrome by Concatenating Two Letter Words](./problems/2100-2199/2131/README.md)                            | :o:    | Medium | [str],[greedy]                                              |      |
-| 2132 | [Stamping the Grid](./problems/2100-2199/2132/README.md)                                                               |        | Hard   |                                                             |      |
+| 2132 | [Stamping the Grid](./problems/2100-2199/2132/README.md) | :o: | Hard | [arr] | :+1:  |
 | 2133 | [Check if Every Row and Column Contains All Numbers](./problems/2100-2199/2133/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 2134 | [Minimum Swaps to Group All 1's Together II](./problems/2100-2199/2134/README.md)                                      | :o:    | Medium | [arr],[tp]                                                  |      |
 | 2135 | [Count Words Obtained After Adding a Letter](./problems/2100-2199/2135/README.md) | :o: | Medium | [bit],[hsh],[str] | :+1:  |
@@ -2179,17 +2179,17 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2138 | [Divide a String Into Groups of Size k](./problems/2100-2199/2138/README.md) | :o: | Easy | [str] |   |
 | 2139 | [2139](./problems/2100-2199/2139/README.md)                                                                            | :o:    | Medium | [grd]                                                       |      |
 | 2140 | [Solving Questions With Brainpower](./problems/2100-2199/2140/README.md)                                               | :o:    | Medium | [dp]                                                        |      |
-| 2141 | [Maximum Running Time of N Computers](./problems/2100-2199/2141/README.md)                                             |        | Hard   |                                                             |      |
+| 2141 | [Maximum Running Time of N Computers](./problems/2100-2199/2141/README.md) | :o: | Hard | [bs],[grd] |   |
 | 2142 | [The Number of Passengers in Each Bus I](./problems/2100-2199/2142/README.md)                                          | :lock: | Medium |                                                             |      |
 | 2143 | [Choose Numbers From Two Arrays in Range](./problems/2100-2199/2143/README.md)                                         | :lock: | Hard   |                                                             |      |
 | 2144 | [Minimum Cost of Buying Candies With Discount](./problems/2100-2199/2144/README.md)                                    | :o:    | Easy   | [arr],[greedy]                                              |      |
 | 2145 | [Count the Hidden Sequences](./problems/2100-2199/2145/README.md)                                                      | :o:    | Medium | [arr]                                                       |      |
 | 2146 | [K Highest Ranked Items Within a Price Range](./problems/2100-2199/2146/README.md) | :o: | Medium | [bfs] |   |
-| 2147 | [Number of Ways to Divide a Long Corridor](./problems/2100-2199/2147/README.md)                                        |        | Hard   |                                                             |      |
+| 2147 | [Number of Ways to Divide a Long Corridor](./problems/2100-2199/2147/README.md) | :o: | Hard | [math] | :+1:  |
 | 2148 | [Count Elements With Strictly Smaller and Greater Elements](./problems/2100-2199/2148/README.md) | :o: | Easy | [arr] |   |
 | 2149 | [Rearrange Array Elements by Sign](./problems/2100-2199/2149/README.md)                                                | :o:    | Medium | [arr],[tp]                                                  |      |
 | 2150 | [Find All Lonely Numbers in the Array](./problems/2100-2199/2150/README.md)                                            | :o:    | Medium | [arr],[hsh]                                                 |      |
-| 2151 | [Maximum Good People Based on Statements](./problems/2100-2199/2151/README.md)                                         |        | Hard   |                                                             |      |
+| 2151 | [Maximum Good People Based on Statements](./problems/2100-2199/2151/README.md) | :o: | Hard | [bit],[lgc] |   |
 | 2152 | [Minimum Number of Lines to Cover Points](./problems/2100-2199/2152/README.md)                                         | :lock: | Medium |                                                             |      |
 | 2153 | [The Number of Passengers in Each Bus II](./problems/2100-2199/2153/README.md)                                         | :lock: | Hard   |                                                             |      |
 | 2154 | [Keep Multiplying Found Values by Two](./problems/2100-2199/2154/README.md)                                            | :o:    | Easy   | [arr],[hsh]                                                 |      |
@@ -2217,21 +2217,21 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2176 | [Count Equal and Divisible Pairs in an Array](./problems/2100-2199/2176/README.md) | :o: | Easy | [arr] |   |
 | 2177 | [Find Three Consecutive Integers That Sum to a Given Number](./problems/2100-2199/2177/README.md)                      | :o:    | Medium | [math]                                                      |      |
 | 2178 | [Maximum Split of Positive Even Integers](./problems/2100-2199/2178/README.md) | :o: | Medium | [math],[grd] |   |
-| 2179 | [Count Good Triplets in an Array](./problems/2100-2199/2179/README.md)                                                 |        | Hard   |                                                             |      |
+| 2179 | [Count Good Triplets in an Array](./problems/2100-2199/2179/README.md) | :o: | Hard | [arr],[ds] | :+1:  |
 | 2180 | [Count Integers With Even Digit Sum](./problems/2100-2199/2180/README.md) | :o: | Easy | [math] |   |
 | 2181 | [Merge Nodes in Between Zeros](./problems/2100-2199/2181/README.md)                                                    | :o:    | Medium | [ll]                                                        |      |
 | 2182 | [Construct String With Repeat Limit](./problems/2100-2199/2182/README.md)                                              | :o:    | Medium | [str],[greedy],[heap]                                       |      |
-| 2183 | [Count Array Pairs Divisible by K](./problems/2100-2199/2183/README.md)                                                |        | Hard   |                                                             |      |
+| 2183 | [Count Array Pairs Divisible by K](./problems/2100-2199/2183/README.md) | :o: | Hard | [math] |   |
 | 2184 | [Number of Ways to Build Sturdy Brick Wall](./problems/2100-2199/2184/README.md)                                       | :lock: | Medium |                                                             |      |
 | 2185 | [Counting Words With a Given Prefix](./problems/2100-2199/2185/README.md) | :o: | Easy | [str] |   |
 | 2186 | [Minimum Number of Steps to Make Two Strings Anagram II](./problems/2100-2199/2186/README.md)                          | :o:    | Medium | [hsh],[str]                                                 |      |
 | 2187 | [Minimum Time to Complete Trips](./problems/2100-2199/2187/README.md)                                                  | :o:    | Medium | [arr],[bs]                                                  |      |
-| 2188 | [Minimum Time to Finish the Race](./problems/2100-2199/2188/README.md)                                                 |        | Hard   |                                                             |      |
+| 2188 | [Minimum Time to Finish the Race](./problems/2100-2199/2188/README.md) | :o: | Hard | [dp],[math] |   |
 | 2189 | [2189](./problems/2100-2199/2189/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2190 | [Most Frequent Number Following Key In an Array](./problems/2100-2199/2190/README.md) | :o: | Easy | [hsh],[arr] |   |
 | 2191 | [2191](./problems/2100-2199/2191/README.md)                                                                            | :o:    | Medium | [arr],[lgc]                                                 |      |
 | 2192 | [2192](./problems/2100-2199/2192/README.md) | :o: | Medium | [grf],[bfs] |   |
-| 2193 | [2193](./problems/2100-2199/2193/README.md)                                                                            |        | Easy   |                                                             |      |
+| 2193 | [2193](./problems/2100-2199/2193/README.md) | :o: | Hard | [str],[grd] |   |
 | 2194 | [Cells in a Range on an Excel Sheet](./problems/2100-2199/2194/README.md) | :o: | Easy | [str],[lgc] |   |
 | 2195 | [Append K Integers With Minimal Sum](./problems/2100-2199/2195/README.md) | :o: | Medium | [grd],[math] |   |
 | 2196 | [Create Binary Tree From Descriptions](./problems/2100-2199/2196/README.md)                                            | :o:    | Medium | [tr],[hash]                                                 |      |
@@ -2241,7 +2241,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2200 | [Find All K-Distant Indices in an Array](./problems/2200-2299/2200/README.md)                                          | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2201 | [2201](./problems/2200-2299/2201/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 2202 | [2202](./problems/2200-2299/2202/README.md) | :o: | Medium | [arr],[grd] |   |
-| 2203 | [Minimum Weighted Subgraph With the Required Paths](./problems/2200-2299/2203/README.md)                               |        | Hard   |                                                             |      |
+| 2203 | [Minimum Weighted Subgraph With the Required Paths](./problems/2200-2299/2203/README.md) | :o: | Hard | [grf],[bfs] | :+1:  |
 | 2204 | [2204](./problems/2200-2299/2204/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2205 | [The Number of Users That Are Eligible for Discount](./problems/2200-2299/2205/README.md)                              | :lock: | Easy   |                                                             |      |
 | 2206 | [Divide Array Into Equal Pairs](./problems/2200-2299/2206/README.md)                                                   | :o:    | Easy   | [arr],[hsh]                                                 |      |
@@ -2296,7 +2296,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2255 | [Count Prefixes of a Given String](./problems/2200-2299/2255/README.md)                                                | :o:    | Easy   | [str],[arr]                                                 |      |
 | 2256 | [Minimum Average Difference](./problems/2200-2299/2256/README.md)                                                      | :o:    | Medium | [arr]                                                       |      |
 | 2257 | [Count Unguarded Cells in the Grid](./problems/2200-2299/2257/README.md)                                               | :o:    | Medium | [arr],[grf]                                                 |      |
-| 2258 | [Escape the Spreading Fire](./problems/2200-2299/2258/README.md)                                                       |        | Hard   |                                                             |      |
+| 2258 | [Escape the Spreading Fire](./problems/2200-2299/2258/README.md) | :o: | Hard | [bfs],[bs] | :+1:  |
 | 2259 | [Remove Digit From Number to Maximize Result](./problems/2200-2299/2259/README.md) | :o: | Easy | [str],[grd] |   |
 | 2260 | [Minimum Consecutive Cards to Pick Up](./problems/2200-2299/2260/README.md)                                            | :o:    | Medium | [hsh],[sd]                                                  |      |
 | 2261 | [K Divisible Elements Subarrays](./problems/2200-2299/2261/README.md) | :o: | Medium | [arr],[hsh] |   |
@@ -2314,7 +2314,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2273 | [2273](./problems/2200-2299/2273/README.md)                                                                            | :o:    | Easy   | [arr],[str]                                                 |      |
 | 2274 | [Maximum Consecutive Floors Without Special Floors](./problems/2200-2299/2274/README.md)                               | :o:    | Medium | [arr],[sort]                                                |      |
 | 2275 | [Largest Combination With Bitwise AND Greater Than Zero](./problems/2200-2299/2275/README.md)                          | :o:    | Medium | [bit],[math]                                                |      |
-| 2276 | [Count Integers in Intervals](./problems/2200-2299/2276/README.md)                                                     |        | Hard   |                                                             |      |
+| 2276 | [Count Integers in Intervals](./problems/2200-2299/2276/README.md) | :o: | Hard | [des],[ds] |   |
 | 2277 | [Closest Node to Path in Tree](./problems/2200-2299/2277/README.md)                                                    | :lock: | Hard   |                                                             |      |
 | 2278 | [Percentage of Letter in String](./problems/2200-2299/2278/README.md) | :o: | Easy | [str] |   |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](./problems/2200-2299/2279/README.md)                                        | :o:    | Medium | [arr],[greedy]                                              |      |
@@ -2328,13 +2328,13 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2287 | [Rearrange Characters to Make Target String](./problems/2200-2299/2287/README.md)                                      | :o:    | Easy   | [str],[hsh]                                                 |      |
 | 2288 | [Apply Discount to Prices](./problems/2200-2299/2288/README.md)                                                        | :o:    | Medium | [str]                                                       |      |
 | 2289 | [Steps to Make Array Non-decreasing](./problems/2200-2299/2289/README.md) | :o: | Medium | [stk],[arr] |   |
-| 2290 | [Minimum Obstacle Removal to Reach Corner](./problems/2200-2299/2290/README.md)                                        |        | Hard   |                                                             |      |
+| 2290 | [Minimum Obstacle Removal to Reach Corner](./problems/2200-2299/2290/README.md) | :o: | Hard | [bfs] |   |
 | 2291 | [Maximum Profit From Trading Stocks](./problems/2200-2299/2291/README.md)                                              | :lock: | Medium |                                                             |      |
 | 2292 | [Products With Three or More Orders in Two Consecutive Years](./problems/2200-2299/2292/README.md)                     | :lock: | Medium |                                                             |      |
 | 2293 | [Min Max Game](./problems/2200-2299/2293/README.md)                                                                    | :o:    | Easy   | [arr],[lgc]                                                 |      |
 | 2294 | [Partition Array Such That Maximum Difference Is K](./problems/2200-2299/2294/README.md)                               | :o:    | Medium | [arr],[greedy]                                              | :+1: |
 | 2295 | [Replace Elements in an Array](./problems/2200-2299/2295/README.md)                                                    | :o:    | Medium | [arr],[hsh]                                                 |      |
-| 2296 | [Design a Text Editor](./problems/2200-2299/2296/README.md)                                                            |        | Hard   |                                                             |      |
+| 2296 | [Design a Text Editor](./problems/2200-2299/2296/README.md) | :o: | Hard | [des] |   |
 | 2297 | [2297](./problems/2200-2299/2297/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2298 | [Tasks Count in the Weekend](./problems/2200-2299/2298/README.md)                                                      | :lock: | Medium |                                                             |      |
 | 2299 | [Strong Password Checker II](./problems/2200-2299/2299/README.md)                                                      | :o:    | Easy   | [str],[lgc]                                                 |      |
@@ -2350,7 +2350,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2309 | [2309](./problems/2300-2399/2309/README.md) | :o: | Easy | [hsh],[str] |   |
 | 2310 | [2310](./problems/2300-2399/2310/README.md) | :o: | Medium | [math] |   |
 | 2311 | [Longest Binary Subsequence Less Than or Equal to K](./problems/2300-2399/2311/README.md)                              | :o:    | Medium | [str],[grd]                                                 | :+1: |
-| 2312 | [2312](./problems/2300-2399/2312/README.md)                                                                            |        | Easy   |                                                             |      |
+| 2312 | [2312](./problems/2300-2399/2312/README.md) | :o: | Hard | [dp] | :+1:  |
 | 2313 | [Minimum Flips in Binary Tree to Get Result](./problems/2300-2399/2313/README.md)                                      | :lock: | Hard   |                                                             |      |
 | 2314 | [The First Day of the Maximum Recorded Degree in Each City](./problems/2300-2399/2314/README.md)                       | :lock: | Medium |                                                             |      |
 | 2315 | [Count Asterisks](./problems/2300-2399/2315/README.md) | :o: | Easy | [str] |   |
@@ -2382,7 +2382,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2341 | [Maximum Number of Pairs in Array](./problems/2300-2399/2341/README.md)                                                | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2342 | [Max Sum of a Pair With Equal Sum of Digits](./problems/2300-2399/2342/README.md)                                      | :o:    | Medium | [hash]                                                      |      |
 | 2343 | [Query Kth Smallest Trimmed Number](./problems/2300-2399/2343/README.md)                                               | :o:    | Medium | [arr]                                                       |      |
-| 2344 | [Minimum Deletions to Make Array Divisible](./problems/2300-2399/2344/README.md)                                       |        | Hard   |                                                             |      |
+| 2344 | [Minimum Deletions to Make Array Divisible](./problems/2300-2399/2344/README.md) | :o: | Hard | [arr],[math] |   |
 | 2345 | [Finding the Number of Visible Mountains](./problems/2300-2399/2345/README.md)                                         | :lock: | Medium |                                                             |      |
 | 2346 | [Compute the Rank as a Percentage](./problems/2300-2399/2346/README.md)                                                | :lock: | Medium |                                                             |      |
 | 2347 | [Best Poker Hand](./problems/2300-2399/2347/README.md)                                                                 | :o:    | Easy   | [arr],[hash]                                                |      |
@@ -2404,7 +2404,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2363 | [Merge Similar Items](./problems/2300-2399/2363/README.md)                                                             | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2364 | [Count Number of Bad Pairs](./problems/2300-2399/2364/README.md)                                                       | :o:    | Medium | [arr],[hash]                                                |      |
 | 2365 | [Task Scheduler II](./problems/2300-2399/2365/README.md)                                                               | :o:    | Medium | [arr]                                                       |      |
-| 2366 | [Minimum Replacements to Sort the Array](./problems/2300-2399/2366/README.md)                                          |        | Hard   |                                                             |      |
+| 2366 | [Minimum Replacements to Sort the Array](./problems/2300-2399/2366/README.md) | :o: | Hard | [grd],[math] |   |
 | 2367 | [Number of Arithmetic Triplets](./problems/2300-2399/2367/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 2368 | [Reachable Nodes With Restrictions](./problems/2300-2399/2368/README.md) | :o: | Medium | [tr],[bfs] |   |
 | 2369 | [Check if There is a Valid Partition For The Array](./problems/2300-2399/2369/README.md)                               | :o:    | Medium | [arr],[dp]                                                  |      |
@@ -2414,13 +2414,13 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2373 | [Largest Local Values in a Matrix](./problems/2300-2399/2373/README.md)                                                | :o:    | Easy   | [arr]                                                       |      |
 | 2374 | [Node With Highest Edge Score](./problems/2300-2399/2374/README.md)                                                    | :o:    | Medium | [arr]                                                       |      |
 | 2375 | [Construct Smallest Number From DI String](./problems/2300-2399/2375/README.md) | :o: | Medium | [str],[grd] |   |
-| 2376 | [Count Special Integers](./problems/2300-2399/2376/README.md)                                                          |        | Hard   |                                                             |      |
+| 2376 | [Count Special Integers](./problems/2300-2399/2376/README.md) | :o: | Hard | [math],[dp] |   |
 | 2377 | [Sort the Olympic Table](./problems/2300-2399/2377/README.md)                                                          | :lock: | Easy   |                                                             |      |
 | 2378 | [Choose Edges to Maximize Score in a Tree](./problems/2300-2399/2378/README.md)                                        | :lock: | Medium |                                                             |      |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](./problems/2300-2399/2379/README.md)                              | :o:    | Easy   | [sd]                                                        |      |
 | 2380 | [Time Needed to Rearrange a Binary String](./problems/2300-2399/2380/README.md) | :o: | Medium | [str],[dp] |   |
 | 2381 | [Shifting Letters II](./problems/2300-2399/2381/README.md)                                                             | :o:    | Medium | [str]                                                       |      |
-| 2382 | [Maximum Segment Sum After Removals](./problems/2300-2399/2382/README.md)                                              |        | Hard   |                                                             |      |
+| 2382 | [Maximum Segment Sum After Removals](./problems/2300-2399/2382/README.md) | :o: | Hard | [arr],[ds] | :+1:  |
 | 2383 | [Minimum Hours of Training to Win a Competition](./problems/2300-2399/2383/README.md)                                  | :o:    | Easy   | [arr],[lgc]                                                 |      |
 | 2384 | [Largest Palindromic Number](./problems/2300-2399/2384/README.md)                                                      | :o:    | Medium | [greedy]                                                    |      |
 | 2385 | [Amount of Time for Binary Tree to Be Infected](./problems/2300-2399/2385/README.md)                                   | :o:    | Medium | [tr],[bfs]                                                  |      |
@@ -2430,22 +2430,22 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2389 | [Longest Subsequence With Limited Sum](./problems/2300-2399/2389/README.md)                                            | :o:    | Easy   | [arr],[bs]                                                  |      |
 | 2390 | [Removing Stars From a String](./problems/2300-2399/2390/README.md)                                                    | :o:    | Medium | [str],[stack]                                               | :+1: |
 | 2391 | [Minimum Amount of Time to Collect Garbage](./problems/2300-2399/2391/README.md) | :o: | Medium | [arr],[str] |   |
-| 2392 | [Build a Matrix With Conditions](./problems/2300-2399/2392/README.md)                                                  |        | Hard   |                                                             |      |
+| 2392 | [Build a Matrix With Conditions](./problems/2300-2399/2392/README.md) | :o: | Hard | [grf] |   |
 | 2393 | [Count Strictly Increasing Subarrays](./problems/2300-2399/2393/README.md)                                             | :lock: | Medium |                                                             |      |
 | 2394 | [Employees With Deductions](./problems/2300-2399/2394/README.md)                                                       | :lock: | Medium |                                                             |      |
 | 2395 | [Find Subarrays With Equal Sum](./problems/2300-2399/2395/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 2396 | [Strictly Palindromic Number](./problems/2300-2399/2396/README.md)                                                     | :o:    | Medium | [lgc],[math]                                                |      |
 | 2397 | [Maximum Rows Covered by Columns](./problems/2300-2399/2397/README.md)                                                 | :o:    | Medium | [bit],[bt]                                                  |      |
-| 2398 | [Maximum Number of Robots Within Budget](./problems/2300-2399/2398/README.md)                                          |        | Hard   |                                                             |      |
+| 2398 | [Maximum Number of Robots Within Budget](./problems/2300-2399/2398/README.md) | :o: | Hard | [sd],[ds] | :+1:  |
 | 2399 | [Check Distances Between Same Letters](./problems/2300-2399/2399/README.md) | :o: | Easy | [str],[hsh] |   |
 | 2400 | [Number of Ways to Reach a Position After Exactly k Steps](./problems/2400-2499/2400/README.md)                        | :o:    | Medium | [math],[dp]                                                 |      |
 | 2401 | [Longest Nice Subarray](./problems/2400-2499/2401/README.md)                                                           | :o:    | Medium | [arr],[bit],[tp]                                            |      |
-| 2402 | [Meeting Rooms III](./problems/2400-2499/2402/README.md)                                                               |        | Hard   |                                                             |      |
+| 2402 | [Meeting Rooms III](./problems/2400-2499/2402/README.md) | :o: | Hard | [hp],[sd] |   |
 | 2403 | [Minimum Time to Kill All Monsters](./problems/2400-2499/2403/README.md)                                               | :lock: | Hard   |                                                             |      |
 | 2404 | [Most Frequent Even Element](./problems/2400-2499/2404/README.md)                                                      | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2405 | [Optimal Partition of String](./problems/2400-2499/2405/README.md)                                                     | :o:    | Medium | [arr],[bit]                                                 |      |
 | 2406 | [Divide Intervals Into Minimum Number of Groups](./problems/2400-2499/2406/README.md)                                  | :o:    | Medium | [arr]                                                       |      |
-| 2407 | [Longest Increasing Subsequence II](./problems/2400-2499/2407/README.md)                                               |        | Hard   |                                                             |      |
+| 2407 | [Longest Increasing Subsequence II](./problems/2400-2499/2407/README.md) | :o: | Hard | [dp],[bs] | :+1:  |
 | 2408 | [Design SQL](./problems/2400-2499/2408/README.md)                                                                      | :lock: | Medium |                                                             |      |
 | 2409 | [Count Days Spent Together](./problems/2400-2499/2409/README.md)                                                       | :o:    | Easy   | [lgc]                                                       |      |
 | 2410 | [Maximum Matching of Players With Trainers](./problems/2400-2499/2410/README.md)                                       | :o:    | Medium | [arr],[grd],[tp]                                            |      |
@@ -2454,7 +2454,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2413 | [Smallest Even Multiple](./problems/2400-2499/2413/README.md) | :o: | Easy | [math] |   |
 | 2414 | [Length of the Longest Alphabetical Continuous Substring](./problems/2400-2499/2414/README.md)                         | :o:    | Medium | [str]                                                       |      |
 | 2415 | [Reverse Odd Levels of Binary Tree](./problems/2400-2499/2415/README.md)                                               | :o:    | Medium | [tr],[bfs]                                                  |      |
-| 2416 | [Sum of Prefix Scores of Strings](./problems/2400-2499/2416/README.md)                                                 |        | Hard   |                                                             |      |
+| 2416 | [Sum of Prefix Scores of Strings](./problems/2400-2499/2416/README.md) | :o: | Hard | [str],[tr] |   |
 | 2417 | [Closest Fair Integer](./problems/2400-2499/2417/README.md)                                                            | :lock: | Medium |                                                             |      |
 | 2418 | [Sort the People](./problems/2400-2499/2418/README.md)                                                                 | :o:    | Easy   | [arr],[sort]                                                |      |
 | 2419 | [Longest Subarray With Maximum Bitwise AND](./problems/2400-2499/2419/README.md) | :o: | Medium | [arr],[bit] |   |
@@ -2468,7 +2468,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2427 | [Number of Common Factors](./problems/2400-2499/2427/README.md)                                                        | :o:    | Easy   | [arr]                                                       |      |
 | 2428 | [Maximum Sum of an Hourglass](./problems/2400-2499/2428/README.md) | :o: | Medium | [arr] |   |
 | 2429 | [Minimize XOR](./problems/2400-2499/2429/README.md)                                                                    | :o:    | Medium | [bit]                                                       |      |
-| 2430 | [Maximum Deletions on a String](./problems/2400-2499/2430/README.md)                                                   |        | Hard   |                                                             |      |
+| 2430 | [Maximum Deletions on a String](./problems/2400-2499/2430/README.md) | :o: | Hard | [dp],[str] |   |
 | 2431 | [Maximize Total Tastiness of Purchased Fruits](./problems/2400-2499/2431/README.md)                                    | :lock: | Medium |                                                             |      |
 | 2432 | [The Employee That Worked on the Longest Task](./problems/2400-2499/2432/README.md)                                    | :o:    | Easy   | [arr]                                                       |      |
 | 2433 | [Find The Original Array of Prefix Xor](./problems/2400-2499/2433/README.md)                                           | :o:    | Medium | [arr],[bit]                                                 |      |
@@ -2478,7 +2478,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2437 | [Number of Valid Clock Times](./problems/2400-2499/2437/README.md)                                                     | :o:    | Easy   | [str],[lgc]                                                 |      |
 | 2438 | [Range Product Queries of Powers](./problems/2400-2499/2438/README.md) | :o: | Medium | [bit],[math] |   |
 | 2439 | [Minimize Maximum of Array](./problems/2400-2499/2439/README.md)                                                       | :o:    | Medium | [arr],[grd]                                                 |      |
-| 2440 | [Create Components With Same Value](./problems/2400-2499/2440/README.md)                                               |        | Hard   |                                                             |      |
+| 2440 | [Create Components With Same Value](./problems/2400-2499/2440/README.md) | :o: | Hard | [tr],[dfs] |   |
 | 2441 | [Largest Positive Integer That Exists With Its Negative](./problems/2400-2499/2441/README.md)                          | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2442 | [Count Number of Distinct Integers After Reverse Operations](./problems/2400-2499/2442/README.md)                      | :o:    | Medium | [arr],[hsh]                                                 |      |
 | 2443 | [Sum of Number and Its Reverse](./problems/2400-2499/2443/README.md) | :o: | Medium | [math] |   |
@@ -2496,7 +2496,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](./problems/2400-2499/2455/README.md)                       | :o:    | Easy   | [arr]                                                       |      |
 | 2456 | [Most Popular Video Creator](./problems/2400-2499/2456/README.md)                                                      | :o:    | Medium | [hash]                                                      |      |
 | 2457 | [Minimum Addition to Make Integer Beautiful](./problems/2400-2499/2457/README.md)                                      | :o:    | Medium | [math],[grd]                                                |      |
-| 2458 | [Height of Binary Tree After Subtree Removal Queries](./problems/2400-2499/2458/README.md)                             |        | Hard   |                                                             |      |
+| 2458 | [Height of Binary Tree After Subtree Removal Queries](./problems/2400-2499/2458/README.md) | :o: | Hard | [tr],[dfs] | :+1:  |
 | 2459 | [Sort Array by Moving Items to Empty Space](./problems/2400-2499/2459/README.md)                                       | :lock: | Hard   |                                                             |      |
 | 2460 | [Apply Operations to an Array](./problems/2400-2499/2460/README.md) | :o: | Easy | [arr],[tp] |   |
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](./problems/2400-2499/2461/README.md)                                 | :o:    | Medium | [arr]                                                       | :+1: |
@@ -2531,7 +2531,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2490 | [Circular Sentence](./problems/2400-2499/2490/README.md) | :o: | Easy | [str] |   |
 | 2491 | [Divide Players Into Teams of Equal Skill](./problems/2400-2499/2491/README.md)                                        | :o:    | Medium | [arr],[tp]                                                  |      |
 | 2492 | [Minimum Score of a Path Between Two Cities](./problems/2400-2499/2492/README.md)                                      | :o:    | Medium | [grf],[bfs]                                                 |      |
-| 2493 | [Divide Nodes Into the Maximum Number of Groups](./problems/2400-2499/2493/README.md)                                  |        | Hard   |                                                             |      |
+| 2493 | [Divide Nodes Into the Maximum Number of Groups](./problems/2400-2499/2493/README.md) | :o: | Hard | [grf],[bfs] | :+1:  |
 | 2494 | [Merge Overlapping Events in the Same Hall](./problems/2400-2499/2494/README.md)                                       | :lock: | Hard   |                                                             |      |
 | 2495 | [Number of Subarrays Having Even Product](./problems/2400-2499/2495/README.md)                                         | :lock: | Medium |                                                             |      |
 | 2496 | [Maximum Value of a String in an Array](./problems/2400-2499/2496/README.md)                                           | :o:    | Easy   | [str],[arr]                                                 |      |
@@ -2541,12 +2541,12 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2500 | [Delete Greatest Value in Each Row](./problems/2500-2599/2500/README.md)                                               | :o:    | Easy   | [arr],[grd]                                                 |      |
 | 2501 | [Longest Square Streak in an Array](./problems/2500-2599/2501/README.md)                                               | :o:    | Medium | [arr],[hash]                                                |      |
 | 2502 | [Design Memory Allocator](./problems/2500-2599/2502/README.md)                                                         | :o:    | Medium | [des],[arr]                                                 |      |
-| 2503 | [Maximum Number of Points From Grid Queries](./problems/2500-2599/2503/README.md)                                      |        | Hard   |                                                             |      |
+| 2503 | [Maximum Number of Points From Grid Queries](./problems/2500-2599/2503/README.md) | :o: | Hard | [hp],[bfs] |   |
 | 2504 | [Concatenate the Name and the Profession](./problems/2500-2599/2504/README.md)                                         | :lock: | Easy   |                                                             |      |
 | 2505 | [Bitwise OR of All Subsequence Sums](./problems/2500-2599/2505/README.md)                                              | :lock: | Medium |                                                             |      |
 | 2506 | [Count Pairs Of Similar Strings](./problems/2500-2599/2506/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 2507 | [Smallest Value After Replacing With Sum of Prime Factors](./problems/2500-2599/2507/README.md)                        | :o:    | Medium | [math]                                                      |      |
-| 2508 | [Add Edges to Make Degrees of All Nodes Even](./problems/2500-2599/2508/README.md)                                     |        | Hard   |                                                             |      |
+| 2508 | [Add Edges to Make Degrees of All Nodes Even](./problems/2500-2599/2508/README.md) | :o: | Hard | [grf],[lgc] |   |
 | 2509 | [Cycle Length Queries in a Tree](./problems/2500-2599/2509/README.md) | :o: | Hard | [tr] |   |
 | 2510 | [Check if There is a Path With Equal Number of 0's And 1's](./problems/2500-2599/2510/README.md)                       | :lock: | Medium |                                                             |      |
 | 2511 | [Maximum Enemy Forts That Can Be Captured](./problems/2500-2599/2511/README.md)                                        | :o:    | Easy   | [arr],[tp]                                                  |      |
@@ -2566,7 +2566,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2525 | [Categorize Box According to Criteria](./problems/2500-2599/2525/README.md)                                            | :o:    | Easy   | [lgc]                                                       |      |
 | 2526 | [Find Consecutive Integers from a Data Stream](./problems/2500-2599/2526/README.md)                                    | :o:    | Medium | [des]                                                       |      |
 | 2527 | [Find Xor-Beauty of Array](./problems/2500-2599/2527/README.md)                                                        | :o:    | Medium | [arr],[bit]                                                 |      |
-| 2528 | [Maximize the Minimum Powered City](./problems/2500-2599/2528/README.md)                                               |        | Hard   |                                                             |      |
+| 2528 | [Maximize the Minimum Powered City](./problems/2500-2599/2528/README.md) | :o: | Hard | [bs],[grd] |   |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](./problems/2500-2599/2529/README.md)                          | :o:    | Easy   | [bs]                                                        |      |
 | 2530 | [Maximal Score After Applying K Operations](./problems/2500-2599/2530/README.md)                                       | :o:    | Medium | [arr],[heap]                                                |      |
 | 2531 | [Make Number of Distinct Characters Equal](./problems/2500-2599/2531/README.md) | :o: | Medium | [str],[hsh] |   |
@@ -2581,7 +2581,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2540 | [Minimum Common Value](./problems/2500-2599/2540/README.md) | :o: | Easy | [tp] |   |
 | 2541 | [Minimum Operations to Make Array Equal II](./problems/2500-2599/2541/README.md)                                       | :o:    | Medium | [math],[arr]                                                |      |
 | 2542 | [Maximum Subsequence Score](./problems/2500-2599/2542/README.md)                                                       | :o:    | Medium | [arr],[hp],[grd]                                            | :+1: |
-| 2543 | [Check if Point Is Reachable](./problems/2500-2599/2543/README.md)                                                     |        | Hard   |                                                             |      |
+| 2543 | [Check if Point Is Reachable](./problems/2500-2599/2543/README.md) | :o: | Hard | [math] | :+1:  |
 | 2544 | [Alternating Digit Sum](./problems/2500-2599/2544/README.md) | :o: | Easy | [math] |   |
 | 2545 | [Sort the Students by Their Kth Score](./problems/2500-2599/2545/README.md) | :o: | Medium | [arr] |   |
 | 2546 | [Apply Bitwise Operations to Make Strings Equal](./problems/2500-2599/2546/README.md)                                  | :o:    | Medium | [bit]                                                       |      |
@@ -2599,11 +2599,11 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2558 | [Take Gifts From the Richest Pile](./problems/2500-2599/2558/README.md)                                                | :o:    | Easy   | [arr],[heap]                                                |      |
 | 2559 | [Count Vowel Strings in Ranges](./problems/2500-2599/2559/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 2560 | [House Robber IV](./problems/2500-2599/2560/README.md)                                                                 | :o:    | Medium | [bs],[grd]                                                  | :+1: |
-| 2561 | [Rearranging Fruits](./problems/2500-2599/2561/README.md)                                                              |        | Hard   |                                                             |      |
+| 2561 | [Rearranging Fruits](./problems/2500-2599/2561/README.md) | :o: | Hard | [grd],[arr] |   |
 | 2562 | [Find the Array Concatenation Value](./problems/2500-2599/2562/README.md) | :o: | Easy | [arr],[tp] |   |
 | 2563 | [Count the Number of Fair Pairs](./problems/2500-2599/2563/README.md)                                                  | :o:    | Medium | [arr],[tp],[bs]                                             |      |
 | 2564 | [Substring XOR Queries](./problems/2500-2599/2564/README.md)                                                           | :o:    | Medium | [str],[bit],[hsh]                                           |      |
-| 2565 | [Subsequence With the Minimum Score](./problems/2500-2599/2565/README.md)                                              |        | Hard   |                                                             |      |
+| 2565 | [Subsequence With the Minimum Score](./problems/2500-2599/2565/README.md) | :o: | Hard | [str],[dp] |   |
 | 2566 | [Maximum Difference by Remapping a Digit](./problems/2500-2599/2566/README.md)                                         | :o:    | Easy   | [math],[lgc]                                                |      |
 | 2567 | [Minimum Score by Changing Two Elements](./problems/2500-2599/2567/README.md)                                          | :o:    | Medium | [arr],[greedy]                                              |      |
 | 2568 | [Minimum Impossible OR](./problems/2500-2599/2568/README.md)                                                           | :o:    | Medium | [bit],[hsh]                                                 |      |
@@ -2619,7 +2619,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2578 | [Split With Minimum Sum](./problems/2500-2599/2578/README.md)                                                          | :o:    | Easy   | [grd],[math]                                                |      |
 | 2579 | [Count Total Number of Colored Cells](./problems/2500-2599/2579/README.md)                                             | :o:    | Medium | [math]                                                      |      |
 | 2580 | [Count Ways to Group Overlapping Ranges](./problems/2500-2599/2580/README.md)                                          | :o:    | Medium | [math]                                                      |      |
-| 2581 | [Count Number of Possible Root Nodes](./problems/2500-2599/2581/README.md)                                             |        | Hard   |                                                             |      |
+| 2581 | [Count Number of Possible Root Nodes](./problems/2500-2599/2581/README.md) | :o: | Hard | [tr],[dfs],[dp] |   |
 | 2582 | [Pass the Pillow](./problems/2500-2599/2582/README.md)                                                                 | :o:    | Easy   | [math],[lgc]                                                |      |
 | 2583 | [Kth Largest Sum in a Binary Tree](./problems/2500-2599/2583/README.md)                                                | :o:    | Medium | [tr],[bfs]                                                  |      |
 | 2584 | [Split the Array to Make Coprime Products](./problems/2500-2599/2584/README.md)                                        | :o:    | Hard   | [math],[grd]                                                |      |
@@ -2650,12 +2650,12 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2609 | [Find the Longest Balanced Substring of a Binary String](./problems/2600-2699/2609/README.md) | :o: | Easy | [str] |   |
 | 2610 | [Convert an Array Into a 2D Array With Conditions](./problems/2600-2699/2610/README.md)                                | :o:    | Medium | [arr],[hsh]                                                 |      |
 | 2611 | [Mice and Cheese](./problems/2600-2699/2611/README.md)                                                                 | :o:    | Medium | [arr],[greedy]                                              |      |
-| 2612 | [Minimum Reverse Operations](./problems/2600-2699/2612/README.md)                                                      |        | Hard   |                                                             |      |
+| 2612 | [Minimum Reverse Operations](./problems/2600-2699/2612/README.md) | :o: | Hard | [bfs],[ds] |   |
 | 2613 | [Beautiful Pairs](./problems/2600-2699/2613/README.md)                                                                 | :lock: | Hard   |                                                             |      |
 | 2614 | [Prime In Diagonal](./problems/2600-2699/2614/README.md)                                                               | :o:    | Easy   | [arr],[math]                                                |      |
 | 2615 | [Sum of Distances](./problems/2600-2699/2615/README.md)                                                                | :o:    | Medium | [arr],[hsh]                                                 |      |
 | 2616 | [Minimize the Maximum Difference of Pairs](./problems/2600-2699/2616/README.md)                                        | :o:    | Medium | [arr],[bs],[greedy]                                         | :+1: |
-| 2617 | [Minimum Number of Visited Cells in a Grid](./problems/2600-2699/2617/README.md)                                       |        | Hard   |                                                             |      |
+| 2617 | [Minimum Number of Visited Cells in a Grid](./problems/2600-2699/2617/README.md) | :o: | Hard | [bfs],[grd] |   |
 | 2618 | [2618](./problems/2600-2699/2618/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2619 | [2619](./problems/2600-2699/2619/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2620 | [2620](./problems/2600-2699/2620/README.md)                                                                            |        | Easy   |                                                             |      |
@@ -2680,7 +2680,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2639 | [Find the Width of Columns of a Grid](./problems/2600-2699/2639/README.md)                                             | :o:    | Easy   | [arr]                                                       |      |
 | 2640 | [Find the Score of All Prefixes of an Array](./problems/2600-2699/2640/README.md)                                      | :o:    | Medium | [arr]                                                       |      |
 | 2641 | [Cousins in Binary Tree II](./problems/2600-2699/2641/README.md)                                                       | :o:    | Medium | [tr],[bfs]                                                  |      |
-| 2642 | [Design Graph With Shortest Path Calculator](./problems/2600-2699/2642/README.md)                                      |        | Hard   |                                                             |      |
+| 2642 | [Design Graph With Shortest Path Calculator](./problems/2600-2699/2642/README.md) | :o: | Hard | [grf],[des],[ds] |   |
 | 2643 | [Row With Maximum Ones](./problems/2600-2699/2643/README.md)                                                           | :o:    | Easy   | [arr]                                                       |      |
 | 2644 | [Find the Maximum Divisibility Score](./problems/2600-2699/2644/README.md)                                             | :o:    | Easy   | [arr],[math]                                                |      |
 | 2645 | [Minimum Additions to Make Valid String](./problems/2600-2699/2645/README.md)                                          | :o:    | Medium | [str]                                                       |      |
@@ -2747,7 +2747,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2706 | [Buy Two Chocolates](./problems/2700-2799/2706/README.md)                                                              | :o:    | Easy   | [arr],[grd]                                                 |      |
 | 2707 | [Extra Characters in a String](./problems/2700-2799/2707/README.md)                                                    | :o:    | Medium | [dp]                                                        |      |
 | 2708 | [Maximum Strength of a Group](./problems/2700-2799/2708/README.md) | :o: | Medium | [bt] |   |
-| 2709 | [Greatest Common Divisor Traversal](./problems/2700-2799/2709/README.md)                                               |        | Hard   |                                                             |      |
+| 2709 | [Greatest Common Divisor Traversal](./problems/2700-2799/2709/README.md) | :o: | Hard | [math],[ds] | :+1:  |
 | 2710 | [Remove Trailing Zeros From a String](./problems/2700-2799/2710/README.md) | :o: | Easy | [str] |   |
 | 2711 | [Difference of Number of Distinct Values on Diagonals](./problems/2700-2799/2711/README.md)                            | :o:    | Medium | [arr],[matrix]                                              |      |
 | 2712 | [Minimum Cost to Make All Characters Equal](./problems/2700-2799/2712/README.md)                                       | :o:    | Medium | [str],[grd]                                                 |      |
@@ -2757,7 +2757,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2716 | [Minimize String Length](./problems/2700-2799/2716/README.md)                                                          | :o:    | Easy   | [str]                                                       |      |
 | 2717 | [Semi-Ordered Permutation](./problems/2700-2799/2717/README.md)                                                        | :o:    | Easy   | [arr],[lgc]                                                 |      |
 | 2718 | [Sum of Matrix After Queries](./problems/2700-2799/2718/README.md)                                                     | :o:    | Medium | [arr],[grd]                                                 |      |
-| 2719 | [Count of Integers](./problems/2700-2799/2719/README.md)                                                               |        | Hard   |                                                             |      |
+| 2719 | [Count of Integers](./problems/2700-2799/2719/README.md) | :o: | Hard | [dp],[math] |   |
 | 2720 | [Popularity Percentage](./problems/2700-2799/2720/README.md)                                                           | :lock: | Hard   |                                                             |      |
 | 2721 | [2721](./problems/2700-2799/2721/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2722 | [2722](./problems/2700-2799/2722/README.md)                                                                            |        | Easy   |                                                             |      |
@@ -2770,17 +2770,17 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2729 | [Check if The Number is Fascinating](./problems/2700-2799/2729/README.md)                                              | :o:    | Easy   | [math],[lgc]                                                |      |
 | 2730 | [Find the Longest Semi-Repetitive Substring](./problems/2700-2799/2730/README.md)                                      | :o:    | Medium | [str],[sd]                                                  |      |
 | 2731 | [Movement of Robots](./problems/2700-2799/2731/README.md)                                                              | :o:    | Medium | [arr],[math]                                                |      |
-| 2732 | [Find a Good Subset of the Matrix](./problems/2700-2799/2732/README.md)                                                |        | Hard   |                                                             |      |
+| 2732 | [Find a Good Subset of the Matrix](./problems/2700-2799/2732/README.md) | :o: | Hard | [bit],[grd] |   |
 | 2733 | [Neither Minimum nor Maximum](./problems/2700-2799/2733/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 2734 | [Lexicographically Smallest String After Substring Operation](./problems/2700-2799/2734/README.md)                     | :o:    | Medium | [str]                                                       |      |
 | 2735 | [Collecting Chocolates](./problems/2700-2799/2735/README.md)                                                           |        | Medium |                                                             |      |
-| 2736 | [Maximum Sum Queries](./problems/2700-2799/2736/README.md)                                                             |        | Hard   |                                                             |      |
+| 2736 | [Maximum Sum Queries](./problems/2700-2799/2736/README.md) | :o: | Hard | [arr],[bs] |   |
 | 2737 | [Find the Closest Marked Node](./problems/2700-2799/2737/README.md)                                                    | :lock: | Medium |                                                             |      |
 | 2738 | [Count Occurrences in Text](./problems/2700-2799/2738/README.md)                                                       | :lock: | Medium |                                                             |      |
 | 2739 | [Total Distance Traveled](./problems/2700-2799/2739/README.md)                                                         | :o:    | Easy   | [math]                                                      |      |
 | 2740 | [Find the Value of the Partition](./problems/2700-2799/2740/README.md)                                                 | :o:    | Medium | [arr],[bs]                                                  |      |
 | 2741 | [Special Permutations](./problems/2700-2799/2741/README.md) | :o: | Medium | [dp],[bit] |   |
-| 2742 | [Painting the Walls](./problems/2700-2799/2742/README.md)                                                              |        | Hard   |                                                             |      |
+| 2742 | [Painting the Walls](./problems/2700-2799/2742/README.md) | :o: | Hard | [dp] | :+1:  |
 | 2743 | [Count Substrings Without Repeating Character](./problems/2700-2799/2743/README.md)                                    | :lock: | Medium |                                                             |      |
 | 2744 | [Find Maximum Number of String Pairs](./problems/2700-2799/2744/README.md)                                             | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2745 | [Construct the Longest New String](./problems/2700-2799/2745/README.md)                                                | :o:    | Medium | [str],[math],[grd]                                          | :+1: |
@@ -2801,7 +2801,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2760 | [Longest Even Odd Subarray With Threshold](./problems/2700-2799/2760/README.md)                                        | :o:    | Easy   | [arr],[lgc]                                                 |      |
 | 2761 | [Prime Pairs With Target Sum](./problems/2700-2799/2761/README.md) | :o: | Medium | [math] |   |
 | 2762 | [Continuous Subarrays](./problems/2700-2799/2762/README.md)                                                            | :o:    | Medium | [sd]                                                        |      |
-| 2763 | [Sum of Imbalance Numbers of All Subarrays](./problems/2700-2799/2763/README.md)                                       |        | Hard   |                                                             |      |
+| 2763 | [Sum of Imbalance Numbers of All Subarrays](./problems/2700-2799/2763/README.md) | :o: | Hard | [arr],[bs] |   |
 | 2764 | [Is Array a Preorder of Some ‌Binary Tree](./problems/2700-2799/2764/README.md)                                         | :lock: | Medium |                                                             |      |
 | 2765 | [Longest Alternating Subarray](./problems/2700-2799/2765/README.md)                                                    | :o:    | Easy   | [arr]                                                       |      |
 | 2766 | [Relocate Marbles](./problems/2700-2799/2766/README.md)                                                                | :o:    | Medium | [arr],[hsh]                                                 |      |
@@ -2828,8 +2828,8 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2787 | [Ways to Express an Integer as Sum of Powers](./problems/2700-2799/2787/README.md) | :o: | Medium | [dp] |   |
 | 2788 | [Split Strings by Separator](./problems/2700-2799/2788/README.md)                                                      | :o:    | Easy   | [str],[arr]                                                 |      |
 | 2789 | [Largest Element in an Array after Merge Operations](./problems/2700-2799/2789/README.md)                              | :o:    | Medium | [arr],[greedy]                                              |      |
-| 2790 | [Maximum Number of Groups With Increasing Length](./problems/2700-2799/2790/README.md)                                 |        | Hard   |                                                             |      |
-| 2791 | [Count Paths That Can Form a Palindrome in a Tree](./problems/2700-2799/2791/README.md)                                |        | Hard   |                                                             |      |
+| 2790 | [Maximum Number of Groups With Increasing Length](./problems/2700-2799/2790/README.md) | :o: | Hard | [grd] |   |
+| 2791 | [Count Paths That Can Form a Palindrome in a Tree](./problems/2700-2799/2791/README.md) | :o: | Hard | [tr],[bit] | :+1:  |
 | 2792 | [Count Nodes That Are Great Enough](./problems/2700-2799/2792/README.md)                                               | :lock: | Hard   |                                                             |      |
 | 2793 | [Status of Flight Tickets](./problems/2700-2799/2793/README.md)                                                        | :lock: | Hard   |                                                             |      |
 | 2794 | [2794](./problems/2700-2799/2794/README.md)                                                                            |        | Easy   |                                                             |      |
@@ -2839,7 +2839,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2798 | [Number of Employees Who Met the Target](./problems/2700-2799/2798/README.md) | :o: | Easy | [arr] |   |
 | 2799 | [Count Complete Subarrays in an Array](./problems/2700-2799/2799/README.md)                                            | :o:    | Medium | [arr],[sd],[hsh]                                            |      |
 | 2800 | [Shortest String That Contains Three Strings](./problems/2800-2899/2800/README.md)                                     | :o:    | Medium | [str]                                                       |      |
-| 2801 | [Count Stepping Numbers in Range](./problems/2800-2899/2801/README.md)                                                 |        | Hard   |                                                             |      |
+| 2801 | [Count Stepping Numbers in Range](./problems/2800-2899/2801/README.md) | :o: | Hard | [dp] | :+1:  |
 | 2802 | [Find The K-th Lucky Number](./problems/2800-2899/2802/README.md)                                                      | :lock: | Medium |                                                             |      |
 | 2803 | [2803](./problems/2800-2899/2803/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2804 | [2804](./problems/2800-2899/2804/README.md)                                                                            |        | Easy   |                                                             |      |
@@ -2851,7 +2851,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2810 | [Faulty Keyboard](./problems/2800-2899/2810/README.md)                                                                 | :o:    | Easy   | [str],[stk]                                                 |      |
 | 2811 | [Check if it is Possible to Split Array](./problems/2800-2899/2811/README.md) | :o: | Medium | [arr],[grd] | :+1:  |
 | 2812 | [Find the Safest Path in a Grid](./problems/2800-2899/2812/README.md)                                                  | :o:    | Medium | [arr],[bfs]                                                 | :+1: |
-| 2813 | [Maximum Elegance of a K-Length Subsequence](./problems/2800-2899/2813/README.md)                                      |        | Hard   |                                                             |      |
+| 2813 | [Maximum Elegance of a K-Length Subsequence](./problems/2800-2899/2813/README.md) | :o: | Hard | [grd],[hp] | :+1:  |
 | 2814 | [Minimum Time Takes to Reach Destination Without Drowning](./problems/2800-2899/2814/README.md)                        | :lock: | Hard   |                                                             |      |
 | 2815 | [Max Pair Sum in an Array](./problems/2800-2899/2815/README.md) | :o: | Easy | [hsh],[arr] |   |
 | 2816 | [Double a Number Represented as a Linked List](./problems/2800-2899/2816/README.md)                                    | :o:    | Medium | [ll],[math]                                                 |      |
@@ -2874,7 +2874,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2833 | [Furthest Point From Origin](./problems/2800-2899/2833/README.md)                                                      | :o:    | Easy   | [str],[math]                                                |      |
 | 2834 | [Find the Minimum Possible Sum of a Beautiful Array](./problems/2800-2899/2834/README.md)                              | :o:    | Medium | [math],[grd]                                                |      |
 | 2835 | [Minimum Operations to Form Subsequence With Target Sum](./problems/2800-2899/2835/README.md) | :o: | Hard | [bit],[grd] |   |
-| 2836 | [Maximize Value of Function in a Ball Passing Game](./problems/2800-2899/2836/README.md)                               |        | Hard   |                                                             |      |
+| 2836 | [Maximize Value of Function in a Ball Passing Game](./problems/2800-2899/2836/README.md) | :o: | Hard | [dp] |   |
 | 2837 | [Total Traveled Distance](./problems/2800-2899/2837/README.md)                                                         | :lock: | Easy   |                                                             |      |
 | 2838 | [Maximum Coins Heroes Can Collect](./problems/2800-2899/2838/README.md)                                                | :lock: | Medium |                                                             |      |
 | 2839 | [Check if Strings Can be Made Equal With Operations I](./problems/2800-2899/2839/README.md) | :o: | Easy | [str],[lgc] |   |
@@ -2954,7 +2954,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2913 | [Subarrays Distinct Element Sum of Squares I](./problems/2900-2999/2913/README.md)                                     | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](./problems/2900-2999/2914/README.md)                       | :o:    | Medium | [greedy],[str]                                              |      |
 | 2915 | [Length of the Longest Subsequence That Sums to Target](./problems/2900-2999/2915/README.md)                           | :o:    | Medium | [dp]                                                        |      |
-| 2916 | [Subarrays Distinct Element Sum of Squares II](./problems/2900-2999/2916/README.md)                                    |        | Hard   |                                                             |      |
+| 2916 | [Subarrays Distinct Element Sum of Squares II](./problems/2900-2999/2916/README.md) | :o: | Hard | [ds],[dp] |   |
 | 2917 | [Find the K-or of an Array](./problems/2900-2999/2917/README.md) | :o: | Easy | [arr],[bit] |   |
 | 2918 | [Minimum Equal Sum of Two Arrays After Replacing Zeros](./problems/2900-2999/2918/README.md)                           | :o:    | Medium | [arr],[greedy]                                              |      |
 | 2919 | [Minimum Increment Operations to Make Array Beautiful](./problems/2900-2999/2919/README.md) | :o: | Medium | [dp] |   |
@@ -2973,7 +2973,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2932 | [Maximum Strong Pair XOR I](./problems/2900-2999/2932/README.md) | :o: | Easy | [arr],[bit] |   |
 | 2933 | [High-Access Employees](./problems/2900-2999/2933/README.md)                                                           | :o:    | Medium | [hsh],[sd]                                                  |      |
 | 2934 | [Minimum Operations to Maximize Last Elements in Arrays](./problems/2900-2999/2934/README.md)                          | :o:    | Medium | [arr],[grd]                                                 |      |
-| 2935 | [Maximum Strong Pair XOR II](./problems/2900-2999/2935/README.md)                                                      |        | Hard   |                                                             |      |
+| 2935 | [Maximum Strong Pair XOR II](./problems/2900-2999/2935/README.md) | :o: | Hard | [bit],[tp] | :+1:  |
 | 2936 | [Number of Equal Numbers Blocks](./problems/2900-2999/2936/README.md)                                                  | :lock: | Medium |                                                             |      |
 | 2937 | [Make Three Strings Equal](./problems/2900-2999/2937/README.md) | :o: | Easy | [str] |   |
 | 2938 | [Separate Black and White Balls](./problems/2900-2999/2938/README.md)                                                  | :o:    | Medium | [str],[greedy]                                              |      |
@@ -2983,7 +2983,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2942 | [Find Words Containing Character](./problems/2900-2999/2942/README.md) | :o: | Easy | [arr],[str] |   |
 | 2943 | [Maximize Area of Square Hole in Grid](./problems/2900-2999/2943/README.md)                                            | :o:    | Medium | [arr],[grd]                                                 |      |
 | 2944 | [Minimum Number of Coins for Fruits](./problems/2900-2999/2944/README.md)                                              | :o:    | Medium | [dp],[arr]                                                  |      |
-| 2945 | [Find Maximum Non-decreasing Array Length](./problems/2900-2999/2945/README.md)                                        |        | Hard   |                                                             |      |
+| 2945 | [Find Maximum Non-decreasing Array Length](./problems/2900-2999/2945/README.md) | :o: | Hard | [dp] | :+1:  |
 | 2946 | [Matrix Similarity After Cyclic Shifts](./problems/2900-2999/2946/README.md)                                           | :o:    | Easy   | [arr],[lgc]                                                 |      |
 | 2947 | [Count Beautiful Substrings I](./problems/2900-2999/2947/README.md)                                                    | :o:    | Medium | [str],[arr]                                                 |      |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./problems/2900-2999/2948/README.md)                      | :o:    | Medium | [arr]                                                       |      |
@@ -2992,7 +2992,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2951 | [Find the Peaks](./problems/2900-2999/2951/README.md) | :o: | Easy | [arr] |   |
 | 2952 | [Minimum Number of Coins to be Added](./problems/2900-2999/2952/README.md)                                             | :o:    | Medium | [greedy]                                                    |      |
 | 2953 | [Count Complete Substrings](./problems/2900-2999/2953/README.md)                                                       |        | Hard   |                                                             |      |
-| 2954 | [Count the Number of Infection Sequences](./problems/2900-2999/2954/README.md)                                         |        | Hard   |                                                             |      |
+| 2954 | [Count the Number of Infection Sequences](./problems/2900-2999/2954/README.md) | :o: | Hard | [math],[com] |   |
 | 2955 | [Number of Same-End Substrings](./problems/2900-2999/2955/README.md)                                                   | :lock: | Medium |                                                             |      |
 | 2956 | [Find Common Elements Between Two Arrays](./problems/2900-2999/2956/README.md)                                         | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2957 | [Remove Adjacent Almost-Equal Characters](./problems/2900-2999/2957/README.md)                                         | :o:    | Medium | [str],[grd]                                                 |      |
@@ -3001,12 +3001,12 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2960 | [Count Tested Devices After Test Operations](./problems/2900-2999/2960/README.md)                                      | :o:    | Easy   | [arr],[lgc]                                                 |      |
 | 2961 | [Double Modular Exponentiation](./problems/2900-2999/2961/README.md)                                                   | :o:    | Medium | [math],[lgc]                                                |      |
 | 2962 | [Count Subarrays Where Max Element Appears at Least K Times](./problems/2900-2999/2962/README.md)                      | :o:    | Medium | [arr]                                                       |      |
-| 2963 | [Count the Number of Good Partitions](./problems/2900-2999/2963/README.md)                                             |        | Hard   |                                                             |      |
+| 2963 | [Count the Number of Good Partitions](./problems/2900-2999/2963/README.md) | :o: | Hard | [hsh],[grd] |   |
 | 2964 | [Number of Divisible Triplet Sums](./problems/2900-2999/2964/README.md)                                                | :lock: | Medium |                                                             |      |
 | 2965 | [Find Missing and Repeated Values](./problems/2900-2999/2965/README.md)                                                | :o:    | Easy   | [arr]                                                       |      |
 | 2966 | [Divide Array Into Arrays With Max Difference](./problems/2900-2999/2966/README.md)                                    | :o:    | Medium | [arr],[grd]                                                 |      |
 | 2967 | [Minimum Cost to Make Array Equalindromic](./problems/2900-2999/2967/README.md) | :o: | Medium | [arr],[math],[grd] | :+1:  |
-| 2968 | [Apply Operations to Maximize Frequency Score](./problems/2900-2999/2968/README.md)                                    |        | Hard   |                                                             |      |
+| 2968 | [Apply Operations to Maximize Frequency Score](./problems/2900-2999/2968/README.md) | :o: | Hard | [arr],[sd] | :+1:  |
 | 2969 | [Minimum Number of Coins for Fruits II](./problems/2900-2999/2969/README.md)                                           | :lock: | Hard   |                                                             |      |
 | 2970 | [Count the Number of Incremovable Subarrays I](./problems/2900-2999/2970/README.md)                                    | :o:    | Easy   | [arr]                                                       |      |
 | 2971 | [Find Polygon With the Largest Perimeter](./problems/2900-2999/2971/README.md)                                         | :o:    | Medium | [arr]                                                       |      |
@@ -3037,7 +3037,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./problems/2900-2999/2996/README.md)                     | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2997 | [Minimum Number of Operations to Make Array XOR Equal to K](./problems/2900-2999/2997/README.md)                       | :o:    | Medium | [arr],[bit]                                                 |      |
 | 2998 | [Minimum Number of Operations to Make X and Y Equal](./problems/2900-2999/2998/README.md)                              | :o:    | Medium | [bfs],[math]                                                |      |
-| 2999 | [Count the Number of Powerful Integers](./problems/2900-2999/2999/README.md)                                           |        | Hard   |                                                             |      |
+| 2999 | [Count the Number of Powerful Integers](./problems/2900-2999/2999/README.md) | :o: | Hard | [dp] |   |
 | 3000 | [Maximum Area of Longest Diagonal Rectangle](./problems/3000-3099/3000/README.md) | :o: | Easy | [arr],[math] |   |
 | 3001 | [Minimum Moves to Capture The Queen](./problems/3000-3099/3001/README.md)                                              | :o:    | Medium | [lgc],[math]                                                |      |
 | 3002 | [Maximum Size of a Set After Removals](./problems/3000-3099/3002/README.md) | :o: | Medium | [grd],[hsh],[arr] |   |
@@ -3046,16 +3046,16 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3005 | [Count Elements With Maximum Frequency](./problems/3000-3099/3005/README.md)                                           | :o:    | Easy   | [hsh]                                                       |      |
 | 3006 | [Find Beautiful Indices in the Given Array I](./problems/3000-3099/3006/README.md) | :o: | Medium | [str],[bs] |   |
 | 3007 | [Maximum Number That Sum of the Prices Is Less Than or Equal to K](./problems/3000-3099/3007/README.md)                | :o:    | Medium | [bs],[bit]                                                  |      |
-| 3008 | [Find Beautiful Indices in the Given Array II](./problems/3000-3099/3008/README.md)                                    |        | Hard   |                                                             |      |
+| 3008 | [Find Beautiful Indices in the Given Array II](./problems/3000-3099/3008/README.md) | :o: | Hard | [str],[tp] |   |
 | 3009 | [Maximum Number of Intersections on the Chart](./problems/3000-3099/3009/README.md)                                    | :lock: | Hard   |                                                             |      |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](./problems/3000-3099/3010/README.md)                              | :o:    | Easy   | [arr]                                                       |      |
 | 3011 | [Find if Array Can Be Sorted](./problems/3000-3099/3011/README.md)                                                     | :o:    | Medium | [arr],[bit]                                                 |      |
 | 3012 | [Minimize Length of Array Using Operations](./problems/3000-3099/3012/README.md)                                       | :o:    | Medium | [arr],[math]                                                |      |
-| 3013 | [Divide an Array Into Subarrays With Minimum Cost II](./problems/3000-3099/3013/README.md)                             |        | Hard   |                                                             |      |
+| 3013 | [Divide an Array Into Subarrays With Minimum Cost II](./problems/3000-3099/3013/README.md) | :o: | Hard | [sd],[dp] |   |
 | 3014 | [Minimum Number of Pushes to Type Word I](./problems/3000-3099/3014/README.md) | :o: | Easy | [math],[grd] |   |
 | 3015 | [Count the Number of Houses at a Certain Distance I](./problems/3000-3099/3015/README.md) | :o: | Medium | [arr],[math] |   |
 | 3016 | [Minimum Number of Pushes to Type Word II](./problems/3000-3099/3016/README.md)                                        | :o:    | Medium | [str],[greedy]                                              |      |
-| 3017 | [Count the Number of Houses at a Certain Distance II](./problems/3000-3099/3017/README.md)                             |        | Hard   |                                                             |      |
+| 3017 | [Count the Number of Houses at a Certain Distance II](./problems/3000-3099/3017/README.md) | :o: | Hard | [grf],[math] | :+1:  |
 | 3018 | [Maximum Number of Removal Queries That Can Be Processed I](./problems/3000-3099/3018/README.md)                       | :lock: | Hard   |                                                             |      |
 | 3019 | [Number of Changing Keys](./problems/3000-3099/3019/README.md)                                                         | :o:    | Easy   | [str],[lgc]                                                 |      |
 | 3020 | [Find the Maximum Number of Elements in Subset](./problems/3000-3099/3020/README.md)                                   | :o:    | Medium | [hsh],[arr]                                                 |      |
@@ -3069,7 +3069,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3028 | [Ant on the Boundary](./problems/3000-3099/3028/README.md)                                                             | :o:    | Easy   | [arr]                                                       |      |
 | 3029 | [Minimum Time to Revert Word to Initial State I](./problems/3000-3099/3029/README.md)                                  | :o:    | Medium | [str],[lgc]                                                 |      |
 | 3030 | [Find the Grid of Region Average](./problems/3000-3099/3030/README.md) | :o: | Medium | [arr] |   |
-| 3031 | [Minimum Time to Revert Word to Initial State II](./problems/3000-3099/3031/README.md)                                 |        | Hard   |                                                             |      |
+| 3031 | [Minimum Time to Revert Word to Initial State II](./problems/3000-3099/3031/README.md) | :o: | Hard | [str] | :+1:  |
 | 3032 | [Count Numbers With Unique Digits II](./problems/3000-3099/3032/README.md)                                             | :lock: | Easy   |                                                             |      |
 | 3033 | [Modify the Matrix](./problems/3000-3099/3033/README.md)                                                               | :o:    | Easy   | [arr]                                                       |      |
 | 3034 | [Number of Subarrays That Match a Pattern I](./problems/3000-3099/3034/README.md) | :o: | Medium | [arr] |   |
@@ -3087,7 +3087,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3046 | [Split the Array](./problems/3000-3099/3046/README.md)                                                                 | :o:    | Easy   | [arr],[hash]                                                |      |
 | 3047 | [Find the Largest Area of Square Inside Two Rectangles](./problems/3000-3099/3047/README.md) | :o: | Medium | [math],[grd] |   |
 | 3048 | [Earliest Second to Mark Indices I](./problems/3000-3099/3048/README.md) | :o: | Medium | [bs],[grd] |   |
-| 3049 | [Earliest Second to Mark Indices II](./problems/3000-3099/3049/README.md)                                              |        | Hard   |                                                             |      |
+| 3049 | [Earliest Second to Mark Indices II](./problems/3000-3099/3049/README.md) | :o: | Hard | [grd] |   |
 | 3050 | [Pizza Toppings Cost Analysis](./problems/3000-3099/3050/README.md)                                                    | :lock: | Medium |                                                             |      |
 | 3051 | [Find Candidates for Data Scientist Position](./problems/3000-3099/3051/README.md)                                     | :lock: | Easy   |                                                             |      |
 | 3052 | [Maximize Items](./problems/3000-3099/3052/README.md)                                                                  | :lock: | Hard   |                                                             |      |
@@ -3106,7 +3106,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3065 | [Minimum Operations to Exceed Threshold Value I](./problems/3000-3099/3065/README.md)                                  | :o:    | Easy   | [arr],[lgc]                                                 |      |
 | 3066 | [Minimum Operations to Exceed Threshold Value II](./problems/3000-3099/3066/README.md)                                 | :o:    | Medium | [hp]                                                        |      |
 | 3067 | [Count Pairs of Connectable Servers in a Weighted Tree Network](./problems/3000-3099/3067/README.md)                   | :o:    | Medium | [tr],[dfs]                                                  |      |
-| 3068 | [Find the Maximum Sum of Node Values](./problems/3000-3099/3068/README.md)                                             |        | Hard   |                                                             |      |
+| 3068 | [Find the Maximum Sum of Node Values](./problems/3000-3099/3068/README.md) | :o: | Hard | [grf],[bit] | :+1:  |
 | 3069 | [Distribute Elements Into Two Arrays I](./problems/3000-3099/3069/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 3070 | [Count Submatrices with Top-Left Element and Sum Less Than k](./problems/3000-3099/3070/README.md)                     | :o:    | Medium | [arr],[dp]                                                  |      |
 | 3071 | [Minimum Operations to Write the Letter Y on a Grid](./problems/3000-3099/3071/README.md)                              | :o:    | Medium | [arr],[lgc]                                                 |      |
@@ -3120,7 +3120,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3079 | [Find the Sum of Encrypted Integers](./problems/3000-3099/3079/README.md) | :o: | Easy | [math] |   |
 | 3080 | [Mark Elements on Array by Performing Queries](./problems/3000-3099/3080/README.md) | :o: | Medium | [arr],[hp] |   |
 | 3081 | [Replace Question Marks in String to Minimize Its Value](./problems/3000-3099/3081/README.md)                          | :o:    | Medium | [str],[grd]                                                 |      |
-| 3082 | [Find the Sum of the Power of All Subsequences](./problems/3000-3099/3082/README.md)                                   |        | Hard   |                                                             |      |
+| 3082 | [Find the Sum of the Power of All Subsequences](./problems/3000-3099/3082/README.md) | :o: | Hard | [dp],[arr] |   |
 | 3083 | [Existence of a Substring in a String and Its Reverse](./problems/3000-3099/3083/README.md) | :o: | Easy | [str],[hsh] |   |
 | 3084 | [Count Substrings Starting and Ending with Given Character](./problems/3000-3099/3084/README.md) | :o: | Medium | [str],[math] |   |
 | 3085 | [Minimum Deletions to Make String K-Special](./problems/3000-3099/3085/README.md)                                      | :o:    | Medium | [str],[grd]                                                 |      |
@@ -3140,7 +3140,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3099 | [Harshad Number](./problems/3000-3099/3099/README.md) | :o: | Easy | [math] |   |
 | 3100 | [Water Bottles II](./problems/3100-3199/3100/README.md)                                                                | :o:    | Medium | [lgc],[grd]                                                 |      |
 | 3101 | [Count Alternating Subarrays](./problems/3100-3199/3101/README.md)                                                     | :o:    | Medium | [arr],[math]                                                |      |
-| 3102 | [Minimize Manhattan Distances](./problems/3100-3199/3102/README.md)                                                    |        | Hard   |                                                             |      |
+| 3102 | [Minimize Manhattan Distances](./problems/3100-3199/3102/README.md) | :o: | Hard | [math],[arr] |   |
 | 3103 | [Find Trending Hashtags II](./problems/3100-3199/3103/README.md)                                                       | :lock: | Hard   |                                                             |      |
 | 3104 | [Find Longest Self-Contained Substring](./problems/3100-3199/3104/README.md)                                           | :lock: | Hard   |                                                             |      |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./problems/3100-3199/3105/README.md)                     | :o:    | Easy   | [arr]                                                       |      |
@@ -3172,7 +3172,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3131 | [Find the Integer Added to Array I](./problems/3100-3199/3131/README.md)                                               | :o:    | Easy   | [arr],[math]                                                |      |
 | 3132 | [Find the Integer Added to Array II](./problems/3100-3199/3132/README.md)                                              | :o:    | Medium | [arr],[grd]                                                 |      |
 | 3133 | [Minimum Array End](./problems/3100-3199/3133/README.md) | :o: | Medium | [bit] |   |
-| 3134 | [Find the Median of the Uniqueness Array](./problems/3100-3199/3134/README.md)                                         |        | Hard   |                                                             |      |
+| 3134 | [Find the Median of the Uniqueness Array](./problems/3100-3199/3134/README.md) | :o: | Hard | [bs],[sd] | :+1:  |
 | 3135 | [Equalize Strings by Adding or Removing Characters at Ends](./problems/3100-3199/3135/README.md)                       | :lock: | Medium |                                                             |      |
 | 3136 | [Valid Word](./problems/3100-3199/3136/README.md)                                                                      | :o:    | Easy   | [str],[lgc]                                                 |      |
 | 3137 | [Minimum Number of Operations to Make Word K-Periodic](./problems/3100-3199/3137/README.md)                            | :o:    | Medium | [str],[hsh]                                                 |      |
@@ -3183,7 +3183,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3142 | [Check if Grid Satisfies Conditions](./problems/3100-3199/3142/README.md)                                              | :o:    | Easy   | [arr]                                                       |      |
 | 3143 | [Maximum Points Inside the Square](./problems/3100-3199/3143/README.md)                                                | :o:    | Medium | [math],[hsh]                                                |      |
 | 3144 | [Minimum Substring Partition of Equal Character Frequency](./problems/3100-3199/3144/README.md) | :o: | Medium | [dp],[str] | :+1:  |
-| 3145 | [Find Products of Elements of Big Array](./problems/3100-3199/3145/README.md)                                          |        | Hard   |                                                             |      |
+| 3145 | [Find Products of Elements of Big Array](./problems/3100-3199/3145/README.md) | :o: | Hard | [bit],[math] | :+1:  |
 | 3146 | [Permutation Difference between Two Strings](./problems/3100-3199/3146/README.md)                                      | :o:    | Easy   | [str],[hsh]                                                 |      |
 | 3147 | [Taking Maximum Energy From the Mystic Dungeon](./problems/3100-3199/3147/README.md) | :o: | Medium | [dp] |   |
 | 3148 | [Maximum Difference Score in a Grid](./problems/3100-3199/3148/README.md)                                              | :o:    | Medium | [arr],[dp]                                                  |      |
@@ -3192,7 +3192,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3151 | [Special Array I](./problems/3100-3199/3151/README.md)                                                                 | :o:    | Easy   | [arr]                                                       |      |
 | 3152 | [Special Array II](./problems/3100-3199/3152/README.md) | :o: | Medium | [arr],[dp] |   |
 | 3153 | [Sum of Digit Differences of All Pairs](./problems/3100-3199/3153/README.md)                                           | :o:    | Medium | [arr],[greedy]                                              |      |
-| 3154 | [Find Number of Ways to Reach the K-th Stair](./problems/3100-3199/3154/README.md)                                     |        | Hard   |                                                             |      |
+| 3154 | [Find Number of Ways to Reach the K-th Stair](./problems/3100-3199/3154/README.md) | :o: | Hard | [math] | :+1:  |
 | 3155 | [Maximum Number of Upgradable Servers](./problems/3100-3199/3155/README.md)                                            | :lock: | Medium |                                                             |      |
 | 3156 | [Employee Task Duration and Concurrent Tasks](./problems/3100-3199/3156/README.md)                                     | :lock: | Hard   |                                                             |      |
 | 3157 | [Find the Level of Tree with Minimum Sum](./problems/3100-3199/3157/README.md)                                         | :lock: | Medium |                                                             |      |
@@ -3203,19 +3203,19 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3162 | [Find the Number of Good Pairs I](./problems/3100-3199/3162/README.md)                                                 | :o:    | Easy   | [arr],[math]                                                |      |
 | 3163 | [String Compression III](./problems/3100-3199/3163/README.md) | :o: | Medium | [str],[grd] |   |
 | 3164 | [Find the Number of Good Pairs II](./problems/3100-3199/3164/README.md)                                                | :o:    | Medium | [arr],[hsh],[math]                                          |      |
-| 3165 | [Maximum Sum of Subsequence With Non-adjacent Elements](./problems/3100-3199/3165/README.md)                           |        | Hard   |                                                             |      |
+| 3165 | [Maximum Sum of Subsequence With Non-adjacent Elements](./problems/3100-3199/3165/README.md) | :o: | Hard | [dp],[ds] | :+1:  |
 | 3166 | [Calculate Parking Fees and Duration](./problems/3100-3199/3166/README.md)                                             | :lock: | Medium |                                                             |      |
 | 3167 | [Better Compression of String](./problems/3100-3199/3167/README.md)                                                    | :lock: | Medium |                                                             |      |
 | 3168 | [Minimum Number of Chairs in a Waiting Room](./problems/3100-3199/3168/README.md)                                      | :o:    | Easy   | [lgc]                                                       |      |
 | 3169 | [Count Days Without Meetings](./problems/3100-3199/3169/README.md)                                                     | :o:    | Medium | [arr],[grd]                                                 |      |
 | 3170 | [Lexicographically Minimum String After Removing Stars](./problems/3100-3199/3170/README.md)                           | :o:    | Medium | [stack]                                                     |      |
-| 3171 | [Find Subarray With Bitwise OR Closest to K](./problems/3100-3199/3171/README.md)                                      |        | Hard   |                                                             |      |
+| 3171 | [Find Subarray With Bitwise OR Closest to K](./problems/3100-3199/3171/README.md) | :o: | Hard | [bit],[grd] |   |
 | 3172 | [Second Day Verification](./problems/3100-3199/3172/README.md)                                                         | :lock: | Easy   |                                                             |      |
 | 3173 | [Bitwise OR of Adjacent Elements](./problems/3100-3199/3173/README.md)                                                 | :lock: | Easy   |                                                             |      |
 | 3174 | [Clear Digits](./problems/3100-3199/3174/README.md)                                                                    | :o:    | Easy   | [stk],[str]                                                 |      |
 | 3175 | [Find The First Player to win K Games in a Row](./problems/3100-3199/3175/README.md)                                   | :o:    | Medium | [arr],[lgc]                                                 |      |
 | 3176 | [Find the Maximum Length of a Good Subsequence I](./problems/3100-3199/3176/README.md)                                 | :o:    | Medium | [dp]                                                        | :+1: |
-| 3177 | [Find the Maximum Length of a Good Subsequence II](./problems/3100-3199/3177/README.md)                                |        | Hard   |                                                             |      |
+| 3177 | [Find the Maximum Length of a Good Subsequence II](./problems/3100-3199/3177/README.md) | :o: | Hard | [dp] | :+1:  |
 | 3178 | [Find the Child Who Has the Ball After K Seconds](./problems/3100-3199/3178/README.md)                                 | :o:    | Easy   | [math]                                                      |      |
 | 3179 | [Find the N-th Value After K Seconds](./problems/3100-3199/3179/README.md) | :o: | Medium | [arr],[math] |   |
 | 3180 | [Maximum Total Reward Using Operations I](./problems/3100-3199/3180/README.md)                                         | :o:    | Medium | [dp]                                                        |      |
@@ -3231,7 +3231,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](./problems/3100-3199/3190/README.md)                 | :o:    | Easy   | [arr],[math]                                                |      |
 | 3191 | [Minimum Operations to Make Binary Array Elements Equal to One I](./problems/3100-3199/3191/README.md)                 | :o:    | Medium | [arr]                                                       |      |
 | 3192 | [Minimum Operations to Make Binary Array Elements Equal to One II](./problems/3100-3199/3192/README.md)                | :o:    | Medium | [arr],[grd]                                                 |      |
-| 3193 | [Count the Number of Inversions](./problems/3100-3199/3193/README.md)                                                  |        | Hard   |                                                             |      |
+| 3193 | [Count the Number of Inversions](./problems/3100-3199/3193/README.md) | :o: | Hard | [dp] |   |
 | 3194 | [Minimum Average of Smallest and Largest Elements](./problems/3100-3199/3194/README.md)                                | :o:    | Easy   | [arr],[tp]                                                  |      |
 | 3195 | [Find the Minimum Area to Cover All Ones I](./problems/3100-3199/3195/README.md)                                       | :o:    | Medium | [arr]                                                       |      |
 | 3196 | [Maximize Total Cost of Alternating Subarrays](./problems/3100-3199/3196/README.md) | :o: | Medium | [dp] |   |
@@ -3247,7 +3247,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3206 | [Alternating Groups I](./problems/3200-3299/3206/README.md) | :o: | Easy | [arr] |   |
 | 3207 | [Maximum Points After Enemy Battles](./problems/3200-3299/3207/README.md) | :o: | Medium | [grd],[arr] |   |
 | 3208 | [Alternating Groups II](./problems/3200-3299/3208/README.md)                                                           | :o:    | Medium | [arr],[sd]                                                  |      |
-| 3209 | [Number of Subarrays With AND Value of K](./problems/3200-3299/3209/README.md)                                         |        | Hard   |                                                             |      |
+| 3209 | [Number of Subarrays With AND Value of K](./problems/3200-3299/3209/README.md) | :o: | Hard | [bit],[arr] |   |
 | 3210 | [Find the Encrypted String](./problems/3200-3299/3210/README.md)                                                       | :o:    | Easy   | [str]                                                       |      |
 | 3211 | [Generate Binary Strings Without Adjacent Zeros](./problems/3200-3299/3211/README.md) | :o: | Medium | [bt] |   |
 | 3212 | [Count Submatrices With Equal Frequency of X and Y](./problems/3200-3299/3212/README.md) | :o: | Medium | [arr],[math] |   |
@@ -3257,7 +3257,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3216 | [Lexicographically Smallest String After a Swap](./problems/3200-3299/3216/README.md)                                  | :o:    | Easy   | [str],[lgc]                                                 |      |
 | 3217 | [Delete Nodes From Linked List Present in Array](./problems/3200-3299/3217/README.md)                                  | :o:    | Medium | [ll],[hsh]                                                  |      |
 | 3218 | [Minimum Cost for Cutting Cake I](./problems/3200-3299/3218/README.md) | :o: | Medium | [grd] | :+1:  |
-| 3219 | [Minimum Cost for Cutting Cake II](./problems/3200-3299/3219/README.md)                                                |        | Hard   |                                                             |      |
+| 3219 | [Minimum Cost for Cutting Cake II](./problems/3200-3299/3219/README.md) | :o: | Hard | [grd] |   |
 | 3220 | [Odd and Even Transactions](./problems/3200-3299/3220/README.md)                                                       | :soon: | Medium |                                                             |      |
 | 3221 | [Maximum Array Hopping Score II](./problems/3200-3299/3221/README.md)                                                  | :lock: | Medium |                                                             |      |
 | 3222 | [Find the Winning Player in Coin Game](./problems/3200-3299/3222/README.md)                                            | :o:    | Easy   | [math],[lgc]                                                |      |
@@ -3288,7 +3288,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3247 | [Number of Subsequences with Odd Sum](./problems/3200-3299/3247/README.md)                                             | :lock: | Medium |                                                             |      |
 | 3248 | [Snake in Matrix](./problems/3200-3299/3248/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 3249 | [Count the Number of Good Nodes](./problems/3200-3299/3249/README.md) | :o: | Medium | [tr],[dfs] |   |
-| 3250 | [Find the Count of Monotonic Pairs I](./problems/3200-3299/3250/README.md)                                             |        | Hard   |                                                             |      |
+| 3250 | [Find the Count of Monotonic Pairs I](./problems/3200-3299/3250/README.md) | :o: | Hard | [dp] | :+1:  |
 | 3251 | [Find the Count of Monotonic Pairs II](./problems/3200-3299/3251/README.md) | :o: | Hard | [dp] |   |
 | 3252 | [Premier League Table Ranking II](./problems/3200-3299/3252/README.md)                                                 | :lock: | Medium |                                                             |      |
 | 3253 | [Construct String with Minimum Cost (Easy)](./problems/3200-3299/3253/README.md)                                       | :lock: | Medium |                                                             |      |
@@ -3299,12 +3299,12 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3258 | [Count Substrings That Satisfy K-Constraint I](./problems/3200-3299/3258/README.md)                                    | :o:    | Easy   | [str],[sd]                                                  |      |
 | 3259 | [Maximum Energy Boost From Two Drinks](./problems/3200-3299/3259/README.md) | :o: | Medium | [dp] |   |
 | 3260 | [Find the Largest Palindrome Divisible by K](./problems/3200-3299/3260/README.md)                                      | :o:    | Hard   | [math],[str]                                                |      |
-| 3261 | [Count Substrings That Satisfy K-Constraint II](./problems/3200-3299/3261/README.md)                                   |        | Hard   |                                                             |      |
+| 3261 | [Count Substrings That Satisfy K-Constraint II](./problems/3200-3299/3261/README.md) | :o: | Hard | [sd],[bfs] |   |
 | 3262 | [Find Overlapping Shifts](./problems/3200-3299/3262/README.md)                                                         | :lock: | Medium |                                                             |      |
 | 3263 | [Convert Doubly Linked List to Array I](./problems/3200-3299/3263/README.md)                                           | :lock: | Easy   |                                                             |      |
 | 3264 | [Final Array State After K Multiplication Operations I](./problems/3200-3299/3264/README.md)                           | :o:    | Easy   | [arr],[lgc]                                                 |      |
 | 3265 | [Count Almost Equal Pairs I](./problems/3200-3299/3265/README.md)                                                      | :o:    | Medium | [arr]                                                       |      |
-| 3266 | [Final Array State After K Multiplication Operations II](./problems/3200-3299/3266/README.md)                          |        | Hard   |                                                             |      |
+| 3266 | [Final Array State After K Multiplication Operations II](./problems/3200-3299/3266/README.md) | :o: | Hard | [hp],[math] |   |
 | 3267 | [Count Almost Equal Pairs II](./problems/3200-3299/3267/README.md)                                                     | :o:    | Hard   | [hsh]                                                       | :+1: |
 | 3268 | [Find Overlapping Shifts II](./problems/3200-3299/3268/README.md)                                                      | :lock: | Hard   |                                                             |      |
 | 3269 | [Constructing Two Increasing Arrays](./problems/3200-3299/3269/README.md)                                              | :lock: | Hard   |                                                             |      |
@@ -3314,19 +3314,19 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3273 | [Minimum Amount of Damage Dealt to Bob](./problems/3200-3299/3273/README.md)                                           | :o:    | Hard   | [grd],[arr]                                                 | :+1: |
 | 3274 | [Check if Two Chessboard Squares Have the Same Color](./problems/3200-3299/3274/README.md)                             | :o:    | Easy   | [math],[lgc]                                                |      |
 | 3275 | [K-th Nearest Obstacle Queries](./problems/3200-3299/3275/README.md) | :o: | Medium | [hp],[arr] |   |
-| 3276 | [Select Cells in Grid With Maximum Score](./problems/3200-3299/3276/README.md)                                         |        | Hard   |                                                             |      |
+| 3276 | [Select Cells in Grid With Maximum Score](./problems/3200-3299/3276/README.md) | :o: | Hard | [dp],[bit] |   |
 | 3277 | [Maximum XOR Score Subarray Queries](./problems/3200-3299/3277/README.md)                                              | :o:    | Hard   | [dp],[bit]                                                  |      |
 | 3278 | [Find Candidates for Data Scientist Position II](./problems/3200-3299/3278/README.md)                                  | :lock: | Medium |                                                             |      |
 | 3279 | [Maximum Total Area Occupied by Pistons](./problems/3200-3299/3279/README.md)                                          | :lock: | Hard   |                                                             |      |
 | 3280 | [Convert Date to Binary](./problems/3200-3299/3280/README.md)                                                          | :o:    | Easy   | [str],[lgc]                                                 |      |
 | 3281 | [Maximize Score of Numbers in Ranges](./problems/3200-3299/3281/README.md) | :o: | Medium | [arr],[bs],[grd] |   |
 | 3282 | [Reach End of Array With Max Score](./problems/3200-3299/3282/README.md)                                               | :o:    | Medium | [arr],[grd]                                                 |      |
-| 3283 | [Maximum Number of Moves to Kill All Pawns](./problems/3200-3299/3283/README.md)                                       |        | Hard   |                                                             |      |
+| 3283 | [Maximum Number of Moves to Kill All Pawns](./problems/3200-3299/3283/README.md) | :o: | Hard | [dp],[grd] |   |
 | 3284 | [Sum of Consecutive Subarrays](./problems/3200-3299/3284/README.md)                                                    | :lock: | Medium |                                                             |      |
 | 3285 | [Find Indices of Stable Mountains](./problems/3200-3299/3285/README.md)                                                | :o:    | Easy   | [arr]                                                       |      |
 | 3286 | [Find a Safe Walk Through a Grid](./problems/3200-3299/3286/README.md) | :o: | Medium | [bfs] |   |
 | 3287 | [Find the Maximum Sequence Value of Array](./problems/3200-3299/3287/README.md) | :o: | Hard | [dp],[bit] |   |
-| 3288 | [Length of the Longest Increasing Path](./problems/3200-3299/3288/README.md)                                           |        | Hard   |                                                             |      |
+| 3288 | [Length of the Longest Increasing Path](./problems/3200-3299/3288/README.md) | :o: | Hard | [arr],[dp] | :+1:  |
 | 3289 | [The Two Sneaky Numbers of Digitville](./problems/3200-3299/3289/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 3290 | [Maximum Multiplication Score](./problems/3200-3299/3290/README.md)                                                    | :o:    | Medium | [dp]                                                        |      |
 | 3291 | [Minimum Number of Valid Strings to Form Target I](./problems/3200-3299/3291/README.md)                                | :o:    | Medium | [hsh],[dp]                                                  |      |
@@ -3341,7 +3341,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3300 | [Minimum Element After Replacement With Digit Sum](./problems/3300-3399/3300/README.md) | :o: | Easy | [arr],[math] |   |
 | 3301 | [Maximize the Total Height of Unique Towers](./problems/3300-3399/3301/README.md)                                      | :o:    | Medium | [grd],[arr]                                                 |      |
 | 3302 | [Find the Lexicographically Smallest Valid Sequence](./problems/3300-3399/3302/README.md) | :o: | Medium | [tp],[str] | :+1:  |
-| 3303 | [Find the Occurrence of First Almost Equal Substring](./problems/3300-3399/3303/README.md)                             |        | Hard   |                                                             |      |
+| 3303 | [Find the Occurrence of First Almost Equal Substring](./problems/3300-3399/3303/README.md) | :o: | Hard | [str] |   |
 | 3304 | [Find the K-th Character in String Game I](./problems/3300-3399/3304/README.md)                                        | :o:    | Easy   | [bit],[math]                                                |      |
 | 3305 | [Count of Substrings Containing Every Vowel and K Consonants I](./problems/3300-3399/3305/README.md) | :o: | Medium | [str],[sd] |   |
 | 3306 | [Count of Substrings Containing Every Vowel and K Consonants II](./problems/3300-3399/3306/README.md)                  | :o:    | Medium | [sd],[hsh]                                                  |      |
@@ -3350,12 +3350,12 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3309 | [Maximum Possible Number by Binary Concatenation](./problems/3300-3399/3309/README.md)                                 | :o:    | Medium | [bit],[math]                                                |      |
 | 3310 | [Remove Methods From Project](./problems/3300-3399/3310/README.md) | :o: | Medium | [grf],[bfs] |   |
 | 3311 | [Construct 2D Grid Matching Graph Layout](./problems/3300-3399/3311/README.md) | :o: | Hard | [grf] | :+1:  |
-| 3312 | [Sorted GCD Pair Queries](./problems/3300-3399/3312/README.md)                                                         |        | Hard   |                                                             |      |
+| 3312 | [Sorted GCD Pair Queries](./problems/3300-3399/3312/README.md) | :o: | Hard | [math],[hsh] |   |
 | 3313 | [Find the Last Marked Nodes in Tree](./problems/3300-3399/3313/README.md)                                              | :lock: | Hard   |                                                             |      |
 | 3314 | [Construct the Minimum Bitwise Array I](./problems/3300-3399/3314/README.md)                                           | :o:    | Easy   | [bit]                                                       |      |
 | 3315 | [Construct the Minimum Bitwise Array II](./problems/3300-3399/3315/README.md)                                          | :o:    | Medium | [bit]                                                       |      |
 | 3316 | [Find Maximum Removals From Source String](./problems/3300-3399/3316/README.md)                                        | :o:    | Medium | [dp],[str]                                                  |      |
-| 3317 | [Find the Number of Possible Ways for an Event](./problems/3300-3399/3317/README.md)                                   |        | Hard   |                                                             |      |
+| 3317 | [Find the Number of Possible Ways for an Event](./problems/3300-3399/3317/README.md) | :o: | Hard | [math],[dp] |   |
 | 3318 | [Find X-Sum of All K-Long Subarrays I](./problems/3300-3399/3318/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 3319 | [K-th Largest Perfect Subtree Size in Binary Tree](./problems/3300-3399/3319/README.md)                                | :o:    | Medium | [tr],[dfs]                                                  |      |
 | 3320 | [Count The Number of Winning Sequences](./problems/3300-3399/3320/README.md) | :o: | Hard | [dp] |   |
@@ -3365,7 +3365,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3324 | [Find the Sequence of Strings Appeared on the Screen](./problems/3300-3399/3324/README.md) | :o: | Medium | [str] |   |
 | 3325 | [Count Substrings With K-Frequency Characters I](./problems/3300-3399/3325/README.md) | :o: | Medium | [str],[sd] |   |
 | 3326 | [Minimum Division Operations to Make Array Non Decreasing](./problems/3300-3399/3326/README.md)                        | :o:    | Medium | [math],[arr]                                                |      |
-| 3327 | [Check if DFS Strings Are Palindromes](./problems/3300-3399/3327/README.md)                                            |        | Hard   |                                                             |      |
+| 3327 | [Check if DFS Strings Are Palindromes](./problems/3300-3399/3327/README.md) | :o: | Hard | [tr],[hsh] |   |
 | 3328 | [Find Cities in Each State II](./problems/3300-3399/3328/README.md)                                                    | :lock: | Medium |                                                             |      |
 | 3329 | [Count Substrings With K-Frequency Characters II](./problems/3300-3399/3329/README.md)                                 | :lock: | Hard   |                                                             |      |
 | 3330 | [Find the Original Typed String I](./problems/3300-3399/3330/README.md) | :o: | Easy | [str] |   |
@@ -3381,15 +3381,15 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3340 | [Check Balanced String](./problems/3300-3399/3340/README.md)                                                           | :o:    | Easy   | [str]                                                       |      |
 | 3341 | [Find Minimum Time to Reach Last Room I](./problems/3300-3399/3341/README.md) | :o: | Medium | [arr],[grf] |   |
 | 3342 | [Find Minimum Time to Reach Last Room II](./problems/3300-3399/3342/README.md)                                         | :o:    | Medium | [bfs],[grd]                                                 |      |
-| 3343 | [Count Number of Balanced Permutations](./problems/3300-3399/3343/README.md)                                           |        | Hard   |                                                             |      |
+| 3343 | [Count Number of Balanced Permutations](./problems/3300-3399/3343/README.md) | :o: | Hard | [dp],[math] |   |
 | 3344 | [Maximum Sized Array](./problems/3300-3399/3344/README.md)                                                             | :lock: | Medium |                                                             |      |
 | 3345 | [Smallest Divisible Digit Product I](./problems/3300-3399/3345/README.md) | :o: | Easy | [math] |   |
 | 3346 | [Maximum Frequency of an Element After Performing Operations I](./problems/3300-3399/3346/README.md)                   | :o:    | Medium | [arr],[bs],[sd]                                             | :+1: |
 | 3347 | [Maximum Frequency of an Element After Performing Operations II](./problems/3300-3399/3347/README.md) | :o: | Hard | [arr],[bs] |   |
-| 3348 | [Smallest Divisible Digit Product II](./problems/3300-3399/3348/README.md)                                             |        | Hard   |                                                             |      |
+| 3348 | [Smallest Divisible Digit Product II](./problems/3300-3399/3348/README.md) | :o: | Hard | [math],[grd] |   |
 | 3349 | [Adjacent Increasing Subarrays Detection I](./problems/3300-3399/3349/README.md) | :o: | Easy | [arr] |   |
 | 3350 | [Adjacent Increasing Subarrays Detection II](./problems/3300-3399/3350/README.md)                                      | :o:    | Medium | [arr]                                                       |      |
-| 3351 | [Sum of Good Subsequences](./problems/3300-3399/3351/README.md)                                                        |        | Hard   |                                                             |      |
+| 3351 | [Sum of Good Subsequences](./problems/3300-3399/3351/README.md) | :o: | Hard | [dp] | :+1:  |
 | 3352 | [Count K-Reducible Numbers Less Than N](./problems/3300-3399/3352/README.md)                                           | :o:    | Hard   | [dp],[bit],[math]                                           |      |
 | 3353 | [Minimum Total Operations](./problems/3300-3399/3353/README.md)                                                        | :lock: | Easy   |                                                             |      |
 | 3354 | [Make Array Elements Equal to Zero](./problems/3300-3399/3354/README.md)                                               | :o:    | Easy   | [arr],[lgc]                                                 |      |
@@ -3420,7 +3420,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3379 | [Transformed Array](./problems/3300-3399/3379/README.md)                                                               | :o:    | Easy   | [arr],[lgc]                                                 |      |
 | 3380 | [Maximum Area Rectangle With Point Constraints I](./problems/3300-3399/3380/README.md) | :o: | Medium | [arr],[lgc] |   |
 | 3381 | [Maximum Subarray Sum With Length Divisible by K](./problems/3300-3399/3381/README.md) | :o: | Medium | [arr],[dp] |   |
-| 3382 | [Maximum Area Rectangle With Point Constraints II](./problems/3300-3399/3382/README.md)                                |        | Hard   |                                                             |      |
+| 3382 | [Maximum Area Rectangle With Point Constraints II](./problems/3300-3399/3382/README.md) | :o: | Hard | [arr],[ds] | :+1:  |
 | 3383 | [Minimum Runes to Add to Cast Spell](./problems/3300-3399/3383/README.md)                                              | :lock: | Hard   |                                                             |      |
 | 3384 | [Team Dominance by Pass Success](./problems/3300-3399/3384/README.md)                                                  | :lock: | Hard   |                                                             |      |
 | 3385 | [Minimum Time to Break Locks II](./problems/3300-3399/3385/README.md)                                                  | :lock: | Hard   |                                                             |      |
@@ -3725,81 +3725,124 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3852 | [Smallest Pair With Different Frequencies](./problems/3800-3899/3852/README.md) | :o: | Easy | [hsh] |   |
 | 3513 | [Number of Unique XOR Triplets I](./problems/3500-3599/3513/README.md) | :o: | Medium | [math] |   |
 | 3534 | [Path Existence Queries in a Graph II](./problems/3500-3599/3534/README.md) | :o: | Hard | [grf],[bs] | :+1:  |
-| 3453 | [Separate Squares I](./problems/3400-3499/3453/README.md) | :o: | Medium | [bs],[math] |   |
-| 3572 | [Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values](./problems/3500-3599/3572/README.md) | :o: | Medium | [arr],[grd] |   |
-| 3409 | [Longest Subsequence With Decreasing Adjacent Difference](./problems/3400-3499/3409/README.md) | :o: | Medium | [dp] |   |
-| 3720 | [Lexicographically Smallest Permutation Greater Than Target](./problems/3700-3799/3720/README.md) | :o: | Medium | [str],[bt] |   |
-| 3829 | [Design Ride Sharing System](./problems/3800-3899/3829/README.md) | :o: | Medium | [des],[q] |   |
-| 3776 | [Minimum Moves to Balance Circular Array](./problems/3700-3799/3776/README.md) | :o: | Medium | [grd] |   |
-| 3649 | [Number of Perfect Pairs](./problems/3600-3699/3649/README.md) | :o: | Medium | [arr],[tp] |   |
-| 3567 | [Minimum Absolute Difference in Sliding Submatrix](./problems/3500-3599/3567/README.md) | :o: | Medium | [arr] |   |
-| 3885 | [Design Event Manager](./problems/3800-3899/3885/README.md) | :o: | Medium | [des],[hp] |   |
-| 3552 | [Grid Teleportation Traversal](./problems/3500-3599/3552/README.md) | :o: | Medium | [bfs] |   |
-| 3393 | [Count Paths With the Given XOR Value](./problems/3300-3399/3393/README.md) | :o: | Medium | [dp] |   |
-| 3402 | [Minimum Operations to Make Columns Strictly Increasing](./problems/3400-3499/3402/README.md) | :o: | Easy | [grd] |   |
-| 1775 | [Equal Sum Arrays With Minimum Number of Operations](./problems/1700-1799/1775/README.md) | :o: | Medium | [grd] |   |
-| 3858 | [Minimum Bitwise OR From Grid](./problems/3800-3899/3858/README.md) | :o: | Medium | [grd],[bit] |   |
-| 3767 | [Maximize Points After Choosing K Tasks](./problems/3700-3799/3767/README.md) | :o: | Medium | [grd],[arr] |   |
-| 3531 | [Count Covered Buildings](./problems/3500-3599/3531/README.md) | :o: | Medium | [hsh],[arr] |   |
-| 3701 | [Compute Alternating Sum](./problems/3700-3799/3701/README.md) | :o: | Easy | [arr] |   |
-| 3635 | [Earliest Finish Time for Land and Water Rides II](./problems/3600-3699/3635/README.md) | :o: | Medium | [grd] |   |
-| 3781 | [Maximum Score After Binary Swaps](./problems/3700-3799/3781/README.md) | :o: | Medium | [grd],[hp] |   |
-| 3578 | [Count Partitions With Max-Min Difference at Most K](./problems/3500-3599/3578/README.md) | :o: | Medium | [dp],[sd] |   |
-| 3728 | [Stable Subarrays With Equal Boundary and Interior Sum](./problems/3700-3799/3728/README.md) | :o: | Medium | [hsh],[pfx] |   |
-| 3679 | [ Minimum Discards to Balance Inventory](./problems/3600-3699/3679/README.md) | :o: | Medium | [grd],[sd] |   |
-| 3835 | [Count Subarrays With Cost Less Than or Equal to K](./problems/3800-3899/3835/README.md) | :o: | Medium | [arr],[sd] |   |
-| 3698 | [Split Array With Minimum Difference](./problems/3600-3699/3698/README.md) | :o: | Medium | [arr] |   |
-| 3503 | [Longest Palindrome After Substring Concatenation I](./problems/3500-3599/3503/README.md) | :o: | Medium | [str] |   |
-| 3557 | [Find Maximum Number of Non Intersecting Substrings](./problems/3500-3599/3557/README.md) | :o: | Medium | [str],[grd] |   |
-| 3432 | [Count Partitions with Even Sum Difference](./problems/3400-3499/3432/README.md) | :o: | Easy | [arr],[math] |   |
-| 3550 | [Smallest Index With Digit Sum Equal to Index](./problems/3500-3599/3550/README.md) | :o: | Easy | [arr] |   |
-| 3603 | [Minimum Cost Path with Alternating Directions II](./problems/3600-3699/3603/README.md) | :o: | Medium | [dp] |   |
-| 1781 | [Sum of Beauty of All Substrings](./problems/1700-1799/1781/README.md) | :o: | Medium | [str],[hsh] |   |
-| 3528 | [Unit Conversion I](./problems/3500-3599/3528/README.md) | :o: | Medium | [grf],[bfs] |   |
-| 3479 | [Fruits Into Baskets III](./problems/3400-3499/3479/README.md) | :o: | Medium | [ds],[grd] |   |
-| 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./problems/3700-3799/3702/README.md) | :o: | Medium | [bit],[arr],[lgc] |   |
-| 3452 | [Sum of Good Numbers](./problems/3400-3499/3452/README.md) | :o: | Easy | [arr] |   |
-| 3714 | [Longest Balanced Substring II](./problems/3700-3799/3714/README.md) | :o: | Medium | [str],[hsh] |   |
-| 3628 | [Maximum Number of Subsequences After One Inserting](./problems/3600-3699/3628/README.md) | :o: | Medium | [str],[dp] |   |
-| 3484 | [Design Spreadsheet](./problems/3400-3499/3484/README.md) | :o: | Medium | [des],[hsh] |   |
-| 3523 | [Make Array Non-decreasing](./problems/3500-3599/3523/README.md) | :o: | Medium | [arr],[grd] |   |
-| 3678 | [Smallest Absent Positive Greater Than Average](./problems/3600-3699/3678/README.md) | :o: | Easy | [arr],[hsh] |   |
-| 3815 | [Design Auction System](./problems/3800-3899/3815/README.md) | :o: | Medium | [des],[ds],[hp] |   |
-| 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](./problems/1700-1799/1744/README.md) | :o: | Medium | [arr],[math] |   |
-| 3458 | [Select K Disjoint Special Substrings](./problems/3400-3499/3458/README.md) | :o: | Medium | [str],[grd] |   |
-| 3675 | [Minimum Operations to Transform String](./problems/3600-3699/3675/README.md) | :o: | Medium | [str] |   |
-| 3697 | [Compute Decimal Representation](./problems/3600-3699/3697/README.md) | :o: | Easy | [math] |   |
+| 1735 | [Count Ways to Make Array With Product](./problems/1700-1799/1735/README.md) | :o: | Hard | [math],[dp] |   |
 | 1736 | [Latest Time by Replacing Hidden Digits](./problems/1700-1799/1736/README.md) | :o: | Easy | [str],[lgc] |   |
-| 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](./problems/3700-3799/3756/README.md) | :o: | Medium | [str],[dp] |   |
-| 3457 | [Eat Pizzas!](./problems/3400-3499/3457/README.md) | :o: | Medium | [grd],[arr] |   |
-| 3660 | [Jump Game IX](./problems/3600-3699/3660/README.md) | :o: | Medium | [arr],[dp] | :+1:  |
-| 3493 | [Properties Graph](./problems/3400-3499/3493/README.md) | :o: | Medium | [hsh],[grf] |   |
-| 3805 | [Count Caesar Cipher Pairs](./problems/3800-3899/3805/README.md) | :o: | Medium | [hsh],[str] |   |
-| 3514 | [Number of Unique XOR Triplets II](./problems/3500-3599/3514/README.md) | :o: | Medium | [bit],[dp] | :+1:  |
-| 3659 | [Partition Array Into K-Distinct Groups](./problems/3600-3699/3659/README.md) | :o: | Medium | [hsh],[arr] |   |
-| 3760 | [Maximum Substrings With Distinct Start](./problems/3700-3799/3760/README.md) | :o: | Medium | [str] |   |
-| 3652 | [Best Time to Buy and Sell Stock using Strategy](./problems/3600-3699/3652/README.md) | :o: | Medium | [arr],[grd] |   |
-| 3472 | [Longest Palindromic Subsequence After at Most K Operations](./problems/3400-3499/3472/README.md) | :o: | Medium | [str],[dp] | :+1:  |
-| 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](./problems/3700-3799/3754/README.md) | :o: | Easy | [math] |   |
-| 3461 | [Check If Digits Are Equal in String After Operations I](./problems/3400-3499/3461/README.md) | :o: | Easy | [math],[str] |   |
-| 3607 | [Power Grid Maintenance](./problems/3600-3699/3607/README.md) | :o: | Medium | [grf],[ds] | :+1:  |
-| 3568 | [Minimum Moves to Clean the Classroom](./problems/3500-3599/3568/README.md) | :o: | Medium | [bfs] | :+1:  |
-| 3692 | [Majority Frequency Characters](./problems/3600-3699/3692/README.md) | :o: | Easy | [hsh] |   |
-| 3789 | [Minimum Cost to Acquire Required Items](./problems/3700-3799/3789/README.md) | :o: | Medium | [math],[grd] | :+1:  |
-| 3623 | [Count Number of Trapezoids I](./problems/3600-3699/3623/README.md) | :o: | Medium | [math],[hsh] | :+1:  |
-| 3724 | [Minimum Operations to Transform Array](./problems/3700-3799/3724/README.md) | :o: | Medium | [arr],[math] | :+1:  |
-| 3517 | [Smallest Palindromic Rearrangement I](./problems/3500-3599/3517/README.md) | :o: | Medium | [str] |   |
-| 3891 | [Minimum Increase to Maximize Special Indices](./problems/3800-3899/3891/README.md) | :o: | Medium | [dp] | :+1:  |
-| 3745 | [Maximize Expression of Three Elements](./problems/3700-3799/3745/README.md) | :o: | Easy | [arr] |   |
-| 3738 | [Longest Non-Decreasing Subarray After Replacing at Most One Element](./problems/3700-3799/3738/README.md) | :o: | Medium | [dp] | :+1:  |
-| 3666 | [Minimum Operations to Equalize Binary String](./problems/3600-3699/3666/README.md) | :o: | Hard | [math] |   |
-| 3878 | [Count Good Subarrays](./problems/3800-3899/3878/README.md) | :o: | Hard | [bit] | :+1:  |
-| 3864 | [Minimum Cost to Partition a Binary String](./problems/3800-3899/3864/README.md) | :o: | Hard | [dp],[dc] |   |
+| 1739 | [Building Boxes](./problems/1700-1799/1739/README.md) | :o: | Hard | [math] | :+1:  |
+| 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](./problems/1700-1799/1744/README.md) | :o: | Medium | [arr],[math] |   |
+| 1751 | [Maximum Number of Events That Can Be Attended II](./problems/1700-1799/1751/README.md) | :o: | Hard | [dp] | :+1:  |
+| 1766 | [Tree of Coprimes](./problems/1700-1799/1766/README.md) | :o: | Hard | [tr],[dfs] | :+1:  |
+| 1770 | [Maximum Score from Performing Multiplication Operations](./problems/1700-1799/1770/README.md) | :o: | Hard | [dp] | :+1:  |
+| 1775 | [Equal Sum Arrays With Minimum Number of Operations](./problems/1700-1799/1775/README.md) | :o: | Medium | [grd] |   |
+| 1781 | [Sum of Beauty of All Substrings](./problems/1700-1799/1781/README.md) | :o: | Medium | [str],[hsh] |   |
+| 1782 | [Count Pairs Of Nodes](./problems/1700-1799/1782/README.md) | :o: | Hard | [arr],[grf] | :+1:  |
+| 3393 | [Count Paths With the Given XOR Value](./problems/3300-3399/3393/README.md) | :o: | Medium | [dp] |   |
 | 3395 | [Subsequences with a Unique Middle Mode I](./problems/3300-3399/3395/README.md) | :o: | Hard | [math],[dp] |   |
+| 3398 | [Smallest Substring With Identical Characters I](./problems/3300-3399/3398/README.md) | :o: | Hard | [bs],[grd] | :+1:  |
+| 3399 | [Smallest Substring With Identical Characters II](./problems/3300-3399/3399/README.md) | :o: | Hard | [bs],[str] | :+1:  |
+| 3402 | [Minimum Operations to Make Columns Strictly Increasing](./problems/3400-3499/3402/README.md) | :o: | Easy | [grd] |   |
+| 3409 | [Longest Subsequence With Decreasing Adjacent Difference](./problems/3400-3499/3409/README.md) | :o: | Medium | [dp] |   |
+| 3414 | [Maximum Score of Non-overlapping Intervals](./problems/3400-3499/3414/README.md) | :o: | Hard | [dp] | :+1:  |
+| 3420 | [Count Non-Decreasing Subarrays After K Operations](./problems/3400-3499/3420/README.md) | :o: | Hard | [stk],[sd] | :+1:  |
+| 3426 | [Manhattan Distances of All Arrangements of Pieces](./problems/3400-3499/3426/README.md) | :o: | Hard | [math],[dp] |   |
+| 3430 | [Maximum and Minimum Sums of at Most Size K Subarrays](./problems/3400-3499/3430/README.md) | :o: | Hard | [stk],[arr],[math] |   |
+| 3432 | [Count Partitions with Even Sum Difference](./problems/3400-3499/3432/README.md) | :o: | Easy | [arr],[math] |   |
+| 3435 | [Frequencies of Shortest Supersequences](./problems/3400-3499/3435/README.md) | :o: | Hard | [grf],[bt] | :+1:  |
+| 3445 | [Maximum Difference Between Even and Odd Frequency II](./problems/3400-3499/3445/README.md) | :o: | Hard | [arr],[sd] | :+1:  |
+| 3452 | [Sum of Good Numbers](./problems/3400-3499/3452/README.md) | :o: | Easy | [arr] |   |
+| 3453 | [Separate Squares I](./problems/3400-3499/3453/README.md) | :o: | Medium | [bs],[math] |   |
+| 3454 | [Separate Squares II](./problems/3400-3499/3454/README.md) | :o: | Hard | [grf],[bs] | :+1:  |
+| 3457 | [Eat Pizzas!](./problems/3400-3499/3457/README.md) | :o: | Medium | [grd],[arr] |   |
+| 3458 | [Select K Disjoint Special Substrings](./problems/3400-3499/3458/README.md) | :o: | Medium | [str],[grd] |   |
+| 3461 | [Check If Digits Are Equal in String After Operations I](./problems/3400-3499/3461/README.md) | :o: | Easy | [math],[str] |   |
+| 3470 | [Permutations IV](./problems/3400-3499/3470/README.md) | :o: | Hard | [math],[dp] |   |
+| 3472 | [Longest Palindromic Subsequence After at Most K Operations](./problems/3400-3499/3472/README.md) | :o: | Medium | [str],[dp] | :+1:  |
+| 3474 | [Lexicographically Smallest Generated String](./problems/3400-3499/3474/README.md) | :o: | Hard | [str],[grd] |   |
+| 3479 | [Fruits Into Baskets III](./problems/3400-3499/3479/README.md) | :o: | Medium | [ds],[grd] |   |
+| 3484 | [Design Spreadsheet](./problems/3400-3499/3484/README.md) | :o: | Medium | [des],[hsh] |   |
+| 3485 | [Longest Common Prefix of K Strings After Removal](./problems/3400-3499/3485/README.md) | :o: | Hard | [tr],[hsh] |   |
+| 3493 | [Properties Graph](./problems/3400-3499/3493/README.md) | :o: | Medium | [hsh],[grf] |   |
 | 3501 | [Maximize Active Section with Trade II](./problems/3500-3599/3501/README.md) | :o: | Hard | [str],[dp] |   |
-| 3743 | [Maximize Cyclic Partition Score](./problems/3700-3799/3743/README.md) | :o: | Hard | [dp],[arr] | :+1:  |
-| 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](./problems/3700-3799/3734/README.md) | :o: | Hard | [str],[grd] |   |
+| 3503 | [Longest Palindrome After Substring Concatenation I](./problems/3500-3599/3503/README.md) | :o: | Medium | [str] |   |
+| 3514 | [Number of Unique XOR Triplets II](./problems/3500-3599/3514/README.md) | :o: | Medium | [bit],[dp] | :+1:  |
+| 3515 | [Shortest Path in a Weighted Tree](./problems/3500-3599/3515/README.md) | :o: | Hard | [tr],[ds] |   |
+| 3517 | [Smallest Palindromic Rearrangement I](./problems/3500-3599/3517/README.md) | :o: | Medium | [str] |   |
+| 3523 | [Make Array Non-decreasing](./problems/3500-3599/3523/README.md) | :o: | Medium | [arr],[grd] |   |
+| 3528 | [Unit Conversion I](./problems/3500-3599/3528/README.md) | :o: | Medium | [grf],[bfs] |   |
 | 3529 | [Count Cells in Overlapping Horizontal and Vertical Substrings](./problems/3500-3599/3529/README.md) | :o: | Medium | [str],[hsh] |   |
-| 3752 | [Lexicographically Smallest Negated Permutation that Sums to Target](./problems/3700-3799/3752/README.md) | :o: | Medium | [grd],[math] |   |
-| 3825 | [Longest Strictly Increasing Subsequence With Non-Zero Bitwise AND](./problems/3800-3899/3825/README.md) | :o: | Medium | [dp],[bit] |   |
+| 3531 | [Count Covered Buildings](./problems/3500-3599/3531/README.md) | :o: | Medium | [hsh],[arr] |   |
+| 3547 | [Maximum Sum of Edge Values in a Graph](./problems/3500-3599/3547/README.md) | :o: | Hard | [grf],[math] | :+1:  |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](./problems/3500-3599/3550/README.md) | :o: | Easy | [arr] |   |
+| 3552 | [Grid Teleportation Traversal](./problems/3500-3599/3552/README.md) | :o: | Medium | [bfs] |   |
+| 3553 | [Minimum Weighted Subgraph With the Required Paths II](./problems/3500-3599/3553/README.md) | :o: | Hard | [tr],[lca] |   |
+| 3557 | [Find Maximum Number of Non Intersecting Substrings](./problems/3500-3599/3557/README.md) | :o: | Medium | [str],[grd] |   |
+| 3559 | [Number of Ways to Assign Edge Weights II](./problems/3500-3599/3559/README.md) | :o: | Hard | [tr],[math] | :+1:  |
+| 3562 | [Maximum Profit from Trading Stocks with Discounts](./problems/3500-3599/3562/README.md) | :o: | Hard | [tr],[dp] |   |
+| 3563 | [Lexicographically Smallest String After Adjacent Removals](./problems/3500-3599/3563/README.md) | :o: | Hard | [dp],[str] |   |
+| 3567 | [Minimum Absolute Difference in Sliding Submatrix](./problems/3500-3599/3567/README.md) | :o: | Medium | [arr] |   |
+| 3568 | [Minimum Moves to Clean the Classroom](./problems/3500-3599/3568/README.md) | :o: | Medium | [bfs] | :+1:  |
+| 3572 | [Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values](./problems/3500-3599/3572/README.md) | :o: | Medium | [arr],[grd] |   |
+| 3578 | [Count Partitions With Max-Min Difference at Most K](./problems/3500-3599/3578/README.md) | :o: | Medium | [dp],[sd] |   |
+| 3579 | [Minimum Steps to Convert String with Operations](./problems/3500-3599/3579/README.md) | :o: | Hard | [str],[dp] |   |
+| 3600 | [Maximize Spanning Tree Stability with Upgrades](./problems/3600-3699/3600/README.md) | :o: | Hard | [grf],[bs],[grd] |   |
+| 3603 | [Minimum Cost Path with Alternating Directions II](./problems/3600-3699/3603/README.md) | :o: | Medium | [dp] |   |
+| 3607 | [Power Grid Maintenance](./problems/3600-3699/3607/README.md) | :o: | Medium | [grf],[ds] | :+1:  |
+| 3609 | [Minimum Moves to Reach Target in Grid](./problems/3600-3699/3609/README.md) | :o: | Hard | [math],[grd] |   |
+| 3623 | [Count Number of Trapezoids I](./problems/3600-3699/3623/README.md) | :o: | Medium | [math],[hsh] | :+1:  |
+| 3624 | [Number of Integers With Popcount-Depth Equal to K II](./problems/3600-3699/3624/README.md) | :o: | Hard | [bit],[ds] | :+1:  |
+| 3628 | [Maximum Number of Subsequences After One Inserting](./problems/3600-3699/3628/README.md) | :o: | Medium | [str],[dp] |   |
+| 3635 | [Earliest Finish Time for Land and Water Rides II](./problems/3600-3699/3635/README.md) | :o: | Medium | [grd] |   |
+| 3646 | [Next Special Palindrome Number](./problems/3600-3699/3646/README.md) | :o: | Hard | [math] | :+1:  |
+| 3649 | [Number of Perfect Pairs](./problems/3600-3699/3649/README.md) | :o: | Medium | [arr],[tp] |   |
+| 3652 | [Best Time to Buy and Sell Stock using Strategy](./problems/3600-3699/3652/README.md) | :o: | Medium | [arr],[grd] |   |
+| 3655 | [XOR After Range Multiplication Queries II](./problems/3600-3699/3655/README.md) | :o: | Hard | [arr],[math] |   |
+| 3659 | [Partition Array Into K-Distinct Groups](./problems/3600-3699/3659/README.md) | :o: | Medium | [hsh],[arr] |   |
+| 3660 | [Jump Game IX](./problems/3600-3699/3660/README.md) | :o: | Medium | [arr],[dp] | :+1:  |
+| 3661 | [Maximum Walls Destroyed by Robots](./problems/3600-3699/3661/README.md) | :o: | Hard | [grf],[dp] | :+1:  |
+| 3666 | [Minimum Operations to Equalize Binary String](./problems/3600-3699/3666/README.md) | :o: | Hard | [math] |   |
+| 3671 | [Sum of Beautiful Subsequences](./problems/3600-3699/3671/README.md) | :o: | Hard | [math],[dp] |   |
+| 3675 | [Minimum Operations to Transform String](./problems/3600-3699/3675/README.md) | :o: | Medium | [str] |   |
+| 3678 | [Smallest Absent Positive Greater Than Average](./problems/3600-3699/3678/README.md) | :o: | Easy | [arr],[hsh] |   |
+| 3679 | [ Minimum Discards to Balance Inventory](./problems/3600-3699/3679/README.md) | :o: | Medium | [grd],[sd] |   |
+| 3681 | [Maximum XOR of Subsequences](./problems/3600-3699/3681/README.md) | :o: | Hard | [bit],[dp] |   |
+| 3692 | [Majority Frequency Characters](./problems/3600-3699/3692/README.md) | :o: | Easy | [hsh] |   |
+| 3697 | [Compute Decimal Representation](./problems/3600-3699/3697/README.md) | :o: | Easy | [math] |   |
+| 3698 | [Split Array With Minimum Difference](./problems/3600-3699/3698/README.md) | :o: | Medium | [arr] |   |
+| 3699 | [Number of ZigZag Arrays I](./problems/3600-3699/3699/README.md) | :o: | Hard | [dp] |   |
+| 3701 | [Compute Alternating Sum](./problems/3700-3799/3701/README.md) | :o: | Easy | [arr] |   |
+| 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./problems/3700-3799/3702/README.md) | :o: | Medium | [bit],[arr],[lgc] |   |
+| 3704 | [Count No-Zero Pairs That Sum to N](./problems/3700-3799/3704/README.md) | :o: | Hard | [dp],[math] |   |
+| 3714 | [Longest Balanced Substring II](./problems/3700-3799/3714/README.md) | :o: | Medium | [str],[hsh] |   |
+| 3720 | [Lexicographically Smallest Permutation Greater Than Target](./problems/3700-3799/3720/README.md) | :o: | Medium | [str],[bt] |   |
+| 3724 | [Minimum Operations to Transform Array](./problems/3700-3799/3724/README.md) | :o: | Medium | [arr],[math] | :+1:  |
 | 3725 | [Count Ways to Choose Coprime Integers from Rows](./problems/3700-3799/3725/README.md) | :o: | Hard | [math],[dp] |   |
+| 3728 | [Stable Subarrays With Equal Boundary and Interior Sum](./problems/3700-3799/3728/README.md) | :o: | Medium | [hsh],[pfx] |   |
+| 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](./problems/3700-3799/3734/README.md) | :o: | Hard | [str],[grd] |   |
+| 3738 | [Longest Non-Decreasing Subarray After Replacing at Most One Element](./problems/3700-3799/3738/README.md) | :o: | Medium | [dp] | :+1:  |
+| 3743 | [Maximize Cyclic Partition Score](./problems/3700-3799/3743/README.md) | :o: | Hard | [dp],[arr] | :+1:  |
+| 3745 | [Maximize Expression of Three Elements](./problems/3700-3799/3745/README.md) | :o: | Easy | [arr] |   |
+| 3748 | [Count Stable Subarrays](./problems/3700-3799/3748/README.md) | :o: | Hard | [dp],[ds] | :+1:  |
+| 3752 | [Lexicographically Smallest Negated Permutation that Sums to Target](./problems/3700-3799/3752/README.md) | :o: | Medium | [grd],[math] |   |
+| 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](./problems/3700-3799/3754/README.md) | :o: | Easy | [math] |   |
+| 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](./problems/3700-3799/3756/README.md) | :o: | Medium | [str],[dp] |   |
+| 3760 | [Maximum Substrings With Distinct Start](./problems/3700-3799/3760/README.md) | :o: | Medium | [str] |   |
+| 3767 | [Maximize Points After Choosing K Tasks](./problems/3700-3799/3767/README.md) | :o: | Medium | [grd],[arr] |   |
+| 3776 | [Minimum Moves to Balance Circular Array](./problems/3700-3799/3776/README.md) | :o: | Medium | [grd] |   |
+| 3781 | [Maximum Score After Binary Swaps](./problems/3700-3799/3781/README.md) | :o: | Medium | [grd],[hp] |   |
+| 3789 | [Minimum Cost to Acquire Required Items](./problems/3700-3799/3789/README.md) | :o: | Medium | [math],[grd] | :+1:  |
+| 3805 | [Count Caesar Cipher Pairs](./problems/3800-3899/3805/README.md) | :o: | Medium | [hsh],[str] |   |
+| 3815 | [Design Auction System](./problems/3800-3899/3815/README.md) | :o: | Medium | [des],[ds],[hp] |   |
+| 3821 | [Find Nth Smallest Integer With K One Bits](./problems/3800-3899/3821/README.md) | :o: | Hard | [math],[bit] |   |
+| 3825 | [Longest Strictly Increasing Subsequence With Non-Zero Bitwise AND](./problems/3800-3899/3825/README.md) | :o: | Medium | [dp],[bit] |   |
+| 3826 | [Minimum Partition Score](./problems/3800-3899/3826/README.md) | :o: | Hard | [dp] | :+1:  |
+| 3829 | [Design Ride Sharing System](./problems/3800-3899/3829/README.md) | :o: | Medium | [des],[q] |   |
+| 3835 | [Count Subarrays With Cost Less Than or Equal to K](./problems/3800-3899/3835/README.md) | :o: | Medium | [arr],[sd] |   |
+| 3841 | [Palindromic Path Queries in a Tree](./problems/3800-3899/3841/README.md) | :o: | Hard | [tr],[bit],[ds] | :+1:  |
+| 3850 | [Count Sequences to K](./problems/3800-3899/3850/README.md) | :o: | Hard | [dp],[math] |   |
+| 3858 | [Minimum Bitwise OR From Grid](./problems/3800-3899/3858/README.md) | :o: | Medium | [grd],[bit] |   |
+| 3859 | [Count Subarrays With K Distinct Integers](./problems/3800-3899/3859/README.md) | :o: | Hard | [sd],[arr] |   |
+| 3864 | [Minimum Cost to Partition a Binary String](./problems/3800-3899/3864/README.md) | :o: | Hard | [dp],[dc] |   |
+| 3878 | [Count Good Subarrays](./problems/3800-3899/3878/README.md) | :o: | Hard | [bit] | :+1:  |
+| 3883 | [Count Non Decreasing Arrays With Given Digit Sums](./problems/3800-3899/3883/README.md) | :o: | Hard | [dp] |   |
+| 3885 | [Design Event Manager](./problems/3800-3899/3885/README.md) | :o: | Medium | [des],[hp] |   |
+| 3891 | [Minimum Increase to Maximize Special Indices](./problems/3800-3899/3891/README.md) | :o: | Medium | [dp] | :+1:  |
+| 3892 | [Minimum Operations to Achieve At Least K Peaks](./problems/3800-3899/3892/README.md) | :o: | Hard | [dp] |   |

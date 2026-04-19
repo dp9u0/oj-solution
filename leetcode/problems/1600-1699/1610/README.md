@@ -52,17 +52,21 @@ location.length == 2
 
 ```
 
-## Solution
+## 题目翻译
 
-[SourceCode](./solution.js)
-
-## 题意翻译
-
-给定 points 数组、视角 angle 和位置 location，你站在 location 面朝东，可以旋转但不可移动。视野范围是 [d - angle/2, d + angle/2]（d 为逆时针旋转角度）。求旋转后最多能看到多少个点。与 location 重合的点始终可见。
+给定一组点、视角 angle 和观察位置 location。你可以旋转但不能移动。求在任意旋转方向上，视角范围内最多能看到多少个点。与 location 重合的点始终可见。
 
 ## 解题思路
 
-1. 计算每个点相对 location 的极角（atan2），排序后得到角度数组。
-2. 与 location 重合的点直接计数，不参与角度计算。
-3. 将排序后的角度数组复制一份并加上 360（处理跨 0°/360° 的情况），用滑动窗口找最大覆盖。
-4. angle=0 时特判（只看同一方向的点）。
+**极角排序 + 滑动窗口**
+
+1. 计算每个点到 location 的极角（atan2），与 location 重合的点单独计数
+2. 排序极角数组，复制一份加 360° 处理环绕
+3. 滑动窗口找宽度 <= angle 的最大点数
+4. 结果 = 窗口最大值 + 同位置点数
+
+时间 O(n log n)，空间 O(n)。
+
+## Solution
+
+[SourceCode](./solution.js)

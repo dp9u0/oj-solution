@@ -1008,7 +1008,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 931  | [Minimum Falling Path Sum](./problems/900-999/931/README.md)                                                           | :o:    | Medium | [arr],[dp]                                                  |      |
 | 932  | [Beautiful Array](./problems/900-999/932/README.md)                                                                    | :o:    | Medium | [arr],[dc]                                                  |      |
 | 933  | [Number of Recent Calls](./problems/900-999/933/README.md)                                                             | :o:    | Easy   | [des]                                                       |      |
-| 934  | [Shortest Bridge](./problems/900-999/934/README.md)                                                                    |        | Medium |                                                             |      |
+| 934 | [Shortest Bridge](./problems/900-999/934/README.md) | :o: | Medium | [bfs],[dfs] | :+1:  |
 | 935  | [Knight Dialer](./problems/900-999/935/README.md)                                                                      | :o:    | Medium | [dp]                                                        |      |
 | 936  | [Stamping The Sequence](./problems/900-999/936/README.md)                                                              |        | Hard   |                                                             |      |
 | 937  | [Reorder Log Files](./problems/900-999/937/README.md)                                                                  | :o:    | Easy   | [str]                                                       | :-1: |

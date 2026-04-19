@@ -715,7 +715,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 638  | [Shopping Offers](./problems/600-699/638/README.md)                                                                    | :o:    | Medium | [dp]                                                        |      |
 | 639  | [Decode Ways II](./problems/600-699/639/README.md)                                                                     |        | Hard   |                                                             |      |
 | 640  | [Solve the Equation](./problems/600-699/640/README.md)                                                                 | :o:    | Medium | [math]                                                      |      |
-| 641  | [Design Circular Deque](./problems/600-699/641/README.md)                                                              |        | Medium |                                                             |      |
+| 641 | [Design Circular Deque](./problems/600-699/641/README.md) | :o: | Medium | [des],[ds],[q] |   |
 | 642  | [Design Search Autocomplete System](./problems/600-699/642/README.md)                                                  | :lock: | Hard   |                                                             |      |
 | 643  | [Maximum Average Subarray I](./problems/600-699/643/README.md)                                                         | :o:    | Easy   | [arr]                                                       |      |
 | 644  | [Maximum Average Subarray II](./problems/600-699/644/README.md)                                                        | :lock: | Hard   |                                                             |      |

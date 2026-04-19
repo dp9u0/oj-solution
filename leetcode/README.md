@@ -3341,7 +3341,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3300 | [Minimum Element After Replacement With Digit Sum](./problems/3300-3399/3300/README.md)                                |        | Easy   |                                                             |      |
 | 3301 | [Maximize the Total Height of Unique Towers](./problems/3300-3399/3301/README.md)                                      | :o:    | Medium | [grd],[arr]                                                 |      |
 | 3302 | [Find the Lexicographically Smallest Valid Sequence](./problems/3300-3399/3302/README.md)                              |        | Medium |                                                             |      |
-| 3303 | [Find the Occurrence of First Almost Equal Substring](./problems/3300-3399/3303/README.md)                             |        | Hard   |                                                             |      |
+| 3303 | [Find the Occurrence of First Almost Equal Substring](./problems/3300-3399/3303/README.md) | :o: | Hard | [str] |   |
 | 3304 | [Find the K-th Character in String Game I](./problems/3300-3399/3304/README.md)                                        | :o:    | Easy   | [bit],[math]                                                |      |
 | 3305 | [Count of Substrings Containing Every Vowel and K Consonants I](./problems/3300-3399/3305/README.md)                   |        | Medium |                                                             |      |
 | 3306 | [Count of Substrings Containing Every Vowel and K Consonants II](./problems/3300-3399/3306/README.md)                  | :o:    | Medium | [sd],[hsh]                                                  |      |

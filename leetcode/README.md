@@ -3796,3 +3796,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3878 | [Count Good Subarrays](./problems/3800-3899/3878/README.md) | :o: | Hard | [bit] | :+1:  |
 | 3864 | [Minimum Cost to Partition a Binary String](./problems/3800-3899/3864/README.md) | :o: | Hard | [dp],[dc] |   |
 | 3395 | [Subsequences with a Unique Middle Mode I](./problems/3300-3399/3395/README.md) | :o: | Hard | [math],[dp] |   |
+| 3501 | [Maximize Active Section with Trade II](./problems/3500-3599/3501/README.md) | :o: | Hard | [str],[dp] |   |

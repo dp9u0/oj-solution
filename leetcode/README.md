@@ -2088,7 +2088,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2047 | [Number of Valid Words in a Sentence](./problems/2000-2099/2047/README.md)                                             | :o:    | Easy   | [str]                                                       |      |
 | 2048 | [Next Greater Numerically Balanced Number](./problems/2000-2099/2048/README.md)                                        | :o:    | Medium | [bt]                                                        |      |
 | 2049 | [Count Nodes With the Highest Score](./problems/2000-2099/2049/README.md)                                              |        | Medium |                                                             |      |
-| 2050 | [Parallel Courses III](./problems/2000-2099/2050/README.md)                                                            |        | Hard   |                                                             |      |
+| 2050 | [Parallel Courses III](./problems/2000-2099/2050/README.md) | :o: | Hard | [grf],[dp] |   |
 | 2051 | [The Category of Each Member in the Store](./problems/2000-2099/2051/README.md)                                        | :lock: | Medium |                                                             |      |
 | 2052 | [Minimum Cost to Separate Sentence Into Rows](./problems/2000-2099/2052/README.md)                                     | :lock: | Medium |                                                             |      |
 | 2053 | [Kth Distinct String in an Array](./problems/2000-2099/2053/README.md)                                                 | :o:    | Easy   | [hsh],[str]                                                 |      |

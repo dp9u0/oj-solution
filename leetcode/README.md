@@ -1478,7 +1478,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1403 | [Minimum Subsequence in Non-Increasing Order](./problems/1400-1499/1403/README.md)                                     |        | Easy   |                                                             |      |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](./problems/1400-1499/1404/README.md)              | :o:    | Medium | [str],[lgc]                                                 |      |
 | 1405 | [Longest Happy String](./problems/1400-1499/1405/README.md)                                                            | :o:    | Medium | [greedy],[str]                                              |      |
-| 1406 | [Stone Game III](./problems/1400-1499/1406/README.md)                                                                  |        | Hard   |                                                             |      |
+| 1406 | [Stone Game III](./problems/1400-1499/1406/README.md) | :o: | Hard | [dp] |   |
 | 1407 | [Top Travellers](./problems/1400-1499/1407/README.md)                                                                  | :lock: | Easy   |                                                             |      |
 | 1408 | [String Matching in an Array](./problems/1400-1499/1408/README.md)                                                     | :o:    | Easy   | [str]                                                       |      |
 | 1409 | [Queries on a Permutation With Key](./problems/1400-1499/1409/README.md)                                               | :o:    | Medium | [arr]                                                       |      |

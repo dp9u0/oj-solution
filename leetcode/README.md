@@ -871,7 +871,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 794  | [Valid Tic-Tac-Toe State](./problems/700-799/794/README.md)                                                            | :o:    | Medium | [lgc]                                                       |      |
 | 795 | [Number of Subarrays with Bounded Maximum](./problems/700-799/795/README.md) | :o: | Medium | [arr] | :+1:  |
 | 796  | [Rotate String](./problems/700-799/796/README.md)                                                                      | :o:    | Easy   | [str]                                                       | :+1: |
-| 797  | [All Paths From Source to Target](./problems/700-799/797/README.md)                                                    |        | Medium |                                                             |      |
+| 797 | [All Paths From Source to Target](./problems/700-799/797/README.md) | :o: | Medium | [dfs],[grf] |   |
 | 798  | [Smallest Rotation with Highest Score](./problems/700-799/798/README.md)                                               |        | Hard   |                                                             |      |
 | 799  | [Champagne Tower](./problems/700-799/799/README.md)                                                                    | :o:    | Medium | [dp]                                                        |      |
 | 800  | [Similar RGB Color](./problems/800-899/800/README.md)                                                                  | :lock: | Easy   |                                                             |      |

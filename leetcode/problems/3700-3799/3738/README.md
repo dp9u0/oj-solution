@@ -1,0 +1,53 @@
+# [3738] Longest Non-Decreasing Subarray After Replacing at Most One Element
+
+## Description
+
+[LeetCode Problem Description](https://leetcode.com/problems/longest-non-decreasing-subarray-after-replacing-at-most-one-element/description/)
+
+* algorithms
+* Medium (21.87%)
+* Likes:    98
+* Dislikes: 8
+* Testcase Example:  '[1,2,3,1,2]'
+
+```md
+You are given an integer array nums.
+You are allowed to replace at most one element in the array with any other integer value of your choice.
+Return the length of the longest non-decreasing subarray that can be obtained after performing at most one replacement.
+An array is said to be non-decreasing if each element is greater than or equal to its previous one (if it exists).
+
+Example 1:
+
+Input: nums = [1,2,3,1,2]
+Output: 4
+Explanation:
+Replacing nums[3] = 1 with 3 gives the array [1, 2, 3, 3, 2].
+The longest non-decreasing subarray is [1, 2, 3, 3], which has a length of 4.
+
+Example 2:
+
+Input: nums = [2,2,2,2,2]
+Output: 5
+Explanation:
+All elements in nums are equal, so it is already non-decreasing and the entire nums forms a subarray of length 5.
+
+
+Constraints:
+
+1 <= nums.length <= 105
+-109 <= nums[i] <= 109​​​​​​​
+
+
+```
+
+## 题目翻译
+
+给定整数数组 nums，最多替换一个元素为任意值，返回能获得的最长非递减子数组长度。
+
+## 解题思路
+
+先预处理每个位置向左和向右的非递减长度 left[i] 和 right[i]。遍历每个位置 i，如果 nums[i-1] <= nums[i+1]，则可以替换 nums[i] 来连接左右两段，长度为 left[i-1] + 1 + right[i+1]。还要考虑不替换的情况（最长非递减子串本身）和只替换边界的情况。
+
+## Solution
+
+[SourceCode](./solution.js)

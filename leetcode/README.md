@@ -3767,3 +3767,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3826 | [Minimum Partition Score](./problems/3800-3899/3826/README.md) | :o: | Hard | [dp] | :+1:  |
 | 1766 | [Tree of Coprimes](./problems/1700-1799/1766/README.md) | :o: | Hard | [tr],[dfs] | :+1:  |
 | 3430 | [Maximum and Minimum Sums of at Most Size K Subarrays](./problems/3400-3499/3430/README.md) | :o: | Hard | [stk],[arr],[math] |   |
+| 3474 | [Lexicographically Smallest Generated String](./problems/3400-3499/3474/README.md) | :o: | Hard | [str],[grd] |   |

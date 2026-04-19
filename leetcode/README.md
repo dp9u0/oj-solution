@@ -1307,7 +1307,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1232 | [Check If It Is a Straight Line](./problems/1200-1299/1232/README.md)                                                  | :o:    | Easy   | [math]                                                      |      |
 | 1233 | [Remove Sub-Folders from the Filesystem](./problems/1200-1299/1233/README.md)                                          | :o:    | Medium | [arr]                                                       |      |
 | 1234 | [Replace the Substring for Balanced String](./problems/1200-1299/1234/README.md)                                       | :o:    | Medium | [str],[tp]                                                  |      |
-| 1235 | [Maximum Profit in Job Scheduling](./problems/1200-1299/1235/README.md)                                                |        | Hard   |                                                             |      |
+| 1235 | [Maximum Profit in Job Scheduling](./problems/1200-1299/1235/README.md) | :o: | Hard | [dp],[bs] | :+1:  |
 | 1236 | [Web Crawler](./problems/1200-1299/1236/README.md)                                                                     | :lock: | Medium |                                                             |      |
 | 1237 | [Find Positive Integer Solution for a Given Equation](./problems/1200-1299/1237/README.md)                             | :o:    | Medium | [tp],[math]                                                 |      |
 | 1238 | [Circular Permutation in Binary Representation](./problems/1200-1299/1238/README.md)                                   | :o:    | Medium | [bit]                                                       |      |

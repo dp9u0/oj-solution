@@ -3787,3 +3787,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3692 | [Majority Frequency Characters](./problems/3600-3699/3692/README.md) | :o: | Easy | [hsh] |   |
 | 3789 | [Minimum Cost to Acquire Required Items](./problems/3700-3799/3789/README.md) | :o: | Medium | [math],[grd] | :+1:  |
 | 3623 | [Count Number of Trapezoids I](./problems/3600-3699/3623/README.md) | :o: | Medium | [math],[hsh] | :+1:  |
+| 3724 | [Minimum Operations to Transform Array](./problems/3700-3799/3724/README.md) | :o: | Medium | [arr],[math] | :+1:  |

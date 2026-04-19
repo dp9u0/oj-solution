@@ -1521,7 +1521,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1446 | [Consecutive Characters](./problems/1400-1499/1446/README.md) | :o: | Easy | [str] |   |
 | 1447 | [Simplified Fractions](./problems/1400-1499/1447/README.md)                                                            | :o:    | Medium | [math]                                                      |      |
 | 1448 | [Count Good Nodes in Binary Tree](./problems/1400-1499/1448/README.md)                                                 | :o:    | Medium | [tr],[dfs]                                                  |      |
-| 1449 | [Form Largest Integer With Digits That Add up to Target](./problems/1400-1499/1449/README.md)                          |        | Hard   |                                                             |      |
+| 1449 | [Form Largest Integer With Digits That Add up to Target](./problems/1400-1499/1449/README.md) | :o: | Hard | [dp] |   |
 | 1450 | [Number of Students Doing Homework at a Given Time](./problems/1400-1499/1450/README.md)                               | :o:    | Easy   | [arr]                                                       |      |
 | 1451 | [Rearrange Words in a Sentence](./problems/1400-1499/1451/README.md)                                                   | :o:    | Medium | [str]                                                       |      |
 | 1452 | [People Whose List of Favorite Companies Is Not a Subset of Another List](./problems/1400-1499/1452/README.md)         |        | Medium |                                                             |      |

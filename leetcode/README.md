@@ -1545,7 +1545,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1470 | [Shuffle the Array](./problems/1400-1499/1470/README.md)                                                               | :o:    | Easy   | [arr]                                                       |      |
 | 1471 | [The k Strongest Values in an Array](./problems/1400-1499/1471/README.md) | :o: | Medium | [arr],[tp] |   |
 | 1472 | [Design Browser History](./problems/1400-1499/1472/README.md)                                                          | :o:    | Medium | [arr]                                                       |      |
-| 1473 | [Paint House III](./problems/1400-1499/1473/README.md)                                                                 |        | Hard   |                                                             |      |
+| 1473 | [Paint House III](./problems/1400-1499/1473/README.md) | :o: | Hard | [dp] |   |
 | 1474 | [Delete N Nodes After M Nodes of a Linked List](./problems/1400-1499/1474/README.md)                                   | :lock: | Easy   |                                                             |      |
 | 1475 | [Final Prices With a Special Discount in a Shop](./problems/1400-1499/1475/README.md)                                  | :o:    | Easy   | [arr],[stack]                                               |      |
 | 1476 | [Subrectangle Queries](./problems/1400-1499/1476/README.md)                                                            | :o:    | Medium | [des],[arr]                                                 |      |

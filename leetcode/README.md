@@ -1704,7 +1704,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1629 | [Slowest Key](./problems/1600-1699/1629/README.md)                                                                     | :o:    | Easy   | [arr]                                                       |      |
 | 1630 | [Arithmetic Subarrays](./problems/1600-1699/1630/README.md)                                                            | :o:    | Medium | [arr],[sort]                                                |      |
 | 1631 | [Path With Minimum Effort](./problems/1600-1699/1631/README.md)                                                        | :o:    | Medium | [bfs],[bs]                                                  |      |
-| 1632 | [1632](./problems/1600-1699/1632/README.md)                                                                            |        | Easy   |                                                             |      |
+| 1632 | [1632](./problems/1600-1699/1632/README.md) | :o: | Hard | [ds] |   |
 | 1633 | [Percentage of Users Attended a Contest](./problems/1600-1699/1633/README.md)                                          | :lock: | Easy   |                                                             |      |
 | 1634 | [Add Two Polynomials Represented as Linked Lists](./problems/1600-1699/1634/README.md)                                 | :lock: | Medium |                                                             |      |
 | 1635 | [Hopper Company Queries I](./problems/1600-1699/1635/README.md)                                                        | :lock: | Hard   |                                                             |      |

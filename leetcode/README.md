@@ -3797,3 +3797,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3864 | [Minimum Cost to Partition a Binary String](./problems/3800-3899/3864/README.md) | :o: | Hard | [dp],[dc] |   |
 | 3395 | [Subsequences with a Unique Middle Mode I](./problems/3300-3399/3395/README.md) | :o: | Hard | [math],[dp] |   |
 | 3501 | [Maximize Active Section with Trade II](./problems/3500-3599/3501/README.md) | :o: | Hard | [str],[dp] |   |
+| 3743 | [Maximize Cyclic Partition Score](./problems/3700-3799/3743/README.md) | :o: | Hard | [dp],[arr] | :+1:  |

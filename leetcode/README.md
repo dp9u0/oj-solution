@@ -551,7 +551,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 469  | [Convex Polygon](./problems/400-499/469/README.md)                                                                     | :lock: | Medium |                                                             |      |
 | 470  | [Implement Rand10() Using Rand7()](./problems/400-499/470/README.md)                                                   |        | Medium |                                                             |      |
 | 471  | [Encode String with Shortest Length](./problems/400-499/471/README.md)                                                 | :lock: | Hard   |                                                             |      |
-| 472  | [Concatenated Words](./problems/400-499/472/README.md)                                                                 |        | Hard   |                                                             |      |
+| 472 | [Concatenated Words](./problems/400-499/472/README.md) | :o: | Hard | [dp],[str] | :+1:  |
 | 473  | [Matchsticks to Square](./problems/400-499/473/README.md)                                                              | :o:    | Medium | [bt],[dfs]                                                  |      |
 | 474  | [Ones and Zeroes](./problems/400-499/474/README.md)                                                                    |        | Medium |                                                             |      |
 | 475  | [Heaters](./problems/400-499/475/README.md)                                                                            | :o:    | Easy   | [arr]                                                       |      |

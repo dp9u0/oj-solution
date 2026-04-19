@@ -3760,3 +3760,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3515 | [Shortest Path in a Weighted Tree](./problems/3500-3599/3515/README.md) | :o: | Hard | [tr],[ds] |   |
 | 3883 | [Count Non Decreasing Arrays With Given Digit Sums](./problems/3800-3899/3883/README.md) | :o: | Hard | [dp] |   |
 | 3435 | [Frequencies of Shortest Supersequences](./problems/3400-3499/3435/README.md) | :o: | Hard | [grf],[bt] | :+1:  |
+| 3655 | [XOR After Range Multiplication Queries II](./problems/3600-3699/3655/README.md) | :o: | Hard | [arr],[math] |   |

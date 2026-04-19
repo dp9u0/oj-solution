@@ -796,7 +796,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 719  | [Find K-th Smallest Pair Distance](./problems/700-799/719/README.md)                                                   | :o:    | Hard   | [arr],[bs],[tp]                                             | :+1: |
 | 720  | [Longest Word in Dictionary](./problems/700-799/720/README.md)                                                         | :o:    | Easy   | [hsh]                                                       |      |
 | 721  | [Accounts Merge](./problems/700-799/721/README.md)                                                                     | :o:    | Medium | [ds]                                                        | :+1: |
-| 722  | [Remove Comments](./problems/700-799/722/README.md)                                                                    |        | Medium |                                                             |      |
+| 722 | [Remove Comments](./problems/700-799/722/README.md) | :o: | Medium | [str] |   |
 | 723  | [Candy Crush](./problems/700-799/723/README.md)                                                                        | :lock: | Medium |                                                             |      |
 | 724  | [Find Pivot Index](./problems/700-799/724/README.md)                                                                   | :o:    | Easy   | [arr]                                                       |      |
 | 725  | [Split Linked List in Parts](./problems/700-799/725/README.md)                                                         | :o:    | Medium | [ll]                                                        |      |

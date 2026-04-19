@@ -2015,7 +2015,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1974 | [Minimum Time to Type Word Using Special Typewriter](./problems/1900-1999/1974/README.md)                              | :o:    | Easy   | [str]                                                       |      |
 | 1975 | [Maximum Matrix Sum](./problems/1900-1999/1975/README.md)                                                              | :o:    | Medium | [arr],[math],[grd]                                          |      |
 | 1976 | [Number of Ways to Arrive at Destination](./problems/1900-1999/1976/README.md)                                         | :o:    | Medium | [graph],[dijkstra]                                          |      |
-| 1977 | [Number of Ways to Separate Numbers](./problems/1900-1999/1977/README.md)                                              |        | Hard   |                                                             |      |
+| 1977 | [Number of Ways to Separate Numbers](./problems/1900-1999/1977/README.md) | :o: | Hard | [dp],[str] |   |
 | 1978 | [Employees Whose Manager Left the Company](./problems/1900-1999/1978/README.md)                                        | :lock: | Easy   |                                                             |      |
 | 1979 | [Find Greatest Common Divisor of Array](./problems/1900-1999/1979/README.md)                                           | :o:    | Easy   | [arr],[math]                                                |      |
 | 1980 | [Find Unique Binary String](./problems/1900-1999/1980/README.md)                                                       | :o:    | Medium | [arr],[bit]                                                 |      |

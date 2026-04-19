@@ -974,7 +974,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 897  | [Increasing Order Search Tree](./problems/800-899/897/README.md)                                                       | :o:    | Easy   | [tr]                                                        |      |
 | 898  | [Bitwise ORs of Subarrays](./problems/800-899/898/README.md)                                                           | :o:    | Medium | [bit],[arr]                                                 |      |
 | 899  | [Orderly Queue](./problems/800-899/899/README.md)                                                                      | :o:    | Hard   | [str]                                                       |      |
-| 900  | [RLE Iterator](./problems/900-999/900/README.md)                                                                       |        | Medium |                                                             |      |
+| 900 | [RLE Iterator](./problems/900-999/900/README.md) | :o: | Medium | [des] |   |
 | 901  | [Online Stock Span](./problems/900-999/901/README.md)                                                                  | :o:    | Medium | [stack]                                                     | :+1: |
 | 902  | [Numbers At Most N Given Digit Set](./problems/900-999/902/README.md)                                                  | :o:    | Hard   | [math],[dp]                                                 |      |
 | 903  | [Valid Permutations for DI Sequence](./problems/900-999/903/README.md)                                                 |        | Hard   |                                                             |      |

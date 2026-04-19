@@ -3183,7 +3183,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3142 | [Check if Grid Satisfies Conditions](./problems/3100-3199/3142/README.md)                                              | :o:    | Easy   | [arr]                                                       |      |
 | 3143 | [Maximum Points Inside the Square](./problems/3100-3199/3143/README.md)                                                | :o:    | Medium | [math],[hsh]                                                |      |
 | 3144 | [Minimum Substring Partition of Equal Character Frequency](./problems/3100-3199/3144/README.md)                        |        | Medium |                                                             |      |
-| 3145 | [Find Products of Elements of Big Array](./problems/3100-3199/3145/README.md)                                          |        | Hard   |                                                             |      |
+| 3145 | [Find Products of Elements of Big Array](./problems/3100-3199/3145/README.md) | :o: | Hard | [bit],[math] | :+1:  |
 | 3146 | [Permutation Difference between Two Strings](./problems/3100-3199/3146/README.md)                                      | :o:    | Easy   | [str],[hsh]                                                 |      |
 | 3147 | [Taking Maximum Energy From the Mystic Dungeon](./problems/3100-3199/3147/README.md)                                   |        | Medium |                                                             |      |
 | 3148 | [Maximum Difference Score in a Grid](./problems/3100-3199/3148/README.md)                                              | :o:    | Medium | [arr],[dp]                                                  |      |

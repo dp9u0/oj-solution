@@ -1525,7 +1525,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1450 | [Number of Students Doing Homework at a Given Time](./problems/1400-1499/1450/README.md)                               | :o:    | Easy   | [arr]                                                       |      |
 | 1451 | [Rearrange Words in a Sentence](./problems/1400-1499/1451/README.md)                                                   | :o:    | Medium | [str]                                                       |      |
 | 1452 | [People Whose List of Favorite Companies Is Not a Subset of Another List](./problems/1400-1499/1452/README.md)         |        | Medium |                                                             |      |
-| 1453 | [Maximum Number of Darts Inside of a Circular Dartboard](./problems/1400-1499/1453/README.md)                          |        | Hard   |                                                             |      |
+| 1453 | [Maximum Number of Darts Inside of a Circular Dartboard](./problems/1400-1499/1453/README.md) | :o: | Hard | [math],[grd] |   |
 | 1454 | [Active Users](./problems/1400-1499/1454/README.md)                                                                    | :lock: | Medium |                                                             |      |
 | 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](./problems/1400-1499/1455/README.md)                    | :o:    | Easy   | [str]                                                       |      |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./problems/1400-1499/1456/README.md)                         | :o:    | Medium | [str],[tp]                                                  |      |

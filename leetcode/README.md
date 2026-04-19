@@ -3802,3 +3802,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3529 | [Count Cells in Overlapping Horizontal and Vertical Substrings](./problems/3500-3599/3529/README.md) | :o: | Medium | [str],[hsh] |   |
 | 3752 | [Lexicographically Smallest Negated Permutation that Sums to Target](./problems/3700-3799/3752/README.md) | :o: | Medium | [grd],[math] |   |
 | 3825 | [Longest Strictly Increasing Subsequence With Non-Zero Bitwise AND](./problems/3800-3899/3825/README.md) | :o: | Medium | [dp],[bit] |   |
+| 3725 | [Count Ways to Choose Coprime Integers from Rows](./problems/3700-3799/3725/README.md) | :o: | Hard | [math],[dp] |   |

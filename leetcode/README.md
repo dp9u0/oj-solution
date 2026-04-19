@@ -2068,7 +2068,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2027 | [Minimum Moves to Convert String](./problems/2000-2099/2027/README.md)                                                 |        | Easy   |                                                             |      |
 | 2028 | [Find Missing Observations](./problems/2000-2099/2028/README.md)                                                       | :o:    | Medium | [arr]                                                       |      |
 | 2029 | [Stone Game IX](./problems/2000-2099/2029/README.md)                                                                   | :o:    | Medium | [math],[lgc]                                                |      |
-| 2030 | [Smallest K-Length Subsequence With Occurrences of a Letter](./problems/2000-2099/2030/README.md)                      |        | Hard   |                                                             |      |
+| 2030 | [Smallest K-Length Subsequence With Occurrences of a Letter](./problems/2000-2099/2030/README.md) | :o: | Hard | [stk],[str] | :+1:  |
 | 2031 | [2031](./problems/2000-2099/2031/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2032 | [Two Out of Three](./problems/2000-2099/2032/README.md)                                                                | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](./problems/2000-2099/2033/README.md)                                     | :o:    | Medium | [arr],[math]                                                |      |

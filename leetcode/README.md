@@ -2334,7 +2334,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2293 | [Min Max Game](./problems/2200-2299/2293/README.md)                                                                    | :o:    | Easy   | [arr],[lgc]                                                 |      |
 | 2294 | [Partition Array Such That Maximum Difference Is K](./problems/2200-2299/2294/README.md)                               | :o:    | Medium | [arr],[greedy]                                              | :+1: |
 | 2295 | [Replace Elements in an Array](./problems/2200-2299/2295/README.md)                                                    | :o:    | Medium | [arr],[hsh]                                                 |      |
-| 2296 | [Design a Text Editor](./problems/2200-2299/2296/README.md)                                                            |        | Hard   |                                                             |      |
+| 2296 | [Design a Text Editor](./problems/2200-2299/2296/README.md) | :o: | Hard | [des] |   |
 | 2297 | [2297](./problems/2200-2299/2297/README.md)                                                                            |        | Easy   |                                                             |      |
 | 2298 | [Tasks Count in the Weekend](./problems/2200-2299/2298/README.md)                                                      | :lock: | Medium |                                                             |      |
 | 2299 | [Strong Password Checker II](./problems/2200-2299/2299/README.md)                                                      | :o:    | Easy   | [str],[lgc]                                                 |      |

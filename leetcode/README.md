@@ -630,7 +630,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 553  | [Optimal Division](./problems/500-599/553/README.md)                                                                   |        | Medium |                                                             |      |
 | 554  | [Brick Wall](./problems/500-599/554/README.md)                                                                         | :o:    | Medium | [hsh]                                                       |      |
 | 555  | [Split Concatenated Strings](./problems/500-599/555/README.md)                                                         | :lock: | Medium |                                                             |      |
-| 556  | [Next Greater Element III](./problems/500-599/556/README.md)                                                           |        | Medium |                                                             |      |
+| 556 | [Next Greater Element III](./problems/500-599/556/README.md) | :o: | Medium | [arr] | :+1:  |
 | 557  | [Reverse Words in a String III](./problems/500-599/557/README.md)                                                      | :o:    | Easy   | [str]                                                       |      |
 | 558  | [Quad Tree Intersection](./problems/500-599/558/README.md)                                                             | :o:    | Easy   | [tr]                                                        |      |
 | 559  | [Maximum Depth of N-ary Tree](./problems/500-599/559/README.md)                                                        |        | Easy   |                                                             |      |

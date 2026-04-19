@@ -827,7 +827,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 750  | [Number Of Corner Rectangles](./problems/700-799/750/README.md)                                                        | :lock: | Medium |                                                             |      |
 | 751  | [IP to CIDR](./problems/700-799/751/README.md)                                                                         | :lock: | Easy   |                                                             |      |
 | 752  | [Open the Lock](./problems/700-799/752/README.md)                                                                      | :o:    | Medium | [bfs]                                                       | :+1: |
-| 753  | [Cracking the Safe](./problems/700-799/753/README.md)                                                                  |        | Hard   |                                                             |      |
+| 753 | [Cracking the Safe](./problems/700-799/753/README.md) | :o: | Hard | [math],[dfs] | :+1:  |
 | 754  | [Reach a Number](./problems/700-799/754/README.md)                                                                     | :o:    | Easy   | [math]                                                      |      |
 | 755  | [Pour Water](./problems/700-799/755/README.md)                                                                         | :lock: | Medium |                                                             |      |
 | 756  | [Pyramid Transition Matrix](./problems/700-799/756/README.md)                                                          |        | Medium |                                                             |      |

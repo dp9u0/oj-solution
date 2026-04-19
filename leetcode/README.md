@@ -746,7 +746,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 669  | [Trim a Binary Search Tree](./problems/600-699/669/README.md)                                                          | :o:    | Easy   | [tr]                                                        |      |
 | 670  | [Maximum Swap](./problems/600-699/670/README.md)                                                                       | :o:    | Medium | [arr]                                                       |      |
 | 671  | [Second Minimum Node In a Binary Tree](./problems/600-699/671/README.md)                                               | :o:    | Easy   | [tr]                                                        |      |
-| 672  | [Bulb Switcher II](./problems/600-699/672/README.md)                                                                   |        | Medium |                                                             |      |
+| 672 | [Bulb Switcher II](./problems/600-699/672/README.md) | :o: | Medium | [math] |   |
 | 673  | [Number of Longest Increasing Subsequence](./problems/600-699/673/README.md)                                           | :o:    | Medium | [dp]                                                        | :+1: |
 | 674  | [Longest Continuous Increasing Subsequence](./problems/600-699/674/README.md)                                          | :o:    | Easy   | [arr]                                                       |      |
 | 675  | [Cut Off Trees for Golf Event](./problems/600-699/675/README.md)                                                       |        | Hard   |                                                             |      |

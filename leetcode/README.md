@@ -3165,7 +3165,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3124 | [Find Longest Calls](./problems/3100-3199/3124/README.md)                                                              | :lock: | Medium |                                                             |      |
 | 3125 | [Maximum Number That Makes Result of Bitwise AND Zero](./problems/3100-3199/3125/README.md)                            | :lock: | Medium |                                                             |      |
 | 3126 | [Server Utilization Time](./problems/3100-3199/3126/README.md)                                                         | :lock: | Medium |                                                             |      |
-| 3127 | [Make a Square with the Same Color](./problems/3100-3199/3127/README.md)                                               |        | Easy   |                                                             |      |
+| 3127 | [Make a Square with the Same Color](./problems/3100-3199/3127/README.md) | :o: | Easy | [lgc] |   |
 | 3128 | [Right Triangles](./problems/3100-3199/3128/README.md)                                                                 | :o:    | Medium | [hash]                                                      |      |
 | 3129 | [Find All Possible Stable Binary Arrays I](./problems/3100-3199/3129/README.md)                                        | :o:    | Medium | [dp]                                                        |      |
 | 3130 | [Find All Possible Stable Binary Arrays II](./problems/3100-3199/3130/README.md)                                       |        | Hard   |                                                             |      |

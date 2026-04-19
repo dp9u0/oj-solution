@@ -135,6 +135,8 @@ git add -A && git commit -m "feat: resolve leetcode <problem_number>"
 
 其中 `<problem_number>` 是当前题目的编号。
 
+**禁止在提交中携带AI辅助提交等相关信息。如 Co-Authored-By 等**
+
 ### 8. 报告进展
 
 完成以上所有步骤后，向用户报告题目已顺利完成。报告格式示例：

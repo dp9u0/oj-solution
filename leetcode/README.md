@@ -2992,7 +2992,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2951 | [Find the Peaks](./problems/2900-2999/2951/README.md)                                                                  |        | Easy   |                                                             |      |
 | 2952 | [Minimum Number of Coins to be Added](./problems/2900-2999/2952/README.md)                                             | :o:    | Medium | [greedy]                                                    |      |
 | 2953 | [Count Complete Substrings](./problems/2900-2999/2953/README.md)                                                       |        | Hard   |                                                             |      |
-| 2954 | [Count the Number of Infection Sequences](./problems/2900-2999/2954/README.md)                                         |        | Hard   |                                                             |      |
+| 2954 | [Count the Number of Infection Sequences](./problems/2900-2999/2954/README.md) | :o: | Hard | [math],[com] |   |
 | 2955 | [Number of Same-End Substrings](./problems/2900-2999/2955/README.md)                                                   | :lock: | Medium |                                                             |      |
 | 2956 | [Find Common Elements Between Two Arrays](./problems/2900-2999/2956/README.md)                                         | :o:    | Easy   | [arr],[hsh]                                                 |      |
 | 2957 | [Remove Adjacent Almost-Equal Characters](./problems/2900-2999/2957/README.md)                                         | :o:    | Medium | [str],[grd]                                                 |      |

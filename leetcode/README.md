@@ -683,7 +683,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 606  | [Construct String from Binary Tree](./problems/600-699/606/README.md)                                                  | :o:    | Easy   | [tr]                                                        |      |
 | 607  | [Sales Person](./problems/600-699/607/README.md)                                                                       | :lock: | Easy   |                                                             |      |
 | 608  | [Tree Node](./problems/600-699/608/README.md)                                                                          | :lock: | Medium |                                                             |      |
-| 609  | [Find Duplicate File in System](./problems/600-699/609/README.md)                                                      |        | Medium |                                                             |      |
+| 609 | [Find Duplicate File in System](./problems/600-699/609/README.md) | :o: | Medium | [hsh],[str] |   |
 | 610  | [Triangle Judgement](./problems/600-699/610/README.md)                                                                 | :lock: | Easy   |                                                             |      |
 | 611  | [Valid Triangle Number](./problems/600-699/611/README.md)                                                              | :o:    | Medium | [tp]                                                        |      |
 | 612  | [Shortest Distance in a Plane](./problems/600-699/612/README.md)                                                       | :lock: | Medium |                                                             |      |

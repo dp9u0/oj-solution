@@ -3794,3 +3794,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3738 | [Longest Non-Decreasing Subarray After Replacing at Most One Element](./problems/3700-3799/3738/README.md) | :o: | Medium | [dp] | :+1:  |
 | 3666 | [Minimum Operations to Equalize Binary String](./problems/3600-3699/3666/README.md) | :o: | Hard | [math] |   |
 | 3878 | [Count Good Subarrays](./problems/3800-3899/3878/README.md) | :o: | Hard | [bit] | :+1:  |
+| 3864 | [Minimum Cost to Partition a Binary String](./problems/3800-3899/3864/README.md) | :o: | Hard | [dp],[dc] |   |

@@ -3755,3 +3755,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3704 | [Count No-Zero Pairs That Sum to N](./problems/3700-3799/3704/README.md) | :o: | Hard | [dp],[math] |   |
 | 1770 | [Maximum Score from Performing Multiplication Operations](./problems/1700-1799/1770/README.md) | :o: | Hard | [dp] | :+1:  |
 | 3553 | [Minimum Weighted Subgraph With the Required Paths II](./problems/3500-3599/3553/README.md) | :o: | Hard | [tr],[lca] |   |
+| 3579 | [Minimum Steps to Convert String with Operations](./problems/3500-3599/3579/README.md) | :o: | Hard | [str],[dp] |   |

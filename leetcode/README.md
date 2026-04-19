@@ -3799,3 +3799,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3501 | [Maximize Active Section with Trade II](./problems/3500-3599/3501/README.md) | :o: | Hard | [str],[dp] |   |
 | 3743 | [Maximize Cyclic Partition Score](./problems/3700-3799/3743/README.md) | :o: | Hard | [dp],[arr] | :+1:  |
 | 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](./problems/3700-3799/3734/README.md) | :o: | Hard | [str],[grd] |   |
+| 3529 | [Count Cells in Overlapping Horizontal and Vertical Substrings](./problems/3500-3599/3529/README.md) | :o: | Medium | [str],[hsh] |   |

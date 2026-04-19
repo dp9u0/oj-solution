@@ -2280,7 +2280,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2239 | [Find Closest Number to Zero](./problems/2200-2299/2239/README.md)                                                     | :o:    | Easy   | [arr],[lgc]                                                 |      |
 | 2240 | [Number of Ways to Buy Pens and Pencils](./problems/2200-2299/2240/README.md) | :o: | Medium | [math] |   |
 | 2241 | [Design an ATM Machine](./problems/2200-2299/2241/README.md)                                                           | :o:    | Medium | [des],[grd]                                                 |      |
-| 2242 | [Maximum Score of a Node Sequence](./problems/2200-2299/2242/README.md)                                                |        | Hard   |                                                             |      |
+| 2242 | [Maximum Score of a Node Sequence](./problems/2200-2299/2242/README.md) | :o: | Hard | [grf],[grd] | :+1:  |
 | 2243 | [Calculate Digit Sum of a String](./problems/2200-2299/2243/README.md)                                                 | :o:    | Easy   | [str],[lgc]                                                 |      |
 | 2244 | [Minimum Rounds to Complete All Tasks](./problems/2200-2299/2244/README.md)                                            | :o:    | Medium | [arr]                                                       |      |
 | 2245 | [Maximum Trailing Zeros in a Cornered Path](./problems/2200-2299/2245/README.md) | :o: | Medium | [arr],[math] |   |

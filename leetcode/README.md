@@ -915,7 +915,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 838  | [Push Dominoes](./problems/800-899/838/README.md)                                                                      | :o:    | Medium | [str],[tp]                                                  | :+1: |
 | 839  | [Similar String Groups](./problems/800-899/839/README.md)                                                              |        | Hard   |                                                             |      |
 | 840  | [Magic Squares In Grid](./problems/800-899/840/README.md)                                                              | :o:    | Easy   | [arr]                                                       |      |
-| 841  | [Keys and Rooms](./problems/800-899/841/README.md)                                                                     |        | Medium |                                                             |      |
+| 841 | [Keys and Rooms](./problems/800-899/841/README.md) | :o: | Medium | [bfs],[grf] |   |
 | 842  | [Split Array into Fibonacci Sequence](./problems/800-899/842/README.md)                                                | :o:    | Medium | [bt]                                                        |      |
 | 843  | [Guess the Word](./problems/800-899/843/README.md)                                                                     | :o:    | Hard   | [str],[grd]                                                 |      |
 | 844  | [Backspace String Compare](./problems/800-899/844/README.md)                                                           | :o:    | Easy   | [str]                                                       |      |

@@ -851,7 +851,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 774  | [Minimize Max Distance to Gas Station](./problems/700-799/774/README.md)                                               | :lock: | Hard   |                                                             |      |
 | 775  | [Global and Local Inversions](./problems/700-799/775/README.md)                                                        | :o:    | Medium | [arr]                                                       |      |
 | 776  | [Split BST](./problems/700-799/776/README.md)                                                                          | :lock: | Medium |                                                             |      |
-| 777  | [Swap Adjacent in LR String](./problems/700-799/777/README.md)                                                         |        | Medium |                                                             |      |
+| 777 | [Swap Adjacent in LR String](./problems/700-799/777/README.md) | :o: | Medium | [str],[tp] |   |
 | 778  | [Swim in Rising Water](./problems/700-799/778/README.md)                                                               |        | Hard   |                                                             |      |
 | 779  | [K-th Symbol in Grammar](./problems/700-799/779/README.md)                                                             | :o:    | Medium | [bit]                                                       | :+1: |
 | 780  | [Reaching Points](./problems/700-799/780/README.md)                                                                    | :o:    | Hard   | [math]                                                      |      |

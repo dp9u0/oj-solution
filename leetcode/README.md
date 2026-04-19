@@ -3788,3 +3788,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3789 | [Minimum Cost to Acquire Required Items](./problems/3700-3799/3789/README.md) | :o: | Medium | [math],[grd] | :+1:  |
 | 3623 | [Count Number of Trapezoids I](./problems/3600-3699/3623/README.md) | :o: | Medium | [math],[hsh] | :+1:  |
 | 3724 | [Minimum Operations to Transform Array](./problems/3700-3799/3724/README.md) | :o: | Medium | [arr],[math] | :+1:  |
+| 3517 | [Smallest Palindromic Rearrangement I](./problems/3500-3599/3517/README.md) | :o: | Medium | [str] |   |

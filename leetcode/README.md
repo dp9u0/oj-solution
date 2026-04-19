@@ -3758,3 +3758,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3579 | [Minimum Steps to Convert String with Operations](./problems/3500-3599/3579/README.md) | :o: | Hard | [str],[dp] |   |
 | 3681 | [Maximum XOR of Subsequences](./problems/3600-3699/3681/README.md) | :o: | Hard | [bit],[dp] |   |
 | 3515 | [Shortest Path in a Weighted Tree](./problems/3500-3599/3515/README.md) | :o: | Hard | [tr],[ds] |   |
+| 3883 | [Count Non Decreasing Arrays With Given Digit Sums](./problems/3800-3899/3883/README.md) | :o: | Hard | [dp] |   |

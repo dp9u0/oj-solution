@@ -3798,3 +3798,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3395 | [Subsequences with a Unique Middle Mode I](./problems/3300-3399/3395/README.md) | :o: | Hard | [math],[dp] |   |
 | 3501 | [Maximize Active Section with Trade II](./problems/3500-3599/3501/README.md) | :o: | Hard | [str],[dp] |   |
 | 3743 | [Maximize Cyclic Partition Score](./problems/3700-3799/3743/README.md) | :o: | Hard | [dp],[arr] | :+1:  |
+| 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](./problems/3700-3799/3734/README.md) | :o: | Hard | [str],[grd] |   |

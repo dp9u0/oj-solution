@@ -2214,7 +2214,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2173 | [Longest Winning Streak](./problems/2100-2199/2173/README.md)                                                          | :lock: | Hard   |                                                             |      |
 | 2174 | [Remove All Ones With Row and Column Flips II](./problems/2100-2199/2174/README.md)                                    | :lock: | Medium |                                                             |      |
 | 2175 | [The Change in Global Rankings](./problems/2100-2199/2175/README.md)                                                   | :lock: | Medium |                                                             |      |
-| 2176 | [Count Equal and Divisible Pairs in an Array](./problems/2100-2199/2176/README.md)                                     |        | Easy   |                                                             |      |
+| 2176 | [Count Equal and Divisible Pairs in an Array](./problems/2100-2199/2176/README.md) | :o: | Easy | [arr] |   |
 | 2177 | [Find Three Consecutive Integers That Sum to a Given Number](./problems/2100-2199/2177/README.md)                      | :o:    | Medium | [math]                                                      |      |
 | 2178 | [Maximum Split of Positive Even Integers](./problems/2100-2199/2178/README.md) | :o: | Medium | [math],[grd] |   |
 | 2179 | [Count Good Triplets in an Array](./problems/2100-2199/2179/README.md)                                                 |        | Hard   |                                                             |      |

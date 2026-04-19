@@ -3386,7 +3386,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3345 | [Smallest Divisible Digit Product I](./problems/3300-3399/3345/README.md)                                              |        | Easy   |                                                             |      |
 | 3346 | [Maximum Frequency of an Element After Performing Operations I](./problems/3300-3399/3346/README.md)                   | :o:    | Medium | [arr],[bs],[sd]                                             | :+1: |
 | 3347 | [Maximum Frequency of an Element After Performing Operations II](./problems/3300-3399/3347/README.md)                  |        | Hard   |                                                             |      |
-| 3348 | [Smallest Divisible Digit Product II](./problems/3300-3399/3348/README.md)                                             |        | Hard   |                                                             |      |
+| 3348 | [Smallest Divisible Digit Product II](./problems/3300-3399/3348/README.md) | :o: | Hard | [math],[grd] |   |
 | 3349 | [Adjacent Increasing Subarrays Detection I](./problems/3300-3399/3349/README.md)                                       |        | Easy   |                                                             |      |
 | 3350 | [Adjacent Increasing Subarrays Detection II](./problems/3300-3399/3350/README.md)                                      | :o:    | Medium | [arr]                                                       |      |
 | 3351 | [Sum of Good Subsequences](./problems/3300-3399/3351/README.md) | :o: | Hard | [dp] | :+1:  |

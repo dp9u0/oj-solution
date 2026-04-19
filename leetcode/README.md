@@ -3762,3 +3762,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3435 | [Frequencies of Shortest Supersequences](./problems/3400-3499/3435/README.md) | :o: | Hard | [grf],[bt] | :+1:  |
 | 3655 | [XOR After Range Multiplication Queries II](./problems/3600-3699/3655/README.md) | :o: | Hard | [arr],[math] |   |
 | 3470 | [Permutations IV](./problems/3400-3499/3470/README.md) | :o: | Hard | [math],[dp] |   |
+| 3892 | [Minimum Operations to Achieve At Least K Peaks](./problems/3800-3899/3892/README.md) | :o: | Hard | [dp] |   |

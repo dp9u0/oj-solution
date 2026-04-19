@@ -489,7 +489,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 407  | [Trapping Rain Water II](./problems/400-499/407/README.md)                                                             | :o:    | Hard   | [arr],[heap]                                                | :+1: |
 | 408  | [Valid Word Abbreviation](./problems/400-499/408/README.md)                                                            | :lock: | Easy   |                                                             |      |
 | 409  | [Longest Palindrome](./problems/400-499/409/README.md)                                                                 | :o:    | Easy   | [hsh]                                                       |      |
-| 410  | [Split Array Largest Sum](./problems/400-499/410/README.md)                                                            |        | Hard   |                                                             |      |
+| 410 | [Split Array Largest Sum](./problems/400-499/410/README.md) | :o: | Hard | [bs],[grd] |   |
 | 411  | [Minimum Unique Word Abbreviation](./problems/400-499/411/README.md)                                                   | :lock: | Hard   |                                                             |      |
 | 412  | [Fizz Buzz](./problems/400-499/412/README.md)                                                                          | :o:    | Easy   | [math]                                                      |      |
 | 413  | [Arithmetic Slices](./problems/400-499/413/README.md)                                                                  | :o:    | Medium | [dp],[arr]                                                  | :+1: |

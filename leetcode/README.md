@@ -604,7 +604,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 525  | [Contiguous Array](./problems/500-599/525/README.md)                                                                   | :o:    | Medium | [arr],[hm]                                                  | :+1: |
 | 526  | [Beautiful Arrangement](./problems/500-599/526/README.md)                                                              | :o:    | Medium | [dp],[bit]                                                  |      |
 | 527  | [Word Abbreviation](./problems/500-599/527/README.md)                                                                  | :lock: | Hard   |                                                             |      |
-| 528  | [Random Pick with Weight](./problems/500-599/528/README.md)                                                            |        | Medium |                                                             |      |
+| 528 | [Random Pick with Weight](./problems/500-599/528/README.md) | :o: | Medium | [bs] |   |
 | 529  | [Minesweeper](./problems/500-599/529/README.md)                                                                        | :o:    | Medium | [dfs]                                                       |      |
 | 530  | [Minimum Absolute Difference in BST](./problems/500-599/530/README.md)                                                 | :o:    | Easy   | [tr]                                                        |      |
 | 531  | [Lonely Pixel I](./problems/500-599/531/README.md)                                                                     | :lock: | Medium |                                                             |      |

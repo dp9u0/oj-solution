@@ -1539,7 +1539,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1464 | [Maximum Product of Two Elements in an Array](./problems/1400-1499/1464/README.md)                                     | :o:    | Easy   | [arr]                                                       |      |
 | 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](./problems/1400-1499/1465/README.md)              | :o:    | Medium | [arr],[sort]                                                |      |
 | 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](./problems/1400-1499/1466/README.md)                          | :o:    | Medium | [graph],[bfs]                                               |      |
-| 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](./problems/1400-1499/1467/README.md)             |        | Hard   |                                                             |      |
+| 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](./problems/1400-1499/1467/README.md) | :o: | Hard | [math] |   |
 | 1468 | [Calculate Salaries](./problems/1400-1499/1468/README.md)                                                              | :lock: | Medium |                                                             |      |
 | 1469 | [Find All The Lonely Nodes](./problems/1400-1499/1469/README.md)                                                       | :lock: | Easy   |                                                             |      |
 | 1470 | [Shuffle the Array](./problems/1400-1499/1470/README.md)                                                               | :o:    | Easy   | [arr]                                                       |      |

@@ -3753,3 +3753,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3399 | [Smallest Substring With Identical Characters II](./problems/3300-3399/3399/README.md) | :o: | Hard | [bs],[str] | :+1:  |
 | 3699 | [Number of ZigZag Arrays I](./problems/3600-3699/3699/README.md) | :o: | Hard | [dp] |   |
 | 3704 | [Count No-Zero Pairs That Sum to N](./problems/3700-3799/3704/README.md) | :o: | Hard | [dp],[math] |   |
+| 1770 | [Maximum Score from Performing Multiplication Operations](./problems/1700-1799/1770/README.md) | :o: | Hard | [dp] | :+1:  |

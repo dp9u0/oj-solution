@@ -1598,7 +1598,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 1523 | [Count Odd Numbers in an Interval Range](./problems/1500-1599/1523/README.md)                                          | :o:    | Easy   | [arr]                                                       |      |
 | 1524 | [Number of Sub-arrays With Odd Sum](./problems/1500-1599/1524/README.md)                                               | :o:    | Medium | [arr],[math]                                                |      |
 | 1525 | [Number of Good Ways to Split a String](./problems/1500-1599/1525/README.md)                                           | :o:    | Medium | [str],[hash]                                                |      |
-| 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](./problems/1500-1599/1526/README.md)                |        | Hard   |                                                             |      |
+| 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](./problems/1500-1599/1526/README.md) | :o: | Hard | [arr],[grd] |   |
 | 1527 | [Patients With a Condition](./problems/1500-1599/1527/README.md)                                                       | :lock: | Easy   |                                                             |      |
 | 1528 | [Shuffle String](./problems/1500-1599/1528/README.md)                                                                  | :o:    | Easy   | [str],[arr]                                                 |      |
 | 1529 | [Bulb Switcher IV](./problems/1500-1599/1529/README.md)                                                                | :o:    | Medium | [str],[greedy]                                              |      |

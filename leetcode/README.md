@@ -2433,7 +2433,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 2392 | [Build a Matrix With Conditions](./problems/2300-2399/2392/README.md)                                                  |        | Hard   |                                                             |      |
 | 2393 | [Count Strictly Increasing Subarrays](./problems/2300-2399/2393/README.md)                                             | :lock: | Medium |                                                             |      |
 | 2394 | [Employees With Deductions](./problems/2300-2399/2394/README.md)                                                       | :lock: | Medium |                                                             |      |
-| 2395 | [Find Subarrays With Equal Sum](./problems/2300-2399/2395/README.md)                                                   |        | Easy   |                                                             |      |
+| 2395 | [Find Subarrays With Equal Sum](./problems/2300-2399/2395/README.md) | :o: | Easy | [arr],[hsh] |   |
 | 2396 | [Strictly Palindromic Number](./problems/2300-2399/2396/README.md)                                                     | :o:    | Medium | [lgc],[math]                                                |      |
 | 2397 | [Maximum Rows Covered by Columns](./problems/2300-2399/2397/README.md)                                                 | :o:    | Medium | [bit],[bt]                                                  |      |
 | 2398 | [Maximum Number of Robots Within Budget](./problems/2300-2399/2398/README.md)                                          |        | Hard   |                                                             |      |

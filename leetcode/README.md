@@ -3321,7 +3321,7 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3280 | [Convert Date to Binary](./problems/3200-3299/3280/README.md)                                                          | :o:    | Easy   | [str],[lgc]                                                 |      |
 | 3281 | [Maximize Score of Numbers in Ranges](./problems/3200-3299/3281/README.md)                                             |        | Medium |                                                             |      |
 | 3282 | [Reach End of Array With Max Score](./problems/3200-3299/3282/README.md)                                               | :o:    | Medium | [arr],[grd]                                                 |      |
-| 3283 | [Maximum Number of Moves to Kill All Pawns](./problems/3200-3299/3283/README.md)                                       |        | Hard   |                                                             |      |
+| 3283 | [Maximum Number of Moves to Kill All Pawns](./problems/3200-3299/3283/README.md) | :o: | Hard | [dp],[grd] |   |
 | 3284 | [Sum of Consecutive Subarrays](./problems/3200-3299/3284/README.md)                                                    | :lock: | Medium |                                                             |      |
 | 3285 | [Find Indices of Stable Mountains](./problems/3200-3299/3285/README.md)                                                | :o:    | Easy   | [arr]                                                       |      |
 | 3286 | [Find a Safe Walk Through a Grid](./problems/3200-3299/3286/README.md) | :o: | Medium | [bfs] |   |

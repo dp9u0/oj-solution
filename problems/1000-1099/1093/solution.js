@@ -10,38 +10,46 @@
  * @return {number[]}
  */
 var sampleStats = function(count) {
-    let minimum = -1, maximum = 0, total = 0, sum = 0, mode = 0, maxCount = 0;
-    for (let i = 0; i < 256; i++) {
-        if (count[i] > 0) {
-            if (minimum === -1) minimum = i;
-            maximum = i;
-            total += count[i];
-            sum += i * count[i];
-            if (count[i] > maxCount) { maxCount = count[i]; mode = i; }
-        }
+  let n = 0;
+  let sum = 0;
+  let min = -1;
+  let max = -1;
+  let mode = 0;
+  let modeCount = 0;
+  for (let k = 0; k < 256; k++) {
+    if (count[k] === 0) continue;
+    n += count[k];
+    sum += k * count[k];
+    if (min === -1) min = k;
+    max = k;
+    if (count[k] > modeCount) {
+      modeCount = count[k];
+      mode = k;
     }
-    const mean = sum / total;
-
-    // Find median: locate positions (total-1)/2 and total/2
-    let median = 0;
-    const lo = Math.floor((total - 1) / 2), hi = Math.floor(total / 2);
-    let acc = 0, first = -1, second = -1;
-    for (let i = 0; i < 256; i++) {
-        if (count[i] === 0) continue;
-        const prev = acc;
-        acc += count[i];
-        if (first === -1 && prev <= lo && lo < acc) first = i;
-        if (second === -1 && prev <= hi && hi < acc) second = i;
-        if (first !== -1 && second !== -1) break;
+  }
+  const kth = (rank) => {
+    let cum = 0;
+    for (let k = 0; k < 256; k++) {
+      cum += count[k];
+      if (cum >= rank) return k;
     }
-    median = (first + second) / 2;
-
-    return [minimum, maximum, mean, median, mode];
+  };
+  const median = n % 2 === 1 ? kth((n + 1) / 2) : (kth(n / 2) + kth(n / 2 + 1)) / 2;
+  return [min, max, sum / n, median, mode];
 };
 // @lc code=end
 
 // TEST:
-const c1 = new Array(256).fill(0); c1[1]=1; c1[2]=3; c1[3]=4;
-console.log(JSON.stringify(sampleStats(c1)));
-const c2 = new Array(256).fill(0); c2[1]=4; c2[2]=3; c2[3]=2; c2[4]=2;
-console.log(JSON.stringify(sampleStats(c2)));
+const build = (entries) => {
+  const arr = Array(256).fill(0);
+  for (const [k, c] of entries) arr[k] = c;
+  return arr;
+};
+const eq = (a, b) => a.length === 5 && a.every((v, i) => Math.abs(v - b[i]) < 1e-9);
+console.log(eq(sampleStats(build([[1, 1], [2, 3], [3, 4]])), [1, 3, 2.375, 2.5, 3]));
+console.log(eq(sampleStats(build([[1, 4], [2, 3], [3, 2], [4, 2]])), [1, 4, 24 / 11, 2, 1]));
+console.log(eq(sampleStats(build([[0, 1]])), [0, 0, 0, 0, 0]));
+console.log(eq(sampleStats(build([[2, 2], [10, 1]])), [2, 10, 14 / 3, 2, 2]));
+console.log(eq(sampleStats(build([[1, 3], [2, 1]])), [1, 2, 1.25, 1, 1]));
+console.log(eq(sampleStats(build([[7, 100]])), [7, 7, 7, 7, 7]));
+console.log(eq(sampleStats(build([[255, 5], [0, 4]])), [0, 255, 1275 / 9, 255, 255]));

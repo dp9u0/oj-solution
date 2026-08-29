@@ -11,9 +11,9 @@
  */
 var minimumDeletions = function(nums) {
   const n = nums.length;
-  if (n === 1) return 1;
-  let minIdx = 0, maxIdx = 0;
-  for (let i = 0; i < n; i++) {
+  let minIdx = 0;
+  let maxIdx = 0;
+  for (let i = 1; i < n; i++) {
     if (nums[i] < nums[minIdx]) minIdx = i;
     if (nums[i] > nums[maxIdx]) maxIdx = i;
   }
@@ -24,6 +24,10 @@ var minimumDeletions = function(nums) {
 // @lc code=end
 
 // TEST:
-console.log(minimumDeletions([2, 10, 7, 5, 4, 1, 8, 6])); // 5
-console.log(minimumDeletions([0, -4, 19, 1, 8, -2, -3, 5])); // 3
-console.log(minimumDeletions([101])); // 1
+console.log(minimumDeletions([2, 10, 7, 5, 4, 1, 8, 6]) === 5);
+console.log(minimumDeletions([0, -4, 19, 1, 8, -2, -3, 5]) === 3);
+console.log(minimumDeletions([101]) === 1);
+console.log(minimumDeletions([1, 2]) === 2);
+console.log(minimumDeletions([2, 1]) === 2);
+console.log(minimumDeletions([5, 3, 1, 2, 4, 6]) === 4); // min at 2, max at 5: min(6, 4, 3+1)=4
+console.log(minimumDeletions([-1, -5, -3]) === 2); // min at 1, max at 0: min(2, 2, 1+2)=2

@@ -10,28 +10,25 @@
  * @return {number}
  */
 var largestPerimeter = function(nums) {
-    nums.sort((a, b) => a - b);
-
-    let prefixSum = 0;
-    let result = -1;
-
-    for (let i = 0; i < nums.length; i++) {
-        if (i >= 2 && prefixSum > nums[i]) {
-            result = prefixSum + nums[i];
-        }
-        prefixSum += nums[i];
+  nums.sort((a, b) => a - b);
+  const n = nums.length;
+  const prefix = Array(n).fill(0);
+  prefix[0] = nums[0];
+  for (let i = 1; i < n; i++) prefix[i] = prefix[i - 1] + nums[i];
+  for (let i = n - 1; i >= 2; i--) {
+    if (prefix[i - 1] > nums[i]) {
+      return prefix[i];
     }
-
-    return result;
+  }
+  return -1;
 };
 // @lc code=end
 
 // TEST:
-console.log(largestPerimeter([5, 5, 5]));
-// Expected: 15
-
-console.log(largestPerimeter([1, 12, 1, 2, 5, 50, 3]));
-// Expected: 12
-
-console.log(largestPerimeter([5, 5, 50]));
-// Expected: -1
+console.log(largestPerimeter([5, 5, 5]) === 15);
+console.log(largestPerimeter([1, 12, 1, 2, 5, 50, 3]) === 12);
+console.log(largestPerimeter([5, 5, 50]) === -1);
+console.log(largestPerimeter([1, 1, 2]) === -1);
+console.log(largestPerimeter([2, 2, 2, 2]) === 8);
+console.log(largestPerimeter([1, 2, 3, 4, 5, 6]) === 21);
+console.log(largestPerimeter([100, 1, 1, 1]) === 3);

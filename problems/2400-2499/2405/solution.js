@@ -10,28 +10,24 @@
  * @return {number}
  */
 var partitionString = function(s) {
-    let count = 1;
-    let mask = 0;
-
-    for (const ch of s) {
-        const bit = 1 << (ch.charCodeAt(0) - 97);
-        if (mask & bit) {
-            count++;
-            mask = 0;
-        }
-        mask |= bit;
+  let ans = 1;
+  const seen = new Set();
+  for (const ch of s) {
+    if (seen.has(ch)) {
+      ans++;
+      seen.clear();
     }
-
-    return count;
+    seen.add(ch);
+  }
+  return ans;
 };
 // @lc code=end
 
 // TEST:
-console.log(partitionString('abacaba'));
-// Expected: 4
-
-console.log(partitionString('ssssss'));
-// Expected: 6
-
-console.log(partitionString('abcdef'));
-// Expected: 1
+console.log(partitionString('abacaba') === 4);
+console.log(partitionString('ssssss') === 6);
+console.log(partitionString('abcdef') === 1);
+console.log(partitionString('a') === 1);
+console.log(partitionString('abab') === 2);
+console.log(partitionString('abcabc') === 2);
+console.log(partitionString('hdklqkczgfa') === 2);

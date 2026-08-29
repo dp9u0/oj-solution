@@ -63,7 +63,7 @@ typings/
 # Project working files
 current
 solving/*
-solution.js
+/solution.js
 solving.md
 .vscode
 

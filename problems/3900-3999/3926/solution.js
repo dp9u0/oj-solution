@@ -41,6 +41,6 @@ console.log(JSON.stringify(countWordOccurrences(['hello wor', 'ld hello'], ['hel
 console.log(JSON.stringify(countWordOccurrences(['a-b a--b ', 'a-', 'b'], ['a-b', 'a', 'b'])) === JSON.stringify([2, 1, 1]));
 console.log(JSON.stringify(countWordOccurrences(['-cat dog- mouse'], ['cat', 'dog', 'mouse', 'cat-dog'])) === JSON.stringify([1, 1, 1, 0]));
 console.log(JSON.stringify(countWordOccurrences(['ab'], ['ab', 'a', 'b'])) === JSON.stringify([1, 0, 0]));
-console.log(JSON.stringify(countWordOccurrences(['a', '-', 'b'], ['a-b', 'a', 'b'])) === JSON.stringify([0, 1, 1]));
+console.log(JSON.stringify(countWordOccurrences(["a", "-", "b"], ["a-b", "a", "b"])) === JSON.stringify([1, 0, 0]));
 console.log(JSON.stringify(countWordOccurrences(['a-b-c'], ['a-b-c', 'a-b', 'b-c'])) === JSON.stringify([1, 0, 0]));
 console.log(JSON.stringify(countWordOccurrences(['-'], ['-', ''])) === JSON.stringify([0, 0]));

@@ -10,46 +10,45 @@
  * @return {number}
  */
 var halveArray = function(nums) {
-  let total = 0;
-  const heap = new Float64Array(nums.length);
-  for (let i = 0; i < nums.length; i++) {
-    heap[i] = nums[i];
-    total += nums[i];
-  }
-
-  const heapify = () => {
-    for (let i = ((heap.length >> 1) - 1); i >= 0; i--) siftDown(i);
-  };
+  const heap = [...nums];
+  const size = heap.length;
+  let sum = 0;
+  for (const v of nums) sum += v;
+  const target = sum / 2;
 
   const siftDown = (i) => {
-    const n = heap.length;
     while (true) {
-      let max = i;
-      const l = 2 * i + 1, r = 2 * i + 2;
-      if (l < n && heap[l] > heap[max]) max = l;
-      if (r < n && heap[r] > heap[max]) max = r;
-      if (max === i) break;
-      [heap[i], heap[max]] = [heap[max], heap[i]];
-      i = max;
+      let largest = i;
+      const l = 2 * i + 1;
+      const r = 2 * i + 2;
+      if (l < size && heap[l] > heap[largest]) largest = l;
+      if (r < size && heap[r] > heap[largest]) largest = r;
+      if (largest === i) break;
+      [heap[i], heap[largest]] = [heap[largest], heap[i]];
+      i = largest;
     }
   };
+  for (let i = (size >> 1) - 1; i >= 0; i--) siftDown(i);
 
-  heapify();
-  let target = total / 2;
+  let reduced = 0;
   let ops = 0;
-  while (total > target) {
-    heap[0] /= 2;
-    total -= heap[0];
-    siftDown(0);
+  while (reduced < target) {
+    const half = heap[0] / 2;
+    reduced += half;
     ops++;
+    heap[0] = half;
+    siftDown(0);
   }
   return ops;
 };
 // @lc code=end
 
 // TEST:
-console.log(halveArray([5,19,8,1])); // 3
-console.log(halveArray([3,8,20])); // 3
-console.log(halveArray([1])); // 1
-console.log(halveArray([1,1])); // 2
-console.log(halveArray([6,6])); // 2
+console.log(halveArray([5, 19, 8, 1]) === 3);
+console.log(halveArray([3, 8, 20]) === 3);
+console.log(halveArray([1]) === 1);
+console.log(halveArray([10000000]) === 1);
+console.log(halveArray([2, 2, 2, 2]) === 4);
+console.log(halveArray([1, 1, 1]) === 3);
+console.log(halveArray([6, 6]) === 2);
+console.log(halveArray([4, 3, 2, 1]) === 4);

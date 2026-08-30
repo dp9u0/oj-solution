@@ -118,7 +118,9 @@ module.exports.creteMarkdown = function (data) {
         startCode = true;
       }
       line = line.trim();
-      line = line.replace(/<\/?[^>]+(>|$)/g, "");
+      // strip well-formed html tags only; a bare "<" from decoded math
+      // (e.g. "0 <= i < n") must not eat the rest of the line
+      line = line.replace(/<\/?[a-zA-Z][^>]*>/g, "");
       try {
         line = decodeURIComponent(line);
       } catch (e) {

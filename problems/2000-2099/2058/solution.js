@@ -17,25 +17,51 @@
  * @return {number[]}
  */
 var nodesBetweenCriticalPoints = function(head) {
-  const critical = [];
-  let prev = head, curr = head.next, idx = 1;
-  while (curr.next) {
-    const next = curr.next;
-    if ((curr.val > prev.val && curr.val > next.val) ||
-        (curr.val < prev.val && curr.val < next.val)) {
-      critical.push(idx);
+  let prev = head;
+  let cur = head.next;
+  let pos = 1;          // 当前节点位置（从 1 开始计数）
+  let firstPos = -1;    // 第一个临界点的位置
+  let lastPos = -1;     // 上一个临界点的位置
+  let minGap = Infinity;
+
+  while (cur && cur.next) {
+    const next = cur.next;
+    // 判断当前节点是否为临界点（局部最大或局部最小）
+    if ((cur.val > prev.val && cur.val > next.val) ||
+        (cur.val < prev.val && cur.val < next.val)) {
+      if (firstPos === -1) {
+        firstPos = pos;
+      } else {
+        minGap = Math.min(minGap, pos - lastPos);
+      }
+      lastPos = pos;
     }
-    prev = curr;
-    curr = next;
-    idx++;
+    prev = cur;
+    cur = next;
+    pos++;
   }
 
-  if (critical.length < 2) return [-1, -1];
-
-  let minDist = Infinity;
-  for (let i = 1; i < critical.length; i++) {
-    minDist = Math.min(minDist, critical[i] - critical[i - 1]);
+  // 临界点少于两个，返回 [-1, -1]
+  if (firstPos === -1 || lastPos === firstPos) {
+    return [-1, -1];
   }
-  return [minDist, critical[critical.length - 1] - critical[0]];
+
+  return [minGap, lastPos - firstPos];
 };
 // @lc code=end
+
+// TEST:
+const { arrayToLinkList } = require('./utils/arrayToLinkList');
+const test = (arr) => {
+  const head = arrayToLinkList(arr);
+  console.log(nodesBetweenCriticalPoints(head));
+};
+test([3, 1]); // [-1,-1]
+test([5, 3, 1, 2, 5, 1, 2]); // [1,3]
+test([1, 3, 2, 2, 3, 2, 2, 2, 7]); // [3,3]
+test([1, 2, 3, 4, 5]); // [-1,-1] 严格递增，无临界点
+test([1, 2, 2, 1]); // [-1,-1] 相等不算局部极值
+test([2, 2, 2, 2]); // [-1,-1] 全部相等
+test([1, 5, 4, 3, 2, 6, 5]); // 多个临界点
+test([2, 1, 2, 1, 2, 1]); // 交替极值
+

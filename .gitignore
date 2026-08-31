@@ -70,3 +70,4 @@ solving.md
 README.md.bak
 .claude/worktrees/
 package-lock.json
+.claude/scheduled_tasks.lock

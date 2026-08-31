@@ -7,6 +7,25 @@ description: 自动执行 LeetCode 刷题闭环流程。当用户要求"刷题"�
 
 你现在的任务是辅助用户完成 LeetCode 算法题的闭环刷题流程。这个仓库有自己的一套脚本工作流。
 
+## 参数解析
+
+调用本 skill 时可以携带一个参数，用于指定要刷的题目。参数支持以下四种形式：
+
+| 参数类型 | 示例 | 含义 | 如何确定题号 |
+|---------|------|------|-------------|
+| **数字** | `/leetcode-solver 1234` | 指定题目编号 | 直接用该编号 |
+| **题目标题（模糊）** | `/leetcode-solver Two Sum` | 按标题模糊查找 | 用 `pnpm exec lc list <title>` 搜索，取第一个匹配的题号 |
+| **today** | `/leetcode-solver today` | 刷每日一题 | 用 `pnpm exec lc show -d` 获取今日题号 |
+| **无参数** | `/leetcode-solver` | 随机刷题 | 用 `pnpm run random` 获取随机题号 |
+
+参数解析规则：
+1. 如果参数是**纯数字**（可含 `#` 前缀），直接作为题号。
+2. 如果参数是 **`today`**（或 `daily`、`每日一题`），使用每日一题。
+3. 如果参数是**其他文本**，视为题目标题关键字，用 `pnpm exec lc list <keyword>` 搜索；列表通常形如 `[1234] Two Sum (Hard)`，用 `grep -oE '\[\s*[0-9]+\s*\]'` 提取题号，取第一个匹配。
+4. 如果**没有参数**，使用 `pnpm run random` 随机获取。
+
+得到题号后，统一进入下面的工作流。
+
 ## 核心原则
 
 **严格约束：**
@@ -23,7 +42,7 @@ description: 自动执行 LeetCode 刷题闭环流程。当用户要求"刷题"�
 
 ### 1. 启动题目 (Start)
 
-根据用户输入的题目编号运行：
+根据「参数解析」得到的题目编号运行：
 
 ```bash
 pnpm run start <problem_number>
@@ -31,13 +50,21 @@ pnpm run start <problem_number>
 
 这会生成 `solving.md` 和 `solution.js`。
 
-如果没有提供，需要先使用 `pnpm run random` 随机获取一道未解决的题目，获取题目编号，再调用 `pnpm run start`。
+各参数模式的具体确定题号方式：
 
- `pnpm run random` 会从 LeetCode 上随机获取一道未完成的题目，并输出题目编号和标题。示例:
+- **无参数（随机）**：运行 `pnpm run random` 从 LeetCode 上随机获取一道未完成的题目，输出题目编号和标题。示例:
 
-```
-[1234] Two Sum (Hard)
-```
+  ```
+  [1234] Two Sum (Hard)
+  ```
+
+  用 `grep -oE '\[\s*[0-9]+\s*\]'` 从输出中提取题号（列表/随机输出中 id 可能带空格填充，如 `[ 996]`）。
+
+- **数字参数**：直接用该数字作为题号，无需查找。
+
+- **today（每日一题）**：运行 `pnpm exec lc show -d` 获取今日题目，从输出中提取题号（输出头部形如 `[2058] Find the Minimum...`）。
+
+- **标题模糊查找**：运行 `pnpm exec lc list <title>`，从结果列表中取第一个匹配项提取题号。若搜索无结果，可尝试换更短的关键字，或告知用户未找到并询问。
 
 ### 2. 审题与翻译
 

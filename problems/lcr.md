@@ -6,3 +6,4 @@
 | LCR 040 | [最大矩形](./problems/lcr/040/README.md) | :o: | Hard | [stk] |   |
 | LCR 164 | [破解闯关密码](./problems/lcr/164/README.md) | :o: | Hard | [arr] |   |
 | LCR 127 | [跳跃训练](./problems/lcr/127/README.md) | :o: | Hard | [dp] |   |
+| LCR 166 | [珠宝的最高价值](./problems/lcr/166/README.md) | :o: | Hard | [dp] |   |

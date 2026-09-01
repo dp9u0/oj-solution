@@ -4,8 +4,8 @@
 | ---- | ----- | - | - | ---- | ---- |
 | LCP 03 | [机器人大冒险](./problems/lcp/03/README.md) | :o: | Hard | [hsh],[math] |   |
 | LCP 06 | [拿硬币](./problems/lcp/06/README.md) | :o: | Hard | [math] |   |
+| LCP 18 | [早餐组合](./problems/lcp/18/README.md) | :o: | Hard | [tp] |   |
 | LCP 44 | [开幕式焰火](./problems/lcp/44/README.md) | :o: | Hard | [tr],[hsh] |   |
 | LCP 52 | [二叉搜索树染色](./problems/lcp/52/README.md) | :o: | Hard | [tr] |   |
 | LCP 65 | [舒适的湿度](./problems/lcp/65/README.md) | :o: | Hard | [arr] |   |
 | LCP 72 | [补给马车](./problems/lcp/72/README.md) | :o: | Hard | [arr] |   |
-| LCP 18 | [早餐组合](./problems/lcp/18/README.md) | :o: | Hard | [tp] |   |

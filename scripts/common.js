@@ -71,14 +71,17 @@ function parseProblemId(problem) {
   return { prefix: null, num: String(problem).trim() };
 }
 
-// 归档目录：前缀题(LCP/LCR/LCS) → ./problems/<prefix>/<num>，纯数字 → ./problems/<range>/<num>
+// 归档目录：前缀题(LCP/LCR/LCS) → ./problems/<prefix>/<num>，纯数字 → ./problems/<range>/<4位题号>
 function targetPath(problem, file) {
   const { prefix, num } = parseProblemId(problem);
   const dir = prefix
     ? `./problems/${prefix}/${num}`
     : (() => {
-        const pre = ~~(Number(num) / 100);
-        return `./problems/${pre}00-${pre}99/${num}`;
+        const n = Number(num);
+        const pre = ~~(n / 100);
+        const start = String(pre * 100).padStart(4, '0');
+        const end = String(pre * 100 + 99).padStart(4, '0');
+        return `./problems/${start}-${end}/${String(n).padStart(4, '0')}`;
       })();
   return file ? `${dir}/${file}` : dir;
 }
@@ -165,6 +168,20 @@ function getChunkFilePath(problem) {
   return `${PROBLEMS_DIR}/${start}-${end}.md`;
 }
 
+// 从表格数据行提取题号数字用于排序："| LCP 03 | ..." → 3；"| 4041 | ..." → 4041
+function rowSeq(line) {
+  const m = line.match(/^\|\s*(?:[A-Z]+\s+)?(\d+)\s*\|/);
+  return m ? Number(m[1]) : null;
+}
+
+// 表格数据行按题号升序排序
+function sortDataLines(lines) {
+  return lines
+    .map(line => ({ seq: rowSeq(line), line }))
+    .sort((a, b) => a.seq - b.seq)
+    .map(x => x.line);
+}
+
 module.exports.updateReadme = function ({ problem, title, level, topics = '', status = '', remark = '', callback }) {
   const chunkPath = getChunkFilePath(problem);
   // 分块文件不存在时(如首个前缀题归档)，先创建表头，与现有分块文件格式一致
@@ -174,42 +191,44 @@ module.exports.updateReadme = function ({ problem, title, level, topics = '', st
     fs.writeFileSync(chunkPath,
       `# Problems ${range}\n\n| Seq  | Title | S | L | Tags |      |\n| ---- | ----- | - | - | ---- | ---- |\n`);
   }
-  const tmpFilePath = chunkPath + `.${Date.now()}.tmp`;
-  let reader = fs.createReadStream(chunkPath);
-  let writer = fs.createWriteStream(tmpFilePath);
-  let lineReader = readline.createInterface({
-    input: reader
-  });
-  let reg = new RegExp('^\\|\\s+' + problem + '\\s+\\|');
+
+  const lines = fs.readFileSync(chunkPath, 'utf-8').split('\n');
+  const reg = new RegExp('^\\|\\s+' + problem + '\\s+\\|');
   let found = false;
-  lineReader.on('line', (line) => {
-    let lineOutput;
+
+  // 表头 = 标题行 + "| Seq" 行 + 分隔行；其余为数据行
+  const seqIdx = lines.findIndex(l => l.includes('| Seq'));
+  const sepIdx = seqIdx >= 0 ? seqIdx + 1 : -1;
+  let before = lines;
+  let header = [];
+  let data = [];
+  if (seqIdx >= 0 && sepIdx < lines.length && /^\|\s*-+/.test(lines[sepIdx] || '')) {
+    before = lines.slice(0, seqIdx);
+    header = lines.slice(seqIdx, sepIdx + 1);
+    data = lines.slice(sepIdx + 1).filter(l => l.trim() !== '');
+  }
+
+  // 更新已有行或追加新行
+  const updatedData = data.map(line => {
     if (reg.test(line)) {
-      let blocks = line.split(/\s*\|\s*/);
-      let oldTitle = blocks[2];
-      let oldLevel = blocks[4];
-      let newLine = `| ${problem} | ${oldTitle} | ${status} | ${level || oldLevel} | ${topics} | ${remark}  |`;
-      lineOutput = newLine;
       found = true;
-    } else {
-      lineOutput = line;
+      const blocks = line.split(/\s*\|\s*/);
+      const oldTitle = blocks[2];
+      const oldLevel = blocks[4];
+      return `| ${problem} | ${oldTitle} | ${status} | ${level || oldLevel} | ${topics} | ${remark}  |`;
     }
-    writer.write(lineOutput + os.EOL); // 下一行
+    return line;
   });
+  if (!found) {
+    const md = getTargetMdPath(problem);
+    updatedData.push(`| ${problem} | [${title || problem}](${md}) | ${status} | ${level} | ${topics} | ${remark}  |`);
+  }
 
-  lineReader.on('close', () => {
-    if (!found) {
-      let md = getTargetMdPath(problem);
-      let newLine = `| ${problem} | [${title || problem}](${md}) | ${status} | ${level} | ${topics} | ${remark}  |`;
-      writer.write(newLine + os.EOL); // 下一行
-    }
-    writer.end();
-  });
-
-  writer.on('finish', () => {
-    fs.renameSync(tmpFilePath, chunkPath);
-    if (callback) {
-      callback();
-    }
-  });
+  // 按题号排序后重写，保证表格有序
+  const sortedData = sortDataLines(updatedData);
+  const result = [...before, ...header, ...sortedData].join('\n');
+  fs.writeFileSync(chunkPath, result);
+  if (callback) {
+    callback();
+  }
 }

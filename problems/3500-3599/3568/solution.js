@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode id=3568 lang=javascript
+ * @lc app=leetcode.cn id=3568 lang=javascript
  *
- * [3568] Minimum Moves to Clean the Classroom
+ * [3568] 清理教室的最少移动
  */
 
 // @lc code=start
@@ -10,67 +10,78 @@
  * @param {number} energy
  * @return {number}
  */
-var minMoves = function(classroom, maxE) {
-  const m = classroom.length, n = classroom[0].length;
-  let sr = 0, sc = 0;
-  const litterMap = new Map();
-  let lc = 0;
+var minMoves = function(classroom, energy) {
+    const m = classroom.length;
+    const n = classroom[0].length;
+    const dirs = [[1, 0], [-1, 0], [0, 1], [0, -1]];
 
-  for (let i = 0; i < m; i++) {
-    for (let j = 0; j < n; j++) {
-      const ch = classroom[i][j];
-      if (ch === 'S') { sr = i; sc = j; }
-      if (ch === 'L') litterMap.set(i * n + j, lc++);
+    // Locate start and index each trash cell
+    let sx = 0, sy = 0;
+    const lIndex = new Array(m * n).fill(-1);
+    let lCount = 0;
+    for (let i = 0; i < m; i++) {
+        for (let j = 0; j < n; j++) {
+            const c = classroom[i][j];
+            if (c === 'S') {
+                sx = i; sy = j;
+            } else if (c === 'L') {
+                lIndex[i * n + j] = lCount++;
+            }
+        }
     }
-  }
+    if (lCount === 0) return 0;
 
-  if (lc === 0) return 0;
-  const full = (1 << lc) - 1;
-  const sz = 1 << lc;
+    const fullMask = (1 << lCount) - 1;
+    const states = 1 << lCount;
+    // best[posIdx][mask] = max energy reached at that position & collected set
+    const best = new Int16Array(m * n * states).fill(-1);
 
-  // visited[r * n + c][mask] = max energy seen
-  const visited = new Int8Array(m * n * sz).fill(-1);
-  const key = (r, c, mask) => (r * n + c) * sz + mask;
+    const start = sx * n + sy;
+    const queue = [[start, 0, energy]];
+    best[start * states] = energy;
+    let head = 0;
+    let steps = 0;
 
-  // BFS queue: [r, c, mask, energy, moves]
-  const q = [[sr, sc, 0, maxE, 0]];
-  visited[key(sr, sc, 0)] = maxE;
+    while (head < queue.length) {
+        const levelSize = queue.length - head;
+        for (let i = 0; i < levelSize; i++) {
+            const [pos, mask, e] = queue[head++];
+            const x = (pos / n) | 0;
+            const y = pos % n;
+            for (const [dx, dy] of dirs) {
+                const nx = x + dx, ny = y + dy;
+                if (nx < 0 || nx >= m || ny < 0 || ny >= n) continue;
+                const np = nx * n + ny;
+                const c = classroom[nx][ny];
+                if (c === 'X') continue;
 
-  const dirs = [[0, 1], [0, -1], [1, 0], [-1, 0]];
-  let head = 0;
+                let ne = e - 1;          // each move costs 1 energy (e >= 1 guaranteed)
+                let nmask = mask;
+                if (c === 'L') nmask = mask | (1 << lIndex[np]);
+                if (c === 'R') ne = energy; // reset zone refills to max
 
-  while (head < q.length) {
-    const [r, c, mask, e, moves] = q[head++];
-    if (e === 0) continue;
+                if (nmask === fullMask) return steps + 1;
+                if (ne <= 0) continue;   // 0 energy off-R is a dead end
 
-    for (const [dr, dc] of dirs) {
-      const nr = r + dr, nc = c + dc;
-      if (nr < 0 || nr >= m || nc < 0 || nc >= n) continue;
-      const cell = classroom[nr][nc];
-      if (cell === 'X') continue;
-
-      let ne = e - 1;
-      let nm = mask;
-      if (cell === 'R') ne = maxE;
-      if (cell === 'L') nm |= (1 << litterMap.get(nr * n + nc));
-
-      if (nm === full) return moves + 1;
-
-      const k = key(nr, nc, nm);
-      if (ne > visited[k]) {
-        visited[k] = ne;
-        q.push([nr, nc, nm, ne, moves + 1]);
-      }
+                const key = np * states + nmask;
+                if (ne > best[key]) {
+                    best[key] = ne;
+                    queue.push([np, nmask, ne]);
+                }
+            }
+        }
+        steps++;
     }
-  }
-
-  return -1;
+    return -1;
 };
 // @lc code=end
 
 // TEST:
-console.log(minMoves(["S.", "XL"], 2)); // 2
-console.log(minMoves(["LS", "RL"], 4)); // 3
-console.log(minMoves(["L.S", "RXL"], 3)); // -1
-console.log(minMoves(["S"], 1)); // 0 (no litter)
-console.log(minMoves(["SRL"], 1)); // 2
+console.log(minMoves(["S.", "XL"], 2));       // 2
+console.log(minMoves(["LS", "RL"], 4));       // 3
+console.log(minMoves(["L.S", "RXL"], 3));     // -1
+console.log(minMoves(["SL"], 1));             // 1
+console.log(minMoves(["S"], 5));              // 0
+console.log(minMoves(["SR.L"], 2));           // 3
+console.log(minMoves(["S.L", "X.X", ".R."], 2)); // 2
+console.log(minMoves(["S...", "....", "....", "R..L"], 3)); // 6

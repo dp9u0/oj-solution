@@ -24,14 +24,16 @@ exec(LIST_COMMAND, (err, stdout, stderr) => {
       continue;
     }
 
-    const id = match[1].replace(/\s+/g, '');
-    // 只保留纯数字题号：LCP/LCR/LCS 等前缀题在 start/ok 归档流程中不兼容
-    if (!/^\d+$/.test(id)) {
-      continue;
+    // 题号格式化：纯数字去空格(4041)，前缀题保留前缀与数字的空格(LCR 052)
+    // 因为 lc show 需要 'LCR 052' 这种带空格格式，'LCR052' 无法识别
+    let id = match[1].replace(/\s+/g, '');
+    const idMatch = id.match(/^([A-Z]+)(\d+)$/);
+    if (idMatch) {
+      id = `${idMatch[1]} ${idMatch[2]}`;
     }
 
     problems.push({
-      id: Number(id),
+      id,
       title: match[2].trim(),
       difficulty: match[3],
     });

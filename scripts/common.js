@@ -20,7 +20,7 @@ module.exports.setCurrent = function (problem) {
 }
 
 module.exports.getCurrent = function () {
-  return fs.readFileSync(CURRENT_FILE, 'utf-8');
+  return fs.readFileSync(CURRENT_FILE, 'utf-8').trim();
 }
 
 module.exports.removeCurrent = function () {
@@ -31,7 +31,7 @@ module.exports.parseCurrent = function () {
   // 保存 markdown
   let contentOfMd = fs.readFileSync(SOLUTION_MD_PATH, 'utf-8');
   let lineOfMd = contentOfMd.split("\n");
-  let title = lineOfMd[0].replace(/# \[[0-9]+\] /, "");
+  let title = lineOfMd[0].replace(/# \[[^\]]+\] /, "");
   let lineLevel = lineOfMd[7];
   let level = lineLevel.indexOf("Easy") !== -1 ? "Easy" : lineLevel.indexOf("Medium") !== -1 ? "Medium" : "Hard";
   return { title, level };
@@ -64,21 +64,37 @@ module.exports.getMdPath = function (problem) {
   return mdPath;
 }
 
+// 解析题号："LCR 043" → { prefix: 'lcr', num: '043' }；纯数字 "4041" → { prefix: null, num: '4041' }
+function parseProblemId(problem) {
+  const m = String(problem).trim().match(/^([A-Za-z]+)\s+(\d+)$/);
+  if (m) return { prefix: m[1].toLowerCase(), num: m[2] };
+  return { prefix: null, num: String(problem).trim() };
+}
+
+// 归档目录：前缀题(LCP/LCR/LCS) → ./problems/<prefix>/<num>，纯数字 → ./problems/<range>/<num>
+function targetPath(problem, file) {
+  const { prefix, num } = parseProblemId(problem);
+  const dir = prefix
+    ? `./problems/${prefix}/${num}`
+    : (() => {
+        const pre = ~~(Number(num) / 100);
+        return `./problems/${pre}00-${pre}99/${num}`;
+      })();
+  return file ? `${dir}/${file}` : dir;
+}
+
 module.exports.getTargetDir = function (problem) {
-  let pre = ~~(Number(problem) / 100);
-  return `./problems/${pre}00-${pre}99/${problem}`;
+  return targetPath(problem, '');
 }
 
 const getTargetJsPath = function (problem) {
-  let pre = ~~(Number(problem) / 100);
-  return `./problems/${pre}00-${pre}99/${problem}/solution.js`;
+  return targetPath(problem, 'solution.js');
 }
 
 module.exports.getTargetJsPath = getTargetJsPath;
 
 const getTargetMdPath = function (problem) {
-  let pre = ~~(Number(problem) / 100);
-  return `./problems/${pre}00-${pre}99/${problem}/README.md`;
+  return targetPath(problem, 'README.md');
 }
 
 module.exports.getTargetMdPath = getTargetMdPath;
@@ -100,7 +116,7 @@ module.exports.creteMarkdown = function (data) {
   for (let index = 0; index < lines.length; index++) {
     let line = lines[index];
     if (index === 0) {
-      if (/\[[0-9]+\].+/.test(line)) {
+      if (/\[[^\]]+\].+/.test(line)) {
         markdown = `# ${line.trim()}\n\n## Description\n\n`;
       } else {
         console.error('fetch question description failed')
@@ -138,7 +154,12 @@ module.exports.creteMarkdown = function (data) {
 }
 
 function getChunkFilePath(problem) {
-  let pre = ~~(Number(problem) / 100);
+  const { prefix, num } = parseProblemId(problem);
+  if (prefix) {
+    // 前缀题(LCP/LCR/LCS)归档到独立的 problems/<prefix>.md 表
+    return `${PROBLEMS_DIR}/${prefix}.md`;
+  }
+  let pre = ~~(Number(num) / 100);
   let start = String(pre * 100).padStart(4, '0');
   let end = String(pre * 100 + 99).padStart(4, '0');
   return `${PROBLEMS_DIR}/${start}-${end}.md`;
@@ -146,6 +167,13 @@ function getChunkFilePath(problem) {
 
 module.exports.updateReadme = function ({ problem, title, level, topics = '', status = '', remark = '', callback }) {
   const chunkPath = getChunkFilePath(problem);
+  // 分块文件不存在时(如首个前缀题归档)，先创建表头，与现有分块文件格式一致
+  if (!fs.existsSync(chunkPath)) {
+    const { prefix } = parseProblemId(problem);
+    const range = prefix ? prefix.toUpperCase() : '';
+    fs.writeFileSync(chunkPath,
+      `# Problems ${range}\n\n| Seq  | Title | S | L | Tags |      |\n| ---- | ----- | - | - | ---- | ---- |\n`);
+  }
   const tmpFilePath = chunkPath + `.${Date.now()}.tmp`;
   let reader = fs.createReadStream(chunkPath);
   let writer = fs.createWriteStream(tmpFilePath);

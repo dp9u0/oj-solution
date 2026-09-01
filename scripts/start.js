@@ -5,7 +5,9 @@ let problem = process.argv[2] || ~~(Math.random() * 4000);
 let jsPath = common.getJsPath(problem);
 let markdownPath = common.getMdPath(problem);
 let existed = false;
-let cmdStr = `lc show ${problem} -g -o solving`;
+// 题号可能带空格(如 "LCR 043")，需加引号防止 shell 拆词
+const quoted = `"${problem}"`;
+let cmdStr = `lc show ${quoted} -g -o solving`;
 
 if (common.checkStarted()) {
   let problem = common.getCurrent();
@@ -14,7 +16,7 @@ if (common.checkStarted()) {
 }
 
 if (common.checkProblemExists(problem)) {
-  cmdStr = `lc show ${problem}`;
+  cmdStr = `lc show ${quoted}`;
   existed = true;
 }
 

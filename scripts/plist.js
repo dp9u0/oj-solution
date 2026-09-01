@@ -3,7 +3,8 @@ let common = require('./common');
 // NEED MODIFY HERE
 const os = require('os');
 const path = require('path');
-let problems = require(path.join(os.homedir(), ".lc/leetcode/cache/problems.json"));
+// 当前使用 CN 站(leetcode.cn)，缓存路径为 leetcode.cn；如切回国际站需改回 leetcode
+let problems = require(path.join(os.homedir(), ".lc/leetcode.cn/cache/problems.json"));
 let start = Number(process.argv[2] || '2084');
 problems = problems.filter(p => p.id >= start).sort((a, b) => a.id - b.id);
 let map = new Map();

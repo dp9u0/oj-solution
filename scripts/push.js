@@ -10,8 +10,8 @@ let problem = common.getCurrent();
 let jsPath = common.getJsPath(problem);
 // Save first
 common.saveCurrent(problem);
-// run pusn
-let cmdStr = `lc push ${jsPath}`;
+// run pusn（jsPath 可能含空格，如 "LCR 043.js"，需加引号防止 shell 拆词）
+let cmdStr = `lc push "${jsPath}"`;
 execSync(cmdStr, {
   stdio: 'inherit'
 });

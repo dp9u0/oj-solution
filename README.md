@@ -120,3 +120,6 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | 3800-3899 | [3800-3899](./problems/3800-3899.md) |
 | 3900-3999 | [3900-3999](./problems/3900-3999.md) |
 | 4000-4099 | [4000-4099](./problems/4000-4099.md) |
+| LCP       | [LCP](./problems/lcp.md)              |
+| LCR       | [LCR](./problems/lcr.md)              |
+| LCS       | [LCS](./problems/lcs.md)              |

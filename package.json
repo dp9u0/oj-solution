@@ -12,7 +12,7 @@
     "ok": "node scripts/ok.js",
     "plist": "node scripts/plist.js",
     "random": "node scripts/random.js",
-    "list": "lc list -t algorithms -q L -s",
+    "list": "lc list -t algorithms -q LD -s",
     "liste": "lc list -t algorithms -q LDe -s",
     "listm": "lc list -t algorithms -q LDm -s",
     "listh": "lc list -t algorithms -q LDh -s",

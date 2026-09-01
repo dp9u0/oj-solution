@@ -11,3 +11,4 @@
 | LCR 126 | [斐波那契数](./problems/lcr/126/README.md) | :o: | Hard | [dp] |   |
 | LCR 114 | [火星词典](./problems/lcr/114/README.md) | :o: | Hard | [grf],[hp] |   |
 | LCR 103 | [零钱兑换](./problems/lcr/103/README.md) | :o: | Hard | [dp] | :+1:  |
+| LCR 111 | [除法求值](./problems/lcr/111/README.md) | :o: | Hard | [grf],[dfs] | :+1:  |

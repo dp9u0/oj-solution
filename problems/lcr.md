@@ -56,6 +56,7 @@
 | LCR 163 | [找到第 k 位数字](./problems/lcr/163/README.md) | :o: | Hard | [math] |   |
 | LCR 164 | [破解闯关密码](./problems/lcr/164/README.md) | :o: | Hard | [arr] |   |
 | LCR 166 | [珠宝的最高价值](./problems/lcr/166/README.md) | :o: | Hard | [dp] |   |
+| LCR 167 | [招式拆解 I](./problems/lcr/167/README.md) | :o: | Hard | [sd],[tp] | :+1:  |
 | LCR 171 | [训练计划 V](./problems/lcr/171/README.md) | :o: | Hard | [ll],[tp] |   |
 | LCR 173 | [点名](./problems/lcr/173/README.md) | :o: | Hard | [bs] |   |
 | LCR 175 | [计算二叉树的深度](./problems/lcr/175/README.md) | :o: | Hard | [tr] |   |

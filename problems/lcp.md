@@ -16,3 +16,4 @@
 | LCP 57 | [打地鼠](./problems/lcp/57/README.md) | :o: | Hard | [dp] |   |
 | LCP 65 | [舒适的湿度](./problems/lcp/65/README.md) | :o: | Hard | [arr] |   |
 | LCP 72 | [补给马车](./problems/lcp/72/README.md) | :o: | Hard | [arr] |   |
+| LCP 78 | [城墙防线](./problems/lcp/78/README.md) | :o: | Hard | [bs] |   |

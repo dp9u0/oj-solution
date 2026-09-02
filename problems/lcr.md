@@ -5,6 +5,7 @@
 | LCR 040 | [最大矩形](./problems/lcr/040/README.md) | :o: | Hard | [stk] |   |
 | LCR 064 | [实现一个魔法字典](./problems/lcr/064/README.md) | :o: | Hard | [hsh] |   |
 | LCR 103 | [零钱兑换](./problems/lcr/103/README.md) | :o: | Hard | [dp] | :+1:  |
+| LCR 104 | [组合总和 Ⅳ](./problems/lcr/104/README.md) | :o: | Hard | [dp] | :+1:  |
 | LCR 111 | [除法求值](./problems/lcr/111/README.md) | :o: | Hard | [grf],[dfs] | :+1:  |
 | LCR 114 | [火星词典](./problems/lcr/114/README.md) | :o: | Hard | [grf],[hp] |   |
 | LCR 116 | [省份数量](./problems/lcr/116/README.md) | :o: | Hard | [grf] |   |

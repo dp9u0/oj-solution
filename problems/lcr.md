@@ -11,6 +11,7 @@
 | LCR 126 | [斐波那契数](./problems/lcr/126/README.md) | :o: | Hard | [dp] |   |
 | LCR 127 | [跳跃训练](./problems/lcr/127/README.md) | :o: | Hard | [dp] |   |
 | LCR 140 | [训练计划 II](./problems/lcr/140/README.md) | :o: | Hard | [ll],[tp] |   |
+| LCR 163 | [找到第 k 位数字](./problems/lcr/163/README.md) | :o: | Hard | [math] |   |
 | LCR 164 | [破解闯关密码](./problems/lcr/164/README.md) | :o: | Hard | [arr] |   |
 | LCR 166 | [珠宝的最高价值](./problems/lcr/166/README.md) | :o: | Hard | [dp] |   |
 | LCR 171 | [训练计划 V](./problems/lcr/171/README.md) | :o: | Hard | [ll],[tp] |   |

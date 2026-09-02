@@ -43,6 +43,7 @@
 | LCR 054 | [把二叉搜索树转换为累加树](./problems/lcr/054/README.md) | :o: | Hard | [tr] | :+1:  |
 | LCR 056 | [两数之和 IV - 输入二叉搜索树](./problems/lcr/056/README.md) | :o: | Hard | [tr],[tp] |   |
 | LCR 057 | [存在重复元素 III](./problems/lcr/057/README.md) | :o: | Hard | [hsh],[sd] |   |
+| LCR 058 | [我的日程安排表 I](./problems/lcr/058/README.md) | :o: | Hard | [ds] |   |
 | LCR 059 | [数据流中的第 K 大元素](./problems/lcr/059/README.md) | :o: | Hard | [hp],[ds] |   |
 | LCR 061 | [查找和最小的 K 对数字](./problems/lcr/061/README.md) | :o: | Hard | [hp] | :+1:  |
 | LCR 062 | [实现 Trie (前缀树)](./problems/lcr/062/README.md) | :o: | Hard | [tr],[des] |   |

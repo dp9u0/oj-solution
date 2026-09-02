@@ -93,6 +93,7 @@
 | LCR 103 | [零钱兑换](./problems/lcr/103/README.md) | :o: | Hard | [dp] | :+1:  |
 | LCR 104 | [组合总和 Ⅳ](./problems/lcr/104/README.md) | :o: | Hard | [dp] | :+1:  |
 | LCR 106 | [判断二分图](./problems/lcr/106/README.md) | :o: | Hard | [grf],[bfs] |   |
+| LCR 107 | [01 矩阵](./problems/lcr/107/README.md) | :o: | Hard | [bfs],[dp] |   |
 | LCR 108 | [单词接龙](./problems/lcr/108/README.md) | :o: | Hard | [bfs],[str] |   |
 | LCR 109 | [打开转盘锁](./problems/lcr/109/README.md) | :o: | Hard | [bfs] | :+1:  |
 | LCR 110 | [所有可能的路径](./problems/lcr/110/README.md) | :o: | Hard | [bt],[dfs] |   |

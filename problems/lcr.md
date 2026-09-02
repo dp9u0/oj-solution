@@ -39,6 +39,7 @@
 | LCR 140 | [训练计划 II](./problems/lcr/140/README.md) | :o: | Hard | [ll],[tp] |   |
 | LCR 142 | [训练计划 IV](./problems/lcr/142/README.md) | :o: | Hard | [ll] |   |
 | LCR 152 | [验证二叉搜索树的后序遍历序列](./problems/lcr/152/README.md) | :o: | Hard | [tr] |   |
+| LCR 153 | [二叉树中和为目标值的路径](./problems/lcr/153/README.md) | :o: | Hard | [tr],[dfs] | :+1:  |
 | LCR 160 | [数据流中的中位数](./problems/lcr/160/README.md) | :o: | Hard | [des],[hp] |   |
 | LCR 161 | [连续天数的最高销售额](./problems/lcr/161/README.md) | :o: | Hard | [arr],[dp] | :+1:  |
 | LCR 163 | [找到第 k 位数字](./problems/lcr/163/README.md) | :o: | Hard | [math] |   |

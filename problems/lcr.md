@@ -3,6 +3,7 @@
 | Seq  | Title | S | L | Tags |      |
 | ---- | ----- | - | - | ---- | ---- |
 | LCR 003 | [比特位计数](./problems/lcr/003/README.md) | :o: | Hard | [dp],[bit] |   |
+| LCR 019 | [验证回文串 II](./problems/lcr/019/README.md) | :o: | Hard | [tp] |   |
 | LCR 021 | [删除链表的倒数第 N 个结点](./problems/lcr/021/README.md) | :o: | Medium | [ll] |   |
 | LCR 039 | [柱状图中最大的矩形](./problems/lcr/039/README.md) | :o: | Hard | [stk] |   |
 | LCR 040 | [最大矩形](./problems/lcr/040/README.md) | :o: | Hard | [stk] |   |

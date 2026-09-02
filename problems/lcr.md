@@ -69,6 +69,7 @@
 | LCR 080 | [组合](./problems/lcr/080/README.md) | :o: | Hard | [bt] |   |
 | LCR 082 | [组合总和 II](./problems/lcr/082/README.md) | :o: | Hard | [bt],[arr] |   |
 | LCR 083 | [全排列](./problems/lcr/083/README.md) | :o: | Hard | [bt] |   |
+| LCR 084 | [全排列 II](./problems/lcr/084/README.md) | :o: | Hard | [bt] |   |
 | LCR 085 | [括号生成](./problems/lcr/085/README.md) | :o: | Hard | [bt] |   |
 | LCR 086 | [分割回文串](./problems/lcr/086/README.md) | :o: | Hard | [bt],[dp] |   |
 | LCR 087 | [复原 IP 地址](./problems/lcr/087/README.md) | :o: | Hard | [bt],[str] |   |

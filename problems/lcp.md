@@ -11,6 +11,7 @@
 | LCP 18 | [早餐组合](./problems/lcp/18/README.md) | :o: | Hard | [tp] |   |
 | LCP 28 | [采购方案](./problems/lcp/28/README.md) | :o: | Hard | [tp] |   |
 | LCP 29 | [乐团站位](./problems/lcp/29/README.md) | :o: | Hard | [math] |   |
+| LCP 30 | [魔塔游戏](./problems/lcp/30/README.md) | :o: | Hard | [hp],[grd] |   |
 | LCP 33 | [蓄水](./problems/lcp/33/README.md) | :o: | Hard | [grd] |   |
 | LCP 36 | [最多牌组数](./problems/lcp/36/README.md) | :o: | Hard | [dp] |   |
 | LCP 39 | [无人机方阵](./problems/lcp/39/README.md) | :o: | Hard | [arr] |   |

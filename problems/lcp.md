@@ -31,6 +31,7 @@
 | LCP 34 | [二叉树染色](./problems/lcp/34/README.md) | :o: | Hard | [tr],[dp] |   |
 | LCP 35 | [电动车游城市](./problems/lcp/35/README.md) | :o: | Hard | [grf],[dp] |   |
 | LCP 36 | [最多牌组数](./problems/lcp/36/README.md) | :o: | Hard | [dp] |   |
+| LCP 38 | [守卫城堡](./problems/lcp/38/README.md) | :o: | Hard | [grf] |   |
 | LCP 39 | [无人机方阵](./problems/lcp/39/README.md) | :o: | Hard | [arr] |   |
 | LCP 40 | [心算挑战](./problems/lcp/40/README.md) | :o: | Hard | [grd] |   |
 | LCP 41 | [黑白翻转棋](./problems/lcp/41/README.md) | :o: | Hard | [bfs] |   |

@@ -2,6 +2,7 @@
 
 | Seq  | Title | S | L | Tags |      |
 | ---- | ----- | - | - | ---- | ---- |
+| LCP 01 | [猜数字](./problems/lcp/01/README.md) | :o: | Hard | [arr] |   |
 | LCP 02 | [分式化简](./problems/lcp/02/README.md) | :o: | Hard | [math] |   |
 | LCP 03 | [机器人大冒险](./problems/lcp/03/README.md) | :o: | Hard | [hsh],[math] |   |
 | LCP 04 | [覆盖](./problems/lcp/04/README.md) | :o: | Hard | [grf] |   |

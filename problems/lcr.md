@@ -20,6 +20,7 @@
 | LCR 031 | [LRU 缓存](./problems/lcr/031/README.md) | :o: | Hard | [hsh],[des] |   |
 | LCR 032 | [有效的字母异位词](./problems/lcr/032/README.md) | :o: | Hard | [str] |   |
 | LCR 033 | [字母异位词分组](./problems/lcr/033/README.md) | :o: | Hard | [hsh],[str] | :+1:  |
+| LCR 037 | [行星碰撞](./problems/lcr/037/README.md) | :o: | Hard | [stk] |   |
 | LCR 039 | [柱状图中最大的矩形](./problems/lcr/039/README.md) | :o: | Hard | [stk] |   |
 | LCR 040 | [最大矩形](./problems/lcr/040/README.md) | :o: | Hard | [stk] |   |
 | LCR 042 | [最近的请求次数](./problems/lcr/042/README.md) | :o: | Hard | [q] |   |

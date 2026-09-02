@@ -108,6 +108,7 @@
 | LCR 159 | [库存管理 III](./problems/lcr/159/README.md) | :o: | Hard | [arr] |   |
 | LCR 160 | [数据流中的中位数](./problems/lcr/160/README.md) | :o: | Hard | [des],[hp] |   |
 | LCR 161 | [连续天数的最高销售额](./problems/lcr/161/README.md) | :o: | Hard | [arr],[dp] | :+1:  |
+| LCR 162 | [数字 1 的个数](./problems/lcr/162/README.md) | :o: | Hard | [math] |   |
 | LCR 163 | [找到第 k 位数字](./problems/lcr/163/README.md) | :o: | Hard | [math] |   |
 | LCR 164 | [破解闯关密码](./problems/lcr/164/README.md) | :o: | Hard | [arr] |   |
 | LCR 165 | [解密数字](./problems/lcr/165/README.md) | :o: | Hard | [dp],[str] |   |

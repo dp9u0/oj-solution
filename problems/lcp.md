@@ -8,5 +8,6 @@
 | LCP 18 | [早餐组合](./problems/lcp/18/README.md) | :o: | Hard | [tp] |   |
 | LCP 44 | [开幕式焰火](./problems/lcp/44/README.md) | :o: | Hard | [tr],[hsh] |   |
 | LCP 52 | [二叉搜索树染色](./problems/lcp/52/README.md) | :o: | Hard | [tr] |   |
+| LCP 57 | [打地鼠](./problems/lcp/57/README.md) | :o: | Hard | [dp] |   |
 | LCP 65 | [舒适的湿度](./problems/lcp/65/README.md) | :o: | Hard | [arr] |   |
 | LCP 72 | [补给马车](./problems/lcp/72/README.md) | :o: | Hard | [arr] |   |

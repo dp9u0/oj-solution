@@ -74,6 +74,7 @@
 | LCR 130 | [衣橱整理](./problems/lcr/130/README.md) | :o: | Hard | [dfs],[arr] |   |
 | LCR 133 | [位 1 的个数](./problems/lcr/133/README.md) | :o: | Hard | [bit] |   |
 | LCR 134 | [Pow(x, n)](./problems/lcr/134/README.md) | :o: | Hard | [math] |   |
+| LCR 138 | [有效数字](./problems/lcr/138/README.md) | :o: | Hard | [str] |   |
 | LCR 139 | [训练计划 I](./problems/lcr/139/README.md) | :o: | Hard | [tp] |   |
 | LCR 140 | [训练计划 II](./problems/lcr/140/README.md) | :o: | Hard | [ll],[tp] |   |
 | LCR 141 | [训练计划 III](./problems/lcr/141/README.md) | :o: | Hard | [ll] |   |

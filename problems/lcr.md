@@ -33,6 +33,7 @@
 | LCR 090 | [打家劫舍 II](./problems/lcr/090/README.md) | :o: | Hard | [dp] |   |
 | LCR 093 | [最长的斐波那契子序列的长度](./problems/lcr/093/README.md) | :o: | Hard | [dp] |   |
 | LCR 095 | [最长公共子序列](./problems/lcr/095/README.md) | :o: | Hard | [dp] |   |
+| LCR 098 | [不同路径](./problems/lcr/098/README.md) | :o: | Hard | [dp] |   |
 | LCR 100 | [三角形最小路径和](./problems/lcr/100/README.md) | :o: | Hard | [dp] | :+1:  |
 | LCR 101 | [分割等和子集](./problems/lcr/101/README.md) | :o: | Hard | [dp] |   |
 | LCR 103 | [零钱兑换](./problems/lcr/103/README.md) | :o: | Hard | [dp] | :+1:  |

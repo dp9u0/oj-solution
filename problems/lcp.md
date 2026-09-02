@@ -21,6 +21,7 @@
 | LCP 52 | [二叉搜索树染色](./problems/lcp/52/README.md) | :o: | Hard | [tr] |   |
 | LCP 55 | [采集果实](./problems/lcp/55/README.md) | :o: | Hard | [arr] |   |
 | LCP 57 | [打地鼠](./problems/lcp/57/README.md) | :o: | Hard | [dp] |   |
+| LCP 62 | [交通枢纽](./problems/lcp/62/README.md) | :o: | Hard | [grf] |   |
 | LCP 64 | [二叉树灯饰](./problems/lcp/64/README.md) | :o: | Hard | [tr],[dp] |   |
 | LCP 65 | [舒适的湿度](./problems/lcp/65/README.md) | :o: | Hard | [arr] |   |
 | LCP 72 | [补给马车](./problems/lcp/72/README.md) | :o: | Hard | [arr] |   |

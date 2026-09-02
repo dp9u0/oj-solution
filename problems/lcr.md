@@ -59,6 +59,7 @@
 | LCR 110 | [所有可能的路径](./problems/lcr/110/README.md) | :o: | Hard | [bt],[dfs] |   |
 | LCR 111 | [除法求值](./problems/lcr/111/README.md) | :o: | Hard | [grf],[dfs] | :+1:  |
 | LCR 112 | [矩阵中的最长递增路径](./problems/lcr/112/README.md) | :o: | Hard | [dfs] |   |
+| LCR 113 | [课程表 II](./problems/lcr/113/README.md) | :o: | Hard | [grf] |   |
 | LCR 114 | [火星词典](./problems/lcr/114/README.md) | :o: | Hard | [grf],[hp] |   |
 | LCR 115 | [序列重建](./problems/lcr/115/README.md) | :o: | Hard | [grf] | :+1:  |
 | LCR 116 | [省份数量](./problems/lcr/116/README.md) | :o: | Hard | [grf] |   |

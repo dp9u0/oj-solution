@@ -112,6 +112,7 @@
 | LCR 125 | [图书整理 II](./problems/lcr/125/README.md) | :o: | Hard | [stk],[des],[q] |   |
 | LCR 126 | [斐波那契数](./problems/lcr/126/README.md) | :o: | Hard | [dp] |   |
 | LCR 127 | [跳跃训练](./problems/lcr/127/README.md) | :o: | Hard | [dp] |   |
+| LCR 128 | [库存管理 I](./problems/lcr/128/README.md) | :o: | Hard | [bs] |   |
 | LCR 130 | [衣橱整理](./problems/lcr/130/README.md) | :o: | Hard | [dfs],[arr] |   |
 | LCR 131 | [砍竹子 I](./problems/lcr/131/README.md) | :o: | Hard | [math],[dp] |   |
 | LCR 132 | [砍竹子 II](./problems/lcr/132/README.md) | :o: | Hard | [math],[dp] |   |

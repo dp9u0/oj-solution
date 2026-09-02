@@ -5,6 +5,7 @@
 | LCP 02 | [分式化简](./problems/lcp/02/README.md) | :o: | Hard | [math] |   |
 | LCP 03 | [机器人大冒险](./problems/lcp/03/README.md) | :o: | Hard | [hsh],[math] |   |
 | LCP 06 | [拿硬币](./problems/lcp/06/README.md) | :o: | Hard | [math] |   |
+| LCP 08 | [剧情触发时间](./problems/lcp/08/README.md) | :o: | Hard | [arr],[bs] |   |
 | LCP 11 | [期望个数统计](./problems/lcp/11/README.md) | :o: | Hard | [hsh] |   |
 | LCP 12 | [小张刷题计划](./problems/lcp/12/README.md) | :o: | Hard | [bs] |   |
 | LCP 13 | [寻宝](./problems/lcp/13/README.md) | :o: | Hard | [bfs],[dp] |   |

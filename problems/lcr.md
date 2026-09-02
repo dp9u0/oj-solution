@@ -48,6 +48,7 @@
 | LCR 064 | [实现一个魔法字典](./problems/lcr/064/README.md) | :o: | Hard | [hsh] |   |
 | LCR 067 | [数组中两个数的最大异或值](./problems/lcr/067/README.md) | :o: | Hard | [bit] |   |
 | LCR 068 | [搜索插入位置](./problems/lcr/068/README.md) | :o: | Hard | [bs] |   |
+| LCR 069 | [山脉数组的峰顶索引](./problems/lcr/069/README.md) | :o: | Hard | [bs] |   |
 | LCR 073 | [爱吃香蕉的狒狒](./problems/lcr/073/README.md) | :o: | Hard | [bs] |   |
 | LCR 074 | [合并区间](./problems/lcr/074/README.md) | :o: | Hard | [arr] |   |
 | LCR 077 | [排序链表](./problems/lcr/077/README.md) | :o: | Hard | [ll] |   |

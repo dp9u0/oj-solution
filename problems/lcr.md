@@ -114,6 +114,7 @@
 | LCR 173 | [点名](./problems/lcr/173/README.md) | :o: | Hard | [bs] |   |
 | LCR 174 | [寻找二叉搜索树中的目标节点](./problems/lcr/174/README.md) | :o: | Hard | [tr],[dfs] |   |
 | LCR 175 | [计算二叉树的深度](./problems/lcr/175/README.md) | :o: | Hard | [tr] |   |
+| LCR 176 | [判断是否为平衡二叉树](./problems/lcr/176/README.md) | :o: | Hard | [tr],[dfs] |   |
 | LCR 177 | [撞色搭配](./problems/lcr/177/README.md) | :o: | Hard | [bit] |   |
 | LCR 179 | [查找总价格为目标值的两个商品](./problems/lcr/179/README.md) | :o: | Hard | [tp] |   |
 | LCR 180 | [文件组合](./problems/lcr/180/README.md) | :o: | Hard | [tp] |   |

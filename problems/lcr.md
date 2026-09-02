@@ -19,6 +19,7 @@
 | LCR 040 | [最大矩形](./problems/lcr/040/README.md) | :o: | Hard | [stk] |   |
 | LCR 042 | [最近的请求次数](./problems/lcr/042/README.md) | :o: | Hard | [q] |   |
 | LCR 045 | [找树左下角的值](./problems/lcr/045/README.md) | :o: | Hard | [tr],[bfs] |   |
+| LCR 053 | [二叉搜索树中的中序后继](./problems/lcr/053/README.md) | :o: | Hard | [tr] |   |
 | LCR 054 | [把二叉搜索树转换为累加树](./problems/lcr/054/README.md) | :o: | Hard | [tr] | :+1:  |
 | LCR 061 | [查找和最小的 K 对数字](./problems/lcr/061/README.md) | :o: | Hard | [hp] | :+1:  |
 | LCR 064 | [实现一个魔法字典](./problems/lcr/064/README.md) | :o: | Hard | [hsh] |   |

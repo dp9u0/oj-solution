@@ -21,6 +21,7 @@
 | LCR 017 | [最小覆盖子串](./problems/lcr/017/README.md) | :o: | Hard | [sd],[hsh] |   |
 | LCR 018 | [验证回文串](./problems/lcr/018/README.md) | :o: | Hard | [str],[tp] |   |
 | LCR 019 | [验证回文串 II](./problems/lcr/019/README.md) | :o: | Hard | [tp] |   |
+| LCR 020 | [回文子串](./problems/lcr/020/README.md) | :o: | Hard | [str],[tp] |   |
 | LCR 021 | [删除链表的倒数第 N 个结点](./problems/lcr/021/README.md) | :o: | Medium | [ll] |   |
 | LCR 022 | [环形链表 II](./problems/lcr/022/README.md) | :o: | Hard | [ll],[tp] |   |
 | LCR 024 | [反转链表](./problems/lcr/024/README.md) | :o: | Hard | [ll] |   |

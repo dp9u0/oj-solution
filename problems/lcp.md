@@ -49,3 +49,4 @@
 | LCP 77 | [符文储备](./problems/lcp/77/README.md) | :o: | Hard | [arr] |   |
 | LCP 78 | [城墙防线](./problems/lcp/78/README.md) | :o: | Hard | [bs] |   |
 | LCP 79 | [提取咒文](./problems/lcp/79/README.md) | :o: | Hard | [dp] |   |
+| LCP 80 | [生物进化录](./problems/lcp/80/README.md) | :o: | Hard | [str],[tr] |   |

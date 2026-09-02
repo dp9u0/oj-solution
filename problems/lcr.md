@@ -171,5 +171,6 @@
 | LCR 185 | [统计结果概率](./problems/lcr/185/README.md) | :o: | Hard | [dp] |   |
 | LCR 186 | [文物朝代判断](./problems/lcr/186/README.md) | :o: | Hard | [arr] |   |
 | LCR 188 | [买卖芯片的最佳时机](./problems/lcr/188/README.md) | :o: | Hard | [arr] |   |
+| LCR 191 | [按规则计算统计结果](./problems/lcr/191/README.md) | :o: | Hard | [arr] |   |
 | LCR 193 | [二叉搜索树的最近公共祖先](./problems/lcr/193/README.md) | :o: | Easy | [tr] |   |
 | LCR 194 | [二叉树的最近公共祖先](./problems/lcr/194/README.md) | :o: | Hard | [tr],[dfs] |   |

@@ -17,6 +17,7 @@
 | LCR 067 | [数组中两个数的最大异或值](./problems/lcr/067/README.md) | :o: | Hard | [bit] |   |
 | LCR 089 | [打家劫舍](./problems/lcr/089/README.md) | :o: | Hard | [dp] | :+1:  |
 | LCR 090 | [打家劫舍 II](./problems/lcr/090/README.md) | :o: | Hard | [dp] |   |
+| LCR 093 | [最长的斐波那契子序列的长度](./problems/lcr/093/README.md) | :o: | Hard | [dp] |   |
 | LCR 103 | [零钱兑换](./problems/lcr/103/README.md) | :o: | Hard | [dp] | :+1:  |
 | LCR 104 | [组合总和 Ⅳ](./problems/lcr/104/README.md) | :o: | Hard | [dp] | :+1:  |
 | LCR 111 | [除法求值](./problems/lcr/111/README.md) | :o: | Hard | [grf],[dfs] | :+1:  |

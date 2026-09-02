@@ -42,6 +42,7 @@
 | LCR 038 | [每日温度](./problems/lcr/038/README.md) | :o: | Hard | [stk] |   |
 | LCR 039 | [柱状图中最大的矩形](./problems/lcr/039/README.md) | :o: | Hard | [stk] |   |
 | LCR 040 | [最大矩形](./problems/lcr/040/README.md) | :o: | Hard | [stk] |   |
+| LCR 041 | [数据流中的移动平均值](./problems/lcr/041/README.md) | :o: | Hard | [q],[ds] |   |
 | LCR 042 | [最近的请求次数](./problems/lcr/042/README.md) | :o: | Hard | [q] |   |
 | LCR 043 | [完全二叉树插入器](./problems/lcr/043/README.md) | :o: | Hard | [tr],[ds] |   |
 | LCR 044 | [在每个树行中找最大值](./problems/lcr/044/README.md) | :o: | Hard | [tr] |   |

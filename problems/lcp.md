@@ -12,6 +12,7 @@
 | LCP 28 | [采购方案](./problems/lcp/28/README.md) | :o: | Hard | [tp] |   |
 | LCP 29 | [乐团站位](./problems/lcp/29/README.md) | :o: | Hard | [math] |   |
 | LCP 33 | [蓄水](./problems/lcp/33/README.md) | :o: | Hard | [grd] |   |
+| LCP 36 | [最多牌组数](./problems/lcp/36/README.md) | :o: | Hard | [dp] |   |
 | LCP 39 | [无人机方阵](./problems/lcp/39/README.md) | :o: | Hard | [arr] |   |
 | LCP 40 | [心算挑战](./problems/lcp/40/README.md) | :o: | Hard | [grd] |   |
 | LCP 41 | [黑白翻转棋](./problems/lcp/41/README.md) | :o: | Hard | [bfs] |   |

@@ -2,6 +2,7 @@
 
 | Seq  | Title | S | L | Tags |      |
 | ---- | ----- | - | - | ---- | ---- |
+| LCR 021 | [删除链表的倒数第 N 个结点](./problems/lcr/021/README.md) | :o: | Medium | [ll] |   |
 | LCR 039 | [柱状图中最大的矩形](./problems/lcr/039/README.md) | :o: | Hard | [stk] |   |
 | LCR 040 | [最大矩形](./problems/lcr/040/README.md) | :o: | Hard | [stk] |   |
 | LCR 045 | [找树左下角的值](./problems/lcr/045/README.md) | :o: | Hard | [tr],[bfs] |   |

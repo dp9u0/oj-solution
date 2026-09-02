@@ -25,6 +25,7 @@
 | LCR 024 | [反转链表](./problems/lcr/024/README.md) | :o: | Hard | [ll] |   |
 | LCR 025 | [两数相加 II](./problems/lcr/025/README.md) | :o: | Hard | [ll],[stk] |   |
 | LCR 026 | [重排链表](./problems/lcr/026/README.md) | :o: | Hard | [ll] |   |
+| LCR 030 | [O(1) 时间插入、删除和获取随机元素](./problems/lcr/030/README.md) | :o: | Hard | [hsh],[ds] |   |
 | LCR 031 | [LRU 缓存](./problems/lcr/031/README.md) | :o: | Hard | [hsh],[des] |   |
 | LCR 032 | [有效的字母异位词](./problems/lcr/032/README.md) | :o: | Hard | [str] |   |
 | LCR 033 | [字母异位词分组](./problems/lcr/033/README.md) | :o: | Hard | [hsh],[str] | :+1:  |

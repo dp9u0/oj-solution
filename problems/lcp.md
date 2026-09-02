@@ -4,6 +4,7 @@
 | ---- | ----- | - | - | ---- | ---- |
 | LCP 02 | [分式化简](./problems/lcp/02/README.md) | :o: | Hard | [math] |   |
 | LCP 03 | [机器人大冒险](./problems/lcp/03/README.md) | :o: | Hard | [hsh],[math] |   |
+| LCP 04 | [覆盖](./problems/lcp/04/README.md) | :o: | Hard | [grf] |   |
 | LCP 06 | [拿硬币](./problems/lcp/06/README.md) | :o: | Hard | [math] |   |
 | LCP 07 | [传递信息](./problems/lcp/07/README.md) | :o: | Hard | [dp],[grf] |   |
 | LCP 08 | [剧情触发时间](./problems/lcp/08/README.md) | :o: | Hard | [arr],[bs] |   |

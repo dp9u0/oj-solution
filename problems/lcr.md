@@ -54,6 +54,7 @@
 | LCR 074 | [合并区间](./problems/lcr/074/README.md) | :o: | Hard | [arr] |   |
 | LCR 077 | [排序链表](./problems/lcr/077/README.md) | :o: | Hard | [ll] |   |
 | LCR 078 | [合并 K 个升序链表](./problems/lcr/078/README.md) | :o: | Hard | [hp],[ll] |   |
+| LCR 079 | [子集](./problems/lcr/079/README.md) | :o: | Hard | [bt],[arr] |   |
 | LCR 080 | [组合](./problems/lcr/080/README.md) | :o: | Hard | [bt] |   |
 | LCR 082 | [组合总和 II](./problems/lcr/082/README.md) | :o: | Hard | [bt],[arr] |   |
 | LCR 083 | [全排列](./problems/lcr/083/README.md) | :o: | Hard | [bt] |   |

@@ -146,6 +146,7 @@
 | LCR 154 | [复杂链表的复制](./problems/lcr/154/README.md) | :o: | Hard | [ll] |   |
 | LCR 155 | [将二叉搜索树转化为排序的双向链表](./problems/lcr/155/README.md) | :o: | Hard | [tr],[ll] |   |
 | LCR 156 | [序列化与反序列化二叉树](./problems/lcr/156/README.md) | :o: | Hard | [tr],[str] |   |
+| LCR 157 | [套餐内商品的排列顺序](./problems/lcr/157/README.md) | :o: | Hard | [bt],[str] |   |
 | LCR 158 | [库存管理 II](./problems/lcr/158/README.md) | :o: | Hard | [arr] |   |
 | LCR 159 | [库存管理 III](./problems/lcr/159/README.md) | :o: | Hard | [arr] |   |
 | LCR 160 | [数据流中的中位数](./problems/lcr/160/README.md) | :o: | Hard | [des],[hp] |   |

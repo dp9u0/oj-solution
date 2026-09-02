@@ -50,6 +50,7 @@
 | LCR 052 | [递增顺序搜索树](./problems/lcr/052/README.md) | :o: | Hard | [tr] |   |
 | LCR 053 | [二叉搜索树中的中序后继](./problems/lcr/053/README.md) | :o: | Hard | [tr] |   |
 | LCR 054 | [把二叉搜索树转换为累加树](./problems/lcr/054/README.md) | :o: | Hard | [tr] | :+1:  |
+| LCR 055 | [二叉搜索树迭代器](./problems/lcr/055/README.md) | :o: | Hard | [tr],[stk] |   |
 | LCR 056 | [两数之和 IV - 输入二叉搜索树](./problems/lcr/056/README.md) | :o: | Hard | [tr],[tp] |   |
 | LCR 057 | [存在重复元素 III](./problems/lcr/057/README.md) | :o: | Hard | [hsh],[sd] |   |
 | LCR 058 | [我的日程安排表 I](./problems/lcr/058/README.md) | :o: | Hard | [ds] |   |

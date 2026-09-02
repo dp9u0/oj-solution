@@ -129,6 +129,7 @@
 | LCR 165 | [解密数字](./problems/lcr/165/README.md) | :o: | Hard | [dp],[str] |   |
 | LCR 166 | [珠宝的最高价值](./problems/lcr/166/README.md) | :o: | Hard | [dp] |   |
 | LCR 167 | [招式拆解 I](./problems/lcr/167/README.md) | :o: | Hard | [sd],[tp] | :+1:  |
+| LCR 168 | [丑数](./problems/lcr/168/README.md) | :o: | Hard | [dp],[math] |   |
 | LCR 169 | [招式拆解 II](./problems/lcr/169/README.md) | :o: | Hard | [str] |   |
 | LCR 171 | [训练计划 V](./problems/lcr/171/README.md) | :o: | Hard | [ll],[tp] |   |
 | LCR 172 | [统计目标成绩的出现次数](./problems/lcr/172/README.md) | :o: | Hard | [bs] |   |

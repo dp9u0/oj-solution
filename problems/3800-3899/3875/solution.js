@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode id=3875 lang=javascript
+ * @lc app=leetcode.cn id=3875 lang=javascript
  *
- * [3875] Construct Uniform Parity Array I
+ * [3875] 构造奇偶一致的数组 I
  */
 
 // @lc code=start
@@ -10,13 +10,18 @@
  * @return {boolean}
  */
 var uniformArray = function(nums1) {
-    return true;
+  return true;
 };
 // @lc code=end
 
 // TEST:
-console.log(uniformArray([2,3])); // true
-console.log(uniformArray([4,6])); // true
-console.log(uniformArray([1])); // true
-console.log(uniformArray([1,3,5])); // true
-console.log(uniformArray([2,4,6])); // true
+// 全部同奇偶 → true
+console.log('test1:', uniformArray([4, 6]), 'expect: true');
+// 奇偶混合（2,3）→ true
+console.log('test2:', uniformArray([2, 3]), 'expect: true');
+// 奇偶混合 → true
+console.log('test3:', uniformArray([1, 2, 3, 4]), 'expect: true');
+// 单元素 → true
+console.log('test4:', uniformArray([5]), 'expect: true');
+// 奇偶混合 → true
+console.log('test5:', uniformArray([1, 8]), 'expect: true');

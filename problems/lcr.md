@@ -68,6 +68,7 @@
 | LCR 098 | [不同路径](./problems/lcr/098/README.md) | :o: | Hard | [dp] |   |
 | LCR 100 | [三角形最小路径和](./problems/lcr/100/README.md) | :o: | Hard | [dp] | :+1:  |
 | LCR 101 | [分割等和子集](./problems/lcr/101/README.md) | :o: | Hard | [dp] |   |
+| LCR 102 | [目标和](./problems/lcr/102/README.md) | :o: | Hard | [dp] |   |
 | LCR 103 | [零钱兑换](./problems/lcr/103/README.md) | :o: | Hard | [dp] | :+1:  |
 | LCR 104 | [组合总和 Ⅳ](./problems/lcr/104/README.md) | :o: | Hard | [dp] | :+1:  |
 | LCR 109 | [打开转盘锁](./problems/lcr/109/README.md) | :o: | Hard | [bfs] | :+1:  |

@@ -108,6 +108,7 @@
 | LCR 142 | [训练计划 IV](./problems/lcr/142/README.md) | :o: | Hard | [ll] |   |
 | LCR 146 | [螺旋遍历二维数组](./problems/lcr/146/README.md) | :o: | Hard | [arr] |   |
 | LCR 147 | [最小栈](./problems/lcr/147/README.md) | :o: | Hard | [stk] |   |
+| LCR 148 | [验证图书取出顺序](./problems/lcr/148/README.md) | :o: | Hard | [stk] |   |
 | LCR 152 | [验证二叉搜索树的后序遍历序列](./problems/lcr/152/README.md) | :o: | Hard | [tr] |   |
 | LCR 153 | [二叉树中和为目标值的路径](./problems/lcr/153/README.md) | :o: | Hard | [tr],[dfs] | :+1:  |
 | LCR 155 | [将二叉搜索树转化为排序的双向链表](./problems/lcr/155/README.md) | :o: | Hard | [tr],[ll] |   |

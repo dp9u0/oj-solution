@@ -26,5 +26,6 @@
 | LCP 65 | [舒适的湿度](./problems/lcp/65/README.md) | :o: | Hard | [arr] |   |
 | LCP 72 | [补给马车](./problems/lcp/72/README.md) | :o: | Hard | [arr] |   |
 | LCP 74 | [最强祝福力场](./problems/lcp/74/README.md) | :o: | Hard | [arr] |   |
+| LCP 77 | [符文储备](./problems/lcp/77/README.md) | :o: | Hard | [arr] |   |
 | LCP 78 | [城墙防线](./problems/lcp/78/README.md) | :o: | Hard | [bs] |   |
 | LCP 79 | [提取咒文](./problems/lcp/79/README.md) | :o: | Hard | [dp] |   |

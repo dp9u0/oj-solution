@@ -139,6 +139,7 @@
 | LCR 148 | [验证图书取出顺序](./problems/lcr/148/README.md) | :o: | Hard | [stk] |   |
 | LCR 149 | [彩灯装饰记录 I](./problems/lcr/149/README.md) | :o: | Hard | [tr],[bfs] |   |
 | LCR 150 | [彩灯装饰记录 II](./problems/lcr/150/README.md) | :o: | Hard | [tr],[bfs] |   |
+| LCR 151 | [彩灯装饰记录 III](./problems/lcr/151/README.md) | :o: | Hard | [tr],[bfs] |   |
 | LCR 152 | [验证二叉搜索树的后序遍历序列](./problems/lcr/152/README.md) | :o: | Hard | [tr] |   |
 | LCR 153 | [二叉树中和为目标值的路径](./problems/lcr/153/README.md) | :o: | Hard | [tr],[dfs] | :+1:  |
 | LCR 154 | [复杂链表的复制](./problems/lcr/154/README.md) | :o: | Hard | [ll] |   |

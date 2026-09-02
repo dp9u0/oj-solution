@@ -7,6 +7,7 @@
 | LCR 004 | [只出现一次的数字 II](./problems/lcr/004/README.md) | :o: | Hard | [bit] |   |
 | LCR 005 | [最大单词长度乘积](./problems/lcr/005/README.md) | :o: | Hard | [bit] |   |
 | LCR 007 | [三数之和](./problems/lcr/007/README.md) | :o: | Hard | [arr],[tp] |   |
+| LCR 008 | [长度最小的子数组](./problems/lcr/008/README.md) | :o: | Hard | [sd] |   |
 | LCR 009 | [乘积小于 K 的子数组](./problems/lcr/009/README.md) | :o: | Hard | [sd] |   |
 | LCR 012 | [寻找数组的中心下标](./problems/lcr/012/README.md) | :o: | Hard | [arr] |   |
 | LCR 013 | [二维区域和检索 - 矩阵不可变](./problems/lcr/013/README.md) | :o: | Hard | [dp] | :+1:  |

@@ -33,6 +33,7 @@
 | LCR 093 | [最长的斐波那契子序列的长度](./problems/lcr/093/README.md) | :o: | Hard | [dp] |   |
 | LCR 095 | [最长公共子序列](./problems/lcr/095/README.md) | :o: | Hard | [dp] |   |
 | LCR 100 | [三角形最小路径和](./problems/lcr/100/README.md) | :o: | Hard | [dp] | :+1:  |
+| LCR 101 | [分割等和子集](./problems/lcr/101/README.md) | :o: | Hard | [dp] |   |
 | LCR 103 | [零钱兑换](./problems/lcr/103/README.md) | :o: | Hard | [dp] | :+1:  |
 | LCR 104 | [组合总和 Ⅳ](./problems/lcr/104/README.md) | :o: | Hard | [dp] | :+1:  |
 | LCR 109 | [打开转盘锁](./problems/lcr/109/README.md) | :o: | Hard | [bfs] | :+1:  |

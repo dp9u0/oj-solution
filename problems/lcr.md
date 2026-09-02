@@ -39,6 +39,7 @@
 | LCR 052 | [递增顺序搜索树](./problems/lcr/052/README.md) | :o: | Hard | [tr] |   |
 | LCR 053 | [二叉搜索树中的中序后继](./problems/lcr/053/README.md) | :o: | Hard | [tr] |   |
 | LCR 054 | [把二叉搜索树转换为累加树](./problems/lcr/054/README.md) | :o: | Hard | [tr] | :+1:  |
+| LCR 057 | [存在重复元素 III](./problems/lcr/057/README.md) | :o: | Hard | [hsh],[sd] |   |
 | LCR 059 | [数据流中的第 K 大元素](./problems/lcr/059/README.md) | :o: | Hard | [hp],[ds] |   |
 | LCR 061 | [查找和最小的 K 对数字](./problems/lcr/061/README.md) | :o: | Hard | [hp] | :+1:  |
 | LCR 062 | [实现 Trie (前缀树)](./problems/lcr/062/README.md) | :o: | Hard | [tr],[des] |   |

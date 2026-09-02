@@ -89,6 +89,7 @@
 | LCR 127 | [跳跃训练](./problems/lcr/127/README.md) | :o: | Hard | [dp] |   |
 | LCR 130 | [衣橱整理](./problems/lcr/130/README.md) | :o: | Hard | [dfs],[arr] |   |
 | LCR 131 | [砍竹子 I](./problems/lcr/131/README.md) | :o: | Hard | [math],[dp] |   |
+| LCR 132 | [砍竹子 II](./problems/lcr/132/README.md) | :o: | Hard | [math],[dp] |   |
 | LCR 133 | [位 1 的个数](./problems/lcr/133/README.md) | :o: | Hard | [bit] |   |
 | LCR 134 | [Pow(x, n)](./problems/lcr/134/README.md) | :o: | Hard | [math] |   |
 | LCR 135 | [报数](./problems/lcr/135/README.md) | :o: | Hard | [arr],[math] |   |

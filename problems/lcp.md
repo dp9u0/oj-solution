@@ -28,6 +28,7 @@
 | LCP 57 | [打地鼠](./problems/lcp/57/README.md) | :o: | Hard | [dp] |   |
 | LCP 61 | [气温变化趋势](./problems/lcp/61/README.md) | :o: | Hard | [arr] |   |
 | LCP 62 | [交通枢纽](./problems/lcp/62/README.md) | :o: | Hard | [grf] |   |
+| LCP 63 | [弹珠游戏](./problems/lcp/63/README.md) | :o: | Hard | [arr],[grf] |   |
 | LCP 64 | [二叉树灯饰](./problems/lcp/64/README.md) | :o: | Hard | [tr],[dp] |   |
 | LCP 65 | [舒适的湿度](./problems/lcp/65/README.md) | :o: | Hard | [arr] |   |
 | LCP 67 | [装饰树](./problems/lcp/67/README.md) | :o: | Hard | [tr] |   |

@@ -20,6 +20,7 @@
 | LCP 17 | [速算机器人](./problems/lcp/17/README.md) | :o: | Hard | [math],[str] |   |
 | LCP 18 | [早餐组合](./problems/lcp/18/README.md) | :o: | Hard | [tp] |   |
 | LCP 19 | [秋叶收藏集](./problems/lcp/19/README.md) | :o: | Hard | [dp],[str] |   |
+| LCP 20 | [快速公交](./problems/lcp/20/README.md) | :o: | Hard | [dp],[math] |   |
 | LCP 22 | [黑白方格画](./problems/lcp/22/README.md) | :o: | Hard | [math] |   |
 | LCP 23 | [魔术排列](./problems/lcp/23/README.md) | :o: | Hard | [arr] |   |
 | LCP 24 | [数字游戏](./problems/lcp/24/README.md) | :o: | Hard | [hp],[math] |   |

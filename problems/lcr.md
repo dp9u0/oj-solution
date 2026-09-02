@@ -58,4 +58,5 @@
 | LCR 173 | [点名](./problems/lcr/173/README.md) | :o: | Hard | [bs] |   |
 | LCR 175 | [计算二叉树的深度](./problems/lcr/175/README.md) | :o: | Hard | [tr] |   |
 | LCR 180 | [文件组合](./problems/lcr/180/README.md) | :o: | Hard | [tp] |   |
+| LCR 181 | [字符串中的单词反转](./problems/lcr/181/README.md) | :o: | Hard | [str] |   |
 | LCR 193 | [二叉搜索树的最近公共祖先](./problems/lcr/193/README.md) | :o: | Easy | [tr] |   |

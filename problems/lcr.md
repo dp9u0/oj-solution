@@ -145,6 +145,7 @@
 | LCR 142 | [训练计划 IV](./problems/lcr/142/README.md) | :o: | Hard | [ll] |   |
 | LCR 143 | [子结构判断](./problems/lcr/143/README.md) | :o: | Hard | [tr],[dfs] |   |
 | LCR 144 | [翻转二叉树](./problems/lcr/144/README.md) | :o: | Hard | [tr] |   |
+| LCR 145 | [判断对称二叉树](./problems/lcr/145/README.md) | :o: | Hard | [tr] |   |
 | LCR 146 | [螺旋遍历二维数组](./problems/lcr/146/README.md) | :o: | Hard | [arr] |   |
 | LCR 147 | [最小栈](./problems/lcr/147/README.md) | :o: | Hard | [stk] |   |
 | LCR 148 | [验证图书取出顺序](./problems/lcr/148/README.md) | :o: | Hard | [stk] |   |

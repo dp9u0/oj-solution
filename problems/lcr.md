@@ -27,6 +27,7 @@
 | LCR 032 | [有效的字母异位词](./problems/lcr/032/README.md) | :o: | Hard | [str] |   |
 | LCR 033 | [字母异位词分组](./problems/lcr/033/README.md) | :o: | Hard | [hsh],[str] | :+1:  |
 | LCR 035 | [最小时间差](./problems/lcr/035/README.md) | :o: | Hard | [str],[arr] |   |
+| LCR 036 | [逆波兰表达式求值](./problems/lcr/036/README.md) | :o: | Hard | [stk],[math] |   |
 | LCR 037 | [行星碰撞](./problems/lcr/037/README.md) | :o: | Hard | [stk] |   |
 | LCR 039 | [柱状图中最大的矩形](./problems/lcr/039/README.md) | :o: | Hard | [stk] |   |
 | LCR 040 | [最大矩形](./problems/lcr/040/README.md) | :o: | Hard | [stk] |   |

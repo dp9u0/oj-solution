@@ -31,6 +31,7 @@
 | LCP 63 | [弹珠游戏](./problems/lcp/63/README.md) | :o: | Hard | [arr],[grf] |   |
 | LCP 64 | [二叉树灯饰](./problems/lcp/64/README.md) | :o: | Hard | [tr],[dp] |   |
 | LCP 65 | [舒适的湿度](./problems/lcp/65/README.md) | :o: | Hard | [arr] |   |
+| LCP 66 | [最小展台数量](./problems/lcp/66/README.md) | :o: | Hard | [hsh] |   |
 | LCP 67 | [装饰树](./problems/lcp/67/README.md) | :o: | Hard | [tr] |   |
 | LCP 72 | [补给马车](./problems/lcp/72/README.md) | :o: | Hard | [arr] |   |
 | LCP 73 | [探险营地](./problems/lcp/73/README.md) | :o: | Hard | [str],[hsh] |   |

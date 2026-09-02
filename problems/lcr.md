@@ -46,6 +46,7 @@
 | LCR 061 | [查找和最小的 K 对数字](./problems/lcr/061/README.md) | :o: | Hard | [hp] | :+1:  |
 | LCR 062 | [实现 Trie (前缀树)](./problems/lcr/062/README.md) | :o: | Hard | [tr],[des] |   |
 | LCR 064 | [实现一个魔法字典](./problems/lcr/064/README.md) | :o: | Hard | [hsh] |   |
+| LCR 065 | [单词的压缩编码](./problems/lcr/065/README.md) | :o: | Hard | [str],[hsh] |   |
 | LCR 067 | [数组中两个数的最大异或值](./problems/lcr/067/README.md) | :o: | Hard | [bit] |   |
 | LCR 068 | [搜索插入位置](./problems/lcr/068/README.md) | :o: | Hard | [bs] |   |
 | LCR 069 | [山脉数组的峰顶索引](./problems/lcr/069/README.md) | :o: | Hard | [bs] |   |

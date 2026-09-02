@@ -24,6 +24,7 @@
 | LCR 020 | [回文子串](./problems/lcr/020/README.md) | :o: | Hard | [str],[tp] |   |
 | LCR 021 | [删除链表的倒数第 N 个结点](./problems/lcr/021/README.md) | :o: | Medium | [ll] |   |
 | LCR 022 | [环形链表 II](./problems/lcr/022/README.md) | :o: | Hard | [ll],[tp] |   |
+| LCR 023 | [相交链表](./problems/lcr/023/README.md) | :o: | Hard | [ll],[tp] |   |
 | LCR 024 | [反转链表](./problems/lcr/024/README.md) | :o: | Hard | [ll] |   |
 | LCR 025 | [两数相加 II](./problems/lcr/025/README.md) | :o: | Hard | [ll],[stk] |   |
 | LCR 026 | [重排链表](./problems/lcr/026/README.md) | :o: | Hard | [ll] |   |

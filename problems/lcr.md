@@ -67,6 +67,7 @@
 | LCR 083 | [全排列](./problems/lcr/083/README.md) | :o: | Hard | [bt] |   |
 | LCR 085 | [括号生成](./problems/lcr/085/README.md) | :o: | Hard | [bt] |   |
 | LCR 086 | [分割回文串](./problems/lcr/086/README.md) | :o: | Hard | [bt],[dp] |   |
+| LCR 087 | [复原 IP 地址](./problems/lcr/087/README.md) | :o: | Hard | [bt],[str] |   |
 | LCR 089 | [打家劫舍](./problems/lcr/089/README.md) | :o: | Hard | [dp] | :+1:  |
 | LCR 090 | [打家劫舍 II](./problems/lcr/090/README.md) | :o: | Hard | [dp] |   |
 | LCR 091 | [粉刷房子](./problems/lcr/091/README.md) | :o: | Hard | [dp] |   |

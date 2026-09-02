@@ -175,6 +175,7 @@
 | LCR 184 | [设计自助结算系统](./problems/lcr/184/README.md) | :o: | Hard | [q],[ds] |   |
 | LCR 185 | [统计结果概率](./problems/lcr/185/README.md) | :o: | Hard | [dp] |   |
 | LCR 186 | [文物朝代判断](./problems/lcr/186/README.md) | :o: | Hard | [arr] |   |
+| LCR 187 | [破冰游戏](./problems/lcr/187/README.md) | :o: | Hard | [math] |   |
 | LCR 188 | [买卖芯片的最佳时机](./problems/lcr/188/README.md) | :o: | Hard | [arr] |   |
 | LCR 191 | [按规则计算统计结果](./problems/lcr/191/README.md) | :o: | Hard | [arr] |   |
 | LCR 192 | [把字符串转换成整数 (atoi)](./problems/lcr/192/README.md) | :o: | Hard | [str],[math] |   |

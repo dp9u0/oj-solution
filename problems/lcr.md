@@ -67,6 +67,7 @@
 | LCR 069 | [山脉数组的峰顶索引](./problems/lcr/069/README.md) | :o: | Hard | [bs] |   |
 | LCR 070 | [有序数组中的单一元素](./problems/lcr/070/README.md) | :o: | Hard | [bs] |   |
 | LCR 071 | [按权重随机选择](./problems/lcr/071/README.md) | :o: | Hard | [bs],[math] |   |
+| LCR 072 | [x 的平方根](./problems/lcr/072/README.md) | :o: | Hard | [bs],[math] |   |
 | LCR 073 | [爱吃香蕉的狒狒](./problems/lcr/073/README.md) | :o: | Hard | [bs] |   |
 | LCR 074 | [合并区间](./problems/lcr/074/README.md) | :o: | Hard | [arr] |   |
 | LCR 077 | [排序链表](./problems/lcr/077/README.md) | :o: | Hard | [ll] |   |

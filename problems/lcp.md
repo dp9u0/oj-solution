@@ -24,6 +24,7 @@
 | LCP 40 | [心算挑战](./problems/lcp/40/README.md) | :o: | Hard | [grd] |   |
 | LCP 41 | [黑白翻转棋](./problems/lcp/41/README.md) | :o: | Hard | [bfs] |   |
 | LCP 44 | [开幕式焰火](./problems/lcp/44/README.md) | :o: | Hard | [tr],[hsh] |   |
+| LCP 45 | [自行车炫技赛场](./problems/lcp/45/README.md) | :o: | Hard | [bfs],[dp] |   |
 | LCP 46 | [志愿者调配](./problems/lcp/46/README.md) | :o: | Hard | [grf],[math] |   |
 | LCP 51 | [烹饪料理](./problems/lcp/51/README.md) | :o: | Hard | [bt],[arr] |   |
 | LCP 52 | [二叉搜索树染色](./problems/lcp/52/README.md) | :o: | Hard | [tr] |   |

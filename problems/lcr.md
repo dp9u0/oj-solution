@@ -86,6 +86,7 @@
 | LCR 161 | [连续天数的最高销售额](./problems/lcr/161/README.md) | :o: | Hard | [arr],[dp] | :+1:  |
 | LCR 163 | [找到第 k 位数字](./problems/lcr/163/README.md) | :o: | Hard | [math] |   |
 | LCR 164 | [破解闯关密码](./problems/lcr/164/README.md) | :o: | Hard | [arr] |   |
+| LCR 165 | [解密数字](./problems/lcr/165/README.md) | :o: | Hard | [dp],[str] |   |
 | LCR 166 | [珠宝的最高价值](./problems/lcr/166/README.md) | :o: | Hard | [dp] |   |
 | LCR 167 | [招式拆解 I](./problems/lcr/167/README.md) | :o: | Hard | [sd],[tp] | :+1:  |
 | LCR 169 | [招式拆解 II](./problems/lcr/169/README.md) | :o: | Hard | [str] |   |

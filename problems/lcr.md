@@ -78,6 +78,7 @@
 | LCR 120 | [寻找文件副本](./problems/lcr/120/README.md) | :o: | Hard | [arr],[hsh] |   |
 | LCR 121 | [寻找目标值 - 二维数组](./problems/lcr/121/README.md) | :o: | Hard | [arr],[tp] |   |
 | LCR 122 | [路径加密](./problems/lcr/122/README.md) | :o: | Hard | [str] |   |
+| LCR 124 | [推理二叉树](./problems/lcr/124/README.md) | :o: | Hard | [tr],[dfs] |   |
 | LCR 125 | [图书整理 II](./problems/lcr/125/README.md) | :o: | Hard | [stk],[des],[q] |   |
 | LCR 126 | [斐波那契数](./problems/lcr/126/README.md) | :o: | Hard | [dp] |   |
 | LCR 127 | [跳跃训练](./problems/lcr/127/README.md) | :o: | Hard | [dp] |   |

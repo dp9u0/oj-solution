@@ -35,6 +35,7 @@
 | LCP 65 | [舒适的湿度](./problems/lcp/65/README.md) | :o: | Hard | [arr] |   |
 | LCP 66 | [最小展台数量](./problems/lcp/66/README.md) | :o: | Hard | [hsh] |   |
 | LCP 67 | [装饰树](./problems/lcp/67/README.md) | :o: | Hard | [tr] |   |
+| LCP 68 | [美观的花束](./problems/lcp/68/README.md) | :o: | Hard | [sd],[hsh] |   |
 | LCP 72 | [补给马车](./problems/lcp/72/README.md) | :o: | Hard | [arr] |   |
 | LCP 73 | [探险营地](./problems/lcp/73/README.md) | :o: | Hard | [str],[hsh] |   |
 | LCP 74 | [最强祝福力场](./problems/lcp/74/README.md) | :o: | Hard | [arr] |   |

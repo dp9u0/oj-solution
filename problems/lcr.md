@@ -10,6 +10,7 @@
 | LCR 007 | [三数之和](./problems/lcr/007/README.md) | :o: | Hard | [arr],[tp] |   |
 | LCR 008 | [长度最小的子数组](./problems/lcr/008/README.md) | :o: | Hard | [sd] |   |
 | LCR 009 | [乘积小于 K 的子数组](./problems/lcr/009/README.md) | :o: | Hard | [sd] |   |
+| LCR 010 | [和为 K 的子数组](./problems/lcr/010/README.md) | :o: | Hard | [hsh],[arr] |   |
 | LCR 012 | [寻找数组的中心下标](./problems/lcr/012/README.md) | :o: | Hard | [arr] |   |
 | LCR 013 | [二维区域和检索 - 矩阵不可变](./problems/lcr/013/README.md) | :o: | Hard | [dp] | :+1:  |
 | LCR 014 | [字符串的排列](./problems/lcr/014/README.md) | :o: | Hard | [sd],[str] |   |

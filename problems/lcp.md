@@ -2,6 +2,7 @@
 
 | Seq  | Title | S | L | Tags |      |
 | ---- | ----- | - | - | ---- | ---- |
+| LCP 02 | [分式化简](./problems/lcp/02/README.md) | :o: | Hard | [math] |   |
 | LCP 03 | [机器人大冒险](./problems/lcp/03/README.md) | :o: | Hard | [hsh],[math] |   |
 | LCP 06 | [拿硬币](./problems/lcp/06/README.md) | :o: | Hard | [math] |   |
 | LCP 18 | [早餐组合](./problems/lcp/18/README.md) | :o: | Hard | [tp] |   |

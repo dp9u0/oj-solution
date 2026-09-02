@@ -132,6 +132,7 @@
 | LCR 167 | [招式拆解 I](./problems/lcr/167/README.md) | :o: | Hard | [sd],[tp] | :+1:  |
 | LCR 168 | [丑数](./problems/lcr/168/README.md) | :o: | Hard | [dp],[math] |   |
 | LCR 169 | [招式拆解 II](./problems/lcr/169/README.md) | :o: | Hard | [str] |   |
+| LCR 170 | [交易逆序对的总数](./problems/lcr/170/README.md) | :o: | Hard | [arr],[dc] |   |
 | LCR 171 | [训练计划 V](./problems/lcr/171/README.md) | :o: | Hard | [ll],[tp] |   |
 | LCR 172 | [统计目标成绩的出现次数](./problems/lcr/172/README.md) | :o: | Hard | [bs] |   |
 | LCR 173 | [点名](./problems/lcr/173/README.md) | :o: | Hard | [bs] |   |

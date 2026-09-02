@@ -16,6 +16,7 @@
 | LCR 021 | [删除链表的倒数第 N 个结点](./problems/lcr/021/README.md) | :o: | Medium | [ll] |   |
 | LCR 024 | [反转链表](./problems/lcr/024/README.md) | :o: | Hard | [ll] |   |
 | LCR 025 | [两数相加 II](./problems/lcr/025/README.md) | :o: | Hard | [ll],[stk] |   |
+| LCR 026 | [重排链表](./problems/lcr/026/README.md) | :o: | Hard | [ll] |   |
 | LCR 031 | [LRU 缓存](./problems/lcr/031/README.md) | :o: | Hard | [hsh],[des] |   |
 | LCR 032 | [有效的字母异位词](./problems/lcr/032/README.md) | :o: | Hard | [str] |   |
 | LCR 033 | [字母异位词分组](./problems/lcr/033/README.md) | :o: | Hard | [hsh],[str] | :+1:  |

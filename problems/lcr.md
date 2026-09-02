@@ -3,6 +3,7 @@
 | Seq  | Title | S | L | Tags |      |
 | ---- | ----- | - | - | ---- | ---- |
 | LCR 001 | [两数相除](./problems/lcr/001/README.md) | :o: | Hard | [math] |   |
+| LCR 002 | [二进制求和](./problems/lcr/002/README.md) | :o: | Hard | [math],[str] |   |
 | LCR 003 | [比特位计数](./problems/lcr/003/README.md) | :o: | Hard | [dp],[bit] |   |
 | LCR 004 | [只出现一次的数字 II](./problems/lcr/004/README.md) | :o: | Hard | [bit] |   |
 | LCR 005 | [最大单词长度乘积](./problems/lcr/005/README.md) | :o: | Hard | [bit] |   |

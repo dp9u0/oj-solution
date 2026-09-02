@@ -8,6 +8,7 @@
 | LCR 009 | [乘积小于 K 的子数组](./problems/lcr/009/README.md) | :o: | Hard | [sd] |   |
 | LCR 012 | [寻找数组的中心下标](./problems/lcr/012/README.md) | :o: | Hard | [arr] |   |
 | LCR 013 | [二维区域和检索 - 矩阵不可变](./problems/lcr/013/README.md) | :o: | Hard | [dp] | :+1:  |
+| LCR 018 | [验证回文串](./problems/lcr/018/README.md) | :o: | Hard | [str],[tp] |   |
 | LCR 019 | [验证回文串 II](./problems/lcr/019/README.md) | :o: | Hard | [tp] |   |
 | LCR 021 | [删除链表的倒数第 N 个结点](./problems/lcr/021/README.md) | :o: | Medium | [ll] |   |
 | LCR 024 | [反转链表](./problems/lcr/024/README.md) | :o: | Hard | [ll] |   |

@@ -23,6 +23,7 @@
 | LCR 039 | [柱状图中最大的矩形](./problems/lcr/039/README.md) | :o: | Hard | [stk] |   |
 | LCR 040 | [最大矩形](./problems/lcr/040/README.md) | :o: | Hard | [stk] |   |
 | LCR 042 | [最近的请求次数](./problems/lcr/042/README.md) | :o: | Hard | [q] |   |
+| LCR 044 | [在每个树行中找最大值](./problems/lcr/044/README.md) | :o: | Hard | [tr] |   |
 | LCR 045 | [找树左下角的值](./problems/lcr/045/README.md) | :o: | Hard | [tr],[bfs] |   |
 | LCR 047 | [二叉树剪枝](./problems/lcr/047/README.md) | :o: | Hard | [tr] |   |
 | LCR 050 | [路径总和 III](./problems/lcr/050/README.md) | :o: | Hard | [tr],[dfs] |   |

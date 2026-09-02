@@ -92,6 +92,7 @@
 | LCR 102 | [目标和](./problems/lcr/102/README.md) | :o: | Hard | [dp] |   |
 | LCR 103 | [零钱兑换](./problems/lcr/103/README.md) | :o: | Hard | [dp] | :+1:  |
 | LCR 104 | [组合总和 Ⅳ](./problems/lcr/104/README.md) | :o: | Hard | [dp] | :+1:  |
+| LCR 105 | [岛屿的最大面积](./problems/lcr/105/README.md) | :o: | Hard | [dfs],[bfs] |   |
 | LCR 106 | [判断二分图](./problems/lcr/106/README.md) | :o: | Hard | [grf],[bfs] |   |
 | LCR 107 | [01 矩阵](./problems/lcr/107/README.md) | :o: | Hard | [bfs],[dp] |   |
 | LCR 108 | [单词接龙](./problems/lcr/108/README.md) | :o: | Hard | [bfs],[str] |   |

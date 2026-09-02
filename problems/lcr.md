@@ -25,6 +25,7 @@
 | LCR 050 | [路径总和 III](./problems/lcr/050/README.md) | :o: | Hard | [tr],[dfs] |   |
 | LCR 053 | [二叉搜索树中的中序后继](./problems/lcr/053/README.md) | :o: | Hard | [tr] |   |
 | LCR 054 | [把二叉搜索树转换为累加树](./problems/lcr/054/README.md) | :o: | Hard | [tr] | :+1:  |
+| LCR 059 | [数据流中的第 K 大元素](./problems/lcr/059/README.md) | :o: | Hard | [hp],[ds] |   |
 | LCR 061 | [查找和最小的 K 对数字](./problems/lcr/061/README.md) | :o: | Hard | [hp] | :+1:  |
 | LCR 064 | [实现一个魔法字典](./problems/lcr/064/README.md) | :o: | Hard | [hsh] |   |
 | LCR 067 | [数组中两个数的最大异或值](./problems/lcr/067/README.md) | :o: | Hard | [bit] |   |

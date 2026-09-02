@@ -29,6 +29,7 @@
 | LCR 026 | [重排链表](./problems/lcr/026/README.md) | :o: | Hard | [ll] |   |
 | LCR 027 | [回文链表](./problems/lcr/027/README.md) | :o: | Hard | [ll],[tp] |   |
 | LCR 028 | [扁平化多级双向链表](./problems/lcr/028/README.md) | :o: | Hard | [ll],[dfs] |   |
+| LCR 029 | [循环有序列表的插入](./problems/lcr/029/README.md) | :o: | Hard | [ll] |   |
 | LCR 030 | [O(1) 时间插入、删除和获取随机元素](./problems/lcr/030/README.md) | :o: | Hard | [hsh],[ds] |   |
 | LCR 031 | [LRU 缓存](./problems/lcr/031/README.md) | :o: | Hard | [hsh],[des] |   |
 | LCR 032 | [有效的字母异位词](./problems/lcr/032/README.md) | :o: | Hard | [str] |   |

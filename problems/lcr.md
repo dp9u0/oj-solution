@@ -16,6 +16,7 @@
 | LCR 054 | [把二叉搜索树转换为累加树](./problems/lcr/054/README.md) | :o: | Hard | [tr] | :+1:  |
 | LCR 064 | [实现一个魔法字典](./problems/lcr/064/README.md) | :o: | Hard | [hsh] |   |
 | LCR 067 | [数组中两个数的最大异或值](./problems/lcr/067/README.md) | :o: | Hard | [bit] |   |
+| LCR 086 | [分割回文串](./problems/lcr/086/README.md) | :o: | Hard | [bt],[dp] |   |
 | LCR 089 | [打家劫舍](./problems/lcr/089/README.md) | :o: | Hard | [dp] | :+1:  |
 | LCR 090 | [打家劫舍 II](./problems/lcr/090/README.md) | :o: | Hard | [dp] |   |
 | LCR 093 | [最长的斐波那契子序列的长度](./problems/lcr/093/README.md) | :o: | Hard | [dp] |   |

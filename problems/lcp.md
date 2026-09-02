@@ -13,6 +13,7 @@
 | LCP 12 | [小张刷题计划](./problems/lcp/12/README.md) | :o: | Hard | [bs] |   |
 | LCP 13 | [寻宝](./problems/lcp/13/README.md) | :o: | Hard | [bfs],[dp] |   |
 | LCP 14 | [切分数组](./problems/lcp/14/README.md) | :o: | Hard | [dp],[math] |   |
+| LCP 16 | [游乐园的游览计划](./problems/lcp/16/README.md) | :o: | Hard | [grf] |   |
 | LCP 17 | [速算机器人](./problems/lcp/17/README.md) | :o: | Hard | [math],[str] |   |
 | LCP 18 | [早餐组合](./problems/lcp/18/README.md) | :o: | Hard | [tp] |   |
 | LCP 19 | [秋叶收藏集](./problems/lcp/19/README.md) | :o: | Hard | [dp],[str] |   |

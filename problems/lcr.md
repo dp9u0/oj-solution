@@ -60,6 +60,7 @@
 | LCR 060 | [前 K 个高频元素](./problems/lcr/060/README.md) | :o: | Hard | [hp],[hsh] |   |
 | LCR 061 | [查找和最小的 K 对数字](./problems/lcr/061/README.md) | :o: | Hard | [hp] | :+1:  |
 | LCR 062 | [实现 Trie (前缀树)](./problems/lcr/062/README.md) | :o: | Hard | [tr],[des] |   |
+| LCR 063 | [单词替换](./problems/lcr/063/README.md) | :o: | Hard | [hsh],[str] |   |
 | LCR 064 | [实现一个魔法字典](./problems/lcr/064/README.md) | :o: | Hard | [hsh] |   |
 | LCR 065 | [单词的压缩编码](./problems/lcr/065/README.md) | :o: | Hard | [str],[hsh] |   |
 | LCR 066 | [ 键值映射](./problems/lcr/066/README.md) | :o: | Hard | [hsh],[tr] |   |

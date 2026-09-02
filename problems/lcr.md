@@ -7,6 +7,7 @@
 | LCR 021 | [删除链表的倒数第 N 个结点](./problems/lcr/021/README.md) | :o: | Medium | [ll] |   |
 | LCR 039 | [柱状图中最大的矩形](./problems/lcr/039/README.md) | :o: | Hard | [stk] |   |
 | LCR 040 | [最大矩形](./problems/lcr/040/README.md) | :o: | Hard | [stk] |   |
+| LCR 042 | [最近的请求次数](./problems/lcr/042/README.md) | :o: | Hard | [q] |   |
 | LCR 045 | [找树左下角的值](./problems/lcr/045/README.md) | :o: | Hard | [tr],[bfs] |   |
 | LCR 054 | [把二叉搜索树转换为累加树](./problems/lcr/054/README.md) | :o: | Hard | [tr] | :+1:  |
 | LCR 064 | [实现一个魔法字典](./problems/lcr/064/README.md) | :o: | Hard | [hsh] |   |

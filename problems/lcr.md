@@ -3,6 +3,7 @@
 | Seq  | Title | S | L | Tags |      |
 | ---- | ----- | - | - | ---- | ---- |
 | LCR 003 | [比特位计数](./problems/lcr/003/README.md) | :o: | Hard | [dp],[bit] |   |
+| LCR 013 | [二维区域和检索 - 矩阵不可变](./problems/lcr/013/README.md) | :o: | Hard | [dp] | :+1:  |
 | LCR 019 | [验证回文串 II](./problems/lcr/019/README.md) | :o: | Hard | [tp] |   |
 | LCR 021 | [删除链表的倒数第 N 个结点](./problems/lcr/021/README.md) | :o: | Medium | [ll] |   |
 | LCR 031 | [LRU 缓存](./problems/lcr/031/README.md) | :o: | Hard | [hsh],[des] |   |

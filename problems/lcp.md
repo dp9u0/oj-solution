@@ -21,6 +21,7 @@
 | LCP 46 | [志愿者调配](./problems/lcp/46/README.md) | :o: | Hard | [grf],[math] |   |
 | LCP 52 | [二叉搜索树染色](./problems/lcp/52/README.md) | :o: | Hard | [tr] |   |
 | LCP 55 | [采集果实](./problems/lcp/55/README.md) | :o: | Hard | [arr] |   |
+| LCP 56 | [信物传送](./problems/lcp/56/README.md) | :o: | Hard | [bfs] |   |
 | LCP 57 | [打地鼠](./problems/lcp/57/README.md) | :o: | Hard | [dp] |   |
 | LCP 62 | [交通枢纽](./problems/lcp/62/README.md) | :o: | Hard | [grf] |   |
 | LCP 64 | [二叉树灯饰](./problems/lcp/64/README.md) | :o: | Hard | [tr],[dp] |   |

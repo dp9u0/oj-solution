@@ -5,6 +5,7 @@
 | LCR 003 | [比特位计数](./problems/lcr/003/README.md) | :o: | Hard | [dp],[bit] |   |
 | LCR 019 | [验证回文串 II](./problems/lcr/019/README.md) | :o: | Hard | [tp] |   |
 | LCR 021 | [删除链表的倒数第 N 个结点](./problems/lcr/021/README.md) | :o: | Medium | [ll] |   |
+| LCR 031 | [LRU 缓存](./problems/lcr/031/README.md) | :o: | Hard | [hsh],[des] |   |
 | LCR 033 | [字母异位词分组](./problems/lcr/033/README.md) | :o: | Hard | [hsh],[str] | :+1:  |
 | LCR 039 | [柱状图中最大的矩形](./problems/lcr/039/README.md) | :o: | Hard | [stk] |   |
 | LCR 040 | [最大矩形](./problems/lcr/040/README.md) | :o: | Hard | [stk] |   |

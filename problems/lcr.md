@@ -133,6 +133,7 @@
 | LCR 180 | [文件组合](./problems/lcr/180/README.md) | :o: | Hard | [tp] |   |
 | LCR 181 | [字符串中的单词反转](./problems/lcr/181/README.md) | :o: | Hard | [str] |   |
 | LCR 182 | [动态口令](./problems/lcr/182/README.md) | :o: | Hard | [str] |   |
+| LCR 183 | [望远镜中最高的海拔](./problems/lcr/183/README.md) | :o: | Hard | [q],[sd] |   |
 | LCR 184 | [设计自助结算系统](./problems/lcr/184/README.md) | :o: | Hard | [q],[ds] |   |
 | LCR 185 | [统计结果概率](./problems/lcr/185/README.md) | :o: | Hard | [dp] |   |
 | LCR 186 | [文物朝代判断](./problems/lcr/186/README.md) | :o: | Hard | [arr] |   |

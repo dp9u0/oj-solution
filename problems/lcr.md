@@ -18,3 +18,4 @@
 | LCR 164 | [破解闯关密码](./problems/lcr/164/README.md) | :o: | Hard | [arr] |   |
 | LCR 166 | [珠宝的最高价值](./problems/lcr/166/README.md) | :o: | Hard | [dp] |   |
 | LCR 171 | [训练计划 V](./problems/lcr/171/README.md) | :o: | Hard | [ll],[tp] |   |
+| LCR 180 | [文件组合](./problems/lcr/180/README.md) | :o: | Hard | [tp] |   |

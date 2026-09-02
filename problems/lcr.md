@@ -36,6 +36,7 @@
 | LCR 067 | [数组中两个数的最大异或值](./problems/lcr/067/README.md) | :o: | Hard | [bit] |   |
 | LCR 068 | [搜索插入位置](./problems/lcr/068/README.md) | :o: | Hard | [bs] |   |
 | LCR 073 | [爱吃香蕉的狒狒](./problems/lcr/073/README.md) | :o: | Hard | [bs] |   |
+| LCR 077 | [排序链表](./problems/lcr/077/README.md) | :o: | Hard | [ll] |   |
 | LCR 078 | [合并 K 个升序链表](./problems/lcr/078/README.md) | :o: | Hard | [hp],[ll] |   |
 | LCR 080 | [组合](./problems/lcr/080/README.md) | :o: | Hard | [bt] |   |
 | LCR 083 | [全排列](./problems/lcr/083/README.md) | :o: | Hard | [bt] |   |

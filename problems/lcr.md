@@ -49,6 +49,7 @@
 | LCR 045 | [找树左下角的值](./problems/lcr/045/README.md) | :o: | Hard | [tr],[bfs] |   |
 | LCR 046 | [二叉树的右视图](./problems/lcr/046/README.md) | :o: | Hard | [tr],[bfs] |   |
 | LCR 047 | [二叉树剪枝](./problems/lcr/047/README.md) | :o: | Hard | [tr] |   |
+| LCR 048 | [二叉树的序列化与反序列化](./problems/lcr/048/README.md) | :o: | Hard | [tr],[str] |   |
 | LCR 049 | [求根节点到叶节点数字之和](./problems/lcr/049/README.md) | :o: | Hard | [tr],[dfs] |   |
 | LCR 050 | [路径总和 III](./problems/lcr/050/README.md) | :o: | Hard | [tr],[dfs] |   |
 | LCR 051 | [二叉树中的最大路径和](./problems/lcr/051/README.md) | :o: | Hard | [tr],[dfs] |   |

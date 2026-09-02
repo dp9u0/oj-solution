@@ -5,6 +5,7 @@
 | LCR 040 | [最大矩形](./problems/lcr/040/README.md) | :o: | Hard | [stk] |   |
 | LCR 045 | [找树左下角的值](./problems/lcr/045/README.md) | :o: | Hard | [tr],[bfs] |   |
 | LCR 064 | [实现一个魔法字典](./problems/lcr/064/README.md) | :o: | Hard | [hsh] |   |
+| LCR 089 | [打家劫舍](./problems/lcr/089/README.md) | :o: | Hard | [dp] | :+1:  |
 | LCR 103 | [零钱兑换](./problems/lcr/103/README.md) | :o: | Hard | [dp] | :+1:  |
 | LCR 104 | [组合总和 Ⅳ](./problems/lcr/104/README.md) | :o: | Hard | [dp] | :+1:  |
 | LCR 111 | [除法求值](./problems/lcr/111/README.md) | :o: | Hard | [grf],[dfs] | :+1:  |

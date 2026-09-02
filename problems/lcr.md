@@ -64,6 +64,7 @@
 | LCR 130 | [衣橱整理](./problems/lcr/130/README.md) | :o: | Hard | [dfs],[arr] |   |
 | LCR 134 | [Pow(x, n)](./problems/lcr/134/README.md) | :o: | Hard | [math] |   |
 | LCR 140 | [训练计划 II](./problems/lcr/140/README.md) | :o: | Hard | [ll],[tp] |   |
+| LCR 141 | [训练计划 III](./problems/lcr/141/README.md) | :o: | Hard | [ll] |   |
 | LCR 142 | [训练计划 IV](./problems/lcr/142/README.md) | :o: | Hard | [ll] |   |
 | LCR 152 | [验证二叉搜索树的后序遍历序列](./problems/lcr/152/README.md) | :o: | Hard | [tr] |   |
 | LCR 153 | [二叉树中和为目标值的路径](./problems/lcr/153/README.md) | :o: | Hard | [tr],[dfs] | :+1:  |

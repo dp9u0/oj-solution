@@ -34,6 +34,7 @@
 | LCR 116 | [省份数量](./problems/lcr/116/README.md) | :o: | Hard | [grf] |   |
 | LCR 117 | [相似字符串组](./problems/lcr/117/README.md) | :o: | Hard | [grf] |   |
 | LCR 120 | [寻找文件副本](./problems/lcr/120/README.md) | :o: | Hard | [arr],[hsh] |   |
+| LCR 125 | [图书整理 II](./problems/lcr/125/README.md) | :o: | Hard | [stk],[des],[q] |   |
 | LCR 126 | [斐波那契数](./problems/lcr/126/README.md) | :o: | Hard | [dp] |   |
 | LCR 127 | [跳跃训练](./problems/lcr/127/README.md) | :o: | Hard | [dp] |   |
 | LCR 140 | [训练计划 II](./problems/lcr/140/README.md) | :o: | Hard | [ll],[tp] |   |

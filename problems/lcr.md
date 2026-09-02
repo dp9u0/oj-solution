@@ -16,6 +16,7 @@
 | LCR 012 | [寻找数组的中心下标](./problems/lcr/012/README.md) | :o: | Hard | [arr] |   |
 | LCR 013 | [二维区域和检索 - 矩阵不可变](./problems/lcr/013/README.md) | :o: | Hard | [dp] | :+1:  |
 | LCR 014 | [字符串的排列](./problems/lcr/014/README.md) | :o: | Hard | [sd],[str] |   |
+| LCR 015 | [找到字符串中所有字母异位词](./problems/lcr/015/README.md) | :o: | Hard | [sd],[str] |   |
 | LCR 016 | [无重复字符的最长子串](./problems/lcr/016/README.md) | :o: | Hard | [sd],[str],[hsh] |   |
 | LCR 017 | [最小覆盖子串](./problems/lcr/017/README.md) | :o: | Hard | [sd],[hsh] |   |
 | LCR 018 | [验证回文串](./problems/lcr/018/README.md) | :o: | Hard | [str],[tp] |   |

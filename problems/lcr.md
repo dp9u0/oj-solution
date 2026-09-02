@@ -50,6 +50,7 @@
 | LCR 047 | [二叉树剪枝](./problems/lcr/047/README.md) | :o: | Hard | [tr] |   |
 | LCR 049 | [求根节点到叶节点数字之和](./problems/lcr/049/README.md) | :o: | Hard | [tr],[dfs] |   |
 | LCR 050 | [路径总和 III](./problems/lcr/050/README.md) | :o: | Hard | [tr],[dfs] |   |
+| LCR 051 | [二叉树中的最大路径和](./problems/lcr/051/README.md) | :o: | Hard | [tr],[dfs] |   |
 | LCR 052 | [递增顺序搜索树](./problems/lcr/052/README.md) | :o: | Hard | [tr] |   |
 | LCR 053 | [二叉搜索树中的中序后继](./problems/lcr/053/README.md) | :o: | Hard | [tr] |   |
 | LCR 054 | [把二叉搜索树转换为累加树](./problems/lcr/054/README.md) | :o: | Hard | [tr] | :+1:  |

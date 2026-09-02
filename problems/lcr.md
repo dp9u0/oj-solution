@@ -27,6 +27,7 @@
 | LCR 045 | [找树左下角的值](./problems/lcr/045/README.md) | :o: | Hard | [tr],[bfs] |   |
 | LCR 047 | [二叉树剪枝](./problems/lcr/047/README.md) | :o: | Hard | [tr] |   |
 | LCR 050 | [路径总和 III](./problems/lcr/050/README.md) | :o: | Hard | [tr],[dfs] |   |
+| LCR 052 | [递增顺序搜索树](./problems/lcr/052/README.md) | :o: | Hard | [tr] |   |
 | LCR 053 | [二叉搜索树中的中序后继](./problems/lcr/053/README.md) | :o: | Hard | [tr] |   |
 | LCR 054 | [把二叉搜索树转换为累加树](./problems/lcr/054/README.md) | :o: | Hard | [tr] | :+1:  |
 | LCR 059 | [数据流中的第 K 大元素](./problems/lcr/059/README.md) | :o: | Hard | [hp],[ds] |   |

@@ -105,6 +105,7 @@
 | LCR 133 | [位 1 的个数](./problems/lcr/133/README.md) | :o: | Hard | [bit] |   |
 | LCR 134 | [Pow(x, n)](./problems/lcr/134/README.md) | :o: | Hard | [math] |   |
 | LCR 135 | [报数](./problems/lcr/135/README.md) | :o: | Hard | [arr],[math] |   |
+| LCR 136 | [删除链表的节点](./problems/lcr/136/README.md) | :o: | Hard | [ll] |   |
 | LCR 137 | [模糊搜索验证](./problems/lcr/137/README.md) | :o: | Hard | [dp],[str] |   |
 | LCR 138 | [有效数字](./problems/lcr/138/README.md) | :o: | Hard | [str] |   |
 | LCR 139 | [训练计划 I](./problems/lcr/139/README.md) | :o: | Hard | [tp] |   |

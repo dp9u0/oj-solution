@@ -48,6 +48,7 @@
 | LCR 126 | [斐波那契数](./problems/lcr/126/README.md) | :o: | Hard | [dp] |   |
 | LCR 127 | [跳跃训练](./problems/lcr/127/README.md) | :o: | Hard | [dp] |   |
 | LCR 130 | [衣橱整理](./problems/lcr/130/README.md) | :o: | Hard | [dfs],[arr] |   |
+| LCR 134 | [Pow(x, n)](./problems/lcr/134/README.md) | :o: | Hard | [math] |   |
 | LCR 140 | [训练计划 II](./problems/lcr/140/README.md) | :o: | Hard | [ll],[tp] |   |
 | LCR 142 | [训练计划 IV](./problems/lcr/142/README.md) | :o: | Hard | [ll] |   |
 | LCR 152 | [验证二叉搜索树的后序遍历序列](./problems/lcr/152/README.md) | :o: | Hard | [tr] |   |

@@ -43,3 +43,4 @@
 | LCR 171 | [训练计划 V](./problems/lcr/171/README.md) | :o: | Hard | [ll],[tp] |   |
 | LCR 175 | [计算二叉树的深度](./problems/lcr/175/README.md) | :o: | Hard | [tr] |   |
 | LCR 180 | [文件组合](./problems/lcr/180/README.md) | :o: | Hard | [tp] |   |
+| LCR 193 | [二叉搜索树的最近公共祖先](./problems/lcr/193/README.md) | :o: | Easy | [tr] |   |

@@ -29,6 +29,7 @@
 | LCP 28 | [采购方案](./problems/lcp/28/README.md) | :o: | Hard | [tp] |   |
 | LCP 29 | [乐团站位](./problems/lcp/29/README.md) | :o: | Hard | [math] |   |
 | LCP 30 | [魔塔游戏](./problems/lcp/30/README.md) | :o: | Hard | [hp],[grd] |   |
+| LCP 32 | [批量处理任务](./problems/lcp/32/README.md) | :o: | Hard | [grd],[ds] |   |
 | LCP 33 | [蓄水](./problems/lcp/33/README.md) | :o: | Hard | [grd] |   |
 | LCP 34 | [二叉树染色](./problems/lcp/34/README.md) | :o: | Hard | [tr],[dp] |   |
 | LCP 35 | [电动车游城市](./problems/lcp/35/README.md) | :o: | Hard | [grf],[dp] |   |

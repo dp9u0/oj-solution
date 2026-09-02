@@ -17,6 +17,7 @@
 | LCP 29 | [乐团站位](./problems/lcp/29/README.md) | :o: | Hard | [math] |   |
 | LCP 30 | [魔塔游戏](./problems/lcp/30/README.md) | :o: | Hard | [hp],[grd] |   |
 | LCP 33 | [蓄水](./problems/lcp/33/README.md) | :o: | Hard | [grd] |   |
+| LCP 34 | [二叉树染色](./problems/lcp/34/README.md) | :o: | Hard | [tr],[dp] |   |
 | LCP 36 | [最多牌组数](./problems/lcp/36/README.md) | :o: | Hard | [dp] |   |
 | LCP 39 | [无人机方阵](./problems/lcp/39/README.md) | :o: | Hard | [arr] |   |
 | LCP 40 | [心算挑战](./problems/lcp/40/README.md) | :o: | Hard | [grd] |   |

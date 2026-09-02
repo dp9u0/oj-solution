@@ -3,6 +3,7 @@
 | Seq  | Title | S | L | Tags |      |
 | ---- | ----- | - | - | ---- | ---- |
 | LCR 003 | [比特位计数](./problems/lcr/003/README.md) | :o: | Hard | [dp],[bit] |   |
+| LCR 004 | [只出现一次的数字 II](./problems/lcr/004/README.md) | :o: | Hard | [bit] |   |
 | LCR 005 | [最大单词长度乘积](./problems/lcr/005/README.md) | :o: | Hard | [bit] |   |
 | LCR 007 | [三数之和](./problems/lcr/007/README.md) | :o: | Hard | [arr],[tp] |   |
 | LCR 009 | [乘积小于 K 的子数组](./problems/lcr/009/README.md) | :o: | Hard | [sd] |   |

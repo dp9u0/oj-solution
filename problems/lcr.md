@@ -71,6 +71,7 @@
 | LCR 093 | [最长的斐波那契子序列的长度](./problems/lcr/093/README.md) | :o: | Hard | [dp] |   |
 | LCR 095 | [最长公共子序列](./problems/lcr/095/README.md) | :o: | Hard | [dp] |   |
 | LCR 096 | [交错字符串](./problems/lcr/096/README.md) | :o: | Hard | [dp],[str] |   |
+| LCR 097 | [不同的子序列](./problems/lcr/097/README.md) | :o: | Hard | [dp],[str] |   |
 | LCR 098 | [不同路径](./problems/lcr/098/README.md) | :o: | Hard | [dp] |   |
 | LCR 100 | [三角形最小路径和](./problems/lcr/100/README.md) | :o: | Hard | [dp] | :+1:  |
 | LCR 101 | [分割等和子集](./problems/lcr/101/README.md) | :o: | Hard | [dp] |   |

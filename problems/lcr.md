@@ -84,6 +84,7 @@
 | LCR 090 | [打家劫舍 II](./problems/lcr/090/README.md) | :o: | Hard | [dp] |   |
 | LCR 091 | [粉刷房子](./problems/lcr/091/README.md) | :o: | Hard | [dp] |   |
 | LCR 093 | [最长的斐波那契子序列的长度](./problems/lcr/093/README.md) | :o: | Hard | [dp] |   |
+| LCR 094 | [分割回文串 II](./problems/lcr/094/README.md) | :o: | Hard | [dp],[str] |   |
 | LCR 095 | [最长公共子序列](./problems/lcr/095/README.md) | :o: | Hard | [dp] |   |
 | LCR 096 | [交错字符串](./problems/lcr/096/README.md) | :o: | Hard | [dp],[str] |   |
 | LCR 097 | [不同的子序列](./problems/lcr/097/README.md) | :o: | Hard | [dp],[str] |   |

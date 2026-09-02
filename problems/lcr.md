@@ -123,6 +123,7 @@
 | LCR 167 | [招式拆解 I](./problems/lcr/167/README.md) | :o: | Hard | [sd],[tp] | :+1:  |
 | LCR 169 | [招式拆解 II](./problems/lcr/169/README.md) | :o: | Hard | [str] |   |
 | LCR 171 | [训练计划 V](./problems/lcr/171/README.md) | :o: | Hard | [ll],[tp] |   |
+| LCR 172 | [统计目标成绩的出现次数](./problems/lcr/172/README.md) | :o: | Hard | [bs] |   |
 | LCR 173 | [点名](./problems/lcr/173/README.md) | :o: | Hard | [bs] |   |
 | LCR 174 | [寻找二叉搜索树中的目标节点](./problems/lcr/174/README.md) | :o: | Hard | [tr],[dfs] |   |
 | LCR 175 | [计算二叉树的深度](./problems/lcr/175/README.md) | :o: | Hard | [tr] |   |

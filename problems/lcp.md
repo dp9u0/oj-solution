@@ -42,6 +42,7 @@
 | LCP 44 | [开幕式焰火](./problems/lcp/44/README.md) | :o: | Hard | [tr],[hsh] |   |
 | LCP 45 | [自行车炫技赛场](./problems/lcp/45/README.md) | :o: | Hard | [bfs],[dp] |   |
 | LCP 46 | [志愿者调配](./problems/lcp/46/README.md) | :o: | Hard | [grf],[math] |   |
+| LCP 49 | [环形闯关游戏](./problems/lcp/49/README.md) | :o: | Hard | [bit],[grd] |   |
 | LCP 50 | [宝石补给](./problems/lcp/50/README.md) | :o: | Hard | [arr] |   |
 | LCP 51 | [烹饪料理](./problems/lcp/51/README.md) | :o: | Hard | [bt],[arr] |   |
 | LCP 52 | [二叉搜索树染色](./problems/lcp/52/README.md) | :o: | Hard | [tr] |   |

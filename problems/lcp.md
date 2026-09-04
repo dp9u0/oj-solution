@@ -50,6 +50,7 @@
 | LCP 55 | [采集果实](./problems/lcp/55/README.md) | :o: | Hard | [arr] |   |
 | LCP 56 | [信物传送](./problems/lcp/56/README.md) | :o: | Hard | [bfs] |   |
 | LCP 57 | [打地鼠](./problems/lcp/57/README.md) | :o: | Hard | [dp] |   |
+| LCP 58 | [积木拼接](./problems/lcp/58/README.md) | :o: | Hard | [arr] |   |
 | LCP 61 | [气温变化趋势](./problems/lcp/61/README.md) | :o: | Hard | [arr] |   |
 | LCP 62 | [交通枢纽](./problems/lcp/62/README.md) | :o: | Hard | [grf] |   |
 | LCP 63 | [弹珠游戏](./problems/lcp/63/README.md) | :o: | Hard | [arr],[grf] |   |

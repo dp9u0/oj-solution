@@ -70,6 +70,7 @@
 | LCP 67 | [装饰树](./problems/lcp/67/README.md) | :o: | Hard | [tr] |   |
 | LCP 68 | [美观的花束](./problems/lcp/68/README.md) | :o: | Hard | [sd],[hsh] |   |
 | LCP 69 | [Hello LeetCode!](./problems/lcp/69/README.md) | :o: | Hard | [dp] |   |
+| LCP 70 | [沙地治理](./problems/lcp/70/README.md) | :o: | Hard | [math],[grd] |   |
 | LCP 71 | [集水器](./problems/lcp/71/README.md) | :o: | Hard | [ds],[arr] |   |
 | LCP 72 | [补给马车](./problems/lcp/72/README.md) | :o: | Hard | [arr] |   |
 | LCP 73 | [探险营地](./problems/lcp/73/README.md) | :o: | Hard | [str],[hsh] |   |

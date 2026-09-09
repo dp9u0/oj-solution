@@ -48,6 +48,7 @@
 | LCP 45 | [自行车炫技赛场](./problems/lcp/45/README.md) | :o: | Hard | [bfs],[dp] |   |
 | LCP 46 | [志愿者调配](./problems/lcp/46/README.md) | :o: | Hard | [grf],[math] |   |
 | LCP 47 | [入场安检](./problems/lcp/47/README.md) | :o: | Hard | [dp],[q] |   |
+| LCP 48 | [无限棋局](./problems/lcp/48/README.md) | :o: | Hard | [arr],[grd] |   |
 | LCP 49 | [环形闯关游戏](./problems/lcp/49/README.md) | :o: | Hard | [bit],[grd] |   |
 | LCP 50 | [宝石补给](./problems/lcp/50/README.md) | :o: | Hard | [arr] |   |
 | LCP 51 | [烹饪料理](./problems/lcp/51/README.md) | :o: | Hard | [bt],[arr] |   |

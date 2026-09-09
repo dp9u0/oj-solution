@@ -82,3 +82,4 @@
 | LCP 79 | [提取咒文](./problems/lcp/79/README.md) | :o: | Hard | [dp] |   |
 | LCP 80 | [生物进化录](./problems/lcp/80/README.md) | :o: | Hard | [str],[tr] |   |
 | LCP 81 | [与非的谜题](./problems/lcp/81/README.md) | :o: | Hard | [bit],[ds] |   |
+| LCP 82 | [万灵之树](./problems/lcp/82/README.md) | :o: | Hard | [dp],[math] |   |

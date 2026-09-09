@@ -27,6 +27,7 @@
 | LCP 24 | [数字游戏](./problems/lcp/24/README.md) | :o: | Hard | [hp],[math] |   |
 | LCP 25 | [古董键盘](./problems/lcp/25/README.md) | :o: | Hard | [dp],[math] |   |
 | LCP 26 | [导航装置](./problems/lcp/26/README.md) | :o: | Hard | [tr] |   |
+| LCP 27 | [黑盒光线反射](./problems/lcp/27/README.md) | :o: | Hard | [des] |   |
 | LCP 28 | [采购方案](./problems/lcp/28/README.md) | :o: | Hard | [tp] |   |
 | LCP 29 | [乐团站位](./problems/lcp/29/README.md) | :o: | Hard | [math] |   |
 | LCP 30 | [魔塔游戏](./problems/lcp/30/README.md) | :o: | Hard | [hp],[grd] |   |

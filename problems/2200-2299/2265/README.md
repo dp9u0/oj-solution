@@ -1,61 +1,84 @@
-# [2265] Count Nodes Equal to Average of Subtree
+# [2265] 统计值等于子树平均值的节点数
 
 ## Description
 
-[LeetCode Problem Description](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/)
-
-* algorithms
-* Medium (86.75%)
-* Likes:    2363
-* Dislikes: 59
-* Testcase Example:  '[4,8,5,0,1,null,6]'
 
 ```md
-Given the root of a binary tree, return the number of nodes where the value of the node is equal to the average of the values in its subtree.
-Note:
+https://leetcode.cn/problems/count-nodes-equal-to-average-of-subtree/description/
+* algorithms
+* Medium (83.75%)
+* Likes:    65
+* Dislikes: -
+* Testcase Example:  '[4,8,5,0,1,null,6]'
+给你一棵二叉树的根节点 root ，找出并返回满足要求的节点数，要求节点的值等于其 子树 中值的 平均值 。
+注意：
+n 个元素的平均值可以由 n 个元素 求和 然后再除以 n ，并 向下舍入 到最近的整数。
+root 的 子树 由 root 和它的所有后代组成。
 
-The average of n elements is the sum of the n elements divided by n and rounded down to the nearest integer.
-A subtree of root is a tree consisting of root and all of its descendants.
+示例 1：
+输入：root = [4,8,5,0,1,null,6]
+输出：5
+解释：
+对值为 4 的节点：子树的平均值 (4 + 8 + 5 + 0 + 1 + 6) / 6 = 24 / 6 = 4 。
+对值为 5 的节点：子树的平均值 (5 + 6) / 2 = 11 / 2 = 5 。
+对值为 0 的节点：子树的平均值 0 / 1 = 0 。
+对值为 1 的节点：子树的平均值 1 / 1 = 1 。
+对值为 6 的节点：子树的平均值 6 / 1 = 6 。
+示例 2：
+输入：root = [1]
+输出：1
+解释：对值为 1 的节点：子树的平均值 1 / 1 = 1。
 
-
-Example 1:
-
-
-Input: root = [4,8,5,0,1,null,6]
-Output: 5
-Explanation:
-For the node with value 4: The average of its subtree is (4 + 8 + 5 + 0 + 1 + 6) / 6 = 24 / 6 = 4.
-For the node with value 5: The average of its subtree is (5 + 6) / 2 = 11 / 2 = 5.
-For the node with value 0: The average of its subtree is 0 / 1 = 0.
-For the node with value 1: The average of its subtree is 1 / 1 = 1.
-For the node with value 6: The average of its subtree is 6 / 1 = 6.
-
-Example 2:
-
-
-Input: root = [1]
-Output: 1
-Explanation: For the node with value 1: The average of its subtree is 1 / 1 = 1.
-
-
-Constraints:
-
-The number of nodes in the tree is in the range [1, 1000].
+提示：
+树中节点数目在范围 [1, 1000] 内
 0 <= Node.val <= 1000
-
+Hint 1: What information do we need to calculate the average? We need the sum of the values and the number of values.
+Hint 2: Create a recursive function that returns the size of a node’s subtree, and the sum of the values of its subtree.
 
 ```
-
-## 翻译
-
-给定二叉树根节点，返回节点值等于其子树平均值（向下取整）的节点个数。
-
-## Approach
-
-DFS 后序遍历。每个节点返回子树的 [sum, count]，计算平均值并比较。
-
-时间复杂度 O(n)，空间复杂度 O(h)。
 
 ## Solution
 
 [SourceCode](./solution.js)
+
+## English Description
+
+Given the root of a binary tree, return the number of nodes where the value of the node is equal to the average of the values in its subtree.
+
+Note:
+
+- The average of n elements is the sum of the n elements divided by n (i.e. integer division rounded down to the nearest integer).
+- A subtree of root is a tree consisting of root and all of its descendants.
+
+Example 1:
+
+- Input: root = [4,8,5,0,1,null,6]
+- Output: 5
+- Explanation:
+  - For the node with value 4: The average of its subtree is (4 + 8 + 5 + 0 + 1 + 6) / 6 = 24 / 6 = 4.
+  - For the node with value 5: The average of its subtree is (5 + 6) / 2 = 11 / 2 = 5.
+  - For the node with value 0: The average of its subtree is 0 / 1 = 0.
+  - For the node with value 1: The average of its subtree is 1 / 1 = 1.
+  - For the node with value 6: The average of its subtree is 6 / 1 = 6.
+
+Example 2:
+
+- Input: root = [1]
+- Output: 1
+- Explanation: For the node with value 1: The average of its subtree is 1 / 1 = 1.
+
+Constraints:
+
+- The number of nodes in the tree is in the range [1, 1000].
+- 0 <= Node.val <= 1000
+
+## Approach
+
+Post-order DFS (bottom-up). Each recursive call returns `[sum, count]` of the subtree rooted at the current node:
+
+1. Recurse into left and right children to get their `(sum, count)`.
+2. Combine: `sum = node.val + leftSum + rightSum`, `count = 1 + leftCount + rightCount`.
+3. Check `Math.floor(sum / count) === node.val`; if so, increment the answer counter.
+4. Return `[sum, count]` up to the parent.
+
+Time complexity: O(n) — each node visited once. Space complexity: O(h) for the recursion stack.

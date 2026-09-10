@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode id=2265 lang=javascript
+ * @lc app=leetcode.cn id=2265 lang=javascript
  *
- * [2265] Count Nodes Equal to Average of Subtree
+ * [2265] 统计值等于子树平均值的节点数
  */
 
 // @lc code=start
@@ -17,45 +17,35 @@
  * @param {TreeNode} root
  * @return {number}
  */
-var averageOfSubtree = function(root) {
-  let result = 0;
+var averageOfSubtree = function (root) {
+  let answer = 0;
 
+  // Returns [sum, count] of the subtree rooted at node
   const dfs = (node) => {
     if (!node) return [0, 0];
+
     const [leftSum, leftCount] = dfs(node.left);
     const [rightSum, rightCount] = dfs(node.right);
-    const sum = leftSum + rightSum + node.val;
-    const count = leftCount + rightCount + 1;
-    if (Math.floor(sum / count) === node.val) result++;
+
+    const sum = node.val + leftSum + rightSum;
+    const count = 1 + leftCount + rightCount;
+
+    if (Math.floor(sum / count) === node.val) answer++;
+
     return [sum, count];
   };
 
   dfs(root);
-  return result;
+
+  return answer;
 };
 // @lc code=end
 
 // TEST:
-function TreeNode(val, left, right) {
-  this.val = (val === undefined ? 0 : val);
-  this.left = (left === undefined ? null : left);
-  this.right = (right === undefined ? null : right);
-}
+const { arrayToTree } = require('./utils/arrayToTree');
 
-const build = (arr) => {
-  if (!arr.length) return null;
-  const root = new TreeNode(arr[0]);
-  const queue = [root];
-  let i = 1;
-  while (i < arr.length) {
-    const node = queue.shift();
-    if (arr[i] !== null) { node.left = new TreeNode(arr[i]); queue.push(node.left); }
-    i++;
-    if (i < arr.length && arr[i] !== null) { node.right = new TreeNode(arr[i]); queue.push(node.right); }
-    i++;
-  }
-  return root;
-};
-
-console.log(averageOfSubtree(build([4,8,5,0,1,null,6]))); // 5
-console.log(averageOfSubtree(build([1]))); // 1
+console.log(averageOfSubtree(arrayToTree([4, 8, 5, 0, 1, null, 6])) === 5);
+console.log(averageOfSubtree(arrayToTree([1])) === 1);
+console.log(averageOfSubtree(arrayToTree([0, 0, 0])) === 3);
+console.log(averageOfSubtree(arrayToTree([1, 2, 3])) === 2);
+console.log(averageOfSubtree(arrayToTree([3, 1, 5, null, null, 4, 7])) === 4);

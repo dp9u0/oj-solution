@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode id=3414 lang=javascript
+ * @lc app=leetcode.cn id=3414 lang=javascript
  *
- * [3414] Maximum Score of Non-overlapping Intervals
+ * [3414] 不重叠区间的最大得分
  */
 
 // @lc code=start
@@ -9,80 +9,154 @@
  * @param {number[][]} intervals
  * @return {number[]}
  */
-var maximumWeight = function(intervals) {
+var maximumWeight = function (intervals) {
   const n = intervals.length;
-  const sorted = intervals.map((iv, i) => ({ l: iv[0], r: iv[1], w: iv[2], idx: i }));
-  sorted.sort((a, b) => a.r - b.r || a.l - b.l || a.idx - b.idx);
+  const K = 4;
 
-  const prev = new Int32Array(n).fill(-1);
-  for (let i = 0; i < n; i++) {
-    let lo = 0, hi = i - 1, res = -1;
-    while (lo <= hi) {
-      const mid = (lo + hi) >> 1;
-      if (sorted[mid].r < sorted[i].l) { res = mid; lo = mid + 1; }
-      else hi = mid - 1;
+  // Sort indices by right endpoint (stable for ties)
+  const order = intervals
+    .map((_, i) => i)
+    .sort((a, b) => intervals[a][1] - intervals[b][1]);
+  const rightBounds = order.map((i) => intervals[i][1]);
+
+  // Insert x into a sorted array, keeping it sorted
+  const mergeSeq = (seq, x) => {
+    const res = [];
+    let inserted = false;
+    for (const v of seq) {
+      if (!inserted && x < v) {
+        res.push(x);
+        inserted = true;
+      }
+      res.push(v);
     }
-    prev[i] = res;
-  }
+    if (!inserted) res.push(x);
+    return res;
+  };
 
+  // Lexicographic comparison of sorted index sequences (shorter prefix is smaller)
   const lexLess = (a, b) => {
-    for (let i = 0; i < Math.min(a.length, b.length); i++) {
+    const m = Math.min(a.length, b.length);
+    for (let i = 0; i < m; i++) {
       if (a[i] !== b[i]) return a[i] < b[i];
     }
     return a.length < b.length;
   };
 
-  const better = (aw, ai, bw, bi) => aw > bw || (aw === bw && lexLess(ai, bi));
+  // dp[k][c]: { s: max score, seq: lex-min index sequence } using at most k
+  // intervals from the first c sorted intervals. dp[k][0] = empty selection.
+  const dp = Array.from({ length: K + 1 }, () => new Array(n + 1));
+  for (let c = 0; c <= n; c++) dp[0][c] = { s: 0, seq: [] };
+  for (let k = 1; k <= K; k++) dp[k][0] = { s: 0, seq: [] };
 
-  let bestW = -Infinity, bestIds = [];
+  for (let c = 1; c <= n; c++) {
+    const orig = order[c - 1];
+    const [l, , w] = intervals[orig];
 
-  // pbest[i] = { w, ids } = prefix best for current level up to index i
-  let pbest = new Array(n);
-
-  // Level 1
-  for (let i = 0; i < n; i++) {
-    const w = sorted[i].w, ids = [sorted[i].idx];
-    if (i > 0 && better(pbest[i - 1].w, pbest[i - 1].ids, w, ids)) {
-      pbest[i] = { w: pbest[i - 1].w, ids: [...pbest[i - 1].ids] };
-    } else {
-      pbest[i] = { w, ids: [...ids] };
+    // p = number of sorted intervals with right endpoint < l (strict: touching overlaps)
+    let lo = 0;
+    let hi = n;
+    while (lo < hi) {
+      const mid = (lo + hi) >> 1;
+      if (rightBounds[mid] < l) lo = mid + 1;
+      else hi = mid;
     }
-    if (better(w, ids, bestW, bestIds)) { bestW = w; bestIds = [...ids]; }
-  }
+    const p = lo;
 
-  // Levels 2-4
-  for (let c = 2; c <= 4; c++) {
-    const np = new Array(n);
-    for (let i = 0; i < n; i++) {
-      const p = prev[i];
-      let cur;
-      if (p >= 0 && pbest[p].w > -Infinity) {
-        const w = pbest[p].w + sorted[i].w;
-        const ids = [...pbest[p].ids, sorted[i].idx].sort((a, b) => a - b);
-        cur = { w, ids };
+    for (let k = 1; k <= K; k++) {
+      const skip = dp[k][c - 1];
+      const prev = dp[k - 1][p];
+      const takeScore = w + prev.s;
+      if (takeScore > skip.s) {
+        dp[k][c] = { s: takeScore, seq: mergeSeq(prev.seq, orig) };
+      } else if (takeScore === skip.s) {
+        const takeSeq = mergeSeq(prev.seq, orig);
+        dp[k][c] = lexLess(takeSeq, skip.seq)
+          ? { s: takeScore, seq: takeSeq }
+          : skip;
       } else {
-        cur = { w: -Infinity, ids: [] };
-      }
-      if (i > 0 && better(np[i - 1].w, np[i - 1].ids, cur.w, cur.ids)) {
-        np[i] = { w: np[i - 1].w, ids: [...np[i - 1].ids] };
-      } else {
-        np[i] = cur;
-      }
-      if (cur.w > -Infinity && better(cur.w, cur.ids, bestW, bestIds)) {
-        bestW = cur.w; bestIds = [...cur.ids];
+        dp[k][c] = skip;
       }
     }
-    pbest = np;
   }
 
-  return bestIds;
+  return dp[K][n].seq;
 };
 // @lc code=end
 
 // TEST:
-const deepEq = (a, b) => JSON.stringify(a) === JSON.stringify(b);
-console.log(deepEq(maximumWeight([[1,3,2],[4,5,2],[1,5,5],[6,9,3],[6,7,1],[8,9,1]]), [2,3]));
-console.log(deepEq(maximumWeight([[5,8,1],[6,7,7],[4,7,3],[9,10,6],[7,8,2],[11,14,3],[3,5,5]]), [1,3,5,6]));
-console.log(deepEq(maximumWeight([[1,2,1]]), [0]));
-console.log(deepEq(maximumWeight([[1,2,5],[3,4,5]]), [0,1]));
-console.log(deepEq(maximumWeight([[1,3,2],[2,5,3]]), [1]));
+console.log(
+  JSON.stringify(
+    maximumWeight([
+      [1, 3, 2],
+      [4, 5, 2],
+      [1, 5, 5],
+      [6, 9, 3],
+      [6, 7, 1],
+      [8, 9, 1],
+    ])
+  ) === JSON.stringify([2, 3])
+);
+console.log(
+  JSON.stringify(
+    maximumWeight([
+      [5, 8, 1],
+      [6, 7, 7],
+      [4, 7, 3],
+      [9, 10, 6],
+      [7, 8, 2],
+      [11, 14, 3],
+      [3, 5, 5],
+    ])
+  ) === JSON.stringify([1, 3, 5, 6])
+);
+// Single interval
+console.log(JSON.stringify(maximumWeight([[1, 2, 10]])) === JSON.stringify([0]));
+// Fewer than 4 intervals optimal; boundary touch counts as overlap:
+// [1,2]w5 vs [2,3]w5 cannot combine; both single picks score 5, index 0 is lex smaller
+console.log(
+  JSON.stringify(
+    maximumWeight([
+      [1, 2, 5],
+      [2, 3, 5],
+    ])
+  ) === JSON.stringify([0])
+);
+// Tie between one heavy interval and two lighter ones it spans:
+// {0} (w=5) vs {1,2} (w=2+3=5) -> [0] < [1,2]
+console.log(
+  JSON.stringify(
+    maximumWeight([
+      [1, 10, 5],
+      [2, 3, 2],
+      [4, 5, 3],
+    ])
+  ) === JSON.stringify([0])
+);
+// Tie where the multi-interval selection has smaller indices:
+// {0,1} (w=2+2) vs {2} (w=4), heavy [2,7] touches both lights -> [0,1] < [2]
+console.log(
+  JSON.stringify(
+    maximumWeight([
+      [1, 2, 2],
+      [7, 8, 2],
+      [2, 7, 4],
+    ])
+  ) === JSON.stringify([0, 1])
+);
+// Nested intervals with large weights far apart; the two 7s overlap each other,
+// so the 29 tie is between [0,3,5,7] and [0,3,6,7]
+console.log(
+  JSON.stringify(
+    maximumWeight([
+      [10, 20, 8],
+      [11, 12, 1],
+      [13, 14, 1],
+      [30, 40, 8],
+      [31, 32, 1],
+      [50, 60, 7],
+      [51, 52, 7],
+      [70, 80, 6],
+    ])
+  ) === JSON.stringify([0, 3, 5, 7])
+);

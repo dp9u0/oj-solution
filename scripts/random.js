@@ -1,29 +1,49 @@
-// 从本地分块表格随机选取一道未解决的题目（不依赖 lc list 网络查询）
-// 候选池：分块表中有链接、状态为空（非 :o: 已解决 / :lock: 会员 / :soon: 预定）的行
-const fs = require('fs');
-const path = require('path');
+const { exec } = require('child_process');
 
-const problems = [];
+const LIST_COMMAND = 'pnpm run list';
 
-for (const name of fs.readdirSync(path.resolve(__dirname, '../problems'))) {
-  if (!/^\d{4}-\d{4}\.md$|^(lcp|lcr|lcs)\.md$/.test(name)) continue;
-  const lines = fs.readFileSync(path.resolve(__dirname, '../problems', name), 'utf-8').split('\n');
-  for (const line of lines) {
-    if (!/^\s*\|/.test(line)) continue;
-    const cells = line.split('|').map(s => s.trim());
-    // | Seq | Title | S | L | Tags | Remark |
-    if (cells.length < 7 || !cells[1] || cells[1] === 'Seq' || /^-+$/.test(cells[1])) continue;
-    if (!/\]\(\.\/problems\//.test(cells[2])) continue;
-    if (cells[3]) continue; // :o: / :lock: / :soon: 均跳过，只取未刷的空状态行
-    const level = /^(Easy|Medium|Hard)/.test(cells[4]) ? cells[4].match(/^(Easy|Medium|Hard)/)[1] : '';
-    problems.push({ id: cells[1], title: (cells[2].match(/^\[([^\]]*)\]/) || [, cells[2]])[1], difficulty: level });
+exec(LIST_COMMAND, (err, stdout, stderr) => {
+  if (err) {
+    if (stderr) {
+      console.error(stderr.trim());
+    }
+    console.error(err.message);
+    process.exit(1);
   }
-}
 
-if (!problems.length) {
-  console.error('No unsolved problems found in chunk tables.');
-  process.exit(1);
-}
+  const lines = stdout.split(/\r?\n/);
+  const problems = [];
 
-const picked = problems[Math.floor(Math.random() * problems.length)];
-console.log(`[${picked.id}] ${picked.title} (${picked.difficulty})`);
+  for (const line of lines) {
+    // 兼容两种题号格式：
+    //   纯数字：[ 4041 ] 构造子集和的最少操作次数 II ... Hard
+    //   前缀：  [LCP 82] 万灵之树 ... Hard
+    // 行首可能有 ★/🔒/✔ 等图标，故不锚定行首。
+    const match = line.match(/\[\s*([A-Z]*\s*\d+)\s*\]\s+(.+?)\s{2,}(Easy|Medium|Hard)\b/);
+    if (!match) {
+      continue;
+    }
+
+    // 题号格式化：纯数字去空格(4041)，前缀题保留前缀与数字的空格(LCR 052)
+    // 因为 lc show 需要 'LCR 052' 这种带空格格式，'LCR052' 无法识别
+    let id = match[1].replace(/\s+/g, '');
+    const idMatch = id.match(/^([A-Z]+)(\d+)$/);
+    if (idMatch) {
+      id = `${idMatch[1]} ${idMatch[2]}`;
+    }
+
+    problems.push({
+      id,
+      title: match[2].trim(),
+      difficulty: match[3],
+    });
+  }
+
+  if (!problems.length) {
+    console.error('No problems parsed from list output.');
+    process.exit(1);
+  }
+
+  const picked = problems[Math.floor(Math.random() * problems.length)];
+  console.log(`[${picked.id}] ${picked.title} (${picked.difficulty})`);
+});

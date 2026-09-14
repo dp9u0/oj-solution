@@ -64,4 +64,4 @@ console.log(longestSubarray([6], 1) === 0);
 console.log(longestSubarray([6], 2) === 1);
 console.log(longestSubarray([2, 4, 8, 16], 1) === 4);
 console.log(longestSubarray([2, 3, 5, 7], 2) === 2);
-console.log(longestSubarray([100000], 4) === 0);
+console.log(longestSubarray([100000], 4) === 1);

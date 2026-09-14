@@ -32,8 +32,16 @@ module.exports.parseCurrent = function () {
   let contentOfMd = fs.readFileSync(SOLUTION_MD_PATH, 'utf-8');
   let lineOfMd = contentOfMd.split("\n");
   let title = lineOfMd[0].replace(/# \[[^\]]+\] /, "");
-  let lineLevel = lineOfMd[7];
-  let level = lineLevel.indexOf("Easy") !== -1 ? "Easy" : lineLevel.indexOf("Medium") !== -1 ? "Medium" : "Hard";
+  // 难度行在英文站/中文站生成的 solving.md 中行偏移不同（中文站无链接行），
+  // 固定行号会解析失败回退成 Hard，这里扫描全文件匹配 "* Easy (xx%)" 格式
+  let level = "Hard";
+  for (let line of lineOfMd) {
+    let m = line.match(/^\*\s*(Easy|Medium|Hard)\b/);
+    if (m) {
+      level = m[1];
+      break;
+    }
+  }
   return { title, level };
 }
 

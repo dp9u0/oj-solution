@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode id=1477 lang=javascript
+ * @lc app=leetcode.cn id=1477 lang=javascript
  *
- * [1477] Find Two Non-overlapping Sub-arrays Each With Target Sum
+ * [1477] 找两个和为目标值且不重叠的子数组
  */
 
 // @lc code=start
@@ -11,38 +11,37 @@
  * @return {number}
  */
 var minSumOfLengths = function(arr, target) {
-    const n = arr.length;
-    const best = new Array(n).fill(Infinity);
-    let ans = Infinity;
-
-    let sum = 0, l = 0;
-    for (let r = 0; r < n; r++) {
-        sum += arr[r];
-
-        // Shrink window from left while sum > target
-        while (sum > target) {
-            sum -= arr[l];
-            l++;
-        }
-
-        if (sum === target) {
-            const len = r - l + 1;
-            if (l > 0 && best[l - 1] !== Infinity) {
-                ans = Math.min(ans, len + best[l - 1]);
-            }
-            best[r] = Math.min(r > 0 ? best[r - 1] : Infinity, len);
-        } else {
-            best[r] = r > 0 ? best[r - 1] : Infinity;
-        }
+  const n = arr.length;
+  const INF = Infinity;
+  // best[i]: minimal length of a subarray with sum target within arr[0..i]
+  const best = new Array(n).fill(INF);
+  let ans = INF;
+  let minLen = INF;
+  let left = 0;
+  let sum = 0;
+  for (let right = 0; right < n; right++) {
+    sum += arr[right];
+    while (sum > target) {
+      sum -= arr[left++];
     }
-
-    return ans === Infinity ? -1 : ans;
+    if (sum === target) {
+      const len = right - left + 1;
+      if (left > 0 && best[left - 1] !== INF) {
+        ans = Math.min(ans, len + best[left - 1]);
+      }
+      minLen = Math.min(minLen, len);
+    }
+    best[right] = minLen;
+  }
+  return ans === INF ? -1 : ans;
 };
 // @lc code=end
 
 // TEST:
-console.log(minSumOfLengths([3,2,2,4,3], 3));           // 2
-console.log(minSumOfLengths([7,3,4,7], 7));               // 2
-console.log(minSumOfLengths([4,3,2,6,2,3,4], 6));       // -1
-console.log(minSumOfLengths([1,1,1,1,1], 2));             // 4
-console.log(minSumOfLengths([1,2,3], 3));                  // -1 (only one)
+console.log(minSumOfLengths([3, 2, 2, 4, 3], 3)); // 2
+console.log(minSumOfLengths([7, 3, 4, 7], 7)); // 2
+console.log(minSumOfLengths([4, 3, 2, 6, 2, 3, 4], 6)); // -1
+console.log(minSumOfLengths([5, 5, 4, 4, 5], 3)); // -1
+console.log(minSumOfLengths([3, 1, 1, 1, 5, 1, 2, 1], 3)); // 3
+console.log(minSumOfLengths([3], 3)); // -1
+console.log(minSumOfLengths([2, 2, 4, 4, 4, 4, 4, 4, 4, 4], 8)); // 4

@@ -1,118 +1,140 @@
-# [3498] Reverse Degree of a String
+# [3498] 字符串的反转度
 
 ## Description
 
-[LeetCode Problem Description](https://leetcode.com/problems/reverse-degree-of-a-string/description/)
-
-* algorithms
-* Easy (88.66%)
-* Likes:    86
-* Dislikes: 5
-* Testcase Example:  '"abc"'
 
 ```md
-Given a string s, calculate its reverse degree.
-The reverse degree is calculated as follows:
+https://leetcode.cn/problems/reverse-degree-of-a-string/description/
+* algorithms
+* Easy (86.54%)
+* Likes:    5
+* Dislikes: -
+* Testcase Example:  '"abc"'
+给你一个字符串 s，计算其 反转度。
+反转度的计算方法如下：
+对于每个字符，将其在 反转 字母表中的位置（'a' = 26, 'b' = 25, ..., 'z' = 1）与其在字符串中的位置（下标从1 开始）相乘。
+将这些乘积加起来，得到字符串中所有字符的和。
+返回 反转度。
 
-For each character, multiply its position in the reversed alphabet (&#39;a&#39; = 26, &#39;b&#39; = 25, ..., &#39;z&#39; = 1) with its position in the string (1-indexed).
-Sum these products for all characters in the string.
-
-Return the reverse degree of s.
-
-Example 1:
-
-Input: s = 'abc'
-Output: 148
-Explanation:
-
-
-
-Letter
-Index in Reversed Alphabet
-Index in String
-Product
+示例 1：
+输入： s = "abc"
+输出： 148
+解释：
 
 
-&#39;a&#39;
+字母
+反转字母表中的位置
+字符串中的位置
+乘积
+
+
+'a'
 26
 1
 26
 
 
-&#39;b&#39;
+'b'
 25
 2
 50
 
 
-&#39;c&#39;
+'c'
 24
 3
 72
 
 
-
-The reversed degree is 26 + 50 + 72 = 148.
-
-Example 2:
-
-Input: s = 'zaza'
-Output: 160
-Explanation:
+反转度是 26 + 50 + 72 = 148 。
+示例 2：
+输入： s = "zaza"
+输出： 160
+解释：
 
 
+字母
+反转字母表中的位置
+字符串中的位置
+乘积
 
-Letter
-Index in Reversed Alphabet
-Index in String
-Product
 
-
-&#39;z&#39;
+'z'
 1
 1
 1
 
 
-&#39;a&#39;
+'a'
 26
 2
 52
 
 
-&#39;z&#39;
+'z'
 1
 3
 3
 
 
-&#39;a&#39;
+'a'
 26
 4
 104
 
 
+反转度是 1 + 52 + 3 + 104 = 160 。
 
-The reverse degree is 1 + 52 + 3 + 104 = 160.
-
-
-Constraints:
-
+提示：
 1 <= s.length <= 1000
-s contains only lowercase English letters.
-
+s 仅包含小写字母。
+Hint 1: Simulate the operations as described.
 
 ```
 
-## 题目翻译
+## Description (English)
 
-给定字符串 s，计算其"反转度"：每个字符的反转字母位置（a=26, b=25, ..., z=1）乘以它在字符串中的位置（1-indexed），对所有字符求和。
+You are given a string `s`. Calculate its **reverse degree**.
 
-## 解题思路
+The reverse degree is calculated as follows:
 
-**遍历求和**
+- For each character, multiply its position in the **reversed** alphabet (`'a'` = 26, `'b'` = 25, ..., `'z'` = 1) by its position in the string (1-indexed).
+- Sum these products across all characters in the string.
 
-reverse value = 26 - (charCode - 'a')。直接遍历累加即可。O(n)。
+Return the **reverse degree** of `s`.
+
+Example 1:
+
+```
+Input: s = "abc"
+Output: 148
+Explanation: 'a' → 26 * 1 = 26, 'b' → 25 * 2 = 50, 'c' → 24 * 3 = 72.
+The reverse degree is 26 + 50 + 72 = 148.
+```
+
+Example 2:
+
+```
+Input: s = "zaza"
+Output: 160
+Explanation: 'z' → 1 * 1 = 1, 'a' → 26 * 2 = 52, 'z' → 1 * 3 = 3, 'a' → 26 * 4 = 104.
+The reverse degree is 1 + 52 + 3 + 104 = 160.
+```
+
+Constraints:
+
+- `1 <= s.length <= 1000`
+- `s` consists of only lowercase English letters.
+
+## 思路
+
+一次线性遍历模拟即可：
+
+- 字符 `c` 在反转字母表中的位置为 `26 - (c - 'a')`，即 `'a'` 对应 26，`'z'` 对应 1。
+- 字符在字符串中的位置为 1-indexed 下标 `i + 1`。
+- 累加 `(26 - (s.charCodeAt(i) - 97)) * (i + 1)`。
+
+时间复杂度 O(n)，空间复杂度 O(1)。
 
 ## Solution
 

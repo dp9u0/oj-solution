@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode id=1807 lang=javascript
+ * @lc app=leetcode.cn id=1807 lang=javascript
  *
- * [1807] Evaluate the Bracket Pairs of a String
+ * [1807] 替换字符串中的括号内容
  */
 
 // @lc code=start
@@ -11,27 +11,28 @@
  * @return {string}
  */
 var evaluate = function(s, knowledge) {
-    const map = new Map(knowledge);
-    let result = '';
-    let i = 0;
-    while (i < s.length) {
-        if (s[i] === '(') {
-            let key = '';
-            i++;
-            while (s[i] !== ')') {
-                key += s[i++];
-            }
-            i++; // skip ')'
-            result += map.has(key) ? map.get(key) : '?';
-        } else {
-            result += s[i++];
-        }
+  const map = new Map();
+  for (const [key, value] of knowledge) map.set(key, value);
+
+  let result = '';
+  for (let i = 0; i < s.length; i++) {
+    const ch = s[i];
+    if (ch !== '(') {
+      result += ch;
+      continue;
     }
-    return result;
+    const j = s.indexOf(')', i + 1);
+    const key = s.slice(i + 1, j);
+    result += map.has(key) ? map.get(key) : '?';
+    i = j;
+  }
+  return result;
 };
 // @lc code=end
 
 // TEST:
-console.log(evaluate('(name)is(age)yearsold', [['name','bob'],['age','two']])); // 'bobistwoyearsold'
-console.log(evaluate('hi(name)', [['a','b']]));                                // 'hi?'
-console.log(evaluate('(a)(a)(a)aaa', [['a','yes']]));                          // 'yesyesyesaaa'
+console.log(evaluate('(name)is(age)yearsold', [['name', 'bob'], ['age', 'two']]) === 'bobistwoyearsold');
+console.log(evaluate('hi(name)', [['a', 'b']]) === 'hi?');
+console.log(evaluate('(a)(a)(a)aaa', [['a', 'yes']]) === 'yesyesyesaaa');
+console.log(evaluate('(z)', []) === '?');
+console.log(evaluate('nobra  ckets', [['a', 'b']]) === 'nobra  ckets');

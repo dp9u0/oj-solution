@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode id=1190 lang=javascript
+ * @lc app=leetcode.cn id=1190 lang=javascript
  *
- * [1190] Reverse Substrings Between Each Pair of Parentheses
+ * [1190] 反转每对括号间的子串
  */
 
 // @lc code=start
@@ -10,21 +10,30 @@
  * @return {string}
  */
 var reverseParentheses = function(s) {
-    const chars = s.split('');
-    const stack = [];
-    for (let i = 0; i < chars.length; i++) {
-        if (chars[i] === '(') {
-            stack.push(i);
-        } else if (chars[i] === ')') {
-            const left = stack.pop();
-            let l = left + 1, r = i - 1;
-            while (l < r) {
-                [chars[l], chars[r]] = [chars[r], chars[l]];
-                l++; r--;
-            }
-        }
+  const n = s.length;
+  // 预处理：栈配对，pair[i] 为 i 处括号的匹配括号下标
+  const pair = new Array(n);
+  const stack = [];
+  for (let i = 0; i < n; i++) {
+    if (s[i] === '(') {
+      stack.push(i);
+    } else if (s[i] === ')') {
+      const j = stack.pop();
+      pair[i] = j;
+      pair[j] = i;
     }
-    return chars.filter(c => c !== '(' && c !== ')').join('');
+  }
+  // 虫洞遍历：遇括号传送到配对处并掉头
+  const result = [];
+  for (let i = 0, d = 1; i < n; i += d) {
+    if (s[i] === '(' || s[i] === ')') {
+      i = pair[i];
+      d = -d;
+    } else {
+      result.push(s[i]);
+    }
+  }
+  return result.join('');
 };
 // @lc code=end
 
@@ -32,6 +41,6 @@ var reverseParentheses = function(s) {
 console.log(reverseParentheses("(abcd)")); // "dcba"
 console.log(reverseParentheses("(u(love)i)")); // "iloveu"
 console.log(reverseParentheses("(ed(et(oc))el)")); // "leetcode"
-console.log(reverseParentheses("a(bc)d")); // "acbd"
-console.log(reverseParentheses("(ab(cd)ef)")); // "fecdba"
-console.log(reverseParentheses("ta()us")); // "taus"
+console.log(reverseParentheses("a(bcdefghijkl(mno)p)q")); // "apmnolkjihgfedcbq"
+console.log(reverseParentheses("abcdef")); // "abcdef"
+console.log(reverseParentheses("()")); // ""

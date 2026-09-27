@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode id=1614 lang=javascript
+ * @lc app=leetcode.cn id=1614 lang=javascript
  *
- * [1614] Maximum Nesting Depth of the Parentheses
+ * [1614] 括号的最大嵌套深度
  */
 
 // @lc code=start
@@ -10,13 +10,14 @@
  * @return {number}
  */
 var maxDepth = function(s) {
-    let depth = 0, max = 0;
-    for (const c of s) {
-        if (c === '(') {
-            depth++;
-            if (depth > max) max = depth;
-        } else if (c === ')') {
-            depth--;
+    let cur = 0;
+    let max = 0;
+    for (const ch of s) {
+        if (ch === '(') {
+            cur++;
+            if (cur > max) max = cur;
+        } else if (ch === ')') {
+            cur--;
         }
     }
     return max;
@@ -27,5 +28,5 @@ var maxDepth = function(s) {
 console.log(maxDepth("(1+(2*3)+((8)/4))+1")); // 3
 console.log(maxDepth("(1)+((2))+(((3)))")); // 3
 console.log(maxDepth("()(())((()()))")); // 3
-console.log(maxDepth("1+(2*3)/(2-1)")); // 1
 console.log(maxDepth("1")); // 0
+console.log(maxDepth("(1())")); // 2

@@ -1,74 +1,85 @@
-# [2267]  Check if There Is a Valid Parentheses String Path
+# [2267] 检查是否有合法括号字符串路径
 
 ## Description
 
-[LeetCode Problem Description](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/description/)
-
-* algorithms
-* Hard (40.13%)
-* Likes:    541
-* Dislikes: 9
-* Testcase Example:  '[["(","(","("],[")","(",")"],["(","(",")"],["(","(",")"]]'
 
 ```md
-A parentheses string is a non-empty string consisting only of &#39;(&#39; and &#39;)&#39;. It is valid if any of the following conditions is true:
+https://leetcode.cn/problems/check-if-there-is-a-valid-parentheses-string-path/description/
+* algorithms
+* Hard (43.14%)
+* Likes:    65
+* Dislikes: -
+* Testcase Example:  '[["(","(","("],[")","(",")"],["(","(",")"],["(","(",")"]]'
+一个括号字符串是一个 非空 且只包含 '(' 和 ')' 的字符串。如果下面 任意 条件为 真 ，那么这个括号字符串就是 合法的 。
+字符串是 () 。
+字符串可以表示为 AB（A 连接 B），A 和 B 都是合法括号序列。
+字符串可以表示为 (A) ，其中 A 是合法括号序列。
+给你一个 m x n 的括号网格图矩阵 grid 。网格图中一个 合法括号路径 是满足以下所有条件的一条路径：
+路径开始于左上角格子 (0, 0) 。
+路径结束于右下角格子 (m - 1, n - 1) 。
+路径每次只会向 下 或者向 右 移动。
+路径经过的格子组成的括号字符串是 合法 的。
+如果网格图中存在一条 合法括号路径 ，请返回 true ，否则返回 false 。
 
-It is ().
-It can be written as AB (A concatenated with B), where A and B are valid parentheses strings.
-It can be written as (A), where A is a valid parentheses string.
+示例 1：
+输入：grid = [["(","(","("],[")","(",")"],["(","(",")"],["(","(",")"]]
+输出：true
+解释：上图展示了两条路径，它们都是合法括号字符串路径。
+第一条路径得到的合法字符串是 "()(())" 。
+第二条路径得到的合法字符串是 "((()))" 。
+注意可能有其他的合法括号字符串路径。
+示例 2：
+输入：grid = [[")",")"],["(","("]]
+输出：false
+解释：两条可行路径分别得到 "))(" 和 ")((" 。由于它们都不是合法括号字符串，我们返回 false 。
 
-You are given an m x n matrix of parentheses grid. A valid parentheses string path in the grid is a path satisfying all of the following conditions:
-
-The path starts from the upper left cell (0, 0).
-The path ends at the bottom-right cell (m - 1, n - 1).
-The path only ever moves down or right.
-The resulting parentheses string formed by the path is valid.
-
-Return true if there exists a valid parentheses string path in the grid. Otherwise, return false.
-
-Example 1:
-
-
-Input: grid = [['(','(','('],[')','(',')'],['(','(',')'],['(','(',')']]
-Output: true
-Explanation: The above diagram shows two possible paths that form valid parentheses strings.
-The first path shown results in the valid parentheses string '()(())'.
-The second path shown results in the valid parentheses string '((()))'.
-Note that there may be other valid parentheses string paths.
-
-Example 2:
-
-
-Input: grid = [[')',')'],['(','(']]
-Output: false
-Explanation: The two possible paths form the parentheses strings '))(' and ')(('. Since neither of them are valid parentheses strings, we return false.
-
-
-Constraints:
-
+提示：
 m == grid.length
 n == grid[i].length
 1 <= m, n <= 100
-grid[i][j] is either &#39;(&#39; or &#39;)&#39;.
-
+grid[i][j] 要么是 '(' ，要么是 ')' 。
+Hint 1: What observations can you make about the number of open brackets and close brackets for any prefix of a valid bracket sequence?
+Hint 2: The number of open brackets must always be greater than or equal to the number of close brackets.
+Hint 3: Could you use dynamic programming?
 
 ```
+
+## Description (English)
+
+A parentheses string is a non-empty string consisting only of '(' and ')'. It is **valid** if any of the following holds:
+
+- The string is `()`.
+- It can be written as `AB` (A concatenated with B), where A and B are both valid parentheses strings.
+- It can be written as `(A)`, where A is a valid parentheses string.
+
+Given an `m x n` grid of parentheses, where `grid[i][j]` is either `'('` or `')'`, a **valid parentheses path** is a path that satisfies all of the following:
+
+- The path starts at the top-left cell `(0, 0)`.
+- The path ends at the bottom-right cell `(m - 1, n - 1)`.
+- The path only moves **down** or **right**.
+- The string formed by concatenating the characters on the path is a **valid** parentheses string.
+
+Return `true` if there exists a valid parentheses path in the grid, otherwise return `false`.
+
+**Constraints:**
+
+- `m == grid.length`
+- `n == grid[i].length`
+- `1 <= m, n <= 100`
+- `grid[i][j]` is either `'('` or `')'`.
+
+## Approach
+
+A valid parentheses string is exactly one where every prefix has `count('(') >= count(')')` and the total balance ends at 0. So track the path's **balance** (open minus close).
+
+**DP over (cell, balance):** `dp[i][j][b]` = can we reach cell `(i, j)` with balance `b`. A path from `(0,0)` to `(m-1,n-1)` has length `m + n - 1`, so the balance stays within `[0, m + n - 1]`.
+
+- Start: `grid[0][0]` must be `'('`, giving `dp[0][0][1] = true`.
+- Transition: from `(i, j)` with balance `b`, step right to `(i, j+1)` or down to `(i+1, j)`; a `'('` raises `b` by 1, a `')'` lowers it by 1 (skipping states that would go below 0).
+- Answer: `dp[m-1][n-1][0]`.
+
+Complexity: `O(m·n·(m+n))` time and space — about `100·100·201 ≈ 2·10^6` states, well within limits.
 
 ## Solution
 
 [SourceCode](./solution.js)
-
-## 题意翻译
-
-给定一个由 '(' 和 ')' 组成的 m×n 矩阵，判断是否存在一条从左上角到右下角的路径（只能向右或向下移动），使得路径上的括号组成的字符串是合法的。
-
-## 解题思路
-
-DP。将 '(' 视为 +1，')' 视为 -1。合法括号串要求每个前缀的 balance >= 0，且最终 balance = 0。
-
-- dp[j][b] 表示在当前行第 j 列是否可达 balance b
-- 转移：从上方（prev[j]）或左方（curr[j-1]）转移，加上当前格的 delta
-- 路径长度 m+n-1 必须为偶数，balance 范围 [0, (m+n-1)/2]
-- 最终检查 dp[n-1][0] 是否可达
-
-时间复杂度 O(m × n × (m+n))，空间 O(n × (m+n))

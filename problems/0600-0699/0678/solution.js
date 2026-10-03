@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode id=678 lang=javascript
+ * @lc app=leetcode.cn id=678 lang=javascript
  *
- * [678] Valid Parenthesis String
+ * [678] 有效的括号字符串
  */
 
 // @lc code=start
@@ -10,29 +10,36 @@
  * @return {boolean}
  */
 var checkValidString = function(s) {
-    let lo = 0, hi = 0;
-
-    for (const c of s) {
-        if (c === '(') {
-            lo++;
-            hi++;
-        } else if (c === ')') {
-            lo--;
-            hi--;
-        } else {
-            lo--;
-            hi++;
-        }
-        if (hi < 0) return false;
-        lo = Math.max(lo, 0);
+  let lo = 0;
+  let hi = 0;
+  for (const ch of s) {
+    if (ch === '(') {
+      lo++;
+      hi++;
+    } else if (ch === ')') {
+      lo--;
+      hi--;
+    } else {
+      lo--;
+      hi++;
     }
-
-    return lo === 0;
+    if (hi < 0) return false;
+    if (lo < 0) lo = 0;
+  }
+  return lo === 0;
 };
 // @lc code=end
 
 // TEST:
-console.log(checkValidString("()")); // true
-console.log(checkValidString("(*)")); // true
-console.log(checkValidString("(*))")); // true
-console.log(checkValidString("(")); // false
+const assert = require('assert');
+
+assert.strictEqual(checkValidString('()'), true);
+assert.strictEqual(checkValidString('(*)'), true);
+assert.strictEqual(checkValidString('(*))'), true);
+assert.strictEqual(checkValidString('(*('), false); // trailing unmatched '('
+assert.strictEqual(checkValidString(')'), false);
+assert.strictEqual(checkValidString('*'), true);
+assert.strictEqual(checkValidString('**((**'), true); // '' + '())' mix -> "(())"
+assert.strictEqual(checkValidString('(((*)'), false);
+
+console.log('All tests passed!');

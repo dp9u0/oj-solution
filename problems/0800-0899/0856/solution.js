@@ -1,33 +1,36 @@
 /*
- * @lc app=leetcode id=856 lang=javascript
+ * @lc app=leetcode.cn id=856 lang=javascript
  *
- * [856] Score of Parentheses
+ * [856] 括号的分数
  */
 
 // @lc code=start
 /**
+ * 分数由"核心 ()"（内部为空的括号对）贡献，每个核心 () 贡献 2^depth，
+ * depth 为其被外层括号包裹的层数。
  * @param {string} s
  * @return {number}
  */
 var scoreOfParentheses = function(s) {
-    const stack = [0];
-
-    for (const c of s) {
-        if (c === '(') {
-            stack.push(0);
-        } else {
-            const top = stack.pop();
-            const score = top === 0 ? 1 : 2 * top;
-            stack[stack.length - 1] += score;
-        }
+  let ans = 0;
+  let depth = 0;
+  for (let i = 0; i < s.length; i++) {
+    if (s[i] === '(') {
+      depth++;
+    } else {
+      depth--;
+      if (s[i - 1] === '(') ans += 1 << depth;
     }
-
-    return stack[0];
+  }
+  return ans;
 };
 // @lc code=end
 
 // TEST:
-console.log(scoreOfParentheses("()")); // 1
-console.log(scoreOfParentheses("(())")); // 2
-console.log(scoreOfParentheses("()()")); // 2
-console.log(scoreOfParentheses("(()(()))")); // 6
+console.log(scoreOfParentheses('()')); // 1
+console.log(scoreOfParentheses('(())')); // 2
+console.log(scoreOfParentheses('()()')); // 2
+console.log(scoreOfParentheses('(()(()))')); // 6
+console.log(scoreOfParentheses('((()))')); // 4
+console.log(scoreOfParentheses('(()())')); // 4
+console.log(scoreOfParentheses('()((()))')); // 5

@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode id=1021 lang=javascript
+ * @lc app=leetcode.cn id=1021 lang=javascript
  *
- * [1021] Remove Outermost Parentheses
+ * [1021] 删除最外层的括号
  */
 
 // @lc code=start
@@ -10,26 +10,25 @@
  * @return {string}
  */
 var removeOuterParentheses = function(s) {
-    let result = '';
-    let openCount = 0;
-    
-    for (let i = 0; i < s.length; i++) {
-        if (s[i] === '(') {
-            if (openCount > 0) {  
-                result += s[i];
-            }
-            openCount++;
-        } else {
-            openCount--;
-            if (openCount > 0) {
-                result += s[i];
-            }
-        }
+  const parts = [];
+  let depth = 0;
+  for (const ch of s) {
+    if (ch === '(') {
+      if (depth > 0) parts.push(ch);
+      depth++;
+    } else {
+      depth--;
+      if (depth > 0) parts.push(ch);
     }
-    return result;
+  }
+  return parts.join('');
 };
 // @lc code=end
+
 // TEST:
-console.log(removeOuterParentheses("(()())(())")); // Output: "()()()"
-console.log(removeOuterParentheses("(()())(())(()(()))")); // Output: "()()()()(())"
-console.log(removeOuterParentheses("()()")); // Output: ""  
+console.log(removeOuterParentheses('(()())(())')); // "()()()"
+console.log(removeOuterParentheses('(()())(())(()(()))')); // "()()()()(())"
+console.log(removeOuterParentheses('()()')); // ""
+console.log(removeOuterParentheses('(()())')); // "()()"
+console.log(removeOuterParentheses('((()())(()()))')); // "(()())(()())"
+console.log(removeOuterParentheses('()')); // ""

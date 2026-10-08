@@ -1,69 +1,92 @@
-# [1541] Minimum Insertions to Balance a Parentheses String
+# [1541] 平衡括号字符串的最少插入次数
 
 ## Description
 
-[LeetCode Problem Description](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/description/)
-
-* algorithms
-* Medium (53.48%)
-* Likes:    1269
-* Dislikes: 296
-* Testcase Example:  '"(()))"'
 
 ```md
-Given a parentheses string s containing only the characters &#39;(&#39; and &#39;)&#39;. A parentheses string is balanced if:
+https://leetcode.cn/problems/minimum-insertions-to-balance-a-parentheses-string/description/
+* algorithms
+* Medium (49.93%)
+* Likes:    96
+* Dislikes: -
+* Testcase Example:  '"(()))"'
+给你一个括号字符串 s ，它只包含字符 '(' 和 ')' 。一个括号字符串被称为平衡的当它满足：
+任何左括号 '(' 必须对应两个连续的右括号 '))' 。
+左括号 '(' 必须在对应的连续两个右括号 '))' 之前。
+比方说 "())"， "())(())))" 和 "(())())))" 都是平衡的， ")()"， "()))" 和 "(()))" 都是不平衡的。
+你可以在任意位置插入字符 '(' 和 ')' 使字符串平衡。
+请你返回让 s 平衡的最少插入次数。
 
-Any left parenthesis &#39;(&#39; must have a corresponding two consecutive right parenthesis &#39;))&#39;.
-Left parenthesis &#39;(&#39; must go before the corresponding two consecutive right parenthesis &#39;))&#39;.
+示例 1：
+输入：s = "(()))"
+输出：1
+解释：第二个左括号有与之匹配的两个右括号，但是第一个左括号只有一个右括号。我们需要在字符串结尾额外增加一个 ')' 使字符串变成平衡字符串 "(())))" 。
+示例 2：
+输入：s = "())"
+输出：0
+解释：字符串已经平衡了。
+示例 3：
+输入：s = "))())("
+输出：3
+解释：添加 '(' 去匹配最开头的 '))' ，然后添加 '))' 去匹配最后一个 '(' 。
+示例 4：
+输入：s = "(((((("
+输出：12
+解释：添加 12 个 ')' 得到平衡字符串。
+示例 5：
+输入：s = ")))))))"
+输出：5
+解释：在字符串开头添加 4 个 '(' 并在结尾添加 1 个 ')' ，字符串变成平衡字符串 "(((())))))))" 。
 
-In other words, we treat &#39;(&#39; as an opening parenthesis and &#39;))&#39; as a closing parenthesis.
+提示：
+1 <= s.length <= 10^5
+s 只包含 '(' 和 ')' 。
+Hint 1: Use a stack to keep opening brackets. If you face single closing ')' add 1 to the answer and consider it as '))'.
+Hint 2: If you have '))' with empty stack, add 1 to the answer, If after finishing you have x opening remaining in the stack, add 2x to the answer.
 
-For example, '())', '())(())))' and '(())())))' are balanced, ')()', '()))' and '(()))' are not balanced.
+```
 
-You can insert the characters &#39;(&#39; and &#39;)&#39; at any position of the string to balance it if needed.
-Return the minimum number of insertions needed to make s balanced.
+## Description (English)
 
-Example 1:
+You are given a parentheses string `s` containing only the characters `'('` and `')'`.
 
-Input: s = '(()))'
-Output: 1
-Explanation: The second &#39;(&#39; has two matching &#39;))&#39;, but the first &#39;(&#39; has only &#39;)&#39; matching. We need to add one more &#39;)&#39; at the end of the string to be '(())))' which is balanced.
+A parentheses string is **balanced** if:
 
-Example 2:
+- Any left parenthesis `'('` must have a corresponding **two consecutive** right parentheses `'))'`.
+- Left parenthesis `'('` must go **before** the corresponding two consecutive right parentheses `'))'`.
 
-Input: s = '())'
-Output: 0
-Explanation: The string is already balanced.
+For example, `"())"`, `"())(())))"` and `"(())())))"` are balanced, `")()"`, `"()))"` and `"(()))"` are not balanced.
 
-Example 3:
+You can insert the characters `'('` and `')'` at any position.
 
-Input: s = '))())('
-Output: 3
-Explanation: Add &#39;(&#39; to match the first &#39;))&#39;, Add &#39;))&#39; to match the last &#39;(&#39;.
+Return the minimum number of insertions needed to make `s` balanced.
 
+Example 1: s = "(()))" → 1 (append one ')' → "(())))")
+Example 2: s = "())" → 0 (already balanced)
+Example 3: s = "))())(" → 3
+Example 4: s = "((((((" → 12
+Example 5: s = ")))))))" → 5
 
 Constraints:
 
-1 <= s.length <= 105
-s consists of &#39;(&#39; and &#39;)&#39; only.
+- 1 <= s.length <= 10^5
+- s consists of `'('` and `')'` only.
 
+## Approach
 
-```
+Greedy one-pass scan, O(n) time, O(1) space.
+
+Each `'('` owes exactly two consecutive `')'`. Keep a counter `need` = number of unmatched `'('` so far (each still owes a `'))'`), and `insertions` = insertions used so far.
+
+Scan left to right, consuming `')'` in pairs:
+
+- On `'('`: `need++`.
+- On `')'`: try to consume it together with the following character as a `'))'` pair. If the next character is not `')'` (single `')'` or end of string), we must insert one `')'` right here (`insertions++`) to complete the pair. Then this pair closes one `'('`: `need--`. If `need` goes negative, there are more `'))'` pairs than available `'('`, so insert one `'('` (`insertions++`) and reset `need = 0`.
+
+After the scan, every remaining unmatched `'('` still needs two `')'`: answer = `insertions + 2 * need`.
+
+Why greedy is optimal: when `need < 0`, the cheapest fix for an excess `'))'` is exactly one inserted `'('` (any alternative also needs that `'('` plus more). When a lone `')'` appears, pairing it with one inserted `')'` costs 1, while inserting a `'('` instead would cost 1 now plus 2 more later.
 
 ## Solution
 
 [SourceCode](./solution.js)
-
-## 题目翻译
-
-给定只含 '(' 和 ')' 的字符串，每个 '(' 需要配对两个连续的 '))'。可在任意位置插入字符使其平衡，返回最少插入次数。
-
-## 解题思路
-
-**Approach: 贪心计数**
-
-1. 维护 need 变量表示还需要多少个 ')' 来匹配当前的 '('
-2. 遇到 '(' → need += 2。若 need 为奇数，说明之前有一个孤立的 ')'，需要补一个 ')' 并 need--，insert++
-3. 遇到 ')' → need--。若 need 变为 -1，说明多了一个 ')'，需要补一个 '(' 并 need = 1，insert++
-4. 最终返回 insert + need
-5. 复杂度 O(n)

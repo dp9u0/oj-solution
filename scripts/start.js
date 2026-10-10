@@ -21,13 +21,15 @@ if (common.checkProblemExists(problem)) {
 }
 
 // lc -g 生成的代码文件名带 slug（如 "4051.count-subarrays-with-distant-sums.js"），
+// 前缀题的 fid 空格在生成名中可能是空格或连字符（"LCR 116.ab12cd.js" / "LCR-116.ab12cd.js"），
 // 而工作流约定为 "solving/4051.js"，这里做一次重命名归一化
 function normalizeGeneratedJs(problem, jsPath) {
   if (fs.existsSync(jsPath)) return;
   if (!fs.existsSync('./solving')) return;
-  const prefix = `${problem}.`;
+  const hyphenated = String(problem).replace(/\s+/g, '-');
+  const prefixes = [`${problem}.`, `${hyphenated}.`];
   const generated = fs.readdirSync('./solving')
-    .filter(name => name.startsWith(prefix) && name.endsWith('.js'));
+    .filter(name => prefixes.some(prefix => name.startsWith(prefix)) && name.endsWith('.js'));
   if (generated.length > 0) {
     fs.renameSync(`./solving/${generated[generated.length - 1]}`, jsPath);
   }

@@ -9,7 +9,12 @@ let start = Number(process.argv[2] || '2084');
 problems = problems.filter(p => p.id >= start).sort((a, b) => a.id - b.id);
 let map = new Map();
 problems.forEach(p => { map.set(`${p.fid}`, p) });
-let last = problems[problems.length - 1].fid;
+// 边界取纯数字 fid 的最大值：缓存按内部 id 排序后末位可能是前缀式 fid（如 "LCP 82"），
+// 直接拿它当上界会使 id <= "LCP 82" 永为 false，循环静默零次执行
+let last = problems.reduce((max, p) => {
+  const fid = String(p.fid);
+  return /^\d+$/.test(fid) ? Math.max(max, Number(fid)) : max;
+}, 0);
 for (let id = start; id <= last; id++) {
   let p = map.get(`${id}`);
   if (!p) {

@@ -30,4 +30,5 @@
 | 面试题 17.09 | [第 k 个数](./problems/lcci/17.09/README.md) | :o: | Medium | [dp] |   |
 | 面试题 17.10 | [主要元素](./problems/lcci/17.10/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 面试题 17.15 | [最长单词](./problems/lcci/17.15/README.md) | :o: | Medium | [str],[dp] |   |
+| 面试题 17.20 | [连续中值](./problems/lcci/17.20/README.md) | :o: | Hard | [hp],[des] |   |
 | 面试题 17.25 | [单词矩阵](./problems/lcci/17.25/README.md) | :o: | Hard | [str],[dfs] |   |

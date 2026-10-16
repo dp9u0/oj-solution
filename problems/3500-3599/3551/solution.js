@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode id=3551 lang=javascript
+ * @lc app=leetcode.cn id=3551 lang=javascript
  *
- * [3551] Minimum Swaps to Sort by Digit Sum
+ * [3551] 数位和排序需要的最小交换次数
  */
 
 // @lc code=start
@@ -10,28 +10,36 @@
  * @return {number}
  */
 var minSwaps = function(nums) {
-    const n = nums.length;
-    const digitSum = (x) => {
-        let s = 0;
-        while (x > 0) { s += x % 10; x = (x / 10) | 0; }
-        return s;
-    };
-
-    const arr = nums.map((v, i) => [digitSum(v), v, i]);
-    arr.sort((a, b) => a[0] - b[0] || a[1] - b[1]);
-
-    const pos = new Array(n);
-    for (let i = 0; i < n; i++) pos[arr[i][2]] = i;
-
-    const visited = new Uint8Array(n);
-    let swaps = 0;
-    for (let i = 0; i < n; i++) {
-        if (visited[i] || pos[i] === i) continue;
-        let len = 0, j = i;
-        while (!visited[j]) { visited[j] = 1; j = pos[j]; len++; }
-        swaps += len - 1;
+  const n = nums.length;
+  const digitSum = (num) => {
+    let sum = 0;
+    while (num > 0) {
+      sum += num % 10;
+      num = Math.floor(num / 10);
     }
-    return swaps;
+    return sum;
+  };
+  const sumOf = new Map();
+  for (const num of nums) sumOf.set(num, digitSum(num));
+  const sorted = [...nums].sort((a, b) => sumOf.get(a) - sumOf.get(b) || a - b);
+  const pos = new Map();
+  for (let i = 0; i < n; i++) pos.set(sorted[i], i);
+
+  const target = new Array(n);
+  for (let i = 0; i < n; i++) target[i] = pos.get(nums[i]);
+
+  const visited = new Array(n).fill(false);
+  let swaps = 0;
+  for (let i = 0; i < n; i++) {
+    if (visited[i]) continue;
+    let len = 0;
+    for (let j = i; !visited[j]; j = target[j]) {
+      visited[j] = true;
+      len++;
+    }
+    swaps += len - 1;
+  }
+  return swaps;
 };
 // @lc code=end
 
@@ -39,7 +47,6 @@ var minSwaps = function(nums) {
 console.log(minSwaps([37, 100])); // 1
 console.log(minSwaps([22, 14, 33, 7])); // 0
 console.log(minSwaps([18, 43, 34, 16])); // 2
-console.log(minSwaps([1])); // 0
-console.log(minSwaps([5, 3, 1, 4, 2])); // check sorted by digit sum
-console.log(minSwaps([10, 20, 30, 40, 50])); // 0 (already sorted)
-console.log(minSwaps([1000000000, 999999999, 1])); // large numbers
+console.log(minSwaps([5])); // 0
+console.log(minSwaps([10, 1, 100, 1000])); // 1
+console.log(minSwaps([999999999, 1, 1000000000])); // 2

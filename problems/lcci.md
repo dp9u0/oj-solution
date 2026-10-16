@@ -16,6 +16,7 @@
 | 面试题 04.09 | [二叉搜索树序列](./problems/lcci/04.09/README.md) | :o: | Hard | [tr],[dfs] |   |
 | 面试题 05.02 | [二进制数转字符串](./problems/lcci/05.02/README.md) | :o: | Medium | [bit],[str] |   |
 | 面试题 05.06 | [整数转换](./problems/lcci/05.06/README.md) | :o: | Easy | [bit] |   |
+| 面试题 05.07 | [配对交换](./problems/lcci/05.07/README.md) | :o: | Easy | [bit] |   |
 | 面试题 05.08 | [绘制直线](./problems/lcci/05.08/README.md) | :o: | Medium | [bit],[arr] |   |
 | 面试题 08.02 | [迷路的机器人](./problems/lcci/08.02/README.md) | :o: | Medium | [dfs],[dp] |   |
 | 面试题 08.07 | [无重复字符串的排列组合](./problems/lcci/08.07/README.md) | :o: | Medium | [bt] |   |

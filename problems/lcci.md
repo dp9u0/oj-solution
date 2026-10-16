@@ -13,6 +13,7 @@
 | 面试题 05.06 | [整数转换](./problems/lcci/05.06/README.md) | :o: | Easy | [bit] |   |
 | 面试题 05.08 | [绘制直线](./problems/lcci/05.08/README.md) | :o: | Medium | [bit],[arr] |   |
 | 面试题 08.02 | [迷路的机器人](./problems/lcci/08.02/README.md) | :o: | Medium | [dfs],[dp] |   |
+| 面试题 08.07 | [无重复字符串的排列组合](./problems/lcci/08.07/README.md) | :o: | Medium | [bt] |   |
 | 面试题 08.13 | [堆箱子](./problems/lcci/08.13/README.md) | :o: | Hard | [dp],[arr] |   |
 | 面试题 08.14 | [布尔运算](./problems/lcci/08.14/README.md) | :o: | Medium | [dp],[dc] |   |
 | 面试题 16.11 | [跳水板](./problems/lcci/16.11/README.md) | :o: | Easy | [math],[arr] |   |

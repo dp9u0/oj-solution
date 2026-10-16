@@ -17,7 +17,7 @@
     "listm": "lc list -t algorithms -q LDm -s",
     "listh": "lc list -t algorithms -q LDh -s",
     "listi": "lc list -t lcci -q LD -s",
-    "stat": "lc stat --no-lock -t algorithms -g && lc stat --no-lock -t algorithms"
+    "stat": "lc stat --no-lock -t algorithms -g && lc stat --no-lock -t algorithms && lc stat --no-lock -t lcci -g && lc stat --no-lock -t lcci"
   },
   "author": "",
   "license": "MIT"

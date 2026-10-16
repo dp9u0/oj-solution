@@ -18,6 +18,7 @@
 | 面试题 08.14 | [布尔运算](./problems/lcci/08.14/README.md) | :o: | Medium | [dp],[dc] |   |
 | 面试题 16.11 | [跳水板](./problems/lcci/16.11/README.md) | :o: | Easy | [math],[arr] |   |
 | 面试题 16.15 | [珠玑妙算](./problems/lcci/16.15/README.md) | :o: | Easy | [hsh] |   |
+| 面试题 16.21 | [交换和](./problems/lcci/16.21/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 面试题 16.22 | [兰顿蚂蚁](./problems/lcci/16.22/README.md) | :o: | Medium | [lgc],[hsh] |   |
 | 面试题 17.04 | [消失的数字](./problems/lcci/17.04/README.md) | :o: | Easy | [arr],[bit] |   |
 | 面试题 17.05 | [ 字母与数字](./problems/lcci/17.05/README.md) | :o: | Medium | [arr],[hsh] |   |

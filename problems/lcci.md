@@ -36,6 +36,7 @@
 | 面试题 17.09 | [第 k 个数](./problems/lcci/17.09/README.md) | :o: | Medium | [dp] |   |
 | 面试题 17.10 | [主要元素](./problems/lcci/17.10/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 面试题 17.12 | [BiNode](./problems/lcci/17.12/README.md) | :o: | Easy | [tr],[q] |   |
+| 面试题 17.13 | [恢复空格](./problems/lcci/17.13/README.md) | :o: | Medium | [dp],[str] |   |
 | 面试题 17.15 | [最长单词](./problems/lcci/17.15/README.md) | :o: | Medium | [str],[dp] |   |
 | 面试题 17.18 | [最短超串](./problems/lcci/17.18/README.md) | :o: | Medium | [arr],[sd] |   |
 | 面试题 17.20 | [连续中值](./problems/lcci/17.20/README.md) | :o: | Hard | [hp],[des] |   |

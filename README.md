@@ -123,3 +123,4 @@ pnpm run ok [tr] # finished and set topic 'tree'
 | LCP       | [LCP](./problems/lcp.md)              |
 | LCR       | [LCR](./problems/lcr.md)              |
 | LCS       | [LCS](./problems/lcs.md)              |
+| LCCI      | [LCCI](./problems/lcci.md)            |

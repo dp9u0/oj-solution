@@ -16,6 +16,7 @@
     "liste": "lc list -t algorithms -q LDe -s",
     "listm": "lc list -t algorithms -q LDm -s",
     "listh": "lc list -t algorithms -q LDh -s",
+    "listi": "lc list -t lcci -q LD -s",
     "stat": "lc stat --no-lock -t algorithms -g && lc stat --no-lock -t algorithms"
   },
   "author": "",

@@ -1,6 +1,8 @@
 const { exec } = require('child_process');
 
-const LIST_COMMAND = 'pnpm run list';
+// 默认从面试算法题(面试题 XX.YY)池抽题——algorithms 免费题已全部 AC，剩余未做均为锁题；
+// 传 "algorithms" 时切回普通算法题池
+const LIST_COMMAND = process.argv[2] === 'algorithms' ? 'pnpm run list' : 'pnpm run listi';
 
 exec(LIST_COMMAND, (err, stdout, stderr) => {
   if (err) {
@@ -15,22 +17,22 @@ exec(LIST_COMMAND, (err, stdout, stderr) => {
   const problems = [];
 
   for (const line of lines) {
-    // 兼容两种题号格式：
+    // 兼容三种题号格式：
     //   纯数字：[ 4041 ] 构造子集和的最少操作次数 II ... Hard
     //   前缀：  [LCP 82] 万灵之树 ... Hard
+    //   面试题：[面试题 17.26] 稀疏相似度 ... Hard
     // 行首可能有 ★/🔒/✔ 等图标，故不锚定行首。
-    const match = line.match(/\[\s*([A-Z]*\s*\d+)\s*\]\s+(.+?)\s{2,}(Easy|Medium|Hard)\b/);
+    const match = line.match(/\[\s*([^\]]+?)\s*\]\s+(.+?)\s{2,}(Easy|Medium|Hard)\b/);
     if (!match) {
       continue;
     }
 
-    // 题号格式化：纯数字去空格(4041)，前缀题保留前缀与数字的空格(LCR 052)
+    // 题号格式化：去掉方括号内的空白后，纯数字直接用(4041)，
+    // 前缀题在前缀与数字间补单个空格('LCR052'→'LCR 052'、'面试题17.26'→'面试题 17.26')
     // 因为 lc show 需要 'LCR 052' 这种带空格格式，'LCR052' 无法识别
-    let id = match[1].replace(/\s+/g, '');
-    const idMatch = id.match(/^([A-Z]+)(\d+)$/);
-    if (idMatch) {
-      id = `${idMatch[1]} ${idMatch[2]}`;
-    }
+    const compact = match[1].replace(/\s+/g, '');
+    const idMatch = compact.match(/^([^\d]+)(\d[\d.]*)$/);
+    const id = idMatch ? `${idMatch[1]} ${idMatch[2]}` : compact;
 
     problems.push({
       id,

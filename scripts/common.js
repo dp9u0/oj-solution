@@ -72,14 +72,19 @@ module.exports.getMdPath = function (problem) {
   return mdPath;
 }
 
-// 解析题号："LCR 043" → { prefix: 'lcr', num: '043' }；纯数字 "4041" → { prefix: null, num: '4041' }
+// 解析题号："LCR 043" → { prefix: 'lcr', num: '043' }；"面试题 17.26" → { prefix: 'lcci', num: '17.26' }；
+// 纯数字 "4041" → { prefix: null, num: '4041' }
+// 面试题的题号前缀是中文且段号含点，归档目录/分块表沿用 lc 分类名 lcci（与 lcp/lcr/lcs 小写约定一致）
 function parseProblemId(problem) {
-  const m = String(problem).trim().match(/^([A-Za-z]+)\s+(\d+)$/);
-  if (m) return { prefix: m[1].toLowerCase(), num: m[2] };
+  const m = String(problem).trim().match(/^([^\s\d]+)\s+(\d+(?:\.\d+)*)$/);
+  if (m) {
+    const prefix = m[1] === '面试题' ? 'lcci' : m[1].toLowerCase();
+    return { prefix, num: m[2] };
+  }
   return { prefix: null, num: String(problem).trim() };
 }
 
-// 归档目录：前缀题(LCP/LCR/LCS) → ./problems/<prefix>/<num>，纯数字 → ./problems/<range>/<4位题号>
+// 归档目录：前缀题(LCP/LCR/LCS/面试题) → ./problems/<prefix>/<num>，纯数字 → ./problems/<range>/<4位题号>
 function targetPath(problem, file) {
   const { prefix, num } = parseProblemId(problem);
   const dir = prefix
@@ -167,7 +172,7 @@ module.exports.creteMarkdown = function (data) {
 function getChunkFilePath(problem) {
   const { prefix, num } = parseProblemId(problem);
   if (prefix) {
-    // 前缀题(LCP/LCR/LCS)归档到独立的 problems/<prefix>.md 表
+    // 前缀题(LCP/LCR/LCS/面试题)归档到独立的 problems/<prefix>.md 表
     return `${PROBLEMS_DIR}/${prefix}.md`;
   }
   let pre = ~~(Number(num) / 100);
@@ -176,17 +181,24 @@ function getChunkFilePath(problem) {
   return `${PROBLEMS_DIR}/${start}-${end}.md`;
 }
 
-// 从表格数据行提取题号数字用于排序："| LCP 03 | ..." → 3；"| 4041 | ..." → 4041
+// 从表格数据行提取题号数字用于排序："| LCP 03 | ..." → [3]；"| 面试题 17.26 | ..." → [17, 26]；"| 4041 | ..." → [4041]
 function rowSeq(line) {
-  const m = line.match(/^\|\s*(?:[A-Z]+\s+)?(\d+)\s*\|/);
-  return m ? Number(m[1]) : null;
+  const m = line.match(/^\|\s*(?:\S+\s+)?(\d+(?:\.\d+)*)\s*\|/);
+  return m ? m[1].split('.').map(Number) : null;
 }
 
-// 表格数据行按题号升序排序
+// 表格数据行按题号升序排序；分段题号(面试题 XX.YY)逐段比较，保证 01.02 < 02.01
 function sortDataLines(lines) {
+  const cmp = (a, b) => {
+    for (let i = 0; i < Math.max(a.length, b.length); i++) {
+      const d = (a[i] || 0) - (b[i] || 0);
+      if (d !== 0) return d;
+    }
+    return 0;
+  };
   return lines
     .map(line => ({ seq: rowSeq(line), line }))
-    .sort((a, b) => a.seq - b.seq)
+    .sort((a, b) => cmp(a.seq || [], b.seq || []))
     .map(x => x.line);
 }
 

@@ -1,17 +1,17 @@
 const fs = require('fs');
 const path = require('path');
 
-// 对 problems/lcp.md、lcr.md、lcs.md 表按题号排序
+// 对 problems/lcp.md、lcr.md、lcs.md、lcci.md 表按题号排序
 // 这些表由 updateReadme 追加生成,题号顺序与完成顺序一致而非数字顺序,此处修正。
 const problemsDir = path.join(__dirname, '..', 'problems');
 
-// 提取行首的题号数字: "| LCP 03 | ..." → 3
+// 提取行首的题号数字: "| LCP 03 | ..." → 3；"| 面试题 01.01 | ..." → 1.01
 function rowSeq(line) {
-  const m = line.match(/^\|\s*[A-Z]+\s+(\d+)\s*\|/);
+  const m = line.match(/^\|\s*(?:[A-Z]+|面试题)\s+(\d+(?:\.\d+)*)\s*\|/);
   return m ? Number(m[1]) : null;
 }
 
-for (const prefix of ['lcp', 'lcr', 'lcs']) {
+for (const prefix of ['lcp', 'lcr', 'lcs', 'lcci']) {
   const filePath = path.join(problemsDir, `${prefix}.md`);
   if (!fs.existsSync(filePath)) continue;
 

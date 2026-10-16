@@ -15,6 +15,7 @@ pnpm run push                     # Submit solution to LeetCode
 pnpm run ok [tags]                # Complete: move to problems/, update README table
 pnpm run debug                    # Run solution.js locally with Node
 pnpm run list                     # List unsolved problems (algorithms, by difficulty)
+pnpm run listi                    # List unsolved interview problems (面试题, category lcci)
 pnpm run stat                     # Show solving statistics
 ```
 

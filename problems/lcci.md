@@ -18,6 +18,7 @@
 | 面试题 16.11 | [跳水板](./problems/lcci/16.11/README.md) | :o: | Easy | [math],[arr] |   |
 | 面试题 16.22 | [兰顿蚂蚁](./problems/lcci/16.22/README.md) | :o: | Medium | [lgc],[hsh] |   |
 | 面试题 17.04 | [消失的数字](./problems/lcci/17.04/README.md) | :o: | Easy | [arr],[bit] |   |
+| 面试题 17.05 | [ 字母与数字](./problems/lcci/17.05/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 面试题 17.06 | [2出现的次数](./problems/lcci/17.06/README.md) | :o: | Hard | [math],[lgc] |   |
 | 面试题 17.08 | [马戏团人塔](./problems/lcci/17.08/README.md) | :o: | Medium | [dp],[bs] |   |
 | 面试题 17.09 | [第 k 个数](./problems/lcci/17.09/README.md) | :o: | Medium | [dp] |   |

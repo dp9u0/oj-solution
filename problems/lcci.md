@@ -5,6 +5,7 @@
 | 面试题 01.04 | [回文排列](./problems/lcci/01.04/README.md) | :o: | Easy | [str],[hsh] |   |
 | 面试题 01.08 | [零矩阵](./problems/lcci/01.08/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 面试题 02.01 | [移除重复节点](./problems/lcci/02.01/README.md) | :o: | Easy | [ll],[hsh] |   |
+| 面试题 02.04 | [分割链表](./problems/lcci/02.04/README.md) | :o: | Medium | [ll],[tp] |   |
 | 面试题 02.05 | [链表求和](./problems/lcci/02.05/README.md) | :o: | Medium | [ll],[math] |   |
 | 面试题 03.04 | [化栈为队](./problems/lcci/03.04/README.md) | :o: | Easy | [ds],[stk] |   |
 | 面试题 04.01 | [节点间通路](./problems/lcci/04.01/README.md) | :o: | Medium | [grf] |   |

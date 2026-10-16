@@ -9,6 +9,7 @@
 | 面试题 02.05 | [链表求和](./problems/lcci/02.05/README.md) | :o: | Medium | [ll],[math] |   |
 | 面试题 03.04 | [化栈为队](./problems/lcci/03.04/README.md) | :o: | Easy | [ds],[stk] |   |
 | 面试题 04.01 | [节点间通路](./problems/lcci/04.01/README.md) | :o: | Medium | [grf] |   |
+| 面试题 04.08 | [首个共同祖先](./problems/lcci/04.08/README.md) | :o: | Medium | [tr],[dfs] |   |
 | 面试题 04.09 | [二叉搜索树序列](./problems/lcci/04.09/README.md) | :o: | Hard | [tr],[dfs] |   |
 | 面试题 05.06 | [整数转换](./problems/lcci/05.06/README.md) | :o: | Easy | [bit] |   |
 | 面试题 05.08 | [绘制直线](./problems/lcci/05.08/README.md) | :o: | Medium | [bit],[arr] |   |

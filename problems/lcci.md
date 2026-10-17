@@ -14,6 +14,7 @@
 | 面试题 02.04 | [分割链表](./problems/lcci/02.04/README.md) | :o: | Medium | [ll],[tp] |   |
 | 面试题 02.05 | [链表求和](./problems/lcci/02.05/README.md) | :o: | Medium | [ll],[math] |   |
 | 面试题 02.06 | [回文链表](./problems/lcci/02.06/README.md) | :o: | Easy | [ll],[tp] |   |
+| 面试题 03.01 | [三合一](./problems/lcci/03.01/README.md) | :o: | Easy | [des],[stk] |   |
 | 面试题 03.02 | [栈的最小值](./problems/lcci/03.02/README.md) | :o: | Easy | [des],[stk] |   |
 | 面试题 03.04 | [化栈为队](./problems/lcci/03.04/README.md) | :o: | Easy | [ds],[stk] |   |
 | 面试题 03.05 | [栈排序](./problems/lcci/03.05/README.md) | :o: | Medium | [des],[stk] |   |

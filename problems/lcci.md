@@ -50,4 +50,5 @@
 | 面试题 17.18 | [最短超串](./problems/lcci/17.18/README.md) | :o: | Medium | [arr],[sd] |   |
 | 面试题 17.20 | [连续中值](./problems/lcci/17.20/README.md) | :o: | Hard | [hp],[des] |   |
 | 面试题 17.21 | [直方图的水量](./problems/lcci/17.21/README.md) | :o: | Hard | [arr],[tp] |   |
+| 面试题 17.22 | [单词转换](./problems/lcci/17.22/README.md) | :o: | Medium | [grf],[bfs] |   |
 | 面试题 17.25 | [单词矩阵](./problems/lcci/17.25/README.md) | :o: | Hard | [str],[dfs] |   |

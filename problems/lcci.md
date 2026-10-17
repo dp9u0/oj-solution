@@ -79,6 +79,7 @@
 | 面试题 17.15 | [最长单词](./problems/lcci/17.15/README.md) | :o: | Medium | [str],[dp] |   |
 | 面试题 17.17 | [多次搜索](./problems/lcci/17.17/README.md) | :o: | Medium | [str],[tr] |   |
 | 面试题 17.18 | [最短超串](./problems/lcci/17.18/README.md) | :o: | Medium | [arr],[sd] |   |
+| 面试题 17.19 | [消失的两个数字](./problems/lcci/17.19/README.md) | :o: | Hard | [math],[lgc] |   |
 | 面试题 17.20 | [连续中值](./problems/lcci/17.20/README.md) | :o: | Hard | [hp],[des] |   |
 | 面试题 17.21 | [直方图的水量](./problems/lcci/17.21/README.md) | :o: | Hard | [arr],[tp] |   |
 | 面试题 17.22 | [单词转换](./problems/lcci/17.22/README.md) | :o: | Medium | [grf],[bfs] |   |

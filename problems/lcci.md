@@ -55,6 +55,7 @@
 | 面试题 16.02 | [单词频率](./problems/lcci/16.02/README.md) | :o: | Medium | [des],[hsh] |   |
 | 面试题 16.03 | [交点](./problems/lcci/16.03/README.md) | :o: | Hard | [grf],[math] |   |
 | 面试题 16.06 | [最小差](./problems/lcci/16.06/README.md) | :o: | Medium | [arr],[tp] |   |
+| 面试题 16.09 | [运算](./problems/lcci/16.09/README.md) | :o: | Medium | [lgc],[math] |   |
 | 面试题 16.10 | [生存人数](./problems/lcci/16.10/README.md) | :o: | Medium | [arr],[lgc] |   |
 | 面试题 16.11 | [跳水板](./problems/lcci/16.11/README.md) | :o: | Easy | [math],[arr] |   |
 | 面试题 16.14 | [最佳直线](./problems/lcci/16.14/README.md) | :o: | Medium | [arr],[hsh] |   |

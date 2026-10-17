@@ -25,6 +25,7 @@
 | 面试题 08.07 | [无重复字符串的排列组合](./problems/lcci/08.07/README.md) | :o: | Medium | [bt] |   |
 | 面试题 08.13 | [堆箱子](./problems/lcci/08.13/README.md) | :o: | Hard | [dp],[arr] |   |
 | 面试题 08.14 | [布尔运算](./problems/lcci/08.14/README.md) | :o: | Medium | [dp],[dc] |   |
+| 面试题 10.02 | [变位词组](./problems/lcci/10.02/README.md) | :o: | Medium | [hsh],[str] |   |
 | 面试题 10.09 | [排序矩阵查找](./problems/lcci/10.09/README.md) | :o: | Medium | [arr],[bs] |   |
 | 面试题 16.11 | [跳水板](./problems/lcci/16.11/README.md) | :o: | Easy | [math],[arr] |   |
 | 面试题 16.15 | [珠玑妙算](./problems/lcci/16.15/README.md) | :o: | Easy | [hsh] |   |

@@ -51,6 +51,7 @@
 | 面试题 16.14 | [最佳直线](./problems/lcci/16.14/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 面试题 16.15 | [珠玑妙算](./problems/lcci/16.15/README.md) | :o: | Easy | [hsh] |   |
 | 面试题 16.16 | [部分排序](./problems/lcci/16.16/README.md) | :o: | Medium | [arr],[tp] |   |
+| 面试题 16.18 | [模式匹配](./problems/lcci/16.18/README.md) | :o: | Medium | [str] |   |
 | 面试题 16.19 | [水域大小](./problems/lcci/16.19/README.md) | :o: | Medium | [bfs],[arr] |   |
 | 面试题 16.20 | [T9键盘](./problems/lcci/16.20/README.md) | :o: | Medium | [str],[hsh] |   |
 | 面试题 16.21 | [交换和](./problems/lcci/16.21/README.md) | :o: | Medium | [arr],[hsh] |   |

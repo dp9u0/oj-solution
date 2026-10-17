@@ -21,6 +21,7 @@
 | 面试题 04.01 | [节点间通路](./problems/lcci/04.01/README.md) | :o: | Medium | [grf] |   |
 | 面试题 04.02 | [最小高度树](./problems/lcci/04.02/README.md) | :o: | Easy | [tr],[dc] |   |
 | 面试题 04.03 | [特定深度节点链表](./problems/lcci/04.03/README.md) | :o: | Medium | [tr],[bfs] |   |
+| 面试题 04.04 | [检查平衡性](./problems/lcci/04.04/README.md) | :o: | Easy | [tr],[dfs] |   |
 | 面试题 04.05 | [合法二叉搜索树](./problems/lcci/04.05/README.md) | :o: | Medium | [tr],[dfs] |   |
 | 面试题 04.06 | [后继者](./problems/lcci/04.06/README.md) | :o: | Medium | [tr],[bs] |   |
 | 面试题 04.08 | [首个共同祖先](./problems/lcci/04.08/README.md) | :o: | Medium | [tr],[dfs] |   |

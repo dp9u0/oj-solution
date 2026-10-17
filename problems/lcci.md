@@ -76,6 +76,7 @@
 | 面试题 17.11 | [单词距离](./problems/lcci/17.11/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 面试题 17.12 | [BiNode](./problems/lcci/17.12/README.md) | :o: | Easy | [tr],[q] |   |
 | 面试题 17.13 | [恢复空格](./problems/lcci/17.13/README.md) | :o: | Medium | [dp],[str] |   |
+| 面试题 17.14 | [最小K个数](./problems/lcci/17.14/README.md) | :o: | Medium | [arr],[dc] |   |
 | 面试题 17.15 | [最长单词](./problems/lcci/17.15/README.md) | :o: | Medium | [str],[dp] |   |
 | 面试题 17.17 | [多次搜索](./problems/lcci/17.17/README.md) | :o: | Medium | [str],[tr] |   |
 | 面试题 17.18 | [最短超串](./problems/lcci/17.18/README.md) | :o: | Medium | [arr],[sd] |   |

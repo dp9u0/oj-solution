@@ -46,6 +46,7 @@
 | 面试题 10.03 | [搜索旋转数组](./problems/lcci/10.03/README.md) | :o: | Medium | [arr] |   |
 | 面试题 10.05 | [稀疏数组搜索](./problems/lcci/10.05/README.md) | :o: | Easy | [arr],[bs] |   |
 | 面试题 10.09 | [排序矩阵查找](./problems/lcci/10.09/README.md) | :o: | Medium | [arr],[bs] |   |
+| 面试题 10.10 | [数字流的秩](./problems/lcci/10.10/README.md) | :o: | Medium | [des],[bs] |   |
 | 面试题 16.11 | [跳水板](./problems/lcci/16.11/README.md) | :o: | Easy | [math],[arr] |   |
 | 面试题 16.14 | [最佳直线](./problems/lcci/16.14/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 面试题 16.15 | [珠玑妙算](./problems/lcci/16.15/README.md) | :o: | Easy | [hsh] |   |

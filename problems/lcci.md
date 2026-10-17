@@ -18,6 +18,7 @@
 | 面试题 04.10 | [检查子树](./problems/lcci/04.10/README.md) | :o: | Medium | [tr],[dfs] |   |
 | 面试题 05.01 | [插入](./problems/lcci/05.01/README.md) | :o: | Easy | [bit] |   |
 | 面试题 05.02 | [二进制数转字符串](./problems/lcci/05.02/README.md) | :o: | Medium | [bit],[str] |   |
+| 面试题 05.03 | [翻转数位](./problems/lcci/05.03/README.md) | :o: | Easy | [bit] |   |
 | 面试题 05.06 | [整数转换](./problems/lcci/05.06/README.md) | :o: | Easy | [bit] |   |
 | 面试题 05.07 | [配对交换](./problems/lcci/05.07/README.md) | :o: | Easy | [bit] |   |
 | 面试题 05.08 | [绘制直线](./problems/lcci/05.08/README.md) | :o: | Medium | [bit],[arr] |   |

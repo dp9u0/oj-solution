@@ -42,6 +42,7 @@
 | 面试题 08.13 | [堆箱子](./problems/lcci/08.13/README.md) | :o: | Hard | [dp],[arr] |   |
 | 面试题 08.14 | [布尔运算](./problems/lcci/08.14/README.md) | :o: | Medium | [dp],[dc] |   |
 | 面试题 10.02 | [变位词组](./problems/lcci/10.02/README.md) | :o: | Medium | [hsh],[str] |   |
+| 面试题 10.03 | [搜索旋转数组](./problems/lcci/10.03/README.md) | :o: | Medium | [arr] |   |
 | 面试题 10.05 | [稀疏数组搜索](./problems/lcci/10.05/README.md) | :o: | Easy | [arr],[bs] |   |
 | 面试题 10.09 | [排序矩阵查找](./problems/lcci/10.09/README.md) | :o: | Medium | [arr],[bs] |   |
 | 面试题 16.11 | [跳水板](./problems/lcci/16.11/README.md) | :o: | Easy | [math],[arr] |   |

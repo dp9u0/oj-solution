@@ -9,6 +9,7 @@
 | 面试题 01.06 | [字符串压缩](./problems/lcci/01.06/README.md) | :o: | Easy | [str] |   |
 | 面试题 01.07 | [旋转矩阵](./problems/lcci/01.07/README.md) | :o: | Medium | [arr] |   |
 | 面试题 01.08 | [零矩阵](./problems/lcci/01.08/README.md) | :o: | Medium | [arr],[hsh] |   |
+| 面试题 01.09 | [字符串轮转](./problems/lcci/01.09/README.md) | :o: | Easy | [str] |   |
 | 面试题 02.01 | [移除重复节点](./problems/lcci/02.01/README.md) | :o: | Easy | [ll],[hsh] |   |
 | 面试题 02.04 | [分割链表](./problems/lcci/02.04/README.md) | :o: | Medium | [ll],[tp] |   |
 | 面试题 02.05 | [链表求和](./problems/lcci/02.05/README.md) | :o: | Medium | [ll],[math] |   |

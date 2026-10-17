@@ -62,3 +62,4 @@
 | 面试题 17.21 | [直方图的水量](./problems/lcci/17.21/README.md) | :o: | Hard | [arr],[tp] |   |
 | 面试题 17.22 | [单词转换](./problems/lcci/17.22/README.md) | :o: | Medium | [grf],[bfs] |   |
 | 面试题 17.25 | [单词矩阵](./problems/lcci/17.25/README.md) | :o: | Hard | [str],[dfs] |   |
+| 面试题 17.26 | [稀疏相似度](./problems/lcci/17.26/README.md) | :o: | Hard | [hsh] |   |

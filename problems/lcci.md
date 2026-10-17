@@ -36,6 +36,7 @@
 | 面试题 05.08 | [绘制直线](./problems/lcci/05.08/README.md) | :o: | Medium | [bit],[arr] |   |
 | 面试题 08.02 | [迷路的机器人](./problems/lcci/08.02/README.md) | :o: | Medium | [dfs],[dp] |   |
 | 面试题 08.03 | [魔术索引](./problems/lcci/08.03/README.md) | :o: | Easy | [arr],[lgc] |   |
+| 面试题 08.04 | [幂集](./problems/lcci/08.04/README.md) | :o: | Medium | [bt] |   |
 | 面试题 08.05 | [递归乘法](./problems/lcci/08.05/README.md) | :o: | Medium | [dc] |   |
 | 面试题 08.06 | [汉诺塔问题](./problems/lcci/08.06/README.md) | :o: | Easy | [bt] |   |
 | 面试题 08.07 | [无重复字符串的排列组合](./problems/lcci/08.07/README.md) | :o: | Medium | [bt] |   |

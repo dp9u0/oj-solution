@@ -14,6 +14,7 @@
 | 面试题 04.06 | [后继者](./problems/lcci/04.06/README.md) | :o: | Medium | [tr],[bs] |   |
 | 面试题 04.08 | [首个共同祖先](./problems/lcci/04.08/README.md) | :o: | Medium | [tr],[dfs] |   |
 | 面试题 04.09 | [二叉搜索树序列](./problems/lcci/04.09/README.md) | :o: | Hard | [tr],[dfs] |   |
+| 面试题 04.10 | [检查子树](./problems/lcci/04.10/README.md) | :o: | Medium | [tr],[dfs] |   |
 | 面试题 05.02 | [二进制数转字符串](./problems/lcci/05.02/README.md) | :o: | Medium | [bit],[str] |   |
 | 面试题 05.06 | [整数转换](./problems/lcci/05.06/README.md) | :o: | Easy | [bit] |   |
 | 面试题 05.07 | [配对交换](./problems/lcci/05.07/README.md) | :o: | Easy | [bit] |   |

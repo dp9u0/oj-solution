@@ -70,6 +70,7 @@
 | 面试题 17.08 | [马戏团人塔](./problems/lcci/17.08/README.md) | :o: | Medium | [dp],[bs] |   |
 | 面试题 17.09 | [第 k 个数](./problems/lcci/17.09/README.md) | :o: | Medium | [dp] |   |
 | 面试题 17.10 | [主要元素](./problems/lcci/17.10/README.md) | :o: | Easy | [arr],[lgc] |   |
+| 面试题 17.11 | [单词距离](./problems/lcci/17.11/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 面试题 17.12 | [BiNode](./problems/lcci/17.12/README.md) | :o: | Easy | [tr],[q] |   |
 | 面试题 17.13 | [恢复空格](./problems/lcci/17.13/README.md) | :o: | Medium | [dp],[str] |   |
 | 面试题 17.15 | [最长单词](./problems/lcci/17.15/README.md) | :o: | Medium | [str],[dp] |   |

@@ -34,6 +34,7 @@
 | 面试题 10.02 | [变位词组](./problems/lcci/10.02/README.md) | :o: | Medium | [hsh],[str] |   |
 | 面试题 10.09 | [排序矩阵查找](./problems/lcci/10.09/README.md) | :o: | Medium | [arr],[bs] |   |
 | 面试题 16.11 | [跳水板](./problems/lcci/16.11/README.md) | :o: | Easy | [math],[arr] |   |
+| 面试题 16.14 | [最佳直线](./problems/lcci/16.14/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 面试题 16.15 | [珠玑妙算](./problems/lcci/16.15/README.md) | :o: | Easy | [hsh] |   |
 | 面试题 16.16 | [部分排序](./problems/lcci/16.16/README.md) | :o: | Medium | [arr],[tp] |   |
 | 面试题 16.19 | [水域大小](./problems/lcci/16.19/README.md) | :o: | Medium | [bfs],[arr] |   |

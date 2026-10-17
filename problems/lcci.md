@@ -32,6 +32,7 @@
 | 面试题 08.03 | [魔术索引](./problems/lcci/08.03/README.md) | :o: | Easy | [arr],[lgc] |   |
 | 面试题 08.06 | [汉诺塔问题](./problems/lcci/08.06/README.md) | :o: | Easy | [bt] |   |
 | 面试题 08.07 | [无重复字符串的排列组合](./problems/lcci/08.07/README.md) | :o: | Medium | [bt] |   |
+| 面试题 08.11 | [硬币](./problems/lcci/08.11/README.md) | :o: | Medium | [dp] |   |
 | 面试题 08.12 | [八皇后](./problems/lcci/08.12/README.md) | :o: | Hard | [bt] |   |
 | 面试题 08.13 | [堆箱子](./problems/lcci/08.13/README.md) | :o: | Hard | [dp],[arr] |   |
 | 面试题 08.14 | [布尔运算](./problems/lcci/08.14/README.md) | :o: | Medium | [dp],[dc] |   |

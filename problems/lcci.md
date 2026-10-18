@@ -99,6 +99,7 @@
 | 面试题 17.13 | [恢复空格](./problems/lcci/17.13/README.md) | :o: | Medium | [dp],[str] |   |
 | 面试题 17.14 | [最小K个数](./problems/lcci/17.14/README.md) | :o: | Medium | [arr],[dc] |   |
 | 面试题 17.15 | [最长单词](./problems/lcci/17.15/README.md) | :o: | Medium | [str],[dp] |   |
+| 面试题 17.16 | [按摩师](./problems/lcci/17.16/README.md) | :o: | Easy | [dp] |   |
 | 面试题 17.17 | [多次搜索](./problems/lcci/17.17/README.md) | :o: | Medium | [str],[tr] |   |
 | 面试题 17.18 | [最短超串](./problems/lcci/17.18/README.md) | :o: | Medium | [arr],[sd] |   |
 | 面试题 17.19 | [消失的两个数字](./problems/lcci/17.19/README.md) | :o: | Hard | [math],[lgc] |   |

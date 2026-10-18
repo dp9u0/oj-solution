@@ -52,6 +52,7 @@
 | 面试题 08.12 | [八皇后](./problems/lcci/08.12/README.md) | :o: | Hard | [bt] |   |
 | 面试题 08.13 | [堆箱子](./problems/lcci/08.13/README.md) | :o: | Hard | [dp],[arr] |   |
 | 面试题 08.14 | [布尔运算](./problems/lcci/08.14/README.md) | :o: | Medium | [dp],[dc] |   |
+| 面试题 10.01 | [合并排序的数组](./problems/lcci/10.01/README.md) | :o: | Easy | [arr],[tp] |   |
 | 面试题 10.02 | [变位词组](./problems/lcci/10.02/README.md) | :o: | Medium | [hsh],[str] |   |
 | 面试题 10.03 | [搜索旋转数组](./problems/lcci/10.03/README.md) | :o: | Medium | [arr] |   |
 | 面试题 10.05 | [稀疏数组搜索](./problems/lcci/10.05/README.md) | :o: | Easy | [arr],[bs] |   |

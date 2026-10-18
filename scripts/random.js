@@ -1,8 +1,8 @@
 const { exec } = require('child_process');
 
-// 默认从面试算法题(面试题 XX.YY)池抽题——algorithms 免费题已全部 AC，剩余未做均为锁题；
-// 传 "algorithms" 时切回普通算法题池
-const LIST_COMMAND = process.argv[2] === 'algorithms' ? 'pnpm run list' : 'pnpm run listi';
+// 默认从 algorithms 未做题池抽取（含 🔒 会员锁题，list 用 -q D 过滤）；
+// 传 "lcci" 时切回面试题池（现已全部 AC，仅作保留）
+const LIST_COMMAND = process.argv[2] === 'lcci' ? 'pnpm run listi' : 'pnpm run list';
 
 exec(LIST_COMMAND, (err, stdout, stderr) => {
   if (err) {

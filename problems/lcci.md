@@ -50,6 +50,7 @@
 | 面试题 08.06 | [汉诺塔问题](./problems/lcci/08.06/README.md) | :o: | Easy | [bt] |   |
 | 面试题 08.07 | [无重复字符串的排列组合](./problems/lcci/08.07/README.md) | :o: | Medium | [bt] |   |
 | 面试题 08.08 | [有重复字符串的排列组合](./problems/lcci/08.08/README.md) | :o: | Medium | [bt],[str] |   |
+| 面试题 08.09 | [括号](./problems/lcci/08.09/README.md) | :o: | Medium | [bt] |   |
 | 面试题 08.10 | [颜色填充](./problems/lcci/08.10/README.md) | :o: | Easy | [bfs],[arr] |   |
 | 面试题 08.11 | [硬币](./problems/lcci/08.11/README.md) | :o: | Medium | [dp] |   |
 | 面试题 08.12 | [八皇后](./problems/lcci/08.12/README.md) | :o: | Hard | [bt] |   |

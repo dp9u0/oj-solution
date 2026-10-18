@@ -67,6 +67,7 @@
 | 面试题 16.05 | [阶乘尾数](./problems/lcci/16.05/README.md) | :o: | Easy | [math] |   |
 | 面试题 16.06 | [最小差](./problems/lcci/16.06/README.md) | :o: | Medium | [arr],[tp] |   |
 | 面试题 16.07 | [最大数值](./problems/lcci/16.07/README.md) | :o: | Easy | [bit],[lgc] |   |
+| 面试题 16.08 | [整数的英语表示](./problems/lcci/16.08/README.md) | :o: | Hard | [str] |   |
 | 面试题 16.09 | [运算](./problems/lcci/16.09/README.md) | :o: | Medium | [lgc],[math] |   |
 | 面试题 16.10 | [生存人数](./problems/lcci/16.10/README.md) | :o: | Medium | [arr],[lgc] |   |
 | 面试题 16.11 | [跳水板](./problems/lcci/16.11/README.md) | :o: | Easy | [math],[arr] |   |

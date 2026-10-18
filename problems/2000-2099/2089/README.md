@@ -1,59 +1,92 @@
-# [2089] Find Target Indices After Sorting Array
+# [2089] 找出数组排序后的目标下标
 
 ## Description
 
-[LeetCode Problem Description](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/)
-
-* algorithms
-* Easy (77.93%)
-* Likes:    1963
-* Dislikes: 106
-* Testcase Example:  '[1,2,5,2,3]\n2'
 
 ```md
-You are given a 0-indexed integer array nums and a target element target.
-A target index is an index i such that nums[i] == target.
-Return a list of the target indices of nums after sorting nums in non-decreasing order. If there are no target indices, return an empty list. The returned list must be sorted in increasing order.
+https://leetcode.cn/problems/find-target-indices-after-sorting-array/description/
+* algorithms
+* Easy (77.13%)
+* Likes:    54
+* Dislikes: -
+* Testcase Example:  '[1,2,5,2,3]\n2'
+给你一个下标从 0 开始的整数数组 nums 以及一个目标元素 target 。
+目标下标 是一个满足 nums[i] == target 的下标 i 。
+将 nums 按 非递减 顺序排序后，返回由 nums 中目标下标组成的列表。如果不存在目标下标，返回一个 空 列表。返回的列表必须按 递增 顺序排列。
 
-Example 1:
+示例 1：
+输入：nums = [1,2,5,2,3], target = 2
+输出：[1,2]
+解释：排序后，nums 变为 [1,2,2,3,5] 。
+满足 nums[i] == 2 的下标是 1 和 2 。
+示例 2：
+输入：nums = [1,2,5,2,3], target = 3
+输出：[3]
+解释：排序后，nums 变为 [1,2,2,3,5] 。
+满足 nums[i] == 3 的下标是 3 。
+示例 3：
+输入：nums = [1,2,5,2,3], target = 5
+输出：[4]
+解释：排序后，nums 变为 [1,2,2,3,5] 。
+满足 nums[i] == 5 的下标是 4 。
+示例 4：
+输入：nums = [1,2,5,2,3], target = 4
+输出：[]
+解释：nums 中不含值为 4 的元素。
 
-Input: nums = [1,2,5,2,3], target = 2
-Output: [1,2]
-Explanation: After sorting, nums is [1,2,2,3,5].
-The indices where nums[i] == 2 are 1 and 2.
-
-Example 2:
-
-Input: nums = [1,2,5,2,3], target = 3
-Output: [3]
-Explanation: After sorting, nums is [1,2,2,3,5].
-The index where nums[i] == 3 is 3.
-
-Example 3:
-
-Input: nums = [1,2,5,2,3], target = 5
-Output: [4]
-Explanation: After sorting, nums is [1,2,2,3,5].
-The index where nums[i] == 5 is 4.
-
-
-Constraints:
-
+提示：
 1 <= nums.length <= 100
 1 <= nums[i], target <= 100
-
+Hint 1: Try "sorting" the array first.
+Hint 2: Now find all indices in the array whose values are equal to target.
 
 ```
 
-## 题目翻译
+## Description (English)
 
-给定一个 0-indexed 整数数组 nums 和一个目标元素 target。目标索引是满足 nums[i] == target 的索引 i。返回将 nums 按非递减顺序排序后的所有目标索引列表。如果没有目标索引，返回空列表。返回的列表必须按递增顺序排列。
+```md
+You are given a 0-indexed integer array nums and a target element target.
 
-## 解题思路
+A target index is an index i such that nums[i] == target.
 
-排序后找所有等于 target 的索引。更优的做法是不排序：统计比 target 小的元素个数（less）和等于 target 的元素个数（equal），则结果为 [less, less+1, ..., less+equal-1]。
+After sorting nums in non-decreasing order, return the list of target indices. If there are no target indices, return an empty list. The returned list must be sorted in increasing order.
 
-时间复杂度 O(n)，空间复杂度 O(1)
+Example 1:
+Input: nums = [1,2,5,2,3], target = 2
+Output: [1,2]
+Explanation: After sorting, nums becomes [1,2,2,3,5].
+The indices where nums[i] == 2 are 1 and 2.
+
+Example 2:
+Input: nums = [1,2,5,2,3], target = 3
+Output: [3]
+Explanation: After sorting, nums becomes [1,2,2,3,5].
+The index where nums[i] == 3 is 3.
+
+Example 3:
+Input: nums = [1,2,5,2,3], target = 5
+Output: [4]
+Explanation: After sorting, nums becomes [1,2,2,3,5].
+The index where nums[i] == 5 is 4.
+
+Example 4:
+Input: nums = [1,2,5,2,3], target = 4
+Output: []
+Explanation: nums contains no element equal to 4.
+
+Constraints:
+1 <= nums.length <= 100
+1 <= nums[i], target <= 100
+```
+
+## Approach
+
+排序后所有等于 target 的元素必然连续，且排在所有「小于 target」的元素之后。因此无需真正排序：
+
+- 遍历一遍统计 `less`（< target 的元素个数）和 `equal`（== target 的元素个数）。
+- 排序后 target 占据的下标区间为 `[less, less + equal - 1]`，直接构造 `[less, less+1, ..., less+equal-1]` 即可。
+
+时间复杂度 O(n log n) → O(n)（免排序），空间 O(1)（不计输出）。
 
 ## Solution
 

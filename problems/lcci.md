@@ -53,6 +53,7 @@
 | 面试题 10.05 | [稀疏数组搜索](./problems/lcci/10.05/README.md) | :o: | Easy | [arr],[bs] |   |
 | 面试题 10.09 | [排序矩阵查找](./problems/lcci/10.09/README.md) | :o: | Medium | [arr],[bs] |   |
 | 面试题 10.10 | [数字流的秩](./problems/lcci/10.10/README.md) | :o: | Medium | [des],[bs] |   |
+| 面试题 16.01 | [交换数字](./problems/lcci/16.01/README.md) | :o: | Medium | [bit] |   |
 | 面试题 16.02 | [单词频率](./problems/lcci/16.02/README.md) | :o: | Medium | [des],[hsh] |   |
 | 面试题 16.03 | [交点](./problems/lcci/16.03/README.md) | :o: | Hard | [grf],[math] |   |
 | 面试题 16.04 | [井字游戏](./problems/lcci/16.04/README.md) | :o: | Medium | [arr],[lgc] |   |

@@ -54,6 +54,7 @@
 | 面试题 10.10 | [数字流的秩](./problems/lcci/10.10/README.md) | :o: | Medium | [des],[bs] |   |
 | 面试题 16.02 | [单词频率](./problems/lcci/16.02/README.md) | :o: | Medium | [des],[hsh] |   |
 | 面试题 16.03 | [交点](./problems/lcci/16.03/README.md) | :o: | Hard | [grf],[math] |   |
+| 面试题 16.04 | [井字游戏](./problems/lcci/16.04/README.md) | :o: | Medium | [arr],[lgc] |   |
 | 面试题 16.05 | [阶乘尾数](./problems/lcci/16.05/README.md) | :o: | Easy | [math] |   |
 | 面试题 16.06 | [最小差](./problems/lcci/16.06/README.md) | :o: | Medium | [arr],[tp] |   |
 | 面试题 16.07 | [最大数值](./problems/lcci/16.07/README.md) | :o: | Easy | [bit],[lgc] |   |

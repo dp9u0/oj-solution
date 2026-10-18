@@ -82,6 +82,7 @@
 | 面试题 16.20 | [T9键盘](./problems/lcci/16.20/README.md) | :o: | Medium | [str],[hsh] |   |
 | 面试题 16.21 | [交换和](./problems/lcci/16.21/README.md) | :o: | Medium | [arr],[hsh] |   |
 | 面试题 16.22 | [兰顿蚂蚁](./problems/lcci/16.22/README.md) | :o: | Medium | [lgc],[hsh] |   |
+| 面试题 16.24 | [数对和](./problems/lcci/16.24/README.md) | :o: | Medium | [arr],[tp] |   |
 | 面试题 16.25 | [LRU 缓存](./problems/lcci/16.25/README.md) | :o: | Medium | [des],[hsh] |   |
 | 面试题 16.26 | [计算器](./problems/lcci/16.26/README.md) | :o: | Medium | [stk],[str] |   |
 | 面试题 17.01 | [不用加号的加法](./problems/lcci/17.01/README.md) | :o: | Easy | [bit],[lgc] |   |

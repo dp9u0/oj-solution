@@ -1,62 +1,85 @@
-# [3644] Maximum K to Sort a Permutation
+# [3644] 排序排列
 
 ## Description
 
-[LeetCode Problem Description](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/description/)
-
-* algorithms
-* Medium (37.35%)
-* Likes:    100
-* Dislikes: 35
-* Testcase Example:  '[0,3,2,1]'
 
 ```md
-You are given an integer array nums of length n, where nums is a permutation of the numbers in the range [0..n - 1].
-You may swap elements at indices i and j only if nums[i] AND nums[j] == k, where AND denotes the bitwise AND operation and k is a non-negative integer.
-Return the maximum value of k such that the array can be sorted in non-decreasing order using any number of such swaps. If nums is already sorted, return 0.
+https://leetcode.cn/problems/maximum-k-to-sort-a-permutation/description/
+* algorithms
+* Medium (41.49%)
+* Likes:    10
+* Dislikes: -
+* Testcase Example:  '[0,3,2,1]'
+给你一个长度为 n 的整数数组 nums，其中 nums 是范围 [0..n - 1] 内所有数字的一个 排列 。
+你可以在满足条件 nums[i] AND nums[j] == k 的情况下交换下标 i 和 j 的元素，其中 AND 表示按位与操作，k 是一个非负整数。
+返回可以使数组按 非递减 顺序排序的最大值 k（允许进行任意次这样的交换）。如果 nums 已经是有序的，返回 0。
+排列 是数组所有元素的一种重新排列。
 
-Example 1:
+示例 1：
+输入：nums = [0,3,2,1]
+输出：1
+解释：
+选择 k = 1。交换 nums[1] = 3 和 nums[3] = 1，因为 nums[1] AND nums[3] == 1，从而得到一个排序后的排列：[0, 1, 2, 3]。
+示例 2：
+输入：nums = [0,1,3,2]
+输出：2
+解释：
+选择 k = 2。交换 nums[2] = 3 和 nums[3] = 2，因为 nums[2] AND nums[3] == 2，从而得到一个排序后的排列：[0, 1, 2, 3]。
+示例 3：
+输入：nums = [3,2,1,0]
+输出：0
+解释：
+只有当 k = 0 时，才能进行排序，因为没有更大的 k 能够满足 nums[i] AND nums[j] == k 的交换条件。
 
-Input: nums = [0,3,2,1]
-Output: 1
-Explanation:
-Choose k = 1. Swapping nums[1] = 3 and nums[3] = 1 is allowed since nums[1] AND nums[3] == 1, resulting in a sorted permutation: [0, 1, 2, 3].
-
-Example 2:
-
-Input: nums = [0,1,3,2]
-Output: 2
-Explanation:
-Choose k = 2. Swapping nums[2] = 3 and nums[3] = 2 is allowed since nums[2] AND nums[3] == 2, resulting in a sorted permutation: [0, 1, 2, 3].
-
-Example 3:
-
-Input: nums = [3,2,1,0]
-Output: 0
-Explanation:
-Only k = 0 allows sorting since no greater k allows the required swaps where nums[i] AND nums[j] == k.
-
-
-Constraints:
-
+提示：
 1 <= n == nums.length <= 105
 0 <= nums[i] <= n - 1
-nums is a permutation of integers from 0 to n - 1.
-
+nums 是从 0 到 n - 1 的一个排列。
+Hint 1: Take the bitwise AND of all elements that are not in their correct position.
 
 ```
 
-## 中文翻译
+## Description (English)
 
-给定长度为 n 的排列 nums，你可以交换位置 i 和 j 的元素，条件是 nums[i] AND nums[j] == k。求最大的 k 使得通过任意次交换可以将数组排序（非递减）。如果数组已排序返回 0。
+You are given an integer array `nums` of length `n`, where `nums` is a permutation of the numbers in the range `[0, n - 1]`.
 
-## 解题思路
+You can swap the elements at indices `i` and `j` if `nums[i] AND nums[j] == k`, where `AND` denotes the bitwise AND operation and `k` is a non-negative integer.
 
-按位贪心 + 并查集。从高位到低位逐位检查：维护一个候选 k，初始为 0。对于每一位 b（从高位到低位），尝试将 k 的第 b 位设为 1。对于每个需要回到正确位置的元素 nums[i]，如果 nums[i] 和 i 的 AND 结果包含了 k'（候选值），说明可以通过该位连接。用并查集将所有 nums[i] 的第 b 位为 1 的位置与 i 连通，检查所有错位元素是否在同一连通分量中。如果可以排序则保留该位，否则不设。
+Return the maximum value of `k` such that the array can be sorted in non-decreasing order (using any number of such swaps). If `nums` is already sorted, return `0`.
 
-实际上更简单的思路：对于每个错位的位置 i（nums[i] != i），我们需要通过交换把它放到正确位置。可以交换的条件是 nums[i] AND nums[j] == k。等价于：对于某个 k，所有在同一个"循环置换"中的元素都可以互相交换。判断条件是：对于错位位置 i，nums[i] & k != 0（意味着第 b 位连接了它们）。
+A permutation is a rearrangement of all the elements of an array.
 
-关键观察：k 的某一位 b 为 1 时，只有 nums[i] 的第 b 位为 1 的元素才能参与以 k 为条件的交换。所以用并查集：对于 k 的每一位为 1 的位 b，将所有 nums[i] & (1<<b) != 0 的元素 i 和 nums[i] 连通。然后检查每个错位元素 i 是否和 i 在同一连通分量。
+### Examples
+
+- Input: `nums = [0,3,2,1]`, Output: `1`
+  - Choose `k = 1`. Swap `nums[1] = 3` and `nums[3] = 1` since `3 AND 1 == 1`, obtaining the sorted permutation `[0,1,2,3]`.
+- Input: `nums = [0,1,3,2]`, Output: `2`
+  - Choose `k = 2`. Swap `nums[2] = 3` and `nums[3] = 2` since `3 AND 2 == 2`.
+- Input: `nums = [3,2,1,0]`, Output: `0`
+  - Only `k = 0` allows enough swaps to sort the array.
+
+### Constraints
+
+- `1 <= n == nums.length <= 10^5`
+- `0 <= nums[i] <= n - 1`
+- `nums` is a permutation of the numbers from `0` to `n - 1`.
+
+## 思路
+
+**答案 = 所有「不在正确位置上的元素」的按位与**；已有序则返回 0。
+
+**必要性（k 不能更大）**：每个错位元素至少要参与一次交换。一次交换中 `nums[i] AND nums[j] == k`，说明参与交换的两个值都包含 k 的所有位（值 ⊇ k）。因此每个错位元素都 ⊇ k，即 `k ⊆ AND(所有错位元素)`，k 不能超过这个 AND 值。
+
+**充分性（该 AND 值可行）**：记 `K = AND(所有错位元素)`，则每个错位元素都包含 K 的全部位（称为"可动"元素）。值 `K` 本身必在数组中（`0 <= K <= n-1`），且 `K AND x == K` 对任意可动元素 x 成立，即 K 与任何可动元素可直接交换。
+
+对任意两个错位元素 a、b（若 `a AND b == K` 可直接交换），否则借助值 K 做三轮换即可交换 a、b —— 设 a、b、K 分别位于 Pa、Pb、Pk：
+1. 交换 (Pb, Pk)：`b AND K == K` ✓，此时 K 到了 Pb；
+2. 交换 (Pa, Pb)：`a AND K == K` ✓，此时 a 到了 Pb（即原来 b 的位置）；
+3. 交换 (Pa, Pk)：`b AND K == K` ✓。
+
+净效果是 a、b 互换，K 回到原位。于是任意两个错位元素都可交换，用选择类的方式即可把数组完全排序。
+
+复杂度：时间 O(n)，空间 O(1)。
 
 ## Solution
 

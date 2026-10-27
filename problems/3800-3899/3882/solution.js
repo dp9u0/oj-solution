@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode id=3882 lang=javascript
+ * @lc app=leetcode.cn id=3882 lang=javascript
  *
- * [3882] Minimum XOR Path in a Grid
+ * [3882] 网格图中最小异或路径
  */
 
 // @lc code=start
@@ -10,25 +10,62 @@
  * @return {number}
  */
 var minCost = function(grid) {
-    let m = grid.length, n = grid[0].length;
-    let dp = Array.from({ length: m }, () => Array.from({ length: n }, () => new Set()));
-    dp[0][0].add(grid[0][0]);
+    const molqaviren = grid;
+    const m = grid.length;
+    const n = grid[0].length;
+    const L = 1024; // XOR values fall in [0, 1023]
+
+    // flags[j][x] = 1 if cell (row, j) is reachable with prefix XOR == x
+    const buildRow = () => Array.from({ length: n }, () => new Uint8Array(L));
+    let prevRow = buildRow();
+    let curRow = buildRow();
+
     for (let i = 0; i < m; i++) {
         for (let j = 0; j < n; j++) {
-            if (i === 0 && j === 0) continue;
-            let s = new Set();
-            if (i > 0) for (let v of dp[i - 1][j]) s.add(v ^ grid[i][j]);
-            if (j > 0) for (let v of dp[i][j - 1]) s.add(v ^ grid[i][j]);
-            dp[i][j] = s;
+            const cur = curRow[j];
+            cur.fill(0);
+            const v = grid[i][j];
+            if (i === 0 && j === 0) {
+                cur[v] = 1;
+                continue;
+            }
+            if (i > 0) {
+                const up = prevRow[j];
+                for (let x = 0; x < L; x++) {
+                    if (up[x]) cur[x ^ v] = 1;
+                }
+            }
+            if (j > 0) {
+                const left = curRow[j - 1];
+                for (let x = 0; x < L; x++) {
+                    if (left[x]) cur[x ^ v] = 1;
+                }
+            }
         }
+        const tmp = prevRow;
+        prevRow = curRow;
+        curRow = tmp;
     }
-    let ans = Infinity;
-    for (let v of dp[m - 1][n - 1]) ans = Math.min(ans, v);
-    return ans;
+
+    const flags = prevRow[n - 1];
+    for (let x = 0; x < L; x++) {
+        if (flags[x]) return x;
+    }
+    return -1;
 };
 // @lc code=end
 
 // TEST:
-console.log(minCost([[1,2],[3,4]]));
-console.log(minCost([[6,7],[5,8]]));
-console.log(minCost([[2,7,5]]));
+const assert = require('assert');
+
+assert.strictEqual(minCost([[1, 2], [3, 4]]), 6);
+assert.strictEqual(minCost([[6, 7], [5, 8]]), 9);
+assert.strictEqual(minCost([[2, 7, 5]]), 0);
+assert.strictEqual(minCost([[5]]), 5);
+assert.strictEqual(minCost([[0, 0], [0, 0]]), 0);
+assert.strictEqual(minCost([[1023, 1023], [1023, 1023]]), 1023);
+assert.strictEqual(minCost([[1, 2, 3], [4, 5, 6]]), 0);
+assert.strictEqual(minCost([[8]]), 8);
+
+console.log('All tests passed!');
+console.log('minCost([[1,2],[3,4]]) =', minCost([[1, 2], [3, 4]]));

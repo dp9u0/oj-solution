@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode id=3970 lang=javascript
+ * @lc app=leetcode.cn id=3970 lang=javascript
  *
- * [3970] Shortest Path With At Most K Consecutive Identical Characters
+ * [3970] 最多 K 个连续相同字符的最短路径
  */
 
 // @lc code=start
@@ -12,112 +12,98 @@
  * @param {number} k
  * @return {number}
  */
-var shortestPath = function (n, edges, labels, k) {
-  const m = edges.length;
+var shortestPath = function(n, edges, labels, k) {
+    const m = edges.length;
 
-  // CSR adjacency: start[u]..start[u+1)-1 are the out-edges of u
-  const start = new Int32Array(n + 1);
-  for (let i = 0; i < m; i++) start[edges[i][0] + 1]++;
-  for (let i = 0; i < n; i++) start[i + 1] += start[i];
-  const to = new Int32Array(m);
-  const wt = new Int32Array(m);
-  const fill = start.slice();
-  for (let i = 0; i < m; i++) {
-    const e = edges[i];
-    const p = fill[e[0]]++;
-    to[p] = e[1];
-    wt[p] = e[2];
-  }
-
-  const width = k + 1;
-  const dist = new Float64Array(n * width).fill(Infinity);
-  // label codes for fast compare
-  const lab = new Int32Array(n);
-  for (let i = 0; i < n; i++) lab[i] = labels.charCodeAt(i);
-
-  // binary min-heap over (distance, state), 1-indexed, parallel arrays
-  const hd = [0, 0];
-  const hs = [0, 1]; // state (node 0, run 1), distance 0
-  dist[1] = 0;
-
-  while (hd.length > 1) {
-    const d = hd[1];
-    const s = hs[1];
-    const last = hd.length - 1;
-    hd[1] = hd[last];
-    hs[1] = hs[last];
-    hd.pop();
-    hs.pop();
-    let i = 1;
-    const len = hd.length;
-    for (;;) {
-      const l = i << 1;
-      const r = l + 1;
-      let sm = i;
-      if (l < len && hd[l] < hd[sm]) sm = l;
-      if (r < len && hd[r] < hd[sm]) sm = r;
-      if (sm === i) break;
-      const td = hd[i]; hd[i] = hd[sm]; hd[sm] = td;
-      const ts = hs[i]; hs[i] = hs[sm]; hs[sm] = ts;
-      i = sm;
+    // CSR adjacency; per edge precompute whether labels[u] === labels[v]
+    const deg = new Int32Array(n);
+    for (let i = 0; i < m; i++) deg[edges[i][0]]++;
+    const start = new Int32Array(n + 1);
+    for (let i = 0; i < n; i++) start[i + 1] = start[i] + deg[i];
+    const eto = new Int32Array(m);
+    const ew = new Int32Array(m);
+    const esame = new Int8Array(m);
+    const pos = start.slice(0, n);
+    for (let i = 0; i < m; i++) {
+        const u = edges[i][0], v = edges[i][1], w = edges[i][2];
+        const p = pos[u]++;
+        eto[p] = v;
+        ew[p] = w;
+        esame[p] = labels.charCodeAt(u) === labels.charCodeAt(v) ? 1 : 0;
     }
-    if (d > dist[s]) continue; // stale entry
 
-    const u = (s / width) | 0;
-    const c = s - u * width;
-    const lu = lab[u];
-    for (let p = start[u]; p < start[u + 1]; p++) {
-      const v = to[p];
-      let nc;
-      if (lab[v] === lu) {
-        nc = c + 1;
-        if (nc > k) continue; // would exceed k consecutive identical chars
-      } else {
-        nc = 1;
-      }
-      const ns = v * width + nc;
-      const nd = d + wt[p];
-      if (nd < dist[ns]) {
-        dist[ns] = nd;
-        // push (nd, ns)
-        hd.push(nd);
-        hs.push(ns);
-        let j = hd.length - 1;
-        while (j > 1) {
-          const par = j >> 1;
-          if (hd[par] <= hd[j]) break;
-          const pd = hd[par]; hd[par] = hd[j]; hd[j] = pd;
-          const ps = hs[par]; hs[par] = hs[j]; hs[j] = ps;
-          j = par;
+    // state id = node * k + (run - 1), run in [1, k] = trailing run of labels[node]
+    const dist = new Float64Array(n * k).fill(Infinity);
+    if (n === 1) return 0;
+    dist[0] = 0; // node 0, run 1
+
+    // binary heap of (dist, state)
+    const hd = [0];
+    const hs = [0];
+    let hn = 1;
+    const swap = (a, b) => {
+        const td = hd[a]; hd[a] = hd[b]; hd[b] = td;
+        const ts = hs[a]; hs[a] = hs[b]; hs[b] = ts;
+    };
+    const push = (d, s) => {
+        let i = hn++;
+        hd[i] = d; hs[i] = s;
+        while (i > 0) {
+            const p = (i - 1) >> 1;
+            if (hd[p] <= hd[i]) break;
+            swap(p, i);
+            i = p;
         }
-      }
-    }
-  }
+    };
+    // pop: snapshot root pair, move last to root, sift down
+    const popTop = () => {
+        const d = hd[0], s = hs[0];
+        hn--;
+        if (hn > 0) {
+            hd[0] = hd[hn]; hs[0] = hs[hn];
+            let i = 0;
+            for (;;) {
+                const l = 2 * i + 1;
+                let mx = i;
+                if (l < hn && hd[l] < hd[mx]) mx = l;
+                if (l + 1 < hn && hd[l + 1] < hd[mx]) mx = l + 1;
+                if (mx === i) break;
+                swap(mx, i);
+                i = mx;
+            }
+        }
+        return [d, s];
+    };
 
-  const base = (n - 1) * width;
-  let ans = Infinity;
-  for (let c = 1; c <= k; c++) {
-    if (dist[base + c] < ans) ans = dist[base + c];
-  }
-  return ans === Infinity ? -1 : ans;
+    while (hn > 0) {
+        const [d, s] = popTop();
+        if (d > dist[s]) continue;
+        const u = (s / k) | 0;
+        if (u === n - 1) return d;
+        const run = s - u * k + 1;
+        for (let e = start[u]; e < start[u + 1]; e++) {
+            const v = eto[e];
+            const nrun = esame[e] ? run + 1 : 1;
+            if (nrun > k) continue;
+            const ns = v * k + nrun - 1;
+            const nd = d + ew[e];
+            if (nd < dist[ns]) {
+                dist[ns] = nd;
+                push(nd, ns);
+            }
+        }
+    }
+    return -1;
 };
 // @lc code=end
 
 // TEST:
-const run = (n, edges, labels, k) => shortestPath(n, edges, labels, k);
-// example 1: must take the direct edge to avoid "aa"
-console.log(run(3, [[0, 1, 1], [1, 2, 1], [0, 2, 3]], 'aab', 1) === 3);
-// example 2: "aab" allowed when k = 2
-console.log(run(3, [[0, 1, 1], [1, 2, 1], [0, 2, 3]], 'aab', 2) === 2);
-// example 3: only path has "aaa", invalid for k = 2
-console.log(run(3, [[0, 1, 1], [1, 2, 1]], 'aaa', 2) === -1);
-// single node: trivially valid, cost 0
-console.log(run(1, [], 'z', 1) === 0);
-// no edges at all, unreachable
-console.log(run(2, [], 'ab', 5) === -1);
-// longer chain: labels "abab", k=1, path 0->1->2->3 cost 6 beats direct 0->3 cost 10
-console.log(run(4, [[0, 1, 2], [1, 2, 2], [2, 3, 2], [0, 3, 10]], 'abab', 1) === 6);
-// same chain but k=1 with direct-only shortcut when chain blocked: labels "aabb" chain invalid ("bb"), use 0->3
-console.log(run(4, [[0, 1, 2], [1, 2, 2], [2, 3, 2], [0, 3, 10]], 'aabb', 1) === 10);
-// run of exactly k is allowed: "aaa" with k=3
-console.log(run(3, [[0, 1, 1], [1, 2, 1]], 'aaa', 3) === 2);
+console.log(shortestPath(3, [[0,1,1],[1,2,1],[0,2,3]], "aab", 1)); // 3
+console.log(shortestPath(3, [[0,1,1],[1,2,1],[0,2,3]], "aab", 2)); // 2
+console.log(shortestPath(3, [[0,1,1],[1,2,1]], "aaa", 2)); // -1
+console.log(shortestPath(1, [], "a", 1)); // 0
+console.log(shortestPath(3, [[1,2,1]], "abc", 1)); // -1
+console.log(shortestPath(3, [[0,2,10],[0,1,1],[1,2,1]], "aba", 1)); // 2 (direct "aa" run 2 > 1, detour "aba" valid)
+console.log(shortestPath(4, [[0,1,1],[1,2,1],[2,3,1],[0,3,100]], "aaaa", 4)); // 3 ("aaaa" run 4 <= 4)
+console.log(shortestPath(4, [[0,1,1],[1,2,1],[2,3,1],[0,3,100]], "aaaa", 3)); // 100 ("aaaa" run 4 > 3, chain invalid)
+console.log(shortestPath(3, [[0,2,10],[0,1,1],[1,2,1]], "aaa", 2)); // 10 (0->2 run 2 valid; 0->1->2 "aaa" invalid)

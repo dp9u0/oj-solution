@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode id=1882 lang=javascript
+ * @lc app=leetcode.cn id=1882 lang=javascript
  *
- * [1882] Process Tasks Using Servers
+ * [1882] 使用服务器处理任务
  */
 
 // @lc code=start
@@ -11,84 +11,92 @@
  * @return {number[]}
  */
 var assignTasks = function(servers, tasks) {
-    const n = servers.length;
-    const m = tasks.length;
-    const ans = new Array(m);
+  // free: 空闲服务器堆，元素 [weight, index]，权重小者优先，权重相同下标小者优先
+  // busy: 忙碌服务器堆，元素 [freeTime, weight, index]，最早恢复空闲者优先
+  const free = [];
+  const busy = [];
+  const ans = new Array(tasks.length);
+  let t = 0;
 
-    // Min heap: compare function returns negative for higher priority
-    const Heap = (cmp) => {
-        const h = [];
-        const push = (v) => {
-            h.push(v);
-            let i = h.length - 1;
-            while (i > 0) {
-                const p = (i - 1) >> 1;
-                if (cmp(h[p], h[i]) <= 0) break;
-                [h[p], h[i]] = [h[i], h[p]];
-                i = p;
-            }
-        };
-        const pop = () => {
-            const top = h[0];
-            const last = h.pop();
-            if (h.length > 0) {
-                h[0] = last;
-                let i = 0;
-                while (true) {
-                    let s = i, l = 2*i+1, r = 2*i+2;
-                    if (l < h.length && cmp(h[l], h[s]) < 0) s = l;
-                    if (r < h.length && cmp(h[r], h[s]) < 0) s = r;
-                    if (s === i) break;
-                    [h[s], h[i]] = [h[i], h[s]];
-                    i = s;
-                }
-            }
-            return top;
-        };
-        return { push, pop, peek: () => h[0], size: () => h.length };
-    };
+  const freeCmp = (a, b) => a[0] - b[0] || a[1] - b[1];
+  const busyCmp = (a, b) => a[0] - b[0] || a[1] - b[1] || a[2] - b[2];
 
-    // Free: [weight, index], sort by weight then index
-    const free = Heap((a, b) => a[0] !== b[0] ? a[0] - b[0] : a[1] - b[1]);
-    // Busy: [freeTime, weight, index], sort by freeTime then weight then index
-    const busy = Heap((a, b) => {
-        if (a[0] !== b[0]) return a[0] - b[0];
-        if (a[1] !== b[1]) return a[1] - b[1];
-        return a[2] - b[2];
-    });
-
-    for (let i = 0; i < n; i++) free.push([servers[i], i]);
-
-    let time = 0;
-    for (let j = 0; j < m; j++) {
-        time = Math.max(time, j);
-
-        while (busy.size() > 0 && busy.peek()[0] <= time) {
-            const [, w, idx] = busy.pop();
-            free.push([w, idx]);
-        }
-
-        if (free.size() === 0) {
-            const [ft, w, idx] = busy.peek();
-            time = ft;
-            while (busy.size() > 0 && busy.peek()[0] <= time) {
-                const [, w2, idx2] = busy.pop();
-                free.push([w2, idx2]);
-            }
-        }
-
-        const [w, idx] = free.pop();
-        ans[j] = idx;
-        busy.push([time + tasks[j], w, idx]);
+  const heapPush = (heap, val, cmp) => {
+    heap.push(val);
+    let i = heap.length - 1;
+    while (i > 0) {
+      const p = (i - 1) >> 1;
+      if (cmp(heap[p], val) <= 0) break;
+      heap[i] = heap[p];
+      i = p;
     }
+    heap[i] = val;
+  };
 
-    return ans;
+  const heapPop = (heap, cmp) => {
+    const top = heap[0];
+    const last = heap.pop();
+    const n = heap.length;
+    if (n > 0) {
+      let i = 0;
+      while (true) {
+        const l = 2 * i + 1;
+        if (l >= n) break;
+        const r = l + 1;
+        let s = l;
+        if (r < n && cmp(heap[r], heap[l]) < 0) s = r;
+        if (cmp(last, heap[s]) <= 0) break;
+        heap[i] = heap[s];
+        i = s;
+      }
+      heap[i] = last;
+    }
+    return top;
+  };
+
+  for (let i = 0; i < servers.length; i++) {
+    heapPush(free, [servers[i], i], freeCmp);
+  }
+
+  for (let j = 0; j < tasks.length; j++) {
+    if (j > t) t = j; // 任务 j 最早第 j 秒到达
+    // 释放所有在时刻 t 之前（含 t）空闲的服务器
+    while (busy.length && busy[0][0] <= t) {
+      const [, w, idx] = heapPop(busy, busyCmp);
+      heapPush(free, [w, idx], freeCmp);
+    }
+    if (free.length > 0) {
+      const [w, idx] = heapPop(free, freeCmp);
+      ans[j] = idx;
+      heapPush(busy, [t + tasks[j], w, idx], busyCmp);
+    } else {
+      // 无空闲服务器，推进到最早空闲时刻
+      t = busy[0][0];
+      while (busy.length && busy[0][0] === t) {
+        const [, w, idx] = heapPop(busy, busyCmp);
+        heapPush(free, [w, idx], freeCmp);
+      }
+      const [w, idx] = heapPop(free, freeCmp);
+      ans[j] = idx;
+      heapPush(busy, [t + tasks[j], w, idx], busyCmp);
+    }
+  }
+
+  return ans;
 };
 // @lc code=end
 
 // TEST:
-console.log(JSON.stringify(assignTasks([3,3,2], [1,2,3,2,1,2])) === JSON.stringify([2,2,0,2,1,2]));
-console.log(JSON.stringify(assignTasks([5,1,4,3,2], [2,1,2,4,5,2,1])) === JSON.stringify([1,4,1,4,1,3,2]));
-console.log(JSON.stringify(assignTasks([10,1], [1,1])) === JSON.stringify([1,1]));
-console.log(JSON.stringify(assignTasks([1,1], [1,1,1])) === JSON.stringify([0,0,0]));
-console.log(JSON.stringify(assignTasks([3,1,2], [1,2,3,4,5])) === JSON.stringify([1,1,2,1,0]));
+const assert = (actual, expected, label) => {
+  const ok = JSON.stringify(actual) === JSON.stringify(expected);
+  console.log(`${ok ? 'PASS' : 'FAIL'} [${label}] actual=${JSON.stringify(actual)} expected=${JSON.stringify(expected)}`);
+};
+
+assert(assignTasks([3, 3, 2], [1, 2, 3, 2, 1, 2]), [2, 2, 0, 2, 1, 2], 'example1');
+assert(assignTasks([5, 1, 4, 3, 2], [2, 1, 2, 4, 5, 2, 1]), [1, 4, 1, 4, 1, 3, 2], 'example2');
+assert(assignTasks([1], [5, 5, 5]), [0, 0, 0], 'single-server-queue');
+assert(assignTasks([10], [1]), [0], 'single-task');
+assert(assignTasks([2, 2], [1, 1, 1, 1, 1, 1]), [0, 0, 0, 0, 0, 0], 'equal-weight-pick-smallest-index');
+assert(assignTasks([2, 2], [3, 3]), [0, 1], 'equal-weight-tie-break');
+assert(assignTasks([1, 2], [2, 2, 2, 2]), [0, 1, 0, 1], 'wait-and-reuse');
+assert(assignTasks([3, 3, 3], [9, 9]), [0, 1], 'few-servers-more-tasks-wait');

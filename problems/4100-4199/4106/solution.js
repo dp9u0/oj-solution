@@ -30,4 +30,4 @@ console.log(JSON.stringify(findMismatchedSegments('earth', 'empty')) === JSON.st
 console.log(JSON.stringify(findMismatchedSegments('action', 'nation')) === JSON.stringify([['ac', 'na']]));
 console.log(JSON.stringify(findMismatchedSegments('hot', 'hot')) === JSON.stringify([]));
 console.log(JSON.stringify(findMismatchedSegments('a', 'b')) === JSON.stringify([['a', 'b']]));
-console.log(JSON.stringify(findMismatchedSegments('abc', 'xya')) === JSON.stringify([['ab', 'xy']]));
+console.log(JSON.stringify(findMismatchedSegments('abc', 'xya')) === JSON.stringify([['abc', 'xya']]));

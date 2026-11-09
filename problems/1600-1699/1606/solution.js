@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode id=1606 lang=javascript
+ * @lc app=leetcode.cn id=1606 lang=javascript
  *
- * [1606] Find Servers That Handled Most Number of Requests
+ * [1606] 找到处理最多请求的服务器
  */
 
 // @lc code=start
@@ -12,91 +12,101 @@
  * @return {number[]}
  */
 var busiestServers = function(k, arrival, load) {
-    const available = new Set(Array.from({ length: k }, (_, i) => i));
-    const sortedAvailable = Array.from({ length: k }, (_, i) => i);
-    // busy: minHeap by end time
-    const busy = [];
-    const count = new Array(k).fill(0);
+    // 树状数组维护空闲服务器集合(下标 1..k 对应服务器 0..k-1,空闲记 1)
+    const tree = new Array(k + 1).fill(0);
+    const add = (i, delta) => {
+        for (; i <= k; i += i & -i) tree[i] += delta;
+    };
+    const prefix = (i) => {
+        let sum = 0;
+        for (; i > 0; i -= i & -i) sum += tree[i];
+        return sum;
+    };
+    // 找第 rank 个空闲服务器(1-based 下标)
+    const kth = (rank) => {
+        let idx = 0;
+        for (let bit = 1 << Math.floor(Math.log2(k)); bit > 0; bit >>= 1) {
+            const next = idx + bit;
+            if (next <= k && tree[next] < rank) {
+                idx = next;
+                rank -= tree[next];
+            }
+        }
+        return idx + 1;
+    };
 
-    const heapPush = (entry) => {
-        busy.push(entry);
-        let j = busy.length - 1;
-        while (j > 0) {
-            const p = (j - 1) >> 1;
-            if (busy[p][0] > busy[j][0]) { [busy[p], busy[j]] = [busy[j], busy[p]]; j = p; }
-            else break;
+    // 最小堆维护忙碌服务器的 [结束时间, 服务器编号]
+    const heap = [];
+    const heapPush = (node) => {
+        heap.push(node);
+        let i = heap.length - 1;
+        while (i > 0) {
+            const parent = (i - 1) >> 1;
+            if (heap[parent][0] <= heap[i][0]) break;
+            [heap[parent], heap[i]] = [heap[i], heap[parent]];
+            i = parent;
         }
     };
     const heapPop = () => {
-        const top = busy[0];
-        busy[0] = busy[busy.length - 1];
-        busy.pop();
-        let j = 0;
-        while (true) {
-            let min = j, l = 2 * j + 1, r = 2 * j + 2;
-            if (l < busy.length && busy[l][0] < busy[min][0]) min = l;
-            if (r < busy.length && busy[r][0] < busy[min][0]) min = r;
-            if (min !== j) { [busy[j], busy[min]] = [busy[min], busy[j]]; j = min; }
-            else break;
+        const top = heap[0];
+        const last = heap.pop();
+        if (heap.length > 0) {
+            heap[0] = last;
+            let i = 0;
+            for (;;) {
+                const left = 2 * i + 1;
+                const right = left + 1;
+                let smallest = i;
+                if (left < heap.length && heap[left][0] < heap[smallest][0]) smallest = left;
+                if (right < heap.length && heap[right][0] < heap[smallest][0]) smallest = right;
+                if (smallest === i) break;
+                [heap[smallest], heap[i]] = [heap[i], heap[smallest]];
+                i = smallest;
+            }
         }
         return top;
     };
 
-    const bisectLeft = (arr, x, lo = 0, hi = arr.length) => {
-        while (lo < hi) {
-            const mid = (lo + hi) >> 1;
-            if (arr[mid] < x) lo = mid + 1;
-            else hi = mid;
-        }
-        return lo;
-    };
+    for (let s = 1; s <= k; s++) add(s, 1);
 
-    // Use sorted array for available servers
-    let avail = [];
-    for (let i = 0; i < k; i++) avail.push(i);
-
-    const insertAvail = (server) => {
-        const pos = bisectLeft(avail, server);
-        avail.splice(pos, 0, server);
-    };
-
-    const removeAvail = (idx) => {
-        avail.splice(idx, 1);
-    };
-
+    const counts = new Array(k).fill(0);
     for (let i = 0; i < arrival.length; i++) {
-        const t = arrival[i];
-
-        // Release finished servers
-        while (busy.length > 0 && busy[0][0] <= t) {
-            const [, server] = heapPop();
-            insertAvail(server);
+        // 归还已结束请求占用的服务器
+        while (heap.length > 0 && heap[0][0] <= arrival[i]) {
+            add(heapPop()[1] + 1, 1);
         }
-
-        if (avail.length === 0) continue;
-
-        const target = i % k;
-        const pos = bisectLeft(avail, target);
-        const idx = pos < avail.length ? pos : 0;
-        const server = avail[idx];
-        removeAvail(idx);
-        count[server]++;
-
-        heapPush([t + load[i], server]);
+        const start = i % k;
+        const total = prefix(k);
+        const freeBefore = prefix(start); // 编号 < start 的空闲数
+        let server = -1;
+        if (total > freeBefore) {
+            server = kth(freeBefore + 1) - 1; // 第一个空闲编号 >= start
+        } else if (total > 0) {
+            server = kth(1) - 1; // 环绕回最小空闲编号
+        }
+        if (server === -1) continue; // 全忙,请求被丢弃
+        add(server + 1, -1);
+        counts[server]++;
+        heapPush([arrival[i] + load[i], server]);
     }
 
-    const maxCount = Math.max(...count);
+    let max = 0;
+    for (let s = 0; s < k; s++) {
+        if (counts[s] > max) max = counts[s];
+    }
     const result = [];
-    for (let i = 0; i < k; i++) {
-        if (count[i] === maxCount) result.push(i);
+    for (let s = 0; s < k; s++) {
+        if (counts[s] === max) result.push(s);
     }
     return result;
 };
 // @lc code=end
 
 // TEST:
-console.log(JSON.stringify(busiestServers(3, [1, 2, 3, 4, 5], [5, 2, 3, 3, 3]))); // [1]
-console.log(JSON.stringify(busiestServers(3, [1, 2, 3, 4], [1, 2, 1, 2]))); // [0]
-console.log(JSON.stringify(busiestServers(3, [1, 2, 3], [10, 12, 11]))); // [0,1,2]
-console.log(JSON.stringify(busiestServers(1, [1], [1]))); // [0]
-console.log(JSON.stringify(busiestServers(2, [1, 2, 3], [1, 1, 1]))); // [0]
+console.log(JSON.stringify(busiestServers(3, [1, 2, 3, 4, 5], [5, 2, 3, 3, 3])) === JSON.stringify([1])); // [1]
+console.log(JSON.stringify(busiestServers(3, [1, 2, 3, 4], [1, 2, 1, 2])) === JSON.stringify([0])); // [0]
+console.log(JSON.stringify(busiestServers(3, [1, 2, 3], [10, 12, 11])) === JSON.stringify([0, 1, 2])); // [0,1,2]
+console.log(JSON.stringify(busiestServers(3, [1, 2, 3, 4, 8, 9, 10], [5, 2, 10, 3, 1, 2, 2])) === JSON.stringify([1])); // [1]
+console.log(JSON.stringify(busiestServers(1, [1], [1])) === JSON.stringify([0])); // [0]
+console.log(JSON.stringify(busiestServers(2, [1, 2, 3, 4], [1, 1, 1, 1])) === JSON.stringify([0, 1])); // 全部轮流处理
+console.log(JSON.stringify(busiestServers(4, [1, 2, 3, 4], [1, 1, 1, 1])) === JSON.stringify([0, 1, 2, 3])); // 各处理一个

@@ -1,0 +1,16 @@
+{
+ "fid": "3822",
+ "slug": "design-order-management-system",
+ "name": "设计订单管理系统",
+ "englishName": "Design Order Management System",
+ "level": "Medium",
+ "percent": 84.08,
+ "hints": [
+  "Keep track of orders by their <code>orderId</code> so you can quickly modify or cancel them.",
+  "Group active orders by <code>(orderType, price)</code> to efficiently answer queries.",
+  "When an order is modified or canceled, make sure all related data structures stay in sync."
+ ],
+ "sampleTestCase": "[\"OrderManagementSystem\",\"addOrder\",\"addOrder\",\"addOrder\",\"getOrdersAtPrice\",\"modifyOrder\",\"modifyOrder\",\"getOrdersAtPrice\",\"cancelOrder\",\"cancelOrder\",\"getOrdersAtPrice\"]\n[[],[1,\"buy\",1],[2,\"buy\",1],[3,\"sell\",2],[\"buy\",1],[1,3],[2,1],[\"buy\",1],[3],[2],[\"buy\",1]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,14 @@
+{
+ "fid": "333",
+ "slug": "largest-bst-subtree",
+ "name": "最大二叉搜索子树",
+ "englishName": "Largest BST Subtree",
+ "level": "Medium",
+ "percent": 50.59,
+ "hints": [
+  "You can recursively use algorithm similar to <a href=\"https://leetcode.com/problems/validate-binary-search-tree/\">98. Validate Binary Search Tree</a> at each node of the tree, which will result in O(nlogn) time complexity."
+ ],
+ "sampleTestCase": "[10,5,15,1,8,null,7]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

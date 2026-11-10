@@ -1,0 +1,14 @@
+{
+ "fid": "3437",
+ "slug": "permutations-iii",
+ "name": "全排列 III",
+ "englishName": "Permutations III",
+ "level": "Medium",
+ "percent": 79.4,
+ "hints": [
+  "Use backtracking to generate permutations of the first <code>n</code> positive integers while ensuring that each added number alternates between odd and even."
+ ],
+ "sampleTestCase": "4",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

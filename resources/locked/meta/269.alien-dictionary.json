@@ -1,0 +1,12 @@
+{
+ "fid": "269",
+ "slug": "alien-dictionary",
+ "name": "火星词典",
+ "englishName": "Alien Dictionary",
+ "level": "Hard",
+ "percent": 38.34,
+ "hints": [],
+ "sampleTestCase": "[\"wrt\",\"wrf\",\"er\",\"ett\",\"rftt\"]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

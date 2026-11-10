@@ -1,0 +1,12 @@
+{
+ "fid": "408",
+ "slug": "valid-word-abbreviation",
+ "name": "有效单词缩写",
+ "englishName": "Valid Word Abbreviation",
+ "level": "Easy",
+ "percent": 37.19,
+ "hints": [],
+ "sampleTestCase": "\"internationalization\"\n\"i12iz4n\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

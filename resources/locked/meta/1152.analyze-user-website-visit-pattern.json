@@ -1,0 +1,17 @@
+{
+ "fid": "1152",
+ "slug": "analyze-user-website-visit-pattern",
+ "name": "用户网站访问行为分析",
+ "englishName": "Analyze User Website Visit Pattern",
+ "level": "Medium",
+ "percent": 44.49,
+ "hints": [
+  "Let's find for every user separately the websites he visited.",
+  "Consider all possible 3-sequences, find the number of distinct users who visited each of them.",
+  "How to check if some user visited some 3-sequence ?",
+  "Store for every user all the 3-sequence he visited."
+ ],
+ "sampleTestCase": "[\"joe\",\"joe\",\"joe\",\"james\",\"james\",\"james\",\"james\",\"mary\",\"mary\",\"mary\"]\n[1,2,3,4,5,6,7,8,9,10]\n[\"home\",\"about\",\"career\",\"home\",\"cart\",\"maps\",\"home\",\"home\",\"about\",\"career\"]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

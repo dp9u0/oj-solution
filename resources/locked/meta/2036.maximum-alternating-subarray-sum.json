@@ -1,0 +1,17 @@
+{
+ "fid": "2036",
+ "slug": "maximum-alternating-subarray-sum",
+ "name": "最大交替子数组和",
+ "englishName": "Maximum Alternating Subarray Sum",
+ "level": "Medium",
+ "percent": 40.4,
+ "hints": [
+  "How can Kadane's Algorithm help us?",
+  "If you convert all the numbers at odd indices to the negative version of that number, the problem simplifies to finding the maximum subarray sum.",
+  "However, this strategy needs you to start each subarray at an even index.",
+  "Do the same except converting all the numbers at even indices to the negative version of that number."
+ ],
+ "sampleTestCase": "[3,-1,1,2]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

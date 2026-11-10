@@ -1,0 +1,14 @@
+{
+ "fid": "1066",
+ "slug": "campus-bikes-ii",
+ "name": "校园自行车分配 II",
+ "englishName": "Campus Bikes II",
+ "level": "Medium",
+ "percent": 54.1,
+ "hints": [
+  "Model the problem with a dp(pos, mask) where pos represents the current bike to be assigned and mask the set of available workers."
+ ],
+ "sampleTestCase": "[[0,0],[2,1]]\n[[1,2],[3,3]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

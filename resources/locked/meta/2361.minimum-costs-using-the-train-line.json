@@ -1,0 +1,17 @@
+{
+ "fid": "2361",
+ "slug": "minimum-costs-using-the-train-line",
+ "name": "乘坐火车路线的最少费用",
+ "englishName": "Minimum Costs Using the Train Line",
+ "level": "Hard",
+ "percent": 69.31,
+ "hints": [
+  "Notice and evaluate the different ways there are to move from one stop to the next.",
+  "From the express route at a previous stop, we can use either the express route or the regular route to the next stop without paying expressCost.",
+  "From the regular route at a previous stop, we can either use the express route after paying expressCost or use the regular route without paying expressCost.",
+  "Iterate through the stops and compare the above cases to obtain the minimum costs for each stop."
+ ],
+ "sampleTestCase": "[1,6,9,5]\n[5,2,3,10]\n8",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

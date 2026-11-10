@@ -1,0 +1,15 @@
+{
+ "fid": "1060",
+ "slug": "missing-element-in-sorted-array",
+ "name": "有序数组中的缺失元素",
+ "englishName": "Missing Element in Sorted Array",
+ "level": "Medium",
+ "percent": 57.3,
+ "hints": [
+  "First define a function f(x) that counts the number of missing elements until x.",
+  "Then use binary search with the given function f(x) to find the kth missing element."
+ ],
+ "sampleTestCase": "[4,7,9,10]\n1",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,14 @@
+{
+ "fid": "1056",
+ "slug": "confusing-number",
+ "name": "易混淆数",
+ "englishName": "Confusing Number",
+ "level": "Easy",
+ "percent": 42.62,
+ "hints": [
+  "Reverse each digit with their corresponding new digit if an invalid digit is found the return -1. After reversing the digits just compare the reversed number with the original number."
+ ],
+ "sampleTestCase": "6",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

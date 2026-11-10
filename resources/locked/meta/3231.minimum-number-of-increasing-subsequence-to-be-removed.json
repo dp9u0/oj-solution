@@ -1,0 +1,16 @@
+{
+ "fid": "3231",
+ "slug": "minimum-number-of-increasing-subsequence-to-be-removed",
+ "name": "要删除的递增子序列的最小数量",
+ "englishName": "Minimum Number of Increasing Subsequence to Be Removed",
+ "level": "Hard",
+ "percent": 19.66,
+ "hints": [
+  "Find the longest non-increasing subsequence.",
+  "No two elements of this sequence can be removed in one operation.",
+  "Try to prove that the answer is equal to the length of this sequence."
+ ],
+ "sampleTestCase": "[5,3,1,4,2]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

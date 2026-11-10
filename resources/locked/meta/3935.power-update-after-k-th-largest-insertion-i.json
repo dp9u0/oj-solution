@@ -1,0 +1,16 @@
+{
+ "fid": "3935",
+ "slug": "power-update-after-k-th-largest-insertion-i",
+ "name": "插入后第 K 大更新的幂 I",
+ "englishName": "Power Update After K-th Largest Insertion I",
+ "level": "Medium",
+ "percent": 88.55,
+ "hints": [
+  "Keep the largest <code>k</code> elements separately. The answer is the smallest among them.",
+  "After inserting a value, rebalance the two sets/heaps so the “top <code>k</code>” side has exactly <code>k</code> elements. Since <code>abs(k<sub>i</sub> - k<sub>i-1</sub>) < 10</code>, only a few elements move each query.",
+  "Update <code>p</code> with fast modular exponentiation."
+ ],
+ "sampleTestCase": "[2]\n4\n[[3,1],[1,2]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

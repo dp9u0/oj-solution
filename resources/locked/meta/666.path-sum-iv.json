@@ -1,0 +1,12 @@
+{
+ "fid": "666",
+ "slug": "path-sum-iv",
+ "name": "路径总和 IV",
+ "englishName": "Path Sum IV",
+ "level": "Medium",
+ "percent": 58.83,
+ "hints": [],
+ "sampleTestCase": "[113,215,221]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

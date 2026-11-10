@@ -1,0 +1,12 @@
+{
+ "fid": "249",
+ "slug": "group-shifted-strings",
+ "name": "移位字符串分组",
+ "englishName": "Group Shifted Strings",
+ "level": "Medium",
+ "percent": 64.84,
+ "hints": [],
+ "sampleTestCase": "[\"abc\",\"bcd\",\"acef\",\"xyz\",\"az\",\"ba\",\"a\",\"z\"]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

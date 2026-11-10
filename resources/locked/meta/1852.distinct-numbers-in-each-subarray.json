@@ -1,0 +1,16 @@
+{
+ "fid": "1852",
+ "slug": "distinct-numbers-in-each-subarray",
+ "name": "每个子数组的数字种类数",
+ "englishName": "Distinct Numbers in Each Subarray",
+ "level": "Medium",
+ "percent": 72.47,
+ "hints": [
+  "Keep a frequency map of the elements in each window.",
+  "When the frequency of the element is 0, remove it from the map.",
+  "The answer to each window is the size of the map."
+ ],
+ "sampleTestCase": "[1,2,3,2,2,1,3]\n3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

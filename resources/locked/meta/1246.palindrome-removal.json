@@ -1,0 +1,16 @@
+{
+ "fid": "1246",
+ "slug": "palindrome-removal",
+ "name": "删除回文子数组",
+ "englishName": "Palindrome Removal",
+ "level": "Hard",
+ "percent": 50.01,
+ "hints": [
+  "Use dynamic programming.",
+  "Let dp[i][j] be the solution for the sub-array from index i to index j.",
+  "Notice that if we have S[i] == S[j] one transition could be just dp(i + 1, j + 1) because in the last turn we would have a palindrome and we can extend this palindrome from both sides, the other transitions are not too difficult to deduce."
+ ],
+ "sampleTestCase": "[1,2]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

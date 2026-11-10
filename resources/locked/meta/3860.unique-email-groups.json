@@ -1,0 +1,14 @@
+{
+ "fid": "3860",
+ "slug": "unique-email-groups",
+ "name": "不同邮件组",
+ "englishName": "Unique Email Groups",
+ "level": "Medium",
+ "percent": 77.08,
+ "hints": [
+  "Simulate the normalization process as described, and use an unordered set (or set) to keep track of unique normalized email addresses."
+ ],
+ "sampleTestCase": "[\"test.email+alex@leetcode.com\", \"test.e.mail+bob.cathy@leetcode.com\", \"testemail+david@lee.tcode.com\"]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

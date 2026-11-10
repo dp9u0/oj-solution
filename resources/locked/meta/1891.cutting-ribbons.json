@@ -1,0 +1,15 @@
+{
+ "fid": "1891",
+ "slug": "cutting-ribbons",
+ "name": "割绳子",
+ "englishName": "Cutting Ribbons",
+ "level": "Medium",
+ "percent": 44.78,
+ "hints": [
+  "Use binary search on the answer.",
+  "You can get l/m branches of length m from a branch with length l."
+ ],
+ "sampleTestCase": "[9,7,5]\n3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

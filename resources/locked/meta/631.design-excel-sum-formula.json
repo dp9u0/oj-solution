@@ -1,0 +1,12 @@
+{
+ "fid": "631",
+ "slug": "design-excel-sum-formula",
+ "name": "设计 Excel 求和公式",
+ "englishName": "Design Excel Sum Formula",
+ "level": "Hard",
+ "percent": 34.59,
+ "hints": [],
+ "sampleTestCase": "[\"Excel\",\"set\",\"sum\",\"set\",\"get\"]\n[[3,\"C\"],[1,\"A\",2],[3,\"C\",[\"A1\",\"A1:B2\"]],[2,\"B\",2],[3,\"C\"]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

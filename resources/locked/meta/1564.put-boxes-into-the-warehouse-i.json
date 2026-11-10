@@ -1,0 +1,14 @@
+{
+ "fid": "1564",
+ "slug": "put-boxes-into-the-warehouse-i",
+ "name": "把箱子放进仓库里 I",
+ "englishName": "Put Boxes Into the Warehouse I",
+ "level": "Medium",
+ "percent": 60.47,
+ "hints": [
+  "Sort the boxes in ascending order, try to process the box with the smallest height first."
+ ],
+ "sampleTestCase": "[4,3,4,1]\n[5,3,3,4,1]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

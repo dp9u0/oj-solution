@@ -1,0 +1,12 @@
+{
+ "fid": "346",
+ "slug": "moving-average-from-data-stream",
+ "name": "数据流中的移动平均值",
+ "englishName": "Moving Average from Data Stream",
+ "level": "Easy",
+ "percent": 73.6,
+ "hints": [],
+ "sampleTestCase": "[\"MovingAverage\",\"next\",\"next\",\"next\",\"next\"]\n[[3],[1],[10],[3],[5]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

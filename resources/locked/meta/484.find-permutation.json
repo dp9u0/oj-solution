@@ -1,0 +1,12 @@
+{
+ "fid": "484",
+ "slug": "find-permutation",
+ "name": "寻找排列",
+ "englishName": "Find Permutation",
+ "level": "Medium",
+ "percent": 61.41,
+ "hints": [],
+ "sampleTestCase": "\"I\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

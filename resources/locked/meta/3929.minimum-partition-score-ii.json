@@ -1,0 +1,16 @@
+{
+ "fid": "3929",
+ "slug": "minimum-partition-score-ii",
+ "name": "最小分割分数 II",
+ "englishName": "Minimum Partition Score II",
+ "level": "Hard",
+ "percent": 62.58,
+ "hints": [
+  "Use prefix sums to rewrite the value of any subarray in O(1).",
+  "Consider DP transitions of the form: <code>dp[i] = min(dp[j] + cost(j + 1, i))</code>.\r\nExpand the cost formula algebraically. The transition can be rewritten as a minimum over linear functions.",
+  "Instead of DP on the number of partitions, add a penalty for creating a subarray and binary search that penalty."
+ ],
+ "sampleTestCase": "[5,1,2,1]\n2",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

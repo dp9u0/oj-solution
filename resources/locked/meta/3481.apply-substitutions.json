@@ -1,0 +1,15 @@
+{
+ "fid": "3481",
+ "slug": "apply-substitutions",
+ "name": "应用替换",
+ "englishName": "Apply Substitutions",
+ "level": "Medium",
+ "percent": 85.64,
+ "hints": [
+  "Build a dependency graph where each key is a node, and add an edge from key <code>X</code> to key <code>Y</code> if the replacement value for <code>Y</code> contains the placeholder <code>%X%</code>. Then perform a topological sort to determine a valid order for substitution.",
+  "Process the keys in the topologically sorted order by replacing placeholders in each replacement value with its fully expanded value. Finally, substitute the placeholders in the text using these computed values."
+ ],
+ "sampleTestCase": "[[\"A\",\"abc\"],[\"B\",\"def\"]]\n\"%A%_%B%\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

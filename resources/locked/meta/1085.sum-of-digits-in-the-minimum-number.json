@@ -1,0 +1,17 @@
+{
+ "fid": "1085",
+ "slug": "sum-of-digits-in-the-minimum-number",
+ "name": "最小元素各数位之和",
+ "englishName": "Sum of Digits in the Minimum Number",
+ "level": "Easy",
+ "percent": 77.53,
+ "hints": [
+  "How to find the minimum number in an array?",
+  "Loop over the array and compare each one of the numbers.",
+  "How to find the sum of digits?",
+  "Divide the number consecutively and get their remainder modulus 10. Sum those remainders and return the answer as the problem asks."
+ ],
+ "sampleTestCase": "[34,23,1,24,75,33,54,8]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,17 @@
+{
+ "fid": "4082",
+ "slug": "minimum-operations-to-stabilize-a-binary-tree",
+ "name": "稳定二叉树的最小操作次数",
+ "englishName": "Minimum Operations to Stabilize a Binary Tree",
+ "level": "Hard",
+ "percent": 81.4,
+ "hints": [
+  "<p>Try using tree DP. Let <code>dp[u](x)</code> represent the minimum number of operations needed to make the subtree rooted at <code>u</code> stable, assuming the final value of node <code>u</code> is <code>x</code>.</p>",
+  "<p>If node <code>u</code> has a child <code>v</code>, the final value of <code>v</code> must differ from <code>x</code> by at most 1. Therefore, the contribution of this child is <code>min(dp[v](x - 1), dp[v](x), dp[v](x + 1))</code>. How can you combine the contributions of all children?</p>",
+  "<p>Computing the DP for every possible value of <code>x</code> would be too expensive. Observe that each DP function is convex and piecewise linear. Can you represent such a function efficiently using its breakpoints instead of storing all its values?</p>",
+  "<p>Consider how taking the minimum over <code>[x - 1, x + 1]</code> changes the breakpoints of a convex function. Use an efficient data structure to maintain these breakpoints and merge the functions of different subtrees.</p>"
+ ],
+ "sampleTestCase": "[5,8,3]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

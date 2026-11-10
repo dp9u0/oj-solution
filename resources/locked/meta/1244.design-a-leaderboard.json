@@ -1,0 +1,16 @@
+{
+ "fid": "1244",
+ "slug": "design-a-leaderboard",
+ "name": "力扣排行榜",
+ "englishName": "Design A Leaderboard",
+ "level": "Medium",
+ "percent": 64.98,
+ "hints": [
+  "What data structure can we use to keep the players' data?",
+  "Keep a map (dictionary) of player scores.",
+  "For each top(K) function call, find the maximum K scores and add them."
+ ],
+ "sampleTestCase": "[\"Leaderboard\",\"addScore\",\"addScore\",\"addScore\",\"addScore\",\"addScore\",\"top\",\"reset\",\"reset\",\"addScore\",\"top\"]\n[[],[1,73],[2,56],[3,39],[4,51],[5,4],[1],[1],[2],[2,51],[3]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

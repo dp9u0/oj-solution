@@ -1,0 +1,16 @@
+{
+ "fid": "1215",
+ "slug": "stepping-numbers",
+ "name": "步进数",
+ "englishName": "Stepping Numbers",
+ "level": "Medium",
+ "percent": 45.8,
+ "hints": [
+  "Try to generate the numbers using recursion.",
+  "In one step in the recursion, add a valid digit to the right of the current number.",
+  "Save the number if it's in the range between low and high."
+ ],
+ "sampleTestCase": "0\n21",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

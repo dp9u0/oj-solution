@@ -1,0 +1,12 @@
+{
+ "fid": "353",
+ "slug": "design-snake-game",
+ "name": "贪吃蛇",
+ "englishName": "Design Snake Game",
+ "level": "Medium",
+ "percent": 42.63,
+ "hints": [],
+ "sampleTestCase": "[\"SnakeGame\",\"move\",\"move\",\"move\",\"move\",\"move\",\"move\"]\n[[3,2,[[1,2],[0,1]]],[\"R\"],[\"D\"],[\"R\"],[\"U\"],[\"L\"],[\"U\"]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

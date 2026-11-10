@@ -1,0 +1,15 @@
+{
+ "fid": "1868",
+ "slug": "product-of-two-run-length-encoded-arrays",
+ "name": "两个行程编码数组的积",
+ "englishName": "Product of Two Run-Length Encoded Arrays",
+ "level": "Medium",
+ "percent": 48.98,
+ "hints": [
+  "Keep track of the indices on both RLE arrays and join the parts together.",
+  "What is the maximum number of segments if we took the minimum number of elements left on both the current segments every time?"
+ ],
+ "sampleTestCase": "[[1,3],[2,3]]\n[[6,3],[3,3]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

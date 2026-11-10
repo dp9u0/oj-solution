@@ -1,0 +1,15 @@
+{
+ "fid": "2473",
+ "slug": "minimum-cost-to-buy-apples",
+ "name": "购买苹果的最低成本",
+ "englishName": "Minimum Cost to Buy Apples",
+ "level": "Medium",
+ "percent": 56.74,
+ "hints": [
+  "Notice that the path you take to buy an apple will be the same path to return to the starting city.",
+  "Starting from each city, use Dijkstra’s algorithm to find the best city to travel to."
+ ],
+ "sampleTestCase": "4\n[[1,2,4],[2,3,2],[2,4,5],[3,4,1],[1,3,4]]\n[56,42,102,301]\n2",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

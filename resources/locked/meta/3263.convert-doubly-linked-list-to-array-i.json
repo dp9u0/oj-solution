@@ -1,0 +1,12 @@
+{
+ "fid": "3263",
+ "slug": "convert-doubly-linked-list-to-array-i",
+ "name": "将双链表转换为数组 I",
+ "englishName": "Convert Doubly Linked List to Array I",
+ "level": "Easy",
+ "percent": 59.75,
+ "hints": [],
+ "sampleTestCase": "[1,2,3,4,3,2,1]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

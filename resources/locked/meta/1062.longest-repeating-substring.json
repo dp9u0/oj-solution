@@ -1,0 +1,15 @@
+{
+ "fid": "1062",
+ "slug": "longest-repeating-substring",
+ "name": "最长重复子串的长度",
+ "englishName": "Longest Repeating Substring",
+ "level": "Medium",
+ "percent": 58.39,
+ "hints": [
+  "Generate all substrings in O(N^2) time with hashing.",
+  "Choose those hashing of strings with the largest length."
+ ],
+ "sampleTestCase": "\"abcd\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

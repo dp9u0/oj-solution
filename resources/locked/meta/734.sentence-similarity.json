@@ -1,0 +1,14 @@
+{
+ "fid": "734",
+ "slug": "sentence-similarity",
+ "name": "句子相似性",
+ "englishName": "Sentence Similarity",
+ "level": "Easy",
+ "percent": 49.31,
+ "hints": [
+  "Two words w1 and w2 are similar if and only if w1 == w2, (w1, w2) was a pair, or (w2, w1) was a pair."
+ ],
+ "sampleTestCase": "[\"great\",\"acting\",\"skills\"]\n[\"fine\",\"drama\",\"talent\"]\n[[\"great\",\"fine\"],[\"drama\",\"acting\"],[\"skills\",\"talent\"]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

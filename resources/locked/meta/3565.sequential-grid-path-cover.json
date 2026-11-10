@@ -1,0 +1,14 @@
+{
+ "fid": "3565",
+ "slug": "sequential-grid-path-cover",
+ "name": "顺序网格路径覆盖",
+ "englishName": "Sequential Grid Path Cover",
+ "level": "Medium",
+ "percent": 66.47,
+ "hints": [
+  "Use recursive backtracking."
+ ],
+ "sampleTestCase": "[[0,0,0],[0,1,2]]\n2",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

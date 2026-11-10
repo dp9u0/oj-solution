@@ -1,0 +1,14 @@
+{
+ "fid": "3353",
+ "slug": "minimum-total-operations",
+ "name": "最小总操作数",
+ "englishName": "Minimum Total Operations",
+ "level": "Easy",
+ "percent": 28.25,
+ "hints": [
+  "Would you ever change the last element of the array?"
+ ],
+ "sampleTestCase": "[1,4,2]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

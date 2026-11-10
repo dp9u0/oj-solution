@@ -1,0 +1,12 @@
+{
+ "fid": "444",
+ "slug": "sequence-reconstruction",
+ "name": "序列重建",
+ "englishName": "Sequence Reconstruction",
+ "level": "Medium",
+ "percent": 33.07,
+ "hints": [],
+ "sampleTestCase": "[1,2,3]\n[[1,2],[1,3]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

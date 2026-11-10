@@ -1,0 +1,17 @@
+{
+ "fid": "1698",
+ "slug": "number-of-distinct-substrings-in-a-string",
+ "name": "字符串的不同子字符串个数",
+ "englishName": "Number of Distinct Substrings in a String",
+ "level": "Medium",
+ "percent": 55.9,
+ "hints": [
+  "Calculate the prefix hashing array for s.",
+  "Use the prefix hashing array to calculate the hashing value of each substring.",
+  "Compare the hashing values to determine the unique substrings.",
+  "There could be collisions if you use hashing, what about double hashing."
+ ],
+ "sampleTestCase": "\"aabbaba\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

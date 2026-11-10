@@ -1,0 +1,16 @@
+{
+ "fid": "2737",
+ "slug": "find-the-closest-marked-node",
+ "name": "找到最近的标记节点",
+ "englishName": "Find the Closest Marked Node",
+ "level": "Medium",
+ "percent": 31.32,
+ "hints": [
+  "Find the distance from s to all nodes.",
+  "You can use Dijkstra to find them.",
+  "Find the minimum distance between marked nodes."
+ ],
+ "sampleTestCase": "4\n[[0,1,1],[1,2,3],[2,3,2],[0,3,4]]\n0\n[2,3]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,15 @@
+{
+ "fid": "2291",
+ "slug": "maximum-profit-from-trading-stocks",
+ "name": "最大股票收益",
+ "englishName": "Maximum Profit From Trading Stocks",
+ "level": "Medium",
+ "percent": 57.56,
+ "hints": [
+  "Think of the 0-1 Knapsack Problem.",
+  "For the ith stock, the weight is present[i], and the value is future[i] - present[i]."
+ ],
+ "sampleTestCase": "[5,4,6,2,3]\n[8,5,4,3,5]\n10",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

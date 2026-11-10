@@ -1,0 +1,17 @@
+{
+ "fid": "3967",
+ "slug": "finish-time-of-tasks-ii",
+ "name": "任务完成时间 II",
+ "englishName": "Finish Time of Tasks II",
+ "level": "Hard",
+ "percent": 86.49,
+ "hints": [
+  "Rooting the tree at different nodes only changes which neighbors are treated as children.",
+  "For every directed edge <code>u -> v</code>, compute the finish time of the component on the <code>v</code> side when <code>u</code> is considered its parent.",
+  "Use rerooting DP: after computing values from children to parent, propagate values from parent to children.",
+  "For each node, you only need the minimum and maximum finish times among all neighboring components to compute its finish time as the root."
+ ],
+ "sampleTestCase": "3\n[[0,1],[1,2]]\n[9,1,5]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

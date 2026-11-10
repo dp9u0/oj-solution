@@ -1,0 +1,12 @@
+{
+ "fid": "163",
+ "slug": "missing-ranges",
+ "name": "缺失的区间",
+ "englishName": "Missing Ranges",
+ "level": "Easy",
+ "percent": 37.13,
+ "hints": [],
+ "sampleTestCase": "[0,1,3,50,75]\n0\n99",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,17 @@
+{
+ "fid": "314",
+ "slug": "binary-tree-vertical-order-traversal",
+ "name": "二叉树的垂直遍历",
+ "englishName": "Binary Tree Vertical Order Traversal",
+ "level": "Medium",
+ "percent": 58.13,
+ "hints": [
+  "Do BFS from the root. Let the root be at column 0. In the BFS, keep in the queue the node and its column.",
+  "When you traverse a node, store its value in the column index. For example, the root's value should be stored at index 0.",
+  "If the node has a left node, it column should be col - 1. Similarly, if the node has a right node, its column should be col + 1.",
+  "At the end, check the minimum and maximum col and output their values."
+ ],
+ "sampleTestCase": "[3,9,20,null,null,15,7]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,14 @@
+{
+ "fid": "1506",
+ "slug": "find-root-of-n-ary-tree",
+ "name": "找到 N 叉树的根节点",
+ "englishName": "Find Root of N-Ary Tree",
+ "level": "Medium",
+ "percent": 81.07,
+ "hints": [
+  "Node with indegree 0 is the root"
+ ],
+ "sampleTestCase": "[1,null,3,2,4,null,5,6]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

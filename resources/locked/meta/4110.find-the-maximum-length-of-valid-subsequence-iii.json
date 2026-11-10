@@ -1,0 +1,17 @@
+{
+ "fid": "4110",
+ "slug": "find-the-maximum-length-of-valid-subsequence-iii",
+ "name": "Find the Maximum Length of Valid Subsequence III",
+ "englishName": "Find the Maximum Length of Valid Subsequence III",
+ "level": "Medium",
+ "percent": null,
+ "hints": [
+  "<strong>1a (Dynamic Programming)</strong>: If the last element of a valid subsequence has remainder <code>r</code> modulo <code>k</code>, the next element must have remainder <code>(k - r) % k</code>.",
+  "<strong>1b (Dynamic Programming)</strong>: Scan <code>nums</code> from left to right. Store the longest valid subsequence ending at each remainder. For the current remainder, extend the best subsequence ending at its complementary remainder, or start a new subsequence if none exists.",
+  "<strong>2a (Greedy)</strong>: A valid subsequence uses only a pair of complementary remainders. If a remainder is its own complement, every occurrence of that remainder can be selected.",
+  "<strong>2b (Greedy)</strong>: For a pair of different complementary remainders, ignore all other elements. The longest alternating subsequence takes one element from each consecutive run of equal remainders in the filtered sequence."
+ ],
+ "sampleTestCase": "[1,2,3,4,5]\n3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

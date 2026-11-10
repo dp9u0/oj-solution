@@ -1,0 +1,16 @@
+{
+ "fid": "3476",
+ "slug": "maximize-profit-from-task-assignment",
+ "name": "最大化任务分配的利润",
+ "englishName": "Maximize Profit from Task Assignment",
+ "level": "Medium",
+ "percent": 65.54,
+ "hints": [
+  "Use a hashmap to group the tasks by their required skill level <code>tasks[i][0]</code>",
+  "For each worker, assign the highest profit task from the hashmap that matches their exact skill requirement",
+  "Assign the task with the maximum profit among the unassigned tasks to the extra worker"
+ ],
+ "sampleTestCase": "[1,2,3,4,5]\n[[1,100],[2,400],[3,100],[3,400]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

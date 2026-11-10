@@ -1,0 +1,15 @@
+{
+ "fid": "3269",
+ "slug": "constructing-two-increasing-arrays",
+ "name": "构建两个递增数组",
+ "englishName": "Constructing Two Increasing Arrays",
+ "level": "Hard",
+ "percent": 27.75,
+ "hints": [
+  "Think of dynamic programming.",
+  "Define <code>dp[i][j][flag]</code> as the answer to the problem if we only consider the first <code>i</code> elements of the first array, the first <code>j</code> elements of the second array, and flag is either 0 or 1 indicating which array contains the largest element."
+ ],
+ "sampleTestCase": "[]\n[1,0,1,1]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

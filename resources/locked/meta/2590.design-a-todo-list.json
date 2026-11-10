@@ -1,0 +1,12 @@
+{
+ "fid": "2590",
+ "slug": "design-a-todo-list",
+ "name": "设计一个待办事项清单",
+ "englishName": "Design a Todo List",
+ "level": "Medium",
+ "percent": 54.12,
+ "hints": [],
+ "sampleTestCase": "[\"TodoList\",\"addTask\",\"addTask\",\"getAllTasks\",\"getAllTasks\",\"addTask\",\"getTasksForTag\",\"completeTask\",\"completeTask\",\"getTasksForTag\",\"getAllTasks\"]\n[[],[1,\"Task1\",50,[]],[1,\"Task2\",100,[\"P1\"]],[1],[5],[1,\"Task3\",30,[\"P1\"]],[1,\"P1\"],[5,1],[1,2],[1,\"P1\"],[1]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

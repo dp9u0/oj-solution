@@ -1,0 +1,12 @@
+{
+ "fid": "157",
+ "slug": "read-n-characters-given-read4",
+ "name": "用 Read4 读取 N 个字符",
+ "englishName": "Read N Characters Given Read4",
+ "level": "Easy",
+ "percent": 56.02,
+ "hints": [],
+ "sampleTestCase": "\"abc\"\n4",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

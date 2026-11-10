@@ -1,0 +1,15 @@
+{
+ "fid": "2077",
+ "slug": "paths-in-maze-that-lead-to-same-room",
+ "name": "殊途同归",
+ "englishName": "Paths in Maze That Lead to Same Room",
+ "level": "Medium",
+ "percent": 58.04,
+ "hints": [
+  "If the path starts at room i, what properties must the other two rooms in the cycle have?",
+  "The other two rooms must be connected to room i, and must be connected to each other."
+ ],
+ "sampleTestCase": "5\n[[1,2],[5,2],[4,1],[2,4],[3,1],[3,4]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

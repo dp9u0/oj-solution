@@ -1,0 +1,12 @@
+{
+ "fid": "708",
+ "slug": "insert-into-a-sorted-circular-linked-list",
+ "name": "循环有序列表的插入",
+ "englishName": "Insert into a Sorted Circular Linked List",
+ "level": "Medium",
+ "percent": 38.88,
+ "hints": [],
+ "sampleTestCase": "[3,4,1]\n2",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

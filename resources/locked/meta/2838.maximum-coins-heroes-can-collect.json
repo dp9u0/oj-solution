@@ -1,0 +1,18 @@
+{
+ "fid": "2838",
+ "slug": "maximum-coins-heroes-can-collect",
+ "name": "英雄可以获得的最大金币数",
+ "englishName": "Maximum Coins Heroes Can Collect",
+ "level": "Medium",
+ "percent": 42.19,
+ "hints": [
+  "If a hero can defeat the <code>i<sup>th</sup></code> monster, then he defeats all the monsters having a power less than <code>monster[i]</code>.",
+  "Sort monsters by their powers. Also change the order of the coins array according to this sort.",
+  "Construct a prefix sum array for the updated coins array.",
+  "For each hero, do a binary search and find the last position of the most powerful monster that this hero can defeat.",
+  "If said monster has index <code>i</code>, then the <code>i<sup>th</sup></code> element of the partial sum array would be the answer."
+ ],
+ "sampleTestCase": "[1,4,2]\n[1,1,5,2,3]\n[2,3,4,5,6]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

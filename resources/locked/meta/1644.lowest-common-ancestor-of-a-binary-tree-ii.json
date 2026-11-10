@@ -1,0 +1,15 @@
+{
+ "fid": "1644",
+ "slug": "lowest-common-ancestor-of-a-binary-tree-ii",
+ "name": "二叉树的最近公共祖先 II",
+ "englishName": "Lowest Common Ancestor of a Binary Tree II",
+ "level": "Medium",
+ "percent": 61.87,
+ "hints": [
+  "Traverse the graph visiting root, left, root, right, root to make an Euler Path",
+  "Return the node (LCA) that is at the lowest depth between p and q in the Euler Path"
+ ],
+ "sampleTestCase": "[3,5,1,6,2,0,8,null,null,7,4]\n5\n1",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

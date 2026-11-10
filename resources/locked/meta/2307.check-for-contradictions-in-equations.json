@@ -1,0 +1,16 @@
+{
+ "fid": "2307",
+ "slug": "check-for-contradictions-in-equations",
+ "name": "检查方程中的矛盾之处",
+ "englishName": "Check for Contradictions in Equations",
+ "level": "Hard",
+ "percent": 45.67,
+ "hints": [
+  "Try treating this as a graph problem.",
+  "Each variable is a node, and each equation is an edge.",
+  "Try performing DFS multiple times to find contradictions."
+ ],
+ "sampleTestCase": "[[\"a\",\"b\"],[\"b\",\"c\"],[\"a\",\"c\"]]\n[3,0.5,1.5]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

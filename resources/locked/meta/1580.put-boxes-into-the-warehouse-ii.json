@@ -1,0 +1,15 @@
+{
+ "fid": "1580",
+ "slug": "put-boxes-into-the-warehouse-ii",
+ "name": "把箱子放进仓库里 II",
+ "englishName": "Put Boxes Into the Warehouse II",
+ "level": "Medium",
+ "percent": 53.54,
+ "hints": [
+  "Try to put at least one box in the house pushing it from either side.",
+  "Once you put one box to the house, you can solve the problem with the same logic used to solve version I. You have a warehouse open from the left only and a warehouse open from the right only."
+ ],
+ "sampleTestCase": "[1,2,2,3,4]\n[3,4,1,2]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

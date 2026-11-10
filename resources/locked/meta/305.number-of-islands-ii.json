@@ -1,0 +1,12 @@
+{
+ "fid": "305",
+ "slug": "number-of-islands-ii",
+ "name": "岛屿数量 II",
+ "englishName": "Number of Islands II",
+ "level": "Hard",
+ "percent": 42.38,
+ "hints": [],
+ "sampleTestCase": "3\n3\n[[0,0],[0,1],[1,2],[2,1]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

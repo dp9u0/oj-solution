@@ -1,0 +1,15 @@
+{
+ "fid": "1426",
+ "slug": "counting-elements",
+ "name": "数元素",
+ "englishName": "Counting Elements",
+ "level": "Easy",
+ "percent": 66.93,
+ "hints": [
+  "Use hashset to store all elements.",
+  "Loop again to count all valid elements."
+ ],
+ "sampleTestCase": "[1,2,3]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,17 @@
+{
+ "fid": "1628",
+ "slug": "design-an-expression-tree-with-evaluate-function",
+ "name": "设计带解析函数的表达式树",
+ "englishName": "Design an Expression Tree With Evaluate Function",
+ "level": "Medium",
+ "percent": 82.12,
+ "hints": [
+  "Apply the concept of Polymorphism to get a good design",
+  "Implement the Node class using NumericNode and OperatorNode classes.",
+  "NumericNode only maintains the value and evaluate returns this value.",
+  "OperatorNode Maintains the left and right nodes representing the left and right operands, and the evaluate function applies the operator to them."
+ ],
+ "sampleTestCase": "[\"3\",\"4\",\"+\",\"2\",\"*\",\"7\",\"/\"]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

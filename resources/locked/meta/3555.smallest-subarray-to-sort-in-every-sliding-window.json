@@ -1,0 +1,15 @@
+{
+ "fid": "3555",
+ "slug": "smallest-subarray-to-sort-in-every-sliding-window",
+ "name": "排序每个滑动窗口中最小的子数组",
+ "englishName": "Smallest Subarray to Sort in Every Sliding Window",
+ "level": "Medium",
+ "percent": 69.84,
+ "hints": [
+  "Solve for each subarray independently.",
+  "What are the extreme positions that need to be included in the segment to make the subarray non‑decreasing?"
+ ],
+ "sampleTestCase": "[1,3,2,4,5]\n3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

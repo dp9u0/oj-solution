@@ -1,0 +1,17 @@
+{
+ "fid": "3215",
+ "slug": "count-triplets-with-even-xor-set-bits-ii",
+ "name": "用偶数异或设置位计数三元组 II",
+ "englishName": "Count Triplets with Even XOR Set Bits II",
+ "level": "Medium",
+ "percent": 27.08,
+ "hints": [
+  "If <code>x</code> and <code>y</code> both have an even number of set bits, how many set bits do their XOR have?",
+  "If exactly one of <code>x</code> and <code>y</code> has an even number of set bits, how many set bits do their XOR have?",
+  "Conclude that if the XOR of three elements would have an even number of set bits, an even number of them (0 or 2) should have an odd number of set bits!",
+  "For each array count the number of elements that have even set bits and also count the ones that have odd set bits."
+ ],
+ "sampleTestCase": "[1]\n[2]\n[3]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,14 @@
+{
+ "fid": "727",
+ "slug": "minimum-window-subsequence",
+ "name": "最小窗口子序列",
+ "englishName": "Minimum Window Subsequence",
+ "level": "Hard",
+ "percent": 43.72,
+ "hints": [
+  "Let dp[j][e] = s be the largest index for which S[s:e+1] has T[:j] as a substring."
+ ],
+ "sampleTestCase": "\"abcdebdde\"\n\"bde\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,17 @@
+{
+ "fid": "2979",
+ "slug": "most-expensive-item-that-can-not-be-bought",
+ "name": "最贵的无法购买的商品",
+ "englishName": "Most Expensive Item That Can Not Be Bought",
+ "level": "Medium",
+ "percent": 31.25,
+ "hints": [
+  "Write out a few cases. It can be seen that all items greater than <code>primeOne * primeTwo</code> can always be bought.",
+  "If we can buy items with cost <code>i</code>, we can also buy items with price <code>i + primeOne</code> and <code>i + primeTwo</code>.",
+  "Use dynamic programming.",
+  "There is an O(1) solution: Use the Chicken McNugget Theorem."
+ ],
+ "sampleTestCase": "2\n5",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

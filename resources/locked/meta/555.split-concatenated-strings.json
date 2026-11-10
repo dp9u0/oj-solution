@@ -1,0 +1,12 @@
+{
+ "fid": "555",
+ "slug": "split-concatenated-strings",
+ "name": "分割连接字符串",
+ "englishName": "Split Concatenated Strings",
+ "level": "Medium",
+ "percent": 38.94,
+ "hints": [],
+ "sampleTestCase": "[\"abc\",\"xyz\"]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

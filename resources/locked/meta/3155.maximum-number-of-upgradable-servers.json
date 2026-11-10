@@ -1,0 +1,14 @@
+{
+ "fid": "3155",
+ "slug": "maximum-number-of-upgradable-servers",
+ "name": "可升级服务器的最大数量",
+ "englishName": "Maximum Number of Upgradable Servers",
+ "level": "Medium",
+ "percent": 21.88,
+ "hints": [
+  "Use binary search to find the maximum number of servers that can be upgraded for each data center separately."
+ ],
+ "sampleTestCase": "[4,3]\n[3,5]\n[4,2]\n[8,9]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

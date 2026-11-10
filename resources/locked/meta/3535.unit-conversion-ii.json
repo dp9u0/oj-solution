@@ -1,0 +1,15 @@
+{
+ "fid": "3535",
+ "slug": "unit-conversion-ii",
+ "name": "单位转换 II",
+ "englishName": "Unit Conversion II",
+ "level": "Medium",
+ "percent": 84.62,
+ "hints": [
+  "Using a dfs, compute an array <code>fromRoot</code> such that <code>fromRoot[a]</code> is the number of units of type <code>a</code> equivalent to a single unit of type 0.",
+  "<code>answer[i] = fromRoot[unitA<sub>i</sub>]<sup>-1</sup> * fromRoot[unitB<sub>i</sub>]</code>"
+ ],
+ "sampleTestCase": "[[0,1,2],[0,2,6]]\n[[1,2],[1,0]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

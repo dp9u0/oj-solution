@@ -1,0 +1,12 @@
+{
+ "fid": "428",
+ "slug": "serialize-and-deserialize-n-ary-tree",
+ "name": "序列化和反序列化 N 叉树",
+ "englishName": "Serialize and Deserialize N-ary Tree",
+ "level": "Hard",
+ "percent": 71.3,
+ "hints": [],
+ "sampleTestCase": "[1,null,2,3,4,5,null,null,6,7,null,8,null,9,10,null,null,11,null,12,null,13,null,null,14]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

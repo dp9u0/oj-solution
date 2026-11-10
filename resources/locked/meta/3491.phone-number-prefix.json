@@ -1,0 +1,15 @@
+{
+ "fid": "3491",
+ "slug": "phone-number-prefix",
+ "name": "电话号码前缀",
+ "englishName": "Phone Number Prefix",
+ "level": "Easy",
+ "percent": 79.43,
+ "hints": [
+  "Sort the array.",
+  "For every adjacent pair, check if the left number is a prefix of the right number."
+ ],
+ "sampleTestCase": "[\"1\",\"2\",\"4\",\"3\"]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

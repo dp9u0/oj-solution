@@ -1,0 +1,14 @@
+{
+ "fid": "3758",
+ "slug": "convert-number-words-to-digits",
+ "name": "将数字词转换为数字",
+ "englishName": "Convert Number Words to Digits",
+ "level": "Medium",
+ "percent": 82.1,
+ "hints": [
+  "Parse the string from left to right as described, matching against the valid number words"
+ ],
+ "sampleTestCase": "\"onefourthree\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,12 @@
+{
+ "fid": "604",
+ "slug": "design-compressed-string-iterator",
+ "name": "迭代压缩字符串",
+ "englishName": "Design Compressed String Iterator",
+ "level": "Easy",
+ "percent": 38.65,
+ "hints": [],
+ "sampleTestCase": "[\"StringIterator\",\"next\",\"next\",\"next\",\"next\",\"next\",\"next\",\"hasNext\",\"next\",\"hasNext\"]\n[[\"L1e2t1C1o1d1e1\"],[],[],[],[],[],[],[],[],[]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

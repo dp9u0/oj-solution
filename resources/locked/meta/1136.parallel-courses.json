@@ -1,0 +1,16 @@
+{
+ "fid": "1136",
+ "slug": "parallel-courses",
+ "name": "并行课程",
+ "englishName": "Parallel Courses",
+ "level": "Medium",
+ "percent": 61.67,
+ "hints": [
+  "Try to think of it as a graph problem. It will be impossible to study all the courses if the graph had a cycle.",
+  "The graph is a directed acyclic graph (DAG). The answer is the longes path in this DAG.",
+  "You can use DP to find the longest path in the DAG."
+ ],
+ "sampleTestCase": "3\n[[1,3],[2,3]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

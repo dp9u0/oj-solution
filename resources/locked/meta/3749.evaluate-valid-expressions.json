@@ -1,0 +1,14 @@
+{
+ "fid": "3749",
+ "slug": "evaluate-valid-expressions",
+ "name": "计算有效表达式",
+ "englishName": "Evaluate Valid Expressions",
+ "level": "Hard",
+ "percent": 81.33,
+ "hints": [
+  "Use a stack or recursion to evaluate the expression"
+ ],
+ "sampleTestCase": "\"add(2,3)\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

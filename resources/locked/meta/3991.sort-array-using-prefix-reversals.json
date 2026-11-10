@@ -1,0 +1,18 @@
+{
+ "fid": "3991",
+ "slug": "sort-array-using-prefix-reversals",
+ "name": "使用前缀反转对数组进行排序",
+ "englishName": "Sort Array Using Prefix Reversals",
+ "level": "Medium",
+ "percent": 80.49,
+ "hints": [
+  "<p>Since <code>n &lt;= 8</code>, there are at most <code>8!</code> possible permutations of <code>nums</code>.</p>",
+  "<p>Treat each permutation as a node in a graph. From one node, you can move to another node by applying one allowed prefix reversal from <code>pre</code>.</p>",
+  "<p>All operations have the same cost, so use BFS starting from <code>nums</code>.</p>",
+  "<p>The first time BFS reaches the sorted permutation, the current distance is the minimum number of operations.</p>",
+  "<p>If BFS finishes without reaching the sorted permutation, sorting is impossible.</p>"
+ ],
+ "sampleTestCase": "[2,0,1]\n[2,3]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

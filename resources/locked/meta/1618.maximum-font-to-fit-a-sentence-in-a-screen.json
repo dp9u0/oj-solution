@@ -1,0 +1,14 @@
+{
+ "fid": "1618",
+ "slug": "maximum-font-to-fit-a-sentence-in-a-screen",
+ "name": "找出适应屏幕的最大字号",
+ "englishName": "Maximum Font to Fit a Sentence in a Screen",
+ "level": "Medium",
+ "percent": 64.68,
+ "hints": [
+  "Use <i>binary search</i>  to find the last valid font."
+ ],
+ "sampleTestCase": "\"helloworld\"\n80\n20\n[6,8,10,12,14,16,18,24,36]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

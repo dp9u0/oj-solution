@@ -1,0 +1,14 @@
+{
+ "fid": "3792",
+ "slug": "sum-of-increasing-product-blocks",
+ "name": "递增乘积块之和",
+ "englishName": "Sum of Increasing Product Blocks",
+ "level": "Medium",
+ "percent": 85.1,
+ "hints": [
+  "Compute the product for each block in order, and accumulate the total of these products as the blocks are computed."
+ ],
+ "sampleTestCase": "3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

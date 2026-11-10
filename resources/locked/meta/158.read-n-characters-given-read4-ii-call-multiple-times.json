@@ -1,0 +1,12 @@
+{
+ "fid": "158",
+ "slug": "read-n-characters-given-read4-ii-call-multiple-times",
+ "name": "用 Read4 读取 N 个字符 II - 多次调用",
+ "englishName": "Read N Characters Given read4 II - Call Multiple Times",
+ "level": "Hard",
+ "percent": 57.15,
+ "hints": [],
+ "sampleTestCase": "\"abc\"\n[1,2,1]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,12 @@
+{
+ "fid": "663",
+ "slug": "equal-tree-partition",
+ "name": "均匀树划分",
+ "englishName": "Equal Tree Partition",
+ "level": "Medium",
+ "percent": 42.41,
+ "hints": [],
+ "sampleTestCase": "[5,10,10,null,null,2,3]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

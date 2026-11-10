@@ -1,0 +1,12 @@
+{
+ "fid": "3023",
+ "slug": "find-pattern-in-infinite-stream-i",
+ "name": "在无限流中寻找模式 I",
+ "englishName": "Find Pattern in Infinite Stream I",
+ "level": "Medium",
+ "percent": 31.86,
+ "hints": [],
+ "sampleTestCase": "[1,1,1,0,1]\n[0,1]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

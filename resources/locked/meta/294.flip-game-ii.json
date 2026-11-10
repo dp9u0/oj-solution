@@ -1,0 +1,12 @@
+{
+ "fid": "294",
+ "slug": "flip-game-ii",
+ "name": "翻转游戏 II",
+ "englishName": "Flip Game II",
+ "level": "Medium",
+ "percent": 46.94,
+ "hints": [],
+ "sampleTestCase": "\"++++\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

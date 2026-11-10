@@ -1,0 +1,16 @@
+{
+ "fid": "1086",
+ "slug": "high-five",
+ "name": "前五科的均分",
+ "englishName": "High Five",
+ "level": "Easy",
+ "percent": 69.7,
+ "hints": [
+  "How can we solve the problem if we have just one student?",
+  "Given an student sort their grades and get the top 5 average.",
+  "Generalize the idea to do it for many students."
+ ],
+ "sampleTestCase": "[[1,91],[1,92],[2,93],[2,97],[1,60],[2,77],[1,65],[1,87],[1,100],[2,100],[2,76]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,17 @@
+{
+ "fid": "2964",
+ "slug": "number-of-divisible-triplet-sums",
+ "name": "可被整除的三元组数量",
+ "englishName": "Number of Divisible Triplet Sums",
+ "level": "Medium",
+ "percent": 40.52,
+ "hints": [
+  "Fix index <code>L</code> to be the leftmost element of a triplet.",
+  "Starting from <code>L</code>, go forward and add the remainder of each element to a map.",
+  "Now when you are at index <code>R</code>, consider <code>nums[L] + nums[R]</code> and calculate what the remainder of the third element should be.",
+  "Then use the map to find the number of valid third elements between <code>L</code> and <code>R</code>."
+ ],
+ "sampleTestCase": "[3,3,4,7,8]\n5",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,16 @@
+{
+ "fid": "2548",
+ "slug": "maximum-price-to-fill-a-bag",
+ "name": "填满背包的最大价格",
+ "englishName": "Maximum Price to Fill a Bag",
+ "level": "Medium",
+ "percent": 51.33,
+ "hints": [
+  "If the total weight of the items is less than the capacity, then it is impossible to fill a bag.",
+  "The intended solution greedily chooses items to fill a bag.",
+  "Sort items in decreasing order of price/weight and greedily fill a bag. The main intuition behind the greedy strategy is that we try to take the highest possible price for 1 unit of weight."
+ ],
+ "sampleTestCase": "[[50,1],[10,8]]\n5",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

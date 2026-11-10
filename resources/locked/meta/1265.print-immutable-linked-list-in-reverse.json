@@ -1,0 +1,12 @@
+{
+ "fid": "1265",
+ "slug": "print-immutable-linked-list-in-reverse",
+ "name": "逆序打印不可变链表",
+ "englishName": "Print Immutable Linked List in Reverse",
+ "level": "Medium",
+ "percent": 89.98,
+ "hints": [],
+ "sampleTestCase": "[1,2,3,4]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,16 @@
+{
+ "fid": "4096",
+ "slug": "simulate-bomb-explosions-and-falling-boxes",
+ "name": "模拟炸弹爆炸和掉落箱子",
+ "englishName": "Simulate Bomb Explosions and Falling Boxes",
+ "level": "Medium",
+ "percent": 81.63,
+ "hints": [
+  "Determine which bombs explode using the grid at the beginning of each second. How can you mark boxes for destruction without affecting the other bombs?",
+  "After processing explosions, simulate gravity from the bottom row upward so that each non-static box falls by exactly one row.",
+  "Consider how far each box can fall before being destroyed or becoming static. Show that the grid stabilizes after at most n seconds, so simulating 10<sup>100</sup> seconds is unnecessary."
+ ],
+ "sampleTestCase": "[[\"#\",\"#\",\"#\"],[\"-\",\"-\",\"*\"],[\"-\",\"-\",\"-\"]]\r",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

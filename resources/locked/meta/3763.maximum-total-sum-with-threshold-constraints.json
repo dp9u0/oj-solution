@@ -1,0 +1,16 @@
+{
+ "fid": "3763",
+ "slug": "maximum-total-sum-with-threshold-constraints",
+ "name": "带阈值约束的最大总和",
+ "englishName": "Maximum Total Sum with Threshold Constraints",
+ "level": "Medium",
+ "percent": 83.73,
+ "hints": [
+  "Simulate the process as described.",
+  "At each step, use a max-heap and add every index that becomes available.",
+  "Continue until you reach a step where there are no unused available indices."
+ ],
+ "sampleTestCase": "[1,10,4,2,1,6]\n[5,1,5,5,2,2]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

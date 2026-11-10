@@ -1,0 +1,15 @@
+{
+ "fid": "3907",
+ "slug": "count-smaller-elements-with-opposite-parity",
+ "name": "统计具有相反奇偶性的较小元素",
+ "englishName": "Count Smaller Elements With Opposite Parity",
+ "level": "Medium",
+ "percent": 79.41,
+ "hints": [
+  "Use a data structure to keep track of elements of different parities.",
+  "For the current index, query the data structure for elements to the right with different parity and a smaller value."
+ ],
+ "sampleTestCase": "[5,2,4,1,3]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

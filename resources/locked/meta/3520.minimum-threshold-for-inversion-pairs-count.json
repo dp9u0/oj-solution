@@ -1,0 +1,15 @@
+{
+ "fid": "3520",
+ "slug": "minimum-threshold-for-inversion-pairs-count",
+ "name": "逆序对计数的最小阈值",
+ "englishName": "Minimum Threshold for Inversion Pairs Count",
+ "level": "Medium",
+ "percent": 66.27,
+ "hints": [
+  "Perform a binary search to find the minimum threshold",
+  "Use a segment tree with value compression to count inversion pairs efficiently during the binary search"
+ ],
+ "sampleTestCase": "[1,2,3,4,3,2,1]\n7",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

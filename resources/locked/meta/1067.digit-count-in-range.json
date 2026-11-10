@@ -1,0 +1,15 @@
+{
+ "fid": "1067",
+ "slug": "digit-count-in-range",
+ "name": "范围内的数字计数",
+ "englishName": "Digit Count in Range",
+ "level": "Hard",
+ "percent": 49.44,
+ "hints": [
+  "Define a function f(x) to get the requested sum from 1 to x. So the answer will be f(hi) - f(lo - 1)",
+  "In order to solve f(x) we need to do a DP over digits approach."
+ ],
+ "sampleTestCase": "1\n1\n13",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

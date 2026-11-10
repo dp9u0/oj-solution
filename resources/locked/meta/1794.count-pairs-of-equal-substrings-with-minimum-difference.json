@@ -1,0 +1,15 @@
+{
+ "fid": "1794",
+ "slug": "count-pairs-of-equal-substrings-with-minimum-difference",
+ "name": "统计距离最小的子串对个数",
+ "englishName": "Count Pairs of Equal Substrings With Minimum Difference",
+ "level": "Medium",
+ "percent": 49.63,
+ "hints": [
+  "If the chosen substrings are of size larger than 1, then you can remove all but the first character from both substrings, and you'll get equal substrings of size 1, with the same a but less j. Hence, it's always optimal to choose substrings of size 1.",
+  "If you choose a specific letter, then it's optimal to choose its first occurrence in firstString, and its last occurrence in secondString, to minimize j-a."
+ ],
+ "sampleTestCase": "\"abcd\"\n\"bccda\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

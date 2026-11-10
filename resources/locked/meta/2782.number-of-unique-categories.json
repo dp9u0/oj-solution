@@ -1,0 +1,16 @@
+{
+ "fid": "2782",
+ "slug": "number-of-unique-categories",
+ "name": "唯一类别的数量",
+ "englishName": "Number of Unique Categories",
+ "level": "Medium",
+ "percent": 51.05,
+ "hints": [
+  "It can be proven that all pairs should be asked from the helper function.",
+  "Iterate from the first element. For each element `i`, ask the helper function `i` with all `j < i`.",
+  "If there is some `j < i` that `i` and `j` belong to the same group, go to next `i`. Otherwise, add one to the current number of groups."
+ ],
+ "sampleTestCase": "6\n[1,1,2,2,3,3]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

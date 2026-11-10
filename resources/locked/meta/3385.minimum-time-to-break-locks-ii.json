@@ -1,0 +1,14 @@
+{
+ "fid": "3385",
+ "slug": "minimum-time-to-break-locks-ii",
+ "name": "破解锁的最少时间 II",
+ "englishName": "Minimum Time to Break Locks II",
+ "level": "Hard",
+ "percent": 27.1,
+ "hints": [
+  "Use the Hungarian algorithm for minimum cost matching."
+ ],
+ "sampleTestCase": "[3,4,1]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

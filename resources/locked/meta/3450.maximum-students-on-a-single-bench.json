@@ -1,0 +1,14 @@
+{
+ "fid": "3450",
+ "slug": "maximum-students-on-a-single-bench",
+ "name": "一张长椅上的最多学生",
+ "englishName": "Maximum Students on a Single Bench",
+ "level": "Easy",
+ "percent": 28.29,
+ "hints": [
+  "Use a hash table (or dictionary) to group students by their bench ID."
+ ],
+ "sampleTestCase": "[[1,2],[2,2],[3,3],[1,3],[2,3]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,16 @@
+{
+ "fid": "1229",
+ "slug": "meeting-scheduler",
+ "name": "安排会议日程",
+ "englishName": "Meeting Scheduler",
+ "level": "Medium",
+ "percent": 48.48,
+ "hints": [
+  "Assume that in the solution, the selected slot from slotsA is bigger than the respectively selected slot from slotsB.",
+  "Use two pointers in order to try all the possible intersections, and check the length.",
+  "Do the same in step N° 1 but now assume that the selected slot from slotsB is bigger, return the minimum of the two options."
+ ],
+ "sampleTestCase": "[[10,50],[60,120],[140,210]]\n[[0,15],[60,70]]\n8",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

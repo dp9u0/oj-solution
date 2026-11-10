@@ -1,0 +1,12 @@
+{
+ "fid": "358",
+ "slug": "rearrange-string-k-distance-apart",
+ "name": "K 距离间隔重排字符串",
+ "englishName": "Rearrange String k Distance Apart",
+ "level": "Hard",
+ "percent": 39.16,
+ "hints": [],
+ "sampleTestCase": "\"aabbcc\"\n3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,12 @@
+{
+ "fid": "281",
+ "slug": "zigzag-iterator",
+ "name": "锯齿迭代器",
+ "englishName": "Zigzag Iterator",
+ "level": "Medium",
+ "percent": 75.47,
+ "hints": [],
+ "sampleTestCase": "[1,2]\n[3,4,5,6]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

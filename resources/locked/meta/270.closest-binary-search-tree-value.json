@@ -1,0 +1,12 @@
+{
+ "fid": "270",
+ "slug": "closest-binary-search-tree-value",
+ "name": "最接近的二叉搜索树值",
+ "englishName": "Closest Binary Search Tree Value",
+ "level": "Easy",
+ "percent": 50.66,
+ "hints": [],
+ "sampleTestCase": "[4,2,5,1,3]\n3.714286",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

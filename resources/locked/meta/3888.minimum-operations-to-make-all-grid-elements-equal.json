@@ -1,0 +1,15 @@
+{
+ "fid": "3888",
+ "slug": "minimum-operations-to-make-all-grid-elements-equal",
+ "name": "使所有网格元素相等的最小操作次数",
+ "englishName": "Minimum Operations to Make All Grid Elements Equal",
+ "level": "Hard",
+ "percent": 72.67,
+ "hints": [
+  "Determine a target value that can be reached using the operations.",
+  "Use a 2D difference array to track how many chosen <code>k x k</code> operations currently affect each cell."
+ ],
+ "sampleTestCase": "[[3,3,5],[3,3,5]]\n2",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,16 @@
+{
+ "fid": "3730",
+ "slug": "maximum-calories-burnt-from-jumps",
+ "name": "跳跃燃烧的最大卡路里",
+ "englishName": "Maximum Calories Burnt from Jumps",
+ "level": "Medium",
+ "percent": 72.89,
+ "hints": [
+  "Sort <code>heights</code> and greedily distribute the values.",
+  "Place larger values from the back of the sorted <code>heights</code> in non-increasing order at the even indices.",
+  "Place smaller values from the front of the sorted <code>heights</code> in non-decreasing order at the odd indices."
+ ],
+ "sampleTestCase": "[1,7,9]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

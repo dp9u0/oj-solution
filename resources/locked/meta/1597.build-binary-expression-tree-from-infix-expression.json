@@ -1,0 +1,15 @@
+{
+ "fid": "1597",
+ "slug": "build-binary-expression-tree-from-infix-expression",
+ "name": "根据中缀表达式构造二叉表达式树",
+ "englishName": "Build Binary Expression Tree From Infix Expression",
+ "level": "Hard",
+ "percent": 66.26,
+ "hints": [
+  "Convert infix expression to postfix expression.",
+  "Build an expression tree from the postfix expression."
+ ],
+ "sampleTestCase": "\"3*4-2*5\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,14 @@
+{
+ "fid": "1065",
+ "slug": "index-pairs-of-a-string",
+ "name": "字符串的索引对",
+ "englishName": "Index Pairs of a String",
+ "level": "Easy",
+ "percent": 58.01,
+ "hints": [
+  "For each string of the set, look for matches and store those matches indices."
+ ],
+ "sampleTestCase": "\"thestoryofleetcodeandme\"\n[\"story\",\"fleet\",\"leetcode\"]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

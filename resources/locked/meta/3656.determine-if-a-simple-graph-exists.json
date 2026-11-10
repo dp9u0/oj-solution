@@ -1,0 +1,14 @@
+{
+ "fid": "3656",
+ "slug": "determine-if-a-simple-graph-exists",
+ "name": "判断是否存在简单图",
+ "englishName": "Determine if a Simple Graph Exists",
+ "level": "Medium",
+ "percent": 50.19,
+ "hints": [
+  "Use the Erdős–Gallai theorem"
+ ],
+ "sampleTestCase": "[3,1,2,2]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

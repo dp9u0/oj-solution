@@ -1,0 +1,16 @@
+{
+ "fid": "3817",
+ "slug": "good-indices-in-a-digit-string",
+ "name": "数字字符串中的好索引",
+ "englishName": "Good Indices in a Digit String",
+ "level": "Medium",
+ "percent": 92.12,
+ "hints": [
+  "For an index <code>i</code>, any valid substring must end exactly at position <code>i</code>.",
+  "The substring you are looking for is determined by the decimal digits of <code>i</code>.",
+  "For each index <code>i</code>, compare the string form of <code>i</code> with the substring that ends at <code>i</code> and has the same length."
+ ],
+ "sampleTestCase": "\"0234567890112\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

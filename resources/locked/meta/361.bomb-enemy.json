@@ -1,0 +1,12 @@
+{
+ "fid": "361",
+ "slug": "bomb-enemy",
+ "name": "轰炸敌人",
+ "englishName": "Bomb Enemy",
+ "level": "Medium",
+ "percent": 60.16,
+ "hints": [],
+ "sampleTestCase": "[[\"0\",\"E\",\"0\",\"0\"],[\"E\",\"0\",\"W\",\"E\"],[\"0\",\"E\",\"0\",\"0\"]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

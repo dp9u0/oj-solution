@@ -1,0 +1,12 @@
+{
+ "fid": "683",
+ "slug": "k-empty-slots",
+ "name": "K 个关闭的灯泡",
+ "englishName": "K Empty Slots",
+ "level": "Hard",
+ "percent": 47.85,
+ "hints": [],
+ "sampleTestCase": "[1,3,2]\n1",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

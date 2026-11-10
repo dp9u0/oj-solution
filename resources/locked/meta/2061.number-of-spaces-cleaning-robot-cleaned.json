@@ -1,0 +1,16 @@
+{
+ "fid": "2061",
+ "slug": "number-of-spaces-cleaning-robot-cleaned",
+ "name": "扫地机器人清扫过的空间个数",
+ "englishName": "Number of Spaces Cleaning Robot Cleaned",
+ "level": "Medium",
+ "percent": 53.11,
+ "hints": [
+  "Simulate how the robot moves and keep track of how many spaces it has cleaned so far.",
+  "When can we stop the simulation?",
+  "When the robot reaches a space that it has already cleaned and is facing the same direction as before, we can stop the simulation."
+ ],
+ "sampleTestCase": "[[0,0,0],[1,1,0],[0,0,0]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

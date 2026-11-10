@@ -1,0 +1,14 @@
+{
+ "fid": "3063",
+ "slug": "linked-list-frequency",
+ "name": "链表频率",
+ "englishName": "Linked List Frequency",
+ "level": "Easy",
+ "percent": 55.45,
+ "hints": [
+  "Traverse the linked list and keep the number of occurrences of values using a HashMap."
+ ],
+ "sampleTestCase": "[1,1,2,1,2,3]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

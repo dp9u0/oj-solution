@@ -1,0 +1,19 @@
+{
+ "fid": "3247",
+ "slug": "number-of-subsequences-with-odd-sum",
+ "name": "奇数和子序列的数量",
+ "englishName": "Number of Subsequences with Odd Sum",
+ "level": "Medium",
+ "percent": 26.48,
+ "hints": [
+  "Define <code>dp[i][0]</code> as the answer for the subarray <code>[0, i]</code>.",
+  "Similarly define <code>dp[i][1]</code> as the answer for the subarray <code>[0, i]</code> if we wanted to count even-sum subsequences.",
+  "If <code>nums[i]</code> is odd, <code>dp[i][x] = 2<sup>i</sup></code>.",
+  "Otherwise, <code>dp[i][x] = dp[i - 1][x] * 2</code>.",
+  "<code>dp[0][1] = 1</code> if <code>nums[0]</code> is odd, and 0 otherwise.",
+  "<code>dp[0][0] = 2</code> if <code>nums[0]</code> is even, and 1 otherwise (since an empty subsequence has an even sum)."
+ ],
+ "sampleTestCase": "[1,1,1]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

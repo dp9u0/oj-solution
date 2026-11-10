@@ -1,0 +1,12 @@
+{
+ "fid": "248",
+ "slug": "strobogrammatic-number-iii",
+ "name": "中心对称数 III",
+ "englishName": "Strobogrammatic Number III",
+ "level": "Hard",
+ "percent": 50.25,
+ "hints": [],
+ "sampleTestCase": "\"50\"\n\"100\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

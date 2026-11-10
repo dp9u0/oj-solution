@@ -1,0 +1,12 @@
+{
+ "fid": "320",
+ "slug": "generalized-abbreviation",
+ "name": "列举单词的全部缩写",
+ "englishName": "Generalized Abbreviation",
+ "level": "Medium",
+ "percent": 70.8,
+ "hints": [],
+ "sampleTestCase": "\"word\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

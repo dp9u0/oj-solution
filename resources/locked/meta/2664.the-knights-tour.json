@@ -1,0 +1,12 @@
+{
+ "fid": "2664",
+ "slug": "the-knights-tour",
+ "name": "巡逻的骑士",
+ "englishName": "The Knight’s Tour",
+ "level": "Medium",
+ "percent": 64.07,
+ "hints": [],
+ "sampleTestCase": "1\n1\n0\n0",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

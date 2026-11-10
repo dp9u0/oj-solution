@@ -1,0 +1,15 @@
+{
+ "fid": "2534",
+ "slug": "time-taken-to-cross-the-door",
+ "name": "通过门的时间",
+ "englishName": "Time Taken to Cross the Door",
+ "level": "Hard",
+ "percent": 55.25,
+ "hints": [
+  "Use a queue to store the people who want to enter or exit and their corresponding times.",
+  "Simulate the process described in the statement and apply the 4 rules to the people crossing the door."
+ ],
+ "sampleTestCase": "[0,1,1,2,4]\n[0,1,0,0,1]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

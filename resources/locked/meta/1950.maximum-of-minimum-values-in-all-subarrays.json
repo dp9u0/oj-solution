@@ -1,0 +1,16 @@
+{
+ "fid": "1950",
+ "slug": "maximum-of-minimum-values-in-all-subarrays",
+ "name": "所有子数组最小值中的最大值",
+ "englishName": "Maximum of Minimum Values in All Subarrays",
+ "level": "Medium",
+ "percent": 43.33,
+ "hints": [
+  "Imagine the array is empty, and each element is coming to its index one by one, starting with the smallest element.",
+  "For each coming element nums[i], calculate L and R, the indices of the first smallest elements on the left and the right respectively.",
+  "The answer of the queries from 1 to R-L+1 will be at least this element."
+ ],
+ "sampleTestCase": "[0,1,2,4]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

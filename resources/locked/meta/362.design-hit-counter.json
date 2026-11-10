@@ -1,0 +1,12 @@
+{
+ "fid": "362",
+ "slug": "design-hit-counter",
+ "name": "敲击计数器",
+ "englishName": "Design Hit Counter",
+ "level": "Medium",
+ "percent": 66.85,
+ "hints": [],
+ "sampleTestCase": "[\"HitCounter\",\"hit\",\"hit\",\"hit\",\"getHits\",\"hit\",\"getHits\",\"getHits\"]\n[[],[1],[2],[3],[4],[300],[300],[301]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

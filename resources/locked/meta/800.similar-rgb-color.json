@@ -1,0 +1,12 @@
+{
+ "fid": "800",
+ "slug": "similar-rgb-color",
+ "name": "相似 RGB 颜色",
+ "englishName": "Similar RGB Color",
+ "level": "Easy",
+ "percent": 67.92,
+ "hints": [],
+ "sampleTestCase": "\"#09f166\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

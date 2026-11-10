@@ -1,0 +1,12 @@
+{
+ "fid": "244",
+ "slug": "shortest-word-distance-ii",
+ "name": "最短单词距离 II",
+ "englishName": "Shortest Word Distance II",
+ "level": "Medium",
+ "percent": 59.88,
+ "hints": [],
+ "sampleTestCase": "[\"WordDistance\",\"shortest\",\"shortest\"]\n[[[\"practice\",\"makes\",\"perfect\",\"coding\",\"makes\"]],[\"coding\",\"practice\"],[\"makes\",\"coding\"]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

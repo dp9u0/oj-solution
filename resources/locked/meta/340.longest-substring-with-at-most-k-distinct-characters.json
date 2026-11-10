@@ -1,0 +1,12 @@
+{
+ "fid": "340",
+ "slug": "longest-substring-with-at-most-k-distinct-characters",
+ "name": "至多包含 K 个不同字符的最长子串",
+ "englishName": "Longest Substring with At Most K Distinct Characters",
+ "level": "Medium",
+ "percent": 52.15,
+ "hints": [],
+ "sampleTestCase": "\"eceba\"\n2",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

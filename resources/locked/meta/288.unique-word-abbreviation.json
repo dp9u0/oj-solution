@@ -1,0 +1,12 @@
+{
+ "fid": "288",
+ "slug": "unique-word-abbreviation",
+ "name": "单词的唯一缩写",
+ "englishName": "Unique Word Abbreviation",
+ "level": "Medium",
+ "percent": 50.35,
+ "hints": [],
+ "sampleTestCase": "[\"ValidWordAbbr\",\"isUnique\",\"isUnique\",\"isUnique\",\"isUnique\",\"isUnique\"]\n[[[\"deer\",\"door\",\"cake\",\"card\"]],[\"dear\"],[\"cart\"],[\"cane\"],[\"make\"],[\"cake\"]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

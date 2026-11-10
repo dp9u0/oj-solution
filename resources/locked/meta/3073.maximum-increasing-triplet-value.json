@@ -1,0 +1,18 @@
+{
+ "fid": "3073",
+ "slug": "maximum-increasing-triplet-value",
+ "name": "最大递增三元组",
+ "englishName": "Maximum Increasing Triplet Value",
+ "level": "Medium",
+ "percent": 23.5,
+ "hints": [
+  "For each element, define <code>right[i]</code> as the value of the greatest element with an index greater than <code>i</code>.",
+  "Start iterating from the beginning, define a set containing the elements seen so far.",
+  "When you are at index <code>i</code>, use binary search on the set to find the greatest element on the left of index <code>i</code> that is smaller than <code>nums[i]</code> and name it <code>greatest_left</code>.",
+  "Also check that <code>nums[i] < right[i]</code>.",
+  "If the above conditions hold, then <code>ans = max(ans, greatest_left - nums[i] + right[i])</code>."
+ ],
+ "sampleTestCase": "[5,6,9]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

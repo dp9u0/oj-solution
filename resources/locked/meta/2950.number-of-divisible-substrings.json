@@ -1,0 +1,16 @@
+{
+ "fid": "2950",
+ "slug": "number-of-divisible-substrings",
+ "name": "可整除子串的数量",
+ "englishName": "Number of Divisible Substrings",
+ "level": "Medium",
+ "percent": 35.57,
+ "hints": [
+  "Iterate over all substrings in <code>O(n * n)</code>.",
+  "For each substring, try to calculate the sum of the mapped values in <code>O(1)</code>.",
+  "To do the above, use a partial sum array."
+ ],
+ "sampleTestCase": "\"asdf\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

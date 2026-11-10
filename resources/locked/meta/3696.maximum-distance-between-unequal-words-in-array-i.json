@@ -1,0 +1,14 @@
+{
+ "fid": "3696",
+ "slug": "maximum-distance-between-unequal-words-in-array-i",
+ "name": "不同单词间的最大距离 I",
+ "englishName": "Maximum Distance Between Unequal Words in Array I",
+ "level": "Easy",
+ "percent": 82.85,
+ "hints": [
+  "Use bruteforce"
+ ],
+ "sampleTestCase": "[\"leetcode\",\"leetcode\",\"codeforces\"]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

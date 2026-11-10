@@ -1,0 +1,18 @@
+{
+ "fid": "2128",
+ "slug": "remove-all-ones-with-row-and-column-flips",
+ "name": "通过翻转行或列来去除所有的 1",
+ "englishName": "Remove All Ones With Row and Column Flips",
+ "level": "Medium",
+ "percent": 64.59,
+ "hints": [
+  "Does the order, in which you do the operations, matter?",
+  "No, it does not. An element will keep its original value if the number of operations done on it is even and vice versa. This also means that doing more than 1 operation on the same row or column is unproductive.",
+  "Try working backward, start with a matrix of all zeros and try to construct grid using operations.",
+  "Start with operations on columns, after doing them what do you notice about each row?",
+  "Each row is the exact same. If we then flip some rows, that leaves only two possible arrangements for each row: the same as the original or the opposite."
+ ],
+ "sampleTestCase": "[[0,1,0],[1,0,1],[0,1,0]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

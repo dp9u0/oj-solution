@@ -1,0 +1,12 @@
+{
+ "fid": "265",
+ "slug": "paint-house-ii",
+ "name": "粉刷房子 II",
+ "englishName": "Paint House II",
+ "level": "Hard",
+ "percent": 65.97,
+ "hints": [],
+ "sampleTestCase": "[[1,5,3],[2,9,4]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,14 @@
+{
+ "fid": "2613",
+ "slug": "beautiful-pairs",
+ "name": "美数对",
+ "englishName": "Beautiful Pairs",
+ "level": "Hard",
+ "percent": 33.4,
+ "hints": [
+  "Use Range Queries Data Structures to optimize the algorithm"
+ ],
+ "sampleTestCase": "[1,2,3,2,4]\n[2,3,1,2,3]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

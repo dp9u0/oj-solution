@@ -1,0 +1,16 @@
+{
+ "fid": "3972",
+ "slug": "valid-subarrays-with-matching-sum-digits-ii",
+ "name": "求和后首尾数字相同的有效子数组 II",
+ "englishName": "Valid Subarrays With Matching Sum Digits II",
+ "level": "Hard",
+ "percent": 86.11,
+ "hints": [
+  "Since all elements are positive, prefix sums are strictly increasing.",
+  "A sum has first digit <code>x</code> iff it belongs to one of the ranges <code>[x * 10<sup>p</sup>, (x + 1) * 10<sup>p</sup> - 1]</code>.",
+  "Also require the sum to be congruent to <code>x</code> modulo 10, then count prefix-sum pairs whose difference lies in each valid range and residue class."
+ ],
+ "sampleTestCase": "[1,100,1]\n1",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

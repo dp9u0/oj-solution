@@ -1,0 +1,12 @@
+{
+ "fid": "425",
+ "slug": "word-squares",
+ "name": "单词方块",
+ "englishName": "Word Squares",
+ "level": "Hard",
+ "percent": 64.68,
+ "hints": [],
+ "sampleTestCase": "[\"area\",\"lead\",\"wall\",\"lady\",\"ball\"]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

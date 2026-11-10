@@ -1,0 +1,12 @@
+{
+ "fid": "439",
+ "slug": "ternary-expression-parser",
+ "name": "三元表达式解析器",
+ "englishName": "Ternary Expression Parser",
+ "level": "Medium",
+ "percent": 63.59,
+ "hints": [],
+ "sampleTestCase": "\"T?2:3\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

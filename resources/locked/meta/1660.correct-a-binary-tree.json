@@ -1,0 +1,14 @@
+{
+ "fid": "1660",
+ "slug": "correct-a-binary-tree",
+ "name": "纠正二叉树",
+ "englishName": "Correct a Binary Tree",
+ "level": "Medium",
+ "percent": 73.69,
+ "hints": [
+  "If you traverse the tree from right to left, the invalid node will point to a node that has already been visited."
+ ],
+ "sampleTestCase": "[1,2,3]\n2\n3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

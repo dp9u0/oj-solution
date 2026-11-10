@@ -1,0 +1,16 @@
+{
+ "fid": "2403",
+ "slug": "minimum-time-to-kill-all-monsters",
+ "name": "杀死所有怪物的最短时间",
+ "englishName": "Minimum Time to Kill All Monsters",
+ "level": "Hard",
+ "percent": 63.58,
+ "hints": [
+  "Each monster can only have two states. They are either alive or dead.",
+  "We can use bitmasks to represent every possible combination of alive and dead monsters.",
+  "Let dp[mask] represent the minimum number of days needed to reach the state mask."
+ ],
+ "sampleTestCase": "[3,1,4]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

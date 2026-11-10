@@ -1,0 +1,16 @@
+{
+ "fid": "1180",
+ "slug": "count-substrings-with-only-one-distinct-letter",
+ "name": "统计只含单一字母的子串",
+ "englishName": "Count Substrings with Only One Distinct Letter",
+ "level": "Easy",
+ "percent": 80.81,
+ "hints": [
+  "What if we divide the string into substrings containing only one distinct character with maximal lengths?",
+  "Now that you have sub-strings with only one distinct character, Try to come up with a formula that counts the number of its sub-strings.",
+  "Alternatively, Observe that the constraints are small so you can use brute force."
+ ],
+ "sampleTestCase": "\"aaaba\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

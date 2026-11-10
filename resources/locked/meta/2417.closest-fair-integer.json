@@ -1,0 +1,15 @@
+{
+ "fid": "2417",
+ "slug": "closest-fair-integer",
+ "name": "最近的公平整数",
+ "englishName": "Closest Fair Integer",
+ "level": "Medium",
+ "percent": 42.58,
+ "hints": [
+  "Suppose that the number that we are looking for has the same number of digits as n, the answer, in this case, will not be very far from n, so you can do a simple brute force. Can you prove why this is true?",
+  "How do you handle the case when the resulting number has more digits than n?"
+ ],
+ "sampleTestCase": "2",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

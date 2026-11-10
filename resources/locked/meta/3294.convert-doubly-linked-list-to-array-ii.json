@@ -1,0 +1,14 @@
+{
+ "fid": "3294",
+ "slug": "convert-doubly-linked-list-to-array-ii",
+ "name": "将双链表转换为数组 II",
+ "englishName": "Convert Doubly Linked List to Array II",
+ "level": "Medium",
+ "percent": 43.43,
+ "hints": [
+  "Use the pointer to the previous node to reach the <code>head</code> node."
+ ],
+ "sampleTestCase": "[1,2,3,4,5]\n5",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

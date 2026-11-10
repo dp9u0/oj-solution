@@ -1,0 +1,17 @@
+{
+ "fid": "2158",
+ "slug": "amount-of-new-area-painted-each-day",
+ "name": "每天绘制新区域的数量",
+ "englishName": "Amount of New Area Painted Each Day",
+ "level": "Hard",
+ "percent": 54.3,
+ "hints": [
+  "What’s a good way to keep track of intervals that you have already painted?",
+  "Create an array of all 1’s, and when you have painted an interval, set the values in that interval to 0.",
+  "Using this array, how can you quickly calculate the amount of new area that you paint on a given day?",
+  "Calculate the sum of the new array in the interval that you paint."
+ ],
+ "sampleTestCase": "[[1,4],[4,7],[5,8]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

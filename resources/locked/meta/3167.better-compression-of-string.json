@@ -1,0 +1,17 @@
+{
+ "fid": "3167",
+ "slug": "better-compression-of-string",
+ "name": "字符串的更好压缩",
+ "englishName": "Better Compression of String",
+ "level": "Medium",
+ "percent": 29.87,
+ "hints": [
+  "This is an implementation problem.",
+  "Try to extract each character with its corresponding frequency.",
+  "Sum the frequencies for a single character.",
+  "Sort characters and append them to a string in alphabetical order."
+ ],
+ "sampleTestCase": "\"a3c9b2c1\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

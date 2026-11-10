@@ -1,0 +1,15 @@
+{
+ "fid": "1973",
+ "slug": "count-nodes-equal-to-sum-of-descendants",
+ "name": "值等于子节点值之和的节点数量",
+ "englishName": "Count Nodes Equal to Sum of Descendants",
+ "level": "Medium",
+ "percent": 44.57,
+ "hints": [
+  "Can we reuse previously calculated information?",
+  "How can we calculate the sum of the current subtree using the sum of the child's subtree?"
+ ],
+ "sampleTestCase": "[10,3,4,2,1]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

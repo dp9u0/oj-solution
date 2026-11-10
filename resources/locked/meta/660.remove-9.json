@@ -1,0 +1,12 @@
+{
+ "fid": "660",
+ "slug": "remove-9",
+ "name": "移除 9",
+ "englishName": "Remove 9",
+ "level": "Hard",
+ "percent": 59.07,
+ "hints": [],
+ "sampleTestCase": "9",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

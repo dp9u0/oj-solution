@@ -1,0 +1,16 @@
+{
+ "fid": "3062",
+ "slug": "winner-of-the-linked-list-game",
+ "name": "链表游戏的获胜者",
+ "englishName": "Winner of the Linked List Game",
+ "level": "Easy",
+ "percent": 51.82,
+ "hints": [
+  "Traverse linked list and try to find pairs.",
+  "For each team, keep the number of its winning games in a variable.",
+  "Compare the winning variables and find the answer."
+ ],
+ "sampleTestCase": "[2,1]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

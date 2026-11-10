@@ -1,0 +1,14 @@
+{
+ "fid": "296",
+ "slug": "best-meeting-point",
+ "name": "最佳的碰头地点",
+ "englishName": "Best Meeting Point",
+ "level": "Hard",
+ "percent": 62.56,
+ "hints": [
+  "Try to solve it in one dimension first. How can this solution apply to the two dimension case?"
+ ],
+ "sampleTestCase": "[[1,0,0,0,1],[0,0,0,0,0],[0,0,1,0,0]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

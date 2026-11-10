@@ -1,0 +1,12 @@
+{
+ "fid": "250",
+ "slug": "count-univalue-subtrees",
+ "name": "统计同值子树",
+ "englishName": "Count Univalue Subtrees",
+ "level": "Medium",
+ "percent": 65.68,
+ "hints": [],
+ "sampleTestCase": "[5,1,5,5,5,null,5]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

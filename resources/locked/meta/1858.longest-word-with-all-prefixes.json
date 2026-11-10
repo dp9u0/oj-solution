@@ -1,0 +1,15 @@
+{
+ "fid": "1858",
+ "slug": "longest-word-with-all-prefixes",
+ "name": "包含所有前缀的最长单词",
+ "englishName": "Longest Word With All Prefixes",
+ "level": "Medium",
+ "percent": 67.68,
+ "hints": [
+  "Add all the words to a trie.",
+  "Check the longest path where all the nodes are words."
+ ],
+ "sampleTestCase": "[\"k\",\"ki\",\"kir\",\"kira\",\"kiran\"]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

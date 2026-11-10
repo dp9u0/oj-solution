@@ -1,0 +1,12 @@
+{
+ "fid": "156",
+ "slug": "binary-tree-upside-down",
+ "name": "上下翻转二叉树",
+ "englishName": "Binary Tree Upside Down",
+ "level": "Medium",
+ "percent": 73.75,
+ "hints": [],
+ "sampleTestCase": "[1,2,3,4,5]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

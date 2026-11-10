@@ -1,0 +1,16 @@
+{
+ "fid": "1274",
+ "slug": "number-of-ships-in-a-rectangle",
+ "name": "矩形内船只的数目",
+ "englishName": "Number of Ships in a Rectangle",
+ "level": "Hard",
+ "percent": 66.07,
+ "hints": [
+  "Use divide and conquer technique.",
+  "Divide the query rectangle into 4 rectangles.",
+  "Use recursion to continue with the rectangles that has ships only."
+ ],
+ "sampleTestCase": "[[1,1],[2,2],[3,3],[5,5]]\n[4,4]\n[0,0]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

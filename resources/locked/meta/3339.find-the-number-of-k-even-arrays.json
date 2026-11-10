@@ -1,0 +1,15 @@
+{
+ "fid": "3339",
+ "slug": "find-the-number-of-k-even-arrays",
+ "name": "查找 K 偶数数组的数量",
+ "englishName": "Find the Number of K-Even Arrays",
+ "level": "Medium",
+ "percent": 37.29,
+ "hints": [
+  "Use dynamic programming.",
+  "Store whether the last element was even or odd."
+ ],
+ "sampleTestCase": "3\n4\n2",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

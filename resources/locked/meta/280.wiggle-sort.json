@@ -1,0 +1,12 @@
+{
+ "fid": "280",
+ "slug": "wiggle-sort",
+ "name": "摆动排序",
+ "englishName": "Wiggle Sort",
+ "level": "Medium",
+ "percent": 69.96,
+ "hints": [],
+ "sampleTestCase": "[3,5,2,1,6,4]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,17 @@
+{
+ "fid": "1885",
+ "slug": "count-pairs-in-two-arrays",
+ "name": "统计数对",
+ "englishName": "Count Pairs in Two Arrays",
+ "level": "Medium",
+ "percent": 54.68,
+ "hints": [
+  "We can write it as nums1[i] - nums2[i] > nums2[j] - nums1[j] instead of nums1[i] + nums1[j] > nums2[i] + nums2[j].",
+  "Store nums1[idx] - nums2[idx] in a data structure.",
+  "Store nums2[idx] - nums1[idx] in a different data structure.",
+  "For each integer in the first data structure, count the number of the strictly smaller integers in the second data structure with a larger index in the original array."
+ ],
+ "sampleTestCase": "[2,1,2,1]\n[1,2,1,2]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

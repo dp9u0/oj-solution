@@ -1,0 +1,16 @@
+{
+ "fid": "2422",
+ "slug": "merge-operations-to-turn-array-into-a-palindrome",
+ "name": "使用合并操作将数组转换为回文序列",
+ "englishName": "Merge Operations to Turn Array Into a Palindrome",
+ "level": "Medium",
+ "percent": 64.44,
+ "hints": [
+  "Can you find how many operations are needed to make the first element of the array equal to the last element?",
+  "Notice that you can use the same idea of the previous hint to make the second element equal to the second last one.",
+  "Use the same idea until all elements of the array are used."
+ ],
+ "sampleTestCase": "[4,3,2,1,2,3,1]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

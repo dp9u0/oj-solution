@@ -1,0 +1,15 @@
+{
+ "fid": "3064",
+ "slug": "guess-the-number-using-bitwise-questions-i",
+ "name": "使用按位查询猜测数字 I",
+ "englishName": "Guess the Number Using Bitwise Questions I",
+ "level": "Medium",
+ "percent": 27.96,
+ "hints": [
+  "Ask <code>2<sup>i</sup></code> for <code>0 <= i < 30</code>.",
+  "If the result is greater than zero for some <code>i</code>, this bit is a set bit in <code>n</code>."
+ ],
+ "sampleTestCase": "31",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,16 @@
+{
+ "fid": "3422",
+ "slug": "minimum-operations-to-make-subarray-elements-equal",
+ "name": "将子数组元素变为相等所需的最小操作数",
+ "englishName": "Minimum Operations to Make Subarray Elements Equal",
+ "level": "Medium",
+ "percent": 44.88,
+ "hints": [
+  "It can be proven that for each subarray of size <code>k</code>, one optimal common value is the median.",
+  "Use 2 multisets to maintain the median dynamically.",
+  "Calculate the sums of the 2 multisets dynamically to accelerate the answer calculation."
+ ],
+ "sampleTestCase": "[4,-3,2,1,-4,6]\n3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

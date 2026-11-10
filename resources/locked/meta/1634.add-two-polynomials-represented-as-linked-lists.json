@@ -1,0 +1,16 @@
+{
+ "fid": "1634",
+ "slug": "add-two-polynomials-represented-as-linked-lists",
+ "name": "求两个多项式链表的和",
+ "englishName": "Add Two Polynomials Represented as Linked Lists",
+ "level": "Medium",
+ "percent": 59.63,
+ "hints": [
+  "Process both linked lists at the same time",
+  "If the current power of the two heads is equal, add this power with the sum of the coefficients to the answer list.",
+  "If one head has a larger power, add this power to the answer list and move only this head."
+ ],
+ "sampleTestCase": "[[1,1]]\n[[1,0]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

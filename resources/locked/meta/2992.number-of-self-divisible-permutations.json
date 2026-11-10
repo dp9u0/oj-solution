@@ -1,0 +1,14 @@
+{
+ "fid": "2992",
+ "slug": "number-of-self-divisible-permutations",
+ "name": "自整除排列的数量",
+ "englishName": "Number of Self-Divisible Permutations",
+ "level": "Medium",
+ "percent": 73.93,
+ "hints": [
+  "Think of Backtracking."
+ ],
+ "sampleTestCase": "1",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

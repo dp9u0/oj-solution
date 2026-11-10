@@ -1,0 +1,17 @@
+{
+ "fid": "2067",
+ "slug": "number-of-equal-count-substrings",
+ "name": "等计数子串的数量",
+ "englishName": "Number of Equal Count Substrings",
+ "level": "Medium",
+ "percent": 55.15,
+ "hints": [
+  "The brute force solution is to check every substring, which would TLE. How can we improve this solution?",
+  "In an equal count substring, the first character appears count times, the second character appears count times, and so on.",
+  "The length of an equal count substring is the number of unique characters multiplied by count.",
+  "The length of all equal count substrings are multiples of count."
+ ],
+ "sampleTestCase": "\"aaabcbbcc\"\n3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

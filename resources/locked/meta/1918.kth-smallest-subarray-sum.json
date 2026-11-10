@@ -1,0 +1,15 @@
+{
+ "fid": "1918",
+ "slug": "kth-smallest-subarray-sum",
+ "name": "第 K 小的子数组和",
+ "englishName": "Kth Smallest Subarray Sum",
+ "level": "Medium",
+ "percent": 52.4,
+ "hints": [
+  "How can you compute the number of subarrays with a sum less than a given value?",
+  "Can we use binary search to help find the answer?"
+ ],
+ "sampleTestCase": "[2,1,3]\n4",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

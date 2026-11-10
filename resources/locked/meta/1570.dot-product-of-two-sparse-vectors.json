@@ -1,0 +1,14 @@
+{
+ "fid": "1570",
+ "slug": "dot-product-of-two-sparse-vectors",
+ "name": "两个稀疏向量的点积",
+ "englishName": "Dot Product of Two Sparse Vectors",
+ "level": "Medium",
+ "percent": 87.15,
+ "hints": [
+  "Because the vector is sparse, use a data structure that stores the index and value where the element is nonzero."
+ ],
+ "sampleTestCase": "[1,0,0,2,3]\n[0,3,0,4,0]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

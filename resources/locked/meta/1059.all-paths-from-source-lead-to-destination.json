@@ -1,0 +1,16 @@
+{
+ "fid": "1059",
+ "slug": "all-paths-from-source-lead-to-destination",
+ "name": "从起点到终点的所有路径",
+ "englishName": "All Paths from Source Lead to Destination",
+ "level": "Medium",
+ "percent": 36.18,
+ "hints": [
+  "What if we can reach to a cycle from the source node?",
+  "Then the answer will be false, because we eventually get trapped in the cycle forever.",
+  "What if the we can't reach to a cycle from the source node? Then we need to ensure that from all visited nodes from source the unique node with indegree = 0 is the destination node."
+ ],
+ "sampleTestCase": "3\n[[0,1],[0,2]]\n0\n2",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

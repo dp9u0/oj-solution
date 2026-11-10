@@ -1,0 +1,12 @@
+{
+ "fid": "298",
+ "slug": "binary-tree-longest-consecutive-sequence",
+ "name": "二叉树最长连续序列",
+ "englishName": "Binary Tree Longest Consecutive Sequence",
+ "level": "Medium",
+ "percent": 60.83,
+ "hints": [],
+ "sampleTestCase": "[1,null,3,2,4,null,null,null,5]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

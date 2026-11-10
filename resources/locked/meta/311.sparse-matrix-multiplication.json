@@ -1,0 +1,12 @@
+{
+ "fid": "311",
+ "slug": "sparse-matrix-multiplication",
+ "name": "稀疏矩阵的乘法",
+ "englishName": "Sparse Matrix Multiplication",
+ "level": "Medium",
+ "percent": 76.2,
+ "hints": [],
+ "sampleTestCase": "[[1,0,0],[-1,0,3]]\n[[7,0,0],[0,0,0],[0,0,1]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

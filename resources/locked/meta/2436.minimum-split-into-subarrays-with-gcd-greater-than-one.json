@@ -1,0 +1,16 @@
+{
+ "fid": "2436",
+ "slug": "minimum-split-into-subarrays-with-gcd-greater-than-one",
+ "name": "使子数组最大公约数大于一的最小分割数",
+ "englishName": "Minimum Split Into Subarrays With GCD Greater Than One",
+ "level": "Medium",
+ "percent": 69.21,
+ "hints": [
+  "How does the GCD of an array change when you add more elements to a subarray?",
+  "The GCD will always decrease when increasing the size of the subarray,",
+  "Keep adding elements to a subarray and if adding a new element will make the GCD = 1, add a new split and a new subarray."
+ ],
+ "sampleTestCase": "[12,6,3,14,8]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

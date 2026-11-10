@@ -1,0 +1,12 @@
+{
+ "fid": "656",
+ "slug": "coin-path",
+ "name": "成本最小路径",
+ "englishName": "Coin Path",
+ "level": "Hard",
+ "percent": 36.16,
+ "hints": [],
+ "sampleTestCase": "[1,2,4,-1,2]\n2",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

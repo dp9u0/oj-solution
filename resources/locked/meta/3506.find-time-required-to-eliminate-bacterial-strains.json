@@ -1,0 +1,15 @@
+{
+ "fid": "3506",
+ "slug": "find-time-required-to-eliminate-bacterial-strains",
+ "name": "查找消除细菌菌株所需时间",
+ "englishName": "Find Time Required to Eliminate Bacterial Strains",
+ "level": "Hard",
+ "percent": 76.55,
+ "hints": [
+  "Use binary search.",
+  "First perform all the divisions, then assign the bacteria greedily."
+ ],
+ "sampleTestCase": "[10,4,5]\n2",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,15 @@
+{
+ "fid": "2599",
+ "slug": "make-the-prefix-sum-non-negative",
+ "name": "使前缀和数组非负",
+ "englishName": "Make the Prefix Sum Non-negative",
+ "level": "Medium",
+ "percent": 47.85,
+ "hints": [
+  "There will always be a way to make the prefix sum non-negative. How can we use that?",
+  "Loop over the array keeping the prefix sum. Whenever it goes negative, move the smallest number you have seen to the end."
+ ],
+ "sampleTestCase": "[2,3,-5,4]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

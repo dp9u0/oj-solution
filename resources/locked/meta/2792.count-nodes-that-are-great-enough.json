@@ -1,0 +1,16 @@
+{
+ "fid": "2792",
+ "slug": "count-nodes-that-are-great-enough",
+ "name": "计算足够大的节点数",
+ "englishName": "Count Nodes That Are Great Enough",
+ "level": "Hard",
+ "percent": 23.32,
+ "hints": [
+  "<div class=\"_1l1MA\">For each node, calculate a list of <code>k</code> values representing <code>k</code> smallest values in the subtree of that node.</div>",
+  "<div class=\"_1l1MA\">To check if a node is great enough, get the described list in the first hint for its children and merge them. Since the resulting list may contain more than <code>k</code> elements, pick <code>k</code> smallest values and discard the extra ones.</div>",
+  "<div class=\"_1l1MA\">Now check if the merged list has exactly <code>k</code> elements, and the current node's value is greater than the greatest element in the list, then that node is great enough.</div>"
+ ],
+ "sampleTestCase": "[7,6,5,4,3,2,1]\n2",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

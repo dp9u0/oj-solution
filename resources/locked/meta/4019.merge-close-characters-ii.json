@@ -1,0 +1,15 @@
+{
+ "fid": "4019",
+ "slug": "merge-close-characters-ii",
+ "name": "合并靠近字符 II",
+ "englishName": "Merge Close Characters II",
+ "level": "Medium",
+ "percent": 88.24,
+ "hints": [
+  "Process the characters from left to right while maintaining the resulting string for the prefix processed so far. When adding a new character, any newly possible merge must use that character as the right character.",
+  "For each letter, store the index of its last occurrence in the resulting string. If its distance from the current end is at most <code>k</code>, discard the current character; otherwise, append it and update its last occurrence."
+ ],
+ "sampleTestCase": "\"abca\"\n3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

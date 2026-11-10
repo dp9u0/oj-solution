@@ -1,0 +1,12 @@
+{
+ "fid": "625",
+ "slug": "minimum-factorization",
+ "name": "最小因式分解",
+ "englishName": "Minimum Factorization",
+ "level": "Medium",
+ "percent": 33.8,
+ "hints": [],
+ "sampleTestCase": "48",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

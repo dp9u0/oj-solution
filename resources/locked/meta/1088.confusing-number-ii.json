@@ -1,0 +1,15 @@
+{
+ "fid": "1088",
+ "slug": "confusing-number-ii",
+ "name": "易混淆数 II",
+ "englishName": "Confusing Number II",
+ "level": "Hard",
+ "percent": 52.16,
+ "hints": [
+  "Which set of digits have the valid numbers?",
+  "Only 0, 1, 6, 8, 9 are the valid set of digits, do a backtracking to generate all the numbers containing this digits and check they are valid."
+ ],
+ "sampleTestCase": "20",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

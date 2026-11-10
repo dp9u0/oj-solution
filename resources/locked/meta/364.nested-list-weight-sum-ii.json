@@ -1,0 +1,12 @@
+{
+ "fid": "364",
+ "slug": "nested-list-weight-sum-ii",
+ "name": "嵌套列表加权和 II",
+ "englishName": "Nested List Weight Sum II",
+ "level": "Medium",
+ "percent": 65.86,
+ "hints": [],
+ "sampleTestCase": "[[1,1],2,[1,1]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

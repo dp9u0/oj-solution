@@ -1,0 +1,15 @@
+{
+ "fid": "2254",
+ "slug": "design-video-sharing-platform",
+ "name": "设计视频共享平台",
+ "englishName": "Design Video Sharing Platform",
+ "level": "Hard",
+ "percent": 29,
+ "hints": [
+  "How can we keep track of the videoId’s of removed videos?",
+  "When you remove a video, keep track of its videoId in an array called usedId. When a new video is uploaded, first check if usedId contains any elements, if it does, use the smallest value in usedId."
+ ],
+ "sampleTestCase": "[\"VideoSharingPlatform\",\"upload\",\"upload\",\"remove\",\"remove\",\"upload\",\"watch\",\"watch\",\"like\",\"dislike\",\"dislike\",\"getLikesAndDislikes\",\"getViews\"]\n[[],[\"123\"],[\"456\"],[4],[0],[\"789\"],[1,0,5],[1,0,1],[1],[1],[1],[1],[1]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

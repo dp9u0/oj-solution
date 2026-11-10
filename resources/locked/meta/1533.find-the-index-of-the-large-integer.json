@@ -1,0 +1,15 @@
+{
+ "fid": "1533",
+ "slug": "find-the-index-of-the-large-integer",
+ "name": "找到最大整数的索引",
+ "englishName": "Find the Index of the Large Integer",
+ "level": "Medium",
+ "percent": 57.9,
+ "hints": [
+  "Do a binary search over the array, exclude the half of the array that doesn't contain the largest number.",
+  "Keep shrinking the search space till it reaches the size of 2 where you can easily determine which one has the largest integer."
+ ],
+ "sampleTestCase": "[7,7,7,7,10,7,7,7]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

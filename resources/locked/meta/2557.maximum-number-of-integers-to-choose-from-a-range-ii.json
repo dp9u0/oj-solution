@@ -1,0 +1,16 @@
+{
+ "fid": "2557",
+ "slug": "maximum-number-of-integers-to-choose-from-a-range-ii",
+ "name": "从一个范围内选择最多整数 II",
+ "englishName": "Maximum Number of Integers to Choose From a Range II",
+ "level": "Medium",
+ "percent": 36.45,
+ "hints": [
+  "It is optimal always to take the smallest possible integer you can choose.",
+  "Between every consecutive banned integers, can you find how many integers you can choose?",
+  "Think of using binary search to find that."
+ ],
+ "sampleTestCase": "[1,4,6]\n6\n4",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

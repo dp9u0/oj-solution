@@ -1,0 +1,16 @@
+{
+ "fid": "2046",
+ "slug": "sort-linked-list-already-sorted-using-absolute-values",
+ "name": "给按照绝对值排序的链表排序",
+ "englishName": "Sort Linked List Already Sorted Using Absolute Values",
+ "level": "Medium",
+ "percent": 63.97,
+ "hints": [
+  "The nodes with positive values are already in the correct order.",
+  "Nodes with negative values need to be moved to the front.",
+  "Nodes with negative values are in reversed order."
+ ],
+ "sampleTestCase": "[0,2,-5,5,10,-10]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

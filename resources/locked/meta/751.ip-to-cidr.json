@@ -1,0 +1,14 @@
+{
+ "fid": "751",
+ "slug": "ip-to-cidr",
+ "name": "IP 到 CIDR",
+ "englishName": "IP to CIDR",
+ "level": "Medium",
+ "percent": 48.67,
+ "hints": [
+  "Convert the ip addresses to and from (long) integers.  You want to know what is the most addresses you can put in this block starting from the \"start\" ip, up to n.  It is the smallest between the lowest bit of start and the highest bit of n.  Then, repeat this process with a new start and n."
+ ],
+ "sampleTestCase": "\"255.0.0.7\"\n10",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

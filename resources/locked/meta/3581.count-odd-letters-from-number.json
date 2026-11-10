@@ -1,0 +1,14 @@
+{
+ "fid": "3581",
+ "slug": "count-odd-letters-from-number",
+ "name": "计算数字中的奇数字母数量",
+ "englishName": "Count Odd Letters from Number",
+ "level": "Easy",
+ "percent": 83.8,
+ "hints": [
+  "Simulate as described"
+ ],
+ "sampleTestCase": "41",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

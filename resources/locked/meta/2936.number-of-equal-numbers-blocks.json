@@ -1,0 +1,16 @@
+{
+ "fid": "2936",
+ "slug": "number-of-equal-numbers-blocks",
+ "name": "包含相等值数字块的数量",
+ "englishName": "Number of Equal Numbers Blocks",
+ "level": "Medium",
+ "percent": 43.99,
+ "hints": [
+  "Start from the beginning of the array <code>nums.at(0)</code>.",
+  "Do a binary search on the last index <code>last</code> such that <code>nums.at(0) == nums.at(last)</code>.",
+  "Continue this process until you get to the end of the array (<code>nums.size()</code>)."
+ ],
+ "sampleTestCase": "[3,3,3,3,3]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,12 @@
+{
+ "fid": "772",
+ "slug": "basic-calculator-iii",
+ "name": "基本计算器 III",
+ "englishName": "Basic Calculator III",
+ "level": "Hard",
+ "percent": 53.9,
+ "hints": [],
+ "sampleTestCase": "\"1+1\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,15 @@
+{
+ "fid": "3540",
+ "slug": "minimum-time-to-visit-all-houses",
+ "name": "访问所有房屋的最短时间",
+ "englishName": "Minimum Time to Visit All Houses",
+ "level": "Medium",
+ "percent": 81.55,
+ "hints": [
+  "Use prefix sums to compute distances for both forward and backward movements.",
+  "For each move between adjacent houses, take the minimum distance from the two prefix-sum arrays."
+ ],
+ "sampleTestCase": "[1,4,4]\n[4,1,2]\n[1,2,0,2]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

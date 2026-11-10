@@ -1,0 +1,18 @@
+{
+ "fid": "3189",
+ "slug": "minimum-moves-to-get-a-peaceful-board",
+ "name": "得到一个和平棋盘的最少步骤",
+ "englishName": "Minimum Moves to Get a Peaceful Board",
+ "level": "Medium",
+ "percent": 21.72,
+ "hints": [
+  "Think of a greedy method.",
+  "First, distribute the rooks in individual rows.",
+  "You can do this by sorting all rooks by their rows. Then assign the first one to the first row, the second one to the second row, and so on.",
+  "After you've distributed rooks across all rows, now do the same for columns.",
+  "Sort rooks by their columns and then assign the first one to the first column and so on."
+ ],
+ "sampleTestCase": "[[0,0],[1,0],[1,1]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,12 @@
+{
+ "fid": "635",
+ "slug": "design-log-storage-system",
+ "name": "设计日志存储系统",
+ "englishName": "Design Log Storage System",
+ "level": "Medium",
+ "percent": 53.24,
+ "hints": [],
+ "sampleTestCase": "[\"LogSystem\",\"put\",\"put\",\"put\",\"retrieve\",\"retrieve\"]\n[[],[1,\"2017:01:01:23:59:59\"],[2,\"2017:01:01:22:59:59\"],[3,\"2016:01:01:00:00:00\"],[\"2016:01:01:01:01:01\",\"2017:01:01:23:00:00\",\"Year\"],[\"2016:01:01:01:01:01\",\"2017:01:01:23:00:00\",\"Hour\"]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

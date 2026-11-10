@@ -1,0 +1,12 @@
+{
+ "fid": "527",
+ "slug": "word-abbreviation",
+ "name": "单词缩写",
+ "englishName": "Word Abbreviation",
+ "level": "Hard",
+ "percent": 61.08,
+ "hints": [],
+ "sampleTestCase": "[\"like\",\"god\",\"internal\",\"me\",\"internet\",\"interval\",\"intension\",\"face\",\"intrusion\"]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

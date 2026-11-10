@@ -1,0 +1,17 @@
+{
+ "fid": "3837",
+ "slug": "delayed-count-of-equal-elements",
+ "name": "相等元素的延迟计数",
+ "englishName": "Delayed Count of Equal Elements",
+ "level": "Medium",
+ "percent": 72.52,
+ "hints": [
+  "Use a hashmap.",
+  "Traverse from left to right, and at index <code>i</code> insert <code>nums[i + k + 1]</code> (if it exists) into the hashmap.",
+  "For the current index <code>i</code>, count how many of its occurrences are in the hashmap and push it into the result.",
+  "Reverse the resulting list and return it."
+ ],
+ "sampleTestCase": "[1,2,1,1]\n1",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

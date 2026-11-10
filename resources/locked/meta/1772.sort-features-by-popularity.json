@@ -1,0 +1,15 @@
+{
+ "fid": "1772",
+ "slug": "sort-features-by-popularity",
+ "name": "按受欢迎程度排列功能",
+ "englishName": "Sort Features by Popularity",
+ "level": "Medium",
+ "percent": 47.19,
+ "hints": [
+  "Use a hash map to count the frequency of each word of each string.",
+  "Use the map for sorting the features."
+ ],
+ "sampleTestCase": "[\"cooler\",\"lock\",\"touch\"]\n[\"i like cooler cooler\",\"lock touch cool\",\"locker like touch\"]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

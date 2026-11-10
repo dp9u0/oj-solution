@@ -1,0 +1,16 @@
+{
+ "fid": "1756",
+ "slug": "design-most-recently-used-queue",
+ "name": "设计最近使用（MRU）队列",
+ "englishName": "Design Most Recently Used Queue",
+ "level": "Medium",
+ "percent": 63.44,
+ "hints": [
+  "You can store the data in an array and apply each fetch by moving the ith element to the end of the array (i.e, O(n) per operation).",
+  "A better way is to use the square root decomposition technique.",
+  "You can build chunks of size sqrt(n). For each fetch operation, You can search for the chunk which has the ith element and update it (i.e., O(sqrt(n)) per operation), and move this element to an empty chunk at the end."
+ ],
+ "sampleTestCase": "[\"MRUQueue\",\"fetch\",\"fetch\",\"fetch\",\"fetch\"]\n[[8],[3],[5],[2],[8]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

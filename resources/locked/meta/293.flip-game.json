@@ -1,0 +1,12 @@
+{
+ "fid": "293",
+ "slug": "flip-game",
+ "name": "翻转游戏",
+ "englishName": "Flip Game",
+ "level": "Easy",
+ "percent": 73,
+ "hints": [],
+ "sampleTestCase": "\"++++\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

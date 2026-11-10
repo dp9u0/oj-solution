@@ -1,0 +1,12 @@
+{
+ "fid": "536",
+ "slug": "construct-binary-tree-from-string",
+ "name": "从字符串生成二叉树",
+ "englishName": "Construct Binary Tree from String",
+ "level": "Medium",
+ "percent": 56.68,
+ "hints": [],
+ "sampleTestCase": "\"4(2(3)(1))(6(5))\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

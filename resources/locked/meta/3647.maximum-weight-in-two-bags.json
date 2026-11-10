@@ -1,0 +1,15 @@
+{
+ "fid": "3647",
+ "slug": "maximum-weight-in-two-bags",
+ "name": "两个袋子中的最大重量",
+ "englishName": "Maximum Weight in Two Bags",
+ "level": "Medium",
+ "percent": 79.54,
+ "hints": [
+  "Use dynamic programming.",
+  "Let <code>dp[i][j]</code> be the maximum total weight that can be held in the two bags when their current weights (or used capacities) are <code>i</code> and <code>j</code>, respectively."
+ ],
+ "sampleTestCase": "[1,4,3,2]\n5\n4",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

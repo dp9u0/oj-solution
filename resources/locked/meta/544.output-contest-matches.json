@@ -1,0 +1,12 @@
+{
+ "fid": "544",
+ "slug": "output-contest-matches",
+ "name": "输出比赛匹配对",
+ "englishName": "Output Contest Matches",
+ "level": "Medium",
+ "percent": 72.84,
+ "hints": [],
+ "sampleTestCase": "4",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

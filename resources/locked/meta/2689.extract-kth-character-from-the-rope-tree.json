@@ -1,0 +1,16 @@
+{
+ "fid": "2689",
+ "slug": "extract-kth-character-from-the-rope-tree",
+ "name": "从 Rope 树中提取第 K 个字符",
+ "englishName": "Extract Kth Character From The Rope Tree",
+ "level": "Easy",
+ "percent": 46.26,
+ "hints": [
+  "Think of recursive methods.",
+  "Write a recursive function that gives a node of the tree and returns S[node].",
+  "Call the function above on the root of the tree and get k-th character of it."
+ ],
+ "sampleTestCase": "[10,4,\"abcpoe\",\"g\",\"rta\"]\n6",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

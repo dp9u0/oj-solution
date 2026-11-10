@@ -1,0 +1,15 @@
+{
+ "fid": "3466",
+ "slug": "maximum-coin-collection",
+ "name": "最大硬币收集量",
+ "englishName": "Maximum Coin Collection ",
+ "level": "Medium",
+ "percent": 31.59,
+ "hints": [
+  "Can we use dynamic programming?",
+  "Use dynamic programming with states: <code>dp[i][lane][rem]</code> = the maximum number of coins you can obtain when you are at mile <code>i</code> in the given <code>lane</code> with <code>rem</code> switches remaining."
+ ],
+ "sampleTestCase": "[1,-2,-10,3]\n[-5,10,0,1]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

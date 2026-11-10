@@ -1,0 +1,12 @@
+{
+ "fid": "170",
+ "slug": "two-sum-iii-data-structure-design",
+ "name": "两数之和 III - 数据结构设计",
+ "englishName": "Two Sum III - Data structure design",
+ "level": "Easy",
+ "percent": 42.57,
+ "hints": [],
+ "sampleTestCase": "[\"TwoSum\",\"add\",\"add\",\"add\",\"find\",\"find\"]\n[[],[1],[3],[5],[4],[7]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

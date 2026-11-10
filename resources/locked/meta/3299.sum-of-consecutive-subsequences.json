@@ -1,0 +1,19 @@
+{
+ "fid": "3299",
+ "slug": "sum-of-consecutive-subsequences",
+ "name": "连续子序列的和",
+ "englishName": "Sum of Consecutive Subsequences",
+ "level": "Hard",
+ "percent": 26.4,
+ "hints": [
+  "Try to count the number of times each element occurred in a consecutive subsequence, then you can find the answer easily.",
+  "Think of dynamic programming as a solution to calculate the number in the previous hint.",
+  "Let <code>left_inc[i]</code> be the number of increasing consecutive subsequences ending at <code>nums[i]</code> (except for <code>nums[i]</code> itself).",
+  "Let <code>right_inc[i]</code> be the number of increasing consecutive subsequences starting at <code>nums[i]</code> (except for <code>nums[i]</code> itself).",
+  "Then <code>nums[i]</code> is in <code>left_inc[i] + right_inc[i] + left_inc[i] * right_inc[i] + 1</code> increasing subsequences.",
+  "Do the same for decreasing consecutive subsequences."
+ ],
+ "sampleTestCase": "[1,2]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

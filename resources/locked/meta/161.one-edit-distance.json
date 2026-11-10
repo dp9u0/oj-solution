@@ -1,0 +1,12 @@
+{
+ "fid": "161",
+ "slug": "one-edit-distance",
+ "name": "相隔为 1 的编辑距离",
+ "englishName": "One Edit Distance",
+ "level": "Medium",
+ "percent": 34.77,
+ "hints": [],
+ "sampleTestCase": "\"ab\"\n\"acb\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,12 @@
+{
+ "fid": "256",
+ "slug": "paint-house",
+ "name": "粉刷房子",
+ "englishName": "Paint House",
+ "level": "Medium",
+ "percent": 72.35,
+ "hints": [],
+ "sampleTestCase": "[[17,2,17],[16,16,5],[14,3,19]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

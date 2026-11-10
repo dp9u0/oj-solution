@@ -1,0 +1,15 @@
+{
+ "fid": "1522",
+ "slug": "diameter-of-n-ary-tree",
+ "name": "N 叉树的直径",
+ "englishName": "Diameter of N-Ary Tree",
+ "level": "Medium",
+ "percent": 73.61,
+ "hints": [
+  "For the node i, calculate the height of each of its children and keep the first and second maximum heights (max1_i , max2_i).",
+  "Check all nodes and return max( 2 + max1_i  +  max2_i )."
+ ],
+ "sampleTestCase": "[1,null,3,2,4,null,5,6]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

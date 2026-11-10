@@ -1,0 +1,12 @@
+{
+ "fid": "471",
+ "slug": "encode-string-with-shortest-length",
+ "name": "编码最短长度的字符串",
+ "englishName": "Encode String with Shortest Length",
+ "level": "Hard",
+ "percent": 59.81,
+ "hints": [],
+ "sampleTestCase": "\"aaa\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

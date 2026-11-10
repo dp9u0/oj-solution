@@ -1,0 +1,16 @@
+{
+ "fid": "3744",
+ "slug": "find-kth-character-in-expanded-string",
+ "name": "在展开字符串中查找第 K 个字符",
+ "englishName": "Find Kth Character in Expanded String",
+ "level": "Medium",
+ "percent": 69.77,
+ "hints": [
+  "Use the index of a character in the word to calculate how many times it is repeated in <code>t</code>.",
+  "Reduce <code>k</code> by that repetition count as you iterate through the characters.",
+  "Handle spaces as single characters (cost 1) and reset the index counter for each new word."
+ ],
+ "sampleTestCase": "\"hello world\"\n0",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

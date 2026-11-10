@@ -1,0 +1,14 @@
+{
+ "fid": "3571",
+ "slug": "find-the-shortest-superstring-ii",
+ "name": "最短超级串 II",
+ "englishName": "Find the Shortest Superstring II",
+ "level": "Easy",
+ "percent": 59.66,
+ "hints": [
+  "Check for the maximum suffix of one string that matches a prefix of the other (in both directions) and merge accordingly."
+ ],
+ "sampleTestCase": "\"aba\"\n\"bab\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

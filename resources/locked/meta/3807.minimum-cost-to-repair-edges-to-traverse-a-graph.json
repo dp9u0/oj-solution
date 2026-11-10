@@ -1,0 +1,16 @@
+{
+ "fid": "3807",
+ "slug": "minimum-cost-to-repair-edges-to-traverse-a-graph",
+ "name": "修复边以遍历图的最小成本",
+ "englishName": "Minimum Cost to Repair Edges to Traverse a Graph",
+ "level": "Medium",
+ "percent": 72.83,
+ "hints": [
+  "Use binary search.",
+  "For a fixed value of <code>money</code>, check whether there exists a path from node <code>0</code> to node <code>n - 1</code> that uses at most <code>k</code> edges.",
+  "Use binary search to find the smallest value of <code>money</code> that makes this possible."
+ ],
+ "sampleTestCase": "3\n[[0,1,10],[1,2,10],[0,2,100]]\n1",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

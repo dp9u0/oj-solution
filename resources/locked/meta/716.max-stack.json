@@ -1,0 +1,12 @@
+{
+ "fid": "716",
+ "slug": "max-stack",
+ "name": "最大栈",
+ "englishName": "Max Stack",
+ "level": "Hard",
+ "percent": 42.33,
+ "hints": [],
+ "sampleTestCase": "[\"MaxStack\",\"push\",\"push\",\"push\",\"top\",\"popMax\",\"top\",\"peekMax\",\"pop\",\"top\"]\n[[],[5],[1],[5],[],[],[],[],[],[]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

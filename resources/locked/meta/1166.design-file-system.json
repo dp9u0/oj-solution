@@ -1,0 +1,16 @@
+{
+ "fid": "1166",
+ "slug": "design-file-system",
+ "name": "设计文件系统",
+ "englishName": "Design File System",
+ "level": "Medium",
+ "percent": 50.42,
+ "hints": [
+  "What if you think of a tree hierarchy for the files?.",
+  "A path is a node in the tree.",
+  "Use a hash table to store the valid paths along with their values."
+ ],
+ "sampleTestCase": "[\"FileSystem\",\"createPath\",\"get\"]\n[[],[\"/a\",1],[\"/a\"]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

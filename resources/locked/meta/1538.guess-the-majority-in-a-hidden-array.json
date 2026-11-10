@@ -1,0 +1,14 @@
+{
+ "fid": "1538",
+ "slug": "guess-the-majority-in-a-hidden-array",
+ "name": "找出隐藏数组中出现次数最多的元素",
+ "englishName": "Guess the Majority in a Hidden Array",
+ "level": "Medium",
+ "percent": 60.17,
+ "hints": [
+  "If you find that 2 indexes in the array (id1, id2) have the same value (nums [id1] == nums [id2]), you could infer the values of (x, y) based on the results of query (id1, id2, x, y)."
+ ],
+ "sampleTestCase": "[0,0,1,0,1,1,1,1]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

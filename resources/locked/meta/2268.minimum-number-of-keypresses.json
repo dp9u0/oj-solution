@@ -1,0 +1,15 @@
+{
+ "fid": "2268",
+ "slug": "minimum-number-of-keypresses",
+ "name": "最少按键次数",
+ "englishName": "Minimum Number of Keypresses",
+ "level": "Medium",
+ "percent": 62.51,
+ "hints": [
+  "Map the most frequent letters so that you can type them with only 1 keypress.",
+  "Use an array to keep track of the frequency of every character, then sort it in non-increasing order."
+ ],
+ "sampleTestCase": "\"apple\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

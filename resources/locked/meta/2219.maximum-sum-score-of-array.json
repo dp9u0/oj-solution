@@ -1,0 +1,15 @@
+{
+ "fid": "2219",
+ "slug": "maximum-sum-score-of-array",
+ "name": "数组的最大总分",
+ "englishName": "Maximum Sum Score of Array",
+ "level": "Medium",
+ "percent": 57.97,
+ "hints": [
+  "How can we use precalculation to efficiently calculate the average difference at an index?",
+  "Create a prefix and/or suffix sum array."
+ ],
+ "sampleTestCase": "[4,3,-2,5]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

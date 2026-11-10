@@ -1,0 +1,12 @@
+{
+ "fid": "254",
+ "slug": "factor-combinations",
+ "name": "因子的组合",
+ "englishName": "Factor Combinations",
+ "level": "Medium",
+ "percent": 58.06,
+ "hints": [],
+ "sampleTestCase": "1",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

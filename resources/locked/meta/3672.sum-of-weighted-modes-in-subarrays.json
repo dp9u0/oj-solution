@@ -1,0 +1,16 @@
+{
+ "fid": "3672",
+ "slug": "sum-of-weighted-modes-in-subarrays",
+ "name": "子数组中加权众数的总和",
+ "englishName": "Sum of Weighted Modes in Subarrays",
+ "level": "Medium",
+ "percent": 44.64,
+ "hints": [
+  "Use a sliding window.",
+  "Maintain the max frequency of the current window of length <code>k</code> using a data structure.",
+  "Maintain another data structure for values that have a given frequency."
+ ],
+ "sampleTestCase": "[1,2,2,3]\n3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

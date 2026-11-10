@@ -1,0 +1,16 @@
+{
+ "fid": "2539",
+ "slug": "count-the-number-of-good-subsequences",
+ "name": "好子序列的个数",
+ "englishName": "Count the Number of Good Subsequences",
+ "level": "Medium",
+ "percent": 50.43,
+ "hints": [
+  "Use the frequency array of characters of the string.",
+  "For 1 ≤ m ≤ s.length, count the number of subsequences of s where each character occurs exactly m times.",
+  "For any n and k, you can calculate (n choose k) mod p in O(log p) using binary exponentiation."
+ ],
+ "sampleTestCase": "\"aabb\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,15 @@
+{
+ "fid": "2702",
+ "slug": "minimum-operations-to-make-numbers-non-positive",
+ "name": "使数字变为非正数的最小操作次数",
+ "englishName": "Minimum Operations to Make Numbers Non-positive",
+ "level": "Hard",
+ "percent": 27.5,
+ "hints": [
+  "Given a candidate, can you check if it is possible to decrement all values to be less than or equal to 0 within the given steps in O(N) time?",
+  "If so, run a binary search to look for the minimum such valid candidate."
+ ],
+ "sampleTestCase": "[3,4,1,7,6]\n4\n2",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

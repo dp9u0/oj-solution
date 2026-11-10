@@ -1,0 +1,17 @@
+{
+ "fid": "3313",
+ "slug": "find-the-last-marked-nodes-in-tree",
+ "name": "查找树中最后标记的节点",
+ "englishName": "Find the Last Marked Nodes in Tree",
+ "level": "Hard",
+ "percent": 11.03,
+ "hints": [
+  "We need to calculate the height of tree when rooted at each node.",
+  "Find a diameter using two DFS.",
+  "The farthest node from each node must be one of the endpoints of the diameter.",
+  "The last marked node will be one of the end of the diameter, whichever is more distant."
+ ],
+ "sampleTestCase": "[[0,1],[0,2]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

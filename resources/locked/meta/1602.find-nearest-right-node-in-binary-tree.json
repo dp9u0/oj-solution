@@ -1,0 +1,17 @@
+{
+ "fid": "1602",
+ "slug": "find-nearest-right-node-in-binary-tree",
+ "name": "找到二叉树中最近的右侧节点",
+ "englishName": "Find Nearest Right Node in Binary Tree",
+ "level": "Medium",
+ "percent": 72.24,
+ "hints": [
+  "Use BFS, traverse the tree level by level and always push the left node first",
+  "When you reach the target node, mark  a boolean variable true",
+  "If you meet another node in the same level after marking the boolean true, return this node.",
+  "If you did not meet new nodes in the same level and started traversing a new level, return Null"
+ ],
+ "sampleTestCase": "[1,2,3,null,4,5,6]\n4",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

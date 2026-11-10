@@ -1,0 +1,12 @@
+{
+ "fid": "634",
+ "slug": "find-the-derangement-of-an-array",
+ "name": "寻找数组的错位排列",
+ "englishName": "Find the Derangement of An Array",
+ "level": "Medium",
+ "percent": 46.38,
+ "hints": [],
+ "sampleTestCase": "3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

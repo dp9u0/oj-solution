@@ -1,0 +1,16 @@
+{
+ "fid": "1258",
+ "slug": "synonymous-sentences",
+ "name": "近义词句子",
+ "englishName": "Synonymous Sentences",
+ "level": "Medium",
+ "percent": 60.49,
+ "hints": [
+  "Find all synonymous groups of words.",
+  "Use union-find data structure.",
+  "By backtracking, generate all possible statements."
+ ],
+ "sampleTestCase": "[[\"happy\",\"joy\"],[\"sad\",\"sorrow\"],[\"joy\",\"cheerful\"]]\n\"I am happy today but was sad yesterday\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

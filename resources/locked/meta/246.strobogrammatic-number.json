@@ -1,0 +1,12 @@
+{
+ "fid": "246",
+ "slug": "strobogrammatic-number",
+ "name": "中心对称数",
+ "englishName": "Strobogrammatic Number",
+ "level": "Easy",
+ "percent": 47.85,
+ "hints": [],
+ "sampleTestCase": "\"69\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

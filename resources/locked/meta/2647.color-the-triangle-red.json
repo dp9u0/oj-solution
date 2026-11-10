@@ -1,0 +1,15 @@
+{
+ "fid": "2647",
+ "slug": "color-the-triangle-red",
+ "name": "把三角形染成红色",
+ "englishName": "Color the Triangle Red",
+ "level": "Hard",
+ "percent": 43.64,
+ "hints": [
+  "Calculate the minimal value of k by strategically designing a monovariant.",
+  "Construct the solution four rows at a time, going bottom up."
+ ],
+ "sampleTestCase": "3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

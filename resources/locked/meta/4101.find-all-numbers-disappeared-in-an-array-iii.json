@@ -1,0 +1,15 @@
+{
+ "fid": "4101",
+ "slug": "find-all-numbers-disappeared-in-an-array-iii",
+ "name": "找到所有数组中消失的数字 III",
+ "englishName": "Find All Numbers Disappeared in an Array III",
+ "level": "Medium",
+ "percent": 74.51,
+ "hints": [
+  "Sort <code>nums</code> so you can find gaps between present values without checking every integer in <code>[lower, upper]</code>.",
+  "Keep a cursor <code>cur</code> starting at <code>lower</code>. Skip values below <code>cur</code> and stop at values above <code>upper</code>. For each remaining value <code>x</code>, record <code>[cur, x - 1]</code> if <code>cur &lt; x</code>, then set <code>cur = x + 1</code>. After the scan, record <code>[cur, upper]</code> if <code>cur &lt;= upper</code>."
+ ],
+ "sampleTestCase": "[3,9,7]\n1\n12",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

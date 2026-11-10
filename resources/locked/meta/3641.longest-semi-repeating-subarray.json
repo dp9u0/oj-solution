@@ -1,0 +1,16 @@
+{
+ "fid": "3641",
+ "slug": "longest-semi-repeating-subarray",
+ "name": "最长半重复子数组",
+ "englishName": "Longest Semi-Repeating Subarray",
+ "level": "Medium",
+ "percent": 58.73,
+ "hints": [
+  "Use a sliding window with left/right pointers.",
+  "Keep a freq map and a count of elements with freq > 1.",
+  "If repeating-count <code>> k</code>, shift the left pointer until it's <code><= k</code>."
+ ],
+ "sampleTestCase": "[1,2,3,1,2,3,4]\n2",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

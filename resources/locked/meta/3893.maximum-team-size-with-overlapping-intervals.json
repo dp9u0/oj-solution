@@ -1,0 +1,15 @@
+{
+ "fid": "3893",
+ "slug": "maximum-team-size-with-overlapping-intervals",
+ "name": "最大重叠区间团队规模",
+ "englishName": "Maximum Team Size with Overlapping Intervals",
+ "level": "Medium",
+ "percent": 60.32,
+ "hints": [
+  "Use binary search",
+  "For the <code>i<sup>th</sup></code> employee, count the number of employees with start times <= <code>endTime[i]</code> minus the number of employees with end times < <code>startTime[i]</code>"
+ ],
+ "sampleTestCase": "[1,2,3]\n[4,5,6]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

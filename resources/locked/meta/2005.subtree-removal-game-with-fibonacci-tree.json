@@ -1,0 +1,16 @@
+{
+ "fid": "2005",
+ "slug": "subtree-removal-game-with-fibonacci-tree",
+ "name": "斐波那契树的移除子树游戏",
+ "englishName": "Subtree Removal Game with Fibonacci Tree",
+ "level": "Hard",
+ "percent": 45.75,
+ "hints": [
+  "How can game theory help us solve this problem?",
+  "Think about the Sprague–Grundy theorem and the Colon Principle",
+  "The Grundy value of a node is the nim sum of the Grundy values of its children."
+ ],
+ "sampleTestCase": "3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

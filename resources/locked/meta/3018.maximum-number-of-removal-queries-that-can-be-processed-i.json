@@ -1,0 +1,18 @@
+{
+ "fid": "3018",
+ "slug": "maximum-number-of-removal-queries-that-can-be-processed-i",
+ "name": "可处理的最大删除操作数 I",
+ "englishName": "Maximum Number of Removal Queries That Can Be Processed I",
+ "level": "Hard",
+ "percent": 33.25,
+ "hints": [
+  "Think of dynamic programming.",
+  "The definition of <code>dp</code> is a little unusual. Try to think more.",
+  "Let <code>dp[l][r]</code> be the maximum number of queries we can process if we want <code>a[l], a[l + 1], ..., a[r - 1]</code> not to be removed after processing <code>dp[l][r]</code> queries.",
+  "So <code>dp[0][n] = 0</code> since we can not remove anything.",
+  "The answer would be <code>max(dp[i][i])</code>."
+ ],
+ "sampleTestCase": "[1,2,3,4,5]\n[1,2,3,4,6]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

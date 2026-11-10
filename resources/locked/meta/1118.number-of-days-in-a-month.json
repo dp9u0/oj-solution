@@ -1,0 +1,15 @@
+{
+ "fid": "1118",
+ "slug": "number-of-days-in-a-month",
+ "name": "一月有多少天",
+ "englishName": "Number of Days in a Month",
+ "level": "Easy",
+ "percent": 66.67,
+ "hints": [
+  "Does February have 28 days or 29 days?",
+  "Think of Leap years."
+ ],
+ "sampleTestCase": "1992\n7",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

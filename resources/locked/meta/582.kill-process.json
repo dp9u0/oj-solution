@@ -1,0 +1,12 @@
+{
+ "fid": "582",
+ "slug": "kill-process",
+ "name": "杀掉进程",
+ "englishName": "Kill Process",
+ "level": "Medium",
+ "percent": 49.56,
+ "hints": [],
+ "sampleTestCase": "[1,3,10,5]\n[3,0,5,3]\n5",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,16 @@
+{
+ "fid": "2655",
+ "slug": "find-maximal-uncovered-ranges",
+ "name": "寻找最大长度的未覆盖区间",
+ "englishName": "Find Maximal Uncovered Ranges",
+ "level": "Medium",
+ "percent": 26.7,
+ "hints": [
+  "The complexity of the solution is independent of the length of the array nums.",
+  "Sort ranges by their start points.",
+  "An uncovered range should start right after the end of one of the input ranges (or starts at zero) and also ends right before the start of one of the input ranges (or ends at n)."
+ ],
+ "sampleTestCase": "10\n[[3,5],[7,8]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

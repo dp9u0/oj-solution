@@ -1,0 +1,12 @@
+{
+ "fid": "431",
+ "slug": "encode-n-ary-tree-to-binary-tree",
+ "name": "将 N 叉树编码为二叉树",
+ "englishName": "Encode N-ary Tree to Binary Tree",
+ "level": "Hard",
+ "percent": 78.04,
+ "hints": [],
+ "sampleTestCase": "[1,null,3,2,4,null,5,6]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

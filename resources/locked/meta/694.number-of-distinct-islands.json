@@ -1,0 +1,12 @@
+{
+ "fid": "694",
+ "slug": "number-of-distinct-islands",
+ "name": "不同岛屿的数量",
+ "englishName": "Number of Distinct Islands",
+ "level": "Medium",
+ "percent": 58.87,
+ "hints": [],
+ "sampleTestCase": "[[1,1,0,0,0],[1,1,0,0,0],[0,0,0,1,1],[0,0,0,1,1]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

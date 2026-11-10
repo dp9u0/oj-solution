@@ -1,0 +1,18 @@
+{
+ "fid": "1102",
+ "slug": "path-with-maximum-minimum-value",
+ "name": "得分最高的路径",
+ "englishName": "Path With Maximum Minimum Value",
+ "level": "Medium",
+ "percent": 42.03,
+ "hints": [
+  "What if we sort each cell of the matrix by the value?",
+  "Don't include small values in your path if you can only include large values.",
+  "Let's keep adding a possible cell to use in the path incrementally with decreasing values.",
+  "If the start and end cells are connected then we don't need to add more cells.",
+  "Use union-find data structure to check connectivity and return as answer the value of the given cell that makes start and end cells connected."
+ ],
+ "sampleTestCase": "[[5,4,5],[1,2,6],[7,4,6]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

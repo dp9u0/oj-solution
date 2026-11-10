@@ -1,0 +1,15 @@
+{
+ "fid": "2524",
+ "slug": "maximum-frequency-score-of-a-subarray",
+ "name": "子数组的最大频率分数",
+ "englishName": "Maximum Frequency Score of a Subarray",
+ "level": "Hard",
+ "percent": 43.8,
+ "hints": [
+  "Calculate the frequency score of each subarray of size k and return the maximum one.",
+  "Use the sliding window technique to keep the frequency scores."
+ ],
+ "sampleTestCase": "[1,1,1,2,1,2]\n3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

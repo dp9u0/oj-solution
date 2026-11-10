@@ -1,0 +1,15 @@
+{
+ "fid": "1554",
+ "slug": "strings-differ-by-one-character",
+ "name": "只有一个不同字符的字符串",
+ "englishName": "Strings Differ by One Character",
+ "level": "Medium",
+ "percent": 42.04,
+ "hints": [
+  "BruteForce, check all pairs and verify if they differ in one character. O(n^2 * m) where n is the number of words and m is the length of each string.",
+  "O(m^2 * n), Use hashset, to insert all possible combinations adding a character \"*\". For example: If dict[i] = \"abc\", insert (\"*bc\", \"a*c\" and \"ab*\")."
+ ],
+ "sampleTestCase": "[\"abcd\",\"acbd\", \"aacd\"]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

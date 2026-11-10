@@ -1,0 +1,16 @@
+{
+ "fid": "2184",
+ "slug": "number-of-ways-to-build-sturdy-brick-wall",
+ "name": "建造坚实的砖墙的方法数",
+ "englishName": "Number of Ways to Build Sturdy Brick Wall",
+ "level": "Medium",
+ "percent": 53.41,
+ "hints": [
+  "A row of bricks can be represented uniquely by the points where two bricks are joined together.",
+  "For a given row of bricks, how many configurations of bricks could you have put below this row such that the wall is sturdy?",
+  "Use dynamic programming to store the number of possible sturdy walls with a given height and configuration of bricks on the top row."
+ ],
+ "sampleTestCase": "2\n3\n[1,2]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

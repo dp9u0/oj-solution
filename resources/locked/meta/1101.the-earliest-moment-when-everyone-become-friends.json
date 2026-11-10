@@ -1,0 +1,17 @@
+{
+ "fid": "1101",
+ "slug": "the-earliest-moment-when-everyone-become-friends",
+ "name": "彼此熟识的最早时间",
+ "englishName": "The Earliest Moment When Everyone Become Friends",
+ "level": "Medium",
+ "percent": 69.24,
+ "hints": [
+  "Sort the log items by their timestamp.",
+  "How can we model this problem as a graph problem?",
+  "Let's use a union-find data structure. At the beginning we have a graph with N nodes but no edges.",
+  "Then we loop through the events and unite each node until the number of connected components reach to 1. Notice that each time two different connected components are united the number of connected components decreases by 1."
+ ],
+ "sampleTestCase": "[[20190101,0,1],[20190104,3,4],[20190107,2,3],[20190211,1,5],[20190224,2,4],[20190301,0,3],[20190312,1,2],[20190322,4,5]]\n6",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

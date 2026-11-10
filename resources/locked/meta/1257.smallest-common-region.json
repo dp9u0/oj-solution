@@ -1,0 +1,16 @@
+{
+ "fid": "1257",
+ "slug": "smallest-common-region",
+ "name": "最小公共区域",
+ "englishName": "Smallest Common Region",
+ "level": "Medium",
+ "percent": 62.71,
+ "hints": [
+  "Try to model the problem as a graph problem.",
+  "The given graph is a tree.",
+  "The problem is reduced to finding the lowest common ancestor of two nodes in a tree."
+ ],
+ "sampleTestCase": "[[\"Earth\",\"North America\",\"South America\"],[\"North America\",\"United States\",\"Canada\"],[\"United States\",\"New York\",\"Boston\"],[\"Canada\",\"Ontario\",\"Quebec\"],[\"South America\",\"Brazil\"]]\n\"Quebec\"\n\"New York\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

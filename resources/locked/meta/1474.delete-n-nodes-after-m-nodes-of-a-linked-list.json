@@ -1,0 +1,14 @@
+{
+ "fid": "1474",
+ "slug": "delete-n-nodes-after-m-nodes-of-a-linked-list",
+ "name": "删除链表 M 个节点之后的 N 个节点",
+ "englishName": "Delete N Nodes After M Nodes of a Linked List",
+ "level": "Easy",
+ "percent": 72.15,
+ "hints": [
+  "Traverse the Linked List, each time you need to delete the next n nodes connect the nodes previous deleting with the next node after deleting."
+ ],
+ "sampleTestCase": "[1,2,3,4,5,6,7,8,9,10,11,12,13]\n2\n3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,19 @@
+{
+ "fid": "4087",
+ "slug": "maximum-subarray-sum-of-fixed-length-after-at-most-k-swaps",
+ "name": "最多交换 K 次的最大固定长度子数组的最大和",
+ "englishName": "Maximum Subarray Sum of Fixed Length After at Most K Swaps",
+ "level": "Medium",
+ "percent": 57.83,
+ "hints": [
+  "<strong>1a (Greedy Exchanges)</strong>: Fix the position of the final subarray. Swapping two elements that are both inside it or both outside it does not change its sum.",
+  "<strong>1b (Greedy Exchanges)</strong>: Sort the inside elements increasingly and the outside elements decreasingly. Pair the smallest inside elements with the largest outside elements, using at most <code>min(k, length, nums.length - length)</code> swaps and stopping when the gain is non-positive.",
+  "<strong>1c (Greedy Exchanges)</strong>: Evaluate every subarray of the required length and take the largest resulting sum.",
+  "<strong>2a (Sliding Window and Order Statistics)</strong>: Let <code>b = min(k, length, nums.length - length)</code>. Mark the indices of any <code>length</code> largest elements in the whole array. Their sum is an upper bound, attained whenever a window contains at least <code>length - b</code> marked indices.",
+  "<strong>2b (Sliding Window and Order Statistics)</strong>: Otherwise, an optimum for that window can use exactly <code>b</code> outside elements. Its value is the sum of the largest <code>length - b</code> inside elements and the largest <code>b</code> outside elements.",
+  "<strong>2c (Sliding Window and Order Statistics)</strong>: Maintain the inside and outside value counts and sums as the window slides. Coordinate compression and Fenwick trees support the required largest-element sum queries in logarithmic time."
+ ],
+ "sampleTestCase": "[1,-1,0,2]\r\n2\r\n1\r",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

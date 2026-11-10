@@ -1,0 +1,12 @@
+{
+ "fid": "469",
+ "slug": "convex-polygon",
+ "name": "凸多边形",
+ "englishName": "Convex Polygon",
+ "level": "Medium",
+ "percent": 43.63,
+ "hints": [],
+ "sampleTestCase": "[[0,0],[0,5],[5,5],[5,0]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,14 @@
+{
+ "fid": "3032",
+ "slug": "count-numbers-with-unique-digits-ii",
+ "name": "统计各位数字都不同的数字个数 II",
+ "englishName": "Count Numbers With Unique Digits II",
+ "level": "Easy",
+ "percent": 45.6,
+ "hints": [
+  "You can traverse over all numbers and check if the current number has unique digits or not."
+ ],
+ "sampleTestCase": "1\n20",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

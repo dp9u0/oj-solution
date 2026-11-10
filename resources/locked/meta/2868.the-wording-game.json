@@ -1,0 +1,17 @@
+{
+ "fid": "2868",
+ "slug": "the-wording-game",
+ "name": "单词游戏",
+ "englishName": "The Wording Game",
+ "level": "Hard",
+ "percent": 40.42,
+ "hints": [
+  "If both Alice and Bob for each letter of the alphabet have at least one word beginning with that letter, then the winner is the player who has the lexicographically greatest word.",
+  "What happens if both have words that begin with the first <code>x</code> letters of the alphabet, but only one of them has a word beginning with the <code>x + 1<sup>th</sup></code> letter?",
+  "Suppose Alice has a word beginning with the <code>x + 1<sup>th</sup></code> letter. Note that if Alice has the lexicographically greatest word beginning with one of the first <code>x</code> letters, then she is the winner. But if Bob has such a word, then the game continues.",
+  "Now, we can conclude the winner is determined by the first letter which a player doesn’t have a word beginning with, and the other player has the lexicographically greatest word among all the words beginning with the letters before that letter."
+ ],
+ "sampleTestCase": "[\"avokado\",\"dabar\"]\n[\"brazil\"]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

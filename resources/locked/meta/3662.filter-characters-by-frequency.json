@@ -1,0 +1,14 @@
+{
+ "fid": "3662",
+ "slug": "filter-characters-by-frequency",
+ "name": "按频率筛选字符",
+ "englishName": "Filter Characters by Frequency",
+ "level": "Easy",
+ "percent": 85.86,
+ "hints": [
+  "Count the frequency of each character using a 26-entry array or a frequency map, then iterate through the string and append each character whose frequency is less than <code>k</code> to the result."
+ ],
+ "sampleTestCase": "\"aadbbcccca\"\n3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

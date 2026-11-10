@@ -1,0 +1,16 @@
+{
+ "fid": "266",
+ "slug": "palindrome-permutation",
+ "name": "回文排列",
+ "englishName": "Palindrome Permutation",
+ "level": "Easy",
+ "percent": 71.04,
+ "hints": [
+  "Consider the palindromes of odd vs even length. What difference do you notice?",
+  "Count the frequency of each character.",
+  "If each character occurs even number of times, then it must be a palindrome. How about character which occurs odd number of times?"
+ ],
+ "sampleTestCase": "\"code\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

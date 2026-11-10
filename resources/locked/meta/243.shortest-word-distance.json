@@ -1,0 +1,12 @@
+{
+ "fid": "243",
+ "slug": "shortest-word-distance",
+ "name": "最短单词距离",
+ "englishName": "Shortest Word Distance",
+ "level": "Easy",
+ "percent": 68.21,
+ "hints": [],
+ "sampleTestCase": "[\"practice\", \"makes\", \"perfect\", \"coding\", \"makes\"]\n\"coding\"\n\"practice\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

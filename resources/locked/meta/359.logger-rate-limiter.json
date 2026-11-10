@@ -1,0 +1,12 @@
+{
+ "fid": "359",
+ "slug": "logger-rate-limiter",
+ "name": "日志速率限制器",
+ "englishName": "Logger Rate Limiter",
+ "level": "Easy",
+ "percent": 72.35,
+ "hints": [],
+ "sampleTestCase": "[\"Logger\",\"shouldPrintMessage\",\"shouldPrintMessage\",\"shouldPrintMessage\",\"shouldPrintMessage\",\"shouldPrintMessage\",\"shouldPrintMessage\"]\n[[],[1,\"foo\"],[2,\"bar\"],[3,\"foo\"],[8,\"bar\"],[10,\"foo\"],[11,\"foo\"]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,18 @@
+{
+ "fid": "2168",
+ "slug": "unique-substrings-with-equal-digit-frequency",
+ "name": "每个数字的频率都相同的不同子字符串的数量",
+ "englishName": "Unique Substrings With Equal Digit Frequency",
+ "level": "Medium",
+ "percent": 58.38,
+ "hints": [
+  "With the constraints, could we try every substring?",
+  "Yes, checking every substring has runtime O(n^2), which will pass.",
+  "How can we make sure we only count unique substrings?",
+  "Use a set to store previously counted substrings. Hashing a string s of length m takes O(m) time. Is there a fast way to compute the hash of s if we know the hash of s[0..m - 2]?",
+  "Use a rolling hash."
+ ],
+ "sampleTestCase": "\"1212\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,15 @@
+{
+ "fid": "1099",
+ "slug": "two-sum-less-than-k",
+ "name": "小于 K 的两数之和",
+ "englishName": "Two Sum Less Than K",
+ "level": "Easy",
+ "percent": 61.62,
+ "hints": [
+  "What if we have the array sorted?",
+  "Loop the array and get the value A[i] then we need to find a value A[j] such that A[i] + A[j] < K  which means A[j] < K - A[i]. In order to do that we can find that value with a binary search."
+ ],
+ "sampleTestCase": "[34,23,1,24,75,33,54,8]\n60",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

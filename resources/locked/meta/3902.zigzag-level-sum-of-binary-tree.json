@@ -1,0 +1,16 @@
+{
+ "fid": "3902",
+ "slug": "zigzag-level-sum-of-binary-tree",
+ "name": "二叉树的 Z 字形层级和",
+ "englishName": "Zigzag Level Sum of Binary Tree",
+ "level": "Medium",
+ "percent": 64.14,
+ "hints": [
+  "Use level-order traversal (<code>BFS</code>) to process the tree level by level",
+  "Maintain a list (or queue) of nodes for the current level",
+  "Alternate traversal direction using a flag (odd level vs even level)"
+ ],
+ "sampleTestCase": "[5,2,8,1,null,9,6]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

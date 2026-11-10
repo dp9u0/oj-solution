@@ -1,0 +1,15 @@
+{
+ "fid": "1428",
+ "slug": "leftmost-column-with-at-least-a-one",
+ "name": "至少有一个 1 的最左端列",
+ "englishName": "Leftmost Column with at Least a One",
+ "level": "Medium",
+ "percent": 64.44,
+ "hints": [
+  "1. (Binary Search) For each row do a binary search to find the leftmost one on that row and update the answer.",
+  "2. (Optimal Approach) Imagine there is a pointer p(x, y) starting from top right corner. p can only move left or down. If the value at p is 0, move down. If the value at p is 1, move left. Try to figure out the correctness and time complexity of this algorithm."
+ ],
+ "sampleTestCase": "[[0,0],[1,1]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

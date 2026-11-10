@@ -1,0 +1,12 @@
+{
+ "fid": "276",
+ "slug": "paint-fence",
+ "name": "栅栏涂色",
+ "englishName": "Paint Fence",
+ "level": "Medium",
+ "percent": 57.57,
+ "hints": [],
+ "sampleTestCase": "3\n2",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,16 @@
+{
+ "fid": "3431",
+ "slug": "minimum-unlocked-indices-to-sort-nums",
+ "name": "对数字排序的最小解锁下标",
+ "englishName": "Minimum Unlocked Indices to Sort Nums",
+ "level": "Medium",
+ "percent": 15.41,
+ "hints": [
+  "All positions between the first 2 and the last 1 should be unlocked.",
+  "All positions between the first 3 and the last 2 should be unlocked.",
+  "If the position of the first 3 is less than the position of the last 1, the answer is -1."
+ ],
+ "sampleTestCase": "[1,2,1,2,3,2]\n[1,0,1,1,0,1]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

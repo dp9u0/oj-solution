@@ -1,0 +1,16 @@
+{
+ "fid": "2263",
+ "slug": "make-array-non-decreasing-or-non-increasing",
+ "name": "数组变为有序的最小操作次数",
+ "englishName": "Make Array Non-decreasing or Non-increasing",
+ "level": "Hard",
+ "percent": 60.06,
+ "hints": [
+  "To find the minimum cost to make nums non-decreasing, use a max heap that contains all of the elements that you have seen so far.",
+  "If the largest number in the heap is greater than the current number, calculate the cost to make the two numbers equal. Then, in the heap, replace the largest number with the current number.",
+  "Now that we have found the minimum cost to make nums non-decreasing, we can set every nums[i] to -nums[i] and do the same process to find the minimum cost to make nums non-increasing."
+ ],
+ "sampleTestCase": "[3,2,4,5,0]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

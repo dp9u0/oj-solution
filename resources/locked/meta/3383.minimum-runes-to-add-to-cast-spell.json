@@ -1,0 +1,12 @@
+{
+ "fid": "3383",
+ "slug": "minimum-runes-to-add-to-cast-spell",
+ "name": "施法所需最低符文数量",
+ "englishName": "Minimum Runes to Add to Cast Spell",
+ "level": "Hard",
+ "percent": 31.2,
+ "hints": [],
+ "sampleTestCase": "6\n[0]\n[0,1,2,3]\n[1,2,3,0]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

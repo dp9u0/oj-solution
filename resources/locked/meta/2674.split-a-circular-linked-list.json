@@ -1,0 +1,17 @@
+{
+ "fid": "2674",
+ "slug": "split-a-circular-linked-list",
+ "name": "拆分循环链表",
+ "englishName": "Split a Circular Linked List",
+ "level": "Medium",
+ "percent": 51.23,
+ "hints": [
+  "Do a while loop to calculate the size of the linked list.",
+  "Determine the size of the first half and create a new linked list in its size.",
+  "Do not forget that this half itself should be circular!",
+  "Use the previous hints for the second half."
+ ],
+ "sampleTestCase": "[1,5,7]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

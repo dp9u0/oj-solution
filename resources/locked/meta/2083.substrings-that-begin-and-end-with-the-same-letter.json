@@ -1,0 +1,18 @@
+{
+ "fid": "2083",
+ "slug": "substrings-that-begin-and-end-with-the-same-letter",
+ "name": "求以相同字母开头和结尾的子串总数",
+ "englishName": "Substrings That Begin and End With the Same Letter",
+ "level": "Medium",
+ "percent": 58.08,
+ "hints": [
+  "In the string \"abacad\", the letter \"a\" appears 3 times. How many substrings begin with the first \"a\" and end with any \"a\"?",
+  "There are 3 substrings (\"a\", \"aba\", and \"abaca\"). How many substrings begin with the second \"a\" and end with any \"a\"? How about the third?",
+  "2 substrings begin with the second \"a\" (\"a\", and \"aca\") and 1 substring begins with the third \"a\" (\"a\").",
+  "There is a total of 3 + 2 + 1 = 6 substrings that begin and end with \"a\".",
+  "If a character appears i times in the string, there are i * (i + 1) / 2 substrings that begin and end with that character."
+ ],
+ "sampleTestCase": "\"abcba\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

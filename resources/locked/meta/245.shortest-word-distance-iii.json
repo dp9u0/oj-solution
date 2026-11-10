@@ -1,0 +1,12 @@
+{
+ "fid": "245",
+ "slug": "shortest-word-distance-iii",
+ "name": "最短单词距离 III",
+ "englishName": "Shortest Word Distance III",
+ "level": "Medium",
+ "percent": 58.81,
+ "hints": [],
+ "sampleTestCase": "[\"practice\", \"makes\", \"perfect\", \"coding\", \"makes\"]\n\"makes\"\n\"coding\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

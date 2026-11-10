@@ -1,0 +1,17 @@
+{
+ "fid": "4047",
+ "slug": "minimum-operations-to-make-xor-of-all-elements-zero",
+ "name": "使所有元素的异或为零所需的最小操作次数",
+ "englishName": "Minimum Operations to Make XOR of All Elements Zero",
+ "level": "Hard",
+ "percent": 58.43,
+ "hints": [
+  "Let <code>x</code> be the XOR of all elements. Handle the cases where <code>x == 0</code> or all elements are equal first.",
+  "Replacing <code>a</code> with <code>a ^ b</code> changes the total XOR by <code>b</code>. Consider the smallest subset of original elements whose XOR equals <code>x</code>.",
+  "If this subset has size <code>d</code>, the answer is <code>d</code> when <code>d &lt; nums.length</code>, and -1 otherwise.",
+  "Find <code>d</code> using BFS from XOR value 0. Each transition XORs the current value with a distinct value from <code>nums</code>. All reachable XOR values are less than 2048."
+ ],
+ "sampleTestCase": "[8,1,4,8,2]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

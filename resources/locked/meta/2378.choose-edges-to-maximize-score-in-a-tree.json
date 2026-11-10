@@ -1,0 +1,17 @@
+{
+ "fid": "2378",
+ "slug": "choose-edges-to-maximize-score-in-a-tree",
+ "name": "选择边来最大化树的得分",
+ "englishName": "Choose Edges to Maximize Score in a Tree",
+ "level": "Medium",
+ "percent": 47.05,
+ "hints": [
+  "Use dynamic programming to recursively solve the problem for smaller subtrees.",
+  "You can ignore the edges with negative weights.",
+  "The states of the dp are the following: the root of the subtree you are at, and a boolean variable that will tell you if you have chosen the edge that connects that node and its parent.",
+  "What are the transitions of this dp?"
+ ],
+ "sampleTestCase": "[[-1,-1],[0,5],[0,10],[2,6],[2,4]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

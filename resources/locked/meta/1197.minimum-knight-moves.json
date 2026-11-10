@@ -1,0 +1,16 @@
+{
+ "fid": "1197",
+ "slug": "minimum-knight-moves",
+ "name": "进击的骑士",
+ "englishName": "Minimum Knight Moves",
+ "level": "Medium",
+ "percent": 42.17,
+ "hints": [
+  "You can simulate the movements since the limits are low.",
+  "Is there a search algorithm applicable to this problem?",
+  "Since we want the minimum number of moves, we can use Breadth First Search."
+ ],
+ "sampleTestCase": "2\n1",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,12 @@
+{
+ "fid": "271",
+ "slug": "encode-and-decode-strings",
+ "name": "字符串的编码与解码",
+ "englishName": "Encode and Decode Strings",
+ "level": "Medium",
+ "percent": 59.34,
+ "hints": [],
+ "sampleTestCase": "[\"Hello\",\"World\"]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,12 @@
+{
+ "fid": "302",
+ "slug": "smallest-rectangle-enclosing-black-pixels",
+ "name": "包含全部黑色像素的最小矩形",
+ "englishName": "Smallest Rectangle Enclosing Black Pixels",
+ "level": "Hard",
+ "percent": 67.01,
+ "hints": [],
+ "sampleTestCase": "[[\"0\",\"0\",\"1\",\"0\"],[\"0\",\"1\",\"1\",\"0\"],[\"0\",\"1\",\"0\",\"0\"]]\n0\n2",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

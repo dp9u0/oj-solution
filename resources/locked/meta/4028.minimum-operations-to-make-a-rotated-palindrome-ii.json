@@ -1,0 +1,17 @@
+{
+ "fid": "4028",
+ "slug": "minimum-operations-to-make-a-rotated-palindrome-ii",
+ "name": "得到旋转回文字符串的最少操作次数 II",
+ "englishName": "Minimum Operations to Make a Rotated Palindrome II",
+ "level": "Hard",
+ "percent": 92.26,
+ "hints": [
+  "<p>As in Part 1, for a rotation by <code>r</code> positions the answer candidate is <code>r</code> plus the sum of the cyclic letter distances over all mirrored pairs. The challenge is computing this sum for every rotation efficiently.</p>",
+  "<p>The cyclic distance between two lowercase letters can be represented using 13 binary features. For each <code>k</code> from 0 to 12, mark a letter if it belongs to the 13 consecutive cyclic letters starting at <code>k</code>. The cyclic distance between two letters equals the number of these features on which they differ.</p>",
+  "<p>For one such feature, create a binary array <code>a</code> over the positions of <code>s</code>. If <code>cnt</code> is the number of ones, then for a reflection represented by <code>c</code>, the number of mirrored pairs with different feature values is <code>cnt - conv[c]</code>, where <code>conv[c] = sum(a[i] * a[(c - i) mod n])</code>.</p>",
+  "<p>Compute these circular self-convolutions for all 13 features using FFT or NTT. For a left rotation by <code>r</code>, use <code>c = (2 * r - 1) mod n</code>, sum the 13 contributions, and minimize this palindrome cost plus <code>r</code>.</p>"
+ ],
+ "sampleTestCase": "\"abc\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,14 @@
+{
+ "fid": "3173",
+ "slug": "bitwise-or-of-adjacent-elements",
+ "name": "相邻元素的按位或",
+ "englishName": "Bitwise OR of Adjacent Elements",
+ "level": "Easy",
+ "percent": 39.51,
+ "hints": [
+  "Iterate over array and calculate each element of the resulting array using <code>|</code> operation."
+ ],
+ "sampleTestCase": "[1,3,7,15]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

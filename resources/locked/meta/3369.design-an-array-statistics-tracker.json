@@ -1,0 +1,14 @@
+{
+ "fid": "3369",
+ "slug": "design-an-array-statistics-tracker",
+ "name": "设计数组统计跟踪器",
+ "englishName": "Design an Array Statistics Tracker ",
+ "level": "Hard",
+ "percent": 38.61,
+ "hints": [
+  "Maintain separate data structures for each statistic."
+ ],
+ "sampleTestCase": "[\"StatisticsTracker\",\"addNumber\",\"addNumber\",\"addNumber\",\"addNumber\",\"getMean\",\"getMedian\",\"getMode\",\"removeFirstAddedNumber\",\"getMode\"]\n[[],[4],[4],[2],[3],[],[],[],[],[]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

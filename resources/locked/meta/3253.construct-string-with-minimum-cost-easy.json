@@ -1,0 +1,15 @@
+{
+ "fid": "3253",
+ "slug": "construct-string-with-minimum-cost-easy",
+ "name": "最小代价构造字符串（简单）",
+ "englishName": "Construct String with Minimum Cost (Easy)",
+ "level": "Medium",
+ "percent": 22.28,
+ "hints": [
+  "Let <code>dp[i]</code> denote the minimum cost to make <code>s</code> equal to the prefix of <code>target</code> of length <code>i</code>.",
+  "<code>dp[i] = min(costs[k] + dp[j])</code>, where <code>j > i</code> and <code>words[k] == target[i..j]</code>."
+ ],
+ "sampleTestCase": "\"abcdef\"\n[\"abdef\",\"abc\",\"d\",\"def\",\"ef\"]\n[100,1,1,10,5]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

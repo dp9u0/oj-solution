@@ -1,0 +1,15 @@
+{
+ "fid": "1430",
+ "slug": "check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree",
+ "name": "判断给定的序列是否是二叉树从根到叶的路径",
+ "englishName": "Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree",
+ "level": "Medium",
+ "percent": 49.94,
+ "hints": [
+  "Depth-first search (DFS) with the parameters: current node in the binary tree and current position in the array of integers.",
+  "When reaching at final position check if it is a leaf node."
+ ],
+ "sampleTestCase": "[0,1,0,0,1,0,null,null,1,0,0]\n[0,1,0,1]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

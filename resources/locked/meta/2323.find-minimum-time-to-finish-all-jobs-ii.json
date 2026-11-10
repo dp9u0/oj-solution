@@ -1,0 +1,15 @@
+{
+ "fid": "2323",
+ "slug": "find-minimum-time-to-finish-all-jobs-ii",
+ "name": "完成所有工作的最短时间 II",
+ "englishName": "Find Minimum Time to Finish All Jobs II",
+ "level": "Medium",
+ "percent": 60.66,
+ "hints": [
+  "It is always optimal to pair the worker with the least amount of time with the job that requires the least amount of time.",
+  "Sort both arrays."
+ ],
+ "sampleTestCase": "[5,2,4]\n[1,7,5]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

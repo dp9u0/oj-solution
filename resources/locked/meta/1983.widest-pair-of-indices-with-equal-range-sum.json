@@ -1,0 +1,17 @@
+{
+ "fid": "1983",
+ "slug": "widest-pair-of-indices-with-equal-range-sum",
+ "name": "范围和相等的最宽索引对",
+ "englishName": "Widest Pair of Indices With Equal Range Sum",
+ "level": "Medium",
+ "percent": 49.79,
+ "hints": [
+  "Keep prefix sums of both arrays.",
+  "Can the difference between the prefix sums at an index help us?",
+  "What happens if the difference between the two prefix sums at an index a is x, and x again at a different index b?",
+  "This means that the sum of nums1 from index a + 1 to index b is equal to the sum of nums2 from index a + 1 to index b."
+ ],
+ "sampleTestCase": "[1,1,0,1]\n[0,1,1,0]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

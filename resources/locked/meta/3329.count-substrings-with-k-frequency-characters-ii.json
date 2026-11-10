@@ -1,0 +1,15 @@
+{
+ "fid": "3329",
+ "slug": "count-substrings-with-k-frequency-characters-ii",
+ "name": "字符至少出现 K 次的子字符串 II",
+ "englishName": "Count Substrings With K-Frequency Characters II",
+ "level": "Hard",
+ "percent": 32.56,
+ "hints": [
+  "If substring <code>[i, j]</code> is valid, then for all <code>k >= j, [i, k]</code> is valid too.",
+  "For each <code>i</code>, find <code>j</code> with a sliding window or binary search."
+ ],
+ "sampleTestCase": "\"abacb\"\n2",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

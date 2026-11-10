@@ -1,0 +1,14 @@
+{
+ "fid": "1469",
+ "slug": "find-all-the-lonely-nodes",
+ "name": "寻找所有的独生节点",
+ "englishName": "Find All The Lonely Nodes",
+ "level": "Easy",
+ "percent": 82.56,
+ "hints": [
+  "Do a simple tree traversal, try to check if the current node is lonely or not."
+ ],
+ "sampleTestCase": "[1,2,3,null,4]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

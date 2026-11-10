@@ -1,0 +1,15 @@
+{
+ "fid": "3831",
+ "slug": "median-of-a-binary-search-tree-level",
+ "name": "二叉搜索树某一层的中位数",
+ "englishName": "Median of a Binary Search Tree Level",
+ "level": "Medium",
+ "percent": 88.72,
+ "hints": [
+  "Use DFS or BFS to gather the node values at <code>level</code>.",
+  "Sort the values at that level; if the list is empty, return -1, otherwise return the upper median."
+ ],
+ "sampleTestCase": "[4,null,5,null,7]\n2",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

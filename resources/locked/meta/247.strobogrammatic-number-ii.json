@@ -1,0 +1,14 @@
+{
+ "fid": "247",
+ "slug": "strobogrammatic-number-ii",
+ "name": "中心对称数 II",
+ "englishName": "Strobogrammatic Number II",
+ "level": "Medium",
+ "percent": 56.28,
+ "hints": [
+  "Try to use recursion and notice that it should recurse with <i>n</i> - 2 instead of <i>n</i> - 1."
+ ],
+ "sampleTestCase": "2",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

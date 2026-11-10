@@ -1,0 +1,17 @@
+{
+ "fid": "3511",
+ "slug": "make-a-positive-array",
+ "name": "构造正数组",
+ "englishName": "Make a Positive Array",
+ "level": "Medium",
+ "percent": 37.38,
+ "hints": [
+  "Only check subarrays up to a specific size.",
+  "Find the subarrays containing between 3 and 5 elements with a non-positive total sum.",
+  "Use a greedy approach to assign certain indices the maximum value.",
+  "Start with the subarray with the smallest last index <code>i</code>. Replace the element at index <code>i</code> with the maximum value. Find the selected subarray with the next smallest last index <code>j</code> that does not contain index <code>i</code>. Replace the element at index <code>j</code> with the maximum value, and repeat this process until all non-positive subarrays are fixed."
+ ],
+ "sampleTestCase": "[-10,15,-12]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

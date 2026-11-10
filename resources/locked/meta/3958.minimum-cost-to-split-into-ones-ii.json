@@ -1,0 +1,16 @@
+{
+ "fid": "3958",
+ "slug": "minimum-cost-to-split-into-ones-ii",
+ "name": "拆分到 1 的最小总代价 II",
+ "englishName": "Minimum Cost to Split into Ones II",
+ "level": "Medium",
+ "percent": 84.54,
+ "hints": [
+  "Let <code>f(x)</code> be the minimum total cost to split <code>x</code> into ones.",
+  "If you split <code>x</code> into <code>a</code> and <code>b</code>, then <code>f(x) = a * b + f(a) + f(b)</code>.",
+  "Look for an invariant: the total cost may depend only on the final set of pieces, not on the order of splits."
+ ],
+ "sampleTestCase": "3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

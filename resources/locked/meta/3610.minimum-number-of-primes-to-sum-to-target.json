@@ -1,0 +1,16 @@
+{
+ "fid": "3610",
+ "slug": "minimum-number-of-primes-to-sum-to-target",
+ "name": "目标和所需的最小质数个数",
+ "englishName": "Minimum Number of Primes to Sum to Target",
+ "level": "Medium",
+ "percent": 69.18,
+ "hints": [
+  "Can we use dynamic programming?",
+  "Generate the first <code>m</code> prime numbers.",
+  "Let <code>dp[i]</code> represent the minimum number of prime numbers that sum up to <code>i</code>. Use the generated prime numbers for the transition."
+ ],
+ "sampleTestCase": "10\n2",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

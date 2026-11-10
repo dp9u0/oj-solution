@@ -1,0 +1,16 @@
+{
+ "fid": "1804",
+ "slug": "implement-trie-ii-prefix-tree",
+ "name": "实现 Trie （前缀树） II",
+ "englishName": "Implement Trie II (Prefix Tree)",
+ "level": "Medium",
+ "percent": 56.83,
+ "hints": [
+  "Try to solve the first version first and reuse your code.",
+  "To implement the delete function, you should delete the trie nodes of the word if they are not shared with other words.",
+  "You should keep for each trie node a counter of how many words share this node."
+ ],
+ "sampleTestCase": "[\"Trie\",\"insert\",\"insert\",\"countWordsEqualTo\",\"countWordsStartingWith\",\"erase\",\"countWordsEqualTo\",\"countWordsStartingWith\",\"erase\",\"countWordsStartingWith\"]\n[[],[\"apple\"],[\"apple\"],[\"apple\"],[\"app\"],[\"apple\"],[\"apple\"],[\"app\"],[\"apple\"],[\"app\"]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

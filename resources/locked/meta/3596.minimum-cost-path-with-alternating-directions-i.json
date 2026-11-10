@@ -1,0 +1,14 @@
+{
+ "fid": "3596",
+ "slug": "minimum-cost-path-with-alternating-directions-i",
+ "name": "交替方向的最小路径代价 I",
+ "englishName": "Minimum Cost Path with Alternating Directions I",
+ "level": "Medium",
+ "percent": 75.57,
+ "hints": [
+  "There are only three grid sizes for which reaching <code>(m - 1, n - 1)</code> is possible under the move rules: <code>m = 1, n = 1</code>; <code>m = 1, n = 2</code>; <code>m = 2, n = 1</code>."
+ ],
+ "sampleTestCase": "1\n1",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

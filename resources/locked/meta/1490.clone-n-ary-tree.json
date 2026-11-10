@@ -1,0 +1,15 @@
+{
+ "fid": "1490",
+ "slug": "clone-n-ary-tree",
+ "name": "克隆 N 叉树",
+ "englishName": "Clone N-ary Tree",
+ "level": "Medium",
+ "percent": 81.57,
+ "hints": [
+  "Traverse the tree, keep a hashtable with you and create a clone node for each node in the tree.",
+  "Start traversing the original tree again and connect each child pointer in the cloned tree the same way as the original tree with the help of the hashtable."
+ ],
+ "sampleTestCase": "[1,null,3,2,4,null,5,6]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

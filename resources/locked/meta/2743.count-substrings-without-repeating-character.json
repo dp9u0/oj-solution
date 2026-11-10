@@ -1,0 +1,12 @@
+{
+ "fid": "2743",
+ "slug": "count-substrings-without-repeating-character",
+ "name": "计算没有重复字符的子字符串数量",
+ "englishName": "Count Substrings Without Repeating Character",
+ "level": "Medium",
+ "percent": 53.86,
+ "hints": [],
+ "sampleTestCase": "\"abcd\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,15 @@
+{
+ "fid": "1924",
+ "slug": "erect-the-fence-ii",
+ "name": "安装栅栏 II",
+ "englishName": "Erect the Fence II",
+ "level": "Hard",
+ "percent": 44.15,
+ "hints": [
+  "First, we need to note that this is a classic problem given n points you need to find the minimum enclosing circle to bind them",
+  "Second, we need to apply a well known algorithm called welzls algorithm to help us find the minimum enclosing circle"
+ ],
+ "sampleTestCase": "[[1,1],[2,2],[2,0],[2,4],[3,3],[4,2]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

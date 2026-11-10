@@ -1,0 +1,16 @@
+{
+ "fid": "2174",
+ "slug": "remove-all-ones-with-row-and-column-flips-ii",
+ "name": "通过翻转行或列来去除所有的 1 II",
+ "englishName": "Remove All Ones With Row and Column Flips II",
+ "level": "Medium",
+ "percent": 60.77,
+ "hints": [
+  "With the given constraints, could a brute force solution pass?",
+  "What would a brute force solution look like?",
+  "We can try every single possibility of choosing to do an operation on a cell with a 1 or choosing to ignore it."
+ ],
+ "sampleTestCase": "[[1,1,1],[1,1,1],[0,1,0]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

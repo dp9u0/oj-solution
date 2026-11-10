@@ -1,0 +1,16 @@
+{
+ "fid": "1940",
+ "slug": "longest-common-subsequence-between-sorted-arrays",
+ "name": "排序数组之间的最长公共子序列",
+ "englishName": "Longest Common Subsequence Between Sorted Arrays",
+ "level": "Medium",
+ "percent": 72.41,
+ "hints": [
+  "Fix one array.",
+  "Choose the next array and get the common elements.",
+  "Use the common elements as the new fixed array and keep merging with the rest of the arrays."
+ ],
+ "sampleTestCase": "[[1,3,4],[1,4,7,9]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

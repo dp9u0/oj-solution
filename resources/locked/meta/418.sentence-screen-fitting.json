@@ -1,0 +1,12 @@
+{
+ "fid": "418",
+ "slug": "sentence-screen-fitting",
+ "name": "屏幕可显示句子的数量",
+ "englishName": "Sentence Screen Fitting",
+ "level": "Medium",
+ "percent": 40.35,
+ "hints": [],
+ "sampleTestCase": "[\"hello\",\"world\"]\n2\n8",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

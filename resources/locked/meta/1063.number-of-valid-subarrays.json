@@ -1,0 +1,15 @@
+{
+ "fid": "1063",
+ "slug": "number-of-valid-subarrays",
+ "name": "有效子数组的数目",
+ "englishName": "Number of Valid Subarrays",
+ "level": "Hard",
+ "percent": 74.41,
+ "hints": [
+  "Given a data structure that answers queries of the type to find the minimum in a range of an array (Range minimum query (RMQ) sparse table) in O(1) time. How can you solve this problem?",
+  "For each starting index do a binary search with an RMQ to find the ending possible position."
+ ],
+ "sampleTestCase": "[1,4,2,5,3]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

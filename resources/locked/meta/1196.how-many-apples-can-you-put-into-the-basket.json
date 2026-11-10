@@ -1,0 +1,16 @@
+{
+ "fid": "1196",
+ "slug": "how-many-apples-can-you-put-into-the-basket",
+ "name": "最多可以买到的苹果数量",
+ "englishName": "How Many Apples Can You Put into the Basket",
+ "level": "Easy",
+ "percent": 69.09,
+ "hints": [
+  "What if you think in a greedy approach?",
+  "The best apple to take in one step is the one with the smallest weight.",
+  "Sort the array and take apples with smaller weight first."
+ ],
+ "sampleTestCase": "[100,200,150,1000]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

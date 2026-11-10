@@ -1,0 +1,16 @@
+{
+ "fid": "3119",
+ "slug": "maximum-number-of-potholes-that-can-be-fixed",
+ "name": "最大数量的可修复坑洼",
+ "englishName": "Maximum Number of Potholes That Can Be Fixed",
+ "level": "Medium",
+ "percent": 26.53,
+ "hints": [
+  "Find all consecutive blocks of <code>’x’</code>.",
+  "Sort them by their length.",
+  "Try to fix the block from the largest one until you have enough budget."
+ ],
+ "sampleTestCase": "\"..\"\n5",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

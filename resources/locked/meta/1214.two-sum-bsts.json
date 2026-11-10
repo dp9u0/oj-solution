@@ -1,0 +1,16 @@
+{
+ "fid": "1214",
+ "slug": "two-sum-bsts",
+ "name": "查找两棵二叉搜索树之和",
+ "englishName": "Two Sum BSTs",
+ "level": "Medium",
+ "percent": 69.18,
+ "hints": [
+  "How can you reduce this problem to the classical Two Sum problem?",
+  "Do an in-order traversal of each tree to convert them to sorted arrays.",
+  "Solve the classical Two Sum problem."
+ ],
+ "sampleTestCase": "[2,1,4]\n[1,0,3]\n5",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

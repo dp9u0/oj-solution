@@ -1,0 +1,12 @@
+{
+ "fid": "159",
+ "slug": "longest-substring-with-at-most-two-distinct-characters",
+ "name": "至多包含两个不同字符的最长子串",
+ "englishName": "Longest Substring with At Most Two Distinct Characters",
+ "level": "Medium",
+ "percent": 57.46,
+ "hints": [],
+ "sampleTestCase": "\"eceba\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,16 @@
+{
+ "fid": "1231",
+ "slug": "divide-chocolate",
+ "name": "分享巧克力",
+ "englishName": "Divide Chocolate",
+ "level": "Hard",
+ "percent": 62.04,
+ "hints": [
+  "After dividing the array into K+1 sub-arrays, you will pick the sub-array with the minimum sum.",
+  "Divide the sub-array into K+1 sub-arrays such that the minimum sub-array sum is as maximum as possible.",
+  "Use binary search with greedy check."
+ ],
+ "sampleTestCase": "[1,2,3,4,5,6,7,8,9]\n5",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

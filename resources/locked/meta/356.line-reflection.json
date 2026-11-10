@@ -1,0 +1,16 @@
+{
+ "fid": "356",
+ "slug": "line-reflection",
+ "name": "直线镜像",
+ "englishName": "Line Reflection",
+ "level": "Medium",
+ "percent": 34.08,
+ "hints": [
+  "Find the smallest and largest x-value for all points.",
+  "If there is a line then it should be at y = (minX + maxX) / 2.",
+  "For each point, make sure that it has a reflected point in the opposite side."
+ ],
+ "sampleTestCase": "[[1,1],[-1,1]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

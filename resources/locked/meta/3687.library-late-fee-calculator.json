@@ -1,0 +1,14 @@
+{
+ "fid": "3687",
+ "slug": "library-late-fee-calculator",
+ "name": "图书馆逾期罚款计算器",
+ "englishName": "Library Late Fee Calculator",
+ "level": "Easy",
+ "percent": 72.16,
+ "hints": [
+  "Simulate as described"
+ ],
+ "sampleTestCase": "[5,1,7]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

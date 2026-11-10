@@ -1,0 +1,15 @@
+{
+ "fid": "3221",
+ "slug": "maximum-array-hopping-score-ii",
+ "name": "最大数组跳跃得分 II",
+ "englishName": "Maximum Array Hopping Score II",
+ "level": "Medium",
+ "percent": 26.94,
+ "hints": [
+  "It’s always optimal to jump to index <code>j</code> with the maximum value.",
+  "Keep an array <code>suffixMax</code> and store the maximum of each suffix of the array along with its index."
+ ],
+ "sampleTestCase": "[1,5,8]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

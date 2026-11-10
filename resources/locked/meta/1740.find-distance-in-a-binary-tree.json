@@ -1,0 +1,15 @@
+{
+ "fid": "1740",
+ "slug": "find-distance-in-a-binary-tree",
+ "name": "找到二叉树中的距离",
+ "englishName": "Find Distance in a Binary Tree",
+ "level": "Medium",
+ "percent": 69.85,
+ "hints": [
+  "Get the LCA of p and q.",
+  "The answer is the sum of distances between p-LCA and q-LCA"
+ ],
+ "sampleTestCase": "[3,5,1,6,2,0,8,null,null,7,4]\n5\n0",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

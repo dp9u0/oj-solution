@@ -1,0 +1,14 @@
+{
+ "fid": "3865",
+ "slug": "reverse-k-subarrays",
+ "name": "反转 K 个子数组",
+ "englishName": "Reverse K Subarrays",
+ "level": "Medium",
+ "percent": 93.64,
+ "hints": [
+  "Reverse each subarray of size <code>n / k</code>."
+ ],
+ "sampleTestCase": "[1,2,4,3,5,6]\n3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

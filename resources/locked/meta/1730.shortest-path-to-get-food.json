@@ -1,0 +1,17 @@
+{
+ "fid": "1730",
+ "slug": "shortest-path-to-get-food",
+ "name": "获取食物的最短路径",
+ "englishName": "Shortest Path to Get Food",
+ "level": "Medium",
+ "percent": 49.68,
+ "hints": [
+  "Run BFS starting from the '*' position.",
+  "Keep the current number of the steps as a state in the queue.",
+  "The first time you reach a food, return the number of steps as the answer.",
+  "In case the queue is empty and you still did not manage to reach a food, return -1."
+ ],
+ "sampleTestCase": "[[\"X\",\"X\",\"X\",\"X\",\"X\",\"X\"],[\"X\",\"*\",\"O\",\"O\",\"O\",\"X\"],[\"X\",\"O\",\"O\",\"#\",\"O\",\"X\"],[\"X\",\"X\",\"X\",\"X\",\"X\",\"X\"]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

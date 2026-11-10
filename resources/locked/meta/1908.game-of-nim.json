@@ -1,0 +1,14 @@
+{
+ "fid": "1908",
+ "slug": "game-of-nim",
+ "name": "Nim 游戏 II",
+ "englishName": "Game of Nim",
+ "level": "Medium",
+ "percent": 42.25,
+ "hints": [
+  "Simulate the game and try all possible moves for each player."
+ ],
+ "sampleTestCase": "[1]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

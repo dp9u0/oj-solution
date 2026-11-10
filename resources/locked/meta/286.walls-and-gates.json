@@ -1,0 +1,12 @@
+{
+ "fid": "286",
+ "slug": "walls-and-gates",
+ "name": "墙与门",
+ "englishName": "Walls and Gates",
+ "level": "Medium",
+ "percent": 57.15,
+ "hints": [],
+ "sampleTestCase": "[[2147483647,-1,0,2147483647],[2147483647,2147483647,2147483647,-1],[2147483647,-1,2147483647,-1],[0,-1,2147483647,2147483647]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

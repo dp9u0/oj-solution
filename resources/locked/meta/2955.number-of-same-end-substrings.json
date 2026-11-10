@@ -1,0 +1,15 @@
+{
+ "fid": "2955",
+ "slug": "number-of-same-end-substrings",
+ "name": "同端子串的数量",
+ "englishName": "Number of Same-End Substrings",
+ "level": "Medium",
+ "percent": 40.31,
+ "hints": [
+  "If there are <code>t</code> occurrences of a character in a substring, there exists <code>t * (t + 1) / 2</code> Same-End substrings with that character.",
+  "Try to calculate the number of occurrences of a character in a substring in <code>O(1)</code> using partial sum."
+ ],
+ "sampleTestCase": "\"abcaab\"\n[[0,0],[1,4],[2,5],[0,5]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

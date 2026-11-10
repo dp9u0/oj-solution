@@ -1,0 +1,15 @@
+{
+ "fid": "1087",
+ "slug": "brace-expansion",
+ "name": "花括号展开",
+ "englishName": "Brace Expansion",
+ "level": "Medium",
+ "percent": 58.85,
+ "hints": [
+  "All generated strings are of the same size. How can we generate all of these strings?",
+  "Do a backtracking on which each level of it has to choose one single (e.g. 'a') character or any character of the given parenthesized group (e.g. \"{a,b,c}\")"
+ ],
+ "sampleTestCase": "\"{a,b}c{d,e}f\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

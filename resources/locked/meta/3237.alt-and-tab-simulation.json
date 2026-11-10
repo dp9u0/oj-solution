@@ -1,0 +1,17 @@
+{
+ "fid": "3237",
+ "slug": "alt-and-tab-simulation",
+ "name": "Alt 和 Tab 模拟",
+ "englishName": "Alt and Tab Simulation",
+ "level": "Medium",
+ "percent": 31.05,
+ "hints": [
+  "Let’s answer the queries offline.",
+  "Start from the <b>last</b> query until you reach the first query.",
+  "Each time, append the value of that query to a <code>ans</code> array if it wasn’t already appended.",
+  "Then start from the <b>beginning</b> of <code>windows</code> and append to <code>ans</code> array if it wasn’t already appended."
+ ],
+ "sampleTestCase": "[1,2,3]\n[3,3,2]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,15 @@
+{
+ "fid": "1666",
+ "slug": "change-the-root-of-a-binary-tree",
+ "name": "改变二叉树的根节点",
+ "englishName": "Change the Root of a Binary Tree",
+ "level": "Medium",
+ "percent": 65.11,
+ "hints": [
+  "Start traversing from the leaf. Always go up till you reach the root.",
+  "Change pointers as asked, make the current node's parent its left child, and make the left child the right one if needed."
+ ],
+ "sampleTestCase": "[3,5,1,6,2,0,8,null,null,7,4]\n7",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,16 @@
+{
+ "fid": "3004",
+ "slug": "maximum-subtree-of-the-same-color",
+ "name": "相同颜色的最大子树",
+ "englishName": "Maximum Subtree of the Same Color",
+ "level": "Medium",
+ "percent": 24.7,
+ "hints": [
+  "For each node, define a <code>flag[v]</code> indicating that the subtree of this node contains only one color or not.",
+  "In the DFS process, when you call <code>dfs(u)</code> from node <code>v</code>, after that DFS of <code>u</code> has finished, check if <code>flag[u] == false</code>, then <code>flag[v]</code> is also <code>false</code>.",
+  "Also if <code>color[v] != color[u]</code>, <code>flag[v]</code> becomes <code>false</code>."
+ ],
+ "sampleTestCase": "[[0,1],[0,2],[0,3]]\n[1,1,2,3]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

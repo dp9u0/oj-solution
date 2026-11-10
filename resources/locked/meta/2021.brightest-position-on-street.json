@@ -1,0 +1,16 @@
+{
+ "fid": "2021",
+ "slug": "brightest-position-on-street",
+ "name": "街上最亮的位置",
+ "englishName": "Brightest Position on Street",
+ "level": "Medium",
+ "percent": 58.86,
+ "hints": [
+  "Convert lights into an array of ranges representing the range where each street light can light up and sort the start and end points of the ranges.",
+  "Do we need to traverse all possible positions on the street?",
+  "No, we don't, we only need to go to the start and end points of the ranges for each streetlight."
+ ],
+ "sampleTestCase": "[[-3,2],[1,2],[3,3]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

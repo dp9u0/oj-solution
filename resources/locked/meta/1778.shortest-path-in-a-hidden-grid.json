@@ -1,0 +1,16 @@
+{
+ "fid": "1778",
+ "slug": "shortest-path-in-a-hidden-grid",
+ "name": "未知网格中的最短路径",
+ "englishName": "Shortest Path in a Hidden Grid",
+ "level": "Medium",
+ "percent": 47.91,
+ "hints": [
+  "The grid is at a maximum 500 x 500, so it is clever to assume that the robot's initial cell is grid[501][501]",
+  "Run a DFS from the robot's position to make sure that you can reach the target, otherwise you should return -1.",
+  "Now that you are sure you can reach the target, run BFS to find the shortest path."
+ ],
+ "sampleTestCase": "[[1,2],[-1,0]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

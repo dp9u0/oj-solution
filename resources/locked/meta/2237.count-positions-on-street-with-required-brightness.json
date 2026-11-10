@@ -1,0 +1,15 @@
+{
+ "fid": "2237",
+ "slug": "count-positions-on-street-with-required-brightness",
+ "name": "计算街道上满足所需亮度的位置数量",
+ "englishName": "Count Positions on Street With Required Brightness",
+ "level": "Medium",
+ "percent": 63.18,
+ "hints": [
+  "How can we find the brightness at every position on the street?",
+  "We can use a hash table to store the change in brightness from the previous position to the current position."
+ ],
+ "sampleTestCase": "5\n[[0,1],[2,1],[3,2]]\n[0,2,1,4,1]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

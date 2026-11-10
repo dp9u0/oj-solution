@@ -1,0 +1,12 @@
+{
+ "fid": "651",
+ "slug": "4-keys-keyboard",
+ "name": "四个键的键盘",
+ "englishName": "4 Keys Keyboard",
+ "level": "Medium",
+ "percent": 60.88,
+ "hints": [],
+ "sampleTestCase": "3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

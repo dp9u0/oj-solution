@@ -1,0 +1,15 @@
+{
+ "fid": "2229",
+ "slug": "check-if-an-array-is-consecutive",
+ "name": "检查数组是否连贯",
+ "englishName": "Check if an Array Is Consecutive",
+ "level": "Easy",
+ "percent": 63.51,
+ "hints": [
+  "Try sorting nums.",
+  "If nums is consecutive and sorted in ascending order, then nums[i] + 1 = nums[i + 1] for every i in the range 0 ≤ i < nums.length - 1."
+ ],
+ "sampleTestCase": "[1,3,4,2]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

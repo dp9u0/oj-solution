@@ -1,0 +1,12 @@
+{
+ "fid": "616",
+ "slug": "add-bold-tag-in-string",
+ "name": "给字符串添加加粗标签",
+ "englishName": "Add Bold Tag in String",
+ "level": "Medium",
+ "percent": 52.51,
+ "hints": [],
+ "sampleTestCase": "\"abcxyz123\"\n[\"abc\",\"123\"]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

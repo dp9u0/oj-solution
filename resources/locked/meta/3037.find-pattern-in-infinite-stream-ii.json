@@ -1,0 +1,14 @@
+{
+ "fid": "3037",
+ "slug": "find-pattern-in-infinite-stream-ii",
+ "name": "在无限流中寻找模式 II",
+ "englishName": "Find Pattern in Infinite Stream II",
+ "level": "Hard",
+ "percent": 36.73,
+ "hints": [
+  "Use the KMP algorithm."
+ ],
+ "sampleTestCase": "[1,1,1,0,1]\n[0,1]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

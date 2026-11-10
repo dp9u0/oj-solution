@@ -1,0 +1,16 @@
+{
+ "fid": "1120",
+ "slug": "maximum-average-subtree",
+ "name": "子树的最大平均值",
+ "englishName": "Maximum Average Subtree",
+ "level": "Medium",
+ "percent": 66.28,
+ "hints": [
+  "Can you find the sum of values and the number of nodes for every sub-tree ?",
+  "Can you find the sum of values and the number of nodes for a sub-tree given the sum of values and the number of nodes of it's left and right sub-trees ?",
+  "Use depth first search to recursively find the solution for the children of a node then use their solutions to compute the current node's solution."
+ ],
+ "sampleTestCase": "[5,6,1]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

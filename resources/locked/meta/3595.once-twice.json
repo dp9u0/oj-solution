@@ -1,0 +1,14 @@
+{
+ "fid": "3595",
+ "slug": "once-twice",
+ "name": "一次或两次",
+ "englishName": "Once Twice",
+ "level": "Medium",
+ "percent": 82.73,
+ "hints": [
+  "Use bitmasks"
+ ],
+ "sampleTestCase": "[2,2,3,2,5,5,5,7,7]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

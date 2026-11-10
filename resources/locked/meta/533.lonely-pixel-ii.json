@@ -1,0 +1,12 @@
+{
+ "fid": "533",
+ "slug": "lonely-pixel-ii",
+ "name": "孤独像素 II",
+ "englishName": "Lonely Pixel II",
+ "level": "Medium",
+ "percent": 51.41,
+ "hints": [],
+ "sampleTestCase": "[[\"W\",\"B\",\"W\",\"B\",\"B\",\"W\"],[\"W\",\"B\",\"W\",\"B\",\"B\",\"W\"],[\"W\",\"B\",\"W\",\"B\",\"B\",\"W\"],[\"W\",\"W\",\"B\",\"W\",\"B\",\"W\"]]\n3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,12 @@
+{
+ "fid": "252",
+ "slug": "meeting-rooms",
+ "name": "会议室",
+ "englishName": "Meeting Rooms",
+ "level": "Easy",
+ "percent": 59.55,
+ "hints": [],
+ "sampleTestCase": "[[0,30],[5,10],[15,20]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

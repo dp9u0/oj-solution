@@ -1,0 +1,14 @@
+{
+ "fid": "1176",
+ "slug": "diet-plan-performance",
+ "name": "健身计划评估",
+ "englishName": "Diet Plan Performance",
+ "level": "Easy",
+ "percent": 57.11,
+ "hints": [
+  "Use sliding window technique (aka two pointers)."
+ ],
+ "sampleTestCase": "[1,2,3,4,5]\n1\n3\n3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,15 @@
+{
+ "fid": "1485",
+ "slug": "clone-binary-tree-with-random-pointer",
+ "name": "克隆含随机指针的二叉树",
+ "englishName": "Clone Binary Tree With Random Pointer",
+ "level": "Medium",
+ "percent": 75.5,
+ "hints": [
+  "Traverse the tree, keep a hashtable with you and create a nodecopy for each node in the tree.",
+  "Start traversing the original tree again and connect the left, right and random pointers in the cloned tree the same way as the original tree with the help of the hashtable."
+ ],
+ "sampleTestCase": "[[1,null],null,[4,3],[7,0]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

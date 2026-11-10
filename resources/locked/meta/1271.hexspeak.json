@@ -1,0 +1,16 @@
+{
+ "fid": "1271",
+ "slug": "hexspeak",
+ "name": "十六进制魔术数字",
+ "englishName": "Hexspeak",
+ "level": "Easy",
+ "percent": 47.78,
+ "hints": [
+  "Convert the given number to hexadecimal.",
+  "Replace all 0 and 1 with 'O' and 'I'.",
+  "Check if the final string has any numerical digits."
+ ],
+ "sampleTestCase": "\"257\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

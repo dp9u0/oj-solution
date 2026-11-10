@@ -1,0 +1,16 @@
+{
+ "fid": "1228",
+ "slug": "missing-number-in-arithmetic-progression",
+ "name": "等差数列中缺失的数字",
+ "englishName": "Missing Number In Arithmetic Progression",
+ "level": "Easy",
+ "percent": 55.52,
+ "hints": [
+  "Assume the sequence is increasing, what if we find the largest consecutive difference?",
+  "Is the missing element in the middle of the segment with the largest consecutive difference?",
+  "For decreasing sequences, just reverse the array and do a similar process."
+ ],
+ "sampleTestCase": "[5,7,11,13]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

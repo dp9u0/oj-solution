@@ -1,0 +1,16 @@
+{
+ "fid": "2345",
+ "slug": "finding-the-number-of-visible-mountains",
+ "name": "寻找可见山的数量",
+ "englishName": "Finding the Number of Visible Mountains",
+ "level": "Medium",
+ "percent": 42.93,
+ "hints": [
+  "How can we efficiently find for each mountain the relevant mountains to compare itself against to check whether or not it would be visible?",
+  "Do you notice a pattern after sorting the peaks by their x-coordinates?",
+  "After sorting, process the peaks sequentially and use a monotonic stack to store currently visible mountains."
+ ],
+ "sampleTestCase": "[[2,2],[6,3],[5,4]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

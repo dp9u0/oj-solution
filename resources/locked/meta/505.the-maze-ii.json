@@ -1,0 +1,12 @@
+{
+ "fid": "505",
+ "slug": "the-maze-ii",
+ "name": "迷宫 II",
+ "englishName": "The Maze II",
+ "level": "Medium",
+ "percent": 53.3,
+ "hints": [],
+ "sampleTestCase": "[[0,0,1,0,0],[0,0,0,0,0],[0,0,0,1,0],[1,1,0,1,1],[0,0,0,0,0]]\n[0,4]\n[4,4]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

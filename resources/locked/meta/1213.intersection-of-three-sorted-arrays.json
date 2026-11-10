@@ -1,0 +1,15 @@
+{
+ "fid": "1213",
+ "slug": "intersection-of-three-sorted-arrays",
+ "name": "三个有序数组的交集",
+ "englishName": "Intersection of Three Sorted Arrays",
+ "level": "Easy",
+ "percent": 78.43,
+ "hints": [
+  "Count the frequency of all elements in the three arrays.",
+  "The elements that appeared in all the arrays would have a frequency of 3."
+ ],
+ "sampleTestCase": "[1,2,3,4,5]\n[1,2,5,7,9]\n[1,3,4,5,8]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

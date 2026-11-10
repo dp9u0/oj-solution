@@ -1,0 +1,14 @@
+{
+ "fid": "1064",
+ "slug": "fixed-point",
+ "name": "不动点",
+ "englishName": "Fixed Point",
+ "level": "Easy",
+ "percent": 65.14,
+ "hints": [
+  "Loop over the array and check the first index i such A[i] == i"
+ ],
+ "sampleTestCase": "[-10,-5,0,3,7]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,16 @@
+{
+ "fid": "3632",
+ "slug": "subarrays-with-xor-at-least-k",
+ "name": "异或至少为 K 的子数组数目",
+ "englishName": "Subarrays with XOR at Least K",
+ "level": "Hard",
+ "percent": 60.33,
+ "hints": [
+  "Use a prefix XOR array",
+  "For each ending index, count how many subarrays have <code>XOR >= k</code>",
+  "Use a Trie to query those counts efficiently"
+ ],
+ "sampleTestCase": "[3,1,2,3]\n2",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

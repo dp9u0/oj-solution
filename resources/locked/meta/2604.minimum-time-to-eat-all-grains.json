@@ -1,0 +1,16 @@
+{
+ "fid": "2604",
+ "slug": "minimum-time-to-eat-all-grains",
+ "name": "吃掉所有谷子的最短时间",
+ "englishName": "Minimum Time to Eat All Grains",
+ "level": "Hard",
+ "percent": 25.59,
+ "hints": [
+  "Binary search the answer.",
+  "To check if an answer is possible, for the ith hen check how far right it can go after ensuring that it eats the leftmost uneaten grain.",
+  "If the last grain is eaten in this process, the answer is possible."
+ ],
+ "sampleTestCase": "[3,6,7]\n[2,4,7,9]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

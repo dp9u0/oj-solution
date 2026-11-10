@@ -1,0 +1,12 @@
+{
+ "fid": "755",
+ "slug": "pour-water",
+ "name": "倒水",
+ "englishName": "Pour Water",
+ "level": "Medium",
+ "percent": 49.2,
+ "hints": [],
+ "sampleTestCase": "[2,1,1,2,1,2,2]\n4\n3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

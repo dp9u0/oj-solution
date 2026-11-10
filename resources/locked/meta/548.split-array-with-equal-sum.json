@@ -1,0 +1,12 @@
+{
+ "fid": "548",
+ "slug": "split-array-with-equal-sum",
+ "name": "将数组分割成和相等的子数组",
+ "englishName": "Split Array with Equal Sum",
+ "level": "Hard",
+ "percent": 39.56,
+ "hints": [],
+ "sampleTestCase": "[1,2,1,2,1,2,1]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,15 @@
+{
+ "fid": "3391",
+ "slug": "design-a-3d-binary-matrix-with-efficient-layer-tracking",
+ "name": "设计一个高效的层跟踪三维二进制矩阵",
+ "englishName": "Design a 3D Binary Matrix with Efficient Layer Tracking",
+ "level": "Medium",
+ "percent": 72.07,
+ "hints": [
+  "Keep track of the number of 1’s on each matrix.",
+  "Use a data structure that allows to efficiently insert, delete or get the biggest pair on a list of pairs."
+ ],
+ "sampleTestCase": "[\"Matrix3D\",\"setCell\",\"largestMatrix\",\"setCell\",\"largestMatrix\",\"setCell\",\"largestMatrix\"]\n[[3],[0,0,0],[],[1,1,2],[],[0,0,1],[]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

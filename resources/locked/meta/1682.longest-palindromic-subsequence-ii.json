@@ -1,0 +1,15 @@
+{
+ "fid": "1682",
+ "slug": "longest-palindromic-subsequence-ii",
+ "name": "最长回文子序列 II",
+ "englishName": "Longest Palindromic Subsequence II",
+ "level": "Medium",
+ "percent": 56.87,
+ "hints": [
+  "As with any good dp problem that uses palindromes, try building the palindrome from the edges",
+  "The prime point is to check that no two adjacent characters are equal, so save the past character while building the palindrome."
+ ],
+ "sampleTestCase": "\"bbabab\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

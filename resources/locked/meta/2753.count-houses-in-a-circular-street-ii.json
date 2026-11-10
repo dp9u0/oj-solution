@@ -1,0 +1,17 @@
+{
+ "fid": "2753",
+ "slug": "count-houses-in-a-circular-street-ii",
+ "name": "计算一个环形街道上的房屋数量 II",
+ "englishName": "Count Houses in a Circular Street II",
+ "level": "Hard",
+ "percent": 40.11,
+ "hints": [
+  "First, imagine that there is exactly one open door and try to solve the problem.",
+  "Now close an opened door.",
+  "Then visit k houses by going right. If there is no open door, your assumption of having exactly one open door was right, and you have the answer.",
+  "If there is still an open door, go to step 1."
+ ],
+ "sampleTestCase": "[1,1,1,1]\n10",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,15 @@
+{
+ "fid": "1650",
+ "slug": "lowest-common-ancestor-of-a-binary-tree-iii",
+ "name": "二叉树的最近公共祖先 III",
+ "englishName": "Lowest Common Ancestor of a Binary Tree III",
+ "level": "Medium",
+ "percent": 83.69,
+ "hints": [
+  "Store the path from p to the root.",
+  "Traverse the path from q to the root, the first common point of the two paths is the LCA."
+ ],
+ "sampleTestCase": "[3,5,1,6,2,0,8,null,null,7,4]\n5\n1",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,15 @@
+{
+ "fid": "2198",
+ "slug": "number-of-single-divisor-triplets",
+ "name": "单因数三元组",
+ "englishName": "Number of Single Divisor Triplets",
+ "level": "Medium",
+ "percent": 48.77,
+ "hints": [
+  "The maximum value of nums.length is very large, but the maximum value of nums[i] is not.",
+  "Count the number of times each value appears in nums. Brute force through every possible combination of values and count how many single divisor triplets can be made with that combination of values."
+ ],
+ "sampleTestCase": "[4,6,7,3,2]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

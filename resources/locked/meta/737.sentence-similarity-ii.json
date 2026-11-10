@@ -1,0 +1,14 @@
+{
+ "fid": "737",
+ "slug": "sentence-similarity-ii",
+ "name": "句子相似性 II",
+ "englishName": "Sentence Similarity II",
+ "level": "Medium",
+ "percent": 50.15,
+ "hints": [
+  "Consider the graphs where each pair in \"pairs\" is an edge.  Two words are similar if they are the same, or are in the same connected component of this graph."
+ ],
+ "sampleTestCase": "[\"great\",\"acting\",\"skills\"]\n[\"fine\",\"drama\",\"talent\"]\n[[\"great\",\"good\"],[\"fine\",\"good\"],[\"drama\",\"acting\"],[\"skills\",\"talent\"]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

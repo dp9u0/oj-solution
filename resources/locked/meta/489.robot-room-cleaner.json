@@ -1,0 +1,12 @@
+{
+ "fid": "489",
+ "slug": "robot-room-cleaner",
+ "name": "扫地机器人",
+ "englishName": "Robot Room Cleaner",
+ "level": "Hard",
+ "percent": 62.85,
+ "hints": [],
+ "sampleTestCase": "[[1,1,1,1,1,0,1,1],[1,1,1,1,1,0,1,1],[1,0,1,1,1,1,1,1],[0,0,0,1,0,0,0,0],[1,1,1,1,1,1,1,1]]\n1\n3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

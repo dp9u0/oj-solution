@@ -1,0 +1,18 @@
+{
+ "fid": "3094",
+ "slug": "guess-the-number-using-bitwise-questions-ii",
+ "name": "使用按位查询猜测数字 II",
+ "englishName": "Guess the Number Using Bitwise Questions II",
+ "level": "Medium",
+ "percent": 24.04,
+ "hints": [
+  "Ask the number 0 and save the result in <code>base</code>.",
+  "Ask <code>2<sup>i</sup></code> for <code>0 <= i < 30</code>.",
+  "If the result is greater than <code>base</code> for some <code>i</code>, then this bit is a set bit in <code>n</code>.",
+  "What can be done to revert the effect of the <code>XOR</code>.",
+  "Doing <code>XOR</code> again with the same number reverts the effect."
+ ],
+ "sampleTestCase": "31",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

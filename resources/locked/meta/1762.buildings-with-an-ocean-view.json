@@ -1,0 +1,15 @@
+{
+ "fid": "1762",
+ "slug": "buildings-with-an-ocean-view",
+ "name": "能看到海景的建筑物",
+ "englishName": "Buildings With an Ocean View",
+ "level": "Medium",
+ "percent": 73.35,
+ "hints": [
+  "You can traverse the buildings from the nearest to the ocean to the furthest.",
+  "Keep with you the maximum to the right while traversing to determine if you can see the ocean or not."
+ ],
+ "sampleTestCase": "[4,2,3,1]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

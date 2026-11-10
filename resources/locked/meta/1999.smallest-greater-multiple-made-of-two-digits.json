@@ -1,0 +1,15 @@
+{
+ "fid": "1999",
+ "slug": "smallest-greater-multiple-made-of-two-digits",
+ "name": "最小的仅由两个数组成的倍数",
+ "englishName": "Smallest Greater Multiple Made of Two Digits",
+ "level": "Medium",
+ "percent": 43.75,
+ "hints": [
+  "Could you generate all the different numbers comprised of only digit1 and digit2 with the constraints?",
+  "Going from least to greatest, check if the number you generated is greater than k and a multiple of k."
+ ],
+ "sampleTestCase": "2\n0\n2",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

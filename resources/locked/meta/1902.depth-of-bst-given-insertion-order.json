@@ -1,0 +1,15 @@
+{
+ "fid": "1902",
+ "slug": "depth-of-bst-given-insertion-order",
+ "name": "给定二叉搜索树的插入顺序求深度",
+ "englishName": "Depth of BST Given Insertion Order",
+ "level": "Medium",
+ "percent": 45.79,
+ "hints": [
+  "There are at most 2 possible places where a new node can be inserted?",
+  "How can we keep track of the depth of each node?"
+ ],
+ "sampleTestCase": "[2,1,4,3]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

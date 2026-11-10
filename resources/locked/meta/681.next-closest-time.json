@@ -1,0 +1,12 @@
+{
+ "fid": "681",
+ "slug": "next-closest-time",
+ "name": "最近时刻",
+ "englishName": "Next Closest Time",
+ "level": "Medium",
+ "percent": 50.05,
+ "hints": [],
+ "sampleTestCase": "\"19:34\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

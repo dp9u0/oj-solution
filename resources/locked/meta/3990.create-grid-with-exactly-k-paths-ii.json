@@ -1,0 +1,20 @@
+{
+ "fid": "3990",
+ "slug": "create-grid-with-exactly-k-paths-ii",
+ "name": "创建一个恰好有 K 条路径的网格图 II",
+ "englishName": "Create Grid With Exactly K Paths II",
+ "level": "Hard",
+ "percent": 69.01,
+ "hints": [
+  "<p>A fully open <code>2 x 2</code> block has exactly two ways to move from its top-left cell to its bottom-right cell.</p>",
+  "<p>If several such blocks are connected in sequence, each block doubles the number of ways to reach the next block.</p>",
+  "<p>Use these blocks to create cells that are reachable in <code>1, 2, 4, 8, ...</code> ways.</p>",
+  "<p>Decompose <code>k</code> into powers of two. For every power of two used in this decomposition, connect the corresponding cell to a common final corridor.</p>",
+  "<p>Make the final corridor have exactly one path to the bottom-right cell, so the total number of valid paths is the sum of the selected powers of two.</p>",
+  "<p>Since <code>k &lt;= 1000</code>, at most 10 powers of two are needed. The construction therefore uses at most 20 rows and 13 columns, which fits inside the <code>25 x 25</code> limit.</p>",
+  "<p>The diagram below illustrates this construction:</p>\r\n\r\n<p><img src=\"https://assets.leetcode.com/uploads/2026/07/12/chatgpt-image-jul-12-2026-02_02_38-pm.png\" style=\"height: 500px; width: 500px;\" /></p>"
+ ],
+ "sampleTestCase": "2",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

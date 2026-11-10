@@ -1,0 +1,15 @@
+{
+ "fid": "1788",
+ "slug": "maximize-the-beauty-of-the-garden",
+ "name": "最大化花园的美观度",
+ "englishName": "Maximize the Beauty of the Garden",
+ "level": "Hard",
+ "percent": 53.48,
+ "hints": [
+  "Consider every possible beauty and its first and last index in flowers.",
+  "Remove all flowers with negative beauties within those indices."
+ ],
+ "sampleTestCase": "[1,2,3,1,2]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

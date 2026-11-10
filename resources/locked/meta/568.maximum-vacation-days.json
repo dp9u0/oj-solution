@@ -1,0 +1,16 @@
+{
+ "fid": "568",
+ "slug": "maximum-vacation-days",
+ "name": "最大休假天数",
+ "englishName": "Maximum Vacation Days",
+ "level": "Hard",
+ "percent": 56.17,
+ "hints": [
+  "First try to understand the problem carefully and then take some example and solve it on a paper.",
+  "Can you interpret the given input as a graph? Which graph traversal technique is suitable here?",
+  "Can we use some space to avoid redundant function calls?"
+ ],
+ "sampleTestCase": "[[0,1,1],[1,0,1],[1,1,0]]\n[[1,3,1],[6,0,3],[3,3,3]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

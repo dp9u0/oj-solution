@@ -1,0 +1,12 @@
+{
+ "fid": "351",
+ "slug": "android-unlock-patterns",
+ "name": "安卓系统手势解锁",
+ "englishName": "Android Unlock Patterns",
+ "level": "Medium",
+ "percent": 62.33,
+ "hints": [],
+ "sampleTestCase": "1\n1",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

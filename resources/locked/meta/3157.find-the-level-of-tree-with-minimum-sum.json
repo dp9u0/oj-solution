@@ -1,0 +1,15 @@
+{
+ "fid": "3157",
+ "slug": "find-the-level-of-tree-with-minimum-sum",
+ "name": "找到具有最小和的树的层数",
+ "englishName": "Find the Level of Tree with Minimum Sum",
+ "level": "Medium",
+ "percent": 29.95,
+ "hints": [
+  "Run a DFS on the tree and update an array sum where sum[i] is the sum for level i.",
+  "The answer is the first minimum element of sum."
+ ],
+ "sampleTestCase": "[50,6,2,30,80,7]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

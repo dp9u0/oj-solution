@@ -1,0 +1,16 @@
+{
+ "fid": "2052",
+ "slug": "minimum-cost-to-separate-sentence-into-rows",
+ "name": "将句子分隔成行的最低成本",
+ "englishName": "Minimum Cost to Separate Sentence Into Rows",
+ "level": "Medium",
+ "percent": 46.07,
+ "hints": [
+  "Create an array storing all of the words in sentence separated.",
+  "Try dynamic programming.",
+  "Build a dp array where dp[i] represents the minimum total cost for the first i + 1 words."
+ ],
+ "sampleTestCase": "\"i love leetcode\"\n12",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

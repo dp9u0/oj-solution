@@ -1,0 +1,16 @@
+{
+ "fid": "2450",
+ "slug": "number-of-distinct-binary-strings-after-applying-operations",
+ "name": "应用操作后不同二进制字符串的数量",
+ "englishName": "Number of Distinct Binary Strings After Applying Operations",
+ "level": "Medium",
+ "percent": 61.04,
+ "hints": [
+  "Notice that any string of the same length as s will always have the same answer, so only the length of the string matters.",
+  "For each substring of size k, you can decide whether to flip or not. Every string s resulting from this process will be unique.",
+  "How do you find the number of possible combinations?"
+ ],
+ "sampleTestCase": "\"1001\"\n3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

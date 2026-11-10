@@ -1,0 +1,15 @@
+{
+ "fid": "2214",
+ "slug": "minimum-health-to-beat-game",
+ "name": "通关游戏所需的最低生命值",
+ "englishName": "Minimum Health to Beat Game",
+ "level": "Medium",
+ "percent": 54.37,
+ "hints": [
+  "When should you use your armor ability?",
+  "It is always optimal to use your armor ability on the level where you take the most amount of damage."
+ ],
+ "sampleTestCase": "[2,7,4,3]\n4",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,15 @@
+{
+ "fid": "1956",
+ "slug": "minimum-time-for-k-virus-variants-to-spread",
+ "name": "感染 K 种病毒所需的最短时间",
+ "englishName": "Minimum Time For K Virus Variants to Spread",
+ "level": "Hard",
+ "percent": 34.91,
+ "hints": [
+  "n is very small, how can we use that?",
+  "What shape is the region when two viruses intersect?"
+ ],
+ "sampleTestCase": "[[1,1],[6,1]]\n2",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

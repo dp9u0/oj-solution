@@ -1,0 +1,15 @@
+{
+ "fid": "2371",
+ "slug": "minimize-maximum-value-in-a-grid",
+ "name": "最小化网格中的最大值",
+ "englishName": "Minimize Maximum Value in a Grid",
+ "level": "Hard",
+ "percent": 62.74,
+ "hints": [
+  "Can you think of which element in the grid you should replace first?",
+  "Replace the elements in the matrix from the smallest number to the largest. Replace each element with the smallest possible number so far."
+ ],
+ "sampleTestCase": "[[3,1],[2,5]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

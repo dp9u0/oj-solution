@@ -1,0 +1,15 @@
+{
+ "fid": "1842",
+ "slug": "next-palindrome-using-same-digits",
+ "name": "下个由相同数字构成的回文串",
+ "englishName": "Next Palindrome Using Same Digits",
+ "level": "Hard",
+ "percent": 51.68,
+ "hints": [
+  "Is it possible to swap one character in the first half of the palindrome to make the next one?",
+  "Are there different cases for when the length is odd and even?"
+ ],
+ "sampleTestCase": "\"1221\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,17 @@
+{
+ "fid": "3496",
+ "slug": "maximize-score-after-pair-deletions",
+ "name": "最大化配对删除后的得分",
+ "englishName": "Maximize Score After Pair Deletions",
+ "level": "Medium",
+ "percent": 71.91,
+ "hints": [
+  "The number of operations is <code>floor((n - 1) / 2)</code>, so the number of remaining elements is <code>n - 2 * floor((n - 1) / 2)</code>.",
+  "There will be either 1 or 2 elements remaining.",
+  "If there is 1 element remaining, let it be the minimum element.",
+  "If there are 2 elements remaining, let them be the adjacent elements with the minimum sum."
+ ],
+ "sampleTestCase": "[2,4,1]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

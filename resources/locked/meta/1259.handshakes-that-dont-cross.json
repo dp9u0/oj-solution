@@ -1,0 +1,16 @@
+{
+ "fid": "1259",
+ "slug": "handshakes-that-dont-cross",
+ "name": "不相交的握手",
+ "englishName": "Handshakes That Don't Cross",
+ "level": "Hard",
+ "percent": 52.95,
+ "hints": [
+  "Use dynamic programming.",
+  "Let dp[n] be the number of ways that n people can handshake.",
+  "Then fix a person as a pivot and turn for every other person who will have a handshake, the answer is the sum of the products of the new two subproblems."
+ ],
+ "sampleTestCase": "4",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

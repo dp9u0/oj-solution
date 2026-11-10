@@ -1,0 +1,17 @@
+{
+ "fid": "3879",
+ "slug": "maximum-distinct-path-sum-in-a-binary-tree",
+ "name": "二叉树中的最大不同路径和",
+ "englishName": "Maximum Distinct Path Sum in a Binary Tree",
+ "level": "Medium",
+ "percent": 51.57,
+ "hints": [
+  "Try all possible starting nodes",
+  "For a given node, the possible outgoing edges are the left child, right child, and parent",
+  "During depth first search (DFS), only visit a node if its value has not already been seen",
+  "Take the maximum over all possible starting nodes"
+ ],
+ "sampleTestCase": "[2,2,1]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

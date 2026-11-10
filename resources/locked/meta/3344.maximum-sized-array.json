@@ -1,0 +1,12 @@
+{
+ "fid": "3344",
+ "slug": "maximum-sized-array",
+ "name": "最大尺寸数组",
+ "englishName": "Maximum Sized Array",
+ "level": "Medium",
+ "percent": 21.89,
+ "hints": [],
+ "sampleTestCase": "10",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

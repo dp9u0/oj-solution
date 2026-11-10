@@ -1,0 +1,15 @@
+{
+ "fid": "3616",
+ "slug": "number-of-student-replacements",
+ "name": "学生替换人数",
+ "englishName": "Number of Student Replacements",
+ "level": "Medium",
+ "percent": 87.95,
+ "hints": [
+  "Iterate through the array from left to right, keeping track of the current best (minimum) rank.",
+  "Whenever you see an element strictly lower than your current best, update the best to that element and increment the replacement count."
+ ],
+ "sampleTestCase": "[4,1,2]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

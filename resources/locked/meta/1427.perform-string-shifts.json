@@ -1,0 +1,15 @@
+{
+ "fid": "1427",
+ "slug": "perform-string-shifts",
+ "name": "字符串的左右移",
+ "englishName": "Perform String Shifts",
+ "level": "Easy",
+ "percent": 57.45,
+ "hints": [
+  "Intuitively performing all shift operations is acceptable due to the constraints.",
+  "You may notice that left shift cancels the right shift, so count the total left shift times (may be negative if the final result is right shift), and perform it once."
+ ],
+ "sampleTestCase": "\"abc\"\n[[0,1],[1,2]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

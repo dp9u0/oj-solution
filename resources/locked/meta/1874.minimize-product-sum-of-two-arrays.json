@@ -1,0 +1,15 @@
+{
+ "fid": "1874",
+ "slug": "minimize-product-sum-of-two-arrays",
+ "name": "两个数组的最小乘积和",
+ "englishName": "Minimize Product Sum of Two Arrays",
+ "level": "Medium",
+ "percent": 83.04,
+ "hints": [
+  "Is there a particular way we should order the arrays such that the product sum is minimized?",
+  "Would you want to multiply two numbers that are closer to one another or further?"
+ ],
+ "sampleTestCase": "[5,3,4,2]\n[4,2,2,5]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

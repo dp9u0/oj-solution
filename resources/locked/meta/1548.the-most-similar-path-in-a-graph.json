@@ -1,0 +1,15 @@
+{
+ "fid": "1548",
+ "slug": "the-most-similar-path-in-a-graph",
+ "name": "图中最相似的路径",
+ "englishName": "The Most Similar Path in a Graph",
+ "level": "Hard",
+ "percent": 57.04,
+ "hints": [
+  "Create an array dp where dp[i][j] is the min edit distance for the path starting at node i and compared to index j of the targetPath.",
+  "Traverse the dp array to obtain a valid answer."
+ ],
+ "sampleTestCase": "5\n[[0,2],[0,3],[1,2],[1,3],[1,4],[2,4]]\n[\"ATL\",\"PEK\",\"LAX\",\"DXB\",\"HND\"]\n[\"ATL\",\"DXB\",\"HND\",\"LAX\"]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,12 @@
+{
+ "fid": "642",
+ "slug": "design-search-autocomplete-system",
+ "name": "设计搜索自动补全系统",
+ "englishName": "Design Search Autocomplete System",
+ "level": "Hard",
+ "percent": 54.07,
+ "hints": [],
+ "sampleTestCase": "[\"AutocompleteSystem\",\"input\",\"input\",\"input\",\"input\"]\n[[[\"i love you\",\"island\",\"iroman\",\"i love leetcode\"],[5,3,2,2]],[\"i\"],[\" \"],[\"a\"],[\"#\"]]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

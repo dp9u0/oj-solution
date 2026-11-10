@@ -1,0 +1,12 @@
+{
+ "fid": "422",
+ "slug": "valid-word-square",
+ "name": "有效的单词方块",
+ "englishName": "Valid Word Square",
+ "level": "Easy",
+ "percent": 46.37,
+ "hints": [],
+ "sampleTestCase": "[\"abcd\",\"bnrt\",\"crmy\",\"dtye\"]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

@@ -1,0 +1,12 @@
+{
+ "fid": "490",
+ "slug": "the-maze",
+ "name": "迷宫",
+ "englishName": "The Maze",
+ "level": "Medium",
+ "percent": 54.13,
+ "hints": [],
+ "sampleTestCase": "[[0,0,1,0,0],[0,0,0,0,0],[0,0,0,1,0],[1,1,0,1,1],[0,0,0,0,0]]\n[0,4]\n[4,4]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

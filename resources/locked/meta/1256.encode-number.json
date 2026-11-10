@@ -1,0 +1,15 @@
+{
+ "fid": "1256",
+ "slug": "encode-number",
+ "name": "加密数字",
+ "englishName": "Encode Number",
+ "level": "Medium",
+ "percent": 66.44,
+ "hints": [
+  "Try to find the number of binary digits returned by the function.",
+  "The pattern is to start counting from zero after determining the number of binary digits."
+ ],
+ "sampleTestCase": "23",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

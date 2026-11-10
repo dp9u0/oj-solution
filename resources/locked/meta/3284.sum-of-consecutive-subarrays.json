@@ -1,0 +1,18 @@
+{
+ "fid": "3284",
+ "slug": "sum-of-consecutive-subarrays",
+ "name": "连续子数组的和",
+ "englishName": "Sum of Consecutive Subarrays",
+ "level": "Medium",
+ "percent": 25.8,
+ "hints": [
+  "Think of dynamic programming.",
+  "Another approach would be a two-pointer.",
+  "Start from the first index and traverse until the last one.",
+  "At each step, store the sum of the suffix that forms a consecutive subarray.",
+  "Do the above for both +1 and -1 and add them up."
+ ],
+ "sampleTestCase": "[1,2,3]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

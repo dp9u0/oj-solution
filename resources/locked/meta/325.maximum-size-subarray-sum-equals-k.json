@@ -1,0 +1,16 @@
+{
+ "fid": "325",
+ "slug": "maximum-size-subarray-sum-equals-k",
+ "name": "和等于 k 的最长子数组长度",
+ "englishName": "Maximum Size Subarray Sum Equals k",
+ "level": "Medium",
+ "percent": 52.56,
+ "hints": [
+  "Compute the prefix sum array where psum[i] is the sum of all the elements from <i>0</i> to <i>i</i>.",
+  "At each index <i>i</i>, the sum of the prefix is psum[i], so we are searching for the index x where psum[x] = psum[i] - k.\r\nThe subarray [x + 1, i] will be of sum k.",
+  "Use a hashmap to get the index x efficiently or to determine that it does not exist."
+ ],
+ "sampleTestCase": "[1,-1,5,-2,3]\n3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

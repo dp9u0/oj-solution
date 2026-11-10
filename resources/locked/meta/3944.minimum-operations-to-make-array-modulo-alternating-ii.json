@@ -1,0 +1,17 @@
+{
+ "fid": "3944",
+ "slug": "minimum-operations-to-make-array-modulo-alternating-ii",
+ "name": "使数组变为模交替数组的最少操作次数 II",
+ "englishName": "Minimum Operations to Make Array Modulo Alternating II",
+ "level": "Hard",
+ "percent": 79.74,
+ "hints": [
+  "For a number with remainder <code>r = nums[i] % k</code>, the minimum cost to change it to remainder <code>t</code> is:\r\n\r\n<code>min(abs(r - t), k - abs(r - t))</code>",
+  "Separate the indices by parity. Compute\r\n\r\n<code>evenCost[x]</code> = total cost to make all even indices have remainder <code>x</code>, \r\n<code>oddCost[y]</code> = total cost to make all odd indices have remainder <code>y</code>",
+  "Then the answer is:\r\n\r\n<code>min(evenCost[x] + oddCost[y])</code> over all <code>x != y</code>.",
+  "To avoid <code>O(k<sup>2</sup>)</code>, keep the smallest and second smallest values in <code>oddCost</code>. For each <code>x</code>, use the best odd remainder unless it equals <code>x</code>, otherwise use the second best."
+ ],
+ "sampleTestCase": "[1,4,2,8]\n3",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

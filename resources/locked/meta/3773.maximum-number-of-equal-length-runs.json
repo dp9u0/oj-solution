@@ -1,0 +1,15 @@
+{
+ "fid": "3773",
+ "slug": "maximum-number-of-equal-length-runs",
+ "name": "最大等长连续字符组",
+ "englishName": "Maximum Number of Equal Length Runs",
+ "level": "Medium",
+ "percent": 89.45,
+ "hints": [
+  "Split the string when adjacent characters are not equal, and use those to make the runs",
+  "Use a hashmap to group runs of the same length"
+ ],
+ "sampleTestCase": "\"hello\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

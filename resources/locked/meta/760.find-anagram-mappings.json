@@ -1,0 +1,14 @@
+{
+ "fid": "760",
+ "slug": "find-anagram-mappings",
+ "name": "找出变位映射",
+ "englishName": "Find Anagram Mappings",
+ "level": "Easy",
+ "percent": 85,
+ "hints": [
+  "Create a hashmap so that D[x] = i  whenever B[i] = x.  Then, the answer is [D[x] for x in A]."
+ ],
+ "sampleTestCase": "[12,28,46,32,50]\n[50,12,32,46,28]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

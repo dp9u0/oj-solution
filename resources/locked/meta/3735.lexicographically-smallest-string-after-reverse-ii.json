@@ -1,0 +1,14 @@
+{
+ "fid": "3735",
+ "slug": "lexicographically-smallest-string-after-reverse-ii",
+ "name": "反转后字典序最小的字符串 II",
+ "englishName": "Lexicographically Smallest String After Reverse II",
+ "level": "Hard",
+ "percent": 71.35,
+ "hints": [
+  "Use binary search and hashing for faster lexicographically smaller comparisons"
+ ],
+ "sampleTestCase": "\"dcab\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

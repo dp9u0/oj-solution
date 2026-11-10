@@ -1,0 +1,12 @@
+{
+ "fid": "291",
+ "slug": "word-pattern-ii",
+ "name": "单词规律 II",
+ "englishName": "Word Pattern II",
+ "level": "Medium",
+ "percent": 52.89,
+ "hints": [],
+ "sampleTestCase": "\"abab\"\n\"redblueredblue\"",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

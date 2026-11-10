@@ -1,0 +1,15 @@
+{
+ "fid": "1836",
+ "slug": "remove-duplicates-from-an-unsorted-linked-list",
+ "name": "从未排序的链表中移除重复元素",
+ "englishName": "Remove Duplicates From an Unsorted Linked List",
+ "level": "Medium",
+ "percent": 74.12,
+ "hints": [
+  "Is there a way we can know beforehand which nodes to delete?",
+  "Count the number of appearances for each number."
+ ],
+ "sampleTestCase": "[1,2,3,2]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

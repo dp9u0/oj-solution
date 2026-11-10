@@ -1,0 +1,12 @@
+{
+ "fid": "644",
+ "slug": "maximum-average-subarray-ii",
+ "name": "子数组最大平均数 II",
+ "englishName": "Maximum Average Subarray II",
+ "level": "Hard",
+ "percent": 45.94,
+ "hints": [],
+ "sampleTestCase": "[1,12,-5,-6,50,3]\n4",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

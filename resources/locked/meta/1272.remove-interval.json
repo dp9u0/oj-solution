@@ -1,0 +1,15 @@
+{
+ "fid": "1272",
+ "slug": "remove-interval",
+ "name": "删除区间",
+ "englishName": "Remove Interval",
+ "level": "Medium",
+ "percent": 63.6,
+ "hints": [
+  "Solve the problem for every interval alone.",
+  "Divide the problem into cases according to the position of the two intervals."
+ ],
+ "sampleTestCase": "[[0,2],[3,4],[5,7]]\n[1,6]",
+ "hasDescription": false,
+ "fetchedAt": "2026-11-10"
+}

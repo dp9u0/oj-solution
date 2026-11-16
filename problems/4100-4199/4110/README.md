@@ -1,0 +1,69 @@
+# [4110] 找出有效子序列的最大长度 III
+
+## Description
+
+
+```md
+https://leetcode.cn/problems/find-the-maximum-length-of-valid-subsequence-iii/description/
+* algorithms
+* Medium (79.31%)
+* Dislikes: -
+* Testcase Example:  '[1,2,3,4,5]\n3'
+给定一个整数数组 nums 和一个正整数 k。
+如果 nums 的一个 子序列 中，每对相邻元素的和都能被 k 整除，则称该子序列是 有效的。
+长度为 1 的子序列始终是有效的。
+返回 nums 的 最长有效子序列 的长度。
+
+示例 1：
+输入： nums = [1,2,3,4,5], k = 3
+输出： 4
+解释：
+选择子序列 [1, 2, 4, 5]。
+相邻元素的和分别为 1 + 2 = 3、2 + 4 = 6 和 4 + 5 = 9，都能被 3 整除。
+不存在长度超过 4 的有效子序列。
+示例 2：
+输入： nums = [5,10,15], k = 5
+输出： 3
+解释：
+选择整个数组 [5, 10, 15]。
+相邻元素的和分别为 5 + 10 = 15 和 10 + 15 = 25，都能被 5 整除。
+每个元素都是 5 的倍数，因此任意两个元素都可以在有效子序列中相邻，答案为 3。
+示例 3：
+输入： nums = [1,3,5,7,9], k = 4
+输出： 5
+解释：
+选择整个数组 [1, 3, 5, 7, 9]。
+相邻元素的和分别为 1 + 3 = 4、3 + 5 = 8、5 + 7 = 12 和 7 + 9 = 16，都能被 4 整除。
+各元素除以 4 的余数在 1 和 3 之间交替出现，而它们的和为 4，因此答案为 5。
+
+提示：
+2 <= nums.length <= 105
+1 <= nums[i] <= 109
+1 <= k <= 105
+Hint 1: 1a (Dynamic Programming): If the last element of a valid subsequence has remainder r modulo k, the next element must have remainder (k - r) % k.
+Hint 2: 1b (Dynamic Programming): Scan nums from left to right. Store the longest valid subsequence ending at each remainder. For the current remainder, extend the best subsequence ending at its complementary remainder, or start a new subsequence if none exists.
+Hint 3: 2a (Greedy): A valid subsequence uses only a pair of complementary remainders. If a remainder is its own complement, every occurrence of that remainder can be selected.
+Hint 4: 2b (Greedy): For a pair of different complementary remainders, ignore all other elements. The longest alternating subsequence takes one element from each consecutive run of equal remainders in the filtered sequence.
+
+```
+
+## Solution
+
+[SourceCode](./solution.js)
+
+## Description (English)
+
+Given an integer array `nums` and a positive integer `k`, a subsequence is valid if every pair of adjacent elements sums to a multiple of `k`. Subsequences of length 1 are always valid. Return the length of the longest valid subsequence.
+
+**Example 1:**
+nums = [1,2,3,4,5], k = 3 → 4 ([1,2,4,5]: sums 3, 6, 9 all divisible by 3)
+
+**Constraints:**
+- 2 <= nums.length <= 10^5
+- 1 <= nums[i] <= 10^9, 1 <= k <= 10^5
+
+## Approach
+
+约束只取决于最后一个元素的余数。`dp[r]` = 以余数 r 结尾的最长有效子序列长度,转移 `dp[r] = dp[(k-r)%k] + 1`(当前余数必须接在补余数之后)。原地更新单调不减(comp != r 时新值 = dp[comp]+1 ≥ 旧值;comp == r 时自增),无状态丢失。
+
+时间 O(n + k),空间 O(k)。

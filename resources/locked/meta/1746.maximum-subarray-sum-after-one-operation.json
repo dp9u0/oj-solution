@@ -11,6 +11,6 @@
   "dp[i][1] is the max subarray sum including nums[i] and having only one element squared."
  ],
  "sampleTestCase": "[2,-1,-4,-3]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

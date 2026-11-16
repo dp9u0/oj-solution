@@ -7,6 +7,6 @@
  "percent": 42.57,
  "hints": [],
  "sampleTestCase": "[\"TwoSum\",\"add\",\"add\",\"add\",\"find\",\"find\"]\n[[],[1],[3],[5],[4],[7]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

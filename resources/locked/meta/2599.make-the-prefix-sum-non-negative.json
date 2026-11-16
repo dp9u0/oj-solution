@@ -10,6 +10,6 @@
   "Loop over the array keeping the prefix sum. Whenever it goes negative, move the smallest number you have seen to the end."
  ],
  "sampleTestCase": "[2,3,-5,4]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

@@ -7,6 +7,6 @@
  "percent": 60.16,
  "hints": [],
  "sampleTestCase": "[[\"0\",\"E\",\"0\",\"0\"],[\"E\",\"0\",\"W\",\"E\"],[\"0\",\"E\",\"0\",\"0\"]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

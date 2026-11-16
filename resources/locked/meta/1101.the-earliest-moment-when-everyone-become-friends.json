@@ -12,6 +12,6 @@
   "Then we loop through the events and unite each node until the number of connected components reach to 1. Notice that each time two different connected components are united the number of connected components decreases by 1."
  ],
  "sampleTestCase": "[[20190101,0,1],[20190104,3,4],[20190107,2,3],[20190211,1,5],[20190224,2,4],[20190301,0,3],[20190312,1,2],[20190322,4,5]]\n6",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

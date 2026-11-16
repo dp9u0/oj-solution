@@ -10,6 +10,6 @@
   "Use a 2D difference array to track how many chosen <code>k x k</code> operations currently affect each cell."
  ],
  "sampleTestCase": "[[3,3,5],[3,3,5]]\n2",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

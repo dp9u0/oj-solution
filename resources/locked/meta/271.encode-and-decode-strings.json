@@ -4,9 +4,9 @@
  "name": "字符串的编码与解码",
  "englishName": "Encode and Decode Strings",
  "level": "Medium",
- "percent": 59.34,
+ "percent": 59.33,
  "hints": [],
  "sampleTestCase": "[\"Hello\",\"World\"]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

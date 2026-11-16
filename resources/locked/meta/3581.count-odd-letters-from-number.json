@@ -4,11 +4,11 @@
  "name": "计算数字中的奇数字母数量",
  "englishName": "Count Odd Letters from Number",
  "level": "Easy",
- "percent": 83.8,
+ "percent": 83.85,
  "hints": [
   "Simulate as described"
  ],
  "sampleTestCase": "41",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

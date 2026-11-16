@@ -11,6 +11,6 @@
   "We can use another stack as a buffer to store numbers returned from calls to next and use this buffer whenever prev is called."
  ],
  "sampleTestCase": "[\"BSTIterator\",\"next\",\"next\",\"prev\",\"next\",\"hasNext\",\"next\",\"next\",\"next\",\"hasNext\",\"hasPrev\",\"prev\",\"prev\"]\n[[[7,3,15,null,null,9,20]],[null],[null],[null],[null],[null],[null],[null],[null],[null],[null],[null],[null]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

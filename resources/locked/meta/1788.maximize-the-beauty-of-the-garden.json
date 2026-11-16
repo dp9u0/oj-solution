@@ -10,6 +10,6 @@
   "Remove all flowers with negative beauties within those indices."
  ],
  "sampleTestCase": "[1,2,3,1,2]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

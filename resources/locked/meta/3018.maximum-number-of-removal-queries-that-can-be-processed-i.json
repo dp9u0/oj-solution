@@ -13,6 +13,6 @@
   "The answer would be <code>max(dp[i][i])</code>."
  ],
  "sampleTestCase": "[1,2,3,4,5]\n[1,2,3,4,6]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

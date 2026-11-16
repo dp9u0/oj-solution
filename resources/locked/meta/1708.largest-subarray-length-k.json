@@ -10,6 +10,6 @@
   "This integer is the first element in the subarray. You should take it with the k - 1 elements after it."
  ],
  "sampleTestCase": "[1,4,5,2,3]\n3",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

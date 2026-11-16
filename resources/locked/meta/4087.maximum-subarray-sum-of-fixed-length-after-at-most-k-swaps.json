@@ -14,6 +14,6 @@
   "<strong>2c (Sliding Window and Order Statistics)</strong>: Maintain the inside and outside value counts and sums as the window slides. Coordinate compression and Fenwick trees support the required largest-element sum queries in logarithmic time."
  ],
  "sampleTestCase": "[1,-1,0,2]\r\n2\r\n1\r",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

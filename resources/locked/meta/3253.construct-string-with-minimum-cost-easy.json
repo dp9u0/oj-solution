@@ -10,6 +10,6 @@
   "<code>dp[i] = min(costs[k] + dp[j])</code>, where <code>j > i</code> and <code>words[k] == target[i..j]</code>."
  ],
  "sampleTestCase": "\"abcdef\"\n[\"abdef\",\"abc\",\"d\",\"def\",\"ef\"]\n[100,1,1,10,5]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

@@ -10,6 +10,6 @@
   "You can get l/m branches of length m from a branch with length l."
  ],
  "sampleTestCase": "[9,7,5]\n3",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

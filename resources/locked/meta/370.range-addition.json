@@ -4,7 +4,7 @@
  "name": "区间加法",
  "englishName": "Range Addition",
  "level": "Medium",
- "percent": 78.73,
+ "percent": 78.74,
  "hints": [
   "Thinking of using advanced data structures? You are thinking it too complicated.",
   "For each update operation, do you really need to update all elements between i and j?",
@@ -12,6 +12,6 @@
   "The optimal time complexity is O(<b><i>k</i></b> + <b><i>n</i></b>) and uses O(1) extra space."
  ],
  "sampleTestCase": "5\n[[1,3,2],[2,4,3],[0,2,-2]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

@@ -13,6 +13,6 @@
   "So for each group, we calculate the sum of its prices and the answer would be the maximum sum over all groups."
  ],
  "sampleTestCase": "[1,5,3,7,8]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

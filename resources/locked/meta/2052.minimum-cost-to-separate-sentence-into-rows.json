@@ -11,6 +11,6 @@
   "Build a dp array where dp[i] represents the minimum total cost for the first i + 1 words."
  ],
  "sampleTestCase": "\"i love leetcode\"\n12",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

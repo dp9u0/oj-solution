@@ -11,6 +11,6 @@
   "As you might have already guessed, the optimal value for B is ~sqrt(n)."
  ],
  "sampleTestCase": "[0,1,2,3,4,5,6,7]\n[[0,3],[5,1],[4,2]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

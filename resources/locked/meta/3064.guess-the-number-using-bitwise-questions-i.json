@@ -10,6 +10,6 @@
   "If the result is greater than zero for some <code>i</code>, this bit is a set bit in <code>n</code>."
  ],
  "sampleTestCase": "31",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

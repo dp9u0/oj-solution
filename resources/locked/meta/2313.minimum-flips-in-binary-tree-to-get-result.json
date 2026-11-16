@@ -11,6 +11,6 @@
   "For nodes representing boolean operations, find the minimum operations by trying all combinations of values to which the child nodes can evaluate."
  ],
  "sampleTestCase": "[3,5,4,2,null,1,1,1,0]\ntrue",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

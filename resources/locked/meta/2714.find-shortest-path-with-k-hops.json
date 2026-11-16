@@ -14,6 +14,6 @@
   "For the matter of time complexity, note that you **don’t need** to literally construct the described graph."
  ],
  "sampleTestCase": "4\n[[0,1,4],[0,2,2],[2,3,6]]\n1\n3\n2",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

@@ -12,6 +12,6 @@
   "If there is still an open door, go to step 1."
  ],
  "sampleTestCase": "[1,1,1,1]\n10",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

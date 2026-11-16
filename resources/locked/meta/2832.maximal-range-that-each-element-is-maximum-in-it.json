@@ -14,6 +14,6 @@
   "After that, we push <code>(nums[index], index)</code> to the stack and go for the next element."
  ],
  "sampleTestCase": "[1,5,4,3,6]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

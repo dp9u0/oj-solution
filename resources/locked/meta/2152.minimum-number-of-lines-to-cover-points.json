@@ -12,6 +12,6 @@
   "Calculate the slope from the first point to the second point. If the slope from the first point to the third point is the same, then it is also covered by that line."
  ],
  "sampleTestCase": "[[0,1],[2,3],[4,5],[4,3]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

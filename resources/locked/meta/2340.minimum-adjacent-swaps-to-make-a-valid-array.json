@@ -10,6 +10,6 @@
   "We can take those elements and greedily only do swaps that bring them closer to their respective end positions."
  ],
  "sampleTestCase": "[3,4,5,5,3,1]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

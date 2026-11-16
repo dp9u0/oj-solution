@@ -10,6 +10,6 @@
   "Second, we need to apply a well known algorithm called welzls algorithm to help us find the minimum enclosing circle"
  ],
  "sampleTestCase": "[[1,1],[2,2],[2,0],[2,4],[3,3],[4,2]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

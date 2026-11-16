@@ -4,11 +4,11 @@
  "name": "从盒子中找出字典序最大的字符串 II",
  "englishName": "Find the Lexicographically Largest String From the Box II",
  "level": "Hard",
- "percent": 18.95,
+ "percent": 19,
  "hints": [
   "Use suffix array."
  ],
  "sampleTestCase": "\"dbca\"\n2",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

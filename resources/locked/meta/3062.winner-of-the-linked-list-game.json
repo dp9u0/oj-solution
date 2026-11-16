@@ -11,6 +11,6 @@
   "Compare the winning variables and find the answer."
  ],
  "sampleTestCase": "[2,1]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

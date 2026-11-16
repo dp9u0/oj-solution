@@ -4,11 +4,11 @@
  "name": "网络爬虫",
  "englishName": "Web Crawler",
  "level": "Medium",
- "percent": 60.13,
+ "percent": 60.12,
  "hints": [
   "Use DFS/BFS to search start from the startURL. Remember to get rid of duplicate URLs."
  ],
  "sampleTestCase": "[\"http://news.yahoo.com\",\"http://news.yahoo.com/news\",\"http://news.yahoo.com/news/topics/\",\"http://news.google.com\",\"http://news.yahoo.com/us\"]\n[[2,0],[2,1],[3,2],[3,1],[0,4]]\n\"http://news.yahoo.com/news/topics/\"",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

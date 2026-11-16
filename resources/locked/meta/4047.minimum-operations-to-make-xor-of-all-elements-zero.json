@@ -12,6 +12,6 @@
   "Find <code>d</code> using BFS from XOR value 0. Each transition XORs the current value with a distinct value from <code>nums</code>. All reachable XOR values are less than 2048."
  ],
  "sampleTestCase": "[8,1,4,8,2]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

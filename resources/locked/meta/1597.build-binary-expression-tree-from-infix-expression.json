@@ -10,6 +10,6 @@
   "Build an expression tree from the postfix expression."
  ],
  "sampleTestCase": "\"3*4-2*5\"",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

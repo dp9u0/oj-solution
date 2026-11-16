@@ -12,6 +12,6 @@
   "Store both max and min because inverting <code>u</code> negates the whole subtree. So the best value after inverting <code>u</code> comes from negating the minimum compatible child sum, and the worst comes from negating the maximum compatible child sum."
  ],
  "sampleTestCase": "[[0,1],[0,2],[0,3],[1,4],[1,5]]\n[1,0,-10,3,4,5]\n2",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

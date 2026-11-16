@@ -11,6 +11,6 @@
   "We can try every single possibility of choosing to do an operation on a cell with a 1 or choosing to ignore it."
  ],
  "sampleTestCase": "[[1,1,1],[1,1,1],[0,1,0]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

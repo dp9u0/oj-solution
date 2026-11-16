@@ -10,6 +10,6 @@
   "Check the longest path where all the nodes are words."
  ],
  "sampleTestCase": "[\"k\",\"ki\",\"kir\",\"kira\",\"kiran\"]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

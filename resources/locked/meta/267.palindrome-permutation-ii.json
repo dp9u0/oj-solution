@@ -10,6 +10,6 @@
   "To generate all distinct permutations of a (half of) string, use a similar approach from: <a href=\"/problems/permutations-ii\">Permutations II</a> or <a href=\"/problems/next-permutation\">Next Permutation</a>."
  ],
  "sampleTestCase": "\"aabb\"",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

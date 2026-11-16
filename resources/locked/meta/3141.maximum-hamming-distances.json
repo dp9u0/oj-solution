@@ -13,6 +13,6 @@
   "Now for each <code>x</code>, to find its minimum Hamming distance from elements of the array, simply calculate its shortest path from array elements."
  ],
  "sampleTestCase": "[9,12,9,11]\n4",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

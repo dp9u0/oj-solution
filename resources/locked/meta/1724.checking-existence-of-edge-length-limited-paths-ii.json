@@ -11,6 +11,6 @@
   "To answer a query, find the lca between the two nodes, and find the maximum weight from each of the query nodes to their lca and compare it to the given limit."
  ],
  "sampleTestCase": "[\"DistanceLimitedPathsExist\",\"query\",\"query\",\"query\",\"query\"]\n[[6,[[0,2,4],[0,3,2],[1,2,3],[2,3,1],[4,5,5]]],[2,3,2],[1,3,3],[2,0,3],[0,5,6]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

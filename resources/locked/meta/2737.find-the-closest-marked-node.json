@@ -11,6 +11,6 @@
   "Find the minimum distance between marked nodes."
  ],
  "sampleTestCase": "4\n[[0,1,1],[1,2,3],[2,3,2],[0,3,4]]\n0\n[2,3]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

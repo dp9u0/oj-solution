@@ -11,6 +11,6 @@
   "If there is some `j < i` that `i` and `j` belong to the same group, go to next `i`. Otherwise, add one to the current number of groups."
  ],
  "sampleTestCase": "6\n[1,1,2,2,3,3]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

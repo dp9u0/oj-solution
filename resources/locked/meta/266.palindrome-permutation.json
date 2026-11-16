@@ -11,6 +11,6 @@
   "If each character occurs even number of times, then it must be a palindrome. How about character which occurs odd number of times?"
  ],
  "sampleTestCase": "\"code\"",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

@@ -11,6 +11,6 @@
   "Look for an invariant: the total cost may depend only on the final set of pieces, not on the order of splits."
  ],
  "sampleTestCase": "3",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

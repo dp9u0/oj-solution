@@ -12,6 +12,6 @@
   "Calculate the sum of the new array in the interval that you paint."
  ],
  "sampleTestCase": "[[1,4],[4,7],[5,8]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

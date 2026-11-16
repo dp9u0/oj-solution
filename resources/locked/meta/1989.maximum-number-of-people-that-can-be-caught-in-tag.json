@@ -13,6 +13,6 @@
   "If the person who is not \"it\" cannot be caught, and the person who is \"it\" is on the left of the person who is not \"it\", find the next leftmost person who is \"it\"."
  ],
  "sampleTestCase": "[0,1,0,1,0]\n3",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

@@ -9,6 +9,6 @@
   "For each string of the set, look for matches and store those matches indices."
  ],
  "sampleTestCase": "\"thestoryofleetcodeandme\"\n[\"story\",\"fleet\",\"leetcode\"]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

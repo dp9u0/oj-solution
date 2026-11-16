@@ -4,7 +4,7 @@
  "name": "查找最长的自包含子串",
  "englishName": "Find Longest Self-Contained Substring",
  "level": "Hard",
- "percent": 37.04,
+ "percent": 37.11,
  "hints": [
   "Fix the start index of the substring.",
   "For some fixed index <code>start</code>, let's try to find some index <code>end</code> such that this substring satisfies the property and also <code>end</code> is as maximum as possible.",
@@ -13,6 +13,6 @@
   "If you implement the <code>shrink(start, end)</code> function optimally, you'll achieve <code>O(n * 26 * 26)</code> by using partial sum."
  ],
  "sampleTestCase": "\"abba\"",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

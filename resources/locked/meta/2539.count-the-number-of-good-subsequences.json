@@ -11,6 +11,6 @@
   "For any n and k, you can calculate (n choose k) mod p in O(log p) using binary exponentiation."
  ],
  "sampleTestCase": "\"aabb\"",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

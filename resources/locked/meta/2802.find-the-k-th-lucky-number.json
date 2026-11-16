@@ -13,6 +13,6 @@
   "<div class=\"_1l1MA\">Replace <code>0</code> and <code>1</code> with <code>4</code> and <code>7</code> in the number you've obtained from the previous hint.</div>"
  ],
  "sampleTestCase": "4",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

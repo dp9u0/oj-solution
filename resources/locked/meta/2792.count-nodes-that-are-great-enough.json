@@ -11,6 +11,6 @@
   "<div class=\"_1l1MA\">Now check if the merged list has exactly <code>k</code> elements, and the current node's value is greater than the greatest element in the list, then that node is great enough.</div>"
  ],
  "sampleTestCase": "[7,6,5,4,3,2,1]\n2",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

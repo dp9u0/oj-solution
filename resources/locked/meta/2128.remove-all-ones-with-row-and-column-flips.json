@@ -13,6 +13,6 @@
   "Each row is the exact same. If we then flip some rows, that leaves only two possible arrangements for each row: the same as the original or the opposite."
  ],
  "sampleTestCase": "[[0,1,0],[1,0,1],[0,1,0]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

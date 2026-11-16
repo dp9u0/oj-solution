@@ -4,7 +4,7 @@
  "name": "会议室 II",
  "englishName": "Meeting Rooms II",
  "level": "Medium",
- "percent": 53.39,
+ "percent": 53.4,
  "hints": [
   "Think about how we would approach this problem in a very simplistic way. We will allocate rooms to meetings that occur earlier in the day v/s the ones that occur later on, right?",
   "If you've figured out that we have to <b>sort</b> the meetings by their start time, the next thing to think about is how do we do the allocation? <br>There are two scenarios possible here for any meeting. Either there is no meeting room available and a new one has to be allocated, or a meeting room has freed up and this meeting can take place there.",
@@ -12,6 +12,6 @@
   "Following up on the previous hint, we can make use of a min-heap to store the end times of the meetings in various rooms. <br><br>So, every time we want to check if any room is free or not, simply check the topmost element of the min heap as that would be the room that would get free the earliest out of all the other rooms currently occupied.\r\n\r\n<br><br>If the room we extracted from the top of the min heap isn't free, then no other room is. So, we can save time here and simply allocate a new room."
  ],
  "sampleTestCase": "[[0,30],[5,10],[15,20]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

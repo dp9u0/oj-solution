@@ -11,6 +11,6 @@
   "Alternate traversal direction using a flag (odd level vs even level)"
  ],
  "sampleTestCase": "[5,2,8,1,null,9,6]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

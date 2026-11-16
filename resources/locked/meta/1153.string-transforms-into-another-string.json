@@ -14,6 +14,6 @@
   "What if there is a character with no outgoing edge? You can use it to break all cycles!"
  ],
  "sampleTestCase": "\"aabcc\"\n\"ccdee\"",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

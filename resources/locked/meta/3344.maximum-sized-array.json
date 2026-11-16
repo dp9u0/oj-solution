@@ -4,9 +4,9 @@
  "name": "最大尺寸数组",
  "englishName": "Maximum Sized Array",
  "level": "Medium",
- "percent": 21.89,
+ "percent": 21.86,
  "hints": [],
  "sampleTestCase": "10",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

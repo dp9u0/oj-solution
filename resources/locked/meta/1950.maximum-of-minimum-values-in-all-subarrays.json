@@ -11,6 +11,6 @@
   "The answer of the queries from 1 to R-L+1 will be at least this element."
  ],
  "sampleTestCase": "[0,1,2,4]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

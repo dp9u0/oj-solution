@@ -11,6 +11,6 @@
   "If both arrays can be shifted, return -1."
  ],
  "sampleTestCase": "[2,3,4,5]\n[2,1,3,4]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

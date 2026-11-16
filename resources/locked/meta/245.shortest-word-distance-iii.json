@@ -7,6 +7,6 @@
  "percent": 58.81,
  "hints": [],
  "sampleTestCase": "[\"practice\", \"makes\", \"perfect\", \"coding\", \"makes\"]\n\"makes\"\n\"coding\"",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

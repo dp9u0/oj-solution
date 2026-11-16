@@ -9,6 +9,6 @@
   "Compute the product for each block in order, and accumulate the total of these products as the blocks are computed."
  ],
  "sampleTestCase": "3",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

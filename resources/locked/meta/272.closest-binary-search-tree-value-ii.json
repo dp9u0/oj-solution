@@ -4,7 +4,7 @@
  "name": "最接近的二叉搜索树值 II",
  "englishName": "Closest Binary Search Tree Value II",
  "level": "Hard",
- "percent": 66.5,
+ "percent": 66.51,
  "hints": [
   "Consider implement these two helper functions:\r\n<ol type=\"i\"><li><code>getPredecessor(N)</code>, which returns the next smaller node to N.</li>\r\n<li><code>getSuccessor(N)</code>, which returns the next larger node to N.</li>\r\n</ol>",
   "Try to assume that each node has a parent pointer, it makes the problem much easier.",
@@ -12,6 +12,6 @@
   "You would need two stacks to track the path in finding predecessor and successor node separately."
  ],
  "sampleTestCase": "[4,2,5,1,3]\n3.714286\n2",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

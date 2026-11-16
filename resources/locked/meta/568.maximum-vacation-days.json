@@ -11,6 +11,6 @@
   "Can we use some space to avoid redundant function calls?"
  ],
  "sampleTestCase": "[[0,1,1],[1,0,1],[1,1,0]]\n[[1,3,1],[6,0,3],[3,3,3]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

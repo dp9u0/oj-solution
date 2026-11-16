@@ -11,6 +11,6 @@
   "Handle spaces as single characters (cost 1) and reset the index counter for each new word."
  ],
  "sampleTestCase": "\"hello world\"\n0",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

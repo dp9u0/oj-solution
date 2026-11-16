@@ -4,7 +4,7 @@
  "name": "连续子序列的和",
  "englishName": "Sum of Consecutive Subsequences",
  "level": "Hard",
- "percent": 26.4,
+ "percent": 26.42,
  "hints": [
   "Try to count the number of times each element occurred in a consecutive subsequence, then you can find the answer easily.",
   "Think of dynamic programming as a solution to calculate the number in the previous hint.",
@@ -14,6 +14,6 @@
   "Do the same for decreasing consecutive subsequences."
  ],
  "sampleTestCase": "[1,2]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

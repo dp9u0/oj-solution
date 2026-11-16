@@ -7,6 +7,6 @@
  "percent": 64.07,
  "hints": [],
  "sampleTestCase": "1\n1\n0\n0",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

@@ -4,7 +4,7 @@
  "name": "给纸张涂色的方式数量",
  "englishName": "Number of Ways to Paint Sheets",
  "level": "Hard",
- "percent": 62.33,
+ "percent": 62.05,
  "hints": [
   "Sort <code>limit</code> and use binary search (<code>lower_bound</code>) to compute <code>num_ge(t)</code>, the number of colors with <code>limit >= t</code>.",
   "For a split <code>x</code>, count ordered pairs <code>(i, j)</code> with <code>i != j</code> as <code>num_ge(x) * num_ge(n - x) - num_ge(max(x, n - x))</code>.",
@@ -12,6 +12,6 @@
   "Collect all such critical <code>x</code> values, sort and deduplicate them, and treat the answer as constant between consecutive values."
  ],
  "sampleTestCase": "4\n[3,1,2]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

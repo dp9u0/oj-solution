@@ -13,6 +13,6 @@
   "Doing <code>XOR</code> again with the same number reverts the effect."
  ],
  "sampleTestCase": "31",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

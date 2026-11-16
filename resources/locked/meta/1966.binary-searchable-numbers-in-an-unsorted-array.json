@@ -11,6 +11,6 @@
   "Since any element can be chosen as the pivot, for any target NOT to be removed, the condition described in the previous hint must never occur."
  ],
  "sampleTestCase": "[7]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

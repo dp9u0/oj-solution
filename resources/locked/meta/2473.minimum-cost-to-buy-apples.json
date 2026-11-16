@@ -10,6 +10,6 @@
   "Starting from each city, use Dijkstra’s algorithm to find the best city to travel to."
  ],
  "sampleTestCase": "4\n[[1,2,4],[2,3,2],[2,4,5],[3,4,1],[1,3,4]]\n[56,42,102,301]\n2",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

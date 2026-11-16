@@ -4,11 +4,11 @@
  "name": "拆分二叉搜索树",
  "englishName": "Split BST",
  "level": "Medium",
- "percent": 59.34,
+ "percent": 59.35,
  "hints": [
   "Use recursion.  If root.val <= V, you split root.right into two halves, then join it's left half back on root.right."
  ],
  "sampleTestCase": "[4,2,6,1,3,5,7]\n2",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

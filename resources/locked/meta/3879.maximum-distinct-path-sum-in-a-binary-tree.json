@@ -12,6 +12,6 @@
   "Take the maximum over all possible starting nodes"
  ],
  "sampleTestCase": "[2,2,1]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

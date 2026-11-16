@@ -12,6 +12,6 @@
   "We don't need to go through every position, just the ones where a building starts or a building ends."
  ],
  "sampleTestCase": "[[1,4,2],[3,9,4]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

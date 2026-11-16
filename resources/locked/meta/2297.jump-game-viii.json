@@ -11,6 +11,6 @@
   "Create another integer array of length n called dp where dp[i] is the minimum cost of getting to index i."
  ],
  "sampleTestCase": "[3,2,4,4,1]\n[3,7,6,4,2]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

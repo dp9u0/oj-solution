@@ -9,6 +9,6 @@
   "Use the Inclusion-Exclusion Principle to account for the different cases of having a unique middle mode."
  ],
  "sampleTestCase": "[1,1,1,1,1,1]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

@@ -4,7 +4,7 @@
  "name": "查找树的直径端点",
  "englishName": "Find Diameter Endpoints of a Tree",
  "level": "Medium",
- "percent": 83.27,
+ "percent": 83.47,
  "hints": [
   "Start a breadth first search (BFS) from any node <code>start</code>; let the farthest node found be <code>A</code>.",
   "Run BFS from <code>A</code>; a farthest node <code>B</code> is at the other end, and the path <code>A</code>-<code>B</code> is a diameter.",
@@ -12,6 +12,6 @@
   "Running BFS from any node in <code>cand_start</code> yields the opposite-end set <code>cand_other</code>, the other diameter endpoints."
  ],
  "sampleTestCase": "3\n[[0,1],[1,2]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

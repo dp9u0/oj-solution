@@ -4,7 +4,7 @@
  "name": "子数组的最大 GCD-Sum",
  "englishName": "Maximum GCD-Sum of a Subarray",
  "level": "Hard",
- "percent": 28.65,
+ "percent": 28.69,
  "hints": [
   "Try to answer the query of asking GCD of a subarray in <code>O(1)</code> using sparse tables and preprocessing.",
   "For every index <code>L</code>, let’s find the subarray starting at the index <code>L</code> and maximizing gcd-sum.",
@@ -13,6 +13,6 @@
   "Now add <code>nums[R + 1]</code> to the current subarray and continue the process to find the last index that has the same gcd as the current gcd of elements."
  ],
  "sampleTestCase": "[2,1,4,4,4,2]\n2",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

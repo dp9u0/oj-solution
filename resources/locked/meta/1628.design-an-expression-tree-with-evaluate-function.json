@@ -12,6 +12,6 @@
   "OperatorNode Maintains the left and right nodes representing the left and right operands, and the evaluate function applies the operator to them."
  ],
  "sampleTestCase": "[\"3\",\"4\",\"+\",\"2\",\"*\",\"7\",\"/\"]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

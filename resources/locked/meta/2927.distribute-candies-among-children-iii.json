@@ -13,6 +13,6 @@
   "Apart from the above solution, there are other mathematical solutions that you can think of."
  ],
  "sampleTestCase": "5\n2",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

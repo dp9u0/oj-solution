@@ -4,9 +4,9 @@
  "name": "给单链表加一",
  "englishName": "Plus One Linked List",
  "level": "Medium",
- "percent": 60.45,
+ "percent": 60.44,
  "hints": [],
  "sampleTestCase": "[1,2,3]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

@@ -10,6 +10,6 @@
   "How do you handle the case when the resulting number has more digits than n?"
  ],
  "sampleTestCase": "2",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

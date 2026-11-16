@@ -4,13 +4,13 @@
  "name": "所有子序列和的按位或",
  "englishName": "Bitwise OR of All Subsequence Sums",
  "level": "Medium",
- "percent": 48.58,
+ "percent": 48.63,
  "hints": [
   "Think of each bit separately, i.e. try to figure out if <code>i<sup>th</sup></code> bit is set in the answer.",
   "<code>i<sup>th</sup></code> bit is set in the answer if it's set in one of the array elements or it can be made using some of them.",
   "Try to sum up lower bits and make higher bits."
  ],
  "sampleTestCase": "[2,1,0,3]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

@@ -12,6 +12,6 @@
   "Find a way to calculate the area difference between two consecutive critical points in constant time."
  ],
  "sampleTestCase": "5\n[2,5]\n\"UD\"",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

@@ -10,6 +10,6 @@
   "Keep a cursor <code>cur</code> starting at <code>lower</code>. Skip values below <code>cur</code> and stop at values above <code>upper</code>. For each remaining value <code>x</code>, record <code>[cur, x - 1]</code> if <code>cur &lt; x</code>, then set <code>cur = x + 1</code>. After the scan, record <code>[cur, upper]</code> if <code>cur &lt;= upper</code>."
  ],
  "sampleTestCase": "[3,9,7]\n1\n12",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

@@ -4,9 +4,9 @@
  "name": "通过添加或删除结尾字符来同化字符串",
  "englishName": "Equalize Strings by Adding or Removing Characters at Ends",
  "level": "Medium",
- "percent": 22.04,
+ "percent": 22.1,
  "hints": [],
  "sampleTestCase": "\"abcde\"\n\"cdef\"",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

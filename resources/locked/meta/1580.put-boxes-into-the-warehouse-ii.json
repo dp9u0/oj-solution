@@ -10,6 +10,6 @@
   "Once you put one box to the house, you can solve the problem with the same logic used to solve version I. You have a warehouse open from the left only and a warehouse open from the right only."
  ],
  "sampleTestCase": "[1,2,2,3,4]\n[3,4,1,2]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

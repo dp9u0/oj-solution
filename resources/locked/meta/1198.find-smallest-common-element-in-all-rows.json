@@ -12,6 +12,6 @@
   "Find an element whose frequency equals the number of rows."
  ],
  "sampleTestCase": "[[1,2,3,4,5],[2,4,5,8,10],[3,5,7,9,11],[1,3,5,7,9]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

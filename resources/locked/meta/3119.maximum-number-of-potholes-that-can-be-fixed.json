@@ -11,6 +11,6 @@
   "Try to fix the block from the largest one until you have enough budget."
  ],
  "sampleTestCase": "\"..\"\n5",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

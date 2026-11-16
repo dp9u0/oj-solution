@@ -13,6 +13,6 @@
   "If a character appears i times in the string, there are i * (i + 1) / 2 substrings that begin and end with that character."
  ],
  "sampleTestCase": "\"abcba\"",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

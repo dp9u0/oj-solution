@@ -12,6 +12,6 @@
   "Now that we can check if some node is a leaf, we can make the function “heightOfTree” a recursive function that returns the tree's height in which its input is the root of that subtree."
  ],
  "sampleTestCase": "[1,2,3,null,null,4,5]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

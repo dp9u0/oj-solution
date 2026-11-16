@@ -12,6 +12,6 @@
   "This means that the sum of nums1 from index a + 1 to index b is equal to the sum of nums2 from index a + 1 to index b."
  ],
  "sampleTestCase": "[1,1,0,1]\n[0,1,1,0]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

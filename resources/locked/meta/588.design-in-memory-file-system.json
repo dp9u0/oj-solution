@@ -4,9 +4,9 @@
  "name": "设计内存文件系统",
  "englishName": "Design In-Memory File System",
  "level": "Hard",
- "percent": 45.53,
+ "percent": 45.56,
  "hints": [],
  "sampleTestCase": "[\"FileSystem\",\"ls\",\"mkdir\",\"addContentToFile\",\"ls\",\"readContentFromFile\"]\n[[],[\"/\"],[\"/a/b/c\"],[\"/a/b/c/d\",\"hello\"],[\"/\"],[\"/a/b/c/d\"]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

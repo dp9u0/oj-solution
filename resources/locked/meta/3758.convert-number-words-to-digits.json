@@ -9,6 +9,6 @@
   "Parse the string from left to right as described, matching against the valid number words"
  ],
  "sampleTestCase": "\"onefourthree\"",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

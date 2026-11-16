@@ -10,6 +10,6 @@
   "For the current index, query the data structure for elements to the right with different parity and a smaller value."
  ],
  "sampleTestCase": "[5,2,4,1,3]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

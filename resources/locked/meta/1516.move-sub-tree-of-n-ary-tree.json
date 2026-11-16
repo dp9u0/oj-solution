@@ -11,6 +11,6 @@
   "If p was the root of the tree, make q the root of the tree."
  ],
  "sampleTestCase": "[1,null,2,3,null,4,5,null,6,null,7,8]\n4\n1",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

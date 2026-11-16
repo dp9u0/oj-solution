@@ -11,6 +11,6 @@
   "Use a hash table to store the valid paths along with their values."
  ],
  "sampleTestCase": "[\"FileSystem\",\"createPath\",\"get\"]\n[[],[\"/a\",1],[\"/a\"]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

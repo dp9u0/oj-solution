@@ -9,6 +9,6 @@
   "Loop over the array and check the first index i such A[i] == i"
  ],
  "sampleTestCase": "[-10,-5,0,3,7]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

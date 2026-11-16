@@ -10,6 +10,6 @@
   "If so, run a binary search to look for the minimum such valid candidate."
  ],
  "sampleTestCase": "[3,4,1,7,6]\n4\n2",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

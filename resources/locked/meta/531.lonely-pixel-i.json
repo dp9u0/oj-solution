@@ -4,9 +4,9 @@
  "name": "孤独像素 I",
  "englishName": "Lonely Pixel I",
  "level": "Medium",
- "percent": 64.8,
+ "percent": 64.83,
  "hints": [],
  "sampleTestCase": "[[\"W\",\"W\",\"B\"],[\"W\",\"B\",\"W\"],[\"B\",\"W\",\"W\"]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

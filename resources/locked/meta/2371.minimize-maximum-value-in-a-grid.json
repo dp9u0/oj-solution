@@ -10,6 +10,6 @@
   "Replace the elements in the matrix from the smallest number to the largest. Replace each element with the smallest possible number so far."
  ],
  "sampleTestCase": "[[3,1],[2,5]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

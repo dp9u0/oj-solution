@@ -10,6 +10,6 @@
   "Let dp[i][j][diff] be true if there is a path from the cell (i, j) to (m - 1, n - 1) such that the difference between the number of 0’s and the number of 1’s that we visited so far is diff, or false otherwise. The answer to the problem will be dp[0][0][0]. How do you compute this dp?"
  ],
  "sampleTestCase": "[[0,1,0,0],[0,1,0,0],[1,0,1,0]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

@@ -11,6 +11,6 @@
   "Fix the last word as <code>words[i]</code> and find the leftmost unequal <code>words[j]</code>"
  ],
  "sampleTestCase": "[\"leetcode\",\"leetcode\",\"codeforces\"]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

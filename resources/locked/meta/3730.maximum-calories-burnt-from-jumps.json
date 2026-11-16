@@ -11,6 +11,6 @@
   "Place smaller values from the front of the sorted <code>heights</code> in non-decreasing order at the odd indices."
  ],
  "sampleTestCase": "[1,7,9]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

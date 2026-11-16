@@ -13,6 +13,6 @@
   "<p>When expanding the interval to a new floor, add the travel distance and require the resulting time to be at most that floor's deadline <code>T - arrival</code>. After all requested floors are visited, check whether the elevator can reach <code>start</code> within time <code>T</code>. This gives an <code>O(m^2)</code> feasibility check and <code>O(m^2 log V)</code> overall.</p>"
  ],
  "sampleTestCase": "9\r\n0\r\n[[0,8],[6,5]]\r",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

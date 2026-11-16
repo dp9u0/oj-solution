@@ -10,6 +10,6 @@
   "Try to solve it by keeping all the users in the system with their owned chunks, and when you request a chunk, check all users for it."
  ],
  "sampleTestCase": "[\"FileSharing\",\"join\",\"join\",\"join\",\"request\",\"request\",\"leave\",\"request\",\"leave\",\"join\"]\n[[4],[[1,2]],[[2,3]],[[4]],[1,3],[2,2],[1],[2,1],[2],[[]]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

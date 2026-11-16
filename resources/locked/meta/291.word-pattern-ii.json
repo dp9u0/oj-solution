@@ -4,9 +4,9 @@
  "name": "单词规律 II",
  "englishName": "Word Pattern II",
  "level": "Medium",
- "percent": 52.89,
+ "percent": 52.88,
  "hints": [],
  "sampleTestCase": "\"abab\"\n\"redblueredblue\"",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

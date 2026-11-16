@@ -10,6 +10,6 @@
   "Try to calculate the number of occurrences of a character in a substring in <code>O(1)</code> using partial sum."
  ],
  "sampleTestCase": "\"abcaab\"\n[[0,0],[1,4],[2,5],[0,5]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

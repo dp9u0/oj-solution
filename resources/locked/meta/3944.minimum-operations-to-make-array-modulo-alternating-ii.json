@@ -12,6 +12,6 @@
   "To avoid <code>O(k<sup>2</sup>)</code>, keep the smallest and second smallest values in <code>oddCost</code>. For each <code>x</code>, use the best odd remainder unless it equals <code>x</code>, otherwise use the second best."
  ],
  "sampleTestCase": "[1,4,2,8]\n3",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

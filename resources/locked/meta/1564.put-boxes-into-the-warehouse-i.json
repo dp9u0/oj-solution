@@ -9,6 +9,6 @@
   "Sort the boxes in ascending order, try to process the box with the smallest height first."
  ],
  "sampleTestCase": "[4,3,4,1]\n[5,3,3,4,1]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

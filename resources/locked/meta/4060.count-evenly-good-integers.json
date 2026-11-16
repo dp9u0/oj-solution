@@ -4,7 +4,7 @@
  "name": "统计偶好数",
  "englishName": "Count Evenly Good Integers",
  "level": "Hard",
- "percent": 92.22,
+ "percent": 92.31,
  "hints": [
   "<p><strong>1a (Pairing).</strong> Consider pairs <code>(2k, 2k + 1)</code> for positive integers <code>k</code>. Their decimal representations differ only in the last digit, so exactly one integer in each pair is evenly good.</p>",
   "<p><strong>1b (Pairing).</strong> Count all complete pairs contained in <code>[l, r]</code>. Check any unpaired endpoint separately by counting its even digits. This takes <code>O(log r)</code> time.</p>",
@@ -12,6 +12,6 @@
   "<p><strong>2b (Digit DP).</strong> Track the digit position, whether the current prefix matches the bound, whether the number has started, and the parity of the number of even digits. Ignore leading zeros, but count zeros after the number has started. Accept completed positive numbers with even parity.</p>"
  ],
  "sampleTestCase": "18\n22",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

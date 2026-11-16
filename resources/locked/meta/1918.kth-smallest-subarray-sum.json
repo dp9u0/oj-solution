@@ -10,6 +10,6 @@
   "Can we use binary search to help find the answer?"
  ],
  "sampleTestCase": "[2,1,3]\n4",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

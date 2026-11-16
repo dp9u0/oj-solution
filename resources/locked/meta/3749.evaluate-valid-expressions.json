@@ -4,11 +4,11 @@
  "name": "计算有效表达式",
  "englishName": "Evaluate Valid Expressions",
  "level": "Hard",
- "percent": 81.33,
+ "percent": 81.4,
  "hints": [
   "Use a stack or recursion to evaluate the expression"
  ],
  "sampleTestCase": "\"add(2,3)\"",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

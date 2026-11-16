@@ -12,6 +12,6 @@
   "For each node, you only need the minimum and maximum finish times among all neighboring components to compute its finish time as the root."
  ],
  "sampleTestCase": "3\n[[0,1],[1,2]]\n[9,1,5]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

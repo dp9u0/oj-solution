@@ -11,6 +11,6 @@
   "Call the function above on the root of the tree and get k-th character of it."
  ],
  "sampleTestCase": "[10,4,\"abcpoe\",\"g\",\"rta\"]\n6",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

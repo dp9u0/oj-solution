@@ -11,6 +11,6 @@
   "Now the problem is different for each position we can sum just add 0 or 1 in order to sum the target, minimizing the deltas. This can be solved with DP."
  ],
  "sampleTestCase": "[\"0.700\",\"2.800\",\"4.900\"]\n8",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

@@ -11,6 +11,6 @@
   "Continue this process until you get to the end of the array (<code>nums.size()</code>)."
  ],
  "sampleTestCase": "[3,3,3,3,3]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

@@ -13,6 +13,6 @@
   "2b. (Small-to-Large Merging) When merging two maps at a node, two entries <code>(cnt1, sum1)</code> and <code>(cnt2, sum2)</code> for the same group contribute <code>cnt1 * sum2 + cnt2 * sum1</code>. Always merge the smaller map into the larger one."
  ],
  "sampleTestCase": "3\n[[0,1],[1,2]]\n[1,1,1]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

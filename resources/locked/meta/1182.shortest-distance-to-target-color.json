@@ -11,6 +11,6 @@
   "Calculate the answers for all indexes moving to their left and to their right."
  ],
  "sampleTestCase": "[1,1,2,1,3,2,2,3,3]\n[[1,3],[2,2],[6,1]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

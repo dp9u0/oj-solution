@@ -12,6 +12,6 @@
   "If the stack gets empty at any point, then the array is not the preorder."
  ],
  "sampleTestCase": "[[0,-1],[1,0],[2,0],[3,2],[4,2]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

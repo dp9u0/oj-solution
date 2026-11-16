@@ -10,6 +10,6 @@
   "Use the sliding window technique to keep the frequency scores."
  ],
  "sampleTestCase": "[1,1,1,2,1,2]\n3",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

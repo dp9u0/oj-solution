@@ -11,6 +11,6 @@
   "Carefully combine DP states for index <code>i</code> with those for index <code>i - 1</code>."
  ],
  "sampleTestCase": "[3,7,9]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

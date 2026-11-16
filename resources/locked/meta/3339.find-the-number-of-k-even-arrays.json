@@ -10,6 +10,6 @@
   "Store whether the last element was even or odd."
  ],
  "sampleTestCase": "3\n4\n2",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

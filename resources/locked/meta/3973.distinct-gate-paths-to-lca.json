@@ -11,6 +11,6 @@
   "For a query, find the LCA, compute the number of ways for Alice and Bob to move from their nodes to it, sum over both possible ending card colors, multiply the two values modulo <code>10<sup>9</sup> + 7</code>, then XOR it into the answer."
  ],
  "sampleTestCase": "3\n[-1,0,0]\n[[1,0,1],[0,1,1],[1,1,0]]\n[[1,0,2,0],[1,1,2,0],[1,0,2,1]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

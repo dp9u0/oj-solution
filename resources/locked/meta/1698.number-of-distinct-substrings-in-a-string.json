@@ -12,6 +12,6 @@
   "There could be collisions if you use hashing, what about double hashing."
  ],
  "sampleTestCase": "\"aabbaba\"",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

@@ -9,6 +9,6 @@
   "Use the pointer to the previous node to reach the <code>head</code> node."
  ],
  "sampleTestCase": "[1,2,3,4,5]\n5",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

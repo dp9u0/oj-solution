@@ -11,6 +11,6 @@
   "Check if the final string has any numerical digits."
  ],
  "sampleTestCase": "\"257\"",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

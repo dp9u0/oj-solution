@@ -4,9 +4,9 @@
  "name": "较小的三数之和",
  "englishName": "3Sum Smaller",
  "level": "Medium",
- "percent": 55.77,
+ "percent": 55.76,
  "hints": [],
  "sampleTestCase": "[-2,0,1,3]\n2",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

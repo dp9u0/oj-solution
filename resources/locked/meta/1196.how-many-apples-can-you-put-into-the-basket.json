@@ -11,6 +11,6 @@
   "Sort the array and take apples with smaller weight first."
  ],
  "sampleTestCase": "[100,200,150,1000]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

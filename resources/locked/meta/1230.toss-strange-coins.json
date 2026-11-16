@@ -12,6 +12,6 @@
   "For the base case, when pos == n return (cnt == target) to filter out the invalid scenarios."
  ],
  "sampleTestCase": "[0.4]\n1",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

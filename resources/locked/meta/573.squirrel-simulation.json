@@ -4,7 +4,7 @@
  "name": "松鼠模拟",
  "englishName": "Squirrel Simulation",
  "level": "Medium",
- "percent": 65.65,
+ "percent": 65.66,
  "hints": [
   "Will Brute force solution works here? What will be its complexity?",
   "Brute force definitely won't work here. Think of some simple solution. Take some example and make some observations.",
@@ -13,6 +13,6 @@
   "Did you notice only first nut traversed by squirrel matters? Obviously squirrel will choose first nut which will result in minimum distance."
  ],
  "sampleTestCase": "5\n7\n[2,2]\n[4,4]\n[[3,0], [2,5]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

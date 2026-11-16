@@ -10,6 +10,6 @@
   "What is the maximum number of segments if we took the minimum number of elements left on both the current segments every time?"
  ],
  "sampleTestCase": "[[1,3],[2,3]]\n[[6,3],[3,3]]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

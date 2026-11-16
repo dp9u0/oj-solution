@@ -4,9 +4,9 @@
  "name": "路径总和 IV",
  "englishName": "Path Sum IV",
  "level": "Medium",
- "percent": 58.83,
+ "percent": 58.84,
  "hints": [],
  "sampleTestCase": "[113,215,221]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

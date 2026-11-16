@@ -12,6 +12,6 @@
   "The length of all equal count substrings are multiples of count."
  ],
  "sampleTestCase": "\"aaabcbbcc\"\n3",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

@@ -11,6 +11,6 @@
   "If it is neither a 3-equal nor a 2-equal, then it is impossible."
  ],
  "sampleTestCase": "\"000111000\"",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

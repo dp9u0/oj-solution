@@ -12,6 +12,6 @@
   "Sort characters and append them to a string in alphabetical order."
  ],
  "sampleTestCase": "\"a3c9b2c1\"",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

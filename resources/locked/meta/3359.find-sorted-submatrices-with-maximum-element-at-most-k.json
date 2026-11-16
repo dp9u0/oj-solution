@@ -10,6 +10,6 @@
   "Store for each element <code>grid[i][j]</code>, the longest increasing subarray of <code>grid[i]</code> ending at index <code>j</code>."
  ],
  "sampleTestCase": "[[4,3,2,1],[8,7,6,1]]\n3",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

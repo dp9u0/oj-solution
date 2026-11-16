@@ -4,7 +4,7 @@
  "name": "检查一个数是否在数组中占绝大多数",
  "englishName": "Check If a Number Is Majority Element in a Sorted Array",
  "level": "Easy",
- "percent": 60.75,
+ "percent": 60.71,
  "hints": [
   "How to check if a given number target is a majority element?.",
   "Find the frequency of target and compare it to the length of the array.",
@@ -12,6 +12,6 @@
   "Using Binary Search, find the first and last occurrences of A. Then just calculate the difference between the indexes of these occurrences."
  ],
  "sampleTestCase": "[2,4,5,5,5,5,5,6,6]\n5",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

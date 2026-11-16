@@ -10,6 +10,6 @@
   "The answer will be the sum of the number of subarrays that end at each index."
  ],
  "sampleTestCase": "[1,3,5,4,4,6]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

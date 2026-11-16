@@ -10,6 +10,6 @@
   "For every two strings, check if they can form a puzzle by comparing their last and first words."
  ],
  "sampleTestCase": "[\"writing code\",\"code rocks\"]",
- "hasDescription": false,
- "fetchedAt": "2026-11-10"
+ "hasDescription": true,
+ "fetchedAt": "2026-11-16"
 }

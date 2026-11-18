@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode id=2567 lang=javascript
+ * @lc app=leetcode.cn id=2567 lang=javascript
  *
- * [2567] Minimum Score by Changing Two Elements
+ * [2567] 修改两个元素的最小分数
  */
 
 // @lc code=start
@@ -21,6 +21,10 @@ var minimizeSum = function(nums) {
 // @lc code=end
 
 // TEST:
-console.log(minimizeSum([1,4,7,8,5])); // 3
-console.log(minimizeSum([1,4,3]));     // 0
-console.log(minimizeSum([1,2,3,4]));   // 1
+console.log(minimizeSum([1,4,3]));          // 0
+console.log(minimizeSum([1,4,7,8,5]));      // 3
+console.log(minimizeSum([1,1,1]));          // 0
+console.log(minimizeSum([5,5,5,5]));        // 0
+console.log(minimizeSum([2,10,14,20]));     // 4
+console.log(minimizeSum([3,100,200]));      // 0
+console.log(minimizeSum([10,1,53,84,3]));   // 9

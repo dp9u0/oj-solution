@@ -1,0 +1,77 @@
+# [489] 扫地机器人
+
+## Description
+
+
+```md
+https://leetcode.cn/problems/robot-room-cleaner/description/
+* algorithms
+* Hard (62.86%)
+* Likes:    251
+* Dislikes: -
+* Testcase Example:  '[[1,1,1,1,1,0,1,1],[1,1,1,1,1,0,1,1],[1,0,1,1,1,1,1,1],[0,0,0,1,0,0,0,0],[1,1,1,1,1,1,1,1]]\n' +
+'1\n' +
+'3'
+房间中的某个位置上有一个机器人，你需要控制它清扫房间。房间被建模为一个 m x n 的二进制网格，其中 0 表示单元格中有障碍物，1 表示空单元格。
+机器人从一个未知的空单元格开始出发，并且你无法访问网格，但你可以使用给定的 API Robot 控制机器人。
+你的任务是使用机器人清扫整个房间（即清理房间中的每个空单元格）。机器人具有四个给定的API，可以前进、向左转或向右转。每次转弯 90 度。
+当机器人试图移动到一个存在障碍物的单元格时，它的碰撞传感器会检测到障碍物，并停留在当前单元格。
+设计一个算法，使用下述 API 清扫整个房间：
+interface Robot {
+// 若下一个单元格为空，则返回 true ，并移动至该单元格。
+// 若下一个单元格为障碍物，则返回 false ，并停留在当前单元格。
+boolean move();
+// 在调用 turnLeft/turnRight 后机器人会停留在当前单元格。
+// 每次转弯 90 度。
+void turnLeft();
+void turnRight();
+// 清理当前单元格。
+void clean();
+}
+注意 扫地机器人的初始方向向上。你可以假定网格的四周都被墙包围。
+
+自定义测试：
+输入只用于初始化房间和机器人的位置。你需要「盲解」这个问题。换而言之，你必须在对房间和机器人位置一无所知的情况下，只使用 4 个给出的 API 解决问题。
+
+示例 1：
+输入：room = [[1,1,1,1,1,0,1,1],[1,1,1,1,1,0,1,1],[1,0,1,1,1,1,1,1],[0,0,0,1,0,0,0,0],[1,1,1,1,1,1,1,1]], row = 1, col = 3
+输出：Robot cleaned all rooms.
+解释：
+房间内的所有单元格用 0 或 1 填充。
+0 表示障碍物，1 表示可以通过。
+机器人从 row=1, col=3 的初始位置出发。
+在左上角的一行以下，三列以右。
+示例 2：
+输入：room = [[1]], row = 0, col = 0
+输出：Robot cleaned all rooms.
+
+提示：
+m == room.length
+n == room[i].length
+1 <= m <= 100
+1 <= n <= 200
+room[i][j] 为 0 或 1.
+0 <= row < m
+0 <= col < n
+room[row][col] == 1
+所有空单元格都可以从起始位置出发访问到。
+
+```
+
+## Solution
+
+[SourceCode](./solution.js)
+
+## Translation
+
+A robot is in a room (grid, 1 = open, 0 = wall/obstacle). API: `move()` (forward only, false if blocked), `turnLeft()`/`turnRight()` (90°), `clean()`. Clean every reachable open cell. Robot has no absolute coordinates — you must track them yourself.
+
+## Approach
+
+**回溯 + 方位追踪**。维护逻辑坐标 (x, y) 与方向 d(上右下左):
+
+- 进入格子:`clean()` 并标记 visited。
+- 依次尝试 4 个方向:前方未访问且 `move()` 成功 → 递归;回来时转 180° `move()` 退回原格再转 180° 还原朝向(goBack)。
+- 每轮结束 `turnRight()` 换下一方向;4 轮后朝向恰好还原。
+
+visited 集合去重保证每格只清一次;复杂度 O(4^(可走格数)) 上界,实际由图规模决定,标准解。

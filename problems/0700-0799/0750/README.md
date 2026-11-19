@@ -1,0 +1,52 @@
+# [750] 角矩形的数量
+
+## Description
+
+
+```md
+https://leetcode.cn/problems/number-of-corner-rectangles/description/
+* algorithms
+* Medium (72.13%)
+* Likes:    108
+* Dislikes: -
+* Testcase Example:  '[[1,0,0,1,0],[0,0,1,0,1],[0,0,0,1,0],[1,0,1,0,1]]'
+给定一个只包含 0 和 1 的 m x n 整数矩阵 grid ，返回 其中 「角矩形 」的数量 。
+一个「角矩形」是由四个不同的在矩阵上的 1 形成的 轴对齐 的矩形。注意只有角的位置才需要为 1。
+注意：4 个 1 的位置需要是不同的。
+
+示例 1：
+输入：grid = [[1,0,0,1,0],[0,0,1,0,1],[0,0,0,1,0],[1,0,1,0,1]]
+输出：1
+解释：只有一个角矩形，角的位置为 grid[1][2], grid[1][4], grid[3][2], grid[3][4]。
+示例 2：
+输入：grid = [[1,1,1],[1,1,1],[1,1,1]]
+输出：9
+解释：这里有 4 个 2x2 的矩形，4 个 2x3 和 3x2 的矩形和 1 个 3x3 的矩形。
+示例 3：
+输入：grid = [[1,1,1,1]]
+输出：0
+解释：矩形必须有 4 个不同的角。
+
+提示：
+m == grid.length
+n == grid[i].length
+1 <= m, n <= 200
+grid[i][j] 不是 0 就是 1
+网格中 1 的个数在 [1, 6000] 范围内
+Hint 1: For each pair of 1s in the new row (say at `new_row[i]` and `new_row[j]`), we could create more rectangles where that pair forms the base.  The number of new rectangles is the number of times some previous row had `row[i] = row[j] = 1`.
+
+```
+
+## Solution
+
+[SourceCode](./solution.js)
+
+## Translation
+
+Count axis-aligned rectangles whose four corners are all 1s in a binary grid (edges may pass through anything).
+
+- Example: [[1,0,0,1,0],[0,0,1,0,1],[0,0,0,1,0],[1,0,1,0,1]] → `1` (corners in rows 1&3, cols 2&4)
+
+## Approach
+
+**列对计数**。逐行收集 1 的列,对行内每一对列 (c1,c2):答案 += 该列对已出现次数,然后计数 +1。两行共享 ≥2 个列对即贡献 C(共享数,2) 个角矩形,枚举被自动分解到列对。O(R·C²/2),150 内毫无压力。

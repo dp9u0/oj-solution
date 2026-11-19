@@ -1,0 +1,60 @@
+# [1066] 校园自行车分配 II
+
+## Description
+
+
+```md
+https://leetcode.cn/problems/campus-bikes-ii/description/
+* algorithms
+* Medium (54.10%)
+* Likes:    120
+* Dislikes: -
+* Testcase Example:  '[[0,0],[2,1]]\n[[1,2],[3,3]]'
+在由 2D 网格表示的校园里有 n 位工人（worker）和 m 辆自行车（bike），n <= m。所有工人和自行车的位置都用网格上的 2D 坐标表示。
+我们为每一位工人分配一辆专属自行车，使每个工人与其分配到的自行车之间的 曼哈顿距离 最小化。
+返回 每个工人与分配到的自行车之间的曼哈顿距离的最小可能总和 。
+p1 和 p2 之间的 曼哈顿距离 为 Manhattan(p1, p2) =
+p1.x - p2.x
++
+p1.y - p2.y
+。
+
+示例 1：
+输入：workers = [[0,0],[2,1]], bikes = [[1,2],[3,3]]
+输出：6
+解释：
+自行车 0 分配给工人 0，自行车 1 分配给工人 1 。分配得到的曼哈顿距离都是 3, 所以输出为 6 。
+示例 2：
+输入：workers = [[0,0],[1,1],[2,0]], bikes = [[1,0],[2,2],[2,1]]
+输出：4
+解释：
+先将自行车 0 分配给工人 0，再将自行车 1 分配给工人 1（或工人 2），自行车 2 给工人 2（或工人 1）。如此分配使得曼哈顿距离的总和为 4。
+示例 3:
+输入：workers = [[0,0],[1,0],[2,0],[3,0],[4,0]], bikes = [[0,999],[1,999],[2,999],[3,999],[4,999]]
+输出：4995
+
+提示：
+n == workers.length
+m == bikes.length
+1 <= n <= m <= 10
+workers[i].length == 2
+bikes[i].length == 2
+0 <= workers[i][0], workers[i][1], bikes[i][0], bikes[i][1] < 1000
+所有的工人和自行车的位置都是 不同 的。
+Hint 1: Model the problem with a dp(pos, mask) where pos represents the current bike to be assigned and mask the set of available workers.
+
+```
+
+## Solution
+
+[SourceCode](./solution.js)
+
+## Translation
+
+Assign each worker a distinct bike minimizing the TOTAL sum of Manhattan distances (n ≤ m ≤ 10). Return the minimal total.
+
+- Example: workers=[[0,0],[2,1]], bikes=[[1,2],[3,3]] → `6`
+
+## Approach
+
+**位掩码记忆化 DP**。dp(i, mask):工人 i..n−1 使用未被 mask 占用的自行车的最小总距离。转移枚举 bikes 中未用的一辆:min(dp) = dist(i,b) + dp(i+1, mask|1<<b);dp(n,·)=0。状态 n × 2^m ≤ 10 × 1024,Map 记忆化,深度 ≤ 10。

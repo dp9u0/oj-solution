@@ -1,0 +1,59 @@
+# [1273] 删除树节点
+
+## Description
+
+
+```md
+https://leetcode.cn/problems/delete-tree-nodes/description/
+* algorithms
+* Medium (58.54%)
+* Likes:    49
+* Dislikes: -
+* Testcase Example:  '7\n[-1,0,0,1,2,2,2]\n[1,-2,4,0,-2,-1,-1]'
+给你一棵以节点 0 为根节点的树，定义如下：
+节点的总数为 nodes 个；
+第 i 个节点的值为 value[i] ；
+第 i 个节点的父节点是 parent[i] 。
+请你删除节点值之和为 0 的每一棵子树。
+在完成所有删除之后，返回树中剩余节点的数目。
+
+示例 1：
+输入：nodes = 7, parent = [-1,0,0,1,2,2,2], value = [1,-2,4,0,-2,-1,-1]
+输出：2
+示例 2：
+输入：nodes = 7, parent = [-1,0,0,1,2,2,2], value = [1,-2,4,0,-2,-1,-2]
+输出：6
+示例 3：
+输入：nodes = 5, parent = [-1,0,1,0,0], value = [-672,441,18,728,378]
+输出：5
+示例 4：
+输入：nodes = 5, parent = [-1,0,0,1,1], value = [-686,-842,616,-739,-746]
+输出：5
+
+提示：
+1 <= nodes <= 10^4
+parent.length == nodes
+0 <= parent[i] <= nodes - 1
+parent[0] == -1 表示节点 0 是树的根。
+value.length == nodes
+-10^5 <= value[i] <= 10^5
+题目输入数据 保证 是一棵 有效的树 。
+Hint 1: Traverse the tree using depth first search.
+Hint 2: Find for every node the sum of values of its sub-tree.
+Hint 3: Traverse the tree again from the root and return once you reach a node with zero sum of values in its sub-tree.
+
+```
+
+## Solution
+
+[SourceCode](./solution.js)
+
+## Translation
+
+Remove every subtree whose value sum is 0; return the remaining node count.
+
+- Example: nodes=7, parent=[-1,0,0,1,2,2,2], value=[1,-2,4,0,-2,-1,-1] → `2`
+
+## Approach
+
+**逆序自底向上**。BFS 得层序,逆序处理(孩子先于父亲):归并各子树 (sum, cnt),sum==0 则该子树整体 cnt=0 向上传播。O(n) 迭代无递归栈风险。

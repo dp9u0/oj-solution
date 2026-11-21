@@ -1,59 +1,78 @@
-# [2124] Check if All A's Appears Before All B's
+# [2124] 检查是否所有 A 都在 B 之前
 
 ## Description
 
-[LeetCode Problem Description](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/description/)
-
-* algorithms
-* Easy (73.19%)
-* Likes:    850
-* Dislikes: 22
-* Testcase Example:  '"aaabbb"'
 
 ```md
-Given a string s consisting of only the characters &#39;a&#39; and &#39;b&#39;, return true if every &#39;a&#39; appears before every &#39;b&#39; in the string. Otherwise, return false.
+https://leetcode.cn/problems/check-if-all-as-appears-before-all-bs/description/
+* algorithms
+* Easy (69.66%)
+* Likes:    24
+* Dislikes: -
+* Testcase Example:  '"aaabbb"'
+给你一个 仅 由字符 'a' 和 'b' 组成的字符串  s 。如果字符串中 每个  'a' 都出现在 每个 'b' 之前，返回 true ；否则，返回 false 。
 
-Example 1:
+示例 1：
+输入：s = "aaabbb"
+输出：true
+解释：
+'a' 位于下标 0、1 和 2 ；而 'b' 位于下标 3、4 和 5 。
+因此，每个 'a' 都出现在每个 'b' 之前，所以返回 true 。
+示例 2：
+输入：s = "abab"
+输出：false
+解释：
+存在一个 'a' 位于下标 2 ，而一个 'b' 位于下标 1 。
+因此，不能满足每个 'a' 都出现在每个 'b' 之前，所以返回 false 。
+示例 3：
+输入：s = "bbb"
+输出：true
+解释：
+不存在 'a' ，因此可以视作每个 'a' 都出现在每个 'b' 之前，所以返回 true 。
 
-Input: s = 'aaabbb'
-Output: true
-Explanation:
-The &#39;a&#39;s are at indices 0, 1, and 2, while the &#39;b&#39;s are at indices 3, 4, and 5.
-Hence, every &#39;a&#39; appears before every &#39;b&#39; and we return true.
-
-Example 2:
-
-Input: s = 'abab'
-Output: false
-Explanation:
-There is an &#39;a&#39; at index 2 and a &#39;b&#39; at index 1.
-Hence, not every &#39;a&#39; appears before every &#39;b&#39; and we return false.
-
-Example 3:
-
-Input: s = 'bbb'
-Output: true
-Explanation:
-There are no &#39;a&#39;s, hence, every &#39;a&#39; appears before every &#39;b&#39; and we return true.
-
-
-Constraints:
-
+提示：
 1 <= s.length <= 100
-s[i] is either &#39;a&#39; or &#39;b&#39;.
-
+s[i] 为 'a' 或 'b'
+Hint 1: You can check the opposite: check if there is a ‘b’ before an ‘a’. Then, negate and return that answer.
+Hint 2: s should not have any occurrences of “ba” as a substring.
 
 ```
 
-## 翻译
+## Description (English)
 
-给定只含 'a' 和 'b' 的字符串，判断是否所有 'a' 都出现在所有 'b' 之前。
+Given a string `s` consisting of only the characters 'a' and 'b', return `true` if every 'a' appears before every 'b' in the string. Otherwise, return `false`.
+
+Example 1:
+Input: s = "aaabbb"
+Output: true
+Explanation:
+The 'a's are at indices 0, 1, and 2, while the 'b's are at indices 3, 4, and 5.
+Therefore, every 'a' appears before every 'b', so we return true.
+
+Example 2:
+Input: s = "abab"
+Output: false
+Explanation:
+There is an 'a' at index 2 and a 'b' at index 1.
+Therefore, not every 'a' appears before every 'b', so we return false.
+
+Example 3:
+Input: s = "bbb"
+Output: true
+Explanation:
+There are no 'a's, hence every 'a' appears before every 'b', so we return true.
+
+Constraints:
+- 1 <= s.length <= 100
+- s[i] is either 'a' or 'b'
 
 ## Approach
 
-检查字符串中是否出现 "ba" 子串。如果有 "ba" 说明有 b 在 a 之前，返回 false。
+The condition "every 'a' appears before every 'b'" is violated exactly when the substring "ba" exists in `s` — a 'b' followed later by an 'a' implies somewhere an adjacent "ba" pair.
 
-时间复杂度 O(n)，空间复杂度 O(1)。
+So the check is simple: return `!s.includes("ba")`.
+
+Time complexity: O(n), Space complexity: O(1).
 
 ## Solution
 

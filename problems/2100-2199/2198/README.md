@@ -1,0 +1,71 @@
+# [2198] 单因数三元组
+
+## Description
+
+
+```md
+https://leetcode.cn/problems/number-of-single-divisor-triplets/description/
+* algorithms
+* Medium (48.77%)
+* Likes:    5
+* Dislikes: -
+* Testcase Example:  '[4,6,7,3,2]'
+给定一个下标从 0 开始的正整数数组 nums。由三个 不同 索引 (i, j, k) 组成的三元组，如果 nums[i] + nums[j] + nums[k] 能被 nums[i]、nums[j] 或 nums[k] 中的 一个 整除，则称为 nums 的 单因数三元组。
+返回 nums 的单因数三元组。
+
+示例 1:
+输入: nums = [4,6,7,3,2]
+输出: 12
+解释:
+三元组索引 (0, 3, 4), (0, 4, 3), (3, 0, 4), (3, 4, 0), (4, 0, 3), 和 (4, 3, 0) 的值为 [4, 3, 2] (或者说排列为 [4, 3, 2]).
+4 + 3 + 2 = 9 只能被 3 整除，所以所有的三元组都是单因数三元组。
+三元组索引 (0, 2, 3), (0, 3, 2), (2, 0, 3), (2, 3, 0), (3, 0, 2), 和 (3, 2, 0) 的值为 [4, 7, 3]  (或者说排列为 [4, 7, 3]).
+4 + 7 + 3 = 14 只能被 7 整除，所以所有的三元组都是单因数三元组。
+一共有 12 个单因数三元组。
+示例 2:
+输入: nums = [1,2,2]
+输出: 6
+提示:
+三元组索引 (0, 1, 2), (0, 2, 1), (1, 0, 2), (1, 2, 0), (2, 0, 1), 和 (2, 1, 0) 的值为 [1, 2, 2] (或者说排列为 [1, 2, 2]).
+1 + 2 + 2 = 5 只能被 1 整除，所以所有的三元组都是单因数三元组。
+一共有6个单因数三元组。
+示例 3:
+输入: nums = [1,1,1]
+输出: 0
+提示:
+没有单因数三元组。
+注意 (0, 1, 2) 不是单因数三元组。 因为 nums[0] + nums[1] + nums[2] = 3，3 可以被 nums[0], nums[1], nums[2] 整除。
+
+提示:
+3 <= nums.length <= 105
+1 <= nums[i] <= 100
+Hint 1: The maximum value of nums.length is very large, but the maximum value of nums[i] is not.
+Hint 2: Count the number of times each value appears in nums. Brute force through every possible combination of values and count how many single divisor triplets can be made with that combination of values.
+
+```
+
+## Solution
+
+[SourceCode](./solution.js)
+
+## English Translation
+
+A triplet of three distinct indices (i, j, k) is a single divisor triplet if nums[i]+nums[j]+nums[k] is divisible by exactly one of nums[i], nums[j], nums[k]. Count such triplets (ordered index triplets).
+
+Example 1:
+Input: nums = [4,6,7,3,2]
+Output: 12
+
+Example 2:
+Input: nums = [1,2,2]
+Output: 6
+
+Example 3:
+Input: nums = [1,1,1]
+Output: 0
+
+Constraints: 3 <= nums.length <= 10^5, 1 <= nums[i] <= 100.
+
+## Approach
+
+Values are <= 100, so count occurrences and enumerate unordered value triples (a <= b <= c): ~1.7e5 combinations. For each, compute s = a+b+c and count divisors among {a, b, c}; if exactly one, add the arrangement count by multiplicity: all distinct -> cnt products * 6; two equal -> C(cnt,2) products * 3; all equal -> C(cnt,3).

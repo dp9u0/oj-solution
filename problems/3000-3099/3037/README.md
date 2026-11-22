@@ -1,0 +1,48 @@
+# [3037] 在无限流中寻找模式 II
+
+## Description
+
+
+```md
+https://leetcode.cn/problems/find-pattern-in-infinite-stream-ii/description/
+* algorithms
+* Hard (36.73%)
+* Likes:    1
+* Dislikes: -
+* Testcase Example:  '[1,1,1,0,1]\n[0,1]'
+给定一个二进制数组 pattern 和一个类 InfiniteStream 的对象 stream 表示一个下标从 0 开始的二进制位无限流。
+类 InfiniteStream 包含下列函数：
+int next()：从流中读取 一个 二进制位 （是 0 或 1）并返回。
+返回 第一个使得模式匹配流中读取的二进制位的 开始下标。例如，如果模式是 [1, 0]，第一个匹配是流中的高亮部分 [0, 1, 0, 1, ...]。
+
+示例 1：
+输入: stream = [1,1,1,0,1,1,1,...], pattern = [0,1]
+输出: 3
+解释: 模式 [0,1] 的第一次出现在流中高亮 [1,1,1,0,1,...]，从下标 3 开始。
+示例 2：
+输入: stream = [0,0,0,0,...], pattern = [0]
+输出: 0
+解释: 模式 [0] 的第一次出现在流中高亮 [0,...]，从下标 0 开始。
+示例 3：
+输入: stream = [1,0,1,1,0,1,1,0,1,...], pattern = [1,1,0,1]
+输出: 2
+解释: 模式 [1,1,0,1] 的第一次出现在流中高亮 [1,0,1,1,0,1,...]，从下标 2 开始。
+
+提示：
+1 <= pattern.length <= 104
+pattern 只包含 0 或 1。
+stream 只包含 0 或 1。
+生成的输入使模式的开始下标在流的前 105 个二进制位中。
+Hint 1: Use the KMP algorithm.
+
+```
+
+## Solution
+
+[SourceCode](./solution.js)
+
+## 思路 (Approach)
+
+Problem (EN): Same as 3023 (find first occurrence of a binary pattern in an interactive infinite stream) with larger constraints (pattern up to 1e5, answer within first 1e6 bits).
+
+Approach: identical KMP automaton — failure function precomputed, stream bits consumed one at a time, return idx - m + 1 when the state reaches m.

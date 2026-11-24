@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode id=3934 lang=javascript
+ * @lc app=leetcode.cn id=3934 lang=javascript
  *
- * [3934] Minimum Length of Unique Subarray
+ * [3934] 最短唯一子数组
  */
 
 // @lc code=start
@@ -13,32 +13,38 @@ var smallestUniqueSubarray = function(nums) {
   const n = nums.length;
   const M1 = 1000000007;
   const M2 = 998244353;
-  const B = 131;
-  const powB1 = Array(n + 1).fill(1);
-  const powB2 = Array(n + 1).fill(1);
+  // bases kept small so every intermediate product stays < 2^53
+  const B1 = 131 + Math.floor(Math.random() * 8000);
+  const B2 = 131 + Math.floor(Math.random() * 8000);
+  const pw1 = Array(n + 1).fill(1);
+  const pw2 = Array(n + 1).fill(1);
   for (let i = 1; i <= n; i++) {
-    powB1[i] = powB1[i - 1] * B % M1;
-    powB2[i] = powB2[i - 1] * B % M2;
+    pw1[i] = pw1[i - 1] * B1 % M1;
+    pw2[i] = pw2[i - 1] * B2 % M2;
   }
-  const hasUnique = (L) => {
+  // f(len): does some length-len subarray occur exactly once?
+  const hasUnique = (len) => {
+    const counts = new Map();
     let h1 = 0;
     let h2 = 0;
-    const counts = new Map();
     for (let i = 0; i < n; i++) {
-      h1 = (h1 * B + nums[i]) % M1;
-      h2 = (h2 * B + nums[i]) % M2;
-      if (i >= L) {
-        h1 = (h1 - nums[i - L] * powB1[L] % M1 + M1) % M1;
-        h2 = (h2 - nums[i - L] * powB2[L] % M2 + M2) % M2;
+      h1 = (h1 * B1 + nums[i]) % M1;
+      h2 = (h2 * B2 + nums[i]) % M2;
+      if (i >= len) {
+        h1 = (h1 - nums[i - len] * pw1[len] % M1 + M1) % M1;
+        h2 = (h2 - nums[i - len] * pw2[len] % M2 + M2) % M2;
       }
-      if (i >= L - 1) {
-        const key = h1 * 4000000000 + h2;
+      if (i >= len - 1) {
+        const key = h1 + '_' + h2;
         counts.set(key, (counts.get(key) || 0) + 1);
       }
     }
     for (const c of counts.values()) if (c === 1) return true;
     return false;
   };
+  // f is monotone: a unique subarray can be extended in at least one
+  // direction while staying unique (the only non-extendable case is len=n,
+  // where the whole array is trivially unique). Binary search minimal len.
   let lo = 1;
   let hi = n;
   while (lo < hi) {
@@ -51,30 +57,34 @@ var smallestUniqueSubarray = function(nums) {
 // @lc code=end
 
 // TEST:
-console.log(smallestUniqueSubarray([3, 3, 3]) === 3);
-console.log(smallestUniqueSubarray([2, 1, 2, 3, 3]) === 1);
-console.log(smallestUniqueSubarray([1]) === 1);
-console.log(smallestUniqueSubarray([1, 1, 2, 2]) === 2);
-console.log(smallestUniqueSubarray([5, 5, 5, 5, 6]) === 1);
+console.log(smallestUniqueSubarray([3, 3, 3]) === 3); // 1
+console.log(smallestUniqueSubarray([2, 1, 2, 3, 3]) === 1); // 2
+console.log(smallestUniqueSubarray([1, 1, 2, 2, 1]) === 2); // 3
+console.log(smallestUniqueSubarray([1]) === 1); // 4
+console.log(smallestUniqueSubarray(Array(8).fill(1)) === 8); // 5
+console.log(smallestUniqueSubarray([1, 2, 1, 2, 1, 2]) === 4); // 6
 
-// brute for small n
-function brute(nums) {
+// brute-force cross check on small random arrays
+const brute = (nums) => {
   const n = nums.length;
-  for (let L = 1; L <= n; L++) {
-    const m = new Map();
-    for (let i = 0; i + L <= n; i++) {
-      const k = nums.slice(i, i + L).join(',');
-      m.set(k, (m.get(k) || 0) + 1);
+  for (let len = 1; len <= n; len++) {
+    const cnt = new Map();
+    for (let l = 0; l + len <= n; l++) {
+      const k = nums.slice(l, l + len).join(',');
+      cnt.set(k, (cnt.get(k) || 0) + 1);
     }
-    for (const c of m.values()) if (c === 1) return L;
+    for (const c of cnt.values()) if (c === 1) return len;
   }
   return n;
+};
+for (let t = 0; t < 200; t++) {
+  const m = 1 + Math.floor(Math.random() * 30);
+  const arr = Array.from({ length: m }, () => 1 + Math.floor(Math.random() * 3));
+  const a = smallestUniqueSubarray(arr);
+  const b = brute(arr);
+  if (a !== b) {
+    console.log('MISMATCH', arr.join(','), 'got', a, 'want', b);
+    break;
+  }
 }
-let seed = 6;
-const rnd = () => (seed = (seed * 1103515245 + 12345) & 0x7fffffff) % 3 + 1;
-let ok = true;
-for (let t = 0; t < 300; t++) {
-  const arr = Array.from({ length: 1 + t % 14 }, rnd);
-  if (smallestUniqueSubarray(arr.slice()) !== brute(arr.slice())) { ok = false; console.log('MISMATCH', JSON.stringify(arr)); break; }
-}
-console.log(ok);
+console.log('brute cross-check done');

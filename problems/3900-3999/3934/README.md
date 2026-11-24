@@ -1,69 +1,59 @@
-# [3934] Smallest Unique Subarray
+# [3934] 最短唯一子数组
 
 ## Description
 
-[LeetCode Problem Description](https://leetcode.com/problems/smallest-unique-subarray/description/)
-
-* algorithms
-* Hard (39.83%)
-* Likes:    67
-* Dislikes: 5
-* Testcase Example:  '[3,3,3]'
 
 ```md
-You are given an integer array nums.
-Find the minimum length of a subarray that is not identical to any other subarray in nums.
-Return an integer denoting the minimum possible length of such a subarray.
-Two subarrays are considered identical if they have the same length and the same elements in corresponding positions.
+https://leetcode.cn/problems/smallest-unique-subarray/description/
+* algorithms
+* Hard (55.01%)
+* Likes:    7
+* Dislikes: -
+* Testcase Example:  '[3,3,3]'
+给你一个整数数组 nums 。
+找出 nums 中与其他任何 子数组 均 不 相同 的 子数组 的 最小 长度。
+返回一个整数，表示此类 子数组 的 最小可能长度 。
+子数组 是数组中的一个连续的非空元素序列。
+如果两个 子数组 具有相同的长度，并且对应位置的元素也相同，则认为这两个 子数组 是相同的。
 
-Example 1:
+示例 1：
+输入： nums = [3,3,3]
+输出： 3
+解释：
+长度为 1 的子数组：[3] → 出现 3 次
+长度为 2 的子数组：[3, 3] → 出现 2 次
+长度为 3 的子数组：[3, 3, 3] → 出现 1 次
+子数组 [3, 3, 3] 是唯一的，因此最小唯一子数组的长度为 3。
+示例 2：
+输入： nums = [2,1,2,3,3]
+输出： 1
+解释：
+长度为 1 的子数组：
+[2] → 出现 2 次
+[1] → 出现 1 次
+[3] → 出现 2 次
+子数组 [1] 是唯一的，因此最小唯一子数组的长度为 1。
+示例 3：
+输入： nums = [1,1,2,2,1]
+输出： 2
+解释：
+长度为 1 的子数组：
+[1] → 出现 3 次
+[2] → 出现 2 次
+长度为 2 的子数组：
+[1, 1] → 出现 1 次
+[1, 2] → 出现 1 次
+[2, 2] → 出现 1 次
+[2, 1] → 出现 1 次
+至少有一个长度为 2 的子数组是唯一的，因此最小唯一子数组的长度为 2。
 
-Input: nums = [3,3,3]
-Output: 3
-Explanation:
-
-Subarrays of length 1: [3] &rarr; appears 3 times
-Subarrays of length 2: [3, 3] &rarr; appears 2 times
-Subarrays of length 3: [3, 3, 3] &rarr; appears once
-
-The subarray [3, 3, 3] is unique, so the smallest unique subarray length is 3.
-
-Example 2:
-
-Input: nums = [2,1,2,3,3]
-Output: 1
-Explanation:
-Subarrays of length 1:
-
-[2] &rarr; appears 2 times
-[1] &rarr; appears once
-[3] &rarr; appears 2 times
-
-The subarray [1] is unique, so the smallest unique subarray length is 1.
-Example 3:
-
-Input: nums = [1,1,2,2,1]
-Output: 2
-Explanation:
-Subarrays of length 1:
-
-[1] &rarr; appears 3 times
-[2] &rarr; appears 2 times
-
-Subarrays of length 2:
-
-[1, 1] &rarr; appears once
-[1, 2] &rarr; appears once
-[2, 2] &rarr; appears once
-[2, 1] &rarr; appears once
-
-There is at least one subarray of length 2 that is unique, so the smallest unique subarray length is 2.
-
-Constraints:
-
+提示：
 1 <= nums.length <= 105
 1 <= nums[i] <= 105
-
+Hint 1: Think in terms of checking a fixed length len: count all subarrays of length len, and see whether any one appears exactly once.
+Hint 2: Use rolling hash so each subarray can be represented in O(1) after preprocessing, instead of comparing arrays directly.
+Hint 3: The answer can be binary searched because if there is a unique subarray of length len, then there is also a unique subarray of some length > len.
+Hint 4: For each checked length, store frequencies of hashes in a hashmap. If any hash has frequency 1, that length works.
 
 ```
 
@@ -71,16 +61,35 @@ Constraints:
 
 [SourceCode](./solution.js)
 
-## 题目翻译
+## Description (English)
 
-返回与数组中**任何其他子数组**都不同的子数组的最小长度（相同 = 等长且对应位置相同）。
+You are given an integer array `nums`.
 
-示例 1：`[3,3,3]` → `3`（长度 1、2 均重复）；示例 2：`[2,1,2,3,3]` → `1`
+Find the minimum length of a subarray of `nums` that is different from any other subarray. Return an integer denoting the minimum possible length of such a subarray.
 
-约束：n ≤ 10^5
+A subarray is a contiguous non-empty sequence of elements within an array.
 
-## 解题思路
+Two subarrays are considered the same if they have the same length and the elements at corresponding positions are equal.
 
-关键：**唯一性随长度单调**——长度 L 的窗口唯一 ⟹ 包含它的 L+1 窗口也唯一（相同副本会蕴含相同的 L 段）→ 二分 L。
+Example 1: nums = [3,3,3] → Output: 3
+- Length-1 subarrays: [3] → occurs 3 times
+- Length-2 subarrays: [3,3] → occurs 2 times
+- Length-3 subarrays: [3,3,3] → occurs 1 time (unique, so the answer is 3)
 
-判定：滚动双哈希（两素数模）计数所有长度 L 窗口，存在计数 = 1 即真。O(n log n)。小规模与暴力对拍一致。
+Example 2: nums = [2,1,2,3,3] → Output: 1 (subarray [1] occurs exactly once)
+
+Example 3: nums = [1,1,2,2,1] → Output: 2 (every length-1 subarray repeats; e.g. [1,1] occurs exactly once)
+
+Constraints: 1 <= nums.length <= 10^5, 1 <= nums[i] <= 10^5
+
+## Approach
+
+**Binary search on the answer + rolling hash counting.**
+
+For a fixed length `len`, define f(len) = true iff at least one subarray of length `len` occurs exactly once in `nums`.
+
+Monotonicity: if some length-`len` subarray `s` starting at `i` is unique, then a length-`len+1` unique subarray also exists. Any occurrence of the extension `s + [nums[i+len]]` must start at a position where `s` occurs (its prefix equals `s`), which is only `i`; likewise `s` can be extended left when it touches the right end. The only non-extendable case is `len = n`, where the whole array is trivially unique. Hence f is false, false, ..., false, true, ..., true over `len ∈ [1, n]`, and binary search finds the minimal true length.
+
+check(len): preprocess prefix polynomial hashes (two independent base/mod pairs to make collisions negligible), then each subarray hash is computed in O(1) by the rolling formula. Count frequencies in a hash map; return true if any hash has frequency 1. Note a collision can only merge counts, so it can never report a false positive.
+
+Complexity: O(n log n) time, O(n) space.
